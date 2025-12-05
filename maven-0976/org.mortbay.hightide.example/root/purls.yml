@@ -1,0 +1,5 @@
+- pkg:maven/org.mortbay.hightide.example/root@6.1H.14.1?type=war
+- pkg:maven/org.mortbay.hightide.example/root@6.1H.14?type=war
+- pkg:maven/org.mortbay.hightide.example/root@6.1H.22?type=war
+- pkg:maven/org.mortbay.hightide.example/root@6.1H.24?classifier=sources
+- pkg:maven/org.mortbay.hightide.example/root@6.1H.24?type=war

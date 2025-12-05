@@ -1,0 +1,4 @@
+- pkg:maven/com.jayway.maven.plugins.android.generation1.plugins/maven-par-plugin@1.0.1
+- pkg:maven/com.jayway.maven.plugins.android.generation1.plugins/maven-par-plugin@1.0.1?classifier=sources
+- pkg:maven/com.jayway.maven.plugins.android.generation1.plugins/maven-par-plugin@1.0.2
+- pkg:maven/com.jayway.maven.plugins.android.generation1.plugins/maven-par-plugin@1.0.2?classifier=sources

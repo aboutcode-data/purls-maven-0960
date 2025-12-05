@@ -1,0 +1,6 @@
+- pkg:maven/org.easyb/easyb-dbunit-plugin@0.7
+- pkg:maven/org.easyb/easyb-dbunit-plugin@0.7?classifier=sources
+- pkg:maven/org.easyb/easyb-dbunit-plugin@0.8
+- pkg:maven/org.easyb/easyb-dbunit-plugin@0.8?classifier=sources
+- pkg:maven/org.easyb/easyb-dbunit-plugin@0.9
+- pkg:maven/org.easyb/easyb-dbunit-plugin@0.9?classifier=sources

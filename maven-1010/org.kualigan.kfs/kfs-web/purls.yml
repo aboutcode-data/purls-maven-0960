@@ -1,0 +1,14 @@
+- pkg:maven/org.kualigan.kfs/kfs-web@0.0.24?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@0.0.24?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.3?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.3?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.4?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.4?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.5?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@1.0.5?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@4.1.1-11?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@4.1.1-11?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@4.1.1-7?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@4.1.1-7?type=war
+- pkg:maven/org.kualigan.kfs/kfs-web@4.1.1-8?classifier=sources
+- pkg:maven/org.kualigan.kfs/kfs-web@4.1.1-8?type=war

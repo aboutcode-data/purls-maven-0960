@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.hadoop/hadoop-core@0.20.0
+- pkg:maven/com.facebook.hadoop/hadoop-core@0.20.0?classifier=sources

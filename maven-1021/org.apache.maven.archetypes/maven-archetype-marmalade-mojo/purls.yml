@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.maven.archetypes/maven-archetype-marmalade-mojo@1.0-alpha-1
+- pkg:maven/org.apache.maven.archetypes/maven-archetype-marmalade-mojo@1.0-alpha-2
+- pkg:maven/org.apache.maven.archetypes/maven-archetype-marmalade-mojo@1.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.maven.archetypes/maven-archetype-marmalade-mojo@1.0-alpha-3

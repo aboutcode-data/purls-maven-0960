@@ -1,0 +1,4 @@
+- pkg:maven/org.abstractmeta/code-g-maven-plugin@0.3.0
+- pkg:maven/org.abstractmeta/code-g-maven-plugin@0.3.0?classifier=sources
+- pkg:maven/org.abstractmeta/code-g-maven-plugin@0.4.0
+- pkg:maven/org.abstractmeta/code-g-maven-plugin@0.4.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.admc/relames@0.2
+- pkg:maven/com.admc/relames@0.2?classifier=sources
+- pkg:maven/com.admc/relames@0.3.0
+- pkg:maven/com.admc/relames@0.3.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec@1.0.0.Alpha1
+- pkg:maven/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec@1.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec@1.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec@1.0.0.Final
+- pkg:maven/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.annotation/jboss-annotations-api_1.2_spec@1.0.0.Final?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.maven-hadoop.plugin/maven-hadoop-plugin@0.20.0
+- pkg:maven/com.github.maven-hadoop.plugin/maven-hadoop-plugin@0.20.0?classifier=sources
+- pkg:maven/com.github.maven-hadoop.plugin/maven-hadoop-plugin@0.20.1
+- pkg:maven/com.github.maven-hadoop.plugin/maven-hadoop-plugin@0.20.1?classifier=sources

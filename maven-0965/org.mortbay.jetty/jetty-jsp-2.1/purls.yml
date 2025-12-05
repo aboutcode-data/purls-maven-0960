@@ -1,0 +1,12 @@
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.0.RC5
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.0.RC5?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.0.RC6
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.0.RC6?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.0.v20091005
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.0.v20091005?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.1.v20091125
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.1.v20091125?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.2.RC0
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.2.RC0?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.2.v20100331
+- pkg:maven/org.mortbay.jetty/jetty-jsp-2.1@7.0.2.v20100331?classifier=sources

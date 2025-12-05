@@ -1,0 +1,4 @@
+- pkg:maven/net.fortytwo.ripple/ripple-scriptengine@1.0
+- pkg:maven/net.fortytwo.ripple/ripple-scriptengine@1.0?classifier=sources
+- pkg:maven/net.fortytwo.ripple/ripple-scriptengine@1.1
+- pkg:maven/net.fortytwo.ripple/ripple-scriptengine@1.1?classifier=sources

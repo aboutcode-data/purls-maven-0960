@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@0.19
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@0.19?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@0.20.0
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@0.20.0?classifier=sources

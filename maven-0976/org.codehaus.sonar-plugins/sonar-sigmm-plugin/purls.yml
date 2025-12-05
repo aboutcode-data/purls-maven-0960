@@ -1,0 +1,10 @@
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.1
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.2
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.2?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.3
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.3.1
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.3.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@0.3?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@1.0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-sigmm-plugin@1.0?classifier=sources

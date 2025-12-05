@@ -1,0 +1,4 @@
+- pkg:maven/org.scijava/jep@2.4.1
+- pkg:maven/org.scijava/jep@2.4.1?classifier=sources
+- pkg:maven/org.scijava/jep@2.4.2
+- pkg:maven/org.scijava/jep@2.4.2?classifier=sources

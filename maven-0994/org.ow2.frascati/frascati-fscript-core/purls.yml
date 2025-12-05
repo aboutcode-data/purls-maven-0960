@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.frascati/frascati-fscript-core@1.3
+- pkg:maven/org.ow2.frascati/frascati-fscript-core@1.3?classifier=sources
+- pkg:maven/org.ow2.frascati/frascati-fscript-core@1.4
+- pkg:maven/org.ow2.frascati/frascati-fscript-core@1.4?classifier=sources

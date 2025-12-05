@@ -1,0 +1,14 @@
+- pkg:maven/org.apache.qpid/qpid-management-common@0.14
+- pkg:maven/org.apache.qpid/qpid-management-common@0.14?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@0.16
+- pkg:maven/org.apache.qpid/qpid-management-common@0.16?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@0.18
+- pkg:maven/org.apache.qpid/qpid-management-common@0.18?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@0.20
+- pkg:maven/org.apache.qpid/qpid-management-common@0.20?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@0.22
+- pkg:maven/org.apache.qpid/qpid-management-common@0.22?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@0.24
+- pkg:maven/org.apache.qpid/qpid-management-common@0.24?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-management-common@0.26
+- pkg:maven/org.apache.qpid/qpid-management-common@0.26?classifier=sources

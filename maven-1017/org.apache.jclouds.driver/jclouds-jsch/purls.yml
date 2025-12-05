@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.6.1-incubating
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.6.1-incubating?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.6.2-incubating
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.6.2-incubating?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.6.3
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.6.3?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.7.0
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.7.0?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.7.1
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.7.1?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.7.2
+- pkg:maven/org.apache.jclouds.driver/jclouds-jsch@1.7.2?classifier=sources

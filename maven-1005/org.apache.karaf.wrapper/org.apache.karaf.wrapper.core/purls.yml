@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.0
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.0.RC1
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.0.RC1?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.1
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.1?classifier=sources

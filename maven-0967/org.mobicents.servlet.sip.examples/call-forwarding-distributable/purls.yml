@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.servlet.sip.examples/call-forwarding-distributable@1.7.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.examples/call-forwarding-distributable@1.7.0.FINAL?type=war
+- pkg:maven/org.mobicents.servlet.sip.examples/call-forwarding-distributable@2.0.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.examples/call-forwarding-distributable@2.0.0.FINAL?type=war

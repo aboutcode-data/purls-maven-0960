@@ -1,0 +1,16 @@
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M1
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M1?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M2
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M2?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M3
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M3?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M4
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.M4?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.RELEASE
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.1.RELEASE
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.0.1.RELEASE?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.1.0.M1
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.1.0.M1?classifier=sources
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.1.0.RELEASE
+- pkg:maven/org.fuzzydb/org.fuzzydb.server@1.1.0.RELEASE?classifier=sources

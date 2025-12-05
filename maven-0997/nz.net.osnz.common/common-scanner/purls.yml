@@ -1,0 +1,10 @@
+- pkg:maven/nz.net.osnz.common/common-scanner@1.1
+- pkg:maven/nz.net.osnz.common/common-scanner@1.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-scanner@1.2
+- pkg:maven/nz.net.osnz.common/common-scanner@1.2?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-scanner@2.1
+- pkg:maven/nz.net.osnz.common/common-scanner@2.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-scanner@3.1
+- pkg:maven/nz.net.osnz.common/common-scanner@3.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-scanner@3.2
+- pkg:maven/nz.net.osnz.common/common-scanner@3.2?classifier=sources

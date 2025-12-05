@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@0.1-incubating
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@0.2-incubating
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@0.3
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@0.3?classifier=sources
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@1.0.0
+- pkg:maven/org.apache.aries.samples.ariestrader/org.apache.aries.samples.ariestrader.persist.jpa.cm@1.0.0?classifier=sources

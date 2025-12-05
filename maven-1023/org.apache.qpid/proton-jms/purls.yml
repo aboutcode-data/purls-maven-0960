@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.qpid/proton-jms@0.3
+- pkg:maven/org.apache.qpid/proton-jms@0.3?classifier=sources
+- pkg:maven/org.apache.qpid/proton-jms@0.4
+- pkg:maven/org.apache.qpid/proton-jms@0.4?classifier=sources
+- pkg:maven/org.apache.qpid/proton-jms@0.5
+- pkg:maven/org.apache.qpid/proton-jms@0.5?classifier=sources
+- pkg:maven/org.apache.qpid/proton-jms@0.6
+- pkg:maven/org.apache.qpid/proton-jms@0.6?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.CR1
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.CR1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.CR2
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.GA
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.GA?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.SP1
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.0.SP1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.1.GA
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.1.GA?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.2.GA
+- pkg:maven/org.hibernate/hibernate-jbosscache2@3.3.2.GA?classifier=sources

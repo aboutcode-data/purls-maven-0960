@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.enunciate/enunciate-integration-epcis@1.10-RC1?type=war
+- pkg:maven/org.codehaus.enunciate/enunciate-integration-epcis@1.10-RC2?type=war
+- pkg:maven/org.codehaus.enunciate/enunciate-integration-epcis@1.10-RC3?type=war
+- pkg:maven/org.codehaus.enunciate/enunciate-integration-epcis@1.10?type=war

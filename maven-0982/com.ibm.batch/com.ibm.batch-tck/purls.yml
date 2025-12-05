@@ -1,0 +1,8 @@
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b02
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b02?classifier=sources
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b03
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b03?classifier=sources
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b04
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b04?classifier=sources
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b05
+- pkg:maven/com.ibm.batch/com.ibm.batch-tck@1.0-b05?classifier=sources

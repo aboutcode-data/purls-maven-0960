@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.weblab.service/annotation-cleaner@1.6?classifier=sources
+- pkg:maven/org.ow2.weblab.service/annotation-cleaner@1.6?type=war
+- pkg:maven/org.ow2.weblab.service/annotation-cleaner@1.7?classifier=sources
+- pkg:maven/org.ow2.weblab.service/annotation-cleaner@1.7?type=war

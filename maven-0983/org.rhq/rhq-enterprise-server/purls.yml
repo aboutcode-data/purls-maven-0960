@@ -1,0 +1,13 @@
+- pkg:maven/org.rhq/rhq-enterprise-server@1.4.0.B01?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@3.0.0.EmbJopr4?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@3.0.0.EmbJopr5?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.0.1?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.10.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.2.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.3.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.4.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.5.1?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.6.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.7.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.8.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server@4.9.0?classifier=sources

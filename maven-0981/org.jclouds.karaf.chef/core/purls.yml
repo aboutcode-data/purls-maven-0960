@@ -1,0 +1,12 @@
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.4
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.4?classifier=sources
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.5
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.5?classifier=sources
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.7
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.7?classifier=sources
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.7_1
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.7_1?classifier=sources
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.8
+- pkg:maven/org.jclouds.karaf.chef/core@1.5.8?classifier=sources
+- pkg:maven/org.jclouds.karaf.chef/core@1.6.0
+- pkg:maven/org.jclouds.karaf.chef/core@1.6.0?classifier=sources

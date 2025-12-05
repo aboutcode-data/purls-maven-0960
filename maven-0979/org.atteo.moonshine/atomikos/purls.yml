@@ -1,0 +1,4 @@
+- pkg:maven/org.atteo.moonshine/atomikos@0.9
+- pkg:maven/org.atteo.moonshine/atomikos@0.9?classifier=sources
+- pkg:maven/org.atteo.moonshine/atomikos@1.0.RC1
+- pkg:maven/org.atteo.moonshine/atomikos@1.0.RC1?classifier=sources

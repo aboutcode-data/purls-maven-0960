@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.0.1?classifier=sources
+- pkg:maven/com.ibm.sbt/acme.social.sample.dataapp@1.0.1?type=war

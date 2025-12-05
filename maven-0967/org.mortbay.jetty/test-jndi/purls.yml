@@ -1,0 +1,2 @@
+- pkg:maven/org.mortbay.jetty/test-jndi@6.0.0beta10?classifier=sources
+- pkg:maven/org.mortbay.jetty/test-jndi@6.0.0beta10?type=war

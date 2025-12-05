@@ -1,0 +1,6 @@
+- pkg:maven/displaytag/displaytag-examples@1.1.1?classifier=sources
+- pkg:maven/displaytag/displaytag-examples@1.1.1?type=war
+- pkg:maven/displaytag/displaytag-examples@1.1?classifier=sources
+- pkg:maven/displaytag/displaytag-examples@1.1?type=war
+- pkg:maven/displaytag/displaytag-examples@1.2?classifier=sources
+- pkg:maven/displaytag/displaytag-examples@1.2?type=war

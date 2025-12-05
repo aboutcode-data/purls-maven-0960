@@ -1,0 +1,6 @@
+- pkg:maven/org.deri.xsparql/webapp@0.3?classifier=sources
+- pkg:maven/org.deri.xsparql/webapp@0.3?type=war
+- pkg:maven/org.deri.xsparql/webapp@0.4?classifier=sources
+- pkg:maven/org.deri.xsparql/webapp@0.4?type=war
+- pkg:maven/org.deri.xsparql/webapp@0.5?classifier=sources
+- pkg:maven/org.deri.xsparql/webapp@0.5?type=war

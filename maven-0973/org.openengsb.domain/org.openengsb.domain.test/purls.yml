@@ -1,0 +1,6 @@
+- pkg:maven/org.openengsb.domain/org.openengsb.domain.test@2.0.0
+- pkg:maven/org.openengsb.domain/org.openengsb.domain.test@2.0.0?classifier=sources
+- pkg:maven/org.openengsb.domain/org.openengsb.domain.test@2.0.0?classifier=src&type=zip
+- pkg:maven/org.openengsb.domain/org.openengsb.domain.test@2.0.1
+- pkg:maven/org.openengsb.domain/org.openengsb.domain.test@2.0.1?classifier=sources
+- pkg:maven/org.openengsb.domain/org.openengsb.domain.test@2.0.1?classifier=src&type=zip

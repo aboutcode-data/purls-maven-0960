@@ -1,0 +1,4 @@
+- pkg:maven/io.tesla.jettyconsole/jetty-console-ajp-plugin@1.46
+- pkg:maven/io.tesla.jettyconsole/jetty-console-ajp-plugin@1.46?classifier=sources
+- pkg:maven/io.tesla.jettyconsole/jetty-console-ajp-plugin@1.47
+- pkg:maven/io.tesla.jettyconsole/jetty-console-ajp-plugin@1.47?classifier=sources

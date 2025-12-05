@@ -1,0 +1,2 @@
+- pkg:maven/org.spark-project.akka/akka-actor_2.10@2.2.3-shaded-protobuf
+- pkg:maven/org.spark-project.akka/akka-actor_2.10@2.2.3-shaded-protobuf?classifier=sources

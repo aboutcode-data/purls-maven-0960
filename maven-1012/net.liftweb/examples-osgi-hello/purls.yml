@@ -1,0 +1,12 @@
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M3
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M3?classifier=sources
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M4
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M4?classifier=sources
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M5
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M5?classifier=sources
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M6
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M6?classifier=sources
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M7
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M8
+- pkg:maven/net.liftweb/examples-osgi-hello@1.1-M8?classifier=sources
+- pkg:maven/net.liftweb/examples-osgi-hello@2.0-M4

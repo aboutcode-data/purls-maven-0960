@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.geronimo.samples.javaee5/calculator-war@3.0-beta-1?classifier=sources
+- pkg:maven/org.apache.geronimo.samples.javaee5/calculator-war@3.0-beta-1?type=war
+- pkg:maven/org.apache.geronimo.samples.javaee5/calculator-war@3.0.0?classifier=sources
+- pkg:maven/org.apache.geronimo.samples.javaee5/calculator-war@3.0.0?type=war

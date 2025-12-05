@@ -1,0 +1,6 @@
+- pkg:maven/com.sonyericsson.hudson.plugins.gerrit/gerrit-events@1.0
+- pkg:maven/com.sonyericsson.hudson.plugins.gerrit/gerrit-events@1.0?classifier=sources
+- pkg:maven/com.sonyericsson.hudson.plugins.gerrit/gerrit-events@1.1.0
+- pkg:maven/com.sonyericsson.hudson.plugins.gerrit/gerrit-events@1.1.0?classifier=sources
+- pkg:maven/com.sonyericsson.hudson.plugins.gerrit/gerrit-events@1.2.0
+- pkg:maven/com.sonyericsson.hudson.plugins.gerrit/gerrit-events@1.2.0?classifier=sources

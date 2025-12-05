@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.18
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.18?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.20
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.20?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.22
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.22?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.24
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.24?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.26
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-common@0.26?classifier=sources

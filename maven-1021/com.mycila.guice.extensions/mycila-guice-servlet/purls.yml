@@ -1,0 +1,4 @@
+- pkg:maven/com.mycila.guice.extensions/mycila-guice-servlet@3.0.rc1
+- pkg:maven/com.mycila.guice.extensions/mycila-guice-servlet@3.0.rc1?classifier=sources
+- pkg:maven/com.mycila.guice.extensions/mycila-guice-servlet@3.1.ga
+- pkg:maven/com.mycila.guice.extensions/mycila-guice-servlet@3.1.ga?classifier=sources

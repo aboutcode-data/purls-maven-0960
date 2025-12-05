@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.0.0
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.0.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.2.0
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.2.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.4.0
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.4.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.6.0
+- pkg:maven/org.apache.felix.karaf/org.apache.felix.karaf.client@1.6.0?classifier=sources

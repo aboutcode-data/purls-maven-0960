@@ -1,0 +1,14 @@
+- pkg:maven/org.mod4j/mod4j-service-generator@1.0.0
+- pkg:maven/org.mod4j/mod4j-service-generator@1.0.0-beta-3
+- pkg:maven/org.mod4j/mod4j-service-generator@1.0.0-beta-3?classifier=sources
+- pkg:maven/org.mod4j/mod4j-service-generator@1.0.0?classifier=sources
+- pkg:maven/org.mod4j/mod4j-service-generator@1.0.1
+- pkg:maven/org.mod4j/mod4j-service-generator@1.0.1?classifier=sources
+- pkg:maven/org.mod4j/mod4j-service-generator@1.1.0
+- pkg:maven/org.mod4j/mod4j-service-generator@1.1.0?classifier=sources
+- pkg:maven/org.mod4j/mod4j-service-generator@1.2.0
+- pkg:maven/org.mod4j/mod4j-service-generator@1.2.0?classifier=sources
+- pkg:maven/org.mod4j/mod4j-service-generator@1.2.1
+- pkg:maven/org.mod4j/mod4j-service-generator@1.2.1?classifier=sources
+- pkg:maven/org.mod4j/mod4j-service-generator@1.3.0
+- pkg:maven/org.mod4j/mod4j-service-generator@1.3.0?classifier=sources

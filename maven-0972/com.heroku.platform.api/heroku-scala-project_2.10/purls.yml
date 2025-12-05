@@ -1,0 +1,6 @@
+- pkg:maven/com.heroku.platform.api/heroku-scala-project_2.10@0.0.1-BETA
+- pkg:maven/com.heroku.platform.api/heroku-scala-project_2.10@0.0.1-BETA?classifier=sources
+- pkg:maven/com.heroku.platform.api/heroku-scala-project_2.10@0.0.2-BETA
+- pkg:maven/com.heroku.platform.api/heroku-scala-project_2.10@0.0.2-BETA?classifier=sources
+- pkg:maven/com.heroku.platform.api/heroku-scala-project_2.10@0.0.3
+- pkg:maven/com.heroku.platform.api/heroku-scala-project_2.10@0.0.3?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.stanbol/stanbol-parent@1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.stanbol/stanbol-parent@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.stanbol/stanbol-parent@3?classifier=source-release&type=zip

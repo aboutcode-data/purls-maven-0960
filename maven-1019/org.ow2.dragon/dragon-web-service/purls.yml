@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.dragon/dragon-web-service@1.0-alpha?classifier=sources
+- pkg:maven/org.ow2.dragon/dragon-web-service@1.0-alpha?type=war
+- pkg:maven/org.ow2.dragon/dragon-web-service@1.0?classifier=sources
+- pkg:maven/org.ow2.dragon/dragon-web-service@1.0?type=war

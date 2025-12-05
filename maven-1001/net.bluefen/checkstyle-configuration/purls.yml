@@ -1,0 +1,4 @@
+- pkg:maven/net.bluefen/checkstyle-configuration@1
+- pkg:maven/net.bluefen/checkstyle-configuration@1?classifier=sources
+- pkg:maven/net.bluefen/checkstyle-configuration@2
+- pkg:maven/net.bluefen/checkstyle-configuration@2?classifier=sources

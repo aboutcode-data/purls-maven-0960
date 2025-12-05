@@ -1,0 +1,6 @@
+- pkg:maven/de.softwareforge.mojo/maven-protoc-plugin@0.1.11
+- pkg:maven/de.softwareforge.mojo/maven-protoc-plugin@0.1.11?classifier=sources
+- pkg:maven/de.softwareforge.mojo/maven-protoc-plugin@0.2-HPS-1
+- pkg:maven/de.softwareforge.mojo/maven-protoc-plugin@0.2-HPS-1?classifier=sources
+- pkg:maven/de.softwareforge.mojo/maven-protoc-plugin@0.2-HPS-2
+- pkg:maven/de.softwareforge.mojo/maven-protoc-plugin@0.2-HPS-2?classifier=sources

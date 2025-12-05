@@ -1,0 +1,4 @@
+- pkg:maven/net.oneandone.maven.poms/foss-configs@1.1
+- pkg:maven/net.oneandone.maven.poms/foss-configs@1.1?classifier=sources
+- pkg:maven/net.oneandone.maven.poms/foss-configs@1.2
+- pkg:maven/net.oneandone.maven.poms/foss-configs@1.2?classifier=sources

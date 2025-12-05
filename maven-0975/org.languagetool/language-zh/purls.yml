@@ -1,0 +1,10 @@
+- pkg:maven/org.languagetool/language-zh@2.1
+- pkg:maven/org.languagetool/language-zh@2.1?classifier=sources
+- pkg:maven/org.languagetool/language-zh@2.2
+- pkg:maven/org.languagetool/language-zh@2.2?classifier=sources
+- pkg:maven/org.languagetool/language-zh@2.3.1
+- pkg:maven/org.languagetool/language-zh@2.3.1?classifier=sources
+- pkg:maven/org.languagetool/language-zh@2.4
+- pkg:maven/org.languagetool/language-zh@2.4?classifier=sources
+- pkg:maven/org.languagetool/language-zh@2.5
+- pkg:maven/org.languagetool/language-zh@2.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.plexus.archiver/plexus-archiver-zip@1.0
+- pkg:maven/org.sonatype.plexus.archiver/plexus-archiver-zip@1.0?classifier=sources

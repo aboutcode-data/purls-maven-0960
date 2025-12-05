@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.modules/geronimo-naming@1.2-beta
+- pkg:maven/org.apache.geronimo.modules/geronimo-naming@1.2-beta?classifier=sources
+- pkg:maven/org.apache.geronimo.modules/geronimo-naming@2.0.1
+- pkg:maven/org.apache.geronimo.modules/geronimo-naming@2.0.1?classifier=sources
+- pkg:maven/org.apache.geronimo.modules/geronimo-naming@2.0.2
+- pkg:maven/org.apache.geronimo.modules/geronimo-naming@2.0.2?classifier=sources

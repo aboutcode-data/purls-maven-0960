@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.cayenne/cayenne-nodeps@2.0.2
+- pkg:maven/org.apache.cayenne/cayenne-nodeps@2.0.2?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-nodeps@2.0.3
+- pkg:maven/org.apache.cayenne/cayenne-nodeps@2.0.3?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-nodeps@2.0.4
+- pkg:maven/org.apache.cayenne/cayenne-nodeps@2.0.4?classifier=sources

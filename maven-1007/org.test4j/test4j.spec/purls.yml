@@ -1,0 +1,4 @@
+- pkg:maven/org.test4j/test4j.spec@2.0.4
+- pkg:maven/org.test4j/test4j.spec@2.0.4?classifier=sources
+- pkg:maven/org.test4j/test4j.spec@2.0.5
+- pkg:maven/org.test4j/test4j.spec@2.0.5?classifier=sources

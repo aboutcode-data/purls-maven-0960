@@ -1,0 +1,10 @@
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.10.0
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.10.0?classifier=sources
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.6.0
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.6.0?classifier=sources
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.7.0
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.7.0?classifier=sources
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.8.0
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.8.0?classifier=sources
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.9.0
+- pkg:maven/org.sonatype.tycho/tycho-bootstrap-maven-plugin@0.9.0?classifier=sources

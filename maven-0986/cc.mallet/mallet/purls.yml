@@ -1,0 +1,4 @@
+- pkg:maven/cc.mallet/mallet@2.0.7
+- pkg:maven/cc.mallet/mallet@2.0.7-RC2
+- pkg:maven/cc.mallet/mallet@2.0.7-RC2?classifier=sources
+- pkg:maven/cc.mallet/mallet@2.0.7?classifier=sources

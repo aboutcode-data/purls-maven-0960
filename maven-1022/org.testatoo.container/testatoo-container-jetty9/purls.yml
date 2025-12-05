@@ -1,0 +1,4 @@
+- pkg:maven/org.testatoo.container/testatoo-container-jetty9@2.0.ga
+- pkg:maven/org.testatoo.container/testatoo-container-jetty9@2.0.ga?classifier=sources
+- pkg:maven/org.testatoo.container/testatoo-container-jetty9@2.1.ga
+- pkg:maven/org.testatoo.container/testatoo-container-jetty9@2.1.ga?classifier=sources

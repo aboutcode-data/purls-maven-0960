@@ -1,0 +1,4 @@
+- pkg:maven/net.vidageek/i18n@0.4
+- pkg:maven/net.vidageek/i18n@0.4?classifier=sources
+- pkg:maven/net.vidageek/i18n@0.5
+- pkg:maven/net.vidageek/i18n@0.5?classifier=sources

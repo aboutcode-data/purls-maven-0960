@@ -1,0 +1,4 @@
+- pkg:maven/org.multiverse/multiverse-scala@0.5
+- pkg:maven/org.multiverse/multiverse-scala@0.5.2
+- pkg:maven/org.multiverse/multiverse-scala@0.5.2?classifier=sources
+- pkg:maven/org.multiverse/multiverse-scala@0.5?classifier=sources

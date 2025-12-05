@@ -1,0 +1,11 @@
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.0.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.0?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.3.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.4.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.4?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.5.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.5?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.6?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/server-async-standalone@2.7?classifier=project-src&type=zip

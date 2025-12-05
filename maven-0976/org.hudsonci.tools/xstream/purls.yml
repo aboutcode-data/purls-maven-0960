@@ -1,0 +1,4 @@
+- pkg:maven/org.hudsonci.tools/xstream@1.4.1-hudson-1
+- pkg:maven/org.hudsonci.tools/xstream@1.4.1-hudson-1?classifier=sources
+- pkg:maven/org.hudsonci.tools/xstream@1.4.1-hudson-2
+- pkg:maven/org.hudsonci.tools/xstream@1.4.1-hudson-2?classifier=sources

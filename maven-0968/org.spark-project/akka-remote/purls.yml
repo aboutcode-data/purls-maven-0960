@@ -1,0 +1,6 @@
+- pkg:maven/org.spark-project/akka-remote@2.0.5-pb-2.5
+- pkg:maven/org.spark-project/akka-remote@2.0.5-pb-2.5?classifier=sources
+- pkg:maven/org.spark-project/akka-remote@2.0.5-protobuf-2.5
+- pkg:maven/org.spark-project/akka-remote@2.0.5-protobuf-2.5-java-1.5
+- pkg:maven/org.spark-project/akka-remote@2.0.5-protobuf-2.5-java-1.5?classifier=sources
+- pkg:maven/org.spark-project/akka-remote@2.0.5-protobuf-2.5?classifier=sources

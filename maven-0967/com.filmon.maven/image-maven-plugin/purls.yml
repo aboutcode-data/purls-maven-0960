@@ -1,0 +1,4 @@
+- pkg:maven/com.filmon.maven/image-maven-plugin@1.0
+- pkg:maven/com.filmon.maven/image-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.filmon.maven/image-maven-plugin@1.1
+- pkg:maven/com.filmon.maven/image-maven-plugin@1.1?classifier=sources

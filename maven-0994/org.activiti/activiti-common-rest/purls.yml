@@ -1,0 +1,6 @@
+- pkg:maven/org.activiti/activiti-common-rest@5.14
+- pkg:maven/org.activiti/activiti-common-rest@5.14?classifier=sources
+- pkg:maven/org.activiti/activiti-common-rest@5.15
+- pkg:maven/org.activiti/activiti-common-rest@5.15.1
+- pkg:maven/org.activiti/activiti-common-rest@5.15.1?classifier=sources
+- pkg:maven/org.activiti/activiti-common-rest@5.15?classifier=sources

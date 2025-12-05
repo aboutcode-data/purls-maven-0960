@@ -1,0 +1,4 @@
+- pkg:maven/org.commonjava.maven.plugins/unsigner-maven-plugin@0.1
+- pkg:maven/org.commonjava.maven.plugins/unsigner-maven-plugin@0.1?classifier=sources
+- pkg:maven/org.commonjava.maven.plugins/unsigner-maven-plugin@0.2
+- pkg:maven/org.commonjava.maven.plugins/unsigner-maven-plugin@0.2?classifier=sources

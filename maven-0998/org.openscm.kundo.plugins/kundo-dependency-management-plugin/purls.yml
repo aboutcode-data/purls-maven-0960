@@ -1,0 +1,7 @@
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.7
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.7?classifier=sources
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.8
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.8?classifier=sources
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.9
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.9.1
+- pkg:maven/org.openscm.kundo.plugins/kundo-dependency-management-plugin@0.9?classifier=sources

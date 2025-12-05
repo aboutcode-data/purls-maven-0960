@@ -1,0 +1,8 @@
+- pkg:maven/com.madgag/mini-git-server-server@0.1
+- pkg:maven/com.madgag/mini-git-server-server@0.1?classifier=sources
+- pkg:maven/com.madgag/mini-git-server-server@0.2
+- pkg:maven/com.madgag/mini-git-server-server@0.2?classifier=sources
+- pkg:maven/com.madgag/mini-git-server-server@0.3
+- pkg:maven/com.madgag/mini-git-server-server@0.3?classifier=sources
+- pkg:maven/com.madgag/mini-git-server-server@0.4
+- pkg:maven/com.madgag/mini-git-server-server@0.4?classifier=sources

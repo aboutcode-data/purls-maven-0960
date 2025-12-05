@@ -1,0 +1,8 @@
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.0.CR1
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.0.CR2
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.0.CR2?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.0.GA
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.0.GA?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.1.GA
+- pkg:maven/org.jboss.jbossas/jboss-as-sprint-int@5.0.1.GA?classifier=sources

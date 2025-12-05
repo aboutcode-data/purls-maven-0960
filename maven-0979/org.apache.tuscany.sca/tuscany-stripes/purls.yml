@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-Beta1
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-Beta1?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-Beta2
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-Beta2?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-Beta3
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-Beta3?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-M2
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-M3
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-M4
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-M5
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-M5.1
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0-M5?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0.1
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0.1?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/tuscany-stripes@2.0?classifier=sources

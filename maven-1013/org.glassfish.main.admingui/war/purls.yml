@@ -1,0 +1,12 @@
+- pkg:maven/org.glassfish.main.admingui/war@3.1.2.2?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@3.1.2.2?type=war
+- pkg:maven/org.glassfish.main.admingui/war@3.1.2?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@3.1.2?type=war
+- pkg:maven/org.glassfish.main.admingui/war@4.0-b33?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@4.0-b33?type=war
+- pkg:maven/org.glassfish.main.admingui/war@4.0-b72?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@4.0-b72?type=war
+- pkg:maven/org.glassfish.main.admingui/war@4.0-b90?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@4.0-b90?type=war
+- pkg:maven/org.glassfish.main.admingui/war@4.0?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@4.0?type=war

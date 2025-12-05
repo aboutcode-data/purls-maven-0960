@@ -1,0 +1,6 @@
+- pkg:maven/eu.stratosphere/stratosphere-scala@0.4
+- pkg:maven/eu.stratosphere/stratosphere-scala@0.4-hadoop2
+- pkg:maven/eu.stratosphere/stratosphere-scala@0.4-hadoop2?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-scala@0.4-rc1
+- pkg:maven/eu.stratosphere/stratosphere-scala@0.4-rc1?classifier=sources
+- pkg:maven/eu.stratosphere/stratosphere-scala@0.4?classifier=sources

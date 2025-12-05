@@ -1,0 +1,8 @@
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.1
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.1?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.2
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.2?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.3
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.3.1
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.3.1?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-scaleout-akka@0.0.3?classifier=sources

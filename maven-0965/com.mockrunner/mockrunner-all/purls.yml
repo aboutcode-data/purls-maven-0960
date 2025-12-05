@@ -1,0 +1,8 @@
+- pkg:maven/com.mockrunner/mockrunner-all@0.4.5
+- pkg:maven/com.mockrunner/mockrunner-all@0.4.5?classifier=sources
+- pkg:maven/com.mockrunner/mockrunner-all@0.4.6
+- pkg:maven/com.mockrunner/mockrunner-all@0.4.6?classifier=sources
+- pkg:maven/com.mockrunner/mockrunner-all@0.4.7
+- pkg:maven/com.mockrunner/mockrunner-all@0.4.7?classifier=sources
+- pkg:maven/com.mockrunner/mockrunner-all@1.0.0
+- pkg:maven/com.mockrunner/mockrunner-all@1.0.0?classifier=sources

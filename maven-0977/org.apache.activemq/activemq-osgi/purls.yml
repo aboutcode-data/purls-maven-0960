@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.activemq/activemq-osgi@5.8.0
+- pkg:maven/org.apache.activemq/activemq-osgi@5.8.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-osgi@5.9.0
+- pkg:maven/org.apache.activemq/activemq-osgi@5.9.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-osgi@5.9.1
+- pkg:maven/org.apache.activemq/activemq-osgi@5.9.1?classifier=sources

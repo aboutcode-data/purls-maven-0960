@@ -1,0 +1,6 @@
+- pkg:maven/de.larmic/larmic-maven-bitbucket-plugin@1.0
+- pkg:maven/de.larmic/larmic-maven-bitbucket-plugin@1.0?classifier=sources
+- pkg:maven/de.larmic/larmic-maven-bitbucket-plugin@1.1
+- pkg:maven/de.larmic/larmic-maven-bitbucket-plugin@1.1?classifier=sources
+- pkg:maven/de.larmic/larmic-maven-bitbucket-plugin@1.2
+- pkg:maven/de.larmic/larmic-maven-bitbucket-plugin@1.2?classifier=sources

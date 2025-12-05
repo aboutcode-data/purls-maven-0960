@@ -1,0 +1,5 @@
+- pkg:maven/org.glassfish.main.packager/glassfish-web-incorporation@3.1.2.2?classifier=sources
+- pkg:maven/org.glassfish.main.packager/glassfish-web-incorporation@3.1.2?classifier=sources
+- pkg:maven/org.glassfish.main.packager/glassfish-web-incorporation@4.0-b33?classifier=sources
+- pkg:maven/org.glassfish.main.packager/glassfish-web-incorporation@4.0-b90?classifier=sources
+- pkg:maven/org.glassfish.main.packager/glassfish-web-incorporation@4.0?classifier=sources

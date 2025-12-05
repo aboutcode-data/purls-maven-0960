@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar-plugins/sonar-php-unit-plugin@0.2
+- pkg:maven/org.codehaus.sonar-plugins/sonar-php-unit-plugin@0.2?classifier=sources

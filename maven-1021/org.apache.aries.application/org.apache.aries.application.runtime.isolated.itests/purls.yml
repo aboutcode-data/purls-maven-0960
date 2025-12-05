@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.runtime.isolated.itests@0.3
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.runtime.isolated.itests@0.3?classifier=sources
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.runtime.isolated.itests@1.0.0
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.runtime.isolated.itests@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.application/org.apache.aries.application.runtime.isolated.itests@1.0.0?classifier=sources

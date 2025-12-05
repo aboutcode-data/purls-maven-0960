@@ -1,0 +1,16 @@
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.0.CR1
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.0.CR2
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.0.CR2?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.0.GA
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.0.GA?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.1.GA
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.0.1.GA?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.1.0.Beta1
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.1.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.1.0.CR1
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.1.0.CR1?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.1.0.GA
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@5.1.0.GA?classifier=sources
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@6.0.0.M1
+- pkg:maven/org.jboss.jbossas/jboss-as-mbeans@6.0.0.M1?classifier=sources

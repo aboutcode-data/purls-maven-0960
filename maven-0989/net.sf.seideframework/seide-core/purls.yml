@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.seideframework/seide-core@r01
+- pkg:maven/net.sf.seideframework/seide-core@r01.1
+- pkg:maven/net.sf.seideframework/seide-core@r01.1?classifier=sources
+- pkg:maven/net.sf.seideframework/seide-core@r01?classifier=sources
+- pkg:maven/net.sf.seideframework/seide-core@r02
+- pkg:maven/net.sf.seideframework/seide-core@r02?classifier=sources

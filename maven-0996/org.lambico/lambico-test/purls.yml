@@ -1,0 +1,4 @@
+- pkg:maven/org.lambico/lambico-test@1.0-beta-05
+- pkg:maven/org.lambico/lambico-test@1.0-beta-05?classifier=sources
+- pkg:maven/org.lambico/lambico-test@1.0-beta-06
+- pkg:maven/org.lambico/lambico-test@1.0-beta-06?classifier=sources

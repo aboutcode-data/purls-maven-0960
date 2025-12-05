@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.jetty.tests/test-jdbc-sessions@7.0.2.RC0
+- pkg:maven/org.eclipse.jetty.tests/test-jdbc-sessions@7.0.2.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-jdbc-sessions@7.0.2.v20100331
+- pkg:maven/org.eclipse.jetty.tests/test-jdbc-sessions@7.0.2.v20100331?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-jdbc-sessions@8.0.0.M0
+- pkg:maven/org.eclipse.jetty.tests/test-jdbc-sessions@8.0.0.M0?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.2.1
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.2.1?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.3.0
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.3.0?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.4.0
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.4.0?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.5.0
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.5.0?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.6.0
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.6.0?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.7.0
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.7.0?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.7.1
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.7.1?classifier=sources
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.7.2
+- pkg:maven/com.carrotsearch/junit-benchmarks@0.7.2?classifier=sources

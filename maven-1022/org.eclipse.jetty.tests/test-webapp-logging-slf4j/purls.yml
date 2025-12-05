@@ -1,0 +1,16 @@
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC0?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC1?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC2?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC2?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC3?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC3?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC4?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC4?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC5?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC5?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC6?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.RC6?type=war
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.v20091005?classifier=sources
+- pkg:maven/org.eclipse.jetty.tests/test-webapp-logging-slf4j@7.0.0.v20091005?type=war

@@ -1,0 +1,8 @@
+- pkg:maven/com.hmsonline/hms-cassandra-rest@0.15.0
+- pkg:maven/com.hmsonline/hms-cassandra-rest@0.15.0?classifier=sources
+- pkg:maven/com.hmsonline/hms-cassandra-rest@0.15.1
+- pkg:maven/com.hmsonline/hms-cassandra-rest@0.15.1?classifier=sources
+- pkg:maven/com.hmsonline/hms-cassandra-rest@0.15.2
+- pkg:maven/com.hmsonline/hms-cassandra-rest@0.15.2?classifier=sources
+- pkg:maven/com.hmsonline/hms-cassandra-rest@1.0.0
+- pkg:maven/com.hmsonline/hms-cassandra-rest@1.0.0?classifier=sources

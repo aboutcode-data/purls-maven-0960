@@ -1,0 +1,13 @@
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@0.8?classifier=sources
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@0.8?type=zip
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.0.0?classifier=sources
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.0.0?type=zip
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.1.0?classifier=sources
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.2.0
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.2.0?classifier=sources
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.3.0
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.3.0?classifier=sources
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.4.0
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.4.0?classifier=sources
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.5.0
+- pkg:maven/com.tinkerpop.rexster.rexster-kibbles/sparql-kibble@2.5.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/nl.topicus.plugins/javassist-maven-plugin@1.0
+- pkg:maven/nl.topicus.plugins/javassist-maven-plugin@1.0?classifier=sources
+- pkg:maven/nl.topicus.plugins/javassist-maven-plugin@1.1
+- pkg:maven/nl.topicus.plugins/javassist-maven-plugin@1.1?classifier=sources
+- pkg:maven/nl.topicus.plugins/javassist-maven-plugin@2.0
+- pkg:maven/nl.topicus.plugins/javassist-maven-plugin@2.0?classifier=sources

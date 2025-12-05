@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.archiva/archiva-web-common@1.4-M3
+- pkg:maven/org.apache.archiva/archiva-web-common@1.4-M3?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-web-common@1.4-M4
+- pkg:maven/org.apache.archiva/archiva-web-common@1.4-M4?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-web-common@2.0.0
+- pkg:maven/org.apache.archiva/archiva-web-common@2.0.0?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-web-common@2.0.1
+- pkg:maven/org.apache.archiva/archiva-web-common@2.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.nouveauxterritoires.maven/wti-maven-plugin@0.10
+- pkg:maven/com.nouveauxterritoires.maven/wti-maven-plugin@0.10?classifier=sources
+- pkg:maven/com.nouveauxterritoires.maven/wti-maven-plugin@0.8
+- pkg:maven/com.nouveauxterritoires.maven/wti-maven-plugin@0.8?classifier=sources

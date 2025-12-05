@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tuscany.sca.samples/sample-binding-comet-weather-webapp@2.0?classifier=sources
+- pkg:maven/org.apache.tuscany.sca.samples/sample-binding-comet-weather-webapp@2.0?type=war

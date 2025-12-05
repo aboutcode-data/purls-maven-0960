@@ -1,0 +1,7 @@
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.1.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.2.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.2?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.3.1?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.3?classifier=sources
+- pkg:maven/org.sonatype.nexus.capabilities/nexus-capabilities-testsuite-helper@2.4?classifier=sources

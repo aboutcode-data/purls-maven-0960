@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@1
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@1?classifier=sources
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@2
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@2?classifier=sources
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@3
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@3?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@3?classifier=sources

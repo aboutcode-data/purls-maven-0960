@@ -1,0 +1,4 @@
+- pkg:maven/javax.xml.stream/stax-api@1.0
+- pkg:maven/javax.xml.stream/stax-api@1.0-2
+- pkg:maven/javax.xml.stream/stax-api@1.0-2?classifier=sources
+- pkg:maven/javax.xml.stream/stax-api@1.0?classifier=sources

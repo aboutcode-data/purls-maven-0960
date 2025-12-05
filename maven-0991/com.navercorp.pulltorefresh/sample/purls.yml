@@ -1,0 +1,4 @@
+- pkg:maven/com.navercorp.pulltorefresh/sample@3.0.0?classifier=sources
+- pkg:maven/com.navercorp.pulltorefresh/sample@3.1.0?classifier=sources
+- pkg:maven/com.navercorp.pulltorefresh/sample@3.2.0?classifier=sources
+- pkg:maven/com.navercorp.pulltorefresh/sample@3.2.1?classifier=sources

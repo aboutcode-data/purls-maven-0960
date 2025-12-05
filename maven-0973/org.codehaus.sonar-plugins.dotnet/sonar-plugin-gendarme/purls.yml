@@ -1,0 +1,7 @@
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.2
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.2?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.3
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.3?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.4?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.5?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-gendarme@0.6?classifier=sources

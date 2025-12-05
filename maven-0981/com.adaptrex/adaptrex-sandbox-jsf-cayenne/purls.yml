@@ -1,0 +1,10 @@
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@0.9.13?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@0.9.13?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@0.9.14?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@0.9.14?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@1.0-Alpha2?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@1.0-Alpha2?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@1.0-Alpha3?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@1.0-Alpha3?type=war
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@1.0-Alpha?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-jsf-cayenne@1.0-Alpha?type=war

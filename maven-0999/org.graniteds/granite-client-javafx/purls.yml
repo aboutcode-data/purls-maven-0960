@@ -1,0 +1,12 @@
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.0.GA
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.0.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.0.M3
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.0.M3?classifier=sources
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.0.RC1
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.0.RC1?classifier=sources
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.1.GA
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.1.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.2.GA
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.2.GA?classifier=sources
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.3.GA
+- pkg:maven/org.graniteds/granite-client-javafx@3.0.3.GA?classifier=sources

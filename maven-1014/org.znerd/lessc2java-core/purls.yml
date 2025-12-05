@@ -1,0 +1,4 @@
+- pkg:maven/org.znerd/lessc2java-core@0.12
+- pkg:maven/org.znerd/lessc2java-core@0.12?classifier=sources
+- pkg:maven/org.znerd/lessc2java-core@0.13
+- pkg:maven/org.znerd/lessc2java-core@0.13?classifier=sources

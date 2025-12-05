@@ -1,0 +1,11 @@
+- pkg:maven/org.opencoweb/coweb-archetype@0.4?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.5?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.6?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.7?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.8.1?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.8.2?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.8.3.1?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.8.3?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.8.4?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@0.8?classifier=sources
+- pkg:maven/org.opencoweb/coweb-archetype@1.0?classifier=sources

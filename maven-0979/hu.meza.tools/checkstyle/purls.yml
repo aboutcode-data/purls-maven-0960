@@ -1,0 +1,6 @@
+- pkg:maven/hu.meza.tools/checkstyle@0.1
+- pkg:maven/hu.meza.tools/checkstyle@0.1?classifier=sources
+- pkg:maven/hu.meza.tools/checkstyle@0.3
+- pkg:maven/hu.meza.tools/checkstyle@0.3?classifier=sources
+- pkg:maven/hu.meza.tools/checkstyle@1.0
+- pkg:maven/hu.meza.tools/checkstyle@1.0?classifier=sources

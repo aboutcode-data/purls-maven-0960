@@ -1,0 +1,10 @@
+- pkg:maven/com.vecna/dbDiff-hibernate@1.1.3
+- pkg:maven/com.vecna/dbDiff-hibernate@1.1.3?classifier=sources
+- pkg:maven/com.vecna/dbDiff-hibernate@1.2
+- pkg:maven/com.vecna/dbDiff-hibernate@1.2?classifier=sources
+- pkg:maven/com.vecna/dbDiff-hibernate@1.3
+- pkg:maven/com.vecna/dbDiff-hibernate@1.3?classifier=sources
+- pkg:maven/com.vecna/dbDiff-hibernate@1.4
+- pkg:maven/com.vecna/dbDiff-hibernate@1.4?classifier=sources
+- pkg:maven/com.vecna/dbDiff-hibernate@1.5
+- pkg:maven/com.vecna/dbDiff-hibernate@1.5?classifier=sources

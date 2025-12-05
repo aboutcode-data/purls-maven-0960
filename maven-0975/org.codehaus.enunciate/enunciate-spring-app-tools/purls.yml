@@ -1,0 +1,10 @@
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.5
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.5-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.6
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.6-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.7
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.7-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.7-RC1?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.7-RC2
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.7-RC2?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-spring-app-tools@1.7?classifier=sources

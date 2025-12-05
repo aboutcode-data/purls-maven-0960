@@ -1,0 +1,6 @@
+- pkg:maven/fr.norad.core/core@0.7
+- pkg:maven/fr.norad.core/core@0.7?classifier=sources
+- pkg:maven/fr.norad.core/core@0.8
+- pkg:maven/fr.norad.core/core@0.8?classifier=sources
+- pkg:maven/fr.norad.core/core@0.9
+- pkg:maven/fr.norad.core/core@0.9?classifier=sources

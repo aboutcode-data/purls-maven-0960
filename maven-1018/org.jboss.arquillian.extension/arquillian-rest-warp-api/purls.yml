@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-rest-warp-api@1.0.0.Alpha1
+- pkg:maven/org.jboss.arquillian.extension/arquillian-rest-warp-api@1.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.arquillian.extension/arquillian-rest-warp-api@1.0.0.Alpha2
+- pkg:maven/org.jboss.arquillian.extension/arquillian-rest-warp-api@1.0.0.Alpha2?classifier=sources

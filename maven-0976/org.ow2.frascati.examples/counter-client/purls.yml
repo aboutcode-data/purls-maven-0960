@@ -1,0 +1,7 @@
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.1.1
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.2
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.2?classifier=sources
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.3
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.3?classifier=sources
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.4
+- pkg:maven/org.ow2.frascati.examples/counter-client@1.4?classifier=sources

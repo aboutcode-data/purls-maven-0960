@@ -1,0 +1,6 @@
+- pkg:maven/org.ops4j.pax.runner/pax-runner-scanner-features@1.0.0
+- pkg:maven/org.ops4j.pax.runner/pax-runner-scanner-features@1.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.runner/pax-runner-scanner-features@1.1.0
+- pkg:maven/org.ops4j.pax.runner/pax-runner-scanner-features@1.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.runner/pax-runner-scanner-features@1.1.1
+- pkg:maven/org.ops4j.pax.runner/pax-runner-scanner-features@1.1.1?classifier=sources

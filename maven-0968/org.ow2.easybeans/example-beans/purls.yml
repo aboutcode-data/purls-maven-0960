@@ -1,0 +1,11 @@
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-M1-JONAS?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-M1?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-M1b-JONAS?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-M2?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-M3-JONAS?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-M3?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-RC1?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-RC2?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0-RC2_JONAS?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.0?classifier=sources
+- pkg:maven/org.ow2.easybeans/example-beans@1.1.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1B1
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1B1?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1B2
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1B2?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1M2
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1M2?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1M3
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1M3?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1RC1
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.1RC1?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.2M1
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@3.2M1?classifier=sources

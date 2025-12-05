@@ -1,0 +1,4 @@
+- pkg:maven/org.mortbay.jetty/jetty-maven-jspc-plugin@7.0.0pre0
+- pkg:maven/org.mortbay.jetty/jetty-maven-jspc-plugin@7.0.0pre0?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-maven-jspc-plugin@7.0.0pre1
+- pkg:maven/org.mortbay.jetty/jetty-maven-jspc-plugin@7.0.0pre1?classifier=sources

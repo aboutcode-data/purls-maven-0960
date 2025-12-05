@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@0.1-incubating
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@0.2-incubating
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@0.3
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@0.3?classifier=sources
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@1.0.0
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@1.0.0?classifier=sources
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@1.1.0
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jmx/org.apache.aries.jmx.api@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.sirocco.vmm/sirocco-vmm-agent-mega-bundle@0.7.0
+- pkg:maven/org.ow2.sirocco.vmm/sirocco-vmm-agent-mega-bundle@0.7.0?classifier=sources
+- pkg:maven/org.ow2.sirocco.vmm/sirocco-vmm-agent-mega-bundle@0.7.1
+- pkg:maven/org.ow2.sirocco.vmm/sirocco-vmm-agent-mega-bundle@0.7.1?classifier=sources

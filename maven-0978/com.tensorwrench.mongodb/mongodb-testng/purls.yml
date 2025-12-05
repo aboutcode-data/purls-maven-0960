@@ -1,0 +1,2 @@
+- pkg:maven/com.tensorwrench.mongodb/mongodb-testng@0.1
+- pkg:maven/com.tensorwrench.mongodb/mongodb-testng@0.1?classifier=sources

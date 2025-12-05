@@ -1,0 +1,4 @@
+- pkg:maven/org.papoose.test.bundles/test-share@1.0.0
+- pkg:maven/org.papoose.test.bundles/test-share@1.0.0?classifier=sources
+- pkg:maven/org.papoose.test.bundles/test-share@1.1.0
+- pkg:maven/org.papoose.test.bundles/test-share@1.1.0?classifier=sources

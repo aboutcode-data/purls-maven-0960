@@ -1,0 +1,8 @@
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.12
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.12?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.13
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.13?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.14
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.14?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.15
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.15?classifier=sources

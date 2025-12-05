@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.ace/org.apache.ace.target.defaults@0.8.0-incubator
+- pkg:maven/org.apache.ace/org.apache.ace.target.defaults@0.8.0-incubator?classifier=sources
+- pkg:maven/org.apache.ace/org.apache.ace.target.defaults@0.8.1-incubator
+- pkg:maven/org.apache.ace/org.apache.ace.target.defaults@0.8.1-incubator?classifier=source-release&type=zip
+- pkg:maven/org.apache.ace/org.apache.ace.target.defaults@0.8.1-incubator?classifier=sources
