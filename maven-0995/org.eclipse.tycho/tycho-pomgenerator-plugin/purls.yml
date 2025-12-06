@@ -20,3 +20,13 @@
 - pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.19.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.20.0
 - pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.20.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.21.0
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.21.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.22.0
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.22.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.23.0
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.23.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.23.1
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.23.1?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.24.0
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.24.0?classifier=sources

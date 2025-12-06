@@ -1,0 +1,4 @@
+- pkg:maven/ch.tutti.android.applover/library@1.0?classifier=sources
+- pkg:maven/ch.tutti.android.applover/library@1.0?type=aar
+- pkg:maven/ch.tutti.android.applover/library@1.1?classifier=sources
+- pkg:maven/ch.tutti.android.applover/library@1.1?type=aar

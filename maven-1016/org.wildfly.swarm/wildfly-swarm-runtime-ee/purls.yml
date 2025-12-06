@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-runtime-ee@1.0.0.Alpha2
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-runtime-ee@1.0.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-runtime-ee@1.0.0.Alpha3
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-runtime-ee@1.0.0.Alpha3?classifier=sources

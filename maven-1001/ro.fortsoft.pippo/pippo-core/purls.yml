@@ -1,0 +1,6 @@
+- pkg:maven/ro.fortsoft.pippo/pippo-core@0.1.0
+- pkg:maven/ro.fortsoft.pippo/pippo-core@0.1.0?classifier=sources
+- pkg:maven/ro.fortsoft.pippo/pippo-core@0.2.0
+- pkg:maven/ro.fortsoft.pippo/pippo-core@0.2.0?classifier=sources
+- pkg:maven/ro.fortsoft.pippo/pippo-core@0.3.0
+- pkg:maven/ro.fortsoft.pippo/pippo-core@0.3.0?classifier=sources

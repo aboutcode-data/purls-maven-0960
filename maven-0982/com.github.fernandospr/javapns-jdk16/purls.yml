@@ -1,2 +1,6 @@
 - pkg:maven/com.github.fernandospr/javapns-jdk16@2.2.1
 - pkg:maven/com.github.fernandospr/javapns-jdk16@2.2.1?classifier=sources
+- pkg:maven/com.github.fernandospr/javapns-jdk16@2.3
+- pkg:maven/com.github.fernandospr/javapns-jdk16@2.3.1
+- pkg:maven/com.github.fernandospr/javapns-jdk16@2.3.1?classifier=sources
+- pkg:maven/com.github.fernandospr/javapns-jdk16@2.3?classifier=sources

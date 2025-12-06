@@ -1,5 +1,6 @@
 - pkg:maven/org.directwebremoting/dwr@2.0.1
 - pkg:maven/org.directwebremoting/dwr@2.0.10?classifier=sources
+- pkg:maven/org.directwebremoting/dwr@2.0.11-RELEASE?classifier=sources
 - pkg:maven/org.directwebremoting/dwr@2.0.1?classifier=sources
 - pkg:maven/org.directwebremoting/dwr@2.0.2
 - pkg:maven/org.directwebremoting/dwr@2.0.2?classifier=sources
@@ -11,5 +12,7 @@
 - pkg:maven/org.directwebremoting/dwr@2.0.rc1?classifier=sources
 - pkg:maven/org.directwebremoting/dwr@2.0.rc2
 - pkg:maven/org.directwebremoting/dwr@2.0.rc2?classifier=sources
+- pkg:maven/org.directwebremoting/dwr@3.0.0-RELEASE?classifier=sources
+- pkg:maven/org.directwebremoting/dwr@3.0.0-rc3-RELEASE?classifier=sources
 - pkg:maven/org.directwebremoting/dwr@3.0.M1
 - pkg:maven/org.directwebremoting/dwr@3.0.M1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.openscore.content/score-mail@0.0.10
+- pkg:maven/io.openscore.content/score-mail@0.0.10?classifier=sources
+- pkg:maven/io.openscore.content/score-mail@0.0.6
+- pkg:maven/io.openscore.content/score-mail@0.0.6?classifier=sources

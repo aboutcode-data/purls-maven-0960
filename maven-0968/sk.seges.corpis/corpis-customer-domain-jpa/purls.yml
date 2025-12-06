@@ -4,3 +4,5 @@
 - pkg:maven/sk.seges.corpis/corpis-customer-domain-jpa@1.2.1?classifier=sources
 - pkg:maven/sk.seges.corpis/corpis-customer-domain-jpa@1.2.2
 - pkg:maven/sk.seges.corpis/corpis-customer-domain-jpa@1.2.2?classifier=sources
+- pkg:maven/sk.seges.corpis/corpis-customer-domain-jpa@2.0.0
+- pkg:maven/sk.seges.corpis/corpis-customer-domain-jpa@2.0.0?classifier=sources

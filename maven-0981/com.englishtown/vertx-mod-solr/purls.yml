@@ -1,0 +1,4 @@
+- pkg:maven/com.englishtown/vertx-mod-solr@0.1.0
+- pkg:maven/com.englishtown/vertx-mod-solr@0.1.0?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-solr@0.2.0
+- pkg:maven/com.englishtown/vertx-mod-solr@0.2.0?classifier=sources

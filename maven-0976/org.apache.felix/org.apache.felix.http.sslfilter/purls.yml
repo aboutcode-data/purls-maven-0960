@@ -2,3 +2,16 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.0.1?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.0.2
 - pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.0.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.1.0
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.1.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.2.0
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@0.2.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.2
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.4
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.sslfilter@1.0.4?classifier=sources

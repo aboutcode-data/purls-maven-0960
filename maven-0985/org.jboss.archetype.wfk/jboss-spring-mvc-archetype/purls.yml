@@ -1,1 +1,3 @@
 - pkg:maven/org.jboss.archetype.wfk/jboss-spring-mvc-archetype@2.5.0.Final?classifier=sources
+- pkg:maven/org.jboss.archetype.wfk/jboss-spring-mvc-archetype@2.6.0.Final?classifier=sources
+- pkg:maven/org.jboss.archetype.wfk/jboss-spring-mvc-archetype@2.7.0.Final?classifier=sources

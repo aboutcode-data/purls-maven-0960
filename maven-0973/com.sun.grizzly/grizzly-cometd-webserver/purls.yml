@@ -116,6 +116,8 @@
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18-q?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18-r
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18-r?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18-s
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18-s?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18a
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18a?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.18b
@@ -230,6 +232,16 @@
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.59?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.5?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.6
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.60
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.60?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.61
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.61?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.62
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.62?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.63
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.63?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.64
+- pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.64?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.7
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.7?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-cometd-webserver@1.9.8

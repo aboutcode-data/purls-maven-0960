@@ -1,3 +1,5 @@
+- pkg:maven/org.jboss.arquillian.ajocado/arquillian-ajocado-api@1.0.0.Alpha1
+- pkg:maven/org.jboss.arquillian.ajocado/arquillian-ajocado-api@1.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.arquillian.ajocado/arquillian-ajocado-api@1.0.0.Alpha2
 - pkg:maven/org.jboss.arquillian.ajocado/arquillian-ajocado-api@1.0.0.Alpha2?classifier=sources
 - pkg:maven/org.jboss.arquillian.ajocado/arquillian-ajocado-api@1.0.0.CR1

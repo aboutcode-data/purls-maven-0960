@@ -18,3 +18,4 @@
 - pkg:maven/org.appfuse/appfuse-jpa@2.2?classifier=sources
 - pkg:maven/org.appfuse/appfuse-jpa@3.0.0
 - pkg:maven/org.appfuse/appfuse-jpa@3.0.0?classifier=sources
+- pkg:maven/org.appfuse/appfuse-jpa@3.5.0

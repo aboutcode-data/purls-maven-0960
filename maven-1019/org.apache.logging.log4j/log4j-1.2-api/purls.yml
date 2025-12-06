@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta5
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta5?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta6
@@ -10,3 +11,20 @@
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-beta9?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-rc1
 - pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-rc1?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-rc2
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0-rc2?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0.1
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0.1?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0.2
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0.2?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.1
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.1?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.2
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.2?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.3
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.3?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.4
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.4.1
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.4.1?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-1.2-api@2.4?classifier=sources

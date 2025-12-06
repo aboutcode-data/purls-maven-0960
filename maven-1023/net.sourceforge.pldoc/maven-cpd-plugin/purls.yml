@@ -19,6 +19,12 @@
 - pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.1
 - pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.10
 - pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.10?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.11
+- pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.11?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.12
+- pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.12?classifier=sources
+- pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.13
+- pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.13?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.1?classifier=sources
 - pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.2
 - pkg:maven/net.sourceforge.pldoc/maven-cpd-plugin@0.1.2?classifier=sources

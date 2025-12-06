@@ -1,0 +1,4 @@
+- pkg:maven/net.bramp.objectgraph/objectgraph@1.0
+- pkg:maven/net.bramp.objectgraph/objectgraph@1.0.1
+- pkg:maven/net.bramp.objectgraph/objectgraph@1.0.1?classifier=sources
+- pkg:maven/net.bramp.objectgraph/objectgraph@1.0?classifier=sources

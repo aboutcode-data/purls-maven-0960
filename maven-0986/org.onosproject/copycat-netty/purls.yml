@@ -1,0 +1,4 @@
+- pkg:maven/org.onosproject/copycat-netty@0.4.0.onos
+- pkg:maven/org.onosproject/copycat-netty@0.4.0.onos?classifier=sources
+- pkg:maven/org.onosproject/copycat-netty@0.4.1.onos
+- pkg:maven/org.onosproject/copycat-netty@0.4.1.onos?classifier=sources

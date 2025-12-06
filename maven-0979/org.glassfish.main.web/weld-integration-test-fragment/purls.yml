@@ -10,3 +10,7 @@
 - pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.0-b90
 - pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.0-b90?classifier=sources
 - pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.0?classifier=sources
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.1
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.1.1
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.1.1?classifier=sources
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@4.1?classifier=sources

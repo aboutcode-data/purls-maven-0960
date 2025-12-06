@@ -1,0 +1,4 @@
+- pkg:maven/com.conversantmedia/mara-test@0.9.1
+- pkg:maven/com.conversantmedia/mara-test@0.9.1?classifier=sources
+- pkg:maven/com.conversantmedia/mara-test@0.9.2-mapr-4.0.2mr1-hbase0.94
+- pkg:maven/com.conversantmedia/mara-test@0.9.2-mapr-4.0.2mr1-hbase0.94?classifier=sources

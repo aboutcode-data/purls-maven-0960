@@ -1,2 +1,8 @@
 - pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.10.0
 - pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.10.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.11.0
+- pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.11.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.12.0
+- pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.12.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.12.1
+- pkg:maven/org.jboss.aerogear/aerogear-simplepush-datastore-couchdb@0.12.1?classifier=sources

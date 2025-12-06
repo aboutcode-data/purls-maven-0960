@@ -1,0 +1,3 @@
+- pkg:maven/com.bastly/bastlysdk@1.0.2?classifier=sources
+- pkg:maven/com.bastly/bastlysdk@1.0.2?type=aar
+- pkg:maven/com.bastly/bastlysdk@1.0.4?classifier=sources

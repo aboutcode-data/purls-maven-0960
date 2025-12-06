@@ -1,0 +1,4 @@
+- pkg:maven/com.aol.microservices/micro-javaslang@0.74
+- pkg:maven/com.aol.microservices/micro-javaslang@0.74?classifier=sources
+- pkg:maven/com.aol.microservices/micro-javaslang@0.75
+- pkg:maven/com.aol.microservices/micro-javaslang@0.75?classifier=sources

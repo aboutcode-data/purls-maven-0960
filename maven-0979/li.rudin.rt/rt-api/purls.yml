@@ -30,3 +30,13 @@
 - pkg:maven/li.rudin.rt/rt-api@3.0.4
 - pkg:maven/li.rudin.rt/rt-api@3.0.4?classifier=sources
 - pkg:maven/li.rudin.rt/rt-api@3.0?classifier=sources
+- pkg:maven/li.rudin.rt/rt-api@3.1.0
+- pkg:maven/li.rudin.rt/rt-api@3.1.0?classifier=sources
+- pkg:maven/li.rudin.rt/rt-api@3.1.2
+- pkg:maven/li.rudin.rt/rt-api@3.1.2?classifier=sources
+- pkg:maven/li.rudin.rt/rt-api@3.2
+- pkg:maven/li.rudin.rt/rt-api@3.2?classifier=sources
+- pkg:maven/li.rudin.rt/rt-api@4.0
+- pkg:maven/li.rudin.rt/rt-api@4.0?classifier=sources
+- pkg:maven/li.rudin.rt/rt-api@4.1
+- pkg:maven/li.rudin.rt/rt-api@4.1?classifier=sources

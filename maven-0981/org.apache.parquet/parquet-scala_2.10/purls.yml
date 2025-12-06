@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.parquet/parquet-scala_2.10@1.7.0
+- pkg:maven/org.apache.parquet/parquet-scala_2.10@1.7.0?classifier=sources
+- pkg:maven/org.apache.parquet/parquet-scala_2.10@1.8.0
+- pkg:maven/org.apache.parquet/parquet-scala_2.10@1.8.0?classifier=sources
+- pkg:maven/org.apache.parquet/parquet-scala_2.10@1.8.1
+- pkg:maven/org.apache.parquet/parquet-scala_2.10@1.8.1?classifier=sources

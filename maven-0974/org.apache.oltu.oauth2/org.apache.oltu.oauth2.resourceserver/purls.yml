@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.resourceserver@0.31?classifier=sources
 - pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.resourceserver@1.0.0
 - pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.resourceserver@1.0.0?classifier=sources
+- pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.resourceserver@1.0.1
+- pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.resourceserver@1.0.1?classifier=sources

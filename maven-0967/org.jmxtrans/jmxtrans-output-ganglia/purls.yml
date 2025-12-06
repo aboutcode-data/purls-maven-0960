@@ -1,0 +1,4 @@
+- pkg:maven/org.jmxtrans/jmxtrans-output-ganglia@251
+- pkg:maven/org.jmxtrans/jmxtrans-output-ganglia@251?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-ganglia@252
+- pkg:maven/org.jmxtrans/jmxtrans-output-ganglia@252?classifier=sources

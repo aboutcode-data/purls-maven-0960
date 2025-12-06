@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.stratos/org.apache.stratos.redirector.servlet.stub@3.0.0-incubating
 - pkg:maven/org.apache.stratos/org.apache.stratos.redirector.servlet.stub@3.0.0-incubating?classifier=sources
+- pkg:maven/org.apache.stratos/org.apache.stratos.redirector.servlet.stub@4.0.0

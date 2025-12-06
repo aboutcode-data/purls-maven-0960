@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.camel/example-camel-common@2.0.0.CR1
+- pkg:maven/org.wildfly.camel/example-camel-common@2.0.0.CR1?classifier=sources

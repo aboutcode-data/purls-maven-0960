@@ -58,6 +58,8 @@
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.14.v20131031?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.15.v20140411
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.15.v20140411?classifier=sources
+- pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.16.v20140903
+- pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.16.v20140903?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.2.v20120308
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.2.v20120308?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@7.6.3.v20120416
@@ -114,6 +116,8 @@
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.14.v20131031?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.15.v20140411
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.15.v20140411?classifier=sources
+- pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.16.v20140903
+- pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.16.v20140903?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.2.v20120308
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.2.v20120308?classifier=sources
 - pkg:maven/org.mortbay.jetty/reverse-http-loadtest@8.1.3.v20120416

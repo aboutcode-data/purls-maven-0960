@@ -1,0 +1,6 @@
+- pkg:maven/com.elastisys.scale/cloudpool.openstack@2.1.0
+- pkg:maven/com.elastisys.scale/cloudpool.openstack@2.1.0?classifier=sources
+- pkg:maven/com.elastisys.scale/cloudpool.openstack@3.0.0
+- pkg:maven/com.elastisys.scale/cloudpool.openstack@3.0.0?classifier=sources
+- pkg:maven/com.elastisys.scale/cloudpool.openstack@4.0.0
+- pkg:maven/com.elastisys.scale/cloudpool.openstack@4.0.0?classifier=sources

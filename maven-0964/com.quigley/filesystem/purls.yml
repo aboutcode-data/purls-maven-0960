@@ -1,2 +1,6 @@
 - pkg:maven/com.quigley/filesystem@0.0.2
 - pkg:maven/com.quigley/filesystem@0.0.2?classifier=sources
+- pkg:maven/com.quigley/filesystem@5
+- pkg:maven/com.quigley/filesystem@5?classifier=sources
+- pkg:maven/com.quigley/filesystem@6
+- pkg:maven/com.quigley/filesystem@6?classifier=sources

@@ -12,3 +12,9 @@
 - pkg:maven/org.metawidget.modules/metawidget-jaxb@3.7?classifier=sources
 - pkg:maven/org.metawidget.modules/metawidget-jaxb@3.8
 - pkg:maven/org.metawidget.modules/metawidget-jaxb@3.8?classifier=sources
+- pkg:maven/org.metawidget.modules/metawidget-jaxb@3.9
+- pkg:maven/org.metawidget.modules/metawidget-jaxb@3.9?classifier=sources
+- pkg:maven/org.metawidget.modules/metawidget-jaxb@4.0
+- pkg:maven/org.metawidget.modules/metawidget-jaxb@4.0?classifier=sources
+- pkg:maven/org.metawidget.modules/metawidget-jaxb@4.1
+- pkg:maven/org.metawidget.modules/metawidget-jaxb@4.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.dbdoclet/dbdoclet@8.0.0
+- pkg:maven/org.dbdoclet/dbdoclet@8.0.0?classifier=sources
+- pkg:maven/org.dbdoclet/dbdoclet@8.0.2
+- pkg:maven/org.dbdoclet/dbdoclet@8.0.2?classifier=sources

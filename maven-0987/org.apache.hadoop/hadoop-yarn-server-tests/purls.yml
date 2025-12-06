@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@0.23.1
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@0.23.10
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@0.23.11
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@0.23.3
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@0.23.4
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@0.23.5
@@ -19,3 +20,17 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.2.0
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.3.0
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.4.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.4.1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.5.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.5.1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.5.2
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.1?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.2
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.6.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.7.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.7.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.7.1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-tests@2.7.1?classifier=sources

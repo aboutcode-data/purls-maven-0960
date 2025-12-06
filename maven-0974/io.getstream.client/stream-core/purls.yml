@@ -1,0 +1,6 @@
+- pkg:maven/io.getstream.client/stream-core@0.1-RC1
+- pkg:maven/io.getstream.client/stream-core@0.1-RC1?classifier=sources
+- pkg:maven/io.getstream.client/stream-core@0.1-RC2
+- pkg:maven/io.getstream.client/stream-core@0.1-RC2?classifier=sources
+- pkg:maven/io.getstream.client/stream-core@0.1-RC4
+- pkg:maven/io.getstream.client/stream-core@0.1-RC4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans@1.06
 - pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans@1.06?classifier=sources
+- pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans@1.08
+- pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans@1.08?classifier=sources
+- pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans@1.09
+- pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans@1.09?classifier=sources

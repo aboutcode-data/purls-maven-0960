@@ -1,0 +1,8 @@
+- pkg:maven/ro.pippo/pippo-jackson@0.5.0
+- pkg:maven/ro.pippo/pippo-jackson@0.5.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-jackson@0.6.0
+- pkg:maven/ro.pippo/pippo-jackson@0.6.0?classifier=sources
+- pkg:maven/ro.pippo/pippo-jackson@0.6.1
+- pkg:maven/ro.pippo/pippo-jackson@0.6.1?classifier=sources
+- pkg:maven/ro.pippo/pippo-jackson@0.7.0
+- pkg:maven/ro.pippo/pippo-jackson@0.7.0?classifier=sources

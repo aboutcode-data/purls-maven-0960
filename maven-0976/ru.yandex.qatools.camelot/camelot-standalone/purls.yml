@@ -1,0 +1,17 @@
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.3.1?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.3.2?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.3.3?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.3?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.0?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.1?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.2?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.3?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.4?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.6?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.7?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.8-20151118?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.8-20151119?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.8-20151130?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.8?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.4.9-20150103?classifier=sources
+- pkg:maven/ru.yandex.qatools.camelot/camelot-standalone@2.5.0?classifier=sources

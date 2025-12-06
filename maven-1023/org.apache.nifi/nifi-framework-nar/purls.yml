@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.nifi/nifi-framework-nar@0.0.1-incubating?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-nar@0.0.2-incubating?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-nar@0.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-nar@0.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-nar@0.2.1?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-nar@0.3.0?classifier=sources

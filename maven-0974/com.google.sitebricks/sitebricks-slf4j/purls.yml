@@ -1,3 +1,6 @@
+- pkg:maven/com.google.sitebricks/sitebricks-slf4j@0.8.10
+- pkg:maven/com.google.sitebricks/sitebricks-slf4j@0.8.10?classifier=sources
+- pkg:maven/com.google.sitebricks/sitebricks-slf4j@0.8.11?classifier=sources
 - pkg:maven/com.google.sitebricks/sitebricks-slf4j@0.8.4
 - pkg:maven/com.google.sitebricks/sitebricks-slf4j@0.8.4?classifier=sources
 - pkg:maven/com.google.sitebricks/sitebricks-slf4j@0.8.5

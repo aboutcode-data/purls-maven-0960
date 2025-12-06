@@ -1,0 +1,2 @@
+- pkg:maven/io.teknek/clavin-aas-web@0.0.0?classifier=sources
+- pkg:maven/io.teknek/clavin-aas-web@0.0.0?type=war

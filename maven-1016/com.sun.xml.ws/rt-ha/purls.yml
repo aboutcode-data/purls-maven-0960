@@ -1,3 +1,9 @@
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.10
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.10-b140319.1121
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.10-b140319.1121?classifier=sources
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.10-b140803.1500
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.10-b140803.1500?classifier=sources
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.10?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13528
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13528?classifier=sources
@@ -11,6 +17,8 @@
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13834?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13912
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13912?classifier=sources
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13923
+- pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13923?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13924
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-b13924?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.8-promoted-b146

@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.clerezza/templating.seedsnipe@0.8-incubating
 - pkg:maven/org.apache.clerezza/templating.seedsnipe@0.8-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/templating.seedsnipe@0.9
+- pkg:maven/org.apache.clerezza/templating.seedsnipe@0.9?classifier=sources
+- pkg:maven/org.apache.clerezza/templating.seedsnipe@1.0.0
+- pkg:maven/org.apache.clerezza/templating.seedsnipe@1.0.0?classifier=sources

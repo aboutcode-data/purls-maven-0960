@@ -1,0 +1,2 @@
+- pkg:maven/org.spark-project.hive.hcatalog/hive-hcatalog-streaming@1.2.1.spark
+- pkg:maven/org.spark-project.hive.hcatalog/hive-hcatalog-streaming@1.2.1.spark?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ceph/libcephfs@0.80.5
+- pkg:maven/com.ceph/libcephfs@0.80.5?classifier=sources

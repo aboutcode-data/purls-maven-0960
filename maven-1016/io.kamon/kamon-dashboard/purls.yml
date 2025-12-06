@@ -1,2 +1,6 @@
 - pkg:maven/io.kamon/kamon-dashboard@0.0.15
 - pkg:maven/io.kamon/kamon-dashboard@0.0.15?classifier=sources
+- pkg:maven/io.kamon/kamon-dashboard@0.2.0
+- pkg:maven/io.kamon/kamon-dashboard@0.2.0?classifier=sources
+- pkg:maven/io.kamon/kamon-dashboard@0.3.0
+- pkg:maven/io.kamon/kamon-dashboard@0.3.0?classifier=sources

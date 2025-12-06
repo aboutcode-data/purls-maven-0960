@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.sirona/sirona-cassandra@0.1-incubating
 - pkg:maven/org.apache.sirona/sirona-cassandra@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.sirona/sirona-cassandra@0.2-incubating
+- pkg:maven/org.apache.sirona/sirona-cassandra@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.sirona/sirona-cassandra@0.3-incubating
+- pkg:maven/org.apache.sirona/sirona-cassandra@0.3-incubating?classifier=sources

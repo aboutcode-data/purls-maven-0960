@@ -1,1 +1,3 @@
 - pkg:maven/com.github.provigen/ProviGen-tests@1.7.0?classifier=sources
+- pkg:maven/com.github.provigen/ProviGen-tests@2.0.0?classifier=sources
+- pkg:maven/com.github.provigen/ProviGen-tests@2.0.1?classifier=sources

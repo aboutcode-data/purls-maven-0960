@@ -1,0 +1,4 @@
+- pkg:maven/net.twibs/twibs-form-test-webapp@0.14.1?classifier=sources
+- pkg:maven/net.twibs/twibs-form-test-webapp@0.14.1?type=war
+- pkg:maven/net.twibs/twibs-form-test-webapp@0.14?classifier=sources
+- pkg:maven/net.twibs/twibs-form-test-webapp@0.14?type=war

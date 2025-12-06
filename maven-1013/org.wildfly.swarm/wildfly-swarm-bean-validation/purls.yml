@@ -1,0 +1,10 @@
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha1
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha1?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha2
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha3
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha4
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha5
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-bean-validation@1.0.0.Alpha5?classifier=sources

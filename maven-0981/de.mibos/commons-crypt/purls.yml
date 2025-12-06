@@ -1,0 +1,10 @@
+- pkg:maven/de.mibos/commons-crypt@1.1
+- pkg:maven/de.mibos/commons-crypt@1.1?classifier=sources
+- pkg:maven/de.mibos/commons-crypt@1.2
+- pkg:maven/de.mibos/commons-crypt@1.2?classifier=sources
+- pkg:maven/de.mibos/commons-crypt@1.3
+- pkg:maven/de.mibos/commons-crypt@1.3?classifier=sources
+- pkg:maven/de.mibos/commons-crypt@1.4
+- pkg:maven/de.mibos/commons-crypt@1.4?classifier=sources
+- pkg:maven/de.mibos/commons-crypt@1.5
+- pkg:maven/de.mibos/commons-crypt@1.5?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.3.0.RC3?classifier=sources
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.3.0.RC3?type=war
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.3.0?classifier=sources
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.3.0?type=war
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.4.0.M1?classifier=sources
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.4.0.M1?type=war
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.4.0.M2?classifier=sources
+- pkg:maven/org.scalatra/scalatra-example_2.11@2.4.0.M2?type=war

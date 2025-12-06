@@ -1,0 +1,4 @@
+- pkg:maven/de.yourinspiration/spring-jwt@0.0.1
+- pkg:maven/de.yourinspiration/spring-jwt@0.0.1?classifier=sources
+- pkg:maven/de.yourinspiration/spring-jwt@0.1.0
+- pkg:maven/de.yourinspiration/spring-jwt@0.1.0?classifier=sources

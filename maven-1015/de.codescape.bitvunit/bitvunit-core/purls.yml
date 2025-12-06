@@ -1,3 +1,11 @@
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.10.0
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.10.0?classifier=sources
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.11
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.11?classifier=sources
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.12
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.12?classifier=sources
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.13
+- pkg:maven/de.codescape.bitvunit/bitvunit-core@0.13?classifier=sources
 - pkg:maven/de.codescape.bitvunit/bitvunit-core@0.3.0
 - pkg:maven/de.codescape.bitvunit/bitvunit-core@0.3.0?classifier=sources
 - pkg:maven/de.codescape.bitvunit/bitvunit-core@0.4.0

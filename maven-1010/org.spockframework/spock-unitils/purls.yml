@@ -20,3 +20,9 @@
 - pkg:maven/org.spockframework/spock-unitils@0.7-groovy-1.8?classifier=sources
 - pkg:maven/org.spockframework/spock-unitils@0.7-groovy-2.0
 - pkg:maven/org.spockframework/spock-unitils@0.7-groovy-2.0?classifier=sources
+- pkg:maven/org.spockframework/spock-unitils@1.0-groovy-2.0
+- pkg:maven/org.spockframework/spock-unitils@1.0-groovy-2.0?classifier=sources
+- pkg:maven/org.spockframework/spock-unitils@1.0-groovy-2.3
+- pkg:maven/org.spockframework/spock-unitils@1.0-groovy-2.3?classifier=sources
+- pkg:maven/org.spockframework/spock-unitils@1.0-groovy-2.4
+- pkg:maven/org.spockframework/spock-unitils@1.0-groovy-2.4?classifier=sources

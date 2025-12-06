@@ -1,0 +1,2 @@
+- pkg:maven/ua.pp.msk.maven/dependency-publish-maven-plugin@0.8
+- pkg:maven/ua.pp.msk.maven/dependency-publish-maven-plugin@0.8?classifier=sources

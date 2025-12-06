@@ -16,3 +16,7 @@
 - pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.1-RC3?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.1-RC4?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.2-RC1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.2.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.2?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.java/sonar-jacoco-plugin@2.3?classifier=sources

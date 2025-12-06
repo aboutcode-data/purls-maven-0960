@@ -99,6 +99,8 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-q?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-r?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-r?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-s?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18-s?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18a?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18a?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.18b?type=war
@@ -210,6 +212,16 @@
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.59?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.5?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.5?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.60?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.60?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.61?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.61?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.62?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.62?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.63?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.63?type=war
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.64?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.64?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.6?type=war
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.7?classifier=sources
 - pkg:maven/com.sun.grizzly.samples/grizzly-comet-hidden@1.9.7?type=war

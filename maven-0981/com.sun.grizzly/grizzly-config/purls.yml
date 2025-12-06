@@ -33,6 +33,7 @@
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.18-p?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.18-q?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.18-r?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-config@1.9.18-s?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.18a?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.18b?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.18d?classifier=sources
@@ -85,3 +86,8 @@
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.57?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.58?classifier=sources
 - pkg:maven/com.sun.grizzly/grizzly-config@1.9.59?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-config@1.9.60?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-config@1.9.61?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-config@1.9.62?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-config@1.9.63?classifier=sources
+- pkg:maven/com.sun.grizzly/grizzly-config@1.9.64?classifier=sources

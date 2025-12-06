@@ -32,6 +32,8 @@
 - pkg:maven/org.wicketstuff/console-examples@1.5-rc2.1?type=war
 - pkg:maven/org.wicketstuff/console-examples@1.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/console-examples@1.5.0?type=war
+- pkg:maven/org.wicketstuff/console-examples@1.5.13?classifier=sources
+- pkg:maven/org.wicketstuff/console-examples@1.5.13?type=war
 - pkg:maven/org.wicketstuff/console-examples@1.5.1?classifier=sources
 - pkg:maven/org.wicketstuff/console-examples@1.5.1?type=war
 - pkg:maven/org.wicketstuff/console-examples@1.5.2?classifier=sources

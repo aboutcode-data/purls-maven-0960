@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.qpid/qpid-qmf2-tools@0.30
+- pkg:maven/org.apache.qpid/qpid-qmf2-tools@0.30?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-qmf2-tools@0.32
+- pkg:maven/org.apache.qpid/qpid-qmf2-tools@0.32?classifier=sources

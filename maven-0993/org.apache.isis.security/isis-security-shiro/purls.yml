@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.isis.security/isis-security-shiro@1.4.0
 - pkg:maven/org.apache.isis.security/isis-security-shiro@1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.security/isis-security-shiro@1.4.0?classifier=sources
+- pkg:maven/org.apache.isis.security/isis-security-shiro@1.5.0
+- pkg:maven/org.apache.isis.security/isis-security-shiro@1.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.security/isis-security-shiro@1.5.0?classifier=sources

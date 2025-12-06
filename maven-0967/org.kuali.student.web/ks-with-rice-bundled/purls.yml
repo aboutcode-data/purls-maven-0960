@@ -4,3 +4,5 @@
 - pkg:maven/org.kuali.student.web/ks-with-rice-bundled@2.0.1-cm?type=war
 - pkg:maven/org.kuali.student.web/ks-with-rice-bundled@2.0.2-cm?classifier=sources
 - pkg:maven/org.kuali.student.web/ks-with-rice-bundled@2.0.2-cm?type=war
+- pkg:maven/org.kuali.student.web/ks-with-rice-bundled@2.0.3-cm?classifier=sources
+- pkg:maven/org.kuali.student.web/ks-with-rice-bundled@2.0.3-cm?type=war

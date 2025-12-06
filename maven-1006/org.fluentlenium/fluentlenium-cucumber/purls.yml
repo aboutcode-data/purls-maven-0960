@@ -1,3 +1,15 @@
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.0
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.2
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.2?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.3
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.3?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.6
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.6?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.8
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.8?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.9
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.10.9?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.9.0
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.9.0?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@0.9.1

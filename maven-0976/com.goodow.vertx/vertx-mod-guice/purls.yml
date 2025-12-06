@@ -1,0 +1,4 @@
+- pkg:maven/com.goodow.vertx/vertx-mod-guice@1.0.0-beta4
+- pkg:maven/com.goodow.vertx/vertx-mod-guice@1.0.0-beta4?classifier=sources
+- pkg:maven/com.goodow.vertx/vertx-mod-guice@4.0-beta5
+- pkg:maven/com.goodow.vertx/vertx-mod-guice@4.0-beta5?classifier=sources

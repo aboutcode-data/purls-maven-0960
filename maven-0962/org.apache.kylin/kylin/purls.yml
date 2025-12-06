@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.kylin/kylin@0.7.2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@1.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@1.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.kylin/kylin@1.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@1.1-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.kylin/kylin@1.1.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@1.1.1-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.kylin/kylin@1.1.1-incubating?classifier=src&type=zip

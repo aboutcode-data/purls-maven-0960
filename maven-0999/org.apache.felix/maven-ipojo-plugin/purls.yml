@@ -10,6 +10,10 @@
 - pkg:maven/org.apache.felix/maven-ipojo-plugin@1.11.1?classifier=sources
 - pkg:maven/org.apache.felix/maven-ipojo-plugin@1.11.2
 - pkg:maven/org.apache.felix/maven-ipojo-plugin@1.11.2?classifier=sources
+- pkg:maven/org.apache.felix/maven-ipojo-plugin@1.12.0
+- pkg:maven/org.apache.felix/maven-ipojo-plugin@1.12.0?classifier=sources
+- pkg:maven/org.apache.felix/maven-ipojo-plugin@1.12.1
+- pkg:maven/org.apache.felix/maven-ipojo-plugin@1.12.1?classifier=sources
 - pkg:maven/org.apache.felix/maven-ipojo-plugin@1.2.0
 - pkg:maven/org.apache.felix/maven-ipojo-plugin@1.4.0
 - pkg:maven/org.apache.felix/maven-ipojo-plugin@1.4.0?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.1.1?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.1.2?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.1.30.1?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.1.30?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.0-B1?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.0-B2?classifier=sources
@@ -11,5 +12,20 @@
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.0-RC3?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.0-RC4?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.0-RC5?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.0-ga1?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.10?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.11?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.12?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.13?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.14?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.15?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.4?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.5?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.6?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.7?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.8?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.9?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.1?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.2?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@7.0.0-m1?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@7.0.0-m2?classifier=sources

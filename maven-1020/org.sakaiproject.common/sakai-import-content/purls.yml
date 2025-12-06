@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.common/sakai-import-content@1.2.2?classifier=sources
 - pkg:maven/org.sakaiproject.common/sakai-import-content@1.2.3
 - pkg:maven/org.sakaiproject.common/sakai-import-content@1.2.3?classifier=sources
+- pkg:maven/org.sakaiproject.common/sakai-import-content@10.3
+- pkg:maven/org.sakaiproject.common/sakai-import-content@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.common/sakai-import-content@10.4
+- pkg:maven/org.sakaiproject.common/sakai-import-content@10.4?classifier=sources

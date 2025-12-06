@@ -144,3 +144,7 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.3.2.2?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.4.8.0
 - pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.4.8.0?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.6.0.0
+- pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.6.0.0?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.6.0.1
+- pkg:maven/org.bitbucket.bradleysmithllc.etl-agent/informatica-agent@3.6.0.1?classifier=sources

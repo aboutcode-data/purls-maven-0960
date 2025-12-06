@@ -1,0 +1,8 @@
+- pkg:maven/com.github.jlinq/jlinq@0.0.1
+- pkg:maven/com.github.jlinq/jlinq@0.0.1?classifier=sources
+- pkg:maven/com.github.jlinq/jlinq@0.0.2
+- pkg:maven/com.github.jlinq/jlinq@0.0.2?classifier=sources
+- pkg:maven/com.github.jlinq/jlinq@0.0.3
+- pkg:maven/com.github.jlinq/jlinq@0.0.3?classifier=sources
+- pkg:maven/com.github.jlinq/jlinq@0.0.3a
+- pkg:maven/com.github.jlinq/jlinq@0.0.3a?classifier=sources

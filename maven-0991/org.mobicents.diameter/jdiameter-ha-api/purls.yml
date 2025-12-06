@@ -1,2 +1,4 @@
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.2.0.FINAL
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.2.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.6.0.FINAL
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.6.0.FINAL?classifier=sources

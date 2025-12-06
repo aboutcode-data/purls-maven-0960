@@ -1,2 +1,4 @@
 - pkg:maven/org.brightify.torch/torch-compiler-spi@1.0-alpha-01
 - pkg:maven/org.brightify.torch/torch-compiler-spi@1.0-alpha-01?classifier=sources
+- pkg:maven/org.brightify.torch/torch-compiler-spi@1.0.0-alpha.3
+- pkg:maven/org.brightify.torch/torch-compiler-spi@1.0.0-alpha.3?classifier=sources

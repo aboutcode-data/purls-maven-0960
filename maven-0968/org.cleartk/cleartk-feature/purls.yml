@@ -1,2 +1,4 @@
 - pkg:maven/org.cleartk/cleartk-feature@0.8.0
 - pkg:maven/org.cleartk/cleartk-feature@0.8.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-feature@2.0.0
+- pkg:maven/org.cleartk/cleartk-feature@2.0.0?classifier=sources

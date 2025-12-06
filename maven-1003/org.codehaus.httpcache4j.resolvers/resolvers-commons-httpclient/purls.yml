@@ -28,6 +28,7 @@
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@3.3?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@3.4
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@3.4?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0-M1
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0-M1?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0-M2
@@ -48,3 +49,10 @@
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0-RC3?classifier=sources
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0-RC4
 - pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0-RC4?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.0?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.1
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@4.1?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M1
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M1?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M2
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-commons-httpclient@5.0.0-M2?classifier=sources

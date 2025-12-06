@@ -12,6 +12,8 @@
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.15?classifier=sources
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.16
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.16?classifier=sources
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.17
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.17?classifier=sources
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.3
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.3.1
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.3.1?classifier=sources
@@ -28,3 +30,5 @@
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.8?classifier=sources
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.9
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@0.9.9?classifier=sources
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@8.0.0
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.stax@8.0.0?classifier=sources

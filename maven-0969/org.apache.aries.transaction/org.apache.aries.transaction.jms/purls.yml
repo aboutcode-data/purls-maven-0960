@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.aries.transaction/org.apache.aries.transaction.jms@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.transaction/org.apache.aries.transaction.jms@1.0.0?classifier=sources
+- pkg:maven/org.apache.aries.transaction/org.apache.aries.transaction.jms@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.transaction/org.apache.aries.transaction.jms@2.0.0?classifier=sources

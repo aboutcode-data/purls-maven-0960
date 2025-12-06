@@ -1,0 +1,4 @@
+- pkg:maven/io.userinfo/userinfo-java@1.0.0
+- pkg:maven/io.userinfo/userinfo-java@1.0.0?classifier=sources
+- pkg:maven/io.userinfo/userinfo-java@1.1.0
+- pkg:maven/io.userinfo/userinfo-java@1.1.0?classifier=sources

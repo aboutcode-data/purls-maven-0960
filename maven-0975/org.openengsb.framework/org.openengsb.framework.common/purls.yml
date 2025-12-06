@@ -38,3 +38,7 @@
 - pkg:maven/org.openengsb.framework/org.openengsb.framework.common@2.5.0?classifier=sources
 - pkg:maven/org.openengsb.framework/org.openengsb.framework.common@2.5.1
 - pkg:maven/org.openengsb.framework/org.openengsb.framework.common@2.5.1?classifier=sources
+- pkg:maven/org.openengsb.framework/org.openengsb.framework.common@3.0.0.M1
+- pkg:maven/org.openengsb.framework/org.openengsb.framework.common@3.0.0.M1?classifier=sources
+- pkg:maven/org.openengsb.framework/org.openengsb.framework.common@3.0.0.M2
+- pkg:maven/org.openengsb.framework/org.openengsb.framework.common@3.0.0.M2?classifier=sources

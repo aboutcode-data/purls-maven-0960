@@ -1,0 +1,6 @@
+- pkg:maven/org.spark-project.hive/hive-ant@0.13.1
+- pkg:maven/org.spark-project.hive/hive-ant@0.13.1?classifier=sources
+- pkg:maven/org.spark-project.hive/hive-ant@0.13.1a
+- pkg:maven/org.spark-project.hive/hive-ant@0.13.1a?classifier=sources
+- pkg:maven/org.spark-project.hive/hive-ant@1.2.1.spark
+- pkg:maven/org.spark-project.hive/hive-ant@1.2.1.spark?classifier=sources

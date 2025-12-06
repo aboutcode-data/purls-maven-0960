@@ -1,0 +1,4 @@
+- pkg:maven/com.indix/rocksdb-io@0.1.7
+- pkg:maven/com.indix/rocksdb-io@0.1.7?classifier=sources
+- pkg:maven/com.indix/rocksdb-io@5
+- pkg:maven/com.indix/rocksdb-io@5?classifier=sources

@@ -1,4 +1,20 @@
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.1
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.10.0
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.10.0?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.11.0
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.11.0?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.0
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.0?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.1
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.1?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.2
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.2?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.3
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.12.3?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.13.0
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.13.0?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.13.1
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.13.1?classifier=sources
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.1?classifier=sources
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.2
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.2?classifier=sources
@@ -43,3 +59,5 @@
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.8.3?classifier=sources
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.9.0
 - pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.9.0?classifier=sources
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.9.1
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing@0.9.1?classifier=sources

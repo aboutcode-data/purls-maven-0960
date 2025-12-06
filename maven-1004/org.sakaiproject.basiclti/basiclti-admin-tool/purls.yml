@@ -1,3 +1,7 @@
+- pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@10.3?type=war
+- pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@10.4?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@10.4?type=war
 - pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@2.0.0-b03?classifier=sources
 - pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@2.0.0-b03?type=war
 - pkg:maven/org.sakaiproject.basiclti/basiclti-admin-tool@2.0.0-b04?classifier=sources

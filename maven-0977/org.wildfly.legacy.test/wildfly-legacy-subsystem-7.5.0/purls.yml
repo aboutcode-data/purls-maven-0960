@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@1.0.0.Alpha9
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@1.0.0.Alpha9?classifier=sources
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@1.0.0.Final
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@1.0.0.Final?classifier=sources

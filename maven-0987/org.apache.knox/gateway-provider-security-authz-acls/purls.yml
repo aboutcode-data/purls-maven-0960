@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-acls@0.5.0
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-acls@0.5.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-acls@0.5.1
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-acls@0.5.1?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-acls@0.6.0
+- pkg:maven/org.apache.knox/gateway-provider-security-authz-acls@0.6.0?classifier=sources

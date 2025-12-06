@@ -1,0 +1,4 @@
+- pkg:maven/net.redhogs.cronparser/cron-parser-core@2.7
+- pkg:maven/net.redhogs.cronparser/cron-parser-core@2.7?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser-core@2.8
+- pkg:maven/net.redhogs.cronparser/cron-parser-core@2.8?classifier=sources

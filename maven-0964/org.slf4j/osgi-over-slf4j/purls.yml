@@ -1,3 +1,11 @@
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.10
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.10?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.11
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.11?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.12
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.12?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.13
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.13?classifier=sources
 - pkg:maven/org.slf4j/osgi-over-slf4j@1.7.2
 - pkg:maven/org.slf4j/osgi-over-slf4j@1.7.2?classifier=sources
 - pkg:maven/org.slf4j/osgi-over-slf4j@1.7.3
@@ -10,3 +18,7 @@
 - pkg:maven/org.slf4j/osgi-over-slf4j@1.7.6?classifier=sources
 - pkg:maven/org.slf4j/osgi-over-slf4j@1.7.7
 - pkg:maven/org.slf4j/osgi-over-slf4j@1.7.7?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.8
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.8?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.9
+- pkg:maven/org.slf4j/osgi-over-slf4j@1.7.9?classifier=sources

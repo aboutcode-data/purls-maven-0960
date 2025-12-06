@@ -28,4 +28,7 @@
 - pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.5.7?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.5.8?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.5?classifier=src&type=zip
+- pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.6.1?classifier=src&type=zip
 - pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.6?classifier=src&type=zip
+- pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.7?classifier=src&type=zip
+- pkg:maven/com.thoughtworks.paranamer/paranamer-distribution@2.8?classifier=src&type=zip

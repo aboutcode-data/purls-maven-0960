@@ -49,6 +49,8 @@
 - pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.14?classifier=sources
 - pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.15
 - pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.15?classifier=sources
+- pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.16
+- pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.16?classifier=sources
 - pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.1?classifier=sources
 - pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.2
 - pkg:maven/org.jdtaus.common/jdtaus-banking-api@1.2?classifier=sources
