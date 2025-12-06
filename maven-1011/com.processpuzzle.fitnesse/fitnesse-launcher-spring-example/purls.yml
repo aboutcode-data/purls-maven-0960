@@ -1,0 +1,4 @@
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-spring-example@1.6.0
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-spring-example@1.6.0?classifier=sources
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-spring-example@1.6.0?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-spring-example@1.6.0?classifier=src&type=zip

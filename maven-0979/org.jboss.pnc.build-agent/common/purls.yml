@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.pnc.build-agent/common@0.2
+- pkg:maven/org.jboss.pnc.build-agent/common@0.2?classifier=sources
+- pkg:maven/org.jboss.pnc.build-agent/common@0.3
+- pkg:maven/org.jboss.pnc.build-agent/common@0.3?classifier=sources

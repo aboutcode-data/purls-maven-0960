@@ -12,3 +12,5 @@
 - pkg:maven/com.google.inject.extensions/guice-persist@4.0-beta5?classifier=sources
 - pkg:maven/com.google.inject.extensions/guice-persist@4.0-beta?classifier=sources
 - pkg:maven/com.google.inject.extensions/guice-persist@4.0?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-persist@4.1.0
+- pkg:maven/com.google.inject.extensions/guice-persist@4.1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/javax.annotation/javax.annotation-api@1.2-b04
 - pkg:maven/javax.annotation/javax.annotation-api@1.2-b04?classifier=sources
 - pkg:maven/javax.annotation/javax.annotation-api@1.2?classifier=sources
+- pkg:maven/javax.annotation/javax.annotation-api@1.3
+- pkg:maven/javax.annotation/javax.annotation-api@1.3?classifier=sources

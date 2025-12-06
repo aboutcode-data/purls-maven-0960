@@ -1,0 +1,6 @@
+- pkg:maven/org.dbpedia.extraction/scripts@3.9
+- pkg:maven/org.dbpedia.extraction/scripts@3.9?classifier=sources
+- pkg:maven/org.dbpedia.extraction/scripts@4.0
+- pkg:maven/org.dbpedia.extraction/scripts@4.0?classifier=sources
+- pkg:maven/org.dbpedia.extraction/scripts@4.1
+- pkg:maven/org.dbpedia.extraction/scripts@4.1?classifier=sources

@@ -10,6 +10,10 @@
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0.e?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.0?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.1-RC1?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.1-RC1?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.1?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@2.5.1?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@v2.5.0-Beta4?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@v2.5.0-Beta6?classifier=sources

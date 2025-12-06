@@ -34,3 +34,7 @@
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@3.0.3?classifier=sources
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@4.0.0
 - pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@4.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@4.0.1
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@4.0.1?classifier=sources
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@4.0.2
+- pkg:maven/org.apache.karaf.cellar/org.apache.karaf.cellar.features@4.0.2?classifier=sources

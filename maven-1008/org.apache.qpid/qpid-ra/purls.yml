@@ -1,2 +1,7 @@
 - pkg:maven/org.apache.qpid/qpid-ra@0.30?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-ra@0.32?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-ra@6.0.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-ra@6.0.1?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-ra@6.0.2?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-ra@6.0.3?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-ra@6.0.4?classifier=sources

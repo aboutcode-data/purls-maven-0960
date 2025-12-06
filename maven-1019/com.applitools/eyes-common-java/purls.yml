@@ -1,0 +1,12 @@
+- pkg:maven/com.applitools/eyes-common-java@1.0
+- pkg:maven/com.applitools/eyes-common-java@1.0?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java@2.34
+- pkg:maven/com.applitools/eyes-common-java@2.34?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java@2.50
+- pkg:maven/com.applitools/eyes-common-java@2.50?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java@2.51
+- pkg:maven/com.applitools/eyes-common-java@2.51?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java@2.53
+- pkg:maven/com.applitools/eyes-common-java@2.53?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java@2.54
+- pkg:maven/com.applitools/eyes-common-java@2.54?classifier=sources

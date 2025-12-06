@@ -2,3 +2,11 @@
 - pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@0.6.2?classifier=sources
 - pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@0.8.2
 - pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@0.8.2?classifier=sources
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.1.0
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.1.0-PREVIEW.20160215
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.1.0-PREVIEW.20160215?classifier=sources
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.1.0?classifier=sources
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.1.1
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.1.1?classifier=sources
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.2.0
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-docker@1.2.0?classifier=sources

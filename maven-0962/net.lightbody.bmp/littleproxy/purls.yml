@@ -1,4 +1,12 @@
 - pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-1
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-10
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-10?classifier=sources
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-11
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-11?classifier=sources
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-12
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-12?classifier=sources
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-13
+- pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-13?classifier=sources
 - pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-1?classifier=sources
 - pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-2
 - pkg:maven/net.lightbody.bmp/littleproxy@1.1.0-beta-bmp-2?classifier=sources

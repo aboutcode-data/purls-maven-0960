@@ -6,3 +6,11 @@
 - pkg:maven/org.robolectric/shadows-maps@3.0-rc3
 - pkg:maven/org.robolectric/shadows-maps@3.0-rc3?classifier=sources
 - pkg:maven/org.robolectric/shadows-maps@3.0?classifier=sources
+- pkg:maven/org.robolectric/shadows-maps@3.1
+- pkg:maven/org.robolectric/shadows-maps@3.1-rc1
+- pkg:maven/org.robolectric/shadows-maps@3.1-rc1?classifier=sources
+- pkg:maven/org.robolectric/shadows-maps@3.1.1
+- pkg:maven/org.robolectric/shadows-maps@3.1.1?classifier=sources
+- pkg:maven/org.robolectric/shadows-maps@3.1.2
+- pkg:maven/org.robolectric/shadows-maps@3.1.2?classifier=sources
+- pkg:maven/org.robolectric/shadows-maps@3.1?classifier=sources

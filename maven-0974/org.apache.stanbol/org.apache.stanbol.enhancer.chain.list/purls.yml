@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.chain.list@0.12.0?classifier=sources
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.chain.list@0.9.0-incubating
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.chain.list@0.9.0-incubating?classifier=sources
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.chain.list@1.0.0
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.chain.list@1.0.0?classifier=sources

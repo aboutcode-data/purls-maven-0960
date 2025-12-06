@@ -6,6 +6,8 @@
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.12?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.13
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.13?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.14
+- pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.14?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.6
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.6?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.7
@@ -14,3 +16,5 @@
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.8?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.9
 - pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.6.9?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.8.0
+- pkg:maven/nz.ac.waikato.cms.weka/weka-stable@3.8.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.entityhub.test@0.12.0?classifier=sources
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.entityhub.test@0.9.0-incubating
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.entityhub.test@0.9.0-incubating?classifier=sources
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.entityhub.test@1.0.0
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.entityhub.test@1.0.0?classifier=sources

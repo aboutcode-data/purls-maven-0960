@@ -14,3 +14,13 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@0.30?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@0.32
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@0.32?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.0
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.1
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.1?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.2
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.2?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.3
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.3?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.4
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@6.0.4?classifier=sources

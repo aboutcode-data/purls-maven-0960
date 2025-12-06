@@ -8,6 +8,14 @@
 - pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.3?classifier=sources
 - pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.4
 - pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.4?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.6
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.6?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.7
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@10.7?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@11.0
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@11.0?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@11.1
+- pkg:maven/org.sakaiproject.jsf/myfaces-widgets@11.1?classifier=sources
 - pkg:maven/org.sakaiproject.jsf/myfaces-widgets@2.9.0
 - pkg:maven/org.sakaiproject.jsf/myfaces-widgets@2.9.0-b03
 - pkg:maven/org.sakaiproject.jsf/myfaces-widgets@2.9.0-b03?classifier=sources

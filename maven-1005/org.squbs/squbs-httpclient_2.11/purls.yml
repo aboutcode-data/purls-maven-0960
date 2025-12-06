@@ -1,2 +1,8 @@
 - pkg:maven/org.squbs/squbs-httpclient_2.11@0.7.0
 - pkg:maven/org.squbs/squbs-httpclient_2.11@0.7.0?classifier=sources
+- pkg:maven/org.squbs/squbs-httpclient_2.11@0.7.1
+- pkg:maven/org.squbs/squbs-httpclient_2.11@0.7.1?classifier=sources
+- pkg:maven/org.squbs/squbs-httpclient_2.11@0.8.0
+- pkg:maven/org.squbs/squbs-httpclient_2.11@0.8.0?classifier=sources
+- pkg:maven/org.squbs/squbs-httpclient_2.11@0.8.1
+- pkg:maven/org.squbs/squbs-httpclient_2.11@0.8.1?classifier=sources

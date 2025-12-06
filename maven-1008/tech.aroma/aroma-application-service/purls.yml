@@ -1,0 +1,4 @@
+- pkg:maven/tech.aroma/aroma-application-service@1.0
+- pkg:maven/tech.aroma/aroma-application-service@1.0?classifier=sources
+- pkg:maven/tech.aroma/aroma-application-service@1.1
+- pkg:maven/tech.aroma/aroma-application-service@1.1?classifier=sources

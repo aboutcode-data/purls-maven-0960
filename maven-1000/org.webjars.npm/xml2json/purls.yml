@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/xml2json@0.10.0
+- pkg:maven/org.webjars.npm/xml2json@0.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/xml2json@0.8.2
 - pkg:maven/org.webjars.npm/xml2json@0.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/xml2json@0.9.1
+- pkg:maven/org.webjars.npm/xml2json@0.9.1?classifier=sources

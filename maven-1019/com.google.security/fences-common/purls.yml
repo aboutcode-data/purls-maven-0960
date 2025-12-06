@@ -1,0 +1,6 @@
+- pkg:maven/com.google.security/fences-common@1.7-beta
+- pkg:maven/com.google.security/fences-common@1.7-beta?classifier=sources
+- pkg:maven/com.google.security/fences-common@1.8-beta
+- pkg:maven/com.google.security/fences-common@1.8-beta?classifier=sources
+- pkg:maven/com.google.security/fences-common@1.9-beta
+- pkg:maven/com.google.security/fences-common@1.9-beta?classifier=sources

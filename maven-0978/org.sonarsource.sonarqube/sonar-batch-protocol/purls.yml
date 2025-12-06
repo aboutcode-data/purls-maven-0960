@@ -4,3 +4,13 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.2-RC3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.2-RC4
 - pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.2-RC4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC2
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC3
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC4
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4-RC4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-batch-protocol@5.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.11@2.0.0
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.11@2.0.0-preview
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.11@2.0.0-preview?classifier=sources
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.11@2.0.0?classifier=sources
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.11@2.0.1
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.11@2.0.1?classifier=sources

@@ -21,6 +21,8 @@
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.0-beta1?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.0-beta2?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.0?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.10?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.11?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.1?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.2?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.3?type=war
@@ -28,6 +30,14 @@
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.5?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.6?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.7?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.8?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.8.9?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@2.9.0?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.0.0-M1?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.0.0-RC1?type=war
 - pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.0.0?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.0.1?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.0.2?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.1.0?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.1.1?type=war
+- pkg:maven/org.openrdf.sesame/sesame-store-compliance@4.1.2?type=war

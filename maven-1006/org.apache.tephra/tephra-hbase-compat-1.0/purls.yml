@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tephra/tephra-hbase-compat-1.0@0.8.0-incubating
+- pkg:maven/org.apache.tephra/tephra-hbase-compat-1.0@0.8.0-incubating?classifier=sources
+- pkg:maven/org.apache.tephra/tephra-hbase-compat-1.0@0.9.0-incubating
+- pkg:maven/org.apache.tephra/tephra-hbase-compat-1.0@0.9.0-incubating?classifier=sources

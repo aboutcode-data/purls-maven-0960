@@ -63,8 +63,14 @@
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.18.3?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.18.4
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.18.4?classifier=sources
+- pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.18.5
+- pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.18.5?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.18?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.19
+- pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.19.1
+- pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.19.1?classifier=sources
+- pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.19.2
+- pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.19.2?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.19?classifier=sources
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.2
 - pkg:maven/com.sun.jersey.samples/https-clientserver-grizzly@1.3

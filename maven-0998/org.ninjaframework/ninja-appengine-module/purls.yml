@@ -51,7 +51,17 @@
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.23?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.26
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.26?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.28
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.28?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.2?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.30
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.30?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.31
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.31?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.34
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.34?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.38
+- pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.38?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.4
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.4?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-module@1.9.6

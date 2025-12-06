@@ -1,0 +1,6 @@
+- pkg:maven/org.kaazing/gateway.service.turn.proxy@5.2.2
+- pkg:maven/org.kaazing/gateway.service.turn.proxy@5.2.2-RC001
+- pkg:maven/org.kaazing/gateway.service.turn.proxy@5.2.2-RC001?classifier=sources
+- pkg:maven/org.kaazing/gateway.service.turn.proxy@5.2.2-RC002
+- pkg:maven/org.kaazing/gateway.service.turn.proxy@5.2.2-RC002?classifier=sources
+- pkg:maven/org.kaazing/gateway.service.turn.proxy@5.2.2?classifier=sources

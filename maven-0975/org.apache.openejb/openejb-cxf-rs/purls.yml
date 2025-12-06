@@ -22,3 +22,7 @@
 - pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.1?classifier=sources
 - pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.2
 - pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.2?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.3
+- pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.3?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.4
+- pkg:maven/org.apache.openejb/openejb-cxf-rs@4.7.4?classifier=sources

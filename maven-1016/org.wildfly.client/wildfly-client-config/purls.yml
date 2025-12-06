@@ -7,3 +7,6 @@
 - pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha3
 - pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Beta1
+- pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.client/wildfly-client-config@1.0.0.Beta1?classifier=sources

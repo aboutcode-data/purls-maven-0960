@@ -1,3 +1,5 @@
+- pkg:maven/com.google.gwt.inject/gin@1.0
+- pkg:maven/com.google.gwt.inject/gin@1.0?classifier=sources
 - pkg:maven/com.google.gwt.inject/gin@1.5.0
 - pkg:maven/com.google.gwt.inject/gin@1.5.0?classifier=sources
 - pkg:maven/com.google.gwt.inject/gin@2.0.0

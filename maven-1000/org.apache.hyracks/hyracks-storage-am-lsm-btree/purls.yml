@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.hyracks/hyracks-storage-am-lsm-btree@0.2.16-incubating
 - pkg:maven/org.apache.hyracks/hyracks-storage-am-lsm-btree@0.2.16-incubating?classifier=sources
+- pkg:maven/org.apache.hyracks/hyracks-storage-am-lsm-btree@0.2.17-incubating
+- pkg:maven/org.apache.hyracks/hyracks-storage-am-lsm-btree@0.2.17-incubating?classifier=sources

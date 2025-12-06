@@ -1,0 +1,4 @@
+- pkg:maven/org.languagetool/languagetool-http-client@3.4
+- pkg:maven/org.languagetool/languagetool-http-client@3.4?classifier=sources
+- pkg:maven/org.languagetool/languagetool-http-client@3.5
+- pkg:maven/org.languagetool/languagetool-http-client@3.5?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.geomajas.plugin/geomajas-client-gwt-plugin-print-javadoc@1.15.1
 - pkg:maven/org.geomajas.plugin/geomajas-client-gwt-plugin-print-javadoc@1.15.1?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-client-gwt-plugin-print-javadoc@1.15.2
+- pkg:maven/org.geomajas.plugin/geomajas-client-gwt-plugin-print-javadoc@1.15.2?classifier=sources
 - pkg:maven/org.geomajas.plugin/geomajas-client-gwt-plugin-print-javadoc@1.16.0
 - pkg:maven/org.geomajas.plugin/geomajas-client-gwt-plugin-print-javadoc@1.16.0?classifier=sources

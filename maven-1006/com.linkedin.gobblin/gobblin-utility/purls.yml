@@ -1,0 +1,9 @@
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.0.0.mavenTest1-hadoop1?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.0.0.mavenTest1?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.6.0-279-g116c79b?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.6.0-hadoop1?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.6.0?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.6.2-hadoop1?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.6.2?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.7.0?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-utility@0.8.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC1
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC1?classifier=sources
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC2
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC2?classifier=sources
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC3
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC3?classifier=sources
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC4
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.0.0-RC4?classifier=sources

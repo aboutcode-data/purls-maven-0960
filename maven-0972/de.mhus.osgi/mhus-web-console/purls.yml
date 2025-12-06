@@ -1,2 +1,4 @@
 - pkg:maven/de.mhus.osgi/mhus-web-console@1.0.4
 - pkg:maven/de.mhus.osgi/mhus-web-console@1.0.4?classifier=sources
+- pkg:maven/de.mhus.osgi/mhus-web-console@1.0.5
+- pkg:maven/de.mhus.osgi/mhus-web-console@1.0.5?classifier=sources

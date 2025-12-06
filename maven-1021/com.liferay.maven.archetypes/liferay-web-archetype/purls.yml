@@ -27,5 +27,7 @@
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.10.9?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.1?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.2?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.4?classifier=sources
+- pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@6.2.5?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@7.0.0-m1?classifier=sources
 - pkg:maven/com.liferay.maven.archetypes/liferay-web-archetype@7.0.0-m2?classifier=sources

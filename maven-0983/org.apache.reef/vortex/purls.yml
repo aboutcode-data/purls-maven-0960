@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.reef/vortex@0.12.0-incubating?classifier=sources
 - pkg:maven/org.apache.reef/vortex@0.13.0-incubating
 - pkg:maven/org.apache.reef/vortex@0.13.0-incubating?classifier=sources
+- pkg:maven/org.apache.reef/vortex@0.14.0
+- pkg:maven/org.apache.reef/vortex@0.14.0?classifier=sources
+- pkg:maven/org.apache.reef/vortex@0.15.0
+- pkg:maven/org.apache.reef/vortex@0.15.0?classifier=sources

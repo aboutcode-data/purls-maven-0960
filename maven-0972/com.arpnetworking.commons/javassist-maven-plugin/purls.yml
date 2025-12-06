@@ -1,0 +1,4 @@
+- pkg:maven/com.arpnetworking.commons/javassist-maven-plugin@0.1.2
+- pkg:maven/com.arpnetworking.commons/javassist-maven-plugin@0.1.2?classifier=sources
+- pkg:maven/com.arpnetworking.commons/javassist-maven-plugin@0.1.3
+- pkg:maven/com.arpnetworking.commons/javassist-maven-plugin@0.1.3?classifier=sources

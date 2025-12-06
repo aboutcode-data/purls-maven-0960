@@ -1,0 +1,8 @@
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@0.2.0?classifier=sources
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@0.2.0?type=war
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@0.2.1?classifier=sources
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@0.2.1?type=war
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@1.0.0?classifier=sources
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@1.0.0?type=war
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@1.0.1?classifier=sources
+- pkg:maven/com.netflix.dynomite-manager/dynomitemanager-web@1.0.1?type=war

@@ -9,4 +9,6 @@
 - pkg:maven/org.spark-project.hive/hive-hbase-handler@0.13.1a
 - pkg:maven/org.spark-project.hive/hive-hbase-handler@0.13.1a?classifier=sources
 - pkg:maven/org.spark-project.hive/hive-hbase-handler@1.2.1.spark
+- pkg:maven/org.spark-project.hive/hive-hbase-handler@1.2.1.spark2
+- pkg:maven/org.spark-project.hive/hive-hbase-handler@1.2.1.spark2?classifier=sources
 - pkg:maven/org.spark-project.hive/hive-hbase-handler@1.2.1.spark?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.google.census/census-core_native@0.1.0
+- pkg:maven/com.google.census/census-core_native@0.1.0?classifier=sources
+- pkg:maven/com.google.census/census-core_native@0.2.0
+- pkg:maven/com.google.census/census-core_native@0.2.0?classifier=sources

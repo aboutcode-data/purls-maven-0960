@@ -36,6 +36,12 @@
 - pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.15.1?classifier=sources
 - pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.15.2
 - pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.15.2?classifier=sources
+- pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.16.0
+- pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.16.0?classifier=sources
+- pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.16.1
+- pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.16.1?classifier=sources
+- pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.16.2
+- pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.16.2?classifier=sources
 - pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.7.0
 - pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.7.0?classifier=sources
 - pkg:maven/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded@0.8.0

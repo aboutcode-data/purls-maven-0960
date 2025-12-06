@@ -1,0 +1,16 @@
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.18.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.18.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.19.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.19.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.19.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.19.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.19.2.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.19.2.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.20.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.20.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.20.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.20.1.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.21.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.21.0.Final?classifier=sources
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.22.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-command-cli@0.22.0.Final?classifier=sources

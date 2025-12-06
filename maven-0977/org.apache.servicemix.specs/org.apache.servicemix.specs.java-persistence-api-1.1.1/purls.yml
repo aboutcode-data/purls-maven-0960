@@ -24,3 +24,7 @@
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.4.0?classifier=sources
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.5.0
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.5.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.6.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.6.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.7.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.java-persistence-api-1.1.1@2.7.0?classifier=sources

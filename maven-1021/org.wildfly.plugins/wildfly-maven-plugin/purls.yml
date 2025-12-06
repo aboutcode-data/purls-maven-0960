@@ -7,6 +7,10 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.0.2.Final
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha1
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha10
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha10?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha11
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha11?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha2
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha2?classifier=sources
@@ -14,3 +18,13 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha4
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha5
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha5?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha6
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha6?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha7
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha7?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha8
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha8?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha9
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@1.1.0.Alpha9?classifier=sources

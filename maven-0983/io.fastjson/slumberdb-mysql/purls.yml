@@ -4,5 +4,7 @@
 - pkg:maven/io.fastjson/slumberdb-mysql@0.29?classifier=sources
 - pkg:maven/io.fastjson/slumberdb-mysql@0.30
 - pkg:maven/io.fastjson/slumberdb-mysql@0.30?classifier=sources
+- pkg:maven/io.fastjson/slumberdb-mysql@0.34
+- pkg:maven/io.fastjson/slumberdb-mysql@0.34?classifier=sources
 - pkg:maven/io.fastjson/slumberdb-mysql@0.5
 - pkg:maven/io.fastjson/slumberdb-mysql@0.5?classifier=sources

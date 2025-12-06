@@ -1,5 +1,9 @@
 - pkg:maven/org.apache.oodt/cas-curator@0.10?classifier=sources
 - pkg:maven/org.apache.oodt/cas-curator@0.10?type=war
+- pkg:maven/org.apache.oodt/cas-curator@0.11?classifier=sources
+- pkg:maven/org.apache.oodt/cas-curator@0.11?type=war
+- pkg:maven/org.apache.oodt/cas-curator@0.12?classifier=sources
+- pkg:maven/org.apache.oodt/cas-curator@0.12?type=war
 - pkg:maven/org.apache.oodt/cas-curator@0.2?classifier=sources
 - pkg:maven/org.apache.oodt/cas-curator@0.2?type=war
 - pkg:maven/org.apache.oodt/cas-curator@0.3?classifier=sources
@@ -16,3 +20,5 @@
 - pkg:maven/org.apache.oodt/cas-curator@0.8.1?type=war
 - pkg:maven/org.apache.oodt/cas-curator@0.8?classifier=sources
 - pkg:maven/org.apache.oodt/cas-curator@0.8?type=war
+- pkg:maven/org.apache.oodt/cas-curator@1.0?classifier=sources
+- pkg:maven/org.apache.oodt/cas-curator@1.0?type=war

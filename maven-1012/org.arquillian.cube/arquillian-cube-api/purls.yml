@@ -1,4 +1,16 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha1
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha10
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha10?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha11
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha11?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha12
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha12?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha13
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha13?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha14
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha14?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha15
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha15?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha1?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha2
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha2?classifier=sources
@@ -12,3 +24,7 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha7
 - pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha7?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha8
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha8?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha9
+- pkg:maven/org.arquillian.cube/arquillian-cube-api@1.0.0.Alpha9?classifier=sources

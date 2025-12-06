@@ -24,3 +24,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.0.0.Alpha8-jboss?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.0.0.Alpha9-jboss
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.0.0.Alpha9-jboss?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.4.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.4.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.4.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@3.4.1.Final?classifier=sources

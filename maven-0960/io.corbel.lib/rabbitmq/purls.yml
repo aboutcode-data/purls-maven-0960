@@ -2,3 +2,5 @@
 - pkg:maven/io.corbel.lib/rabbitmq@0.7.0?classifier=sources
 - pkg:maven/io.corbel.lib/rabbitmq@0.8.0
 - pkg:maven/io.corbel.lib/rabbitmq@0.8.0?classifier=sources
+- pkg:maven/io.corbel.lib/rabbitmq@0.9.0
+- pkg:maven/io.corbel.lib/rabbitmq@0.9.0?classifier=sources

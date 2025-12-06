@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/clean-css@3.1.9
 - pkg:maven/org.webjars.npm/clean-css@3.1.9?classifier=sources
+- pkg:maven/org.webjars.npm/clean-css@3.4.8
+- pkg:maven/org.webjars.npm/clean-css@3.4.8?classifier=sources

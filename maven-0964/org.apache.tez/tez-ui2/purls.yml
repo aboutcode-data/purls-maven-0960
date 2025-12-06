@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tez/tez-ui2@0.8.3?classifier=sources
+- pkg:maven/org.apache.tez/tez-ui2@0.8.3?type=war
+- pkg:maven/org.apache.tez/tez-ui2@0.8.4?classifier=sources
+- pkg:maven/org.apache.tez/tez-ui2@0.8.4?type=war

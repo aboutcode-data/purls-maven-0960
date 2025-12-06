@@ -1,0 +1,8 @@
+- pkg:maven/org.hammerlab/magic-rdds@1.0.0
+- pkg:maven/org.hammerlab/magic-rdds@1.0.0?classifier=sources
+- pkg:maven/org.hammerlab/magic-rdds@1.1.0
+- pkg:maven/org.hammerlab/magic-rdds@1.1.0?classifier=sources
+- pkg:maven/org.hammerlab/magic-rdds@1.2.8_2.10
+- pkg:maven/org.hammerlab/magic-rdds@1.2.8_2.10?classifier=sources
+- pkg:maven/org.hammerlab/magic-rdds@1.2.8_2.11
+- pkg:maven/org.hammerlab/magic-rdds@1.2.8_2.11?classifier=sources

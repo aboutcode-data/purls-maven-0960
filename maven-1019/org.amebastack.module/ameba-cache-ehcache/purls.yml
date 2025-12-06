@@ -12,3 +12,5 @@
 - pkg:maven/org.amebastack.module/ameba-cache-ehcache@0.1.7.Alpha1?classifier=sources
 - pkg:maven/org.amebastack.module/ameba-cache-ehcache@0.1.7.Alpha2
 - pkg:maven/org.amebastack.module/ameba-cache-ehcache@0.1.7.Alpha2?classifier=sources
+- pkg:maven/org.amebastack.module/ameba-cache-ehcache@0.1.8
+- pkg:maven/org.amebastack.module/ameba-cache-ehcache@0.1.8?classifier=sources

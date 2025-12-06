@@ -121,6 +121,10 @@
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.13?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.14
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.14?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.15
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.15?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.16
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.16?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.1?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.2
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.2?classifier=sources
@@ -176,6 +180,12 @@
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.20.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.21.0
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.21.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.22.0
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.22.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.23.0
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.23.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.24.0
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.24.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.3.0
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.3.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.4.0
@@ -208,3 +218,11 @@
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.1.0
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.2.0
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.2.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.3.0
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.4.0
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@7.4.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@8.0.0-M1
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@8.0.0-M1?classifier=sources

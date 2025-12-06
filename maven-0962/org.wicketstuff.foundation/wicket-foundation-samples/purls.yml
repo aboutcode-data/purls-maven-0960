@@ -4,3 +4,11 @@
 - pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.0.0?type=war
 - pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.1.0?classifier=sources
 - pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.1.0?type=war
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.2.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.2.0?type=war
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.3.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.3.0?type=war
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.4.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@7.4.0?type=war
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@8.0.0-M1?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-samples@8.0.0-M1?type=war

@@ -36,3 +36,5 @@
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-servlet@2.5.0-RC1
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-servlet@2.5.0-RC1?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle/demoiselle-servlet@2.5.0?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-servlet@2.5.1
+- pkg:maven/br.gov.frameworkdemoiselle/demoiselle-servlet@2.5.1?classifier=sources

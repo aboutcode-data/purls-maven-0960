@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-jdbc-http@3.0
+- pkg:maven/org.neo4j/neo4j-jdbc-http@3.0.1
+- pkg:maven/org.neo4j/neo4j-jdbc-http@3.0.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-http@3.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bower/animate.css@3.1.0
 - pkg:maven/org.webjars.bower/animate.css@3.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/animate.css@3.1.1
+- pkg:maven/org.webjars.bower/animate.css@3.1.1?classifier=sources
 - pkg:maven/org.webjars.bower/animate.css@3.2.0
 - pkg:maven/org.webjars.bower/animate.css@3.2.0?classifier=sources
 - pkg:maven/org.webjars.bower/animate.css@3.3.0
@@ -8,3 +10,9 @@
 - pkg:maven/org.webjars.bower/animate.css@3.3.1?classifier=sources
 - pkg:maven/org.webjars.bower/animate.css@3.4.0
 - pkg:maven/org.webjars.bower/animate.css@3.4.0?classifier=sources
+- pkg:maven/org.webjars.bower/animate.css@3.5.0
+- pkg:maven/org.webjars.bower/animate.css@3.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/animate.css@3.5.1
+- pkg:maven/org.webjars.bower/animate.css@3.5.1?classifier=sources
+- pkg:maven/org.webjars.bower/animate.css@3.5.2
+- pkg:maven/org.webjars.bower/animate.css@3.5.2?classifier=sources

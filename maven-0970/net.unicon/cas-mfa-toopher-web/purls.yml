@@ -1,5 +1,7 @@
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-M6?classifier=sources
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-M6?type=war
+- pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC10?classifier=sources
+- pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC10?type=war
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC1?classifier=sources
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC1?type=war
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC2?classifier=sources
@@ -16,3 +18,5 @@
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC7?type=war
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC8?classifier=sources
 - pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC8?type=war
+- pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC9?classifier=sources
+- pkg:maven/net.unicon/cas-mfa-toopher-web@1.0.0-RC9?type=war

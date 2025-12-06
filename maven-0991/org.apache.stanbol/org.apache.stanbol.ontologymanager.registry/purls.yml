@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.ontologymanager.registry@0.12.0?classifier=sources
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.ontologymanager.registry@0.9.0-incubating
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.ontologymanager.registry@0.9.0-incubating?classifier=sources
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.ontologymanager.registry@1.0.0
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.ontologymanager.registry@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.davidtanzer/jdefensive@0.1.0
+- pkg:maven/net.davidtanzer/jdefensive@0.1.0?classifier=sources
+- pkg:maven/net.davidtanzer/jdefensive@0.2.0
+- pkg:maven/net.davidtanzer/jdefensive@0.2.0?classifier=sources

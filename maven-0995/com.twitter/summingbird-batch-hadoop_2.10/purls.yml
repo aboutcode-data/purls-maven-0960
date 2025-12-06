@@ -1,3 +1,9 @@
+- pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.10.0-RC1
+- pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.10.0-RC1?classifier=sources
+- pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.10.0-RC2
+- pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.10.0-RC2?classifier=sources
+- pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.11.0-RC1
+- pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.11.0-RC1?classifier=sources
 - pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.3.4rc1
 - pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.3.4rc1?classifier=sources
 - pkg:maven/com.twitter/summingbird-batch-hadoop_2.10@0.4.0rc1

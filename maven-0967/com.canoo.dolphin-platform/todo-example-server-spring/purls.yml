@@ -1,2 +1,8 @@
 - pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.6.1
 - pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.6.1?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.7.0
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.7.0?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.7.2
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.7.2?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.8.0
+- pkg:maven/com.canoo.dolphin-platform/todo-example-server-spring@0.8.0?classifier=sources

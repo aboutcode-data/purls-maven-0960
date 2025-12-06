@@ -8,3 +8,7 @@
 - pkg:maven/com.abiquo/commons-test@3.4.0?classifier=sources
 - pkg:maven/com.abiquo/commons-test@3.6.0
 - pkg:maven/com.abiquo/commons-test@3.6.0?classifier=sources
+- pkg:maven/com.abiquo/commons-test@3.8.0
+- pkg:maven/com.abiquo/commons-test@3.8.0?classifier=sources
+- pkg:maven/com.abiquo/commons-test@3.8.2
+- pkg:maven/com.abiquo/commons-test@3.8.2?classifier=sources

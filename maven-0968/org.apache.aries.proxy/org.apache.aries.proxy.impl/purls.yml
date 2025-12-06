@@ -24,3 +24,6 @@
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy.impl@1.0.4
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy.impl@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy.impl@1.0.4?classifier=sources
+- pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy.impl@1.0.5
+- pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy.impl@1.0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.proxy/org.apache.aries.proxy.impl@1.0.5?classifier=sources

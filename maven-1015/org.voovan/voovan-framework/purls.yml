@@ -1,0 +1,8 @@
+- pkg:maven/org.voovan/voovan-framework@0.9.8
+- pkg:maven/org.voovan/voovan-framework@0.9.8?classifier=sources
+- pkg:maven/org.voovan/voovan-framework@1.0-alpha
+- pkg:maven/org.voovan/voovan-framework@1.0-alpha-2
+- pkg:maven/org.voovan/voovan-framework@1.0-alpha-2?classifier=sources
+- pkg:maven/org.voovan/voovan-framework@1.0-alpha?classifier=sources
+- pkg:maven/org.voovan/voovan-framework@1.0-beta-1
+- pkg:maven/org.voovan/voovan-framework@1.0-beta-1?classifier=sources

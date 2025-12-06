@@ -12,6 +12,12 @@
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.4?classifier=sources
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.5
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.5?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.6
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.6?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.7
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.7?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.8
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@3.0.8?classifier=sources
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.0
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.0.M1
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.0.M1?classifier=sources
@@ -26,3 +32,11 @@
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.2?classifier=sources
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.3
 - pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.3?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.4
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.4?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.5
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.5?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.6
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.6?classifier=sources
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.7
+- pkg:maven/org.apache.karaf.wrapper/org.apache.karaf.wrapper.core@4.0.7?classifier=sources

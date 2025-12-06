@@ -1,0 +1,6 @@
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-common-gemfire@1.0.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-common-gemfire@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-common-gemfire@1.0.2.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-common-gemfire@1.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-common-gemfire@1.0.4.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-common-gemfire@1.0.4.RELEASE?classifier=sources

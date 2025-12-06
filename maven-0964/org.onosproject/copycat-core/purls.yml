@@ -4,3 +4,5 @@
 - pkg:maven/org.onosproject/copycat-core@0.4.1.onos?classifier=sources
 - pkg:maven/org.onosproject/copycat-core@0.5.0.onos
 - pkg:maven/org.onosproject/copycat-core@0.5.0.onos?classifier=sources
+- pkg:maven/org.onosproject/copycat-core@0.5.1.onos
+- pkg:maven/org.onosproject/copycat-core@0.5.1.onos?classifier=sources

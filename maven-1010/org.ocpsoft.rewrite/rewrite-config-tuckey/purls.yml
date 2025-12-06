@@ -68,3 +68,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.0.0.Alpha5?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.0.0.Alpha6
 - pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.0.0.Alpha6?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.4.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.4.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.4.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-tuckey@3.4.1.Final?classifier=sources

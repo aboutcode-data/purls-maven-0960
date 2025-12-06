@@ -1,2 +1,4 @@
 - pkg:maven/org.kevoree.log/org.kevoree.log@1
 - pkg:maven/org.kevoree.log/org.kevoree.log@1?classifier=sources
+- pkg:maven/org.kevoree.log/org.kevoree.log@2
+- pkg:maven/org.kevoree.log/org.kevoree.log@2?classifier=sources

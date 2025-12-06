@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.10.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.10.0.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.11.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.11.0.Final?classifier=sources

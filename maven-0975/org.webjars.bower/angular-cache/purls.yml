@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bower/angular-cache@2.3.7
+- pkg:maven/org.webjars.bower/angular-cache@2.3.7?classifier=sources
 - pkg:maven/org.webjars.bower/angular-cache@4.3.2
 - pkg:maven/org.webjars.bower/angular-cache@4.3.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-cache@4.4.3
+- pkg:maven/org.webjars.bower/angular-cache@4.4.3?classifier=sources

@@ -1,3 +1,13 @@
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.0?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.0?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.1?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.1?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.2?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.2?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.3?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.3?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.4?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.4?type=war
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.RC3.1?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.RC3.1?type=war
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.RC3.preview.0?classifier=sources
@@ -20,3 +30,7 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.RC5.1?type=war
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.RC5?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.0.RC5?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.1.0?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.1.0?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.1.1?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@1.1.1?type=war

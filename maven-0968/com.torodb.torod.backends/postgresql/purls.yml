@@ -1,0 +1,8 @@
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40-alpha1
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40-alpha1?classifier=sources
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40-alpha2
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40-alpha2?classifier=sources
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40-alpha3
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40-alpha3?classifier=sources
+- pkg:maven/com.torodb.torod.backends/postgresql@0.40?classifier=sources

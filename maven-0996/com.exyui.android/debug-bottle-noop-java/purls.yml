@@ -1,0 +1,6 @@
+- pkg:maven/com.exyui.android/debug-bottle-noop-java@1.0.0EAP-beta?classifier=sources
+- pkg:maven/com.exyui.android/debug-bottle-noop-java@1.0.0EAP-beta?type=aar
+- pkg:maven/com.exyui.android/debug-bottle-noop-java@1.0.0EAP-support22-beta?classifier=sources
+- pkg:maven/com.exyui.android/debug-bottle-noop-java@1.0.0EAP-support22-beta?type=aar
+- pkg:maven/com.exyui.android/debug-bottle-noop-java@1.0.0EAP-support23-beta?classifier=sources
+- pkg:maven/com.exyui.android/debug-bottle-noop-java@1.0.0EAP-support23-beta?type=aar

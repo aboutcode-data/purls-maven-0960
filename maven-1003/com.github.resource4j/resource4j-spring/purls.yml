@@ -1,2 +1,4 @@
 - pkg:maven/com.github.resource4j/resource4j-spring@2.0.2
 - pkg:maven/com.github.resource4j/resource4j-spring@2.0.2?classifier=sources
+- pkg:maven/com.github.resource4j/resource4j-spring@3.0.0
+- pkg:maven/com.github.resource4j/resource4j-spring@3.0.0?classifier=sources

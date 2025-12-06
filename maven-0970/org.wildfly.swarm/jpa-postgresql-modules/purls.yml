@@ -1,0 +1,10 @@
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.0.CR2
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.0.CR2?classifier=sources
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.0.CR3
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.0.CR3?classifier=sources
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.0.Final
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.1.Final
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.2.Final
+- pkg:maven/org.wildfly.swarm/jpa-postgresql-modules@1.0.2.Final?classifier=sources

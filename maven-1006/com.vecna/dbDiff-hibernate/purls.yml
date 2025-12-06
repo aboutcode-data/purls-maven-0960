@@ -12,3 +12,5 @@
 - pkg:maven/com.vecna/dbDiff-hibernate@2.1?classifier=sources
 - pkg:maven/com.vecna/dbDiff-hibernate@2.2
 - pkg:maven/com.vecna/dbDiff-hibernate@2.2?classifier=sources
+- pkg:maven/com.vecna/dbDiff-hibernate@2.3
+- pkg:maven/com.vecna/dbDiff-hibernate@2.3?classifier=sources

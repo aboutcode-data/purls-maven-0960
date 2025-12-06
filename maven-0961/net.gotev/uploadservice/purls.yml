@@ -1,0 +1,14 @@
+- pkg:maven/net.gotev/uploadservice@2.0.1?classifier=sources
+- pkg:maven/net.gotev/uploadservice@2.0.1?type=aar
+- pkg:maven/net.gotev/uploadservice@2.0?classifier=sources
+- pkg:maven/net.gotev/uploadservice@2.0?type=aar
+- pkg:maven/net.gotev/uploadservice@2.1?classifier=sources
+- pkg:maven/net.gotev/uploadservice@2.1?type=aar
+- pkg:maven/net.gotev/uploadservice@3.0.1?classifier=sources
+- pkg:maven/net.gotev/uploadservice@3.0.1?type=aar
+- pkg:maven/net.gotev/uploadservice@3.0.2?classifier=sources
+- pkg:maven/net.gotev/uploadservice@3.0.2?type=aar
+- pkg:maven/net.gotev/uploadservice@3.0.3?classifier=sources
+- pkg:maven/net.gotev/uploadservice@3.0.3?type=aar
+- pkg:maven/net.gotev/uploadservice@3.0?classifier=sources
+- pkg:maven/net.gotev/uploadservice@3.0?type=aar

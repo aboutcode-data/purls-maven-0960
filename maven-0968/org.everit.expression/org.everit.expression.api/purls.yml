@@ -1,2 +1,4 @@
 - pkg:maven/org.everit.expression/org.everit.expression.api@1.0.0
 - pkg:maven/org.everit.expression/org.everit.expression.api@1.0.0?classifier=sources
+- pkg:maven/org.everit.expression/org.everit.expression.api@1.1.0
+- pkg:maven/org.everit.expression/org.everit.expression.api@1.1.0?classifier=sources

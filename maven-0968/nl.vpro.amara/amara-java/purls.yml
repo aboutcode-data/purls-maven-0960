@@ -1,0 +1,4 @@
+- pkg:maven/nl.vpro.amara/amara-java@0.1
+- pkg:maven/nl.vpro.amara/amara-java@0.1?classifier=sources
+- pkg:maven/nl.vpro.amara/amara-java@0.2
+- pkg:maven/nl.vpro.amara/amara-java@0.2?classifier=sources

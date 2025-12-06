@@ -1,3 +1,5 @@
+- pkg:maven/net.fortytwo.sesametools/caching-sail@1.10
+- pkg:maven/net.fortytwo.sesametools/caching-sail@1.10?classifier=sources
 - pkg:maven/net.fortytwo.sesametools/caching-sail@1.7
 - pkg:maven/net.fortytwo.sesametools/caching-sail@1.7?classifier=sources
 - pkg:maven/net.fortytwo.sesametools/caching-sail@1.8

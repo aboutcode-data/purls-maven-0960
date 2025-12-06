@@ -1,0 +1,4 @@
+- pkg:maven/com.abercap/odoo-java-api@1.0.0.RELEASE
+- pkg:maven/com.abercap/odoo-java-api@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.abercap/odoo-java-api@1.1.0.RELEASE
+- pkg:maven/com.abercap/odoo-java-api@1.1.0.RELEASE?classifier=sources

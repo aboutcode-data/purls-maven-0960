@@ -20,6 +20,14 @@
 - pkg:maven/org.jinq/jinq-jpa-scala@1.7?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.1
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.10
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.10?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.11
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.11?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.12
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.12?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.13
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.13?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.1?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.2
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.2?classifier=sources
@@ -27,4 +35,12 @@
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.4?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.5
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8.5?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.6
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.6?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.7
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.7?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.8
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.8?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.9
+- pkg:maven/org.jinq/jinq-jpa-scala@1.8.9?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-scala@1.8?classifier=sources

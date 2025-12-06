@@ -1,0 +1,2 @@
+- pkg:maven/org.sglahn/gradle-dockerfile-plugin@0.2
+- pkg:maven/org.sglahn/gradle-dockerfile-plugin@0.2?classifier=sources

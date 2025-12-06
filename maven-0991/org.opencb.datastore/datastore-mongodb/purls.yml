@@ -10,3 +10,5 @@
 - pkg:maven/org.opencb.datastore/datastore-mongodb@0.3.3?classifier=sources
 - pkg:maven/org.opencb.datastore/datastore-mongodb@0.4.0
 - pkg:maven/org.opencb.datastore/datastore-mongodb@0.4.0?classifier=sources
+- pkg:maven/org.opencb.datastore/datastore-mongodb@0.5.0
+- pkg:maven/org.opencb.datastore/datastore-mongodb@0.5.0?classifier=sources

@@ -28,3 +28,7 @@
 - pkg:maven/com.contentful.vault/core@0.9.8?classifier=sources
 - pkg:maven/com.contentful.vault/core@0.9.9
 - pkg:maven/com.contentful.vault/core@0.9.9?classifier=sources
+- pkg:maven/com.contentful.vault/core@1.0.0
+- pkg:maven/com.contentful.vault/core@1.0.0?classifier=sources
+- pkg:maven/com.contentful.vault/core@2.0.0
+- pkg:maven/com.contentful.vault/core@2.0.0?classifier=sources

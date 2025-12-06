@@ -1,1 +1,5 @@
+- pkg:maven/org.membrane-soa/service-proxy-sar@4.0.99?classifier=sources
 - pkg:maven/org.membrane-soa/service-proxy-sar@4.1.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-sar@4.2.0?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-sar@4.2.1?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-sar@4.2.2?classifier=sources

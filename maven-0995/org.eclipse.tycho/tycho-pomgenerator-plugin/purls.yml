@@ -30,3 +30,7 @@
 - pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.23.1?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.24.0
 - pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.25.0
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.26.0
+- pkg:maven/org.eclipse.tycho/tycho-pomgenerator-plugin@0.26.0?classifier=sources

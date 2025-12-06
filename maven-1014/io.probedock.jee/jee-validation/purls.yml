@@ -1,0 +1,4 @@
+- pkg:maven/io.probedock.jee/jee-validation@0.1.0
+- pkg:maven/io.probedock.jee/jee-validation@0.1.0?classifier=sources
+- pkg:maven/io.probedock.jee/jee-validation@0.2.0
+- pkg:maven/io.probedock.jee/jee-validation@0.2.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.foreach.across.modules/application-info-module@1.0.0.RELEASE
 - pkg:maven/com.foreach.across.modules/application-info-module@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/application-info-module@1.0.1.RELEASE
+- pkg:maven/com.foreach.across.modules/application-info-module@1.0.1.RELEASE?classifier=sources

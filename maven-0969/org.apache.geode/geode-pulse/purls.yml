@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M2?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M2?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M3?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M3?type=war

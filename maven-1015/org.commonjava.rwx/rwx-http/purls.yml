@@ -1,0 +1,4 @@
+- pkg:maven/org.commonjava.rwx/rwx-http@0.3
+- pkg:maven/org.commonjava.rwx/rwx-http@0.3?classifier=sources
+- pkg:maven/org.commonjava.rwx/rwx-http@1.0
+- pkg:maven/org.commonjava.rwx/rwx-http@1.0?classifier=sources

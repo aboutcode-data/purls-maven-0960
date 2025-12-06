@@ -66,6 +66,12 @@
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.15?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.16?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.16?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.4.17?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.4.17?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.4.18?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.4.18?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.4.19?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.4.19?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.1?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.2?classifier=sources
@@ -84,3 +90,9 @@
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.8?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.4.9?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.5.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.5.0?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.5.1?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.5.1?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.6.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.6.0?type=war

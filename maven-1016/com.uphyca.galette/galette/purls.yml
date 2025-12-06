@@ -8,6 +8,12 @@
 - pkg:maven/com.uphyca.galette/galette@0.9.12?type=aar
 - pkg:maven/com.uphyca.galette/galette@0.9.13?classifier=sources
 - pkg:maven/com.uphyca.galette/galette@0.9.13?type=aar
+- pkg:maven/com.uphyca.galette/galette@0.9.14?classifier=sources
+- pkg:maven/com.uphyca.galette/galette@0.9.14?type=aar
+- pkg:maven/com.uphyca.galette/galette@0.9.15?classifier=sources
+- pkg:maven/com.uphyca.galette/galette@0.9.15?type=aar
+- pkg:maven/com.uphyca.galette/galette@0.9.16?classifier=sources
+- pkg:maven/com.uphyca.galette/galette@0.9.16?type=aar
 - pkg:maven/com.uphyca.galette/galette@0.9.1?classifier=sources
 - pkg:maven/com.uphyca.galette/galette@0.9.1?type=aar
 - pkg:maven/com.uphyca.galette/galette@0.9.2?classifier=sources

@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@3
 - pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@3?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@3?classifier=sources
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@4
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@4?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.maven/myfaces-site-skin@4?classifier=sources

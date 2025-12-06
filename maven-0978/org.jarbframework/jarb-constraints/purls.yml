@@ -16,3 +16,5 @@
 - pkg:maven/org.jarbframework/jarb-constraints@2.1.0?classifier=sources
 - pkg:maven/org.jarbframework/jarb-constraints@2.3.0
 - pkg:maven/org.jarbframework/jarb-constraints@2.3.0?classifier=sources
+- pkg:maven/org.jarbframework/jarb-constraints@2.4.3
+- pkg:maven/org.jarbframework/jarb-constraints@2.4.3?classifier=sources
