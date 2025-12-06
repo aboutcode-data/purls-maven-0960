@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.apex/apex-conf-archetype@3.2.1-incubating?classifier=sources
 - pkg:maven/org.apache.apex/apex-conf-archetype@3.3.0-incubating?classifier=sources
 - pkg:maven/org.apache.apex/apex-conf-archetype@3.4.0?classifier=sources
+- pkg:maven/org.apache.apex/apex-conf-archetype@3.5.0?classifier=sources
+- pkg:maven/org.apache.apex/apex-conf-archetype@3.6.0?classifier=sources

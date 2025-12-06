@@ -28,3 +28,13 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.0.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.1.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.2.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.1.0.Alpha1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.1.0.Alpha1?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.1.0.Alpha2
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.1.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.1.0.Alpha3
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@2.1.0.Alpha3?classifier=sources

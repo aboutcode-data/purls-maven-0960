@@ -2,3 +2,9 @@
 - pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M2?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M3?classifier=sources
 - pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating.M3?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.0.0-incubating?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.1.0?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.1.0?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.1.1?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.1.1?type=war

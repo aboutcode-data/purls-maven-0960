@@ -24,3 +24,5 @@
 - pkg:maven/org.mobicents.tools/maven-du-plugin@3.0.9?classifier=sources
 - pkg:maven/org.mobicents.tools/maven-du-plugin@4.0.1
 - pkg:maven/org.mobicents.tools/maven-du-plugin@4.0.1?classifier=sources
+- pkg:maven/org.mobicents.tools/maven-du-plugin@4.0.2
+- pkg:maven/org.mobicents.tools/maven-du-plugin@4.0.2?classifier=sources

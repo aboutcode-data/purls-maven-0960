@@ -4,5 +4,9 @@
 - pkg:maven/org.mbtest.javabank/javabank-client@0.2.2
 - pkg:maven/org.mbtest.javabank/javabank-client@0.2.2?classifier=sources
 - pkg:maven/org.mbtest.javabank/javabank-client@0.2?classifier=sources
+- pkg:maven/org.mbtest.javabank/javabank-client@0.4.10
+- pkg:maven/org.mbtest.javabank/javabank-client@0.4.10?classifier=sources
 - pkg:maven/org.mbtest.javabank/javabank-client@0.4.7
 - pkg:maven/org.mbtest.javabank/javabank-client@0.4.7?classifier=sources
+- pkg:maven/org.mbtest.javabank/javabank-client@0.4.9
+- pkg:maven/org.mbtest.javabank/javabank-client@0.4.9?classifier=sources

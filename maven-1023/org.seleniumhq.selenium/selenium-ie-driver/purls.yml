@@ -168,3 +168,15 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.0.0-beta4
 - pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.0.0-beta4?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.0.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.0.1
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.0.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.1.0
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.1.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.2.0
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.2.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.3.0
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.3.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.3.1
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.3.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.4.0
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@3.4.0?classifier=sources

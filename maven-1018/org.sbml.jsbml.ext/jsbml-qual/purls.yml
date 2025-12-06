@@ -1,0 +1,8 @@
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.0
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.0?classifier=sources
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.1
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.1?classifier=sources
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.2
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.2-beta1
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.2-beta1?classifier=sources
+- pkg:maven/org.sbml.jsbml.ext/jsbml-qual@1.2?classifier=sources

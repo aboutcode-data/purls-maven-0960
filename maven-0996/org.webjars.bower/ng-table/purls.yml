@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.bower/ng-table@1.0.0-beta.9
 - pkg:maven/org.webjars.bower/ng-table@1.0.0-beta.9?classifier=sources
 - pkg:maven/org.webjars.bower/ng-table@1.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/ng-table@4.0.0
+- pkg:maven/org.webjars.bower/ng-table@4.0.0?classifier=sources

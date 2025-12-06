@@ -38,3 +38,5 @@
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-auth-server@1.2.0-alpha.2?type=war
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-auth-server@1.2.0-alpha.3?classifier=sources
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-auth-server@1.2.0-alpha.3?type=war
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-auth-server@1.2.0-beta.1?classifier=sources
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-auth-server@1.2.0-beta.1?type=war

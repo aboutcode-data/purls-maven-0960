@@ -1,5 +1,6 @@
 - pkg:maven/org.jooby/jooby-executor@0.16.0
 - pkg:maven/org.jooby/jooby-executor@0.16.0?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.0.0
 - pkg:maven/org.jooby/jooby-executor@1.0.0.CR1
 - pkg:maven/org.jooby/jooby-executor@1.0.0.CR1?classifier=sources
 - pkg:maven/org.jooby/jooby-executor@1.0.0.CR2
@@ -16,3 +17,16 @@
 - pkg:maven/org.jooby/jooby-executor@1.0.0.CR7?classifier=sources
 - pkg:maven/org.jooby/jooby-executor@1.0.0.CR8
 - pkg:maven/org.jooby/jooby-executor@1.0.0.CR8?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.0.0?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.0.1
+- pkg:maven/org.jooby/jooby-executor@1.0.1?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.0.2
+- pkg:maven/org.jooby/jooby-executor@1.0.2?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.0.3
+- pkg:maven/org.jooby/jooby-executor@1.0.3?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.1.0
+- pkg:maven/org.jooby/jooby-executor@1.1.0?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.1.1
+- pkg:maven/org.jooby/jooby-executor@1.1.1?classifier=sources
+- pkg:maven/org.jooby/jooby-executor@1.1.2
+- pkg:maven/org.jooby/jooby-executor@1.1.2?classifier=sources

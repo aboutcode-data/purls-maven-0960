@@ -37,3 +37,7 @@
 - pkg:maven/org.beangle/beangle-codestyle@23.3?classifier=sources
 - pkg:maven/org.beangle/beangle-codestyle@23.4
 - pkg:maven/org.beangle/beangle-codestyle@23.4?classifier=sources
+- pkg:maven/org.beangle/beangle-codestyle@24.0
+- pkg:maven/org.beangle/beangle-codestyle@24.0?classifier=sources
+- pkg:maven/org.beangle/beangle-codestyle@24.1
+- pkg:maven/org.beangle/beangle-codestyle@24.1?classifier=sources

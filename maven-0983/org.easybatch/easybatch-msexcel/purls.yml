@@ -2,7 +2,13 @@
 - pkg:maven/org.easybatch/easybatch-msexcel@4.1.0?classifier=sources
 - pkg:maven/org.easybatch/easybatch-msexcel@4.2.0
 - pkg:maven/org.easybatch/easybatch-msexcel@4.2.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-msexcel@4.2.1
+- pkg:maven/org.easybatch/easybatch-msexcel@4.2.1?classifier=sources
+- pkg:maven/org.easybatch/easybatch-msexcel@5.0.0
 - pkg:maven/org.easybatch/easybatch-msexcel@5.0.0-RC1
 - pkg:maven/org.easybatch/easybatch-msexcel@5.0.0-RC1?classifier=sources
 - pkg:maven/org.easybatch/easybatch-msexcel@5.0.0-RC2
 - pkg:maven/org.easybatch/easybatch-msexcel@5.0.0-RC2?classifier=sources
+- pkg:maven/org.easybatch/easybatch-msexcel@5.0.0?classifier=sources
+- pkg:maven/org.easybatch/easybatch-msexcel@5.1.0
+- pkg:maven/org.easybatch/easybatch-msexcel@5.1.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/io.leopard/leopard-session@0.0.2
 - pkg:maven/io.leopard/leopard-session@0.0.2?classifier=sources
+- pkg:maven/io.leopard/leopard-session@0.9.10
+- pkg:maven/io.leopard/leopard-session@0.9.10?classifier=sources
 - pkg:maven/io.leopard/leopard-session@0.9.4
 - pkg:maven/io.leopard/leopard-session@0.9.4?classifier=sources
 - pkg:maven/io.leopard/leopard-session@0.9.6

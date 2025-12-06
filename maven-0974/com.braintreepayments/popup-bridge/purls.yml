@@ -1,0 +1,4 @@
+- pkg:maven/com.braintreepayments/popup-bridge@0.1.0?classifier=sources
+- pkg:maven/com.braintreepayments/popup-bridge@0.1.0?type=aar
+- pkg:maven/com.braintreepayments/popup-bridge@0.1.1?classifier=sources
+- pkg:maven/com.braintreepayments/popup-bridge@0.1.1?type=aar

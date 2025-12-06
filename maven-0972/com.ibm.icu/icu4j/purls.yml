@@ -40,3 +40,9 @@
 - pkg:maven/com.ibm.icu/icu4j@56.1?classifier=sources
 - pkg:maven/com.ibm.icu/icu4j@57.1
 - pkg:maven/com.ibm.icu/icu4j@57.1?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j@58.1
+- pkg:maven/com.ibm.icu/icu4j@58.1?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j@58.2
+- pkg:maven/com.ibm.icu/icu4j@58.2?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j@59.1
+- pkg:maven/com.ibm.icu/icu4j@59.1?classifier=sources

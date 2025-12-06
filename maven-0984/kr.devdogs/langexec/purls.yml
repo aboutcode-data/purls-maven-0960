@@ -1,0 +1,6 @@
+- pkg:maven/kr.devdogs/langexec@0.1
+- pkg:maven/kr.devdogs/langexec@0.11
+- pkg:maven/kr.devdogs/langexec@0.11?classifier=sources
+- pkg:maven/kr.devdogs/langexec@0.12
+- pkg:maven/kr.devdogs/langexec@0.12?classifier=sources
+- pkg:maven/kr.devdogs/langexec@0.1?classifier=sources

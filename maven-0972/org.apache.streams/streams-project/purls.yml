@@ -1,3 +1,6 @@
 - pkg:maven/org.apache.streams/streams-project@0.1-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.streams/streams-project@0.2-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.streams/streams-project@0.3-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.streams/streams-project@0.4-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.streams/streams-project@0.4.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.streams/streams-project@0.5-incubating?classifier=source-release&type=zip

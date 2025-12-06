@@ -1,0 +1,4 @@
+- pkg:maven/com.kasisoft.cdi/weldex@0.1
+- pkg:maven/com.kasisoft.cdi/weldex@0.1?classifier=sources
+- pkg:maven/com.kasisoft.cdi/weldex@0.2
+- pkg:maven/com.kasisoft.cdi/weldex@0.2?classifier=sources

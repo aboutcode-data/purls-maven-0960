@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.maven.shared/maven-artifact-transfer@0.9.0
+- pkg:maven/org.apache.maven.shared/maven-artifact-transfer@0.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-artifact-transfer@0.9.0?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-artifact-transfer@0.9.1
+- pkg:maven/org.apache.maven.shared/maven-artifact-transfer@0.9.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-artifact-transfer@0.9.1?classifier=sources

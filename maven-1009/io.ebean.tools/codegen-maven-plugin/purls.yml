@@ -1,0 +1,4 @@
+- pkg:maven/io.ebean.tools/codegen-maven-plugin@2.1
+- pkg:maven/io.ebean.tools/codegen-maven-plugin@2.1?classifier=sources
+- pkg:maven/io.ebean.tools/codegen-maven-plugin@3.1
+- pkg:maven/io.ebean.tools/codegen-maven-plugin@3.1?classifier=sources

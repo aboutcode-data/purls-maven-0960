@@ -26,3 +26,7 @@
 - pkg:maven/org.revapi/revapi-ant-task@0.4.0?classifier=sources
 - pkg:maven/org.revapi/revapi-ant-task@0.4.1
 - pkg:maven/org.revapi/revapi-ant-task@0.4.1?classifier=sources
+- pkg:maven/org.revapi/revapi-ant-task@0.5.0
+- pkg:maven/org.revapi/revapi-ant-task@0.5.0?classifier=sources
+- pkg:maven/org.revapi/revapi-ant-task@0.6.0
+- pkg:maven/org.revapi/revapi-ant-task@0.6.0?classifier=sources

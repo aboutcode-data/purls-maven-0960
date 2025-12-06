@@ -30,3 +30,11 @@
 - pkg:maven/org.apache.metamodel/MetaModel-json@4.5.3?classifier=sources
 - pkg:maven/org.apache.metamodel/MetaModel-json@4.5.4
 - pkg:maven/org.apache.metamodel/MetaModel-json@4.5.4?classifier=sources
+- pkg:maven/org.apache.metamodel/MetaModel-json@4.5.5
+- pkg:maven/org.apache.metamodel/MetaModel-json@4.5.5?classifier=sources
+- pkg:maven/org.apache.metamodel/MetaModel-json@4.6.0
+- pkg:maven/org.apache.metamodel/MetaModel-json@4.6.0?classifier=sources
+- pkg:maven/org.apache.metamodel/MetaModel-json@5.0-RC1
+- pkg:maven/org.apache.metamodel/MetaModel-json@5.0-RC1?classifier=sources
+- pkg:maven/org.apache.metamodel/MetaModel-json@5.0-RC2
+- pkg:maven/org.apache.metamodel/MetaModel-json@5.0-RC2?classifier=sources

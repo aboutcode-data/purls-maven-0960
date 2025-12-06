@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.any23/apache-any23-encoding@1.0?classifier=sources
 - pkg:maven/org.apache.any23/apache-any23-encoding@1.1
 - pkg:maven/org.apache.any23/apache-any23-encoding@1.1?classifier=sources
+- pkg:maven/org.apache.any23/apache-any23-encoding@2.0
+- pkg:maven/org.apache.any23/apache-any23-encoding@2.0?classifier=sources

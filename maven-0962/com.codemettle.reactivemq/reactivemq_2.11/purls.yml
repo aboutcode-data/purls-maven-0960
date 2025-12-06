@@ -10,3 +10,5 @@
 - pkg:maven/com.codemettle.reactivemq/reactivemq_2.11@0.5.4?classifier=sources
 - pkg:maven/com.codemettle.reactivemq/reactivemq_2.11@0.5.5
 - pkg:maven/com.codemettle.reactivemq/reactivemq_2.11@0.5.5?classifier=sources
+- pkg:maven/com.codemettle.reactivemq/reactivemq_2.11@1.0.0
+- pkg:maven/com.codemettle.reactivemq/reactivemq_2.11@1.0.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/ie.stu/papercut-compiler@0.0.1
+- pkg:maven/ie.stu/papercut-compiler@0.0.1?classifier=sources
+- pkg:maven/ie.stu/papercut-compiler@0.0.2
+- pkg:maven/ie.stu/papercut-compiler@0.0.2?classifier=sources
+- pkg:maven/ie.stu/papercut-compiler@0.0.3
+- pkg:maven/ie.stu/papercut-compiler@0.0.3?classifier=sources
+- pkg:maven/ie.stu/papercut-compiler@0.0.4
+- pkg:maven/ie.stu/papercut-compiler@0.0.4?classifier=sources

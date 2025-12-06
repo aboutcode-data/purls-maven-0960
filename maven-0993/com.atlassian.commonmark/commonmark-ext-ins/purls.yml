@@ -2,3 +2,7 @@
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.7.0?classifier=sources
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.7.1
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.7.1?classifier=sources
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.8.0
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.8.0?classifier=sources
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.9.0
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-ins@0.9.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.Alpha3
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.Alpha3?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.Alpha4
@@ -7,6 +8,8 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.Alpha5
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.Alpha5?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR1
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR10
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR10?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR1?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR2
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR2?classifier=sources
@@ -20,3 +23,8 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR6?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR7
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR7?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR8
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR8?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR9
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR9?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0?classifier=sources

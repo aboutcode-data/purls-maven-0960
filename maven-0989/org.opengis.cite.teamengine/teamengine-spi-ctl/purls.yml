@@ -1,2 +1,4 @@
+- pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@4.10
+- pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@4.10?classifier=sources
 - pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@4.9
 - pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@4.9?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.h3xstream.findsecbugs/findsecbugs-plugin@1.4.6?classifier=sources
 - pkg:maven/com.h3xstream.findsecbugs/findsecbugs-plugin@1.5.0
 - pkg:maven/com.h3xstream.findsecbugs/findsecbugs-plugin@1.5.0?classifier=sources
+- pkg:maven/com.h3xstream.findsecbugs/findsecbugs-plugin@1.6.0
+- pkg:maven/com.h3xstream.findsecbugs/findsecbugs-plugin@1.6.0?classifier=sources

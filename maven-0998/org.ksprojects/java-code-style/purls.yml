@@ -1,0 +1,6 @@
+- pkg:maven/org.ksprojects/java-code-style@1.0
+- pkg:maven/org.ksprojects/java-code-style@1.0?classifier=sources
+- pkg:maven/org.ksprojects/java-code-style@1.1
+- pkg:maven/org.ksprojects/java-code-style@1.1?classifier=sources
+- pkg:maven/org.ksprojects/java-code-style@1.2
+- pkg:maven/org.ksprojects/java-code-style@1.2?classifier=sources

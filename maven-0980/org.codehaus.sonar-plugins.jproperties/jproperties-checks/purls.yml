@@ -4,3 +4,7 @@
 - pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.2?classifier=sources
 - pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.3
 - pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.3?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.4
+- pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.4?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.5
+- pkg:maven/org.codehaus.sonar-plugins.jproperties/jproperties-checks@2.5?classifier=sources

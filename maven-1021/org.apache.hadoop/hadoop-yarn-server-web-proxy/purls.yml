@@ -69,4 +69,9 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@2.7.2?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@2.7.3
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@2.7.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@2.8.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@2.8.1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@2.8.1?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@3.0.0-alpha1
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@3.0.0-alpha2
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-web-proxy@3.0.0-alpha3

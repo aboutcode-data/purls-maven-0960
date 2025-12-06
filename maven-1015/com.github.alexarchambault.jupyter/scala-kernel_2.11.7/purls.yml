@@ -1,3 +1,4 @@
+- pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0
 - pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0-M1
 - pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0-M1?classifier=sources
 - pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0-M2
@@ -6,3 +7,4 @@
 - pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0-M3-2
 - pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0-M3-2?classifier=sources
 - pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0-M3?classifier=sources
+- pkg:maven/com.github.alexarchambault.jupyter/scala-kernel_2.11.7@0.3.0?classifier=sources

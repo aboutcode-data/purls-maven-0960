@@ -1,2 +1,8 @@
 - pkg:maven/org.jparsec/jparsec-testutils@2.2.1
 - pkg:maven/org.jparsec/jparsec-testutils@2.2.1?classifier=sources
+- pkg:maven/org.jparsec/jparsec-testutils@2.3
+- pkg:maven/org.jparsec/jparsec-testutils@2.3?classifier=sources
+- pkg:maven/org.jparsec/jparsec-testutils@3.0
+- pkg:maven/org.jparsec/jparsec-testutils@3.0-rc1
+- pkg:maven/org.jparsec/jparsec-testutils@3.0-rc1?classifier=sources
+- pkg:maven/org.jparsec/jparsec-testutils@3.0?classifier=sources

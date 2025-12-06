@@ -1,2 +1,4 @@
 - pkg:maven/org.cristalise/cristalise-ldap@3.2
 - pkg:maven/org.cristalise/cristalise-ldap@3.2?classifier=sources
+- pkg:maven/org.cristalise/cristalise-ldap@3.3.0
+- pkg:maven/org.cristalise/cristalise-ldap@3.3.0?classifier=sources

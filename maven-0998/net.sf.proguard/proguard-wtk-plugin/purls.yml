@@ -29,4 +29,10 @@
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.2.1?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.2?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.1
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.1?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.2
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.2?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.3
+- pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3.3?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-wtk-plugin@5.3?classifier=sources

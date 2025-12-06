@@ -6,3 +6,5 @@
 - pkg:maven/ru.yandex.qatools.matchers/webdriver-matchers@1.2?classifier=sources
 - pkg:maven/ru.yandex.qatools.matchers/webdriver-matchers@1.3
 - pkg:maven/ru.yandex.qatools.matchers/webdriver-matchers@1.3?classifier=sources
+- pkg:maven/ru.yandex.qatools.matchers/webdriver-matchers@1.4.1
+- pkg:maven/ru.yandex.qatools.matchers/webdriver-matchers@1.4.1?classifier=sources

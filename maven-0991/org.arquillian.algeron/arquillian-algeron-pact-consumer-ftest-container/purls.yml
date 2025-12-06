@@ -1,0 +1,8 @@
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.0
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.0.Alpha5
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.0.Alpha5?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.0.Alpha6
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.0.Alpha6?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.0?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.1
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-consumer-ftest-container@1.0.1?classifier=sources

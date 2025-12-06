@@ -1,0 +1,16 @@
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC1
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC1?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC2
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC2?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC3
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC3?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC4
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC4?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC5
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC5?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC6
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC6?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC7
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC7?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC8
+- pkg:maven/org.conscrypt/conscrypt-openjdk-uber@1.0.0.RC8?classifier=sources

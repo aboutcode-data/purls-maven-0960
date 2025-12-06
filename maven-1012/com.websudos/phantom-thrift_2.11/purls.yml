@@ -42,6 +42,10 @@
 - pkg:maven/com.websudos/phantom-thrift_2.11@1.29.3?classifier=sources
 - pkg:maven/com.websudos/phantom-thrift_2.11@1.29.4
 - pkg:maven/com.websudos/phantom-thrift_2.11@1.29.4?classifier=sources
+- pkg:maven/com.websudos/phantom-thrift_2.11@1.29.5
+- pkg:maven/com.websudos/phantom-thrift_2.11@1.29.5?classifier=sources
+- pkg:maven/com.websudos/phantom-thrift_2.11@1.29.6
+- pkg:maven/com.websudos/phantom-thrift_2.11@1.29.6?classifier=sources
 - pkg:maven/com.websudos/phantom-thrift_2.11@1.5.0
 - pkg:maven/com.websudos/phantom-thrift_2.11@1.5.0?classifier=sources
 - pkg:maven/com.websudos/phantom-thrift_2.11@1.6.0

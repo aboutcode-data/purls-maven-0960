@@ -2,6 +2,8 @@
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.0.0.mavenTest1-hadoop1
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.0.0.mavenTest1-hadoop1?classifier=sources
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.0.0.mavenTest1?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-example@0.10.0
+- pkg:maven/com.linkedin.gobblin/gobblin-example@0.10.0?classifier=sources
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.6.0
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.6.0-279-g116c79b
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.6.0-279-g116c79b?classifier=sources
@@ -16,3 +18,5 @@
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.7.0?classifier=sources
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.8.0
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.8.0?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-example@0.9.0
+- pkg:maven/com.linkedin.gobblin/gobblin-example@0.9.0?classifier=sources

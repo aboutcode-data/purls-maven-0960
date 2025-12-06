@@ -33,3 +33,9 @@
 - pkg:maven/org.apache.kylin/kylin@1.5.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.kylin/kylin@1.5.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.kylin/kylin@1.5.4?classifier=src&type=zip
+- pkg:maven/org.apache.kylin/kylin@1.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@1.6.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.kylin/kylin@1.6.0?classifier=src&type=zip
+- pkg:maven/org.apache.kylin/kylin@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.kylin/kylin@2.0.0?classifier=src&type=zip

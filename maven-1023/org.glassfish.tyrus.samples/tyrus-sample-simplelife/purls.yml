@@ -35,6 +35,9 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.12?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.12?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.12?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.13.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.13.1?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.13.1?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.13?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.13?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-simplelife@1.13?type=war

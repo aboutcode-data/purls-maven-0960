@@ -1,0 +1,6 @@
+- pkg:maven/com.github.dibyaranjan/converter-infra@0.2-alpha
+- pkg:maven/com.github.dibyaranjan/converter-infra@0.2-alpha?classifier=sources
+- pkg:maven/com.github.dibyaranjan/converter-infra@1.0
+- pkg:maven/com.github.dibyaranjan/converter-infra@1.0?classifier=sources
+- pkg:maven/com.github.dibyaranjan/converter-infra@1.1
+- pkg:maven/com.github.dibyaranjan/converter-infra@1.1?classifier=sources

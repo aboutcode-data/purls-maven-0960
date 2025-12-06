@@ -4,3 +4,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.0.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.1.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.2.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-server-yarn@1.2.0.RELEASE?classifier=sources

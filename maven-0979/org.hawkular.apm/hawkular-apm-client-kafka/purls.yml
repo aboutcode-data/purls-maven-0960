@@ -2,3 +2,17 @@
 - pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.10.0.Final?classifier=sources
 - pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.11.0.Final
 - pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.11.0.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.12.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.12.0.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.13.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.13.0.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.0.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.1.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.1.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.2.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.2.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.3.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.3.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.4.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-client-kafka@0.14.4.Final?classifier=sources

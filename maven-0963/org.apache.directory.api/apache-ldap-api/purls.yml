@@ -26,3 +26,7 @@
 - pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0-M33?classifier=src&type=zip
 - pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0-RC1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0-RC1?classifier=src&type=zip
+- pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0-RC2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0-RC2?classifier=src&type=zip
+- pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.directory.api/apache-ldap-api@1.0.0?classifier=src&type=zip

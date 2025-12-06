@@ -16,6 +16,12 @@
 - pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.0?classifier=sources
 - pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.1
 - pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.1?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.2
+- pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.2?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.3
+- pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.3?classifier=sources
+- pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.4
+- pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@11.4?classifier=sources
 - pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@2.9.0
 - pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@2.9.0-b03
 - pkg:maven/org.sakaiproject.jsf/jsf-spreadsheet@2.9.0-b03?classifier=sources

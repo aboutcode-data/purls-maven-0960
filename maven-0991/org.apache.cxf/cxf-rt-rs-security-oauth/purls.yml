@@ -103,6 +103,12 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.1
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.10
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.10?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.11
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.11?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.12
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.12?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.13
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.13?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.2
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.0.2?classifier=sources
@@ -123,6 +129,10 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.0
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.1
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.10
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.10?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.11
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.11?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.2
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.2?classifier=sources
@@ -136,3 +146,7 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.6?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.7
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.7?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.8
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.9
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.1.9?classifier=sources

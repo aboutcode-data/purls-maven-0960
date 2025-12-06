@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.predictionio/apache-predictionio-data_2.10@0.10.0-incubating-rc5
 - pkg:maven/org.apache.predictionio/apache-predictionio-data_2.10@0.10.0-incubating-rc5?classifier=sources
 - pkg:maven/org.apache.predictionio/apache-predictionio-data_2.10@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.predictionio/apache-predictionio-data_2.10@0.11.0-incubating
+- pkg:maven/org.apache.predictionio/apache-predictionio-data_2.10@0.11.0-incubating?classifier=sources

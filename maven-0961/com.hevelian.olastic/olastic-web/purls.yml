@@ -1,2 +1,10 @@
 - pkg:maven/com.hevelian.olastic/olastic-web@1.0.0-RELEASE?classifier=sources
 - pkg:maven/com.hevelian.olastic/olastic-web@1.0.0-RELEASE?type=war
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.0-RELEASE?type=war
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.0?classifier=sources
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.0?type=war
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.1-RELEASE?classifier=sources
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.1-RELEASE?type=war
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.2?classifier=sources
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.2?type=war

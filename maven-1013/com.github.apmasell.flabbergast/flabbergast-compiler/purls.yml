@@ -12,6 +12,8 @@
 - pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.17?classifier=sources
 - pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.18
 - pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.18?classifier=sources
+- pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.19
+- pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.19?classifier=sources
 - pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.8
 - pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.8?classifier=sources
 - pkg:maven/com.github.apmasell.flabbergast/flabbergast-compiler@0.9

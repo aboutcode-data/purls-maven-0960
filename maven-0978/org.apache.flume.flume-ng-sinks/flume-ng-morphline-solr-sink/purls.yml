@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.flume.flume-ng-sinks/flume-ng-morphline-solr-sink@1.5.2?classifier=sources
 - pkg:maven/org.apache.flume.flume-ng-sinks/flume-ng-morphline-solr-sink@1.6.0
 - pkg:maven/org.apache.flume.flume-ng-sinks/flume-ng-morphline-solr-sink@1.6.0?classifier=sources
+- pkg:maven/org.apache.flume.flume-ng-sinks/flume-ng-morphline-solr-sink@1.7.0
+- pkg:maven/org.apache.flume.flume-ng-sinks/flume-ng-morphline-solr-sink@1.7.0?classifier=sources

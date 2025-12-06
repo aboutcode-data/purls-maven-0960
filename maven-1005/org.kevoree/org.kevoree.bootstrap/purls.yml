@@ -128,3 +128,5 @@
 - pkg:maven/org.kevoree/org.kevoree.bootstrap@5.3.1?classifier=sources
 - pkg:maven/org.kevoree/org.kevoree.bootstrap@5.3.2
 - pkg:maven/org.kevoree/org.kevoree.bootstrap@5.3.2?classifier=sources
+- pkg:maven/org.kevoree/org.kevoree.bootstrap@5.4.0
+- pkg:maven/org.kevoree/org.kevoree.bootstrap@5.4.0?classifier=sources

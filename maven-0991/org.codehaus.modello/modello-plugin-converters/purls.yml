@@ -50,3 +50,7 @@
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.8.3
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.8.3?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.8?classifier=sources
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@1.9.0
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@1.9.0?classifier=sources
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@1.9.1
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@1.9.1?classifier=sources

@@ -12,5 +12,11 @@
 - pkg:maven/org.apache.isis.core/isis-core-schema@1.12.2?classifier=sources
 - pkg:maven/org.apache.isis.core/isis-core-schema@1.13.0
 - pkg:maven/org.apache.isis.core/isis-core-schema@1.13.0?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-schema@1.13.1
+- pkg:maven/org.apache.isis.core/isis-core-schema@1.13.1?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-schema@1.13.2
+- pkg:maven/org.apache.isis.core/isis-core-schema@1.13.2?classifier=sources
+- pkg:maven/org.apache.isis.core/isis-core-schema@1.14.0
+- pkg:maven/org.apache.isis.core/isis-core-schema@1.14.0?classifier=sources
 - pkg:maven/org.apache.isis.core/isis-core-schema@1.9.0
 - pkg:maven/org.apache.isis.core/isis-core-schema@1.9.0?classifier=sources

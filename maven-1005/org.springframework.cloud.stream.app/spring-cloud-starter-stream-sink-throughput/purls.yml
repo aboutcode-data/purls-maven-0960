@@ -4,3 +4,9 @@
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.0.4.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.1.1.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.2.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-starter-stream-sink-throughput@1.2.0.RELEASE?classifier=sources

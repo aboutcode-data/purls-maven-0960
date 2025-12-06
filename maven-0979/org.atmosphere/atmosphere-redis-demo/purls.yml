@@ -24,6 +24,7 @@
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.1.6?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.1.7?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.2.0?type=war
+- pkg:maven/org.atmosphere/atmosphere-redis-demo@2.2.10?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.2.1?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.2.2?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.2.3?type=war
@@ -50,3 +51,4 @@
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.4.4?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.4.5?type=war
 - pkg:maven/org.atmosphere/atmosphere-redis-demo@2.4.6?type=war
+- pkg:maven/org.atmosphere/atmosphere-redis-demo@2.4.8?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@5.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@5.1.0-RC4?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@5.1.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@5.1.0?type=war

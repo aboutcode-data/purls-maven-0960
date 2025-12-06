@@ -1,2 +1,4 @@
+- pkg:maven/org.apache.kerby/kerby-pkix@1.0.0
 - pkg:maven/org.apache.kerby/kerby-pkix@1.0.0-RC2
 - pkg:maven/org.apache.kerby/kerby-pkix@1.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.kerby/kerby-pkix@1.0.0?classifier=sources

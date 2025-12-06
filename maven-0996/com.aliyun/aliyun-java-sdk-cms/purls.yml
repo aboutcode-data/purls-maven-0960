@@ -16,3 +16,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cms@3.2.8?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cms@3.2.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-cms@3.2.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cms@4.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-cms@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cms@5.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-cms@5.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cms@5.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-cms@5.0.1?classifier=sources

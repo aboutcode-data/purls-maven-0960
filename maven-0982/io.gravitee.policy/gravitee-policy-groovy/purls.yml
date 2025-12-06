@@ -1,2 +1,5 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-groovy@0.1.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-groovy@0.2.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-groovy@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-groovy@1.1.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-groovy@1.2.0?classifier=sources

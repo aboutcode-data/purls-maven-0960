@@ -1,2 +1,6 @@
 - pkg:maven/org.apereo.inspektr/inspektr-audit@1.5.GA
 - pkg:maven/org.apereo.inspektr/inspektr-audit@1.5.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-audit@1.6.GA
+- pkg:maven/org.apereo.inspektr/inspektr-audit@1.6.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-audit@1.7.GA
+- pkg:maven/org.apereo.inspektr/inspektr-audit@1.7.GA?classifier=sources

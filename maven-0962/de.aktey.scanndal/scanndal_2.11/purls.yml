@@ -1,4 +1,6 @@
 - pkg:maven/de.aktey.scanndal/scanndal_2.11@0.10
 - pkg:maven/de.aktey.scanndal/scanndal_2.11@0.10?classifier=sources
+- pkg:maven/de.aktey.scanndal/scanndal_2.11@0.11
+- pkg:maven/de.aktey.scanndal/scanndal_2.11@0.11?classifier=sources
 - pkg:maven/de.aktey.scanndal/scanndal_2.11@0.9
 - pkg:maven/de.aktey.scanndal/scanndal_2.11@0.9?classifier=sources

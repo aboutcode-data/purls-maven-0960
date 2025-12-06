@@ -8,3 +8,9 @@
 - pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.3.0?classifier=sources
 - pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.4.0
 - pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.4.0?classifier=sources
+- pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.5.0
+- pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.5.0?classifier=sources
+- pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.6.0
+- pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.6.0?classifier=sources
+- pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.6.1
+- pkg:maven/org.apache.aries.jpa.itest/org.apache.aries.jpa.container.itest.bundle.blueprint@2.6.1?classifier=sources

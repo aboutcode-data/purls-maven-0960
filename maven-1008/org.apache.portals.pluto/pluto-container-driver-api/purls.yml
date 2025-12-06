@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.portals.pluto/pluto-container-driver-api@2.1.0-M2?classifier=sources
 - pkg:maven/org.apache.portals.pluto/pluto-container-driver-api@2.1.0-M3
 - pkg:maven/org.apache.portals.pluto/pluto-container-driver-api@2.1.0-M3?classifier=sources
+- pkg:maven/org.apache.portals.pluto/pluto-container-driver-api@3.0.0
+- pkg:maven/org.apache.portals.pluto/pluto-container-driver-api@3.0.0?classifier=sources

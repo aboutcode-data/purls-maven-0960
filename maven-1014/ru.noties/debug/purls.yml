@@ -12,3 +12,5 @@
 - pkg:maven/ru.noties/debug@2.0.1?type=aar
 - pkg:maven/ru.noties/debug@2.0.2
 - pkg:maven/ru.noties/debug@2.0.2?classifier=sources
+- pkg:maven/ru.noties/debug@3.0.0
+- pkg:maven/ru.noties/debug@3.0.0?classifier=sources

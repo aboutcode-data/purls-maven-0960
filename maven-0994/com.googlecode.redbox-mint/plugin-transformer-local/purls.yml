@@ -30,3 +30,5 @@
 - pkg:maven/com.googlecode.redbox-mint/plugin-transformer-local@1.7?classifier=sources
 - pkg:maven/com.googlecode.redbox-mint/plugin-transformer-local@1.8
 - pkg:maven/com.googlecode.redbox-mint/plugin-transformer-local@1.8?classifier=sources
+- pkg:maven/com.googlecode.redbox-mint/plugin-transformer-local@1.9
+- pkg:maven/com.googlecode.redbox-mint/plugin-transformer-local@1.9?classifier=sources

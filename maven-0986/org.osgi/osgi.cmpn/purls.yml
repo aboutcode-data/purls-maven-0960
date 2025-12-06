@@ -1,2 +1,6 @@
+- pkg:maven/org.osgi/osgi.cmpn@4.3.1
+- pkg:maven/org.osgi/osgi.cmpn@4.3.1?classifier=sources
+- pkg:maven/org.osgi/osgi.cmpn@5.0.0
+- pkg:maven/org.osgi/osgi.cmpn@5.0.0?classifier=sources
 - pkg:maven/org.osgi/osgi.cmpn@6.0.0
 - pkg:maven/org.osgi/osgi.cmpn@6.0.0?classifier=sources

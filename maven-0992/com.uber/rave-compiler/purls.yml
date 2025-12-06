@@ -1,2 +1,10 @@
 - pkg:maven/com.uber/rave-compiler@0.6.0
 - pkg:maven/com.uber/rave-compiler@0.6.0?classifier=sources
+- pkg:maven/com.uber/rave-compiler@0.7.0
+- pkg:maven/com.uber/rave-compiler@0.7.0?classifier=sources
+- pkg:maven/com.uber/rave-compiler@1.0.0
+- pkg:maven/com.uber/rave-compiler@1.0.0?classifier=sources
+- pkg:maven/com.uber/rave-compiler@1.0.1
+- pkg:maven/com.uber/rave-compiler@1.0.1?classifier=sources
+- pkg:maven/com.uber/rave-compiler@2.0.0
+- pkg:maven/com.uber/rave-compiler@2.0.0?classifier=sources

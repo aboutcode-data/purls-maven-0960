@@ -2,8 +2,16 @@
 - pkg:maven/org.webjars.npm/babel-helpers@6.0.15?classifier=sources
 - pkg:maven/org.webjars.npm/babel-helpers@6.1.18
 - pkg:maven/org.webjars.npm/babel-helpers@6.1.18?classifier=sources
+- pkg:maven/org.webjars.npm/babel-helpers@6.16.0
+- pkg:maven/org.webjars.npm/babel-helpers@6.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-helpers@6.2.4
 - pkg:maven/org.webjars.npm/babel-helpers@6.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel-helpers@6.22.0
+- pkg:maven/org.webjars.npm/babel-helpers@6.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-helpers@6.23.0
+- pkg:maven/org.webjars.npm/babel-helpers@6.23.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-helpers@6.24.1
+- pkg:maven/org.webjars.npm/babel-helpers@6.24.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel-helpers@6.4.5
 - pkg:maven/org.webjars.npm/babel-helpers@6.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel-helpers@6.6.0

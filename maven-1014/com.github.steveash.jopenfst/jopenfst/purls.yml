@@ -1,2 +1,4 @@
 - pkg:maven/com.github.steveash.jopenfst/jopenfst@0.1.0.ALPHA
 - pkg:maven/com.github.steveash.jopenfst/jopenfst@0.1.0.ALPHA?classifier=sources
+- pkg:maven/com.github.steveash.jopenfst/jopenfst@0.1.1.ALPHA
+- pkg:maven/com.github.steveash.jopenfst/jopenfst@0.1.1.ALPHA?classifier=sources

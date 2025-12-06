@@ -34,3 +34,9 @@
 - pkg:maven/org.sakaiproject.common/common-cartridge@11.0?classifier=sources
 - pkg:maven/org.sakaiproject.common/common-cartridge@11.1
 - pkg:maven/org.sakaiproject.common/common-cartridge@11.1?classifier=sources
+- pkg:maven/org.sakaiproject.common/common-cartridge@11.2
+- pkg:maven/org.sakaiproject.common/common-cartridge@11.2?classifier=sources
+- pkg:maven/org.sakaiproject.common/common-cartridge@11.3
+- pkg:maven/org.sakaiproject.common/common-cartridge@11.3?classifier=sources
+- pkg:maven/org.sakaiproject.common/common-cartridge@11.4
+- pkg:maven/org.sakaiproject.common/common-cartridge@11.4?classifier=sources

@@ -28,6 +28,16 @@
 - pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.13.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.0-01
 - pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.1-01
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.2-01
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.3-02
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.3-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.4-01
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.4-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.4-03
+- pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.14.4-03?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.6.0-01
 - pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.6.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-ldap-common@2.6.0-05

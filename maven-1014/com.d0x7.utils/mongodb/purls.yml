@@ -1,0 +1,4 @@
+- pkg:maven/com.d0x7.utils/mongodb@1.0.0
+- pkg:maven/com.d0x7.utils/mongodb@1.0.0?classifier=sources
+- pkg:maven/com.d0x7.utils/mongodb@1.1.0
+- pkg:maven/com.d0x7.utils/mongodb@1.1.0?classifier=sources

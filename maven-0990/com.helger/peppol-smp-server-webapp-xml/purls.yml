@@ -1,0 +1,4 @@
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.1?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.1?type=war
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.2?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.2?type=war

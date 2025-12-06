@@ -166,3 +166,5 @@
 - pkg:maven/com.sun.xml.bind/jaxb-osgi@2.2.7?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-osgi@2.2.8-b01
 - pkg:maven/com.sun.xml.bind/jaxb-osgi@2.2.8-b01?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-osgi@2.3.0-b170127.1453
+- pkg:maven/com.sun.xml.bind/jaxb-osgi@2.3.0-b170127.1453?classifier=sources

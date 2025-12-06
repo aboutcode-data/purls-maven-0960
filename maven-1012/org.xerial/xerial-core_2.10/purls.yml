@@ -1,2 +1,4 @@
 - pkg:maven/org.xerial/xerial-core_2.10@3.5.0
 - pkg:maven/org.xerial/xerial-core_2.10@3.5.0?classifier=sources
+- pkg:maven/org.xerial/xerial-core_2.10@3.6.0
+- pkg:maven/org.xerial/xerial-core_2.10@3.6.0?classifier=sources

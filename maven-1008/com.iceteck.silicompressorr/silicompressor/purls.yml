@@ -2,3 +2,5 @@
 - pkg:maven/com.iceteck.silicompressorr/silicompressor@1.0.0?type=aar
 - pkg:maven/com.iceteck.silicompressorr/silicompressor@1.1.0?classifier=sources
 - pkg:maven/com.iceteck.silicompressorr/silicompressor@1.1.0?type=aar
+- pkg:maven/com.iceteck.silicompressorr/silicompressor@2.0?classifier=sources
+- pkg:maven/com.iceteck.silicompressorr/silicompressor@2.0?type=aar

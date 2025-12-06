@@ -6,3 +6,5 @@
 - pkg:maven/ru.stqa.selenium/webdriver-testng-archetype@2.0?classifier=sources
 - pkg:maven/ru.stqa.selenium/webdriver-testng-archetype@2.1?classifier=sources
 - pkg:maven/ru.stqa.selenium/webdriver-testng-archetype@3.0?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-testng-archetype@4.0?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-testng-archetype@4.1?classifier=sources

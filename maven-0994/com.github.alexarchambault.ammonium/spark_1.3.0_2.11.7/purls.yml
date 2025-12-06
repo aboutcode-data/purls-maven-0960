@@ -1,3 +1,4 @@
+- pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0
 - pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0-M3
 - pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0-M3?classifier=sources
 - pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0-M4
@@ -8,3 +9,4 @@
 - pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0-M6-1
 - pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0-M6-1?classifier=sources
 - pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0-M6?classifier=sources
+- pkg:maven/com.github.alexarchambault.ammonium/spark_1.3.0_2.11.7@0.4.0?classifier=sources

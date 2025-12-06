@@ -1,0 +1,4 @@
+- pkg:maven/io.sinistral/jsoniter@0.9.8
+- pkg:maven/io.sinistral/jsoniter@0.9.8?classifier=sources
+- pkg:maven/io.sinistral/jsoniter@0.9.9
+- pkg:maven/io.sinistral/jsoniter@0.9.9?classifier=sources
