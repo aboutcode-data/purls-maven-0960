@@ -3,4 +3,6 @@
 - pkg:maven/org.antlr/antlr4-runtime-test-annotations@4.7
 - pkg:maven/org.antlr/antlr4-runtime-test-annotations@4.7.1
 - pkg:maven/org.antlr/antlr4-runtime-test-annotations@4.7.1?classifier=sources
+- pkg:maven/org.antlr/antlr4-runtime-test-annotations@4.7.2
+- pkg:maven/org.antlr/antlr4-runtime-test-annotations@4.7.2?classifier=sources
 - pkg:maven/org.antlr/antlr4-runtime-test-annotations@4.7?classifier=sources

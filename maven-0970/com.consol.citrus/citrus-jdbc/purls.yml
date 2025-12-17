@@ -8,3 +8,7 @@
 - pkg:maven/com.consol.citrus/citrus-jdbc@2.7.7?classifier=sources
 - pkg:maven/com.consol.citrus/citrus-jdbc@2.7.8
 - pkg:maven/com.consol.citrus/citrus-jdbc@2.7.8?classifier=sources
+- pkg:maven/com.consol.citrus/citrus-jdbc@2.7.9
+- pkg:maven/com.consol.citrus/citrus-jdbc@2.7.9?classifier=sources
+- pkg:maven/com.consol.citrus/citrus-jdbc@2.8.0
+- pkg:maven/com.consol.citrus/citrus-jdbc@2.8.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.vtence.hamcrest/hamcrest-dom@2.0.0
 - pkg:maven/com.vtence.hamcrest/hamcrest-dom@2.0.0?classifier=sources
+- pkg:maven/com.vtence.hamcrest/hamcrest-dom@2.1-rc3
+- pkg:maven/com.vtence.hamcrest/hamcrest-dom@2.1-rc3?classifier=sources

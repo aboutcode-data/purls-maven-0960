@@ -16,3 +16,5 @@
 - pkg:maven/de.larmic/joinfaces-bean-test@0.8?classifier=sources
 - pkg:maven/de.larmic/joinfaces-bean-test@0.9
 - pkg:maven/de.larmic/joinfaces-bean-test@0.9?classifier=sources
+- pkg:maven/de.larmic/joinfaces-bean-test@1.0.0
+- pkg:maven/de.larmic/joinfaces-bean-test@1.0.0?classifier=sources

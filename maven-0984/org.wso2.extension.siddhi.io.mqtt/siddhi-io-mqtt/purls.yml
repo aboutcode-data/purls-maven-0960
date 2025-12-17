@@ -24,7 +24,11 @@
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.21?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.22
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.22?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.23
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.23?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.8
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.8?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.9
 - pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.0.9?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.1.0
+- pkg:maven/org.wso2.extension.siddhi.io.mqtt/siddhi-io-mqtt@1.1.0?classifier=sources

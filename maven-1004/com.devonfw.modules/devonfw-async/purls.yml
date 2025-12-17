@@ -1,2 +1,4 @@
 - pkg:maven/com.devonfw.modules/devonfw-async@2.4.0
 - pkg:maven/com.devonfw.modules/devonfw-async@2.4.0?classifier=sources
+- pkg:maven/com.devonfw.modules/devonfw-async@3.0.0
+- pkg:maven/com.devonfw.modules/devonfw-async@3.0.0?classifier=sources

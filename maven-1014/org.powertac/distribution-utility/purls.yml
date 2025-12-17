@@ -40,3 +40,5 @@
 - pkg:maven/org.powertac/distribution-utility@1.4.4?classifier=sources
 - pkg:maven/org.powertac/distribution-utility@1.5.0
 - pkg:maven/org.powertac/distribution-utility@1.5.0?classifier=sources
+- pkg:maven/org.powertac/distribution-utility@1.6.0
+- pkg:maven/org.powertac/distribution-utility@1.6.0?classifier=sources

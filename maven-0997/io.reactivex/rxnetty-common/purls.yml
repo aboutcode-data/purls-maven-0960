@@ -12,5 +12,13 @@
 - pkg:maven/io.reactivex/rxnetty-common@0.5.2-rc.5
 - pkg:maven/io.reactivex/rxnetty-common@0.5.2-rc.5?classifier=sources
 - pkg:maven/io.reactivex/rxnetty-common@0.5.2?classifier=sources
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3
 - pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.1
 - pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.1?classifier=sources
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.2
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.2?classifier=sources
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.3
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.3?classifier=sources
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.4
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3-rc.4?classifier=sources
+- pkg:maven/io.reactivex/rxnetty-common@0.5.3?classifier=sources

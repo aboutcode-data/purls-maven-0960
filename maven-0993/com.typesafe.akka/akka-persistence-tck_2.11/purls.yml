@@ -99,8 +99,16 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.17?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.18
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.18?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.19
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.19?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.2
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.20
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.20?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.21
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.21?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.22
+- pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.22?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.3
 - pkg:maven/com.typesafe.akka/akka-persistence-tck_2.11@2.5.3?classifier=sources

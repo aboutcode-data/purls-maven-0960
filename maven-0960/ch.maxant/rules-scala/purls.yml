@@ -6,3 +6,7 @@
 - pkg:maven/ch.maxant/rules-scala@2.2.1?classifier=sources
 - pkg:maven/ch.maxant/rules-scala@2.3.1
 - pkg:maven/ch.maxant/rules-scala@2.3.1?classifier=sources
+- pkg:maven/ch.maxant/rules-scala@2.4.0
+- pkg:maven/ch.maxant/rules-scala@2.4.0?classifier=sources
+- pkg:maven/ch.maxant/rules-scala@2.4.1
+- pkg:maven/ch.maxant/rules-scala@2.4.1?classifier=sources

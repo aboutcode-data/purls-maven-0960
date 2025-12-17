@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.blink/flink-java@1.5.1
+- pkg:maven/com.alibaba.blink/flink-java@1.5.1?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-java@blink-3.2.0
+- pkg:maven/com.alibaba.blink/flink-java@blink-3.2.0?classifier=sources

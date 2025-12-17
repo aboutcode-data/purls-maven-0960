@@ -22,6 +22,14 @@
 - pkg:maven/jp.gopay/gopay-java-sdk@0.11.4?classifier=sources
 - pkg:maven/jp.gopay/gopay-java-sdk@0.11.5
 - pkg:maven/jp.gopay/gopay-java-sdk@0.11.5?classifier=sources
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.6
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.6?classifier=sources
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.7
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.7?classifier=sources
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.8
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.8?classifier=sources
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.9
+- pkg:maven/jp.gopay/gopay-java-sdk@0.11.9?classifier=sources
 - pkg:maven/jp.gopay/gopay-java-sdk@0.2.0
 - pkg:maven/jp.gopay/gopay-java-sdk@0.2.0?classifier=sources
 - pkg:maven/jp.gopay/gopay-java-sdk@0.2.1

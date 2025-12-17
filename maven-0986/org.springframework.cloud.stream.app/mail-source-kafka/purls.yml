@@ -12,3 +12,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@2.0.3.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@2.1.0.RELEASE?classifier=sources

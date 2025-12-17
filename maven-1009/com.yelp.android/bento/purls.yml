@@ -1,0 +1,4 @@
+- pkg:maven/com.yelp.android/bento@11.0.0?classifier=sources
+- pkg:maven/com.yelp.android/bento@11.0.0?type=aar
+- pkg:maven/com.yelp.android/bento@13.0.0?classifier=sources
+- pkg:maven/com.yelp.android/bento@13.0.0?type=aar

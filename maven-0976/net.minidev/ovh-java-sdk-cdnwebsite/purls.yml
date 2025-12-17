@@ -26,3 +26,5 @@
 - pkg:maven/net.minidev/ovh-java-sdk-cdnwebsite@0.9.9
 - pkg:maven/net.minidev/ovh-java-sdk-cdnwebsite@0.9.9?classifier=sources
 - pkg:maven/net.minidev/ovh-java-sdk-cdnwebsite@0.9?classifier=sources
+- pkg:maven/net.minidev/ovh-java-sdk-cdnwebsite@1.0.17
+- pkg:maven/net.minidev/ovh-java-sdk-cdnwebsite@1.0.17?classifier=sources

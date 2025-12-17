@@ -1,2 +1,12 @@
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.13
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.13?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.14
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.14?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.17
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.17?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.18
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.18?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.19
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.19?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.21
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.21?classifier=sources

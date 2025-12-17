@@ -8,3 +8,5 @@
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-configadmin@4.1.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-configadmin@5.0.0
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-configadmin@5.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-configadmin@5.1.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-osgi-configadmin@5.1.0?classifier=sources

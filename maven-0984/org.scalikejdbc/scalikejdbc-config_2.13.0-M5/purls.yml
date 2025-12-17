@@ -1,2 +1,6 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-config_2.13.0-M5@3.3.1
 - pkg:maven/org.scalikejdbc/scalikejdbc-config_2.13.0-M5@3.3.1?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.13.0-M5@3.3.2
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.13.0-M5@3.3.2?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.13.0-M5@3.3.3
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.13.0-M5@3.3.3?classifier=sources

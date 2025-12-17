@@ -6,3 +6,7 @@
 - pkg:maven/io.thorntail/topology-consul@2.2.0.Final?classifier=sources
 - pkg:maven/io.thorntail/topology-consul@2.2.1.Final
 - pkg:maven/io.thorntail/topology-consul@2.2.1.Final?classifier=sources
+- pkg:maven/io.thorntail/topology-consul@2.3.0.Final
+- pkg:maven/io.thorntail/topology-consul@2.3.0.Final?classifier=sources
+- pkg:maven/io.thorntail/topology-consul@2.4.0.Final
+- pkg:maven/io.thorntail/topology-consul@2.4.0.Final?classifier=sources

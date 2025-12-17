@@ -1,6 +1,12 @@
+- pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0
+- pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M10
+- pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M10?classifier=sources
+- pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M11
+- pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M11?classifier=sources
 - pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M7
 - pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M7?classifier=sources
 - pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M8
 - pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M8?classifier=sources
 - pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M9
 - pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0.M9?classifier=sources
+- pkg:maven/org.eclipse.vorto/mapping-serializer@0.10.0?classifier=sources

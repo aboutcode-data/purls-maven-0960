@@ -174,3 +174,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.6?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.7
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.7?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.8
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.8?classifier=sources

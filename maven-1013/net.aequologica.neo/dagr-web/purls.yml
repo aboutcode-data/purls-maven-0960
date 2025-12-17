@@ -28,3 +28,5 @@
 - pkg:maven/net.aequologica.neo/dagr-web@0.5.1?type=war
 - pkg:maven/net.aequologica.neo/dagr-web@0.5.2-alpha?classifier=sources
 - pkg:maven/net.aequologica.neo/dagr-web@0.5.2-alpha?type=war
+- pkg:maven/net.aequologica.neo/dagr-web@0.5.2?classifier=sources
+- pkg:maven/net.aequologica.neo/dagr-web@0.5.2?type=war

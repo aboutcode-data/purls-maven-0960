@@ -1,6 +1,10 @@
+- pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.10
+- pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.10?classifier=sources
 - pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.5
 - pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.5?classifier=sources
 - pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.6
 - pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.6?classifier=sources
 - pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.7
 - pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.7?classifier=sources
+- pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.8
+- pkg:maven/com.spotify/ratatool-shapeless_2.11@0.3.8?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.0
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.0?classifier=sources
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.1
+- pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.11
+- pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.11?classifier=sources
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.1?classifier=sources
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.2
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.2?classifier=sources
@@ -35,3 +37,5 @@
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.4?classifier=sources
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.7
 - pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.7?classifier=sources
+- pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.9
+- pkg:maven/net.wicp.tams/ts-maven-plugin@3.5.9?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.db.upgrade.client@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.db.upgrade.client@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.db.upgrade.client@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.db.upgrade.client@2.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.db.upgrade.client@2.0.1?classifier=sources-commercial

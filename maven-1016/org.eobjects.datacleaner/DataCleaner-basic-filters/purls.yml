@@ -94,5 +94,9 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.4.2?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.5.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.5.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.6.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.6.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.7.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.7.0?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@6.0.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@6.0.0?classifier=sources

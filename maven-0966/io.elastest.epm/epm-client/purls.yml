@@ -1,0 +1,4 @@
+- pkg:maven/io.elastest.epm/epm-client@0.9.1
+- pkg:maven/io.elastest.epm/epm-client@0.9.1?classifier=sources
+- pkg:maven/io.elastest.epm/epm-client@1.0.0
+- pkg:maven/io.elastest.epm/epm-client@1.0.0?classifier=sources

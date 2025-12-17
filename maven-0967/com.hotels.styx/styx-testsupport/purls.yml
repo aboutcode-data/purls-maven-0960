@@ -14,5 +14,7 @@
 - pkg:maven/com.hotels.styx/styx-testsupport@0.7.8?classifier=sources
 - pkg:maven/com.hotels.styx/styx-testsupport@0.7.9
 - pkg:maven/com.hotels.styx/styx-testsupport@0.7.9?classifier=sources
+- pkg:maven/com.hotels.styx/styx-testsupport@1.0.0.beta3
+- pkg:maven/com.hotels.styx/styx-testsupport@1.0.0.beta3?classifier=sources
 - pkg:maven/com.hotels.styx/styx-testsupport@styx-1.0.0.beta2
 - pkg:maven/com.hotels.styx/styx-testsupport@styx-1.0.0.beta2?classifier=sources

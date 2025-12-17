@@ -1,2 +1,4 @@
 - pkg:maven/com.serphacker.webace/webace@1.0
 - pkg:maven/com.serphacker.webace/webace@1.0?classifier=sources
+- pkg:maven/com.serphacker.webace/webace@1.1
+- pkg:maven/com.serphacker.webace/webace@1.1?classifier=sources

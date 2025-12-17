@@ -3,3 +3,6 @@
 - pkg:maven/org.jboss.windup/rhamt-cli@4.2.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup/rhamt-cli@4.2.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup/rhamt-cli@4.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup/rhamt-cli@4.2.1.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup/rhamt-cli@4.2.1.Alpha2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup/rhamt-cli@4.2.1.Final?classifier=source-release&type=zip

@@ -28,3 +28,9 @@
 - pkg:maven/org.javabits.yar/yar-api@2.0.0.RELEASE?classifier=sources
 - pkg:maven/org.javabits.yar/yar-api@2.0.1.RELEASE
 - pkg:maven/org.javabits.yar/yar-api@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.javabits.yar/yar-api@3.0.0.RELEASE
+- pkg:maven/org.javabits.yar/yar-api@3.0.0.RELEASE?classifier=sources
+- pkg:maven/org.javabits.yar/yar-api@3.0.1.RELEASE
+- pkg:maven/org.javabits.yar/yar-api@3.0.1.RELEASE?classifier=sources
+- pkg:maven/org.javabits.yar/yar-api@3.0.1.jre8
+- pkg:maven/org.javabits.yar/yar-api@3.0.1.jre8?classifier=sources

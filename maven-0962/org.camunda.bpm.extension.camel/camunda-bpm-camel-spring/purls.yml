@@ -4,3 +4,5 @@
 - pkg:maven/org.camunda.bpm.extension.camel/camunda-bpm-camel-spring@0.4?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.camel/camunda-bpm-camel-spring@0.5
 - pkg:maven/org.camunda.bpm.extension.camel/camunda-bpm-camel-spring@0.5?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.camel/camunda-bpm-camel-spring@0.6
+- pkg:maven/org.camunda.bpm.extension.camel/camunda-bpm-camel-spring@0.6?classifier=sources

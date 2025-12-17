@@ -1,0 +1,4 @@
+- pkg:maven/org.scanamo/scanamo-alpakka_2.12@0.10
+- pkg:maven/org.scanamo/scanamo-alpakka_2.12@0.10?classifier=sources
+- pkg:maven/org.scanamo/scanamo-alpakka_2.12@1.0.0-M9
+- pkg:maven/org.scanamo/scanamo-alpakka_2.12@1.0.0-M9?classifier=sources

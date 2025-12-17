@@ -1,3 +1,5 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@10.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@10.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@3.0.0.redhat-1
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@3.0.0.redhat-1?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@3.0.1.redhat-1
@@ -32,3 +34,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@7.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@8.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@9.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@9.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@9.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@9.1.0?classifier=sources

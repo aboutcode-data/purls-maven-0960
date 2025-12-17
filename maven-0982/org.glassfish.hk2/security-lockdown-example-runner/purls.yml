@@ -314,6 +314,7 @@
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.4.0-b34
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.4.0-b34?classifier=sources
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.4.0?classifier=sources
+- pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0-b01
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0-b01?classifier=sources
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0-b02
@@ -434,3 +435,4 @@
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0-b62?classifier=sources
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0-b63
 - pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0-b63?classifier=sources
+- pkg:maven/org.glassfish.hk2/security-lockdown-example-runner@2.5.0?classifier=sources

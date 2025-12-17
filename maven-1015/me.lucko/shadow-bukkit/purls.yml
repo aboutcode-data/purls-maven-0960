@@ -1,2 +1,4 @@
 - pkg:maven/me.lucko/shadow-bukkit@1.0
 - pkg:maven/me.lucko/shadow-bukkit@1.0?classifier=sources
+- pkg:maven/me.lucko/shadow-bukkit@1.1
+- pkg:maven/me.lucko/shadow-bukkit@1.1?classifier=sources

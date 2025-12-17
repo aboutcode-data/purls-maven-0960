@@ -2,6 +2,8 @@
 - pkg:maven/org.zalando/riptide-faults@2.10.0?classifier=sources
 - pkg:maven/org.zalando/riptide-faults@2.10.1
 - pkg:maven/org.zalando/riptide-faults@2.10.1?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.11.0
+- pkg:maven/org.zalando/riptide-faults@2.11.0?classifier=sources
 - pkg:maven/org.zalando/riptide-faults@2.6.0
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC1
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC1?classifier=sources

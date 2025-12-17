@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.8.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.8.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.8.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.8.200
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.8.200?classifier=sources

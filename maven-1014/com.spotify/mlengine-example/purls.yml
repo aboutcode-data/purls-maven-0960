@@ -2,3 +2,9 @@
 - pkg:maven/com.spotify/mlengine-example@0.4.0?classifier=sources
 - pkg:maven/com.spotify/mlengine-example@0.5.0
 - pkg:maven/com.spotify/mlengine-example@0.5.0?classifier=sources
+- pkg:maven/com.spotify/mlengine-example@0.5.1
+- pkg:maven/com.spotify/mlengine-example@0.5.1?classifier=sources
+- pkg:maven/com.spotify/mlengine-example@0.5.2
+- pkg:maven/com.spotify/mlengine-example@0.5.2?classifier=sources
+- pkg:maven/com.spotify/mlengine-example@0.5.3
+- pkg:maven/com.spotify/mlengine-example@0.5.3?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.deque/axe-selenium@2.0?classifier=sources
 - pkg:maven/com.deque/axe-selenium@2.1
 - pkg:maven/com.deque/axe-selenium@2.1?classifier=sources
+- pkg:maven/com.deque/axe-selenium@3.0
+- pkg:maven/com.deque/axe-selenium@3.0?classifier=sources

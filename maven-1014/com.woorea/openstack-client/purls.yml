@@ -24,3 +24,5 @@
 - pkg:maven/com.woorea/openstack-client@3.2.3?classifier=sources
 - pkg:maven/com.woorea/openstack-client@3.2.4
 - pkg:maven/com.woorea/openstack-client@3.2.4?classifier=sources
+- pkg:maven/com.woorea/openstack-client@3.2.5
+- pkg:maven/com.woorea/openstack-client@3.2.5?classifier=sources

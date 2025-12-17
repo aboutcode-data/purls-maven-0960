@@ -1,0 +1,4 @@
+- pkg:maven/com.jpmorgan.quorum/jaxrs-client@0.8
+- pkg:maven/com.jpmorgan.quorum/jaxrs-client@0.8?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/jaxrs-client@0.9
+- pkg:maven/com.jpmorgan.quorum/jaxrs-client@0.9?classifier=sources

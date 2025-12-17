@@ -89,6 +89,8 @@
 - pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-12?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-14
 - pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-14?classifier=sources
+- pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-15
+- pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-15?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-1?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-2
 - pkg:maven/net.sf.saxon/Saxon-HE@9.8.0-2?classifier=sources
@@ -108,3 +110,7 @@
 - pkg:maven/net.sf.saxon/Saxon-HE@9.9.0-1?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@9.9.0-2
 - pkg:maven/net.sf.saxon/Saxon-HE@9.9.0-2?classifier=sources
+- pkg:maven/net.sf.saxon/Saxon-HE@9.9.1-1
+- pkg:maven/net.sf.saxon/Saxon-HE@9.9.1-1?classifier=sources
+- pkg:maven/net.sf.saxon/Saxon-HE@9.9.1-2
+- pkg:maven/net.sf.saxon/Saxon-HE@9.9.1-2?classifier=sources

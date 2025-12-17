@@ -1,6 +1,16 @@
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@3.10.1
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@3.10.1-amd
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@3.10.1-amd?classifier=sources
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@3.10.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.10
 - pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.10?classifier=sources
 - pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.11
 - pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.11?classifier=sources
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.12-pre
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.12-pre?classifier=sources
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.4
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@4.17.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@4.2.1
+- pkg:maven/org.webjars.bowergithub.lodash/lodash@4.2.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.lodash/lodash@4.4.0
 - pkg:maven/org.webjars.bowergithub.lodash/lodash@4.4.0?classifier=sources

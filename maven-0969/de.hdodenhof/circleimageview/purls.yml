@@ -20,3 +20,5 @@
 - pkg:maven/de.hdodenhof/circleimageview@2.1.0?type=aar
 - pkg:maven/de.hdodenhof/circleimageview@2.2.0?classifier=sources
 - pkg:maven/de.hdodenhof/circleimageview@2.2.0?type=aar
+- pkg:maven/de.hdodenhof/circleimageview@3.0.0?classifier=sources
+- pkg:maven/de.hdodenhof/circleimageview@3.0.0?type=aar

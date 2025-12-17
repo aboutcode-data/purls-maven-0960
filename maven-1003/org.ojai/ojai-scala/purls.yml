@@ -2,3 +2,5 @@
 - pkg:maven/org.ojai/ojai-scala@2.0-mapr-1710
 - pkg:maven/org.ojai/ojai-scala@2.0-mapr-1710?classifier=sources
 - pkg:maven/org.ojai/ojai-scala@2.0?classifier=sources
+- pkg:maven/org.ojai/ojai-scala@3.0
+- pkg:maven/org.ojai/ojai-scala@3.0?classifier=sources

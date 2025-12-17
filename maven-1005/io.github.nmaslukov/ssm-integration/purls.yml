@@ -1,0 +1,6 @@
+- pkg:maven/io.github.nmaslukov/ssm-integration@1.0
+- pkg:maven/io.github.nmaslukov/ssm-integration@1.0?classifier=sources
+- pkg:maven/io.github.nmaslukov/ssm-integration@2.0
+- pkg:maven/io.github.nmaslukov/ssm-integration@2.0?classifier=sources
+- pkg:maven/io.github.nmaslukov/ssm-integration@4.0
+- pkg:maven/io.github.nmaslukov/ssm-integration@4.0?classifier=sources

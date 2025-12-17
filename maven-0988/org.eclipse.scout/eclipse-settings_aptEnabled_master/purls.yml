@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@2.0.8
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@2.0.8?classifier=sources
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@2.0?classifier=sources
+- pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.1.0
+- pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.1.0?classifier=sources

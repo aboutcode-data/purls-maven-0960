@@ -39,7 +39,15 @@
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.249?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.258
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.258?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.267
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.267?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.276
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.276?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.293
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.293?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.2?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.7
+- pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.95
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.95?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.12@3.0.96

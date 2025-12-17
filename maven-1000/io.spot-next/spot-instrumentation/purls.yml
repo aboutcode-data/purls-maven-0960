@@ -20,8 +20,12 @@
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.17-BETA-20181114?classifier=sources
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.18-BETA-20181115
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.18-BETA-20181115?classifier=sources
+- pkg:maven/io.spot-next/spot-instrumentation@1.0.19-BETA-20181127
+- pkg:maven/io.spot-next/spot-instrumentation@1.0.19-BETA-20181127?classifier=sources
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.2-BETA-20180809-d30d1c6
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.2-BETA-20180809-d30d1c6?classifier=sources
+- pkg:maven/io.spot-next/spot-instrumentation@1.0.20-BETA-20181129
+- pkg:maven/io.spot-next/spot-instrumentation@1.0.20-BETA-20181129?classifier=sources
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.3-BETA-20180811-5cf1f7a
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.3-BETA-20180811-5cf1f7a?classifier=sources
 - pkg:maven/io.spot-next/spot-instrumentation@1.0.4-BETA-20180811-00374fa

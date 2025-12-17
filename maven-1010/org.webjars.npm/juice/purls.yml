@@ -1,4 +1,8 @@
+- pkg:maven/org.webjars.npm/juice@2.0.0
+- pkg:maven/org.webjars.npm/juice@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/juice@4.3.1
 - pkg:maven/org.webjars.npm/juice@4.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/juice@4.3.2
 - pkg:maven/org.webjars.npm/juice@4.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/juice@5.0.1
+- pkg:maven/org.webjars.npm/juice@5.0.1?classifier=sources

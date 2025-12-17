@@ -20,3 +20,7 @@
 - pkg:maven/org.fcrepo.camel/fcrepo-fixity@4.7.1?classifier=sources
 - pkg:maven/org.fcrepo.camel/fcrepo-fixity@4.7.2
 - pkg:maven/org.fcrepo.camel/fcrepo-fixity@4.7.2?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@4.8.0
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@4.8.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@5.0.0
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@5.0.0?classifier=sources

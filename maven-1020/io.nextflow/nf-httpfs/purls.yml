@@ -1,0 +1,8 @@
+- pkg:maven/io.nextflow/nf-httpfs@19.01.0
+- pkg:maven/io.nextflow/nf-httpfs@19.01.0-edge
+- pkg:maven/io.nextflow/nf-httpfs@19.01.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.01.0?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.02.0-edge
+- pkg:maven/io.nextflow/nf-httpfs@19.02.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.03.0-edge
+- pkg:maven/io.nextflow/nf-httpfs@19.03.0-edge?classifier=sources

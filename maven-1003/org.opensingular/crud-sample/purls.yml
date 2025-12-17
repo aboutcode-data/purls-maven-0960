@@ -1,0 +1,6 @@
+- pkg:maven/org.opensingular/crud-sample@1.8.2-RC7?classifier=sources
+- pkg:maven/org.opensingular/crud-sample@1.8.2-RC7?type=war
+- pkg:maven/org.opensingular/crud-sample@1.8.2.1?classifier=sources
+- pkg:maven/org.opensingular/crud-sample@1.8.2.1?type=war
+- pkg:maven/org.opensingular/crud-sample@1.8.2?classifier=sources
+- pkg:maven/org.opensingular/crud-sample@1.8.2?type=war

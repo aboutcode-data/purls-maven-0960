@@ -16,3 +16,5 @@
 - pkg:maven/org.nhind/config-store@1.6?classifier=sources
 - pkg:maven/org.nhind/config-store@2.0.0
 - pkg:maven/org.nhind/config-store@2.0.0?classifier=sources
+- pkg:maven/org.nhind/config-store@6.0
+- pkg:maven/org.nhind/config-store@6.0?classifier=sources

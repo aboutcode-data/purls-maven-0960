@@ -1,2 +1,4 @@
 - pkg:maven/io.github.miracelwhipp.net.nuget.plugin/nuget-maven-plugin@2.0
 - pkg:maven/io.github.miracelwhipp.net.nuget.plugin/nuget-maven-plugin@2.0?classifier=sources
+- pkg:maven/io.github.miracelwhipp.net.nuget.plugin/nuget-maven-plugin@2.1
+- pkg:maven/io.github.miracelwhipp.net.nuget.plugin/nuget-maven-plugin@2.1?classifier=sources

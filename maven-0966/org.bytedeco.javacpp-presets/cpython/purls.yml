@@ -1,2 +1,4 @@
 - pkg:maven/org.bytedeco.javacpp-presets/cpython@3.6-1.4.3
 - pkg:maven/org.bytedeco.javacpp-presets/cpython@3.6-1.4.3?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/cpython@3.6-1.4.4
+- pkg:maven/org.bytedeco.javacpp-presets/cpython@3.6-1.4.4?classifier=sources

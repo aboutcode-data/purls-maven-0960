@@ -29,6 +29,8 @@
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.1
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.10
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.10?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.2
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.2?classifier=sources
@@ -40,6 +42,13 @@
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.6
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.7
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.7?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.8
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.8?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.9
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@5.3.9?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0-RC1
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0-RC2
@@ -48,3 +57,14 @@
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0-RC4
 - pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.1
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.2
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.3
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.0.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.1.0-RC1
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.1.0-RC1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.1.0-RC2
+- pkg:maven/org.apereo.cas/cas-server-support-radius-core-mfa@6.1.0-RC2?classifier=sources

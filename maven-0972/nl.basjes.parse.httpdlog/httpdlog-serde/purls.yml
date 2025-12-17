@@ -36,3 +36,5 @@
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-serde@5.0?classifier=sources
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-serde@5.1
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-serde@5.1?classifier=sources
+- pkg:maven/nl.basjes.parse.httpdlog/httpdlog-serde@5.2
+- pkg:maven/nl.basjes.parse.httpdlog/httpdlog-serde@5.2?classifier=sources

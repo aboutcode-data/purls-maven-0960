@@ -1,2 +1,4 @@
 - pkg:maven/com.hurence.logisland/logisland-connector-opc@0.14.0
 - pkg:maven/com.hurence.logisland/logisland-connector-opc@0.14.0?classifier=sources
+- pkg:maven/com.hurence.logisland/logisland-connector-opc@1.1.0
+- pkg:maven/com.hurence.logisland/logisland-connector-opc@1.1.0?classifier=sources

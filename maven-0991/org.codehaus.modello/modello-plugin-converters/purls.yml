@@ -27,6 +27,8 @@
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.0.2?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.0?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.1
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@1.10.0
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@1.10.0?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.1?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.2
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.2?classifier=sources

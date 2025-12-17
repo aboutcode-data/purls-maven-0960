@@ -1,0 +1,4 @@
+- pkg:maven/org.i2peer.tor/tor-installer@0.4.0.2
+- pkg:maven/org.i2peer.tor/tor-installer@0.4.0.2?classifier=sources
+- pkg:maven/org.i2peer.tor/tor-installer@1.0
+- pkg:maven/org.i2peer.tor/tor-installer@1.0?classifier=sources

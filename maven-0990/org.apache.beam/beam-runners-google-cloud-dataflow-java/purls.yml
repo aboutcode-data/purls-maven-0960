@@ -14,6 +14,10 @@
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.0.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.1.0
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.1.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.10.0
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.10.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.11.0
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.11.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.2.0
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.2.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.3.0
@@ -27,3 +31,5 @@
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.8.0
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.8.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.9.0
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.9.0?classifier=sources

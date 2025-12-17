@@ -46,8 +46,14 @@
 - pkg:maven/com.eduworks/ew.levr.base@5.14.2?classifier=sources
 - pkg:maven/com.eduworks/ew.levr.base@5.14.3
 - pkg:maven/com.eduworks/ew.levr.base@5.14.3?classifier=sources
+- pkg:maven/com.eduworks/ew.levr.base@5.14.5
+- pkg:maven/com.eduworks/ew.levr.base@5.14.5?classifier=sources
+- pkg:maven/com.eduworks/ew.levr.base@5.14.7
+- pkg:maven/com.eduworks/ew.levr.base@5.14.7?classifier=sources
 - pkg:maven/com.eduworks/ew.levr.base@5.15.0
 - pkg:maven/com.eduworks/ew.levr.base@5.15.0?classifier=sources
+- pkg:maven/com.eduworks/ew.levr.base@5.15.1
+- pkg:maven/com.eduworks/ew.levr.base@5.15.1?classifier=sources
 - pkg:maven/com.eduworks/ew.levr.base@5.2.0
 - pkg:maven/com.eduworks/ew.levr.base@5.2.0?classifier=sources
 - pkg:maven/com.eduworks/ew.levr.base@5.3.0

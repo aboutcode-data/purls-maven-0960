@@ -4,3 +4,5 @@
 - pkg:maven/com.groupon.android.feature-adapter/feature-adapter-group@1.0.12?type=aar
 - pkg:maven/com.groupon.android.feature-adapter/feature-adapter-group@1.0.13?classifier=sources
 - pkg:maven/com.groupon.android.feature-adapter/feature-adapter-group@1.0.13?type=aar
+- pkg:maven/com.groupon.android.feature-adapter/feature-adapter-group@2.0.0?classifier=sources
+- pkg:maven/com.groupon.android.feature-adapter/feature-adapter-group@2.0.0?type=aar

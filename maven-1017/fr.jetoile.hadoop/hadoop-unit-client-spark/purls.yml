@@ -4,6 +4,8 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@1.5
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.0
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.1
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.10
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.10.1
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.2
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.3
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.4
@@ -12,3 +14,8 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.7
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.8
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@2.9
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@3.0
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@3.1
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@3.2
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@3.3
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-spark@3.4

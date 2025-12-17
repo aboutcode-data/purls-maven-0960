@@ -70,6 +70,8 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.0
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.1
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.10
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.10?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.2
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.2?classifier=sources
@@ -81,6 +83,10 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.6?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.7
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.7?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.8
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.8?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.9
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.9?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.0.0
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.0.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.0.1
@@ -96,6 +102,8 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.0
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.0?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.1
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.10
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.10?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.2
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.2?classifier=sources
@@ -111,3 +119,5 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.7?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.8
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.8?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.9
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.9?classifier=sources

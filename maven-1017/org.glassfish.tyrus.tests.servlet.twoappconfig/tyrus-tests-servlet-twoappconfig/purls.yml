@@ -32,6 +32,8 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.13?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.14?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.14?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.15?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.15?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet.twoappconfig/tyrus-tests-servlet-twoappconfig@1.2.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.300
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.400
+- pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.400?classifier=sources

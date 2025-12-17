@@ -14,3 +14,7 @@
 - pkg:maven/com.feedzai/openml-api@0.4.0?classifier=sources
 - pkg:maven/com.feedzai/openml-api@0.4.1
 - pkg:maven/com.feedzai/openml-api@0.4.1?classifier=sources
+- pkg:maven/com.feedzai/openml-api@1.0.0
+- pkg:maven/com.feedzai/openml-api@1.0.0?classifier=sources
+- pkg:maven/com.feedzai/openml-api@1.0.1
+- pkg:maven/com.feedzai/openml-api@1.0.1?classifier=sources

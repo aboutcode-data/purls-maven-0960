@@ -19,6 +19,8 @@
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.10.0?classifier=sources
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.11.1
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.11.1?classifier=sources
+- pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.11.2
+- pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.11.2?classifier=sources
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.1?classifier=sources
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.2
 - pkg:maven/org.apache.maven.scm/maven-scm-provider-perforce@1.2?classifier=sources

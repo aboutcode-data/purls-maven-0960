@@ -1,0 +1,4 @@
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.0.10?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.0.10?type=aar
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.0.9?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.0.9?type=aar

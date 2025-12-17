@@ -30,6 +30,16 @@
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.13.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.14.0-04
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.14.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.15.0-01
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.15.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.15.1-01
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.15.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.15.2-01
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.15.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.16.0-01
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.16.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.16.1-02
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.16.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.2.0-01
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.2.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.2.1-01

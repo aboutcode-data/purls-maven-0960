@@ -75,9 +75,15 @@
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M5
+- pkg:maven/org.scala-lang/scala-partest@2.13.0-M5-1775dba
+- pkg:maven/org.scala-lang/scala-partest@2.13.0-M5-1775dba?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.13.0-M5-5eef812
+- pkg:maven/org.scala-lang/scala-partest@2.13.0-M5-5eef812?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M5-6e0cba7
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M5-6e0cba7?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M5?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.13.0-RC1
+- pkg:maven/org.scala-lang/scala-partest@2.13.0-RC1?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.8.0
 - pkg:maven/org.scala-lang/scala-partest@2.8.0.Beta1
 - pkg:maven/org.scala-lang/scala-partest@2.8.0.Beta1-RC1

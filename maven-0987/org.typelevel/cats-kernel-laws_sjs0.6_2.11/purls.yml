@@ -1,3 +1,5 @@
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@0.0.1-DONOTUSE
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@0.0.1-DONOTUSE?classifier=sources
 - pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@0.6.0
 - pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@0.6.0-M2
 - pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@0.6.0-M2?classifier=sources
@@ -42,3 +44,7 @@
 - pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.5.0-RC1
 - pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.5.0-RC1?classifier=sources
 - pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.5.0?classifier=sources
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.6.0
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.6.0-RC1
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.6.0-RC1?classifier=sources
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs0.6_2.11@1.6.0?classifier=sources

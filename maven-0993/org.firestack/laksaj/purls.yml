@@ -1,0 +1,4 @@
+- pkg:maven/org.firestack/laksaj@0.0.1-RELEASE
+- pkg:maven/org.firestack/laksaj@0.0.7-RELEASE?classifier=sources
+- pkg:maven/org.firestack/laksaj@0.0.9-RELEASE?classifier=sources
+- pkg:maven/org.firestack/laksaj@0.1.0-RELEASE?classifier=sources

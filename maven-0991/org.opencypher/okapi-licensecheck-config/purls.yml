@@ -24,6 +24,8 @@
 - pkg:maven/org.opencypher/okapi-licensecheck-config@0.2.1?classifier=sources
 - pkg:maven/org.opencypher/okapi-licensecheck-config@0.2.2
 - pkg:maven/org.opencypher/okapi-licensecheck-config@0.2.2?classifier=sources
+- pkg:maven/org.opencypher/okapi-licensecheck-config@0.2.3
+- pkg:maven/org.opencypher/okapi-licensecheck-config@0.2.3?classifier=sources
 - pkg:maven/org.opencypher/okapi-licensecheck-config@1.0.0-beta4
 - pkg:maven/org.opencypher/okapi-licensecheck-config@1.0.0-beta4?classifier=sources
 - pkg:maven/org.opencypher/okapi-licensecheck-config@1.0.0-beta5

@@ -50,3 +50,5 @@
 - pkg:maven/com.signalfx.public/signalfx-yammer@0.0.47?classifier=sources
 - pkg:maven/com.signalfx.public/signalfx-yammer@0.0.48
 - pkg:maven/com.signalfx.public/signalfx-yammer@0.0.48?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-yammer@0.1.0
+- pkg:maven/com.signalfx.public/signalfx-yammer@0.1.0?classifier=sources

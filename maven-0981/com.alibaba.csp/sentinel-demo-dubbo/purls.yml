@@ -6,3 +6,5 @@
 - pkg:maven/com.alibaba.csp/sentinel-demo-dubbo@0.1.2?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-demo-dubbo@0.2.0
 - pkg:maven/com.alibaba.csp/sentinel-demo-dubbo@0.2.0?classifier=sources
+- pkg:maven/com.alibaba.csp/sentinel-demo-dubbo@1.3.1
+- pkg:maven/com.alibaba.csp/sentinel-demo-dubbo@1.3.1?classifier=sources

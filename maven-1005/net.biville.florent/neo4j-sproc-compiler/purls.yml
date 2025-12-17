@@ -15,4 +15,6 @@
 - pkg:maven/net.biville.florent/neo4j-sproc-compiler@1.1-M01?classifier=sources
 - pkg:maven/net.biville.florent/neo4j-sproc-compiler@1.1?classifier=sources
 - pkg:maven/net.biville.florent/neo4j-sproc-compiler@1.2
+- pkg:maven/net.biville.florent/neo4j-sproc-compiler@1.2.1
+- pkg:maven/net.biville.florent/neo4j-sproc-compiler@1.2.1?classifier=sources
 - pkg:maven/net.biville.florent/neo4j-sproc-compiler@1.2?classifier=sources

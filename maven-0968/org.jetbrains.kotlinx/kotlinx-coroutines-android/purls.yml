@@ -59,3 +59,17 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.0.1
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.0
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.0-alpha
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.0-alpha?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.1
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.1-eap13
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.1-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.1.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha-2
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha-2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0-alpha?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.2.0?classifier=sources

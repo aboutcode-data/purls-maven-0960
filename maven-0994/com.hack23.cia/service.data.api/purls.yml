@@ -68,6 +68,8 @@
 - pkg:maven/com.hack23.cia/service.data.api@2018.10.17?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2018.11.16
 - pkg:maven/com.hack23.cia/service.data.api@2018.11.16?classifier=sources
+- pkg:maven/com.hack23.cia/service.data.api@2018.12.15
+- pkg:maven/com.hack23.cia/service.data.api@2018.12.15?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2018.2.25
 - pkg:maven/com.hack23.cia/service.data.api@2018.2.25?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2018.4.3
@@ -86,3 +88,9 @@
 - pkg:maven/com.hack23.cia/service.data.api@2018.9.23?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2018.9.8
 - pkg:maven/com.hack23.cia/service.data.api@2018.9.8?classifier=sources
+- pkg:maven/com.hack23.cia/service.data.api@2019.1.26
+- pkg:maven/com.hack23.cia/service.data.api@2019.1.26?classifier=sources
+- pkg:maven/com.hack23.cia/service.data.api@2019.2.23
+- pkg:maven/com.hack23.cia/service.data.api@2019.2.23?classifier=sources
+- pkg:maven/com.hack23.cia/service.data.api@2019.3.24
+- pkg:maven/com.hack23.cia/service.data.api@2019.3.24?classifier=sources

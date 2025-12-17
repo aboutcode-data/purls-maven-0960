@@ -1,2 +1,6 @@
+- pkg:maven/net.sf.okapi.lib/okapi-lib-transifex@0.35
+- pkg:maven/net.sf.okapi.lib/okapi-lib-transifex@0.35?classifier=sources
 - pkg:maven/net.sf.okapi.lib/okapi-lib-transifex@0.36
 - pkg:maven/net.sf.okapi.lib/okapi-lib-transifex@0.36?classifier=sources
+- pkg:maven/net.sf.okapi.lib/okapi-lib-transifex@0.37
+- pkg:maven/net.sf.okapi.lib/okapi-lib-transifex@0.37?classifier=sources

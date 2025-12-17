@@ -45,6 +45,14 @@
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.10?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.11
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.11?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.12
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.12?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.13
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.13?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.14
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.14?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.15
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.15?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.1?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.2
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.2?classifier=sources
@@ -62,3 +70,9 @@
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.8?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.9
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.7.9?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.8.0
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.8.0?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.8.1
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.8.1?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.8.2
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-kafka11@2.8.2?classifier=sources

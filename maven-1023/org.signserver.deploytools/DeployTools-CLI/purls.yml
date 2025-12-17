@@ -5,4 +5,6 @@
 - pkg:maven/org.signserver.deploytools/DeployTools-CLI@2.0.3?classifier=sources
 - pkg:maven/org.signserver.deploytools/DeployTools-CLI@2.0?classifier=sources
 - pkg:maven/org.signserver.deploytools/DeployTools-CLI@2.2
+- pkg:maven/org.signserver.deploytools/DeployTools-CLI@2.2.1
+- pkg:maven/org.signserver.deploytools/DeployTools-CLI@2.2.1?classifier=sources
 - pkg:maven/org.signserver.deploytools/DeployTools-CLI@2.2?classifier=sources

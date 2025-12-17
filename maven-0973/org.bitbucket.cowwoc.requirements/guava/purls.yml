@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.cowwoc.requirements/guava@4.0.5-RC
+- pkg:maven/org.bitbucket.cowwoc.requirements/guava@4.0.5-RC?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc.requirements/guava@4.0.6-RC
+- pkg:maven/org.bitbucket.cowwoc.requirements/guava@4.0.6-RC?classifier=sources

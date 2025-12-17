@@ -10,6 +10,12 @@
 - pkg:maven/io.airlift.drift/drift-maven-plugin@1.14?classifier=sources
 - pkg:maven/io.airlift.drift/drift-maven-plugin@1.15
 - pkg:maven/io.airlift.drift/drift-maven-plugin@1.15?classifier=sources
+- pkg:maven/io.airlift.drift/drift-maven-plugin@1.16
+- pkg:maven/io.airlift.drift/drift-maven-plugin@1.16?classifier=sources
+- pkg:maven/io.airlift.drift/drift-maven-plugin@1.17
+- pkg:maven/io.airlift.drift/drift-maven-plugin@1.17?classifier=sources
+- pkg:maven/io.airlift.drift/drift-maven-plugin@1.18
+- pkg:maven/io.airlift.drift/drift-maven-plugin@1.18?classifier=sources
 - pkg:maven/io.airlift.drift/drift-maven-plugin@1.2
 - pkg:maven/io.airlift.drift/drift-maven-plugin@1.2?classifier=sources
 - pkg:maven/io.airlift.drift/drift-maven-plugin@1.3

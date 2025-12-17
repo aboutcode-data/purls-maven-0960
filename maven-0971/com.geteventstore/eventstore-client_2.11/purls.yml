@@ -72,3 +72,7 @@
 - pkg:maven/com.geteventstore/eventstore-client_2.11@5.0.7?classifier=sources
 - pkg:maven/com.geteventstore/eventstore-client_2.11@5.0.8
 - pkg:maven/com.geteventstore/eventstore-client_2.11@5.0.8?classifier=sources
+- pkg:maven/com.geteventstore/eventstore-client_2.11@5.0.9
+- pkg:maven/com.geteventstore/eventstore-client_2.11@5.0.9?classifier=sources
+- pkg:maven/com.geteventstore/eventstore-client_2.11@6.0.0
+- pkg:maven/com.geteventstore/eventstore-client_2.11@6.0.0?classifier=sources

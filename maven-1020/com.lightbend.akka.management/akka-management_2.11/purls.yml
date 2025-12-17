@@ -20,6 +20,8 @@
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.18.0?classifier=sources
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.19.0
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.19.0?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.20.0
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.20.0?classifier=sources
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7.1
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7.1?classifier=sources
@@ -28,3 +30,13 @@
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.8.0?classifier=sources
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.9.0
 - pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.9.0?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC1
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC1?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC2
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC2?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC3
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC3?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC4
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0-RC4?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@1.0.0?classifier=sources

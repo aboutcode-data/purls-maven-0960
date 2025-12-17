@@ -32,6 +32,14 @@
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.12?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.13
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.13?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.14
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.14?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.15
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.15?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.16
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.16?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.17
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.17?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.1?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.2
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@3.7.2?classifier=sources
@@ -55,6 +63,8 @@
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.0
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.0?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.1
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.10
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.10?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.1?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.2
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.2?classifier=sources
@@ -68,3 +78,5 @@
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.6?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.7
 - pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.7?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.9
+- pkg:maven/fr.ird.observe.toolkit/eugene-templates-extension@4.9?classifier=sources

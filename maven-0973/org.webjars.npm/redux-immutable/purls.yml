@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/redux-immutable@3.0.8
 - pkg:maven/org.webjars.npm/redux-immutable@3.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/redux-immutable@4.0.0
+- pkg:maven/org.webjars.npm/redux-immutable@4.0.0?classifier=sources

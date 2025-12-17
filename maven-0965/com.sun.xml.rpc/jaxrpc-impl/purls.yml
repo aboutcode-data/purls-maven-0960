@@ -1,3 +1,5 @@
 - pkg:maven/com.sun.xml.rpc/jaxrpc-impl@1.1.3_01
 - pkg:maven/com.sun.xml.rpc/jaxrpc-impl@1.1.4_01
 - pkg:maven/com.sun.xml.rpc/jaxrpc-impl@1.1.4_01?classifier=sources
+- pkg:maven/com.sun.xml.rpc/jaxrpc-impl@1.1.5
+- pkg:maven/com.sun.xml.rpc/jaxrpc-impl@1.1.5?classifier=sources

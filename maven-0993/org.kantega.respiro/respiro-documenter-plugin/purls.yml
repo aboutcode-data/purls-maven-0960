@@ -39,6 +39,12 @@
 - pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.20?classifier=sources
 - pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.21
 - pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.21?classifier=sources
+- pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.22
+- pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.22?classifier=sources
+- pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.23
+- pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.23?classifier=sources
+- pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.24
+- pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.24?classifier=sources
 - pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.2?classifier=sources
 - pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.3
 - pkg:maven/org.kantega.respiro/respiro-documenter-plugin@2.3?classifier=sources

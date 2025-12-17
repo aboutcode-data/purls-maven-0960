@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.8.0-M3
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.8.0-M3?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.9.0-M1
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.9.0-M1?classifier=sources
