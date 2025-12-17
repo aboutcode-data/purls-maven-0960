@@ -4,3 +4,5 @@
 - pkg:maven/cz.seznam.euphoria/euphoria-spark@0.6.0?classifier=sources
 - pkg:maven/cz.seznam.euphoria/euphoria-spark@0.7.0
 - pkg:maven/cz.seznam.euphoria/euphoria-spark@0.7.0?classifier=sources
+- pkg:maven/cz.seznam.euphoria/euphoria-spark@0.8.0-rc1
+- pkg:maven/cz.seznam.euphoria/euphoria-spark@0.8.0-rc1?classifier=sources

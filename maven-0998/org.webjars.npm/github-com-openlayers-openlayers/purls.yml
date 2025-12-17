@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-openlayers-openlayers@3.16.0
 - pkg:maven/org.webjars.npm/github-com-openlayers-openlayers@3.16.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-openlayers-openlayers@4.6.4
+- pkg:maven/org.webjars.npm/github-com-openlayers-openlayers@4.6.4?classifier=sources

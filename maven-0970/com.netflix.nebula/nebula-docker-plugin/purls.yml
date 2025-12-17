@@ -4,3 +4,5 @@
 - pkg:maven/com.netflix.nebula/nebula-docker-plugin@1.1.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-docker-plugin@1.1.1
 - pkg:maven/com.netflix.nebula/nebula-docker-plugin@1.1.1?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-docker-plugin@1.2.3
+- pkg:maven/com.netflix.nebula/nebula-docker-plugin@1.2.3?classifier=sources

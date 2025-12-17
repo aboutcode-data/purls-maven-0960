@@ -174,6 +174,9 @@
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.26?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.27
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.27?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.27?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.2?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.3

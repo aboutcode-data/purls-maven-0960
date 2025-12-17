@@ -2,3 +2,5 @@
 - pkg:maven/org.mule.tests/mule-tests-runner@4.0.0-BETA.4?classifier=sources
 - pkg:maven/org.mule.tests/mule-tests-runner@4.0.0-rc
 - pkg:maven/org.mule.tests/mule-tests-runner@4.0.0-rc?classifier=sources
+- pkg:maven/org.mule.tests/mule-tests-runner@4.1.1
+- pkg:maven/org.mule.tests/mule-tests-runner@4.1.1?classifier=sources

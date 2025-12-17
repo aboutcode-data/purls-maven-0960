@@ -30,3 +30,5 @@
 - pkg:maven/org.wikibrainapi/wikibrain-matrix@0.7.4?classifier=sources
 - pkg:maven/org.wikibrainapi/wikibrain-matrix@0.8.0
 - pkg:maven/org.wikibrainapi/wikibrain-matrix@0.8.0?classifier=sources
+- pkg:maven/org.wikibrainapi/wikibrain-matrix@0.9.1
+- pkg:maven/org.wikibrainapi/wikibrain-matrix@0.9.1?classifier=sources

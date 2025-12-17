@@ -65,6 +65,10 @@
 - pkg:maven/com.qulice/qulice-pmd@0.17
 - pkg:maven/com.qulice/qulice-pmd@0.17.1
 - pkg:maven/com.qulice/qulice-pmd@0.17.1?classifier=sources
+- pkg:maven/com.qulice/qulice-pmd@0.17.2
+- pkg:maven/com.qulice/qulice-pmd@0.17.2?classifier=sources
+- pkg:maven/com.qulice/qulice-pmd@0.17.3
+- pkg:maven/com.qulice/qulice-pmd@0.17.3?classifier=sources
 - pkg:maven/com.qulice/qulice-pmd@0.17?classifier=sources
 - pkg:maven/com.qulice/qulice-pmd@0.2
 - pkg:maven/com.qulice/qulice-pmd@0.2.1

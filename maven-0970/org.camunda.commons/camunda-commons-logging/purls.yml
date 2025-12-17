@@ -30,3 +30,7 @@
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.4.0-alpha4
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.4.0-alpha4?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.4.0?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-logging@1.5.0
+- pkg:maven/org.camunda.commons/camunda-commons-logging@1.5.0?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-logging@1.5.1
+- pkg:maven/org.camunda.commons/camunda-commons-logging@1.5.1?classifier=sources

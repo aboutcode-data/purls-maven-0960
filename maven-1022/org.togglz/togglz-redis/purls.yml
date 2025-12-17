@@ -1,2 +1,4 @@
 - pkg:maven/org.togglz/togglz-redis@2.5.0.Final
 - pkg:maven/org.togglz/togglz-redis@2.5.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-redis@2.6.0.Final
+- pkg:maven/org.togglz/togglz-redis@2.6.0.Final?classifier=sources

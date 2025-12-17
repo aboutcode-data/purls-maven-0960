@@ -8,3 +8,5 @@
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-web-servlet-filter@0.0.9?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-web-servlet-filter@0.1.0
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-web-servlet-filter@0.1.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-web-servlet-filter@0.2.0
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-web-servlet-filter@0.2.0?classifier=sources

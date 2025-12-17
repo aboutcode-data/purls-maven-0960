@@ -1,0 +1,4 @@
+- pkg:maven/org.datavec/datavec-jdbc@1.0.0-alpha
+- pkg:maven/org.datavec/datavec-jdbc@1.0.0-alpha?classifier=sources
+- pkg:maven/org.datavec/datavec-jdbc@1.0.0-beta
+- pkg:maven/org.datavec/datavec-jdbc@1.0.0-beta?classifier=sources

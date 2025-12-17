@@ -13,4 +13,6 @@
 - pkg:maven/io.github.kicksolutions/swagger-plantuml-core@1.0.2
 - pkg:maven/io.github.kicksolutions/swagger-plantuml-core@1.0.2?classifier=sources
 - pkg:maven/io.github.kicksolutions/swagger-plantuml-core@1.0.3
+- pkg:maven/io.github.kicksolutions/swagger-plantuml-core@1.0.3-alpha
+- pkg:maven/io.github.kicksolutions/swagger-plantuml-core@1.0.3-alpha?classifier=sources
 - pkg:maven/io.github.kicksolutions/swagger-plantuml-core@1.0.3?classifier=sources

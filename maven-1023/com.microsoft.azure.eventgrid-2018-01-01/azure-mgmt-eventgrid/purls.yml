@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure.eventgrid-2018-01-01/azure-mgmt-eventgrid@0.0.1-beta
+- pkg:maven/com.microsoft.azure.eventgrid-2018-01-01/azure-mgmt-eventgrid@0.0.1-beta?classifier=sources
+- pkg:maven/com.microsoft.azure.eventgrid-2018-01-01/azure-mgmt-eventgrid@1.0.0-beta-1
+- pkg:maven/com.microsoft.azure.eventgrid-2018-01-01/azure-mgmt-eventgrid@1.0.0-beta-1?classifier=sources

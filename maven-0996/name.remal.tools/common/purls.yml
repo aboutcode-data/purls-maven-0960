@@ -1,2 +1,6 @@
 - pkg:maven/name.remal.tools/common@0.25.2
 - pkg:maven/name.remal.tools/common@0.25.2?classifier=sources
+- pkg:maven/name.remal.tools/common@0.25.3
+- pkg:maven/name.remal.tools/common@0.25.3?classifier=sources
+- pkg:maven/name.remal.tools/common@0.26.34
+- pkg:maven/name.remal.tools/common@0.26.34?classifier=sources

@@ -10,3 +10,13 @@
 - pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.0.Beta1
 - pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.0.Beta1?classifier=sources
 - pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.0?classifier=sources
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.1
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.1?classifier=sources
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2.CR1
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2.CR1?classifier=sources
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2.CR2
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2.CR2?classifier=sources
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2.CR3
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2.CR3?classifier=sources
+- pkg:maven/io.vertx/vertx-web-client-scala_2.12@3.5.2?classifier=sources

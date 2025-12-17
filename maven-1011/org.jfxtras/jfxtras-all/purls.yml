@@ -2,3 +2,7 @@
 - pkg:maven/org.jfxtras/jfxtras-all@8.0-r3
 - pkg:maven/org.jfxtras/jfxtras-all@8.0-r4
 - pkg:maven/org.jfxtras/jfxtras-all@8.0-r5
+- pkg:maven/org.jfxtras/jfxtras-all@8.0-r6
+- pkg:maven/org.jfxtras/jfxtras-all@8.0-r6?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-all@9.0-r1
+- pkg:maven/org.jfxtras/jfxtras-all@9.0-r1?classifier=sources

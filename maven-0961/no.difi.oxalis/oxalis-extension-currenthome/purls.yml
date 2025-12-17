@@ -1,2 +1,6 @@
+- pkg:maven/no.difi.oxalis/oxalis-extension-currenthome@4.0.0
 - pkg:maven/no.difi.oxalis/oxalis-extension-currenthome@4.0.0-RC3
 - pkg:maven/no.difi.oxalis/oxalis-extension-currenthome@4.0.0-RC3?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-extension-currenthome@4.0.0?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-extension-currenthome@4.0.1
+- pkg:maven/no.difi.oxalis/oxalis-extension-currenthome@4.0.1?classifier=sources

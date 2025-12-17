@@ -8,3 +8,5 @@
 - pkg:maven/com.soywiz/korio-ext-db-cassandra-js@0.17.1?classifier=sources
 - pkg:maven/com.soywiz/korio-ext-db-cassandra-js@0.18.0
 - pkg:maven/com.soywiz/korio-ext-db-cassandra-js@0.18.0?classifier=sources
+- pkg:maven/com.soywiz/korio-ext-db-cassandra-js@0.19.1
+- pkg:maven/com.soywiz/korio-ext-db-cassandra-js@0.19.1?classifier=sources

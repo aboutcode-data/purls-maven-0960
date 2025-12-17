@@ -1,3 +1,9 @@
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.10.0
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.10.0?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.10.1
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.10.1?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.10.2
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.10.2?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.1
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.10
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.10?classifier=sources
@@ -5,6 +11,14 @@
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.11?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.12
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.12?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.13
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.13?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.14
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.14?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.15
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.15?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.16
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.16?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.1?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.2
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-api@0.9.2?classifier=sources

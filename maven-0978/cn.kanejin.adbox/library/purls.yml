@@ -4,3 +4,6 @@
 - pkg:maven/cn.kanejin.adbox/library@1.0.1?type=aar
 - pkg:maven/cn.kanejin.adbox/library@1.0.2?classifier=sources
 - pkg:maven/cn.kanejin.adbox/library@1.0.2?type=aar
+- pkg:maven/cn.kanejin.adbox/library@1.0.3?classifier=sources
+- pkg:maven/cn.kanejin.adbox/library@1.0.4?classifier=sources
+- pkg:maven/cn.kanejin.adbox/library@1.0.4?type=aar

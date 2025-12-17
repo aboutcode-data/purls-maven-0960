@@ -23,6 +23,12 @@
 - pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.0-rc3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.1
+- pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.10
+- pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.10?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.11
+- pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.11?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.12
+- pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.12?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.2
 - pkg:maven/org.neo4j/neo4j-cypher-compiler-3.2@3.2.2?classifier=sources

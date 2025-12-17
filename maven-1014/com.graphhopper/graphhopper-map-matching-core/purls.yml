@@ -1,3 +1,7 @@
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.10.0
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.10.0-RC1
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.10.0-RC1?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.10.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.8.0
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.8.0-RC2
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.8.0-RC2?classifier=sources

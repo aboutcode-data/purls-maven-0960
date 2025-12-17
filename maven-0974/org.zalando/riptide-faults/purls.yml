@@ -1,3 +1,4 @@
+- pkg:maven/org.zalando/riptide-faults@2.6.0
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC1
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC1?classifier=sources
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC2
@@ -10,5 +11,20 @@
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC5?classifier=sources
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC6
 - pkg:maven/org.zalando/riptide-faults@2.6.0-RC6?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.6.0-RC7
+- pkg:maven/org.zalando/riptide-faults@2.6.0-RC7?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.6.0-RC8
+- pkg:maven/org.zalando/riptide-faults@2.6.0-RC8?classifier=sources
 - pkg:maven/org.zalando/riptide-faults@2.6.0-beta
 - pkg:maven/org.zalando/riptide-faults@2.6.0-beta?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.6.0?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.6.1
+- pkg:maven/org.zalando/riptide-faults@2.6.1?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.7.0
+- pkg:maven/org.zalando/riptide-faults@2.7.0?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.7.1
+- pkg:maven/org.zalando/riptide-faults@2.7.1?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.8.0
+- pkg:maven/org.zalando/riptide-faults@2.8.0?classifier=sources
+- pkg:maven/org.zalando/riptide-faults@2.8.1
+- pkg:maven/org.zalando/riptide-faults@2.8.1?classifier=sources

@@ -1,4 +1,14 @@
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-SNAPSHOT-66
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-SNAPSHOT-66?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-01
 - pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-01?classifier=sources
 - pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-02
 - pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-02?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-03
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-03?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-04
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-04?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-05
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-05?classifier=sources
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-06
+- pkg:maven/com.manywho.sdk/sdk-server-servlet3@2.0.0-beta-06?classifier=sources

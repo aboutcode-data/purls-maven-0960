@@ -1,0 +1,6 @@
+- pkg:maven/com.microsoft.azure/azure-mgmt-apimanagement@1.10.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-apimanagement@1.10.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-apimanagement@1.8.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-apimanagement@1.8.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-apimanagement@1.9.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-apimanagement@1.9.0-beta?classifier=sources

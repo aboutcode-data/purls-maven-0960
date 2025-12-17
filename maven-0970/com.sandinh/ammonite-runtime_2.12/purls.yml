@@ -1,2 +1,4 @@
 - pkg:maven/com.sandinh/ammonite-runtime_2.12@1.0.1-sh
 - pkg:maven/com.sandinh/ammonite-runtime_2.12@1.0.1-sh?classifier=sources
+- pkg:maven/com.sandinh/ammonite-runtime_2.12@1.1.0-18-b04b80d
+- pkg:maven/com.sandinh/ammonite-runtime_2.12@1.1.0-18-b04b80d?classifier=sources

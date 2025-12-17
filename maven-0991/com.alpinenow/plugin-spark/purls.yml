@@ -9,6 +9,10 @@
 - pkg:maven/com.alpinenow/plugin-spark@1.0
 - pkg:maven/com.alpinenow/plugin-spark@1.0?classifier=sources
 - pkg:maven/com.alpinenow/plugin-spark@1.1
+- pkg:maven/com.alpinenow/plugin-spark@1.10
+- pkg:maven/com.alpinenow/plugin-spark@1.10-beta
+- pkg:maven/com.alpinenow/plugin-spark@1.10-beta?classifier=sources
+- pkg:maven/com.alpinenow/plugin-spark@1.10?classifier=sources
 - pkg:maven/com.alpinenow/plugin-spark@1.1?classifier=sources
 - pkg:maven/com.alpinenow/plugin-spark@1.2
 - pkg:maven/com.alpinenow/plugin-spark@1.2.1

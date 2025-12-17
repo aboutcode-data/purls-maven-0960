@@ -10,3 +10,5 @@
 - pkg:maven/com.jsunsoft.http/http-request@0.0.5?classifier=sources
 - pkg:maven/com.jsunsoft.http/http-request@1.0.0
 - pkg:maven/com.jsunsoft.http/http-request@1.0.0?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@1.0.1
+- pkg:maven/com.jsunsoft.http/http-request@1.0.1?classifier=sources

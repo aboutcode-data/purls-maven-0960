@@ -218,3 +218,17 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.10
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.20
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.30
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.30?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.31
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.31?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.40
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.40?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.41
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.41?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.50
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler@1.2.50?classifier=sources

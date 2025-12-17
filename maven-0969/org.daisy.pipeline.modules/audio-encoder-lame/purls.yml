@@ -4,3 +4,5 @@
 - pkg:maven/org.daisy.pipeline.modules/audio-encoder-lame@2.0.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/audio-encoder-lame@3.0.0
 - pkg:maven/org.daisy.pipeline.modules/audio-encoder-lame@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/audio-encoder-lame@3.0.1
+- pkg:maven/org.daisy.pipeline.modules/audio-encoder-lame@3.0.1?classifier=sources

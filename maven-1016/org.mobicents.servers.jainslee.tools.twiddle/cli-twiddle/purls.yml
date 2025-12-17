@@ -17,6 +17,8 @@
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.107?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.108
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.108?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.109
+- pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.109?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.10?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.11
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@2.8.110
@@ -230,6 +232,8 @@
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.41?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.42
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.42?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.43
+- pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.43?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.44
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.44?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools.twiddle/cli-twiddle@3.0.45

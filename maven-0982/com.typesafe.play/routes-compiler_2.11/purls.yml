@@ -73,6 +73,16 @@
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.1
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.10
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.10?classifier=sources
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.11
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.11?classifier=sources
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.12
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.12?classifier=sources
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.13
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.13?classifier=sources
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.14
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.14?classifier=sources
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.15
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.15?classifier=sources
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.1?classifier=sources
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.2
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.2?classifier=sources
@@ -88,3 +98,5 @@
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.7?classifier=sources
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.9
 - pkg:maven/com.typesafe.play/routes-compiler_2.11@2.6.9?classifier=sources
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.7.0-M1
+- pkg:maven/com.typesafe.play/routes-compiler_2.11@2.7.0-M1?classifier=sources

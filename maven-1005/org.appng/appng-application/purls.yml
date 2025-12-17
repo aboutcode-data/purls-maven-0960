@@ -3,3 +3,6 @@
 - pkg:maven/org.appng/appng-application@1.15.0?classifier=sources
 - pkg:maven/org.appng/appng-application@1.16.0?classifier=sources
 - pkg:maven/org.appng/appng-application@1.16.1?classifier=sources
+- pkg:maven/org.appng/appng-application@1.16.2?classifier=sources
+- pkg:maven/org.appng/appng-application@1.17.0?classifier=sources
+- pkg:maven/org.appng/appng-application@1.17.1?classifier=sources

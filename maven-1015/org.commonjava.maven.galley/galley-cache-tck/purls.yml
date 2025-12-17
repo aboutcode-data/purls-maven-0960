@@ -50,6 +50,12 @@
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.0?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.1
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.1?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.2
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.2?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.3
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.3?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.4
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.4?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.2.0
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.2.0?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.3.0

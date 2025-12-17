@@ -2,3 +2,5 @@
 - pkg:maven/net.savantly/graphite-client@1.0.0-RELEASE?classifier=sources
 - pkg:maven/net.savantly/graphite-client@1.1.0-RELEASE
 - pkg:maven/net.savantly/graphite-client@1.1.0-RELEASE?classifier=sources
+- pkg:maven/net.savantly/graphite-client@2.0.0-RELEASE
+- pkg:maven/net.savantly/graphite-client@2.0.0-RELEASE?classifier=sources

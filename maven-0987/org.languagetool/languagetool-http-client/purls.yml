@@ -12,3 +12,7 @@
 - pkg:maven/org.languagetool/languagetool-http-client@3.9?classifier=sources
 - pkg:maven/org.languagetool/languagetool-http-client@4.0
 - pkg:maven/org.languagetool/languagetool-http-client@4.0?classifier=sources
+- pkg:maven/org.languagetool/languagetool-http-client@4.1
+- pkg:maven/org.languagetool/languagetool-http-client@4.1?classifier=sources
+- pkg:maven/org.languagetool/languagetool-http-client@4.2
+- pkg:maven/org.languagetool/languagetool-http-client@4.2?classifier=sources

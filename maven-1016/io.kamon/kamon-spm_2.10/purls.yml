@@ -22,3 +22,5 @@
 - pkg:maven/io.kamon/kamon-spm_2.10@0.6.9?classifier=sources
 - pkg:maven/io.kamon/kamon-spm_2.10@0.7.0
 - pkg:maven/io.kamon/kamon-spm_2.10@0.7.0?classifier=sources
+- pkg:maven/io.kamon/kamon-spm_2.10@1.1.1
+- pkg:maven/io.kamon/kamon-spm_2.10@1.1.1?classifier=sources

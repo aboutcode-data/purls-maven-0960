@@ -20,7 +20,17 @@
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.19.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.19.4
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.19.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.19.5
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.19.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.20.0
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.20.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.20.1
 - pkg:maven/org.apache.camel/camel-telegram-starter@2.20.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.20.2
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.20.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.20.3
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.20.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.21.0
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.21.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.21.1
+- pkg:maven/org.apache.camel/camel-telegram-starter@2.21.1?classifier=sources

@@ -285,6 +285,8 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.3
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.30
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.30?classifier=sources
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.31
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.31?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.3?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.4
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.20.4?classifier=sources
@@ -304,3 +306,5 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.22.0?classifier=sources
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.22.1
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.22.1?classifier=sources
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.22.2
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-lang-fr@0.22.2?classifier=sources

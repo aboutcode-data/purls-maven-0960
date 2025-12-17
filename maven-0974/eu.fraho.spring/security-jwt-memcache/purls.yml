@@ -16,3 +16,5 @@
 - pkg:maven/eu.fraho.spring/security-jwt-memcache@2.0.0?classifier=sources
 - pkg:maven/eu.fraho.spring/security-jwt-memcache@2.0.1
 - pkg:maven/eu.fraho.spring/security-jwt-memcache@2.0.1?classifier=sources
+- pkg:maven/eu.fraho.spring/security-jwt-memcache@3.0.0
+- pkg:maven/eu.fraho.spring/security-jwt-memcache@3.0.0?classifier=sources

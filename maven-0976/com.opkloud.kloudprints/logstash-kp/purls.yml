@@ -1,0 +1,4 @@
+- pkg:maven/com.opkloud.kloudprints/logstash-kp@1.0.1?classifier=sources
+- pkg:maven/com.opkloud.kloudprints/logstash-kp@1.0.2?classifier=sources
+- pkg:maven/com.opkloud.kloudprints/logstash-kp@1.0?classifier=sources
+- pkg:maven/com.opkloud.kloudprints/logstash-kp@1.1.0?classifier=sources

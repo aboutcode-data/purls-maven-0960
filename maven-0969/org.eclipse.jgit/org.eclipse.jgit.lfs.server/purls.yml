@@ -1,5 +1,7 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.10.0.201712302008-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.10.0.201712302008-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.11.0.201803080745-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.11.0.201803080745-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.3.0.201604071810-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.3.0.201604071810-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.3.1.201605051710-r
@@ -38,3 +40,13 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.9.1.201712030800-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.9.2.201712150930-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@4.9.2.201712150930-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201805151920-m7
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201805151920-m7?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201805221745-rc1
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201805221745-rc1?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201805301535-rc2
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201805301535-rc2?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201806131550-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.0.201806131550-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.1.201806211838-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@5.0.1.201806211838-r?classifier=sources

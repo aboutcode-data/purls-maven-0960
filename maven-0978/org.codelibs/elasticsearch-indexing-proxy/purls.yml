@@ -1,2 +1,14 @@
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.5.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.2?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.2?type=zip
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.3?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.3?type=zip
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.4?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.4?type=zip
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.5?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-indexing-proxy@5.6.5?type=zip

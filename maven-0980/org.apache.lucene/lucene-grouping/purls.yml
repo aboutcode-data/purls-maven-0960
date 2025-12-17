@@ -120,6 +120,10 @@
 - pkg:maven/org.apache.lucene/lucene-grouping@6.6.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-grouping@6.6.2
 - pkg:maven/org.apache.lucene/lucene-grouping@6.6.2?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@6.6.3
+- pkg:maven/org.apache.lucene/lucene-grouping@6.6.3?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@6.6.4
+- pkg:maven/org.apache.lucene/lucene-grouping@6.6.4?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-grouping@7.0.0
 - pkg:maven/org.apache.lucene/lucene-grouping@7.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-grouping@7.0.1
@@ -128,3 +132,11 @@
 - pkg:maven/org.apache.lucene/lucene-grouping@7.1.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-grouping@7.2.0
 - pkg:maven/org.apache.lucene/lucene-grouping@7.2.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@7.2.1
+- pkg:maven/org.apache.lucene/lucene-grouping@7.2.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@7.3.0
+- pkg:maven/org.apache.lucene/lucene-grouping@7.3.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@7.3.1
+- pkg:maven/org.apache.lucene/lucene-grouping@7.3.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@7.4.0
+- pkg:maven/org.apache.lucene/lucene-grouping@7.4.0?classifier=sources

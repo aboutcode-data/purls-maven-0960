@@ -1,0 +1,4 @@
+- pkg:maven/us.springett/alpine-executable-war@1.0.0
+- pkg:maven/us.springett/alpine-executable-war@1.0.0?classifier=sources
+- pkg:maven/us.springett/alpine-executable-war@1.0.1
+- pkg:maven/us.springett/alpine-executable-war@1.0.1?classifier=sources

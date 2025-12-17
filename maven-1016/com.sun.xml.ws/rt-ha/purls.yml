@@ -27,4 +27,6 @@
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.9-b14002
 - pkg:maven/com.sun.xml.ws/rt-ha@2.2.9-b14002?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt-ha@2.3.0
+- pkg:maven/com.sun.xml.ws/rt-ha@2.3.0.1
+- pkg:maven/com.sun.xml.ws/rt-ha@2.3.0.1?classifier=sources
 - pkg:maven/com.sun.xml.ws/rt-ha@2.3.0?classifier=sources

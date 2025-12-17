@@ -1,2 +1,6 @@
 - pkg:maven/org.playframework.anorm/anorm-iteratee_2.11@2.6.0
 - pkg:maven/org.playframework.anorm/anorm-iteratee_2.11@2.6.0?classifier=sources
+- pkg:maven/org.playframework.anorm/anorm-iteratee_2.11@2.6.1
+- pkg:maven/org.playframework.anorm/anorm-iteratee_2.11@2.6.1?classifier=sources
+- pkg:maven/org.playframework.anorm/anorm-iteratee_2.11@2.6.2
+- pkg:maven/org.playframework.anorm/anorm-iteratee_2.11@2.6.2?classifier=sources

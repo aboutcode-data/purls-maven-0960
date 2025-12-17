@@ -1,2 +1,4 @@
 - pkg:maven/org.mule.runtime/mule-metadata-model-catalog@1.0.0-rc
 - pkg:maven/org.mule.runtime/mule-metadata-model-catalog@1.0.0-rc?classifier=sources
+- pkg:maven/org.mule.runtime/mule-metadata-model-catalog@1.1.1
+- pkg:maven/org.mule.runtime/mule-metadata-model-catalog@1.1.1?classifier=sources

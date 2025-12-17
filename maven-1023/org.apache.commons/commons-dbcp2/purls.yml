@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.commons/commons-dbcp2@2.2.0?classifier=sources
 - pkg:maven/org.apache.commons/commons-dbcp2@2.2.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.commons/commons-dbcp2@2.2.0?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-dbcp2@2.3.0
+- pkg:maven/org.apache.commons/commons-dbcp2@2.3.0?classifier=sources
+- pkg:maven/org.apache.commons/commons-dbcp2@2.4.0
+- pkg:maven/org.apache.commons/commons-dbcp2@2.4.0?classifier=sources

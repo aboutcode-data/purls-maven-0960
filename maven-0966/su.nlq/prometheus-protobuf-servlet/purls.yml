@@ -3,8 +3,12 @@
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.1.0?classifier=sources
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.1?classifier=sources
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.2
+- pkg:maven/su.nlq/prometheus-protobuf-servlet@0.2.0
+- pkg:maven/su.nlq/prometheus-protobuf-servlet@0.2.0?classifier=sources
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.2?classifier=sources
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.3
+- pkg:maven/su.nlq/prometheus-protobuf-servlet@0.3.0
+- pkg:maven/su.nlq/prometheus-protobuf-servlet@0.3.0?classifier=sources
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.3?classifier=sources
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.4
 - pkg:maven/su.nlq/prometheus-protobuf-servlet@0.4?classifier=sources

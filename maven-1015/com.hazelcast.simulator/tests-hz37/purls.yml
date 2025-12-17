@@ -27,4 +27,6 @@
 - pkg:maven/com.hazelcast.simulator/tests-hz37@0.9.7?classifier=sources
 - pkg:maven/com.hazelcast.simulator/tests-hz37@0.9.8
 - pkg:maven/com.hazelcast.simulator/tests-hz37@0.9.8?classifier=sources
+- pkg:maven/com.hazelcast.simulator/tests-hz37@0.9.9
+- pkg:maven/com.hazelcast.simulator/tests-hz37@0.9.9?classifier=sources
 - pkg:maven/com.hazelcast.simulator/tests-hz37@0.9?classifier=sources

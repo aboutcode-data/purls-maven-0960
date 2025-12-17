@@ -1,5 +1,16 @@
 - pkg:maven/com.greengrowapps/ggarest@0.10?classifier=sources
 - pkg:maven/com.greengrowapps/ggarest@0.10?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.11?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.11?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.12?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.13?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.13?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.14?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.14?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.15?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.15?type=aar
+- pkg:maven/com.greengrowapps/ggarest@0.16?classifier=sources
+- pkg:maven/com.greengrowapps/ggarest@0.16?type=aar
 - pkg:maven/com.greengrowapps/ggarest@0.1?classifier=sources
 - pkg:maven/com.greengrowapps/ggarest@0.1?type=aar
 - pkg:maven/com.greengrowapps/ggarest@0.2?classifier=sources

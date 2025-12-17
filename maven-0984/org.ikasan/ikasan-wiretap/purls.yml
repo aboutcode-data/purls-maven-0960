@@ -76,6 +76,7 @@
 - pkg:maven/org.ikasan/ikasan-wiretap@1.5.0?classifier=sources
 - pkg:maven/org.ikasan/ikasan-wiretap@1.5.1
 - pkg:maven/org.ikasan/ikasan-wiretap@1.5.1?classifier=sources
+- pkg:maven/org.ikasan/ikasan-wiretap@2.0.0
 - pkg:maven/org.ikasan/ikasan-wiretap@2.0.0-beta
 - pkg:maven/org.ikasan/ikasan-wiretap@2.0.0-beta?classifier=sources
 - pkg:maven/org.ikasan/ikasan-wiretap@2.0.0-rc1
@@ -84,3 +85,8 @@
 - pkg:maven/org.ikasan/ikasan-wiretap@2.0.0-rc2?classifier=sources
 - pkg:maven/org.ikasan/ikasan-wiretap@2.0.0-rc3
 - pkg:maven/org.ikasan/ikasan-wiretap@2.0.0-rc3?classifier=sources
+- pkg:maven/org.ikasan/ikasan-wiretap@2.0.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-wiretap@2.0.1
+- pkg:maven/org.ikasan/ikasan-wiretap@2.0.1?classifier=sources
+- pkg:maven/org.ikasan/ikasan-wiretap@2.0.2
+- pkg:maven/org.ikasan/ikasan-wiretap@2.0.2?classifier=sources

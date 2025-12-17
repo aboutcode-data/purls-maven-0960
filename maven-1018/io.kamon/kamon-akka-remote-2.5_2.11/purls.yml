@@ -1,4 +1,8 @@
+- pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.0
 - pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.0-RC6
 - pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.0-RC6?classifier=sources
 - pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.0-RC7
 - pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.0-RC7?classifier=sources
+- pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.0?classifier=sources
+- pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.1
+- pkg:maven/io.kamon/kamon-akka-remote-2.5_2.11@1.0.1?classifier=sources

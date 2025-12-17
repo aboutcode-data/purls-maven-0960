@@ -56,3 +56,7 @@
 - pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@1.0.0.Final?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@2.2.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@2.2.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@2.3.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@2.3.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@2.4.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-dataset-cdi@2.4.0.Final?classifier=sources

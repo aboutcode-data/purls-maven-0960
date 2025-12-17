@@ -8,6 +8,7 @@
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.33.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.34.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.34.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.35.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.35.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.35.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.36.0?classifier=sources
@@ -42,3 +43,18 @@
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.55.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.56.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@0.56.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.57.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.58.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.58.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.59.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.59.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.59.2?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.60.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.61.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.62.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.63.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.63.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.64.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.65.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.65.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@0.66.0?classifier=sources

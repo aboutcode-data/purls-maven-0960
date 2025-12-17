@@ -14,3 +14,5 @@
 - pkg:maven/com.github.julien-truffaut/monocle-core_sjs0.6_2.12@1.5.0-cats-M2?classifier=sources
 - pkg:maven/com.github.julien-truffaut/monocle-core_sjs0.6_2.12@1.5.0-cats?classifier=sources
 - pkg:maven/com.github.julien-truffaut/monocle-core_sjs0.6_2.12@1.5.0?classifier=sources
+- pkg:maven/com.github.julien-truffaut/monocle-core_sjs0.6_2.12@1.5.1-cats
+- pkg:maven/com.github.julien-truffaut/monocle-core_sjs0.6_2.12@1.5.1-cats?classifier=sources

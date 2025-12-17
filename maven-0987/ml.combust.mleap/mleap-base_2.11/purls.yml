@@ -1,3 +1,7 @@
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.10.0
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.10.0?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.10.1
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.10.1?classifier=sources
 - pkg:maven/ml.combust.mleap/mleap-base_2.11@0.4.0
 - pkg:maven/ml.combust.mleap/mleap-base_2.11@0.4.0?classifier=sources
 - pkg:maven/ml.combust.mleap/mleap-base_2.11@0.5.0
@@ -12,3 +16,15 @@
 - pkg:maven/ml.combust.mleap/mleap-base_2.11@0.8.1?classifier=sources
 - pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.0
 - pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.0?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.1
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.1?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.2
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.2?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.3
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.3?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.4
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.4?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.5
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.5?classifier=sources
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.6
+- pkg:maven/ml.combust.mleap/mleap-base_2.11@0.9.6?classifier=sources

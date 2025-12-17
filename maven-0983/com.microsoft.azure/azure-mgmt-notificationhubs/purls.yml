@@ -1,3 +1,5 @@
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.10.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.10.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.2.0-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.2.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.2.1-beta
@@ -10,3 +12,11 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.5.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.5.1-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.5.1-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.6.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.6.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.7.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.7.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.8.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.8.0-beta?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.9.0-beta
+- pkg:maven/com.microsoft.azure/azure-mgmt-notificationhubs@1.9.0-beta?classifier=sources

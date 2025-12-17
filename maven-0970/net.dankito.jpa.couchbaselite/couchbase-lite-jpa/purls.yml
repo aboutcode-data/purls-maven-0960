@@ -1,2 +1,6 @@
 - pkg:maven/net.dankito.jpa.couchbaselite/couchbase-lite-jpa@1.0-alpha
+- pkg:maven/net.dankito.jpa.couchbaselite/couchbase-lite-jpa@1.0-alpha2
+- pkg:maven/net.dankito.jpa.couchbaselite/couchbase-lite-jpa@1.0-alpha2?classifier=sources
+- pkg:maven/net.dankito.jpa.couchbaselite/couchbase-lite-jpa@1.0-alpha3
+- pkg:maven/net.dankito.jpa.couchbaselite/couchbase-lite-jpa@1.0-alpha3?classifier=sources
 - pkg:maven/net.dankito.jpa.couchbaselite/couchbase-lite-jpa@1.0-alpha?classifier=sources

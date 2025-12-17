@@ -12,6 +12,8 @@
 - pkg:maven/com.linkedin.pegasus/r2-testutils@11.0.17?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-testutils@17.0.4
 - pkg:maven/com.linkedin.pegasus/r2-testutils@17.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-testutils@19.0.3
+- pkg:maven/com.linkedin.pegasus/r2-testutils@19.0.3?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-testutils@2.1.0
 - pkg:maven/com.linkedin.pegasus/r2-testutils@2.1.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-testutils@2.12.7
@@ -20,6 +22,10 @@
 - pkg:maven/com.linkedin.pegasus/r2-testutils@2.2.5?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-testutils@2.6.0
 - pkg:maven/com.linkedin.pegasus/r2-testutils@2.6.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-testutils@20.0.4
+- pkg:maven/com.linkedin.pegasus/r2-testutils@20.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-testutils@21.0.0
+- pkg:maven/com.linkedin.pegasus/r2-testutils@21.0.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-testutils@3.1.1
 - pkg:maven/com.linkedin.pegasus/r2-testutils@3.1.1?classifier=sources
 - pkg:maven/com.linkedin.pegasus/r2-testutils@3.1.2

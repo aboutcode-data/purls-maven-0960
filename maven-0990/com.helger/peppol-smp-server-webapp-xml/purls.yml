@@ -4,3 +4,9 @@
 - pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.2?type=war
 - pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.3?classifier=sources
 - pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.3?type=war
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.4?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.4?type=war
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.5?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.5?type=war
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.6?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.6?type=war

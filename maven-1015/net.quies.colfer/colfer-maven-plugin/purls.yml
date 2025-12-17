@@ -1,6 +1,10 @@
 - pkg:maven/net.quies.colfer/colfer-maven-plugin@1.10
 - pkg:maven/net.quies.colfer/colfer-maven-plugin@1.10?classifier=sources
 - pkg:maven/net.quies.colfer/colfer-maven-plugin@1.11
+- pkg:maven/net.quies.colfer/colfer-maven-plugin@1.11.1
+- pkg:maven/net.quies.colfer/colfer-maven-plugin@1.11.1?classifier=sources
+- pkg:maven/net.quies.colfer/colfer-maven-plugin@1.11.2
+- pkg:maven/net.quies.colfer/colfer-maven-plugin@1.11.2?classifier=sources
 - pkg:maven/net.quies.colfer/colfer-maven-plugin@1.11?classifier=sources
 - pkg:maven/net.quies.colfer/colfer-maven-plugin@1.6
 - pkg:maven/net.quies.colfer/colfer-maven-plugin@1.6?classifier=sources

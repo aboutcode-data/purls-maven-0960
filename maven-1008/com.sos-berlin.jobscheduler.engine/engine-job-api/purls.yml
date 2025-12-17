@@ -16,8 +16,14 @@
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.11.3?classifier=sources
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.11.4
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.11.4?classifier=sources
+- pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.11.7
+- pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.11.7?classifier=sources
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.12.0
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.12.0?classifier=sources
+- pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.12.1
+- pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.12.1?classifier=sources
+- pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.12.2
+- pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.12.2?classifier=sources
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.9.10
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.9.10?classifier=sources
 - pkg:maven/com.sos-berlin.jobscheduler.engine/engine-job-api@1.9.11

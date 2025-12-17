@@ -120,6 +120,8 @@
 - pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.19.3?type=war
 - pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.19.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.19.4?type=war
+- pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.19.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.19.5?type=war
 - pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.5.0?type=war
 - pkg:maven/org.apache.camel/camel-example-cxf-tomcat@2.6.0?classifier=sources

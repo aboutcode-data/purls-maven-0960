@@ -135,6 +135,10 @@
 - pkg:maven/io.virtdata/metagen-lib-composer@1.0.82?classifier=sources
 - pkg:maven/io.virtdata/metagen-lib-composer@1.0.83
 - pkg:maven/io.virtdata/metagen-lib-composer@1.0.83?classifier=sources
+- pkg:maven/io.virtdata/metagen-lib-composer@1.0.84
+- pkg:maven/io.virtdata/metagen-lib-composer@1.0.84?classifier=sources
+- pkg:maven/io.virtdata/metagen-lib-composer@1.0.85
+- pkg:maven/io.virtdata/metagen-lib-composer@1.0.85?classifier=sources
 - pkg:maven/io.virtdata/metagen-lib-composer@1.0.8?classifier=sources
 - pkg:maven/io.virtdata/metagen-lib-composer@1.0.9
 - pkg:maven/io.virtdata/metagen-lib-composer@1.0.9?classifier=sources

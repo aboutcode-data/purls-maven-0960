@@ -16,7 +16,17 @@
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.20?classifier=sources
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.21
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.21?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.22
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.22?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.23
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.23?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.24
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@0.6.24?classifier=sources
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M1
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M2
 - pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M2?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M3
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M3?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M4
+- pkg:maven/org.scala-js/scalajs-js-envs_2.12@1.0.0-M4?classifier=sources

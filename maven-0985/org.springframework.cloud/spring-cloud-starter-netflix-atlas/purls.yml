@@ -2,3 +2,11 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-netflix-atlas@1.4.5.RELEASE?classifier=sources

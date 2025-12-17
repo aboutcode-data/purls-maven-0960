@@ -6,3 +6,7 @@
 - pkg:maven/org.graylog2.repackaged/grok@0.1.6-graylog?classifier=sources
 - pkg:maven/org.graylog2.repackaged/grok@0.1.7-graylog
 - pkg:maven/org.graylog2.repackaged/grok@0.1.7-graylog?classifier=sources
+- pkg:maven/org.graylog2.repackaged/grok@0.1.8-graylog
+- pkg:maven/org.graylog2.repackaged/grok@0.1.8-graylog?classifier=sources
+- pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog
+- pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.google.cloud/google-cloud-redis@0.47.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.47.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.48.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.48.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.49.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.49.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.50.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.50.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.51.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.51.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.52.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.52.0-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@0.53.0-alpha
+- pkg:maven/com.google.cloud/google-cloud-redis@0.53.0-alpha?classifier=sources

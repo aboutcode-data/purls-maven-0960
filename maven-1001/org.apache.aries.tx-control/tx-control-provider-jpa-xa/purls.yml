@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa@0.0.2?classifier=sources
 - pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa@0.0.3
 - pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa@0.0.3?classifier=sources
+- pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa@1.0.0
+- pkg:maven/org.apache.aries.tx-control/tx-control-provider-jpa-xa@1.0.0?classifier=sources

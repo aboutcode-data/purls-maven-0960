@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/espree@3.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/espree@3.4.3
 - pkg:maven/org.webjars.npm/espree@3.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/espree@3.5.4
+- pkg:maven/org.webjars.npm/espree@3.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/espree@4.0.0-alpha.0
+- pkg:maven/org.webjars.npm/espree@4.0.0-alpha.0?classifier=sources

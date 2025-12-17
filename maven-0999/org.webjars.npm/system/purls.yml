@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/system@1.0.6
 - pkg:maven/org.webjars.npm/system@1.0.6?classifier=sources
+- pkg:maven/org.webjars.npm/system@2.0.1
+- pkg:maven/org.webjars.npm/system@2.0.1?classifier=sources

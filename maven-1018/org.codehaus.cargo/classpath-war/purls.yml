@@ -108,3 +108,7 @@
 - pkg:maven/org.codehaus.cargo/classpath-war@1.6.5?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.6.6?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.6.6?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.6.7?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.6.7?type=war
+- pkg:maven/org.codehaus.cargo/classpath-war@1.6.8?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.6.8?type=war

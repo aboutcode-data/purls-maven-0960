@@ -1,2 +1,4 @@
 - pkg:maven/org.diirt/service-exec@3.0.0
 - pkg:maven/org.diirt/service-exec@3.0.0?classifier=sources
+- pkg:maven/org.diirt/service-exec@3.1.7
+- pkg:maven/org.diirt/service-exec@3.1.7?classifier=sources

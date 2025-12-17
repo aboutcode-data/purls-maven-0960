@@ -4,3 +4,8 @@
 - pkg:maven/io.vertx/vertx-config-parent@3.4.2?classifier=sources
 - pkg:maven/io.vertx/vertx-config-parent@3.5.0.Beta1?classifier=sources
 - pkg:maven/io.vertx/vertx-config-parent@3.5.0?classifier=sources
+- pkg:maven/io.vertx/vertx-config-parent@3.5.1?classifier=sources
+- pkg:maven/io.vertx/vertx-config-parent@3.5.2.CR1?classifier=sources
+- pkg:maven/io.vertx/vertx-config-parent@3.5.2.CR2?classifier=sources
+- pkg:maven/io.vertx/vertx-config-parent@3.5.2.CR3?classifier=sources
+- pkg:maven/io.vertx/vertx-config-parent@3.5.2?classifier=sources

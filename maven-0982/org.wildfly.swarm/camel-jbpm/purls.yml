@@ -1,6 +1,7 @@
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2012.12.0
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.10.0
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.10.1
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2017.10.2
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.11.0
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.12.0
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.12.1
@@ -12,3 +13,13 @@
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.8.1
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.9.4
 - pkg:maven/org.wildfly.swarm/camel-jbpm@2017.9.5
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.1.0
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.2.0
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.2.0.Final
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.3.0
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.3.1
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.3.2
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.3.3
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.4.0
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.4.1
+- pkg:maven/org.wildfly.swarm/camel-jbpm@2018.5.0

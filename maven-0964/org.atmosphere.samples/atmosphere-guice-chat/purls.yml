@@ -229,8 +229,14 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.0?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.18?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.18?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.19?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.19?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.1?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.1?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.20?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.20?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.26?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.26?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.2?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.2?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-guice-chat@2.4.4?classifier=sources

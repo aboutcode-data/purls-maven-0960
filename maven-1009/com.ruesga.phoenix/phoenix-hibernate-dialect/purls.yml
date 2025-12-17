@@ -1,2 +1,10 @@
 - pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.2
 - pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.2?classifier=sources
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.3-hibernate4
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.3-hibernate4?classifier=sources
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.3-hibernate5
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.3-hibernate5?classifier=sources
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.4-hibernate4
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.4-hibernate4?classifier=sources
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.4-hibernate5
+- pkg:maven/com.ruesga.phoenix/phoenix-hibernate-dialect@0.0.4-hibernate5?classifier=sources

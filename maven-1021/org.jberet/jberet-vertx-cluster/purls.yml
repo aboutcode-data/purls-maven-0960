@@ -1,2 +1,4 @@
 - pkg:maven/org.jberet/jberet-vertx-cluster@1.3.0.Beta7
 - pkg:maven/org.jberet/jberet-vertx-cluster@1.3.0.Beta7?classifier=sources
+- pkg:maven/org.jberet/jberet-vertx-cluster@1.3.0.Final
+- pkg:maven/org.jberet/jberet-vertx-cluster@1.3.0.Final?classifier=sources

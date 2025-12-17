@@ -2,3 +2,5 @@
 - pkg:maven/com.github.waffle.demo/waffle-mixed-post@1.8.2?type=war
 - pkg:maven/com.github.waffle.demo/waffle-mixed-post@1.8.3?classifier=sources
 - pkg:maven/com.github.waffle.demo/waffle-mixed-post@1.8.3?type=war
+- pkg:maven/com.github.waffle.demo/waffle-mixed-post@1.9.0?classifier=sources
+- pkg:maven/com.github.waffle.demo/waffle-mixed-post@1.9.0?type=war

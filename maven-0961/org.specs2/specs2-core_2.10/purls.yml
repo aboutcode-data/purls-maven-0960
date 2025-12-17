@@ -135,6 +135,8 @@
 - pkg:maven/org.specs2/specs2-core_2.10@3.1-20150321223007-81e756a?classifier=sources
 - pkg:maven/org.specs2/specs2-core_2.10@3.1.1
 - pkg:maven/org.specs2/specs2-core_2.10@3.1.1?classifier=sources
+- pkg:maven/org.specs2/specs2-core_2.10@3.10.0
+- pkg:maven/org.specs2/specs2-core_2.10@3.10.0?classifier=sources
 - pkg:maven/org.specs2/specs2-core_2.10@3.1?classifier=sources
 - pkg:maven/org.specs2/specs2-core_2.10@3.2
 - pkg:maven/org.specs2/specs2-core_2.10@3.2-20150326231645-b6fc1db

@@ -3,3 +3,5 @@
 - pkg:maven/org.scalatra.scalate/scalamd_2.11@1.7.0-RC1
 - pkg:maven/org.scalatra.scalate/scalamd_2.11@1.7.0-RC1?classifier=sources
 - pkg:maven/org.scalatra.scalate/scalamd_2.11@1.7.0?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalamd_2.11@1.7.1
+- pkg:maven/org.scalatra.scalate/scalamd_2.11@1.7.1?classifier=sources

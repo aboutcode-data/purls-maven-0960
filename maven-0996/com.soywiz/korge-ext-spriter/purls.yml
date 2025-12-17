@@ -24,6 +24,10 @@
 - pkg:maven/com.soywiz/korge-ext-spriter@0.17.2?classifier=sources
 - pkg:maven/com.soywiz/korge-ext-spriter@0.18.0
 - pkg:maven/com.soywiz/korge-ext-spriter@0.18.0?classifier=sources
+- pkg:maven/com.soywiz/korge-ext-spriter@0.19.1
+- pkg:maven/com.soywiz/korge-ext-spriter@0.19.1?classifier=sources
+- pkg:maven/com.soywiz/korge-ext-spriter@0.19.2
+- pkg:maven/com.soywiz/korge-ext-spriter@0.19.2?classifier=sources
 - pkg:maven/com.soywiz/korge-ext-spriter@0.7.0
 - pkg:maven/com.soywiz/korge-ext-spriter@0.7.0?classifier=sources
 - pkg:maven/com.soywiz/korge-ext-spriter@0.7.1

@@ -12,3 +12,5 @@
 - pkg:maven/io.requery/requery-jackson@1.4.0?classifier=sources
 - pkg:maven/io.requery/requery-jackson@1.5.0
 - pkg:maven/io.requery/requery-jackson@1.5.0?classifier=sources
+- pkg:maven/io.requery/requery-jackson@1.5.1
+- pkg:maven/io.requery/requery-jackson@1.5.1?classifier=sources

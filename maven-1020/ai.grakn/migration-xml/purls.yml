@@ -18,3 +18,7 @@
 - pkg:maven/ai.grakn/migration-xml@0.18.0?classifier=sources
 - pkg:maven/ai.grakn/migration-xml@1.0.0
 - pkg:maven/ai.grakn/migration-xml@1.0.0?classifier=sources
+- pkg:maven/ai.grakn/migration-xml@1.1.0
+- pkg:maven/ai.grakn/migration-xml@1.1.0?classifier=sources
+- pkg:maven/ai.grakn/migration-xml@1.2.0
+- pkg:maven/ai.grakn/migration-xml@1.2.0?classifier=sources

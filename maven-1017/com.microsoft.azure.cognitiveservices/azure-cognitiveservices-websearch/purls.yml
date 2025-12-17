@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-websearch@0.0.1-beta
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-websearch@0.0.1-beta?classifier=sources
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-websearch@1.0.0
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-websearch@1.0.0?classifier=sources

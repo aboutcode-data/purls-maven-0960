@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.commons/commons-build-plugin@1.7?classifier=sources
 - pkg:maven/org.apache.commons/commons-build-plugin@1.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.commons/commons-build-plugin@1.7?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-build-plugin@1.8
+- pkg:maven/org.apache.commons/commons-build-plugin@1.8?classifier=sources
+- pkg:maven/org.apache.commons/commons-build-plugin@1.9
+- pkg:maven/org.apache.commons/commons-build-plugin@1.9?classifier=sources

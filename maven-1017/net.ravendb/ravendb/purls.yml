@@ -1,0 +1,6 @@
+- pkg:maven/net.ravendb/ravendb@4.0.0
+- pkg:maven/net.ravendb/ravendb@4.0.0-rc2
+- pkg:maven/net.ravendb/ravendb@4.0.0-rc2?classifier=sources
+- pkg:maven/net.ravendb/ravendb@4.0.0?classifier=sources
+- pkg:maven/net.ravendb/ravendb@4.0.1
+- pkg:maven/net.ravendb/ravendb@4.0.1?classifier=sources

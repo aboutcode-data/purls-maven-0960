@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/codemirror-graphql@0.6.12
+- pkg:maven/org.webjars.npm/codemirror-graphql@0.6.12?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror-graphql@0.6.3
 - pkg:maven/org.webjars.npm/codemirror-graphql@0.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror-graphql@0.6.9

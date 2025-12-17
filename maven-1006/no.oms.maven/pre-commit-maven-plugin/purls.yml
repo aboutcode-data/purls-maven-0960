@@ -1,0 +1,6 @@
+- pkg:maven/no.oms.maven/pre-commit-maven-plugin@0.1.0
+- pkg:maven/no.oms.maven/pre-commit-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/no.oms.maven/pre-commit-maven-plugin@0.2.0
+- pkg:maven/no.oms.maven/pre-commit-maven-plugin@0.2.0?classifier=sources
+- pkg:maven/no.oms.maven/pre-commit-maven-plugin@0.2.1
+- pkg:maven/no.oms.maven/pre-commit-maven-plugin@0.2.1?classifier=sources

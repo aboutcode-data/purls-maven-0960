@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.nifi/nifi-jolt-transform-json-ui@1.4.0?type=war
 - pkg:maven/org.apache.nifi/nifi-jolt-transform-json-ui@1.5.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-jolt-transform-json-ui@1.5.0?type=war
+- pkg:maven/org.apache.nifi/nifi-jolt-transform-json-ui@1.6.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-jolt-transform-json-ui@1.6.0?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/io.verizon.helm/core_2.12@3.0.82
+- pkg:maven/io.verizon.helm/core_2.12@3.0.82?classifier=sources
+- pkg:maven/io.verizon.helm/core_2.12@3.0.83
+- pkg:maven/io.verizon.helm/core_2.12@3.0.83?classifier=sources
+- pkg:maven/io.verizon.helm/core_2.12@4.0.0
+- pkg:maven/io.verizon.helm/core_2.12@4.0.0?classifier=sources

@@ -20,6 +20,12 @@
 - pkg:maven/io.ebean/ebean-agent@11.1.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@11.1.2
 - pkg:maven/io.ebean/ebean-agent@11.1.2?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@11.10.1
+- pkg:maven/io.ebean/ebean-agent@11.10.1?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@11.10.2
+- pkg:maven/io.ebean/ebean-agent@11.10.2?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@11.11.1
+- pkg:maven/io.ebean/ebean-agent@11.11.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@11.3.1
 - pkg:maven/io.ebean/ebean-agent@11.3.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@11.3.2
@@ -28,3 +34,5 @@
 - pkg:maven/io.ebean/ebean-agent@11.4.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@11.5.1
 - pkg:maven/io.ebean/ebean-agent@11.5.1?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@11.9.1
+- pkg:maven/io.ebean/ebean-agent@11.9.1?classifier=sources

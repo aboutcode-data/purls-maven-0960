@@ -1,2 +1,15 @@
+- pkg:maven/org.iartisan/iartisan-runtime@0.0.1
+- pkg:maven/org.iartisan/iartisan-runtime@0.0.1?classifier=sources
+- pkg:maven/org.iartisan/iartisan-runtime@0.0.2
+- pkg:maven/org.iartisan/iartisan-runtime@0.0.2?classifier=sources
+- pkg:maven/org.iartisan/iartisan-runtime@0.1.0
+- pkg:maven/org.iartisan/iartisan-runtime@0.1.0?classifier=sources
 - pkg:maven/org.iartisan/iartisan-runtime@1.0
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.1
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.1?classifier=sources
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.2
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.2?classifier=sources
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.3?classifier=sources
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.5
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.5?classifier=sources
 - pkg:maven/org.iartisan/iartisan-runtime@1.0?classifier=sources

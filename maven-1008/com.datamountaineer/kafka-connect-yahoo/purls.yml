@@ -1,2 +1,8 @@
 - pkg:maven/com.datamountaineer/kafka-connect-yahoo@0.3.0
 - pkg:maven/com.datamountaineer/kafka-connect-yahoo@0.3.0?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-connect-yahoo@0.4.0
+- pkg:maven/com.datamountaineer/kafka-connect-yahoo@0.4.0?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-connect-yahoo@1.0.0
+- pkg:maven/com.datamountaineer/kafka-connect-yahoo@1.0.0?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-connect-yahoo@1.1.0
+- pkg:maven/com.datamountaineer/kafka-connect-yahoo@1.1.0?classifier=sources

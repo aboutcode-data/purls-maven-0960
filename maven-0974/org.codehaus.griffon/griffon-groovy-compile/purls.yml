@@ -4,3 +4,7 @@
 - pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.12.0?classifier=sources
 - pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.13.0
 - pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.13.0?classifier=sources
+- pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.14.0
+- pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.14.0?classifier=sources
+- pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.15.0
+- pkg:maven/org.codehaus.griffon/griffon-groovy-compile@2.15.0?classifier=sources

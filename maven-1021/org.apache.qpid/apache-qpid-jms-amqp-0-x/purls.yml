@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.qpid/apache-qpid-jms-amqp-0-x@6.3.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-jms-amqp-0-x@6.3.1?classifier=src&type=tar.gz

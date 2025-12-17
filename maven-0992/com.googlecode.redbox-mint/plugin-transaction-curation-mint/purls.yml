@@ -1,3 +1,5 @@
+- pkg:maven/com.googlecode.redbox-mint/plugin-transaction-curation-mint@1.10
+- pkg:maven/com.googlecode.redbox-mint/plugin-transaction-curation-mint@1.10?classifier=sources
 - pkg:maven/com.googlecode.redbox-mint/plugin-transaction-curation-mint@1.2
 - pkg:maven/com.googlecode.redbox-mint/plugin-transaction-curation-mint@1.2?classifier=sources
 - pkg:maven/com.googlecode.redbox-mint/plugin-transaction-curation-mint@1.3

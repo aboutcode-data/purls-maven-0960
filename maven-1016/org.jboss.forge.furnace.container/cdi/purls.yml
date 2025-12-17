@@ -142,6 +142,14 @@
 - pkg:maven/org.jboss.forge.furnace.container/cdi@2.26.2.Final?classifier=sources
 - pkg:maven/org.jboss.forge.furnace.container/cdi@2.27.0.Final
 - pkg:maven/org.jboss.forge.furnace.container/cdi@2.27.0.Final?classifier=sources
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.0.Alpha1
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.0.Alpha3
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.0.Alpha3?classifier=sources
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.0.Final
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.0.Final?classifier=sources
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.1.Final
+- pkg:maven/org.jboss.forge.furnace.container/cdi@2.28.1.Final?classifier=sources
 - pkg:maven/org.jboss.forge.furnace.container/cdi@2.3.0.Final
 - pkg:maven/org.jboss.forge.furnace.container/cdi@2.3.0.Final?classifier=sources
 - pkg:maven/org.jboss.forge.furnace.container/cdi@2.4.0.Final

@@ -24,9 +24,11 @@
 - pkg:maven/org.apache.uima/jVinci@2.8.1?classifier=sources
 - pkg:maven/org.apache.uima/jVinci@2.9.0
 - pkg:maven/org.apache.uima/jVinci@2.9.0?classifier=sources
+- pkg:maven/org.apache.uima/jVinci@3.0.0
 - pkg:maven/org.apache.uima/jVinci@3.0.0-alpha
 - pkg:maven/org.apache.uima/jVinci@3.0.0-alpha02
 - pkg:maven/org.apache.uima/jVinci@3.0.0-alpha02?classifier=sources
 - pkg:maven/org.apache.uima/jVinci@3.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.uima/jVinci@3.0.0-beta
 - pkg:maven/org.apache.uima/jVinci@3.0.0-beta?classifier=sources
+- pkg:maven/org.apache.uima/jVinci@3.0.0?classifier=sources

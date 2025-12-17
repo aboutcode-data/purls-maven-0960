@@ -1,3 +1,7 @@
+- pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.10
+- pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.10?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.11
+- pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.11?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.6
 - pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.6?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-janusgraph-plugins@0.3.7

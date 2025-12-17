@@ -142,3 +142,5 @@
 - pkg:maven/org.glassfish.metro/metro-cm-api@2.3?classifier=sources
 - pkg:maven/org.glassfish.metro/metro-cm-api@2.4.0
 - pkg:maven/org.glassfish.metro/metro-cm-api@2.4.0?classifier=sources
+- pkg:maven/org.glassfish.metro/metro-cm-api@2.4.1
+- pkg:maven/org.glassfish.metro/metro-cm-api@2.4.1?classifier=sources

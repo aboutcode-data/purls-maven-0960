@@ -136,6 +136,7 @@
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@2.4.1
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@2.4.1?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@2.4?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-1
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-10
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-10?classifier=sources
@@ -165,6 +166,10 @@
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-21?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-22
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-22?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-23
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-23?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-24
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-24?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-2?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-3
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-3?classifier=sources
@@ -180,3 +185,10 @@
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-8?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-9
 - pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Alpha-9?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Beta-1
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Beta-1?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Beta-2
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0-Beta-2?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0.1
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0.1?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-i2b2-etl@3.0?classifier=sources

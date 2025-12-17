@@ -120,3 +120,7 @@
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.4.1.Final?type=war
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.5.0.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.6.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.6.0.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.7.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.7.0.Final?type=war

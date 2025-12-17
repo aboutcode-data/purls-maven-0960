@@ -1,0 +1,4 @@
+- pkg:maven/com.stephenn/scalate-maven-plugin_2.12@0.0.1
+- pkg:maven/com.stephenn/scalate-maven-plugin_2.12@0.0.1?classifier=sources
+- pkg:maven/com.stephenn/scalate-maven-plugin_2.12@0.0.2
+- pkg:maven/com.stephenn/scalate-maven-plugin_2.12@0.0.2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-bootstrap@0.2.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-bootstrap@0.3.0
 - pkg:maven/org.apache.nifi.minifi/minifi-bootstrap@0.3.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-bootstrap@0.4.0
+- pkg:maven/org.apache.nifi.minifi/minifi-bootstrap@0.4.0?classifier=sources

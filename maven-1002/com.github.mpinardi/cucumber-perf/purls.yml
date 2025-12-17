@@ -1,0 +1,6 @@
+- pkg:maven/com.github.mpinardi/cucumber-perf@0.8.0
+- pkg:maven/com.github.mpinardi/cucumber-perf@0.8.0?classifier=sources
+- pkg:maven/com.github.mpinardi/cucumber-perf@0.9.0
+- pkg:maven/com.github.mpinardi/cucumber-perf@0.9.0?classifier=sources
+- pkg:maven/com.github.mpinardi/cucumber-perf@1.0.0
+- pkg:maven/com.github.mpinardi/cucumber-perf@1.0.0?classifier=sources

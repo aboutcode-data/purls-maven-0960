@@ -1,5 +1,9 @@
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.1.2
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.1.2?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.10
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.10.1
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.10.1?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.10?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.2
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.2?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.3
@@ -47,4 +51,8 @@
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.9
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.9.1
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.9.1?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.9.2
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.9.2?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.9.3
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.9.3?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.9?classifier=sources

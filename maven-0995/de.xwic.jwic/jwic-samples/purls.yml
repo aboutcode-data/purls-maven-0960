@@ -74,6 +74,12 @@
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.32?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.33?classifier=sources
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.33?type=war
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.34?classifier=sources
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.34?type=war
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.35?classifier=sources
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.35?type=war
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.36?classifier=sources
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.36?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.3?classifier=sources
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.3?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.4?classifier=sources

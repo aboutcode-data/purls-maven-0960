@@ -1,2 +1,4 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-vault-cloudfoundry-connector@1.0.0.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-vault-cloudfoundry-connector@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-vault-cloudfoundry-connector@2.0.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-vault-cloudfoundry-connector@2.0.0.RELEASE?classifier=sources

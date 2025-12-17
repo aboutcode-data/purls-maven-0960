@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gremlin-driver@3.3.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gremlin-driver@3.3.1_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gremlin-driver@3.3.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gremlin-driver@3.3.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gremlin-driver@3.3.3_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gremlin-driver@3.3.3_1?classifier=src&type=zip

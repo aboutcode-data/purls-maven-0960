@@ -28,3 +28,5 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR9
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0.CR9?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.0?classifier=sources
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.1.Final
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-6@1.0.1.Final?classifier=sources

@@ -122,3 +122,7 @@
 - pkg:maven/org.molgenis/molgenis-core-ui@5.2.1?classifier=sources
 - pkg:maven/org.molgenis/molgenis-core-ui@5.2.2
 - pkg:maven/org.molgenis/molgenis-core-ui@5.2.2?classifier=sources
+- pkg:maven/org.molgenis/molgenis-core-ui@6.0.0
+- pkg:maven/org.molgenis/molgenis-core-ui@6.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-core-ui@6.1.0
+- pkg:maven/org.molgenis/molgenis-core-ui@6.1.0?classifier=sources

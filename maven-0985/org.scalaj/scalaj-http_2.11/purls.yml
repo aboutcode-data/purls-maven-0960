@@ -32,3 +32,5 @@
 - pkg:maven/org.scalaj/scalaj-http_2.11@2.2.2?classifier=sources
 - pkg:maven/org.scalaj/scalaj-http_2.11@2.3.0
 - pkg:maven/org.scalaj/scalaj-http_2.11@2.3.0?classifier=sources
+- pkg:maven/org.scalaj/scalaj-http_2.11@2.4.0
+- pkg:maven/org.scalaj/scalaj-http_2.11@2.4.0?classifier=sources

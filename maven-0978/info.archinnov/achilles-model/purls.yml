@@ -122,3 +122,5 @@
 - pkg:maven/info.archinnov/achilles-model@5.3.0?classifier=sources
 - pkg:maven/info.archinnov/achilles-model@5.3.1
 - pkg:maven/info.archinnov/achilles-model@5.3.1?classifier=sources
+- pkg:maven/info.archinnov/achilles-model@6.0.0
+- pkg:maven/info.archinnov/achilles-model@6.0.0?classifier=sources
