@@ -16,3 +16,7 @@
 - pkg:maven/com.abiquo/commons-test@3.8.2?classifier=sources
 - pkg:maven/com.abiquo/commons-test@4.0.0
 - pkg:maven/com.abiquo/commons-test@4.0.0?classifier=sources
+- pkg:maven/com.abiquo/commons-test@4.0.2
+- pkg:maven/com.abiquo/commons-test@4.0.2?classifier=sources
+- pkg:maven/com.abiquo/commons-test@4.2.0
+- pkg:maven/com.abiquo/commons-test@4.2.0?classifier=sources

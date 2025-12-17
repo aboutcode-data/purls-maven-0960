@@ -34,3 +34,5 @@
 - pkg:maven/io.gatling.highcharts/gatling-highcharts-maven-archetype@2.2.4?classifier=sources
 - pkg:maven/io.gatling.highcharts/gatling-highcharts-maven-archetype@2.2.5
 - pkg:maven/io.gatling.highcharts/gatling-highcharts-maven-archetype@2.2.5?classifier=sources
+- pkg:maven/io.gatling.highcharts/gatling-highcharts-maven-archetype@2.3.0
+- pkg:maven/io.gatling.highcharts/gatling-highcharts-maven-archetype@2.3.0?classifier=sources

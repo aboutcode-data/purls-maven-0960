@@ -1,2 +1,4 @@
 - pkg:maven/com.github.m50d/paperdoll-std@0.4
 - pkg:maven/com.github.m50d/paperdoll-std@0.4?classifier=sources
+- pkg:maven/com.github.m50d/paperdoll-std@0.5
+- pkg:maven/com.github.m50d/paperdoll-std@0.5?classifier=sources

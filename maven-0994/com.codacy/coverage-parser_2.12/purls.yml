@@ -1,0 +1,4 @@
+- pkg:maven/com.codacy/coverage-parser_2.12@2.0.2
+- pkg:maven/com.codacy/coverage-parser_2.12@2.0.2?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.12@2.0.3
+- pkg:maven/com.codacy/coverage-parser_2.12@2.0.3?classifier=sources

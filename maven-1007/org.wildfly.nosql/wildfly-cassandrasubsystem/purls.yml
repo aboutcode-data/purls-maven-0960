@@ -1,2 +1,8 @@
 - pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha3
 - pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha4
+- pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha5
+- pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha5?classifier=sources
+- pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha6
+- pkg:maven/org.wildfly.nosql/wildfly-cassandrasubsystem@1.0.0.Alpha6?classifier=sources

@@ -65,6 +65,16 @@
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP10?classifier=sources
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP11
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP11?classifier=sources
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP13
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP13?classifier=sources
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP15
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP15?classifier=sources
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP16
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP16?classifier=sources
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP17
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP17?classifier=sources
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP18
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP18?classifier=sources
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP1?classifier=sources
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP2
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.4.SP2?classifier=sources
@@ -96,6 +106,8 @@
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.5.SP6?classifier=sources
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.5.SP7
 - pkg:maven/org.picketlink/picketlink-idm-api@2.5.5.SP7?classifier=sources
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.5.SP8
+- pkg:maven/org.picketlink/picketlink-idm-api@2.5.5.SP8?classifier=sources
 - pkg:maven/org.picketlink/picketlink-idm-api@2.6.0.Beta2
 - pkg:maven/org.picketlink/picketlink-idm-api@2.6.0.Beta2?classifier=sources
 - pkg:maven/org.picketlink/picketlink-idm-api@2.6.0.Beta3

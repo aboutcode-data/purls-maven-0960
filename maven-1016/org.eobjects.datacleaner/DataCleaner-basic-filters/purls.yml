@@ -80,7 +80,13 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.1.5.3
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.1.5.3?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.1.5?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.0-RC1
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.0-RC1?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.0-RC2
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.0-RC2?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@5.2.1?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@6.0.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-basic-filters@6.0.0?classifier=sources

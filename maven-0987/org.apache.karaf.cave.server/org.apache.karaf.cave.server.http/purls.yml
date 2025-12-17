@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.karaf.cave.server/org.apache.karaf.cave.server.http@3.0.0?classifier=sources
 - pkg:maven/org.apache.karaf.cave.server/org.apache.karaf.cave.server.http@4.0.0
 - pkg:maven/org.apache.karaf.cave.server/org.apache.karaf.cave.server.http@4.0.0?classifier=sources
+- pkg:maven/org.apache.karaf.cave.server/org.apache.karaf.cave.server.http@4.1.0
+- pkg:maven/org.apache.karaf.cave.server/org.apache.karaf.cave.server.http@4.1.0?classifier=sources

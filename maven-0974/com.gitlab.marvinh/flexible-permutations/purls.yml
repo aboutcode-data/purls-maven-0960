@@ -1,2 +1,6 @@
 - pkg:maven/com.gitlab.marvinh/flexible-permutations@1.0
 - pkg:maven/com.gitlab.marvinh/flexible-permutations@1.0?classifier=sources
+- pkg:maven/com.gitlab.marvinh/flexible-permutations@2.0
+- pkg:maven/com.gitlab.marvinh/flexible-permutations@2.0?classifier=sources
+- pkg:maven/com.gitlab.marvinh/flexible-permutations@3.0
+- pkg:maven/com.gitlab.marvinh/flexible-permutations@3.0?classifier=sources

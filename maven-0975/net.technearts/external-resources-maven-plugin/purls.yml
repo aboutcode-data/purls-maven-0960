@@ -1,0 +1,4 @@
+- pkg:maven/net.technearts/external-resources-maven-plugin@0.0.8
+- pkg:maven/net.technearts/external-resources-maven-plugin@0.0.8?classifier=sources
+- pkg:maven/net.technearts/external-resources-maven-plugin@0.1.0
+- pkg:maven/net.technearts/external-resources-maven-plugin@0.1.0?classifier=sources

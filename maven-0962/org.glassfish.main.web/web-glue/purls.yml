@@ -8,3 +8,4 @@
 - pkg:maven/org.glassfish.main.web/web-glue@4.1.1?classifier=sources
 - pkg:maven/org.glassfish.main.web/web-glue@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.web/web-glue@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.web/web-glue@5.0?classifier=sources

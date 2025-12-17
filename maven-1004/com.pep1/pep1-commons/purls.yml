@@ -12,3 +12,5 @@
 - pkg:maven/com.pep1/pep1-commons@0.6?classifier=sources
 - pkg:maven/com.pep1/pep1-commons@0.7
 - pkg:maven/com.pep1/pep1-commons@0.7?classifier=sources
+- pkg:maven/com.pep1/pep1-commons@0.8
+- pkg:maven/com.pep1/pep1-commons@0.8?classifier=sources

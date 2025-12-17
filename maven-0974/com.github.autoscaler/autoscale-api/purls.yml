@@ -1,2 +1,8 @@
 - pkg:maven/com.github.autoscaler/autoscale-api@1.0.0-12
 - pkg:maven/com.github.autoscaler/autoscale-api@1.0.0-12?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-api@1.0.1-39
+- pkg:maven/com.github.autoscaler/autoscale-api@1.0.1-39?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-api@1.1.0-43
+- pkg:maven/com.github.autoscaler/autoscale-api@1.1.0-43?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-api@1.2.0-79
+- pkg:maven/com.github.autoscaler/autoscale-api@1.2.0-79?classifier=sources

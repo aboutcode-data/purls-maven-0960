@@ -1,0 +1,4 @@
+- pkg:maven/io.syndesis/syndesis-policy@1
+- pkg:maven/io.syndesis/syndesis-policy@1?classifier=sources
+- pkg:maven/io.syndesis/syndesis-policy@2
+- pkg:maven/io.syndesis/syndesis-policy@2?classifier=sources

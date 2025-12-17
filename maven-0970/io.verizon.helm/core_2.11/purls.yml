@@ -8,3 +8,5 @@
 - pkg:maven/io.verizon.helm/core_2.11@1.4.79-scalaz-7.1?classifier=sources
 - pkg:maven/io.verizon.helm/core_2.11@1.4.80-scalaz-7.1
 - pkg:maven/io.verizon.helm/core_2.11@1.4.80-scalaz-7.1?classifier=sources
+- pkg:maven/io.verizon.helm/core_2.11@2.0.81-scalaz-7.1
+- pkg:maven/io.verizon.helm/core_2.11@2.0.81-scalaz-7.1?classifier=sources

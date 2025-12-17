@@ -1,2 +1,6 @@
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase@2.9.0
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase@3.0.0
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase@3.0.0-alpha2
 - pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase@3.0.0-alpha3
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase@3.0.0-alpha4
+- pkg:maven/org.apache.hadoop/hadoop-yarn-server-timelineservice-hbase@3.0.0-beta1

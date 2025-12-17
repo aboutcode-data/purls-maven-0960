@@ -8,3 +8,7 @@
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@0.7.2?classifier=sources
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@0.8.0
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@0.8.0?classifier=sources
+- pkg:maven/org.nd4j/nd4j-cuda-8.0@0.9.0
+- pkg:maven/org.nd4j/nd4j-cuda-8.0@0.9.0?classifier=sources
+- pkg:maven/org.nd4j/nd4j-cuda-8.0@0.9.1
+- pkg:maven/org.nd4j/nd4j-cuda-8.0@0.9.1?classifier=sources

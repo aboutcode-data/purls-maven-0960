@@ -10,3 +10,7 @@
 - pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.0.2.5?classifier=sources
 - pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.0.3-2
 - pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.0.3-2?classifier=sources
+- pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.1.1.1
+- pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.1.1.1-rc1
+- pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.1.1.1-rc1?classifier=sources
+- pkg:maven/io.snappydata/snappy-spark-examples_2.11@2.1.1.1?classifier=sources

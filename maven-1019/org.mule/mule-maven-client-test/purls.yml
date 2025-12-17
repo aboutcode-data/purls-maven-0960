@@ -1,0 +1,3 @@
+- pkg:maven/org.mule/mule-maven-client-test@1.0.0-BETA.4
+- pkg:maven/org.mule/mule-maven-client-test@1.0.0-rc
+- pkg:maven/org.mule/mule-maven-client-test@1.0.0-rc?classifier=sources

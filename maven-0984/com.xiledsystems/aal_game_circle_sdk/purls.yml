@@ -232,3 +232,7 @@
 - pkg:maven/com.xiledsystems/aal_game_circle_sdk@2.3.01?type=aar
 - pkg:maven/com.xiledsystems/aal_game_circle_sdk@2.3.02?classifier=sources
 - pkg:maven/com.xiledsystems/aal_game_circle_sdk@2.3.02?type=aar
+- pkg:maven/com.xiledsystems/aal_game_circle_sdk@2.4.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_game_circle_sdk@2.4.01?type=aar
+- pkg:maven/com.xiledsystems/aal_game_circle_sdk@3.0.0-rc1?classifier=sources
+- pkg:maven/com.xiledsystems/aal_game_circle_sdk@3.0.0-rc1?type=aar

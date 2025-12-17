@@ -1,4 +1,6 @@
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.1
+- pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.10
+- pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.10?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.1?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.2
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.2?classifier=sources

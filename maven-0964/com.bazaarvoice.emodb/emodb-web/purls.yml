@@ -1,3 +1,4 @@
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@1.0.1-migration?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.4.10?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.4.11.1?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.4.11?classifier=sources
@@ -28,3 +29,17 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.4.8?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.4.9?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.0?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.1?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.2?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.3?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.4-migration-1?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.4?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.5?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.6?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.5.7?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.6.0?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.6.1?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.6.2?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.6.3?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.6.4?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@5.6.5?classifier=sources

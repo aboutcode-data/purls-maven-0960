@@ -6,3 +6,7 @@
 - pkg:maven/io.bootique.linkmove/bootique-linkmove@0.13?classifier=sources
 - pkg:maven/io.bootique.linkmove/bootique-linkmove@0.14
 - pkg:maven/io.bootique.linkmove/bootique-linkmove@0.14?classifier=sources
+- pkg:maven/io.bootique.linkmove/bootique-linkmove@0.15
+- pkg:maven/io.bootique.linkmove/bootique-linkmove@0.15?classifier=sources
+- pkg:maven/io.bootique.linkmove/bootique-linkmove@0.24
+- pkg:maven/io.bootique.linkmove/bootique-linkmove@0.24?classifier=sources

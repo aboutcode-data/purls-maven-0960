@@ -1,0 +1,4 @@
+- pkg:maven/org.kevoree/maven-runtime-service@5.5.0
+- pkg:maven/org.kevoree/maven-runtime-service@5.5.0?classifier=sources
+- pkg:maven/org.kevoree/maven-runtime-service@5.5.1
+- pkg:maven/org.kevoree/maven-runtime-service@5.5.1?classifier=sources

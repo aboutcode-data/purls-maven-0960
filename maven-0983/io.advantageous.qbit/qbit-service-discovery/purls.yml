@@ -82,5 +82,7 @@
 - pkg:maven/io.advantageous.qbit/qbit-service-discovery@1.9.5?classifier=sources
 - pkg:maven/io.advantageous.qbit/qbit-service-discovery@1.9.6
 - pkg:maven/io.advantageous.qbit/qbit-service-discovery@1.9.6?classifier=sources
+- pkg:maven/io.advantageous.qbit/qbit-service-discovery@2.0.0
 - pkg:maven/io.advantageous.qbit/qbit-service-discovery@2.0.0-BETA
 - pkg:maven/io.advantageous.qbit/qbit-service-discovery@2.0.0-BETA?classifier=sources
+- pkg:maven/io.advantageous.qbit/qbit-service-discovery@2.0.0?classifier=sources

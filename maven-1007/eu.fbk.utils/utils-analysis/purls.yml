@@ -1,2 +1,6 @@
 - pkg:maven/eu.fbk.utils/utils-analysis@3.0
 - pkg:maven/eu.fbk.utils/utils-analysis@3.0?classifier=sources
+- pkg:maven/eu.fbk.utils/utils-analysis@3.1
+- pkg:maven/eu.fbk.utils/utils-analysis@3.1.1
+- pkg:maven/eu.fbk.utils/utils-analysis@3.1.1?classifier=sources
+- pkg:maven/eu.fbk.utils/utils-analysis@3.1?classifier=sources

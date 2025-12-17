@@ -192,6 +192,12 @@
 - pkg:maven/org.apache.wicket/wicket-velocity@6.25.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@6.26.0
 - pkg:maven/org.apache.wicket/wicket-velocity@6.26.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@6.27.0
+- pkg:maven/org.apache.wicket/wicket-velocity@6.27.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@6.27.1
+- pkg:maven/org.apache.wicket/wicket-velocity@6.27.1?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@6.28.0
+- pkg:maven/org.apache.wicket/wicket-velocity@6.28.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@6.3.0
 - pkg:maven/org.apache.wicket/wicket-velocity@6.3.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@6.4.0
@@ -236,6 +242,10 @@
 - pkg:maven/org.apache.wicket/wicket-velocity@7.6.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@7.7.0
 - pkg:maven/org.apache.wicket/wicket-velocity@7.7.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@7.8.0
+- pkg:maven/org.apache.wicket/wicket-velocity@7.8.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@7.9.0
+- pkg:maven/org.apache.wicket/wicket-velocity@7.9.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M1
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M1?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M2
@@ -248,3 +258,7 @@
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M5?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M6
 - pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M6?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M7
+- pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M7?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M8
+- pkg:maven/org.apache.wicket/wicket-velocity@8.0.0-M8?classifier=sources

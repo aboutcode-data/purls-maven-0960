@@ -1,0 +1,4 @@
+- pkg:maven/com.jetprobe/jetprobe-core_2.12@0.1.0
+- pkg:maven/com.jetprobe/jetprobe-core_2.12@0.1.0?classifier=sources
+- pkg:maven/com.jetprobe/jetprobe-core_2.12@1.0
+- pkg:maven/com.jetprobe/jetprobe-core_2.12@1.0?classifier=sources

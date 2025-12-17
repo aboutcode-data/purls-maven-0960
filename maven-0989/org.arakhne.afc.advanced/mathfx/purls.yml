@@ -1,2 +1,4 @@
 - pkg:maven/org.arakhne.afc.advanced/mathfx@13.0
 - pkg:maven/org.arakhne.afc.advanced/mathfx@13.0?classifier=sources
+- pkg:maven/org.arakhne.afc.advanced/mathfx@14.0
+- pkg:maven/org.arakhne.afc.advanced/mathfx@14.0?classifier=sources

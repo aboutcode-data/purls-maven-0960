@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-server_2.12@1.4.0-M3
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-server_2.12@1.4.0-M3?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-server_2.12@1.4.0-RC1
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-server_2.12@1.4.0-RC1?classifier=sources

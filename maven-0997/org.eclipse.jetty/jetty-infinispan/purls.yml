@@ -40,6 +40,14 @@
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.2.v20150730?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.20.v20170531
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.20.v20170531?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.21.M0
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.21.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.21.RC0
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.21.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.21.v20170918
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.21.v20170918?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.22.v20171030
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.22.v20171030?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.3.v20150827?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.4.RC0
@@ -94,3 +102,9 @@
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.6.v20170531
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.6.v20170531?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.7.RC0
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.7.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.7.v20170914
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.7.v20170914?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.8.v20171121
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.4.8.v20171121?classifier=sources

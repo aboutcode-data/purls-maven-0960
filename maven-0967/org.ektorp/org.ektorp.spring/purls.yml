@@ -26,3 +26,5 @@
 - pkg:maven/org.ektorp/org.ektorp.spring@1.4.2?classifier=sources
 - pkg:maven/org.ektorp/org.ektorp.spring@1.4.4
 - pkg:maven/org.ektorp/org.ektorp.spring@1.4.4?classifier=sources
+- pkg:maven/org.ektorp/org.ektorp.spring@1.5.0
+- pkg:maven/org.ektorp/org.ektorp.spring@1.5.0?classifier=sources

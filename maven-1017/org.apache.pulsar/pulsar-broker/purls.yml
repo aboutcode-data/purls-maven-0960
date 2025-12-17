@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.pulsar/pulsar-broker@1.19.0-incubating
+- pkg:maven/org.apache.pulsar/pulsar-broker@1.19.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-broker@1.20.0-incubating
+- pkg:maven/org.apache.pulsar/pulsar-broker@1.20.0-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-broker@1.21.0-incubating
+- pkg:maven/org.apache.pulsar/pulsar-broker@1.21.0-incubating?classifier=sources

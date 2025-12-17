@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.unomi/unomi-plugins-base@1.0.0-incubating?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-plugins-base@1.1.0-incubating
 - pkg:maven/org.apache.unomi/unomi-plugins-base@1.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.unomi/unomi-plugins-base@1.2.0-incubating
+- pkg:maven/org.apache.unomi/unomi-plugins-base@1.2.0-incubating?classifier=sources

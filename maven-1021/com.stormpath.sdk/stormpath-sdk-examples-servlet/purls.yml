@@ -88,3 +88,13 @@
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.0-okta-rc2?type=war
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.0-okta-rc3?classifier=sources
 - pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.0-okta-rc3?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.0-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.0-okta?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.1-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.1-okta?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.2-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.2-okta?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.3-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.3-okta?type=war
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.4-okta?classifier=sources
+- pkg:maven/com.stormpath.sdk/stormpath-sdk-examples-servlet@2.0.4-okta?type=war

@@ -8,3 +8,4 @@
 - pkg:maven/org.glassfish.main.persistence.cmp/cmp-support-sqlstore@4.1.1?classifier=sources
 - pkg:maven/org.glassfish.main.persistence.cmp/cmp-support-sqlstore@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.persistence.cmp/cmp-support-sqlstore@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.persistence.cmp/cmp-support-sqlstore@5.0?classifier=sources

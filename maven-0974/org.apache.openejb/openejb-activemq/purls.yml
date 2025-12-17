@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.openejb/openejb-activemq@4.7.3?classifier=sources
 - pkg:maven/org.apache.openejb/openejb-activemq@4.7.4
 - pkg:maven/org.apache.openejb/openejb-activemq@4.7.4?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-activemq@4.7.5
+- pkg:maven/org.apache.openejb/openejb-activemq@4.7.5?classifier=sources

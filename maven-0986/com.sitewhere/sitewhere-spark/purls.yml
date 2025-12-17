@@ -1,5 +1,7 @@
 - pkg:maven/com.sitewhere/sitewhere-spark@1.10.0
 - pkg:maven/com.sitewhere/sitewhere-spark@1.10.0?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-spark@1.11.0
+- pkg:maven/com.sitewhere/sitewhere-spark@1.11.0?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-spark@1.4.0
 - pkg:maven/com.sitewhere/sitewhere-spark@1.4.0?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-spark@1.5.0

@@ -34,3 +34,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.provisioning.model@1.8.2
 - pkg:maven/org.apache.sling/org.apache.sling.provisioning.model@1.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.provisioning.model@1.8.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.provisioning.model@1.8.4
+- pkg:maven/org.apache.sling/org.apache.sling.provisioning.model@1.8.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.provisioning.model@1.8.4?classifier=sources

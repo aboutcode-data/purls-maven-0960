@@ -102,6 +102,7 @@
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@1.5.4?classifier=sources
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@1.5.5
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@1.5.5?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta-alpha1
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta-alpha1?classifier=sources
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta-beta1
@@ -112,3 +113,12 @@
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta-rc2?classifier=sources
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta-rc3
 - pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta-rc3?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.0-okta?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.1-okta
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.1-okta?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.2-okta
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.2-okta?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.3-okta
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.3-okta?classifier=sources
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.4-okta
+- pkg:maven/com.stormpath.spring/stormpath-spring-security-spring-boot-starter@2.0.4-okta?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.18.1
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.18.1?classifier=sources
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.20.0
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.20.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.glassfish.main.packager/glassfish-jcdi@4.1.1?classifier=sources
 - pkg:maven/org.glassfish.main.packager/glassfish-jcdi@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.packager/glassfish-jcdi@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.packager/glassfish-jcdi@5.0?classifier=sources

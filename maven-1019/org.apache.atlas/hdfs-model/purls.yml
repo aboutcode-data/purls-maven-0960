@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.atlas/hdfs-model@0.7.1-incubating?classifier=sources
 - pkg:maven/org.apache.atlas/hdfs-model@0.8-incubating
 - pkg:maven/org.apache.atlas/hdfs-model@0.8-incubating?classifier=sources
+- pkg:maven/org.apache.atlas/hdfs-model@0.8.1
+- pkg:maven/org.apache.atlas/hdfs-model@0.8.1?classifier=sources

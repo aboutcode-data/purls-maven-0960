@@ -1,2 +1,6 @@
 - pkg:maven/com.cyc/cyc-core-object-api@1.0.0-rc5
 - pkg:maven/com.cyc/cyc-core-object-api@1.0.0-rc5?classifier=sources
+- pkg:maven/com.cyc/cyc-core-object-api@1.0.0-rc6
+- pkg:maven/com.cyc/cyc-core-object-api@1.0.0-rc6?classifier=sources
+- pkg:maven/com.cyc/cyc-core-object-api@1.0.0-rc7.0
+- pkg:maven/com.cyc/cyc-core-object-api@1.0.0-rc7.0?classifier=sources

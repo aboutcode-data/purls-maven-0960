@@ -1,5 +1,11 @@
 - pkg:maven/com.soywiz/korte@0.10.0
 - pkg:maven/com.soywiz/korte@0.10.0?classifier=sources
+- pkg:maven/com.soywiz/korte@0.11.0
+- pkg:maven/com.soywiz/korte@0.11.0?classifier=sources
+- pkg:maven/com.soywiz/korte@0.12.0
+- pkg:maven/com.soywiz/korte@0.12.0?classifier=sources
+- pkg:maven/com.soywiz/korte@0.14.0
+- pkg:maven/com.soywiz/korte@0.14.0?classifier=sources
 - pkg:maven/com.soywiz/korte@0.4.4
 - pkg:maven/com.soywiz/korte@0.4.4?classifier=sources
 - pkg:maven/com.soywiz/korte@0.4.5

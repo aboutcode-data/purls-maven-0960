@@ -28,3 +28,7 @@
 - pkg:maven/net.sourceforge.argparse4j/argparse4j@0.6.0?classifier=sources
 - pkg:maven/net.sourceforge.argparse4j/argparse4j@0.7.0
 - pkg:maven/net.sourceforge.argparse4j/argparse4j@0.7.0?classifier=sources
+- pkg:maven/net.sourceforge.argparse4j/argparse4j@0.8.0
+- pkg:maven/net.sourceforge.argparse4j/argparse4j@0.8.0?classifier=sources
+- pkg:maven/net.sourceforge.argparse4j/argparse4j@0.8.1
+- pkg:maven/net.sourceforge.argparse4j/argparse4j@0.8.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.numdata/numdata-template@1.1
+- pkg:maven/com.numdata/numdata-template@1.1?classifier=sources
+- pkg:maven/com.numdata/numdata-template@1.2
+- pkg:maven/com.numdata/numdata-template@1.2?classifier=sources

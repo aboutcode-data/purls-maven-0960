@@ -28,6 +28,14 @@
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.23.1
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.23.1?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.23?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.1
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.1?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.2
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.2?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.3
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.3?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.4
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.24.4?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.6.4
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.6.4?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-notification@0.6.5

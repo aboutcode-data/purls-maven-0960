@@ -18,6 +18,10 @@
 - pkg:maven/com.fizzed/blaze-lite@0.15.1?classifier=sources
 - pkg:maven/com.fizzed/blaze-lite@0.16.0
 - pkg:maven/com.fizzed/blaze-lite@0.16.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-lite@0.17.0
+- pkg:maven/com.fizzed/blaze-lite@0.17.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-lite@0.18.0
+- pkg:maven/com.fizzed/blaze-lite@0.18.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-lite@0.2.1
 - pkg:maven/com.fizzed/blaze-lite@0.2.1?classifier=sources
 - pkg:maven/com.fizzed/blaze-lite@0.3.0

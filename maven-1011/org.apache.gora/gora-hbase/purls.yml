@@ -32,3 +32,7 @@
 - pkg:maven/org.apache.gora/gora-hbase@0.7?classifier=sources
 - pkg:maven/org.apache.gora/gora-hbase@0.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.gora/gora-hbase@0.7?classifier=src&type=zip
+- pkg:maven/org.apache.gora/gora-hbase@0.8
+- pkg:maven/org.apache.gora/gora-hbase@0.8?classifier=sources
+- pkg:maven/org.apache.gora/gora-hbase@0.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora-hbase@0.8?classifier=src&type=zip

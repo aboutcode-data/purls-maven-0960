@@ -16,3 +16,9 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.6.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.7.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.7.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.8.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.8.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.9.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@4.9.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@5.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-cxf-undertow@5.0.0?classifier=sources

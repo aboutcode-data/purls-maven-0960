@@ -1,7 +1,17 @@
+- pkg:maven/com.twitter/finatra-utils_2.11@17.10.0
+- pkg:maven/com.twitter/finatra-utils_2.11@17.10.0?classifier=sources
+- pkg:maven/com.twitter/finatra-utils_2.11@17.11.0
+- pkg:maven/com.twitter/finatra-utils_2.11@17.11.0?classifier=sources
+- pkg:maven/com.twitter/finatra-utils_2.11@17.12.0
+- pkg:maven/com.twitter/finatra-utils_2.11@17.12.0?classifier=sources
 - pkg:maven/com.twitter/finatra-utils_2.11@2.10.0
 - pkg:maven/com.twitter/finatra-utils_2.11@2.10.0?classifier=sources
 - pkg:maven/com.twitter/finatra-utils_2.11@2.11.0
 - pkg:maven/com.twitter/finatra-utils_2.11@2.11.0?classifier=sources
+- pkg:maven/com.twitter/finatra-utils_2.11@2.12.0
+- pkg:maven/com.twitter/finatra-utils_2.11@2.12.0?classifier=sources
+- pkg:maven/com.twitter/finatra-utils_2.11@2.13.0
+- pkg:maven/com.twitter/finatra-utils_2.11@2.13.0?classifier=sources
 - pkg:maven/com.twitter/finatra-utils_2.11@2.2.0
 - pkg:maven/com.twitter/finatra-utils_2.11@2.2.0?classifier=sources
 - pkg:maven/com.twitter/finatra-utils_2.11@2.3.0

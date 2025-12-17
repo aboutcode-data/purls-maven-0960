@@ -2,6 +2,7 @@
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.0.0-RC3
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.0.0-RC3?classifier=sources
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.0.0?classifier=sources
+- pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0-RC1
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0-RC1?classifier=sources
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0-RC2
@@ -14,3 +15,8 @@
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0-RC5?classifier=sources
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0-RC6
 - pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0-RC6?classifier=sources
+- pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.0?classifier=sources
+- pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.1
+- pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.1.1?classifier=sources
+- pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.2.0
+- pkg:maven/org.locationtech.geotrellis/geotrellis-util_2.11@1.2.0?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/io.servicecomb.demo/crossapp-client@0.1.0
 - pkg:maven/io.servicecomb.demo/crossapp-client@0.1.0-m1
 - pkg:maven/io.servicecomb.demo/crossapp-client@0.1.0-m1?classifier=sources
+- pkg:maven/io.servicecomb.demo/crossapp-client@0.1.0-m2
+- pkg:maven/io.servicecomb.demo/crossapp-client@0.1.0-m2?classifier=sources
+- pkg:maven/io.servicecomb.demo/crossapp-client@0.1.0?classifier=sources

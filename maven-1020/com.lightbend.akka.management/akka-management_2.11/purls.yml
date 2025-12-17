@@ -1,0 +1,6 @@
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7.1
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7.1?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.7?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.8.0
+- pkg:maven/com.lightbend.akka.management/akka-management_2.11@0.8.0?classifier=sources

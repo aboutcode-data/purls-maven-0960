@@ -1,0 +1,8 @@
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.0
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.0?classifier=sources
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.1
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.1?classifier=sources
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.2
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.2-jdk1.7
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.2-jdk1.7?classifier=sources
+- pkg:maven/com.wilddog.client/wilddog-sync-jvm@2.0.2?classifier=sources

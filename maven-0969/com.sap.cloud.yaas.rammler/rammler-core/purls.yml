@@ -20,3 +20,7 @@
 - pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.7.5?classifier=sources
 - pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.7.7
 - pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.7.7?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.8.0
+- pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.8.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.8.1
+- pkg:maven/com.sap.cloud.yaas.rammler/rammler-core@1.8.1?classifier=sources

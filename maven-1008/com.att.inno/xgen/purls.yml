@@ -1,2 +1,4 @@
 - pkg:maven/com.att.inno/xgen@1.2.11
 - pkg:maven/com.att.inno/xgen@1.2.11?classifier=sources
+- pkg:maven/com.att.inno/xgen@1.2.13
+- pkg:maven/com.att.inno/xgen@1.2.13?classifier=sources

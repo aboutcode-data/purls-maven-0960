@@ -76,6 +76,8 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@5.5.3?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@5.5.4
 - pkg:maven/org.apache.lucene/lucene-suggest@5.5.4?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@5.5.5
+- pkg:maven/org.apache.lucene/lucene-suggest@5.5.5?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@6.0.0
 - pkg:maven/org.apache.lucene/lucene-suggest@6.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@6.0.1
@@ -100,3 +102,15 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@6.5.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@6.6.0
 - pkg:maven/org.apache.lucene/lucene-suggest@6.6.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@6.6.1
+- pkg:maven/org.apache.lucene/lucene-suggest@6.6.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@6.6.2
+- pkg:maven/org.apache.lucene/lucene-suggest@6.6.2?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@7.0.0
+- pkg:maven/org.apache.lucene/lucene-suggest@7.0.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@7.0.1
+- pkg:maven/org.apache.lucene/lucene-suggest@7.0.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@7.1.0
+- pkg:maven/org.apache.lucene/lucene-suggest@7.1.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@7.2.0
+- pkg:maven/org.apache.lucene/lucene-suggest@7.2.0?classifier=sources

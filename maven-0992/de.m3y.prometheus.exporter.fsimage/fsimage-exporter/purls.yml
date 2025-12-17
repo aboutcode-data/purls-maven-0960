@@ -1,0 +1,4 @@
+- pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.0
+- pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.0?classifier=sources
+- pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.1
+- pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.1?classifier=sources

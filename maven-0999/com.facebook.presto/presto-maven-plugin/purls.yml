@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.presto/presto-maven-plugin@0.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-maven-plugin@0.3?classifier=sources

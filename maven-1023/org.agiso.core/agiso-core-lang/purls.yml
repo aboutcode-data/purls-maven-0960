@@ -1,6 +1,8 @@
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.1.RELEASE
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.1.RELEASE?classifier=sources
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC1
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC10
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC10?classifier=sources
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC1?classifier=sources
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC2
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC2?classifier=sources
@@ -10,3 +12,11 @@
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC4?classifier=sources
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC5
 - pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC5?classifier=sources
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC6
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC6?classifier=sources
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC7
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC7?classifier=sources
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC8
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC8?classifier=sources
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC9
+- pkg:maven/org.agiso.core/agiso-core-lang@0.0.2.RC9?classifier=sources

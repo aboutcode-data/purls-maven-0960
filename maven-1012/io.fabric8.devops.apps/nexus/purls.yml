@@ -350,6 +350,10 @@
 - pkg:maven/io.fabric8.devops.apps/nexus@2.2.330?classifier=sources
 - pkg:maven/io.fabric8.devops.apps/nexus@2.2.331
 - pkg:maven/io.fabric8.devops.apps/nexus@2.2.331?classifier=sources
+- pkg:maven/io.fabric8.devops.apps/nexus@2.2.334
+- pkg:maven/io.fabric8.devops.apps/nexus@2.2.334?classifier=sources
+- pkg:maven/io.fabric8.devops.apps/nexus@2.2.335
+- pkg:maven/io.fabric8.devops.apps/nexus@2.2.335?classifier=sources
 - pkg:maven/io.fabric8.devops.apps/nexus@2.2.34
 - pkg:maven/io.fabric8.devops.apps/nexus@2.2.34?classifier=sources
 - pkg:maven/io.fabric8.devops.apps/nexus@2.2.35

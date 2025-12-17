@@ -106,3 +106,17 @@
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Beta1?type=war
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Beta2?classifier=sources
 - pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Beta2?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Beta3?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Beta3?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.1.0.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.2.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.2.0.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.3.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.3.0.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.4.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.4.0.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.4.1.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.4.1.Final?type=war
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-webapp@7.5.0.Final?type=war

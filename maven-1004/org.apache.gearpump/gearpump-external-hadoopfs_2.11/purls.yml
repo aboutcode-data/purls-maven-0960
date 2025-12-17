@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.gearpump/gearpump-external-hadoopfs_2.11@0.8.1?classifier=sources
 - pkg:maven/org.apache.gearpump/gearpump-external-hadoopfs_2.11@0.8.3
 - pkg:maven/org.apache.gearpump/gearpump-external-hadoopfs_2.11@0.8.3?classifier=sources
+- pkg:maven/org.apache.gearpump/gearpump-external-hadoopfs_2.11@0.8.4
+- pkg:maven/org.apache.gearpump/gearpump-external-hadoopfs_2.11@0.8.4?classifier=sources

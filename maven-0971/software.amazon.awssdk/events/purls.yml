@@ -1,0 +1,14 @@
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-1
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-1?classifier=sources
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-2
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-2?classifier=sources
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-3
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-3?classifier=sources
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-4
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-4?classifier=sources
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-5
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-5?classifier=sources
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-6
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-6?classifier=sources
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-7
+- pkg:maven/software.amazon.awssdk/events@2.0.0-preview-7?classifier=sources

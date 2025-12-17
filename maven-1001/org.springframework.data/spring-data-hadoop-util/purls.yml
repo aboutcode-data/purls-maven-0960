@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.data/spring-data-hadoop-util@2.4.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-hadoop-util@2.4.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-util@2.5.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop-util@2.5.0.RELEASE?classifier=sources

@@ -54,6 +54,10 @@
 - pkg:maven/me.atam/atam4j@0.55?classifier=sources
 - pkg:maven/me.atam/atam4j@0.56
 - pkg:maven/me.atam/atam4j@0.56?classifier=sources
+- pkg:maven/me.atam/atam4j@0.57
+- pkg:maven/me.atam/atam4j@0.57?classifier=sources
+- pkg:maven/me.atam/atam4j@0.58
+- pkg:maven/me.atam/atam4j@0.58?classifier=sources
 - pkg:maven/me.atam/atam4j@0.6.0
 - pkg:maven/me.atam/atam4j@0.6.0?classifier=sources
 - pkg:maven/me.atam/atam4j@0.6.1

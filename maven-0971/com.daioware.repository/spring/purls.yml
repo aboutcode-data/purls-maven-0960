@@ -1,0 +1,4 @@
+- pkg:maven/com.daioware.repository/spring@1.0.0-RELEASE
+- pkg:maven/com.daioware.repository/spring@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware.repository/spring@2.0.1-RELEASE
+- pkg:maven/com.daioware.repository/spring@2.0.1-RELEASE?classifier=sources

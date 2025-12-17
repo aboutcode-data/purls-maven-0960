@@ -1,0 +1,12 @@
+- pkg:maven/io.zeebe/zb-logstreams@0.1.0
+- pkg:maven/io.zeebe/zb-logstreams@0.1.0?classifier=sources
+- pkg:maven/io.zeebe/zb-logstreams@0.2.0
+- pkg:maven/io.zeebe/zb-logstreams@0.2.0?classifier=sources
+- pkg:maven/io.zeebe/zb-logstreams@0.3.0
+- pkg:maven/io.zeebe/zb-logstreams@0.3.0?classifier=sources
+- pkg:maven/io.zeebe/zb-logstreams@0.4.0
+- pkg:maven/io.zeebe/zb-logstreams@0.4.0?classifier=sources
+- pkg:maven/io.zeebe/zb-logstreams@0.5.0
+- pkg:maven/io.zeebe/zb-logstreams@0.5.0?classifier=sources
+- pkg:maven/io.zeebe/zb-logstreams@0.6.0
+- pkg:maven/io.zeebe/zb-logstreams@0.6.0?classifier=sources

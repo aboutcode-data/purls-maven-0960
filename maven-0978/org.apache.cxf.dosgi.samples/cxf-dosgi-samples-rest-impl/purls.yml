@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-samples-rest-impl@2.0.0
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-samples-rest-impl@2.1.0
+- pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-samples-rest-impl@2.2.0
+- pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-samples-rest-impl@2.2.0?classifier=sources
+- pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-samples-rest-impl@2.3.0
+- pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-samples-rest-impl@2.3.0?classifier=sources

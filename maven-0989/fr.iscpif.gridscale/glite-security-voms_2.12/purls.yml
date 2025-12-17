@@ -1,3 +1,5 @@
+- pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.100
+- pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.100?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.89
 - pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.89?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.90
@@ -16,3 +18,5 @@
 - pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.96?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.97
 - pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.97?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.98
+- pkg:maven/fr.iscpif.gridscale/glite-security-voms_2.12@1.98?classifier=sources

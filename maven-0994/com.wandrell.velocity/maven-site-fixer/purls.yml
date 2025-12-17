@@ -32,3 +32,5 @@
 - pkg:maven/com.wandrell.velocity/maven-site-fixer@0.6.3?classifier=sources
 - pkg:maven/com.wandrell.velocity/maven-site-fixer@0.7.0
 - pkg:maven/com.wandrell.velocity/maven-site-fixer@0.7.0?classifier=sources
+- pkg:maven/com.wandrell.velocity/maven-site-fixer@1.0.0
+- pkg:maven/com.wandrell.velocity/maven-site-fixer@1.0.0?classifier=sources

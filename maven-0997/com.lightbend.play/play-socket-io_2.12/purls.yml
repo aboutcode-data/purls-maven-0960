@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend.play/play-socket-io_2.12@1.0.0-beta-1
+- pkg:maven/com.lightbend.play/play-socket-io_2.12@1.0.0-beta-1?classifier=sources
+- pkg:maven/com.lightbend.play/play-socket-io_2.12@1.0.0-beta-2
+- pkg:maven/com.lightbend.play/play-socket-io_2.12@1.0.0-beta-2?classifier=sources

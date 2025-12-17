@@ -1,4 +1,12 @@
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.1
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.10
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.10.1
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.10.1?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.10?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.11
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.11?classifier=sources
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.12
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.12?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.1?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.2
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.2?classifier=sources
@@ -15,4 +23,6 @@
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.8
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.8?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.9
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.9.1
+- pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.9.1?classifier=sources
 - pkg:maven/com.impetus.kundera.client/kundera-spark-teradata@3.9?classifier=sources

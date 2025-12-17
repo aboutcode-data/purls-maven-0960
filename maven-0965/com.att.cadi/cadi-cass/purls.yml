@@ -1,2 +1,10 @@
+- pkg:maven/com.att.cadi/cadi-cass@1.2.10-oss
+- pkg:maven/com.att.cadi/cadi-cass@1.2.10-oss?classifier=sources
+- pkg:maven/com.att.cadi/cadi-cass@1.2.11-oss
+- pkg:maven/com.att.cadi/cadi-cass@1.2.11-oss?classifier=sources
 - pkg:maven/com.att.cadi/cadi-cass@1.3.0
 - pkg:maven/com.att.cadi/cadi-cass@1.3.0?classifier=sources
+- pkg:maven/com.att.cadi/cadi-cass@1.3.2
+- pkg:maven/com.att.cadi/cadi-cass@1.3.2-oss
+- pkg:maven/com.att.cadi/cadi-cass@1.3.2-oss?classifier=sources
+- pkg:maven/com.att.cadi/cadi-cass@1.3.2?classifier=sources

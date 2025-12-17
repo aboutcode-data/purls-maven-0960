@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.oodt/oodt@0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.oodt/oodt@0.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.oodt/oodt@1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.oodt/oodt@1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.oodt/oodt@1.2?classifier=source-release&type=zip

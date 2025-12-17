@@ -14,3 +14,5 @@
 - pkg:maven/io.atlassian.fugue/fugue-quickcheck-generators@4.4.0?classifier=sources
 - pkg:maven/io.atlassian.fugue/fugue-quickcheck-generators@4.5.0
 - pkg:maven/io.atlassian.fugue/fugue-quickcheck-generators@4.5.0?classifier=sources
+- pkg:maven/io.atlassian.fugue/fugue-quickcheck-generators@4.5.1
+- pkg:maven/io.atlassian.fugue/fugue-quickcheck-generators@4.5.1?classifier=sources

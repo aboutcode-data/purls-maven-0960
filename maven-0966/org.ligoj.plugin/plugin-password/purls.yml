@@ -1,2 +1,4 @@
 - pkg:maven/org.ligoj.plugin/plugin-password@0.0.3
 - pkg:maven/org.ligoj.plugin/plugin-password@0.0.3?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-password@1.0.0
+- pkg:maven/org.ligoj.plugin/plugin-password@1.0.0?classifier=sources

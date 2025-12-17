@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.deployment/repomanager-axis2-feature@4.7.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/repomanager-axis2-feature@4.7.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/repomanager-axis2-feature@4.7.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/repomanager-axis2-feature@4.7.9?classifier=source-release&type=zip

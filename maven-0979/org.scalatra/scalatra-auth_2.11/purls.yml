@@ -4,6 +4,8 @@
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.3.0?classifier=sources
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.3.1
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.3.1?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.3.2
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.3.2?classifier=sources
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.4.0
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.4.0-RC2-2
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.4.0-RC2-2?classifier=sources
@@ -30,3 +32,15 @@
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.0?classifier=sources
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.1
 - pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.1?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.2
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.2?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.3
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.3?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.4
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.5.4?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.6.0
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.6.0?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.6.1
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.6.1?classifier=sources
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.6.2
+- pkg:maven/org.scalatra/scalatra-auth_2.11@2.6.2?classifier=sources

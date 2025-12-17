@@ -18,3 +18,5 @@
 - pkg:maven/net.gotev/uploadservice@3.2.1?type=aar
 - pkg:maven/net.gotev/uploadservice@3.2?classifier=sources
 - pkg:maven/net.gotev/uploadservice@3.2?type=aar
+- pkg:maven/net.gotev/uploadservice@3.3?classifier=sources
+- pkg:maven/net.gotev/uploadservice@3.3?type=aar

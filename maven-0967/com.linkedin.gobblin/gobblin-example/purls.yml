@@ -4,6 +4,8 @@
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.0.0.mavenTest1?classifier=sources
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.10.0
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.10.0?classifier=sources
+- pkg:maven/com.linkedin.gobblin/gobblin-example@0.11.0
+- pkg:maven/com.linkedin.gobblin/gobblin-example@0.11.0?classifier=sources
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.6.0
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.6.0-279-g116c79b
 - pkg:maven/com.linkedin.gobblin/gobblin-example@0.6.0-279-g116c79b?classifier=sources

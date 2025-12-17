@@ -40,6 +40,10 @@
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.12.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.13.Final
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.13.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.14.Final
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.14.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.15.Final
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.15.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.2.Final
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.2.Final-wildfly-1
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.2.Final-wildfly-1?classifier=sources
@@ -62,3 +66,5 @@
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.8.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.9.Final
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.1.9.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.2.0.Final
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.2.0.Final?classifier=sources

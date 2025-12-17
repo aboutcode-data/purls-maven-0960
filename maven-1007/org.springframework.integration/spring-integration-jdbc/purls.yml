@@ -128,6 +128,12 @@
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.10.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.11.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.12.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.13.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.2.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.4.RELEASE
@@ -142,3 +148,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.9.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@4.3.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@5.0.0.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@5.0.0.RELEASE?classifier=sources

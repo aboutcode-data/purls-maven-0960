@@ -56,6 +56,7 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@2.2.5?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@2.2.6
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@2.2.6?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0-alpha-1
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0-alpha-1?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0-alpha-2
@@ -68,3 +69,6 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0-beta-1?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0-beta-2
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0-beta-2?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.1
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.0.1?classifier=sources

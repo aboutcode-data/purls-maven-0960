@@ -6,6 +6,16 @@
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@10.1.1?type=zip
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.0.0?classifier=sources
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.0.0?type=zip
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.0.1?classifier=sources
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.0.1?type=zip
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.0.2?classifier=sources
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.0.2?type=zip
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.1.0?classifier=sources
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.1.0?type=zip
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.2.0?classifier=sources
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.2.0?type=zip
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.3.0?classifier=sources
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@11.3.0?type=zip
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@9.0.0?classifier=sources
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@9.0.0?type=zip
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@9.0.1?classifier=sources

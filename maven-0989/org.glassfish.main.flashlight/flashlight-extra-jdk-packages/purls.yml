@@ -16,3 +16,5 @@
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@4.1.2
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@5.0
+- pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@5.0?classifier=sources

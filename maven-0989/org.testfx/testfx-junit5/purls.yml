@@ -1,4 +1,10 @@
+- pkg:maven/org.testfx/testfx-junit5@4.0.10-alpha
+- pkg:maven/org.testfx/testfx-junit5@4.0.10-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-junit5@4.0.5-alpha
 - pkg:maven/org.testfx/testfx-junit5@4.0.5-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-junit5@4.0.6-alpha
 - pkg:maven/org.testfx/testfx-junit5@4.0.6-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-junit5@4.0.8-alpha
+- pkg:maven/org.testfx/testfx-junit5@4.0.8-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-junit5@4.0.9-alpha
+- pkg:maven/org.testfx/testfx-junit5@4.0.9-alpha?classifier=sources

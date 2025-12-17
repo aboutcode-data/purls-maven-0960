@@ -1,2 +1,14 @@
 - pkg:maven/org.leapframework/leap-web@0.6.1b
 - pkg:maven/org.leapframework/leap-web@0.6.1b?classifier=sources
+- pkg:maven/org.leapframework/leap-web@0.6.2b
+- pkg:maven/org.leapframework/leap-web@0.6.2b?classifier=sources
+- pkg:maven/org.leapframework/leap-web@0.6.3b
+- pkg:maven/org.leapframework/leap-web@0.6.3b?classifier=sources
+- pkg:maven/org.leapframework/leap-web@0.6.4b
+- pkg:maven/org.leapframework/leap-web@0.6.4b?classifier=sources
+- pkg:maven/org.leapframework/leap-web@0.6.5b
+- pkg:maven/org.leapframework/leap-web@0.6.5b?classifier=sources
+- pkg:maven/org.leapframework/leap-web@0.6.6b
+- pkg:maven/org.leapframework/leap-web@0.6.6b?classifier=sources
+- pkg:maven/org.leapframework/leap-web@0.6.7b
+- pkg:maven/org.leapframework/leap-web@0.6.7b?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-confluent-platform-nar@1.4.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-confluent-platform-nar@1.5.0?classifier=sources

@@ -104,6 +104,20 @@
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.178?classifier=sources
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.179
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.179?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.180
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.180?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.182
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.182?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.194
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.194?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.195
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.195?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.196
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.196?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.199
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.199?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.201
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.201?classifier=sources
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.58
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.58?classifier=sources
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.60
@@ -174,3 +188,5 @@
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.98?classifier=sources
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.99
 - pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.0.99?classifier=sources
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.1-123
+- pkg:maven/org.mobicents.diameter/jdiameter-ha-api@1.7.1-123?classifier=sources

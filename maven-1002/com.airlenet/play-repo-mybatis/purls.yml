@@ -1,0 +1,4 @@
+- pkg:maven/com.airlenet/play-repo-mybatis@1.0.0.RELEASE
+- pkg:maven/com.airlenet/play-repo-mybatis@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.airlenet/play-repo-mybatis@2.0.0
+- pkg:maven/com.airlenet/play-repo-mybatis@2.0.0?classifier=sources

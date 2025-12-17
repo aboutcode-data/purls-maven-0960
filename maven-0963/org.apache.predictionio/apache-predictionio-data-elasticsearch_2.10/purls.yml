@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.predictionio/apache-predictionio-data-elasticsearch_2.10@0.11.0-incubating
 - pkg:maven/org.apache.predictionio/apache-predictionio-data-elasticsearch_2.10@0.11.0-incubating?classifier=sources
+- pkg:maven/org.apache.predictionio/apache-predictionio-data-elasticsearch_2.10@0.12.0-incubating
+- pkg:maven/org.apache.predictionio/apache-predictionio-data-elasticsearch_2.10@0.12.0-incubating?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/org.dspace/dspace-solr@4.6?type=war
 - pkg:maven/org.dspace/dspace-solr@4.7?classifier=sources
 - pkg:maven/org.dspace/dspace-solr@4.7?type=war
+- pkg:maven/org.dspace/dspace-solr@4.8?classifier=sources
+- pkg:maven/org.dspace/dspace-solr@4.8?type=war
 - pkg:maven/org.dspace/dspace-solr@5.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-solr@5.0-rc1?type=war
 - pkg:maven/org.dspace/dspace-solr@5.0-rc2?classifier=sources
@@ -56,6 +58,10 @@
 - pkg:maven/org.dspace/dspace-solr@5.5?type=war
 - pkg:maven/org.dspace/dspace-solr@5.6?classifier=sources
 - pkg:maven/org.dspace/dspace-solr@5.6?type=war
+- pkg:maven/org.dspace/dspace-solr@5.7?classifier=sources
+- pkg:maven/org.dspace/dspace-solr@5.7?type=war
+- pkg:maven/org.dspace/dspace-solr@5.8?classifier=sources
+- pkg:maven/org.dspace/dspace-solr@5.8?type=war
 - pkg:maven/org.dspace/dspace-solr@6.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-solr@6.0-rc1?type=war
 - pkg:maven/org.dspace/dspace-solr@6.0-rc2?classifier=sources
@@ -66,3 +72,7 @@
 - pkg:maven/org.dspace/dspace-solr@6.0-rc4?type=war
 - pkg:maven/org.dspace/dspace-solr@6.0?classifier=sources
 - pkg:maven/org.dspace/dspace-solr@6.0?type=war
+- pkg:maven/org.dspace/dspace-solr@6.1?classifier=sources
+- pkg:maven/org.dspace/dspace-solr@6.1?type=war
+- pkg:maven/org.dspace/dspace-solr@6.2?classifier=sources
+- pkg:maven/org.dspace/dspace-solr@6.2?type=war

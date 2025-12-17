@@ -60,9 +60,15 @@
 - pkg:maven/com.alpinenow/plugin-spark@1.8-alpha
 - pkg:maven/com.alpinenow/plugin-spark@1.8-alpha?classifier=sources
 - pkg:maven/com.alpinenow/plugin-spark@1.8?classifier=sources
+- pkg:maven/com.alpinenow/plugin-spark@1.9
 - pkg:maven/com.alpinenow/plugin-spark@1.9-alpha
 - pkg:maven/com.alpinenow/plugin-spark@1.9-alpha-1
 - pkg:maven/com.alpinenow/plugin-spark@1.9-alpha-1?classifier=sources
 - pkg:maven/com.alpinenow/plugin-spark@1.9-alpha-2
 - pkg:maven/com.alpinenow/plugin-spark@1.9-alpha-2?classifier=sources
 - pkg:maven/com.alpinenow/plugin-spark@1.9-alpha?classifier=sources
+- pkg:maven/com.alpinenow/plugin-spark@1.9-beta
+- pkg:maven/com.alpinenow/plugin-spark@1.9-beta-1
+- pkg:maven/com.alpinenow/plugin-spark@1.9-beta-1?classifier=sources
+- pkg:maven/com.alpinenow/plugin-spark@1.9-beta?classifier=sources
+- pkg:maven/com.alpinenow/plugin-spark@1.9?classifier=sources

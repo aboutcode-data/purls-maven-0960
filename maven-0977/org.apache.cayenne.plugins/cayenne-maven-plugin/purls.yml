@@ -1,4 +1,8 @@
 - pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.0.B1
 - pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.0.B1?classifier=sources
+- pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.0.B2
+- pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.0.B2?classifier=sources
 - pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.0.M5
 - pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.0.M5?classifier=sources
+- pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.1.M1
+- pkg:maven/org.apache.cayenne.plugins/cayenne-maven-plugin@4.1.M1?classifier=sources

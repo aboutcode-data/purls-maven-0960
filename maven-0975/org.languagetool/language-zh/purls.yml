@@ -32,3 +32,9 @@
 - pkg:maven/org.languagetool/language-zh@3.6?classifier=sources
 - pkg:maven/org.languagetool/language-zh@3.7
 - pkg:maven/org.languagetool/language-zh@3.7?classifier=sources
+- pkg:maven/org.languagetool/language-zh@3.8
+- pkg:maven/org.languagetool/language-zh@3.8?classifier=sources
+- pkg:maven/org.languagetool/language-zh@3.9
+- pkg:maven/org.languagetool/language-zh@3.9?classifier=sources
+- pkg:maven/org.languagetool/language-zh@4.0
+- pkg:maven/org.languagetool/language-zh@4.0?classifier=sources

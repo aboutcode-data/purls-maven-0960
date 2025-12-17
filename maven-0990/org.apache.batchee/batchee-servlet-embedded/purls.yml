@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.batchee/batchee-servlet-embedded@0.3-incubating?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-servlet-embedded@0.4-incubating
 - pkg:maven/org.apache.batchee/batchee-servlet-embedded@0.4-incubating?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-servlet-embedded@0.5-incubating
+- pkg:maven/org.apache.batchee/batchee-servlet-embedded@0.5-incubating?classifier=sources

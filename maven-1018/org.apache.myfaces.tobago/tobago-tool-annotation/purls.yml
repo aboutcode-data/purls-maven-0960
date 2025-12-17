@@ -140,6 +140,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@2.0.8?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@2.0.9
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@2.0.9?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@2.1.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@2.1.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.0-alpha-1
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.0-alpha-1?classifier=sources
@@ -166,3 +168,9 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.3?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.4
 - pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.4?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.5
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.5?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.6
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@3.0.6?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@4.0.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-tool-annotation@4.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.mule.runtime.plugins/mule-app-plugins-maven-plugin@1.0.0-BETA.4
+- pkg:maven/org.mule.runtime.plugins/mule-app-plugins-maven-plugin@1.0.0-BETA.4?classifier=sources
+- pkg:maven/org.mule.runtime.plugins/mule-app-plugins-maven-plugin@1.0.0-rc
+- pkg:maven/org.mule.runtime.plugins/mule-app-plugins-maven-plugin@1.0.0-rc?classifier=sources

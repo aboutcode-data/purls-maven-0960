@@ -1,0 +1,6 @@
+- pkg:maven/org.metafacture/metamorph-test@5.0.0
+- pkg:maven/org.metafacture/metamorph-test@5.0.0-rc1
+- pkg:maven/org.metafacture/metamorph-test@5.0.0-rc1?classifier=sources
+- pkg:maven/org.metafacture/metamorph-test@5.0.0-rc2
+- pkg:maven/org.metafacture/metamorph-test@5.0.0-rc2?classifier=sources
+- pkg:maven/org.metafacture/metamorph-test@5.0.0?classifier=sources
