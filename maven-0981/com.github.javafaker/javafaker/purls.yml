@@ -10,6 +10,8 @@
 - pkg:maven/com.github.javafaker/javafaker@0.14?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.15
 - pkg:maven/com.github.javafaker/javafaker@0.15?classifier=sources
+- pkg:maven/com.github.javafaker/javafaker@0.16
+- pkg:maven/com.github.javafaker/javafaker@0.16?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.2
 - pkg:maven/com.github.javafaker/javafaker@0.2?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.3

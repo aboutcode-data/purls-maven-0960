@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/is-svg@2.1.0
 - pkg:maven/org.webjars.npm/is-svg@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/is-svg@3.0.0
+- pkg:maven/org.webjars.npm/is-svg@3.0.0?classifier=sources

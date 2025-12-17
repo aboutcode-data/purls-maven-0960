@@ -1,2 +1,8 @@
 - pkg:maven/io.thorntail/jaeger@2.0.0.Final
 - pkg:maven/io.thorntail/jaeger@2.0.0.Final?classifier=sources
+- pkg:maven/io.thorntail/jaeger@2.1.0.Final
+- pkg:maven/io.thorntail/jaeger@2.1.0.Final?classifier=sources
+- pkg:maven/io.thorntail/jaeger@2.2.0.Final
+- pkg:maven/io.thorntail/jaeger@2.2.0.Final?classifier=sources
+- pkg:maven/io.thorntail/jaeger@2.2.1.Final
+- pkg:maven/io.thorntail/jaeger@2.2.1.Final?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.jpaquery/jpaquery@0.19
 - pkg:maven/com.jpaquery/jpaquery@0.19?classifier=sources
+- pkg:maven/com.jpaquery/jpaquery@0.20
+- pkg:maven/com.jpaquery/jpaquery@0.20?classifier=sources
+- pkg:maven/com.jpaquery/jpaquery@1.00
+- pkg:maven/com.jpaquery/jpaquery@1.00?classifier=sources

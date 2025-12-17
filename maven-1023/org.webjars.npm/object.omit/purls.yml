@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/object.omit@2.0.1-1
 - pkg:maven/org.webjars.npm/object.omit@2.0.1-1?classifier=sources
 - pkg:maven/org.webjars.npm/object.omit@2.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/object.omit@3.0.0
+- pkg:maven/org.webjars.npm/object.omit@3.0.0?classifier=sources

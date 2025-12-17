@@ -1,5 +1,11 @@
 - pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC10
 - pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC10?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC11
+- pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC11?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC12
+- pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC12?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC13
+- pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC13?classifier=sources
 - pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC4
 - pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC4?classifier=sources
 - pkg:maven/com.thoughtworks.dsl/task_2.11@1.0.0-RC5

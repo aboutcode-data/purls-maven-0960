@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.twill/twill-discovery-core@0.12.0?classifier=sources
 - pkg:maven/org.apache.twill/twill-discovery-core@0.12.1
 - pkg:maven/org.apache.twill/twill-discovery-core@0.12.1?classifier=sources
+- pkg:maven/org.apache.twill/twill-discovery-core@0.13.0
+- pkg:maven/org.apache.twill/twill-discovery-core@0.13.0?classifier=sources
 - pkg:maven/org.apache.twill/twill-discovery-core@0.2.0-incubating
 - pkg:maven/org.apache.twill/twill-discovery-core@0.2.0-incubating?classifier=sources
 - pkg:maven/org.apache.twill/twill-discovery-core@0.3.0-incubating

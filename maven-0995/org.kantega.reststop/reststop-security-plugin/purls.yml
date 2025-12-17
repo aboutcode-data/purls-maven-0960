@@ -43,6 +43,12 @@
 - pkg:maven/org.kantega.reststop/reststop-security-plugin@3.0
 - pkg:maven/org.kantega.reststop/reststop-security-plugin@3.0?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-security-plugin@3.1
+- pkg:maven/org.kantega.reststop/reststop-security-plugin@3.10
+- pkg:maven/org.kantega.reststop/reststop-security-plugin@3.10?classifier=sources
+- pkg:maven/org.kantega.reststop/reststop-security-plugin@3.11.1
+- pkg:maven/org.kantega.reststop/reststop-security-plugin@3.11.1?classifier=sources
+- pkg:maven/org.kantega.reststop/reststop-security-plugin@3.11.2
+- pkg:maven/org.kantega.reststop/reststop-security-plugin@3.11.2?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-security-plugin@3.1?classifier=sources
 - pkg:maven/org.kantega.reststop/reststop-security-plugin@3.2
 - pkg:maven/org.kantega.reststop/reststop-security-plugin@3.2?classifier=sources

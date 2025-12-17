@@ -12,3 +12,5 @@
 - pkg:maven/org.lwjgl/lwjgl-sse@3.1.5?classifier=sources
 - pkg:maven/org.lwjgl/lwjgl-sse@3.1.6
 - pkg:maven/org.lwjgl/lwjgl-sse@3.1.6?classifier=sources
+- pkg:maven/org.lwjgl/lwjgl-sse@3.2.0
+- pkg:maven/org.lwjgl/lwjgl-sse@3.2.0?classifier=sources

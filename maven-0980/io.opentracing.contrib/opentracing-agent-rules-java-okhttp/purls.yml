@@ -4,9 +4,15 @@
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.11?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.12
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.12?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.13
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.13?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.9
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.0.9?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.1.0
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.1.0?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.2.0
 - pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.2.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.3.0
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.3.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.4.0
+- pkg:maven/io.opentracing.contrib/opentracing-agent-rules-java-okhttp@0.4.0?classifier=sources

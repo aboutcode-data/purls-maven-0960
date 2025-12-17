@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud.stream.app/grpc-processor-kafka@2.0.0.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/grpc-processor-kafka@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/grpc-processor-kafka@2.0.1.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/grpc-processor-kafka@2.0.1.RELEASE?classifier=sources

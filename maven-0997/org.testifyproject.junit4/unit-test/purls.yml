@@ -26,3 +26,7 @@
 - pkg:maven/org.testifyproject.junit4/unit-test@1.0.3?classifier=sources
 - pkg:maven/org.testifyproject.junit4/unit-test@1.0.4
 - pkg:maven/org.testifyproject.junit4/unit-test@1.0.4?classifier=sources
+- pkg:maven/org.testifyproject.junit4/unit-test@1.0.5
+- pkg:maven/org.testifyproject.junit4/unit-test@1.0.5?classifier=sources
+- pkg:maven/org.testifyproject.junit4/unit-test@1.0.6
+- pkg:maven/org.testifyproject.junit4/unit-test@1.0.6?classifier=sources

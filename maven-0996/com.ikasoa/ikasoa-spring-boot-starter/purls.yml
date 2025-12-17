@@ -6,3 +6,11 @@
 - pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1-ALPHA3
 - pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1-ALPHA3?classifier=sources
 - pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1-ALPHA?classifier=sources
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.1-ALPHA
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.1-ALPHA?classifier=sources
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.1-BETA
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.1-BETA?classifier=sources
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.2-ALPHA
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.2-ALPHA?classifier=sources
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.2-BETA
+- pkg:maven/com.ikasoa/ikasoa-spring-boot-starter@0.1.2-BETA?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.httpunit/httpunit@1.7.2
 - pkg:maven/org.httpunit/httpunit@1.7.2?classifier=sources
+- pkg:maven/org.httpunit/httpunit@1.7.3
+- pkg:maven/org.httpunit/httpunit@1.7.3?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.abiquo/commons-test@4.2.0?classifier=sources
 - pkg:maven/com.abiquo/commons-test@4.2.3
 - pkg:maven/com.abiquo/commons-test@4.2.3?classifier=sources
+- pkg:maven/com.abiquo/commons-test@4.4.0
+- pkg:maven/com.abiquo/commons-test@4.4.0?classifier=sources

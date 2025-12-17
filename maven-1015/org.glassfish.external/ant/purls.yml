@@ -1,3 +1,5 @@
+- pkg:maven/org.glassfish.external/ant@1.10.1
+- pkg:maven/org.glassfish.external/ant@1.10.1?classifier=sources
 - pkg:maven/org.glassfish.external/ant@10.0-b28
 - pkg:maven/org.glassfish.external/ant@10.0-b28?classifier=sources
 - pkg:maven/org.glassfish.external/ant@3.0

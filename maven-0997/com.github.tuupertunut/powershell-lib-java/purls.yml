@@ -1,2 +1,6 @@
 - pkg:maven/com.github.tuupertunut/powershell-lib-java@1.0.0
 - pkg:maven/com.github.tuupertunut/powershell-lib-java@1.0.0?classifier=sources
+- pkg:maven/com.github.tuupertunut/powershell-lib-java@1.1.0
+- pkg:maven/com.github.tuupertunut/powershell-lib-java@1.1.0?classifier=sources
+- pkg:maven/com.github.tuupertunut/powershell-lib-java@1.1.1
+- pkg:maven/com.github.tuupertunut/powershell-lib-java@1.1.1?classifier=sources

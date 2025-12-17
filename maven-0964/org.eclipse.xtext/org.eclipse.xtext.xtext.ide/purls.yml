@@ -18,3 +18,9 @@
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.14.0.RC1
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.14.0.RC1?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.14.0?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.15.0
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.15.0?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.16.0.M1
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.16.0.M1?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.16.0.M3
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.16.0.M3?classifier=sources

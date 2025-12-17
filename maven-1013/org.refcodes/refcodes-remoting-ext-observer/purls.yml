@@ -42,6 +42,8 @@
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.1.8?classifier=sources
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.1.9
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.1.9?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.10.0
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.10.0?classifier=sources
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.2.0
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.2.0?classifier=sources
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.2.1
@@ -64,3 +66,15 @@
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.2.9?classifier=sources
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.0
 - pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.1
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.1?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.2
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.3
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.3?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.4
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.4?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.5
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.3.5?classifier=sources
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.9.9
+- pkg:maven/org.refcodes/refcodes-remoting-ext-observer@1.9.9?classifier=sources

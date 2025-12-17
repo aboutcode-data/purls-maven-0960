@@ -4,6 +4,8 @@
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.11?classifier=sources
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.12
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.12?classifier=sources
+- pkg:maven/org.squeryl/squeryl_2.12@0.9.13
+- pkg:maven/org.squeryl/squeryl_2.12@0.9.13?classifier=sources
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.5-7
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.5-7?classifier=sources
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.6-RC3

@@ -1,2 +1,6 @@
 - pkg:maven/org.streampipes/streampipes-storage-rdf4j@0.55.2
 - pkg:maven/org.streampipes/streampipes-storage-rdf4j@0.55.2?classifier=sources
+- pkg:maven/org.streampipes/streampipes-storage-rdf4j@0.60.0
+- pkg:maven/org.streampipes/streampipes-storage-rdf4j@0.60.0?classifier=sources
+- pkg:maven/org.streampipes/streampipes-storage-rdf4j@0.60.1
+- pkg:maven/org.streampipes/streampipes-storage-rdf4j@0.60.1?classifier=sources

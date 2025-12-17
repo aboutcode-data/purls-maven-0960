@@ -1,0 +1,4 @@
+- pkg:maven/com.indoqa/indoqa-nexus-artifact-downloader@0.1.0
+- pkg:maven/com.indoqa/indoqa-nexus-artifact-downloader@0.1.0?classifier=sources
+- pkg:maven/com.indoqa/indoqa-nexus-artifact-downloader@0.1.1
+- pkg:maven/com.indoqa/indoqa-nexus-artifact-downloader@0.1.1?classifier=sources

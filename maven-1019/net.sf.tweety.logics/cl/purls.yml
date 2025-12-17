@@ -1,5 +1,7 @@
 - pkg:maven/net.sf.tweety.logics/cl@1.10
 - pkg:maven/net.sf.tweety.logics/cl@1.10?classifier=sources
+- pkg:maven/net.sf.tweety.logics/cl@1.11
+- pkg:maven/net.sf.tweety.logics/cl@1.11?classifier=sources
 - pkg:maven/net.sf.tweety.logics/cl@1.2
 - pkg:maven/net.sf.tweety.logics/cl@1.2?classifier=sources
 - pkg:maven/net.sf.tweety.logics/cl@1.3

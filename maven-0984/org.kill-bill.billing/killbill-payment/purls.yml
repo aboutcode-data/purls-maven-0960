@@ -153,6 +153,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.18.20?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.18.21
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.18.21?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.18.22
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.18.22?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.18.2?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.18.3
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.18.3?classifier=sources
@@ -189,6 +191,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.17?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.18
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.18?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.19.19
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.19.19?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.1?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.2
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.2?classifier=sources
@@ -206,6 +210,16 @@
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.9
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.19.9?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.0
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.0?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.1
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.1?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.2
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.2?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.3
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.3?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.4
+- pkg:maven/org.kill-bill.billing/killbill-payment@0.20.4?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.9.1
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.9.1?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-payment@0.9.2

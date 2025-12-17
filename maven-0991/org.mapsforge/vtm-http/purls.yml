@@ -1,3 +1,5 @@
+- pkg:maven/org.mapsforge/vtm-http@0.10.0
+- pkg:maven/org.mapsforge/vtm-http@0.10.0?classifier=sources
 - pkg:maven/org.mapsforge/vtm-http@0.6.0
 - pkg:maven/org.mapsforge/vtm-http@0.6.0-rc1
 - pkg:maven/org.mapsforge/vtm-http@0.6.0-rc1?classifier=sources

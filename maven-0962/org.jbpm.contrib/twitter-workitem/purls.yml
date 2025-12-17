@@ -1,4 +1,12 @@
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.10.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.11.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.12.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.13.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.14.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.15.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/twitter-workitem@7.6.0.Final
 - pkg:maven/org.jbpm.contrib/twitter-workitem@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/twitter-workitem@7.7.0.Final
 - pkg:maven/org.jbpm.contrib/twitter-workitem@7.7.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.8.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/twitter-workitem@7.9.0.Final?classifier=sources

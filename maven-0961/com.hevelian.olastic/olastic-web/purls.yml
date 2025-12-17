@@ -8,3 +8,5 @@
 - pkg:maven/com.hevelian.olastic/olastic-web@1.1.1-RELEASE?type=war
 - pkg:maven/com.hevelian.olastic/olastic-web@1.1.2?classifier=sources
 - pkg:maven/com.hevelian.olastic/olastic-web@1.1.2?type=war
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.3?classifier=sources
+- pkg:maven/com.hevelian.olastic/olastic-web@1.1.3?type=war

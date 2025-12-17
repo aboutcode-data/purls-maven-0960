@@ -6,3 +6,9 @@
 - pkg:maven/org.aerogear/android-push@1.0.0-alpha.2?type=aar
 - pkg:maven/org.aerogear/android-push@1.0.0-alpha?classifier=sources
 - pkg:maven/org.aerogear/android-push@1.0.0-alpha?type=aar
+- pkg:maven/org.aerogear/android-push@1.0.0?classifier=sources
+- pkg:maven/org.aerogear/android-push@1.0.0?type=aar
+- pkg:maven/org.aerogear/android-push@2.0.0?classifier=sources
+- pkg:maven/org.aerogear/android-push@2.0.0?type=aar
+- pkg:maven/org.aerogear/android-push@2.1.0-alpha.1?classifier=sources
+- pkg:maven/org.aerogear/android-push@2.1.0-alpha.1?type=aar

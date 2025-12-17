@@ -12,3 +12,5 @@
 - pkg:maven/io.prestodb.tempto/tempto-logging-log4j@1.47?classifier=sources
 - pkg:maven/io.prestodb.tempto/tempto-logging-log4j@1.49
 - pkg:maven/io.prestodb.tempto/tempto-logging-log4j@1.49?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-logging-log4j@1.50
+- pkg:maven/io.prestodb.tempto/tempto-logging-log4j@1.50?classifier=sources

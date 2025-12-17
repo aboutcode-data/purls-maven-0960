@@ -108,6 +108,10 @@
 - pkg:maven/org.jboss.as/hal-processors@2.9.15.Final?classifier=sources
 - pkg:maven/org.jboss.as/hal-processors@2.9.16.Final
 - pkg:maven/org.jboss.as/hal-processors@2.9.16.Final?classifier=sources
+- pkg:maven/org.jboss.as/hal-processors@2.9.18.Final
+- pkg:maven/org.jboss.as/hal-processors@2.9.18.Final?classifier=sources
+- pkg:maven/org.jboss.as/hal-processors@2.9.19.Final
+- pkg:maven/org.jboss.as/hal-processors@2.9.19.Final?classifier=sources
 - pkg:maven/org.jboss.as/hal-processors@2.9.2.Final
 - pkg:maven/org.jboss.as/hal-processors@2.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.as/hal-processors@2.9.3.Final

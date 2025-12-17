@@ -15,4 +15,6 @@
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@1.0.0-alpha
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@1.0.0-alpha?classifier=sources
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@1.0.0-beta
+- pkg:maven/org.nd4j/nd4j-cuda-8.0@1.0.0-beta2
+- pkg:maven/org.nd4j/nd4j-cuda-8.0@1.0.0-beta2?classifier=sources
 - pkg:maven/org.nd4j/nd4j-cuda-8.0@1.0.0-beta?classifier=sources

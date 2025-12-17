@@ -24,3 +24,5 @@
 - pkg:maven/com.whisk/docker-testkit-samples_2.12@0.9.6?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-samples_2.12@0.9.7
 - pkg:maven/com.whisk/docker-testkit-samples_2.12@0.9.7?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-samples_2.12@0.9.8
+- pkg:maven/com.whisk/docker-testkit-samples_2.12@0.9.8?classifier=sources

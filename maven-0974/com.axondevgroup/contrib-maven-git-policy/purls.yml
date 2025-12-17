@@ -1,0 +1,4 @@
+- pkg:maven/com.axondevgroup/contrib-maven-git-policy@1.0
+- pkg:maven/com.axondevgroup/contrib-maven-git-policy@1.0?classifier=sources
+- pkg:maven/com.axondevgroup/contrib-maven-git-policy@1.1
+- pkg:maven/com.axondevgroup/contrib-maven-git-policy@1.1?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.clover.sdk/clover-android-connector-sdk@191.5?type=aar
 - pkg:maven/com.clover.sdk/clover-android-connector-sdk@191.6?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-connector-sdk@191.6?type=aar
+- pkg:maven/com.clover.sdk/clover-android-connector-sdk@210.1?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-connector-sdk@210.1?type=aar
+- pkg:maven/com.clover.sdk/clover-android-connector-sdk@215?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-connector-sdk@215?type=aar

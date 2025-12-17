@@ -1,3 +1,5 @@
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR10
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR10?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR5
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR5?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR6
@@ -6,3 +8,5 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR7?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR8
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR8?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR9
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-referencing-domain@2.0.0.CR9?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/rollup@0.41.6?classifier=sources
 - pkg:maven/org.webjars.npm/rollup@0.52.3
 - pkg:maven/org.webjars.npm/rollup@0.52.3?classifier=sources
+- pkg:maven/org.webjars.npm/rollup@0.57.1
+- pkg:maven/org.webjars.npm/rollup@0.57.1?classifier=sources
+- pkg:maven/org.webjars.npm/rollup@0.62.0
+- pkg:maven/org.webjars.npm/rollup@0.62.0?classifier=sources

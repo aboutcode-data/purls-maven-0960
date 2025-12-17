@@ -28,3 +28,11 @@
 - pkg:maven/guru.qas/martini-core@2.1.0?classifier=sources
 - pkg:maven/guru.qas/martini-core@2.3.0
 - pkg:maven/guru.qas/martini-core@2.3.0?classifier=sources
+- pkg:maven/guru.qas/martini-core@2.3.1
+- pkg:maven/guru.qas/martini-core@2.3.1?classifier=sources
+- pkg:maven/guru.qas/martini-core@2.5.0
+- pkg:maven/guru.qas/martini-core@2.5.0?classifier=sources
+- pkg:maven/guru.qas/martini-core@3.0.0
+- pkg:maven/guru.qas/martini-core@3.0.0?classifier=sources
+- pkg:maven/guru.qas/martini-core@4.0.0-JDK10
+- pkg:maven/guru.qas/martini-core@4.0.0-JDK10?classifier=sources

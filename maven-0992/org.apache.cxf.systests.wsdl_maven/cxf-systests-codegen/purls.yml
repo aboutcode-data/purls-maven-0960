@@ -213,6 +213,8 @@
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.15?classifier=sources
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.16
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.16?classifier=sources
+- pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.17
+- pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.17?classifier=sources
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.1?classifier=sources
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.2
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.1.2?classifier=sources
@@ -242,3 +244,7 @@
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.4?classifier=sources
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.5
 - pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.5?classifier=sources
+- pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.6
+- pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.6?classifier=sources
+- pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.7
+- pkg:maven/org.apache.cxf.systests.wsdl_maven/cxf-systests-codegen@3.2.7?classifier=sources

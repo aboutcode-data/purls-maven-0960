@@ -12,3 +12,11 @@
 - pkg:maven/tk.mybatis/mapper-core@1.0.4-beta1
 - pkg:maven/tk.mybatis/mapper-core@1.0.4-beta1?classifier=sources
 - pkg:maven/tk.mybatis/mapper-core@1.0.4?classifier=sources
+- pkg:maven/tk.mybatis/mapper-core@1.0.5
+- pkg:maven/tk.mybatis/mapper-core@1.0.5-beta1
+- pkg:maven/tk.mybatis/mapper-core@1.0.5-beta1?classifier=sources
+- pkg:maven/tk.mybatis/mapper-core@1.0.5-beta2
+- pkg:maven/tk.mybatis/mapper-core@1.0.5-beta2?classifier=sources
+- pkg:maven/tk.mybatis/mapper-core@1.0.5?classifier=sources
+- pkg:maven/tk.mybatis/mapper-core@1.1.0
+- pkg:maven/tk.mybatis/mapper-core@1.1.0?classifier=sources

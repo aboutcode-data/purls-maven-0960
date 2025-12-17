@@ -64,6 +64,8 @@
 - pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.4.6?classifier=sources
 - pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.4.7
 - pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.4.7?classifier=sources
+- pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.4.8
+- pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.4.8?classifier=sources
 - pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.5.0
 - pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.5.0?classifier=sources
 - pkg:maven/org.vertexium/vertexium-accumulo-blueprints@2.5.1

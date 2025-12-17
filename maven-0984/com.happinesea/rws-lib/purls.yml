@@ -6,3 +6,7 @@
 - pkg:maven/com.happinesea/rws-lib@0.0.4?classifier=sources
 - pkg:maven/com.happinesea/rws-lib@0.0.6
 - pkg:maven/com.happinesea/rws-lib@0.0.6?classifier=sources
+- pkg:maven/com.happinesea/rws-lib@0.1.0_preview
+- pkg:maven/com.happinesea/rws-lib@0.1.0_preview?classifier=sources
+- pkg:maven/com.happinesea/rws-lib@1.0.0_preview
+- pkg:maven/com.happinesea/rws-lib@1.0.0_preview?classifier=sources

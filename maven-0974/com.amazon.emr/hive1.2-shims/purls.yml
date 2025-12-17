@@ -4,3 +4,5 @@
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.4.0?classifier=sources
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.5.0
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.5.0?classifier=sources
+- pkg:maven/com.amazon.emr/hive1.2-shims@4.6.0
+- pkg:maven/com.amazon.emr/hive1.2-shims@4.6.0?classifier=sources

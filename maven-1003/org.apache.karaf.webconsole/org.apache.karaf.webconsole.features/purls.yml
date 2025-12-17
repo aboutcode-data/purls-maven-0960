@@ -136,9 +136,15 @@
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.4?classifier=sources
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.5
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.5?classifier=sources
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.6
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.6?classifier=sources
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.7
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.1.7?classifier=sources
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.0
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.0.M1
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.0.M1?classifier=sources
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.0.M2
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.0.M2?classifier=sources
 - pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.0?classifier=sources
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.1
+- pkg:maven/org.apache.karaf.webconsole/org.apache.karaf.webconsole.features@4.2.1?classifier=sources

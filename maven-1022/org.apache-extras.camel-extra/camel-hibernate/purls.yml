@@ -52,3 +52,5 @@
 - pkg:maven/org.apache-extras.camel-extra/camel-hibernate@2.15.0?classifier=sources
 - pkg:maven/org.apache-extras.camel-extra/camel-hibernate@2.18.0
 - pkg:maven/org.apache-extras.camel-extra/camel-hibernate@2.18.0?classifier=sources
+- pkg:maven/org.apache-extras.camel-extra/camel-hibernate@2.22.0
+- pkg:maven/org.apache-extras.camel-extra/camel-hibernate@2.22.0?classifier=sources

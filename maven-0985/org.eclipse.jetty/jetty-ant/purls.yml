@@ -96,6 +96,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.24.v20180105?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.25.v20180606
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.25.v20180606?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.2.26.v20180806
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.2.26.v20180806?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.3.v20140905?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.4.v20141103
@@ -168,6 +170,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.3.23.v20180228?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.3.24.v20180605
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.3.24.v20180605?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.3.25.v20180904
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.3.25.v20180904?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.3.3.v20150827?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.3.4.RC0
@@ -224,6 +228,18 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.10.v20180503?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.11.v20180605
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.11.v20180605?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.RC0
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.RC1
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.RC2
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.RC2?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.v20180830
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.12.v20180830?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.13.v20181111
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.13.v20181111?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.14.v20181114
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.14.v20181114?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.2.v20170220
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.2.v20180619

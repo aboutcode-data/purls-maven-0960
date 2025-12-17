@@ -1,0 +1,4 @@
+- pkg:maven/org.graalvm.tools/profiler@1.0.0-rc8
+- pkg:maven/org.graalvm.tools/profiler@1.0.0-rc8?classifier=sources
+- pkg:maven/org.graalvm.tools/profiler@1.0.0-rc9
+- pkg:maven/org.graalvm.tools/profiler@1.0.0-rc9?classifier=sources

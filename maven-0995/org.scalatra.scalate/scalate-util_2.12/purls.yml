@@ -2,3 +2,11 @@
 - pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.8.0-RC1
 - pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.8.0-RC1?classifier=sources
 - pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.8.0?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.0
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.0-RC1
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.0-RC1?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.0-RC2
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.0-RC2?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.0?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.1-RC1
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.1-RC1?classifier=sources

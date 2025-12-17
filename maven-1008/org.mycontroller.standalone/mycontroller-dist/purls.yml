@@ -1,2 +1,4 @@
 - pkg:maven/org.mycontroller.standalone/mycontroller-dist@0.0.3.Alpha2
 - pkg:maven/org.mycontroller.standalone/mycontroller-dist@0.0.3.Alpha2?classifier=sources
+- pkg:maven/org.mycontroller.standalone/mycontroller-dist@1.3.0.Final
+- pkg:maven/org.mycontroller.standalone/mycontroller-dist@1.3.0.Final?classifier=sources

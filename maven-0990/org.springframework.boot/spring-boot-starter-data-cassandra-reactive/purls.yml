@@ -6,3 +6,13 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.3.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.5.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.7.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.0.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.1.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-cassandra-reactive@2.1.1.RELEASE

@@ -1,3 +1,7 @@
+- pkg:maven/io.fabric8/openshift-server-mock@1.0.81
+- pkg:maven/io.fabric8/openshift-server-mock@1.0.81?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@1.0.82
+- pkg:maven/io.fabric8/openshift-server-mock@1.0.82?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@2.2.12
 - pkg:maven/io.fabric8/openshift-server-mock@2.2.12?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@2.2.13
@@ -45,6 +49,8 @@
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.11?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.12
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.12?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@3.1.13
+- pkg:maven/io.fabric8/openshift-server-mock@3.1.13?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.1?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.2
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.2?classifier=sources
@@ -62,3 +68,17 @@
 - pkg:maven/io.fabric8/openshift-server-mock@3.1.8?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@3.2.0
 - pkg:maven/io.fabric8/openshift-server-mock@3.2.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.0
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.3
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.3?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.4
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.4?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.5
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.5?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.6
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.6?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.7
+- pkg:maven/io.fabric8/openshift-server-mock@4.0.7?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@4.1.0
+- pkg:maven/io.fabric8/openshift-server-mock@4.1.0?classifier=sources

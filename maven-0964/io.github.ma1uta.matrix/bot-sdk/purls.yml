@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ma1uta.matrix/bot-sdk@0.1
+- pkg:maven/io.github.ma1uta.matrix/bot-sdk@0.1?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/bot-sdk@0.2
+- pkg:maven/io.github.ma1uta.matrix/bot-sdk@0.2?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/bot-sdk@0.3.0-beta1
+- pkg:maven/io.github.ma1uta.matrix/bot-sdk@0.3.0-beta1?classifier=sources

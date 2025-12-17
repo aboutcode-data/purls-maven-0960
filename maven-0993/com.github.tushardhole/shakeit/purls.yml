@@ -1,0 +1,4 @@
+- pkg:maven/com.github.tushardhole/shakeit@0.0.2?classifier=sources
+- pkg:maven/com.github.tushardhole/shakeit@0.0.2?type=aar
+- pkg:maven/com.github.tushardhole/shakeit@alpha?classifier=sources
+- pkg:maven/com.github.tushardhole/shakeit@alpha?type=aar

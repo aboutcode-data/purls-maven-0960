@@ -19,6 +19,10 @@
 - pkg:maven/org.wso2.am/api-manager-test@3.0.0-m21?classifier=sources
 - pkg:maven/org.wso2.am/api-manager-test@3.0.0-m27
 - pkg:maven/org.wso2.am/api-manager-test@3.0.0-m27?classifier=sources
+- pkg:maven/org.wso2.am/api-manager-test@3.0.0-m29
+- pkg:maven/org.wso2.am/api-manager-test@3.0.0-m29?classifier=sources
+- pkg:maven/org.wso2.am/api-manager-test@3.0.0-m31
+- pkg:maven/org.wso2.am/api-manager-test@3.0.0-m31?classifier=sources
 - pkg:maven/org.wso2.am/api-manager-test@3.0.0-m8
 - pkg:maven/org.wso2.am/api-manager-test@3.0.0-m8?classifier=sources
 - pkg:maven/org.wso2.am/api-manager-test@3.0.0-m9

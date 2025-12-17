@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.13
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.13?classifier=sources

@@ -25,6 +25,8 @@
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.5
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.5?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta1
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta10
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta10?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta1?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta2
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta2?classifier=sources
@@ -34,3 +36,11 @@
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta4?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta5
 - pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta5?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta6
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta6?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta7
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta7?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta8
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta8?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta9
+- pkg:maven/org.lable.oss.dynamicconfig/config-util@2.6-beta9?classifier=sources

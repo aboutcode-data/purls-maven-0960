@@ -4,6 +4,7 @@
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.1?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.2
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.2?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.10.3?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.3.1
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.3.1?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@2.4.0
@@ -32,3 +33,4 @@
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@3.0.0-beta
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@3.0.0-beta?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@3.0.0?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-eclipse-feature-tools@3.0.1?classifier=sources

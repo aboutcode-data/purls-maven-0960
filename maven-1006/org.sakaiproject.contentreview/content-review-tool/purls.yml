@@ -1,0 +1,6 @@
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@12.3?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@12.3?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@12.4?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@12.4?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@12.5?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@12.5?type=war

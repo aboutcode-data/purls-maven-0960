@@ -1,2 +1,4 @@
 - pkg:maven/io.wcm.devops.maven.plugins/eclipse-maven-plugin@3.0.0
 - pkg:maven/io.wcm.devops.maven.plugins/eclipse-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/io.wcm.devops.maven.plugins/eclipse-maven-plugin@3.1.0
+- pkg:maven/io.wcm.devops.maven.plugins/eclipse-maven-plugin@3.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.thimmwork/junit4-testing@1.0?classifier=sources
 - pkg:maven/net.thimmwork/junit4-testing@2.0
 - pkg:maven/net.thimmwork/junit4-testing@2.0?classifier=sources
+- pkg:maven/net.thimmwork/junit4-testing@3.0
+- pkg:maven/net.thimmwork/junit4-testing@3.0?classifier=sources

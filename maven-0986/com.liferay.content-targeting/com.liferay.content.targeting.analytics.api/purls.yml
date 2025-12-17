@@ -5,3 +5,6 @@
 - pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.analytics.api@2.1.0?classifier=sources
 - pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.analytics.api@3.0.0
 - pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.analytics.api@3.0.0?classifier=sources
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.analytics.api@5.0.0
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.analytics.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.analytics.api@5.0.0?classifier=sources-commercial

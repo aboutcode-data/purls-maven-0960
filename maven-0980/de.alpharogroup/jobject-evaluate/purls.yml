@@ -2,7 +2,11 @@
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.10.0?classifier=sources
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.11
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.11?classifier=sources
+- pkg:maven/de.alpharogroup/jobject-evaluate@1.12
+- pkg:maven/de.alpharogroup/jobject-evaluate@1.12?classifier=sources
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.9.1
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.9.1?classifier=sources
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.9.2
 - pkg:maven/de.alpharogroup/jobject-evaluate@1.9.2?classifier=sources
+- pkg:maven/de.alpharogroup/jobject-evaluate@2
+- pkg:maven/de.alpharogroup/jobject-evaluate@2?classifier=sources

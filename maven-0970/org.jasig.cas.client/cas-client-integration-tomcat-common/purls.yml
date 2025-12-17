@@ -20,3 +20,5 @@
 - pkg:maven/org.jasig.cas.client/cas-client-integration-tomcat-common@3.4.1?classifier=sources
 - pkg:maven/org.jasig.cas.client/cas-client-integration-tomcat-common@3.5.0
 - pkg:maven/org.jasig.cas.client/cas-client-integration-tomcat-common@3.5.0?classifier=sources
+- pkg:maven/org.jasig.cas.client/cas-client-integration-tomcat-common@3.5.1
+- pkg:maven/org.jasig.cas.client/cas-client-integration-tomcat-common@3.5.1?classifier=sources

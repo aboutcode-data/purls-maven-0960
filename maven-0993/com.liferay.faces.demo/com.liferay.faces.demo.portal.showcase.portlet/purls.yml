@@ -8,3 +8,5 @@
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.portal.showcase.portlet@3.0.1?type=war
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.portal.showcase.portlet@3.0.2?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.portal.showcase.portlet@3.0.2?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.portal.showcase.portlet@3.0.3?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.portal.showcase.portlet@3.0.3?type=war

@@ -16,6 +16,18 @@
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.17?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.18
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.18?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.19
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.19?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.20
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.20?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.21
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.21?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.22
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.22?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.23
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.23?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.24
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.24?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.0
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.0?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.4-rc.1
@@ -30,3 +42,7 @@
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.8?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.9
 - pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.5.9?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.6.0-rc.0
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.6.0-rc.0?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.6.0-rc.1
+- pkg:maven/au.com.dius/pact-jvm-provider-gradle_2.12@3.6.0-rc.1?classifier=sources

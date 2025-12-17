@@ -1,4 +1,12 @@
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-GA
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-GA?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-RC2
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-alpha
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-beta
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-beta2
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-beta2?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@5.0.0-beta?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@6.0.0-alpha
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@6.0.0-alpha?classifier=sources

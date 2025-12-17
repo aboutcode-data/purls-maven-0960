@@ -1,2 +1,4 @@
 - pkg:maven/org.ogema.drivers/remote-rest-connector@2.1.3
 - pkg:maven/org.ogema.drivers/remote-rest-connector@2.1.3?classifier=sources
+- pkg:maven/org.ogema.drivers/remote-rest-connector@2.2.0
+- pkg:maven/org.ogema.drivers/remote-rest-connector@2.2.0?classifier=sources

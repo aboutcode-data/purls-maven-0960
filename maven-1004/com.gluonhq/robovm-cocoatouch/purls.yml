@@ -1,2 +1,6 @@
 - pkg:maven/com.gluonhq/robovm-cocoatouch@2.3.1-ios11
 - pkg:maven/com.gluonhq/robovm-cocoatouch@2.3.1-ios11?classifier=sources
+- pkg:maven/com.gluonhq/robovm-cocoatouch@2.3.5-ios11
+- pkg:maven/com.gluonhq/robovm-cocoatouch@2.3.5-ios11?classifier=sources
+- pkg:maven/com.gluonhq/robovm-cocoatouch@2.3.5-ios12
+- pkg:maven/com.gluonhq/robovm-cocoatouch@2.3.5-ios12?classifier=sources

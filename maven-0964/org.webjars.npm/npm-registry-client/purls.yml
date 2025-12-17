@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/npm-registry-client@8.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/npm-registry-client@8.5.1
 - pkg:maven/org.webjars.npm/npm-registry-client@8.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/npm-registry-client@8.6.0
+- pkg:maven/org.webjars.npm/npm-registry-client@8.6.0?classifier=sources

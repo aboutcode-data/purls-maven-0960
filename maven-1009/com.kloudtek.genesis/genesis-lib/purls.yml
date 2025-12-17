@@ -1,0 +1,4 @@
+- pkg:maven/com.kloudtek.genesis/genesis-lib@0.9.0
+- pkg:maven/com.kloudtek.genesis/genesis-lib@0.9.0?classifier=sources
+- pkg:maven/com.kloudtek.genesis/genesis-lib@0.9.1
+- pkg:maven/com.kloudtek.genesis/genesis-lib@0.9.1?classifier=sources

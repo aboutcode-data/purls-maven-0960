@@ -6,5 +6,11 @@
 - pkg:maven/net.corda/corda-test-common@2.0.0?classifier=sources
 - pkg:maven/net.corda/corda-test-common@3.1-corda
 - pkg:maven/net.corda/corda-test-common@3.1-corda?classifier=sources
+- pkg:maven/net.corda/corda-test-common@3.2-corda
+- pkg:maven/net.corda/corda-test-common@3.2-corda?classifier=sources
+- pkg:maven/net.corda/corda-test-common@3.2.1847-corda
+- pkg:maven/net.corda/corda-test-common@3.2.1847-corda?classifier=sources
+- pkg:maven/net.corda/corda-test-common@3.3-corda
+- pkg:maven/net.corda/corda-test-common@3.3-corda?classifier=sources
 - pkg:maven/net.corda/corda-test-common@corda-3.0
 - pkg:maven/net.corda/corda-test-common@corda-3.0?classifier=sources

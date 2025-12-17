@@ -1,2 +1,4 @@
 - pkg:maven/org.optaplanner.openshift/optashift-employee-rostering-restclient@7.7.0.Final
 - pkg:maven/org.optaplanner.openshift/optashift-employee-rostering-restclient@7.7.0.Final?classifier=sources
+- pkg:maven/org.optaplanner.openshift/optashift-employee-rostering-restclient@7.8.0.Final
+- pkg:maven/org.optaplanner.openshift/optashift-employee-rostering-restclient@7.8.0.Final?classifier=sources

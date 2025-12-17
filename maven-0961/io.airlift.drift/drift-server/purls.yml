@@ -4,6 +4,12 @@
 - pkg:maven/io.airlift.drift/drift-server@1.11?classifier=sources
 - pkg:maven/io.airlift.drift/drift-server@1.12
 - pkg:maven/io.airlift.drift/drift-server@1.12?classifier=sources
+- pkg:maven/io.airlift.drift/drift-server@1.13
+- pkg:maven/io.airlift.drift/drift-server@1.13?classifier=sources
+- pkg:maven/io.airlift.drift/drift-server@1.14
+- pkg:maven/io.airlift.drift/drift-server@1.14?classifier=sources
+- pkg:maven/io.airlift.drift/drift-server@1.15
+- pkg:maven/io.airlift.drift/drift-server@1.15?classifier=sources
 - pkg:maven/io.airlift.drift/drift-server@1.5
 - pkg:maven/io.airlift.drift/drift-server@1.5?classifier=sources
 - pkg:maven/io.airlift.drift/drift-server@1.6

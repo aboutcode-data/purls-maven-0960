@@ -1,2 +1,4 @@
 - pkg:maven/org.genesys-pgr/file-repository-ftpserver@0.9
 - pkg:maven/org.genesys-pgr/file-repository-ftpserver@0.9?classifier=sources
+- pkg:maven/org.genesys-pgr/file-repository-ftpserver@1.0
+- pkg:maven/org.genesys-pgr/file-repository-ftpserver@1.0?classifier=sources

@@ -1,1 +1,4 @@
+- pkg:maven/org.apache.skywalking/collector-cache-caffeine-provider@5.0.0-GA
+- pkg:maven/org.apache.skywalking/collector-cache-caffeine-provider@5.0.0-RC2
 - pkg:maven/org.apache.skywalking/collector-cache-caffeine-provider@5.0.0-beta
+- pkg:maven/org.apache.skywalking/collector-cache-caffeine-provider@5.0.0-beta2

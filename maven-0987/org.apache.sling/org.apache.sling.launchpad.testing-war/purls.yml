@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing-war@10?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing-war@10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing-war@11?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing-war@11?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing-war@9?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing-war@9?classifier=sources

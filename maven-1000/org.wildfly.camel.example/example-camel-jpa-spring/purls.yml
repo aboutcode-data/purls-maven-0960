@@ -8,3 +8,7 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@5.1.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@6.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@6.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@7.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@7.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@8.0.0?type=war

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.geode/geode-pulse@1.5.0?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.6.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-pulse@1.6.0?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.7.0?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.7.0?type=war

@@ -1,2 +1,6 @@
 - pkg:maven/io.thorntail/thorntail-enforcer-pattern-size@2.0.0.Final
 - pkg:maven/io.thorntail/thorntail-enforcer-pattern-size@2.0.0.Final?classifier=sources
+- pkg:maven/io.thorntail/thorntail-enforcer-pattern-size@2.1.0.Final
+- pkg:maven/io.thorntail/thorntail-enforcer-pattern-size@2.1.0.Final?classifier=sources
+- pkg:maven/io.thorntail/thorntail-enforcer-pattern-size@2.2.0.Final
+- pkg:maven/io.thorntail/thorntail-enforcer-pattern-size@2.2.0.Final?classifier=sources

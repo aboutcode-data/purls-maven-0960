@@ -1,3 +1,5 @@
+- pkg:maven/org.leapframework/leap-db@0.6.10b
+- pkg:maven/org.leapframework/leap-db@0.6.10b?classifier=sources
 - pkg:maven/org.leapframework/leap-db@0.6.1b
 - pkg:maven/org.leapframework/leap-db@0.6.1b?classifier=sources
 - pkg:maven/org.leapframework/leap-db@0.6.2b
@@ -26,3 +28,13 @@
 - pkg:maven/org.leapframework/leap-db@0.7.3b?classifier=sources
 - pkg:maven/org.leapframework/leap-db@0.7.4b
 - pkg:maven/org.leapframework/leap-db@0.7.4b?classifier=sources
+- pkg:maven/org.leapframework/leap-db@0.7.5b
+- pkg:maven/org.leapframework/leap-db@0.7.5b?classifier=sources
+- pkg:maven/org.leapframework/leap-db@0.7.6b
+- pkg:maven/org.leapframework/leap-db@0.7.6b?classifier=sources
+- pkg:maven/org.leapframework/leap-db@0.7.7b
+- pkg:maven/org.leapframework/leap-db@0.7.7b?classifier=sources
+- pkg:maven/org.leapframework/leap-db@0.7.8b
+- pkg:maven/org.leapframework/leap-db@0.7.8b?classifier=sources
+- pkg:maven/org.leapframework/leap-db@0.7.9b
+- pkg:maven/org.leapframework/leap-db@0.7.9b?classifier=sources

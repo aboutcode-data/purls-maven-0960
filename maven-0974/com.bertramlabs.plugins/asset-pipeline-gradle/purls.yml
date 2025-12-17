@@ -96,6 +96,8 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.14.9?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.15.0
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.15.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.15.1
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.15.1?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.2.0
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.2.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.2.1
@@ -180,3 +182,15 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@2.9.5?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.0
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.1
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.1?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.2
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.2?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.3
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.3?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.4
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.4?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.5
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.5?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.6
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-gradle@3.0.6?classifier=sources

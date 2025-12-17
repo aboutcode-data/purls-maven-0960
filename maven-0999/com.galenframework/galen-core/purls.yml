@@ -52,3 +52,5 @@
 - pkg:maven/com.galenframework/galen-core@2.3.6?classifier=sources
 - pkg:maven/com.galenframework/galen-core@2.3.7
 - pkg:maven/com.galenframework/galen-core@2.3.7?classifier=sources
+- pkg:maven/com.galenframework/galen-core@2.4.0
+- pkg:maven/com.galenframework/galen-core@2.4.0?classifier=sources

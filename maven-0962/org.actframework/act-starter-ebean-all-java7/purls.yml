@@ -1,3 +1,13 @@
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.11.0
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.11.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.12.0
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.12.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.13.0
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.13.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.14.0
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.14.0?classifier=sources
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.15.0
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.15.0?classifier=sources
 - pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.3.0
 - pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.3.0?classifier=sources
 - pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.4.0
@@ -24,3 +34,7 @@
 - pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.5?classifier=sources
 - pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.6
 - pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.6?classifier=sources
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.8
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.8?classifier=sources
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.9
+- pkg:maven/org.actframework/act-starter-ebean-all-java7@1.8.8.9?classifier=sources

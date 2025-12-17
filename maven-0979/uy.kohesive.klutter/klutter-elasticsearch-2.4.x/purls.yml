@@ -28,3 +28,5 @@
 - pkg:maven/uy.kohesive.klutter/klutter-elasticsearch-2.4.x@2.5.2?classifier=sources
 - pkg:maven/uy.kohesive.klutter/klutter-elasticsearch-2.4.x@2.5.3
 - pkg:maven/uy.kohesive.klutter/klutter-elasticsearch-2.4.x@2.5.3?classifier=sources
+- pkg:maven/uy.kohesive.klutter/klutter-elasticsearch-2.4.x@2.6.0
+- pkg:maven/uy.kohesive.klutter/klutter-elasticsearch-2.4.x@2.6.0?classifier=sources

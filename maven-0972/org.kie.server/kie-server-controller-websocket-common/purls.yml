@@ -1,3 +1,15 @@
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.10.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.10.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.11.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.11.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.12.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.12.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.13.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.13.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.14.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.14.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.15.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.15.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.2.0.Final
 - pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.2.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.3.0.Final
@@ -14,3 +26,7 @@
 - pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.6.0.t022?classifier=sources
 - pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.7.0.Final
 - pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.7.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.8.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.8.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.9.0.Final
+- pkg:maven/org.kie.server/kie-server-controller-websocket-common@7.9.0.Final?classifier=sources

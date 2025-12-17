@@ -14,3 +14,7 @@
 - pkg:maven/com.glookast.commons/commons-base@1.2.3?classifier=sources
 - pkg:maven/com.glookast.commons/commons-base@1.2.4
 - pkg:maven/com.glookast.commons/commons-base@1.2.4?classifier=sources
+- pkg:maven/com.glookast.commons/commons-base@2.0.0
+- pkg:maven/com.glookast.commons/commons-base@2.0.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-base@2.0.1
+- pkg:maven/com.glookast.commons/commons-base@2.0.1?classifier=sources

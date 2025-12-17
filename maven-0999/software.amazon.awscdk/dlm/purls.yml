@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/dlm@0.18.0
+- pkg:maven/software.amazon.awscdk/dlm@0.18.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@0.18.1
+- pkg:maven/software.amazon.awscdk/dlm@0.18.1?classifier=sources

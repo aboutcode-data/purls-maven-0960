@@ -8,3 +8,5 @@
 - pkg:maven/com.blazemeter/jmeter-parallel@0.6?classifier=sources
 - pkg:maven/com.blazemeter/jmeter-parallel@0.7
 - pkg:maven/com.blazemeter/jmeter-parallel@0.7?classifier=sources
+- pkg:maven/com.blazemeter/jmeter-parallel@0.8
+- pkg:maven/com.blazemeter/jmeter-parallel@0.8?classifier=sources

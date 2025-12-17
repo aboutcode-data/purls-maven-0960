@@ -4,3 +4,5 @@
 - pkg:maven/com.ibm.wala/com.ibm.wala.dalvik@1.4.2?classifier=sources
 - pkg:maven/com.ibm.wala/com.ibm.wala.dalvik@1.4.3
 - pkg:maven/com.ibm.wala/com.ibm.wala.dalvik@1.4.3?classifier=sources
+- pkg:maven/com.ibm.wala/com.ibm.wala.dalvik@1.5.0
+- pkg:maven/com.ibm.wala/com.ibm.wala.dalvik@1.5.0?classifier=sources

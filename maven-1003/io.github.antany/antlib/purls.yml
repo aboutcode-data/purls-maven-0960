@@ -1,0 +1,4 @@
+- pkg:maven/io.github.antany/antlib@0.0.1
+- pkg:maven/io.github.antany/antlib@0.0.1?classifier=sources
+- pkg:maven/io.github.antany/antlib@0.0.2.jre8
+- pkg:maven/io.github.antany/antlib@0.0.2.jre8?classifier=sources

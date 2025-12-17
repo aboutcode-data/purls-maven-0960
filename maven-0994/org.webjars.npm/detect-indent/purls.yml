@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/detect-indent@0.1.4
+- pkg:maven/org.webjars.npm/detect-indent@0.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/detect-indent@2.0.0
 - pkg:maven/org.webjars.npm/detect-indent@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/detect-indent@3.0.1

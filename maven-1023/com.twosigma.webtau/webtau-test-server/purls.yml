@@ -1,0 +1,16 @@
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.23
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.23?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.25
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.25?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.27
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.27?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.28
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.28?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.29
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.29?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.30
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.30?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.31
+- pkg:maven/com.twosigma.webtau/webtau-test-server@0.31?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-test-server@1.0
+- pkg:maven/com.twosigma.webtau/webtau-test-server@1.0?classifier=sources

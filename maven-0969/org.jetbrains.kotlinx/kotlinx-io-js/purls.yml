@@ -2,3 +2,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-io-js@0.0.7?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-io-js@0.0.8
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-io-js@0.0.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-io-js@0.1.0-beta-4?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-io-js@0.1.0?classifier=sources

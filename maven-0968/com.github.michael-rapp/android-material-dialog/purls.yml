@@ -88,3 +88,5 @@
 - pkg:maven/com.github.michael-rapp/android-material-dialog@4.3.3?type=aar
 - pkg:maven/com.github.michael-rapp/android-material-dialog@4.3.4?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-material-dialog@4.3.4?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-dialog@5.0.0?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-dialog@5.0.0?type=aar

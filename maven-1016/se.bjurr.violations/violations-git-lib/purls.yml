@@ -1,4 +1,16 @@
 - pkg:maven/se.bjurr.violations/violations-git-lib@1.1
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.10
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.10?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.11
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.11?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.12
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.12?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.13
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.13?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.14
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.14?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.15
+- pkg:maven/se.bjurr.violations/violations-git-lib@1.15?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-git-lib@1.1?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-git-lib@1.2
 - pkg:maven/se.bjurr.violations/violations-git-lib@1.2?classifier=sources
