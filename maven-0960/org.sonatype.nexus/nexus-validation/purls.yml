@@ -155,6 +155,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-validation@3.34.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-validation@3.35.0-02
 - pkg:maven/org.sonatype.nexus/nexus-validation@3.35.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-validation@3.36.0-01
+- pkg:maven/org.sonatype.nexus/nexus-validation@3.36.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-validation@3.37.0-01
+- pkg:maven/org.sonatype.nexus/nexus-validation@3.37.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-validation@3.4.0-02
 - pkg:maven/org.sonatype.nexus/nexus-validation@3.4.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-validation@3.5.0-02

@@ -18,6 +18,8 @@
 - pkg:maven/org.http4s/http4s-ember-client_3@0.22.6?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-client_3@0.22.7
 - pkg:maven/org.http4s/http4s-ember-client_3@0.22.7?classifier=sources
+- pkg:maven/org.http4s/http4s-ember-client_3@0.22.8
+- pkg:maven/org.http4s/http4s-ember-client_3@0.22.8?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-client_3@0.23.0
 - pkg:maven/org.http4s/http4s-ember-client_3@0.23.0-M1
 - pkg:maven/org.http4s/http4s-ember-client_3@0.23.0-M1?classifier=sources
@@ -36,6 +38,8 @@
 - pkg:maven/org.http4s/http4s-ember-client_3@0.23.5?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-client_3@0.23.6
 - pkg:maven/org.http4s/http4s-ember-client_3@0.23.6?classifier=sources
+- pkg:maven/org.http4s/http4s-ember-client_3@0.23.7
+- pkg:maven/org.http4s/http4s-ember-client_3@0.23.7?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M22
 - pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M22?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M23
@@ -50,3 +54,5 @@
 - pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M28?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M29
 - pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M29?classifier=sources
+- pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M30
+- pkg:maven/org.http4s/http4s-ember-client_3@1.0.0-M30?classifier=sources

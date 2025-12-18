@@ -230,6 +230,8 @@
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.0?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.10?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.11?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.12?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.13?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.1?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.2?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.4.3?classifier=sources
@@ -245,3 +247,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.5.3?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.5.4?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.5.5?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.5.6?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.5.7?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.6.0?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.6.1?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@3.0.2?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@3.1.0
 - pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@3.1.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@3.1.1
+- pkg:maven/org.springframework.cloud.stream.app/mail-source-kafka@3.1.1?classifier=sources

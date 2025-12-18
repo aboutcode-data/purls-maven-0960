@@ -12,6 +12,8 @@
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.1.5?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.1.6
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.1.6?classifier=sources
+- pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.1.7
+- pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.1.7?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.3
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.3?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.4
@@ -19,3 +21,4 @@
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.5
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.5?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.6?classifier=sources
+- pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.binding.mpd@3.2.7?classifier=sources

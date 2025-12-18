@@ -15,6 +15,15 @@
 - pkg:maven/com.facebook.flipper/flipper@0.113.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.114.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.115.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.116.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.117.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.118.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.118.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.119.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.120.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.121.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.121.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.122.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.76.0?classifier=sources

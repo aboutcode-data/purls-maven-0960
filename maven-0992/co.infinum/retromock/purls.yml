@@ -1,2 +1,4 @@
 - pkg:maven/co.infinum/retromock@1.1.0
 - pkg:maven/co.infinum/retromock@1.1.0?classifier=sources
+- pkg:maven/co.infinum/retromock@1.1.1
+- pkg:maven/co.infinum/retromock@1.1.1?classifier=sources

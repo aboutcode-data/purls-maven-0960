@@ -70,3 +70,5 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@2.3.3?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@2.3.4
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@2.3.4?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@2.4.0
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@2.4.0?classifier=sources

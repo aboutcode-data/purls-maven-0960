@@ -18,3 +18,7 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.6.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.6.2-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.7.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.7.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.7.2-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-myfaces-1.2@1.8.0-alpha?classifier=sources

@@ -22,6 +22,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@2.0.26
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@2.0.26?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@2.0.27
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@2.0.27?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@2.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.1?classifier=sources-commercial
@@ -43,6 +46,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.8?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.10
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.10?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.10?classifier=sources-commercial
@@ -64,6 +70,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.16
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.16?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.17
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.17?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.application.service@4.0.9?classifier=sources-commercial

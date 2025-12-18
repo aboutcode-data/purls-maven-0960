@@ -246,3 +246,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@4.0.0-rc-3
 - pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@4.0.0-rc-3?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@4.0.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@4.1.0
+- pkg:maven/org.seleniumhq.selenium/selenium-ie-driver@4.1.0?classifier=sources

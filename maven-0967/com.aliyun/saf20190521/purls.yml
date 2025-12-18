@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/saf20190521@1.0.0
 - pkg:maven/com.aliyun/saf20190521@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/saf20190521@3.0.0
+- pkg:maven/com.aliyun/saf20190521@3.0.0?classifier=sources

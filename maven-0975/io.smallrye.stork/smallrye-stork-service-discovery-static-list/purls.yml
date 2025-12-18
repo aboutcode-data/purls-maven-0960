@@ -1,4 +1,6 @@
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha1
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha10
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha10?classifier=sources
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha1?classifier=sources
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha2
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha2?classifier=sources
@@ -12,3 +14,9 @@
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha6?classifier=sources
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha7
 - pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha7?classifier=sources
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha8
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha8?classifier=sources
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha9
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Alpha9?classifier=sources
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Beta1
+- pkg:maven/io.smallrye.stork/smallrye-stork-service-discovery-static-list@1.0.0.Beta1?classifier=sources

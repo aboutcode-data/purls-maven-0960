@@ -48,6 +48,12 @@
 - pkg:maven/org.jdbi/jdbi3-policy@3.22.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-policy@3.23.0
 - pkg:maven/org.jdbi/jdbi3-policy@3.23.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-policy@3.24.0
+- pkg:maven/org.jdbi/jdbi3-policy@3.24.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-policy@3.24.1
+- pkg:maven/org.jdbi/jdbi3-policy@3.24.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-policy@3.25.0
+- pkg:maven/org.jdbi/jdbi3-policy@3.25.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-policy@3.6.0
 - pkg:maven/org.jdbi/jdbi3-policy@3.6.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-policy@3.7.0

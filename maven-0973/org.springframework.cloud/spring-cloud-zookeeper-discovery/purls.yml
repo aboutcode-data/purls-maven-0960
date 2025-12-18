@@ -62,3 +62,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-discovery@3.0.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-discovery@3.0.4
 - pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-discovery@3.0.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-discovery@3.1.0
+- pkg:maven/org.springframework.cloud/spring-cloud-zookeeper-discovery@3.1.0?classifier=sources

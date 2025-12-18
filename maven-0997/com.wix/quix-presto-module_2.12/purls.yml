@@ -1,3 +1,5 @@
+- pkg:maven/com.wix/quix-presto-module_2.12@1.0.10
+- pkg:maven/com.wix/quix-presto-module_2.12@1.0.10?classifier=sources
 - pkg:maven/com.wix/quix-presto-module_2.12@1.0.2
 - pkg:maven/com.wix/quix-presto-module_2.12@1.0.2?classifier=sources
 - pkg:maven/com.wix/quix-presto-module_2.12@1.0.3

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-sync-data-consul@2.4.0
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-sync-data-consul@2.4.0?classifier=sources
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-sync-data-consul@2.4.1
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-sync-data-consul@2.4.1?classifier=sources

@@ -41,6 +41,12 @@
 - pkg:maven/com.sap.scimono/scimono-client@0.0.29?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@0.0.2?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@0.0.3
+- pkg:maven/com.sap.scimono/scimono-client@0.0.35
+- pkg:maven/com.sap.scimono/scimono-client@0.0.35?classifier=sources
+- pkg:maven/com.sap.scimono/scimono-client@0.0.36
+- pkg:maven/com.sap.scimono/scimono-client@0.0.36?classifier=sources
+- pkg:maven/com.sap.scimono/scimono-client@0.0.37
+- pkg:maven/com.sap.scimono/scimono-client@0.0.37?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@0.0.3?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@0.0.4
 - pkg:maven/com.sap.scimono/scimono-client@0.0.4?classifier=sources
@@ -54,3 +60,5 @@
 - pkg:maven/com.sap.scimono/scimono-client@0.0.8?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@0.0.9
 - pkg:maven/com.sap.scimono/scimono-client@0.0.9?classifier=sources
+- pkg:maven/com.sap.scimono/scimono-client@34.0.0
+- pkg:maven/com.sap.scimono/scimono-client@34.0.0?classifier=sources

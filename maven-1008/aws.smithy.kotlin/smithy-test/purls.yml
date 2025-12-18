@@ -1,3 +1,8 @@
 - pkg:maven/aws.smithy.kotlin/smithy-test@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@0.4.1-alpha?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@0.5.0-alpha?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@0.5.1-alpha?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@0.6.0-alpha?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@0.7.0-alpha?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@0.7.1-alpha?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@0.7.2-alpha?classifier=sources

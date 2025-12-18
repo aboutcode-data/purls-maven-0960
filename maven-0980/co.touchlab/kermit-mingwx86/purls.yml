@@ -11,3 +11,5 @@
 - pkg:maven/co.touchlab/kermit-mingwx86@1.0.0-rc1?classifier=sources
 - pkg:maven/co.touchlab/kermit-mingwx86@1.0.0-rc2?classifier=sources
 - pkg:maven/co.touchlab/kermit-mingwx86@1.0.0-rc4?classifier=sources
+- pkg:maven/co.touchlab/kermit-mingwx86@1.0.0?classifier=sources
+- pkg:maven/co.touchlab/kermit-mingwx86@1.0.2?classifier=sources

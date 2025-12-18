@@ -20,6 +20,12 @@
 - pkg:maven/io.kotest/kotest-assertions-core-iosarm32@4.6.1?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-core-iosarm32@4.6.2?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-core-iosarm32@4.6.3?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-iosarm32@4.6.4?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0.M1?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0.M2?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0.M3?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0.M4?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0.RC2?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0.RC?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.0?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-iosarm32@5.0.1?classifier=sources

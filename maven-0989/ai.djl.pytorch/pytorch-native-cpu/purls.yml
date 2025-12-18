@@ -12,3 +12,5 @@
 - pkg:maven/ai.djl.pytorch/pytorch-native-cpu@1.8.1?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-native-cpu@1.9.0
 - pkg:maven/ai.djl.pytorch/pytorch-native-cpu@1.9.0?classifier=sources
+- pkg:maven/ai.djl.pytorch/pytorch-native-cpu@1.9.1
+- pkg:maven/ai.djl.pytorch/pytorch-native-cpu@1.9.1?classifier=sources

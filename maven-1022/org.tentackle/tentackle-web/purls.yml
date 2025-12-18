@@ -28,6 +28,8 @@
 - pkg:maven/org.tentackle/tentackle-web@11.7.4.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@17.8.0.0
 - pkg:maven/org.tentackle/tentackle-web@17.8.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-web@17.9.0.0
+- pkg:maven/org.tentackle/tentackle-web@17.9.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@2.0.4
 - pkg:maven/org.tentackle/tentackle-web@2.0.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@2.0.5

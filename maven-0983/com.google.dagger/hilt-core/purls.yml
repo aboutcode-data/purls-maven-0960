@@ -36,3 +36,11 @@
 - pkg:maven/com.google.dagger/hilt-core@2.39.1
 - pkg:maven/com.google.dagger/hilt-core@2.39.1?classifier=sources
 - pkg:maven/com.google.dagger/hilt-core@2.39?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.40
+- pkg:maven/com.google.dagger/hilt-core@2.40.1
+- pkg:maven/com.google.dagger/hilt-core@2.40.1?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.40.2
+- pkg:maven/com.google.dagger/hilt-core@2.40.2?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.40.3
+- pkg:maven/com.google.dagger/hilt-core@2.40.3?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.40?classifier=sources

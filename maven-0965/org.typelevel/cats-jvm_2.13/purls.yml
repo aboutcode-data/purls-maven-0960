@@ -54,3 +54,5 @@
 - pkg:maven/org.typelevel/cats-jvm_2.13@2.6.0?classifier=sources
 - pkg:maven/org.typelevel/cats-jvm_2.13@2.6.1
 - pkg:maven/org.typelevel/cats-jvm_2.13@2.6.1?classifier=sources
+- pkg:maven/org.typelevel/cats-jvm_2.13@2.7.0
+- pkg:maven/org.typelevel/cats-jvm_2.13@2.7.0?classifier=sources

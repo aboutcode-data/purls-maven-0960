@@ -296,3 +296,5 @@
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.6.0-rc5
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.6.0-rc5?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.6.0?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.7.0-rc1
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.7.0-rc1?classifier=sources

@@ -22,4 +22,10 @@
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.7.0-alpha06?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.7.0?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.7.1?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.7.2?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.7.3?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.8.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.8.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.8.0-alpha03?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.8.0-alpha04?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.3@1.8.0?classifier=sources

@@ -21,3 +21,6 @@
 - pkg:maven/org.jeeplus/jeeplus-gencode-vue@8.0?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-gencode-vue@9.0?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-gencode-vue@9.1?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-gencode-vue@9.21?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-gencode-vue@9.22?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-gencode-vue@9.2?classifier=sources

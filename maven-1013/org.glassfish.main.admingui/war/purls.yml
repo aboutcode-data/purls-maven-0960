@@ -46,3 +46,5 @@
 - pkg:maven/org.glassfish.main.admingui/war@6.2.1?type=war
 - pkg:maven/org.glassfish.main.admingui/war@6.2.2?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@6.2.2?type=war
+- pkg:maven/org.glassfish.main.admingui/war@6.2.3?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@6.2.3?type=war

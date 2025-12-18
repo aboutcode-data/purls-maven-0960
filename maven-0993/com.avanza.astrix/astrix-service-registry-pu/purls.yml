@@ -41,3 +41,5 @@
 - pkg:maven/com.avanza.astrix/astrix-service-registry-pu@0.43.6
 - pkg:maven/com.avanza.astrix/astrix-service-registry-pu@0.43.6?classifier=sources
 - pkg:maven/com.avanza.astrix/astrix-service-registry-pu@1.0.6?classifier=sources
+- pkg:maven/com.avanza.astrix/astrix-service-registry-pu@1.0.7
+- pkg:maven/com.avanza.astrix/astrix-service-registry-pu@1.0.7?classifier=sources

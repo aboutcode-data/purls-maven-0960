@@ -126,6 +126,8 @@
 - pkg:maven/org.opendaylight.controller/sal-test-model@3.0.1
 - pkg:maven/org.opendaylight.controller/sal-test-model@3.0.10
 - pkg:maven/org.opendaylight.controller/sal-test-model@3.0.10?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-test-model@3.0.11?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-test-model@3.0.12?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-test-model@3.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-test-model@3.0.2
 - pkg:maven/org.opendaylight.controller/sal-test-model@3.0.2?classifier=sources
@@ -151,3 +153,7 @@
 - pkg:maven/org.opendaylight.controller/sal-test-model@4.0.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-test-model@4.0.3
 - pkg:maven/org.opendaylight.controller/sal-test-model@4.0.3?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-test-model@4.0.4?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-test-model@4.0.5?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-test-model@4.0.6?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-test-model@4.0.7?classifier=sources

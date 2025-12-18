@@ -136,6 +136,8 @@
 - pkg:maven/com.docusign/docusign-esign-java@3.15.0-RC1
 - pkg:maven/com.docusign/docusign-esign-java@3.15.0-RC1?classifier=sources
 - pkg:maven/com.docusign/docusign-esign-java@3.15.0?classifier=sources
+- pkg:maven/com.docusign/docusign-esign-java@3.16.0-RC1
+- pkg:maven/com.docusign/docusign-esign-java@3.16.0-RC1?classifier=sources
 - pkg:maven/com.docusign/docusign-esign-java@3.2.0
 - pkg:maven/com.docusign/docusign-esign-java@3.2.0-RC1?classifier=sources
 - pkg:maven/com.docusign/docusign-esign-java@3.2.0-RC2

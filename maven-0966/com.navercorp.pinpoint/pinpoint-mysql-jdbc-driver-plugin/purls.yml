@@ -1,2 +1,4 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-mysql-jdbc-driver-plugin@2.3.0
 - pkg:maven/com.navercorp.pinpoint/pinpoint-mysql-jdbc-driver-plugin@2.3.0?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-mysql-jdbc-driver-plugin@2.3.1
+- pkg:maven/com.navercorp.pinpoint/pinpoint-mysql-jdbc-driver-plugin@2.3.1?classifier=sources

@@ -62,7 +62,15 @@
 - pkg:maven/xyz.erupt/erupt-upms@1.8.4?classifier=sources
 - pkg:maven/xyz.erupt/erupt-upms@1.8.5
 - pkg:maven/xyz.erupt/erupt-upms@1.8.5?classifier=sources
+- pkg:maven/xyz.erupt/erupt-upms@1.9.0
 - pkg:maven/xyz.erupt/erupt-upms@1.9.0-bate
 - pkg:maven/xyz.erupt/erupt-upms@1.9.0-bate2
 - pkg:maven/xyz.erupt/erupt-upms@1.9.0-bate2?classifier=sources
 - pkg:maven/xyz.erupt/erupt-upms@1.9.0-bate?classifier=sources
+- pkg:maven/xyz.erupt/erupt-upms@1.9.0?classifier=sources
+- pkg:maven/xyz.erupt/erupt-upms@1.9.1
+- pkg:maven/xyz.erupt/erupt-upms@1.9.1?classifier=sources
+- pkg:maven/xyz.erupt/erupt-upms@1.9.2
+- pkg:maven/xyz.erupt/erupt-upms@1.9.2?classifier=sources
+- pkg:maven/xyz.erupt/erupt-upms@1.9.3
+- pkg:maven/xyz.erupt/erupt-upms@1.9.3?classifier=sources

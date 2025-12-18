@@ -1,3 +1,4 @@
+- pkg:maven/org.ehcache.modules.clustered/ehcache-service-api@3.10.0-alpha0?classifier=sources
 - pkg:maven/org.ehcache.modules.clustered/ehcache-service-api@3.9.0
 - pkg:maven/org.ehcache.modules.clustered/ehcache-service-api@3.9.0?classifier=sources
 - pkg:maven/org.ehcache.modules.clustered/ehcache-service-api@3.9.1

@@ -1,2 +1,4 @@
 - pkg:maven/com.payermax/payment-easy@1.0.08?classifier=sources
 - pkg:maven/com.payermax/payment-easy@1.0.08?type=aar
+- pkg:maven/com.payermax/payment-easy@1.0.09?classifier=sources
+- pkg:maven/com.payermax/payment-easy@1.0.09?type=aar

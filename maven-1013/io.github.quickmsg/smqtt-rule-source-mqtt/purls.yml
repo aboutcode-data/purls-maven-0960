@@ -1,2 +1,4 @@
 - pkg:maven/io.github.quickmsg/smqtt-rule-source-mqtt@1.0.8
 - pkg:maven/io.github.quickmsg/smqtt-rule-source-mqtt@1.0.8?classifier=sources
+- pkg:maven/io.github.quickmsg/smqtt-rule-source-mqtt@1.0.9
+- pkg:maven/io.github.quickmsg/smqtt-rule-source-mqtt@1.0.9?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.13.2?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.14.0
 - pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.14.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.15.0
+- pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.15.0?classifier=sources

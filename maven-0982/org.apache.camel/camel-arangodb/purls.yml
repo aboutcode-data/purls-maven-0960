@@ -8,8 +8,12 @@
 - pkg:maven/org.apache.camel/camel-arangodb@3.11.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-arangodb@3.11.3
 - pkg:maven/org.apache.camel/camel-arangodb@3.11.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-arangodb@3.11.4
+- pkg:maven/org.apache.camel/camel-arangodb@3.11.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-arangodb@3.12.0
 - pkg:maven/org.apache.camel/camel-arangodb@3.12.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-arangodb@3.13.0
+- pkg:maven/org.apache.camel/camel-arangodb@3.13.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-arangodb@3.5.0
 - pkg:maven/org.apache.camel/camel-arangodb@3.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-arangodb@3.6.0

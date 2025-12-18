@@ -48,6 +48,8 @@
 - pkg:maven/com.cognitect.aws/eks@811.2.934.0?classifier=sources
 - pkg:maven/com.cognitect.aws/eks@811.2.958.0
 - pkg:maven/com.cognitect.aws/eks@811.2.958.0?classifier=sources
+- pkg:maven/com.cognitect.aws/eks@814.2.1023.0
+- pkg:maven/com.cognitect.aws/eks@814.2.1023.0?classifier=sources
 - pkg:maven/com.cognitect.aws/eks@814.2.977.0
 - pkg:maven/com.cognitect.aws/eks@814.2.977.0?classifier=sources
 - pkg:maven/com.cognitect.aws/eks@814.2.986.0

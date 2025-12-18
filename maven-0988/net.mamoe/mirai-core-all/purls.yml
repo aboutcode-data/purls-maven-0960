@@ -47,3 +47,8 @@
 - pkg:maven/net.mamoe/mirai-core-all@2.7.1?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.8-M1?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.8.0-M1?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.8.0-RC?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.8.0?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.8.1?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.8.2?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.9.0-M1?classifier=sources

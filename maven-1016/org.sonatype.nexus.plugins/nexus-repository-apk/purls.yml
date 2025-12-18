@@ -25,6 +25,10 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.20?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.21
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.21?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.22
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.22?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.23
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.23?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.2?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.3
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.3?classifier=sources

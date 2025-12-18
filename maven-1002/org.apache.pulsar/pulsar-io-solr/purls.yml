@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-solr@2.8.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-solr@2.8.1
 - pkg:maven/org.apache.pulsar/pulsar-io-solr@2.8.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-solr@2.9.0
+- pkg:maven/org.apache.pulsar/pulsar-io-solr@2.9.0?classifier=sources

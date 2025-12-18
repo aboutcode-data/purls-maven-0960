@@ -28,3 +28,5 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-http-utils_2.12@1.0.0-RC1
 - pkg:maven/pl.touk.nussknacker/nussknacker-http-utils_2.12@1.0.0-RC1?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-http-utils_2.12@1.0.0?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-http-utils_2.12@1.1.0
+- pkg:maven/pl.touk.nussknacker/nussknacker-http-utils_2.12@1.1.0?classifier=sources

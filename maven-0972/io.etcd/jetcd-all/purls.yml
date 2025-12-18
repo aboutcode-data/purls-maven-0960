@@ -7,6 +7,8 @@
 - pkg:maven/io.etcd/jetcd-all@0.5.1
 - pkg:maven/io.etcd/jetcd-all@0.5.10
 - pkg:maven/io.etcd/jetcd-all@0.5.10?classifier=sources
+- pkg:maven/io.etcd/jetcd-all@0.5.11
+- pkg:maven/io.etcd/jetcd-all@0.5.11?classifier=sources
 - pkg:maven/io.etcd/jetcd-all@0.5.1?classifier=sources
 - pkg:maven/io.etcd/jetcd-all@0.5.2
 - pkg:maven/io.etcd/jetcd-all@0.5.2?classifier=sources

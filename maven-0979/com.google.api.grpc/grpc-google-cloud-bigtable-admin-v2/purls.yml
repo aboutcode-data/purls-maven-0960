@@ -239,6 +239,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.22.0-sp.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.22.0-sp.2
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.22.0-sp.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.22.0-sp.3
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.22.0-sp.3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.22.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.23.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@1.23.0?classifier=sources
@@ -288,3 +290,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@2.1.3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@2.1.4
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@2.1.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@2.2.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigtable-admin-v2@2.2.0?classifier=sources

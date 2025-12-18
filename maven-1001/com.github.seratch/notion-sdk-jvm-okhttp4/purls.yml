@@ -15,6 +15,12 @@
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.15?classifier=sources
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.16
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.16?classifier=sources
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.17
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.17?classifier=sources
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.18
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.18?classifier=sources
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.19
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.19?classifier=sources
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.1?classifier=sources
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.2
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.2?classifier=sources
@@ -32,3 +38,7 @@
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.8?classifier=sources
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.9
 - pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.1.9?classifier=sources
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.2.0
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.2.0?classifier=sources
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.2.1
+- pkg:maven/com.github.seratch/notion-sdk-jvm-okhttp4@0.2.1?classifier=sources

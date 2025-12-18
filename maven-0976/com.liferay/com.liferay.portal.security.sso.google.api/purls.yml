@@ -173,6 +173,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.23
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.24
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@3.0.3
@@ -274,3 +277,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.7
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.8
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.9
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.google.api@5.0.9?classifier=sources-commercial

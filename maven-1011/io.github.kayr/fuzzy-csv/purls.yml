@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kayr/fuzzy-csv@1.7.1
+- pkg:maven/io.github.kayr/fuzzy-csv@1.7.1?classifier=sources
+- pkg:maven/io.github.kayr/fuzzy-csv@1.7.2
+- pkg:maven/io.github.kayr/fuzzy-csv@1.7.2?classifier=sources

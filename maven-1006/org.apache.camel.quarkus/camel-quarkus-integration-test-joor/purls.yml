@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-joor@2.3.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-joor@2.3.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-joor@2.4.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-joor@2.4.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-joor@2.5.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-joor@2.5.0?classifier=sources

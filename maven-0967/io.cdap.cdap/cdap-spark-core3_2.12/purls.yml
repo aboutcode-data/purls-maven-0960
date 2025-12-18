@@ -1,2 +1,4 @@
 - pkg:maven/io.cdap.cdap/cdap-spark-core3_2.12@6.5.0
 - pkg:maven/io.cdap.cdap/cdap-spark-core3_2.12@6.5.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-spark-core3_2.12@6.5.1
+- pkg:maven/io.cdap.cdap/cdap-spark-core3_2.12@6.5.1?classifier=sources

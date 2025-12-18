@@ -152,3 +152,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.9.6?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.9.7
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.9.7?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.9.8
+- pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.9.8?classifier=sources

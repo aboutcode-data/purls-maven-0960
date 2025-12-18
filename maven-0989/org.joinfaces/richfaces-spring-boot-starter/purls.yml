@@ -103,6 +103,8 @@
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.10?classifier=sources
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.11
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.11?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.12?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.13?classifier=sources
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.2
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.2?classifier=sources
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.4.3
@@ -129,7 +131,12 @@
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.5.4?classifier=sources
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.5.5
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.5.5?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.5.6?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.5.7?classifier=sources
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.0-m1
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.0-m1?classifier=sources
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.0-m2
 - pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.0-m2?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.0-rc1?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.0?classifier=sources
+- pkg:maven/org.joinfaces/richfaces-spring-boot-starter@4.6.1?classifier=sources

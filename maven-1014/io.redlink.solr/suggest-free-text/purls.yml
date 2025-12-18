@@ -6,3 +6,5 @@
 - pkg:maven/io.redlink.solr/suggest-free-text@1.0.2?classifier=sources
 - pkg:maven/io.redlink.solr/suggest-free-text@2.0.0
 - pkg:maven/io.redlink.solr/suggest-free-text@2.0.0?classifier=sources
+- pkg:maven/io.redlink.solr/suggest-free-text@2.1.1
+- pkg:maven/io.redlink.solr/suggest-free-text@2.1.1?classifier=sources

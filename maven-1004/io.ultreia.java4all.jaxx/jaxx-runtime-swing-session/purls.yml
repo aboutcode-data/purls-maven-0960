@@ -168,6 +168,7 @@
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0-alpha-92
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0-alpha-92?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0-alpha-9?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0-RC-1
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0-RC-10
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0-RC-10?classifier=sources
@@ -192,3 +193,10 @@
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0-RC-8?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0-RC-9
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0-RC-9?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.0?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.1
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.1?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.2
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.2?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.3
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-runtime-swing-session@3.0.3?classifier=sources

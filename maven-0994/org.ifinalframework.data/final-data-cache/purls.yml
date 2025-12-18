@@ -6,3 +6,5 @@
 - pkg:maven/org.ifinalframework.data/final-data-cache@1.2.1-alpha
 - pkg:maven/org.ifinalframework.data/final-data-cache@1.2.1-alpha?classifier=sources
 - pkg:maven/org.ifinalframework.data/final-data-cache@1.2.1?classifier=sources
+- pkg:maven/org.ifinalframework.data/final-data-cache@1.2.2
+- pkg:maven/org.ifinalframework.data/final-data-cache@1.2.2?classifier=sources

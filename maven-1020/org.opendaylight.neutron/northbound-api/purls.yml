@@ -53,6 +53,7 @@
 - pkg:maven/org.opendaylight.neutron/northbound-api@0.16.1?classifier=sources
 - pkg:maven/org.opendaylight.neutron/northbound-api@0.16.2
 - pkg:maven/org.opendaylight.neutron/northbound-api@0.16.2?classifier=sources
+- pkg:maven/org.opendaylight.neutron/northbound-api@0.16.3?classifier=sources
 - pkg:maven/org.opendaylight.neutron/northbound-api@0.5.0-Lithium
 - pkg:maven/org.opendaylight.neutron/northbound-api@0.5.1-Lithium-SR1
 - pkg:maven/org.opendaylight.neutron/northbound-api@0.5.2-Lithium-SR2

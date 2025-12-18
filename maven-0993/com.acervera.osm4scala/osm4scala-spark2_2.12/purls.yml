@@ -1,3 +1,5 @@
+- pkg:maven/com.acervera.osm4scala/osm4scala-spark2_2.12@1.0.10
+- pkg:maven/com.acervera.osm4scala/osm4scala-spark2_2.12@1.0.10?classifier=sources
 - pkg:maven/com.acervera.osm4scala/osm4scala-spark2_2.12@1.0.7
 - pkg:maven/com.acervera.osm4scala/osm4scala-spark2_2.12@1.0.7?classifier=sources
 - pkg:maven/com.acervera.osm4scala/osm4scala-spark2_2.12@1.0.8

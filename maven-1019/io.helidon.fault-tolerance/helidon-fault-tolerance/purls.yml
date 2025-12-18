@@ -18,3 +18,5 @@
 - pkg:maven/io.helidon.fault-tolerance/helidon-fault-tolerance@2.3.3?classifier=sources
 - pkg:maven/io.helidon.fault-tolerance/helidon-fault-tolerance@2.3.4
 - pkg:maven/io.helidon.fault-tolerance/helidon-fault-tolerance@2.3.4?classifier=sources
+- pkg:maven/io.helidon.fault-tolerance/helidon-fault-tolerance@2.4.0
+- pkg:maven/io.helidon.fault-tolerance/helidon-fault-tolerance@2.4.0?classifier=sources

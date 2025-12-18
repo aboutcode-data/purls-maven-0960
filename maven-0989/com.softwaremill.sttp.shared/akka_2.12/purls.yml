@@ -42,3 +42,5 @@
 - pkg:maven/com.softwaremill.sttp.shared/akka_2.12@1.2.5?classifier=sources
 - pkg:maven/com.softwaremill.sttp.shared/akka_2.12@1.2.6
 - pkg:maven/com.softwaremill.sttp.shared/akka_2.12@1.2.6?classifier=sources
+- pkg:maven/com.softwaremill.sttp.shared/akka_2.12@1.2.7
+- pkg:maven/com.softwaremill.sttp.shared/akka_2.12@1.2.7?classifier=sources

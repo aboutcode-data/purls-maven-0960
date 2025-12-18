@@ -149,3 +149,5 @@
 - pkg:maven/com.opuscapita.peppol/peppol-commons@1.1.8?classifier=sources
 - pkg:maven/com.opuscapita.peppol/peppol-commons@1.1.9
 - pkg:maven/com.opuscapita.peppol/peppol-commons@1.1.9?classifier=sources
+- pkg:maven/com.opuscapita.peppol/peppol-commons@2.0.1
+- pkg:maven/com.opuscapita.peppol/peppol-commons@2.0.1?classifier=sources

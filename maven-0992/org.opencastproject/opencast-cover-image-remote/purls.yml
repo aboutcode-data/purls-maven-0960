@@ -8,6 +8,8 @@
 - pkg:maven/org.opencastproject/opencast-cover-image-remote@10.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-cover-image-remote@10.4
 - pkg:maven/org.opencastproject/opencast-cover-image-remote@10.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-cover-image-remote@10.5
+- pkg:maven/org.opencastproject/opencast-cover-image-remote@10.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-cover-image-remote@6.6
 - pkg:maven/org.opencastproject/opencast-cover-image-remote@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-cover-image-remote@7.2

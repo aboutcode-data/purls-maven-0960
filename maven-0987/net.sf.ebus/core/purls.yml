@@ -30,3 +30,5 @@
 - pkg:maven/net.sf.ebus/core@5.6.0?classifier=sources
 - pkg:maven/net.sf.ebus/core@5.7.0
 - pkg:maven/net.sf.ebus/core@5.7.0?classifier=sources
+- pkg:maven/net.sf.ebus/core@5.8.0
+- pkg:maven/net.sf.ebus/core@5.8.0?classifier=sources

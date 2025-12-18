@@ -82,3 +82,5 @@
 - pkg:maven/io.helidon.health/helidon-health-checks@2.3.3?classifier=sources
 - pkg:maven/io.helidon.health/helidon-health-checks@2.3.4
 - pkg:maven/io.helidon.health/helidon-health-checks@2.3.4?classifier=sources
+- pkg:maven/io.helidon.health/helidon-health-checks@2.4.0
+- pkg:maven/io.helidon.health/helidon-health-checks@2.4.0?classifier=sources

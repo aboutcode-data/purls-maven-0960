@@ -13,3 +13,6 @@
 - pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.kernel@4.5.7
 - pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.kernel@4.5.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.kernel@4.5.7?classifier=sources
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.kernel@4.5.8
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.kernel@4.5.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.rules/org.wso2.carbon.rule.kernel@4.5.8?classifier=sources

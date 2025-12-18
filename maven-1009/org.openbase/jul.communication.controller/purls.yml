@@ -1,2 +1,6 @@
 - pkg:maven/org.openbase/jul.communication.controller@2.0.0
 - pkg:maven/org.openbase/jul.communication.controller@2.0.0?classifier=sources
+- pkg:maven/org.openbase/jul.communication.controller@3.0.0
+- pkg:maven/org.openbase/jul.communication.controller@3.0.0?classifier=sources
+- pkg:maven/org.openbase/jul.communication.controller@3.0.1
+- pkg:maven/org.openbase/jul.communication.controller@3.0.1?classifier=sources

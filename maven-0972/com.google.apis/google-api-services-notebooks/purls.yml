@@ -44,3 +44,5 @@
 - pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20210812-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20210916-1.32.1
 - pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20210916-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20211019-1.32.1
+- pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20211019-1.32.1?classifier=sources

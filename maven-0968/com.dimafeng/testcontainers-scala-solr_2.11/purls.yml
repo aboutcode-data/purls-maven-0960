@@ -19,6 +19,12 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.0
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.0?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.1
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.10
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.10?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.11
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.11?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.12
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.12?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.1?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.2
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.2?classifier=sources
@@ -34,3 +40,5 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.7?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.8
 - pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.8?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.9
+- pkg:maven/com.dimafeng/testcontainers-scala-solr_2.11@0.39.9?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.snmp4j/snmp4j-log4j@2.8.2
 - pkg:maven/org.snmp4j/snmp4j-log4j@2.8.2?classifier=sources
+- pkg:maven/org.snmp4j/snmp4j-log4j@2.8.7
+- pkg:maven/org.snmp4j/snmp4j-log4j@2.8.7?classifier=sources

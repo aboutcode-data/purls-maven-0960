@@ -295,6 +295,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.36
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.37
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.38
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.ldap@2.5.4

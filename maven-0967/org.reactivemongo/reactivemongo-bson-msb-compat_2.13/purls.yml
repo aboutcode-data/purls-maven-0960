@@ -102,3 +102,7 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.7-noshaded
 - pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.7-noshaded?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.7?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.8
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.8-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.8-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.8?classifier=sources

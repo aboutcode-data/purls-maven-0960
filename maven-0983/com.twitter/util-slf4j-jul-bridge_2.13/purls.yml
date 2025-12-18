@@ -34,6 +34,10 @@
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@20.9.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.1.0
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.1.0?classifier=sources
+- pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.10.0
+- pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.10.0?classifier=sources
+- pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.11.0
+- pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.11.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.2.0
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.2.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@21.3.0

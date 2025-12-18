@@ -128,6 +128,12 @@
 - pkg:maven/io.ebean/ebean-agent@12.12.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@12.12.2
 - pkg:maven/io.ebean/ebean-agent@12.12.2?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@12.12.3
+- pkg:maven/io.ebean/ebean-agent@12.12.3?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@12.13.0
+- pkg:maven/io.ebean/ebean-agent@12.13.0?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@12.13.1
+- pkg:maven/io.ebean/ebean-agent@12.13.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@12.2.1
 - pkg:maven/io.ebean/ebean-agent@12.2.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@12.2.2

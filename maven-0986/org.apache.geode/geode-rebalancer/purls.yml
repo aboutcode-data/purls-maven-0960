@@ -22,6 +22,8 @@
 - pkg:maven/org.apache.geode/geode-rebalancer@1.12.3?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.12.4
 - pkg:maven/org.apache.geode/geode-rebalancer@1.12.4?classifier=sources
+- pkg:maven/org.apache.geode/geode-rebalancer@1.12.5
+- pkg:maven/org.apache.geode/geode-rebalancer@1.12.5?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.0
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.1

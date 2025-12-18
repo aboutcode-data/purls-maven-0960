@@ -324,3 +324,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.remote-tasks.stub@4.7.40
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.remote-tasks.stub@4.7.40?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.remote-tasks.stub@4.7.40?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.remote-tasks.stub@4.7.41
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.remote-tasks.stub@4.7.41?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.remote-tasks.stub@4.7.41?classifier=sources

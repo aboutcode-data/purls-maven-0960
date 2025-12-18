@@ -1,1 +1,4 @@
+- pkg:maven/io.smooth-way/session@0.0.1?classifier=sources
+- pkg:maven/io.smooth-way/session@0.0.2?classifier=sources
+- pkg:maven/io.smooth-way/session@0.0.5?classifier=sources
 - pkg:maven/io.smooth-way/session@0.1.0?classifier=sources

@@ -16,6 +16,9 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.3.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.3.1-dev3j%2Bc31aab72c?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.3.1-dev3o%2Bbfb503ae3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.3.1-dev3u%2B98f896f97?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@11.3.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@2.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-sapere@2.0.0?classifier=sources

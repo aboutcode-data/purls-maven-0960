@@ -10,3 +10,5 @@
 - pkg:maven/org.endpoints4s/openapi_2.13@3.0.0?classifier=sources
 - pkg:maven/org.endpoints4s/openapi_2.13@3.1.0
 - pkg:maven/org.endpoints4s/openapi_2.13@3.1.0?classifier=sources
+- pkg:maven/org.endpoints4s/openapi_2.13@4.0.0
+- pkg:maven/org.endpoints4s/openapi_2.13@4.0.0?classifier=sources

@@ -46,6 +46,10 @@
 - pkg:maven/com.github.jnr/jnr-enxio@0.32.0
 - pkg:maven/com.github.jnr/jnr-enxio@0.32.0?classifier=sources
 - pkg:maven/com.github.jnr/jnr-enxio@0.32.1
+- pkg:maven/com.github.jnr/jnr-enxio@0.32.10
+- pkg:maven/com.github.jnr/jnr-enxio@0.32.10?classifier=sources
+- pkg:maven/com.github.jnr/jnr-enxio@0.32.11
+- pkg:maven/com.github.jnr/jnr-enxio@0.32.11?classifier=sources
 - pkg:maven/com.github.jnr/jnr-enxio@0.32.1?classifier=sources
 - pkg:maven/com.github.jnr/jnr-enxio@0.32.2
 - pkg:maven/com.github.jnr/jnr-enxio@0.32.2?classifier=sources

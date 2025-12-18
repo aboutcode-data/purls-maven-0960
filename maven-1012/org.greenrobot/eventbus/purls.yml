@@ -10,3 +10,5 @@
 - pkg:maven/org.greenrobot/eventbus@3.1.2-RC?classifier=sources
 - pkg:maven/org.greenrobot/eventbus@3.2.0
 - pkg:maven/org.greenrobot/eventbus@3.2.0?classifier=sources
+- pkg:maven/org.greenrobot/eventbus@3.3.0?classifier=sources
+- pkg:maven/org.greenrobot/eventbus@3.3.1?classifier=sources

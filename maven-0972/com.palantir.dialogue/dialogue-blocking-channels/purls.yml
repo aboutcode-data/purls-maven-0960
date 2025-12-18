@@ -361,7 +361,16 @@
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.23.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.24.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.25.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.25.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.26.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.27.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.28.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.29.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.3.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.30.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.31.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.32.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.33.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.4.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.6.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-blocking-channels@3.7.0?classifier=sources

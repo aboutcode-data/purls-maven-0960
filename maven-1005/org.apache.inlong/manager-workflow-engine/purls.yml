@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.inlong/manager-workflow-engine@0.10.0-incubating
 - pkg:maven/org.apache.inlong/manager-workflow-engine@0.10.0-incubating?classifier=sources
+- pkg:maven/org.apache.inlong/manager-workflow-engine@0.11.0-incubating
+- pkg:maven/org.apache.inlong/manager-workflow-engine@0.11.0-incubating?classifier=sources
 - pkg:maven/org.apache.inlong/manager-workflow-engine@0.9.0-incubating
 - pkg:maven/org.apache.inlong/manager-workflow-engine@0.9.0-incubating?classifier=sources
