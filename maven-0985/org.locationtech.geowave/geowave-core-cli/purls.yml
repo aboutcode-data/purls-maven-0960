@@ -1,2 +1,4 @@
+- pkg:maven/org.locationtech.geowave/geowave-core-cli@1.0.0
 - pkg:maven/org.locationtech.geowave/geowave-core-cli@1.0.0-RC1
 - pkg:maven/org.locationtech.geowave/geowave-core-cli@1.0.0-RC1?classifier=sources
+- pkg:maven/org.locationtech.geowave/geowave-core-cli@1.0.0?classifier=sources

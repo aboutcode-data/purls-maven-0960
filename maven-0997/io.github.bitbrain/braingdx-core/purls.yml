@@ -100,5 +100,7 @@
 - pkg:maven/io.github.bitbrain/braingdx-core@0.5.8?classifier=sources
 - pkg:maven/io.github.bitbrain/braingdx-core@0.5.9
 - pkg:maven/io.github.bitbrain/braingdx-core@0.5.9?classifier=sources
+- pkg:maven/io.github.bitbrain/braingdx-core@0.6.0
+- pkg:maven/io.github.bitbrain/braingdx-core@0.6.0?classifier=sources
 - pkg:maven/io.github.bitbrain/braingdx-core@1.3.5
 - pkg:maven/io.github.bitbrain/braingdx-core@1.3.5?classifier=sources

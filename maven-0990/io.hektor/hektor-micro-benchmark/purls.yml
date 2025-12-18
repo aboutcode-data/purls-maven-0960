@@ -1,2 +1,4 @@
 - pkg:maven/io.hektor/hektor-micro-benchmark@0.0.2
 - pkg:maven/io.hektor/hektor-micro-benchmark@0.0.2?classifier=sources
+- pkg:maven/io.hektor/hektor-micro-benchmark@0.0.3
+- pkg:maven/io.hektor/hektor-micro-benchmark@0.0.3?classifier=sources

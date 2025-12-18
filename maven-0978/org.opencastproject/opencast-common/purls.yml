@@ -1,0 +1,6 @@
+- pkg:maven/org.opencastproject/opencast-common@6.6
+- pkg:maven/org.opencastproject/opencast-common@6.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-common@7.2
+- pkg:maven/org.opencastproject/opencast-common@7.2?classifier=sources
+- pkg:maven/org.opencastproject/opencast-common@7.4
+- pkg:maven/org.opencastproject/opencast-common@7.4?classifier=sources

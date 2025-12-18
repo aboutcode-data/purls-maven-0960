@@ -22,3 +22,7 @@
 - pkg:maven/com.vdurmont/semver4j@2.1.0?classifier=sources
 - pkg:maven/com.vdurmont/semver4j@2.2.0
 - pkg:maven/com.vdurmont/semver4j@2.2.0?classifier=sources
+- pkg:maven/com.vdurmont/semver4j@3.0.0
+- pkg:maven/com.vdurmont/semver4j@3.0.0?classifier=sources
+- pkg:maven/com.vdurmont/semver4j@3.1.0
+- pkg:maven/com.vdurmont/semver4j@3.1.0?classifier=sources

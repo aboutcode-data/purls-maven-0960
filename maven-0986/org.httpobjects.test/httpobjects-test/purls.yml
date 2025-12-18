@@ -10,6 +10,8 @@
 - pkg:maven/org.httpobjects.test/httpobjects-test@0.13.0?classifier=sources
 - pkg:maven/org.httpobjects.test/httpobjects-test@0.2.0
 - pkg:maven/org.httpobjects.test/httpobjects-test@0.2.0?classifier=sources
+- pkg:maven/org.httpobjects.test/httpobjects-test@0.27.0
+- pkg:maven/org.httpobjects.test/httpobjects-test@0.27.0?classifier=sources
 - pkg:maven/org.httpobjects.test/httpobjects-test@0.3.0
 - pkg:maven/org.httpobjects.test/httpobjects-test@0.3.0?classifier=sources
 - pkg:maven/org.httpobjects.test/httpobjects-test@0.4.0

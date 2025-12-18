@@ -1,2 +1,8 @@
 - pkg:maven/com.twosigma.znai/znai-server@0.16
 - pkg:maven/com.twosigma.znai/znai-server@0.16?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-server@1.18
+- pkg:maven/com.twosigma.znai/znai-server@1.18?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-server@1.19
+- pkg:maven/com.twosigma.znai/znai-server@1.19?classifier=sources
+- pkg:maven/com.twosigma.znai/znai-server@1.20
+- pkg:maven/com.twosigma.znai/znai-server@1.20?classifier=sources

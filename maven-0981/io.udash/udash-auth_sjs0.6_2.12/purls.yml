@@ -1,3 +1,4 @@
+- pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0
 - pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-M10
 - pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-M10?classifier=sources
 - pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-M11
@@ -38,3 +39,8 @@
 - pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-RC8?classifier=sources
 - pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-RC9
 - pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-RC9?classifier=sources
+- pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-releasetest
+- pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0-releasetest?classifier=sources
+- pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.0?classifier=sources
+- pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.1
+- pkg:maven/io.udash/udash-auth_sjs0.6_2.12@0.8.1?classifier=sources

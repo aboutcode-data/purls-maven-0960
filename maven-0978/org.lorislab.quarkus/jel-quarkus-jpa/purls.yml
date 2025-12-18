@@ -8,3 +8,11 @@
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.6.0?classifier=sources
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.6.1
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.6.1?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.6.2
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.6.2?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.7.0
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.7.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.8.0
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.8.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.9.0
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-jpa@0.9.0?classifier=sources

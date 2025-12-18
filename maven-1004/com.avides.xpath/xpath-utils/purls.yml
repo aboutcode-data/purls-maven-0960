@@ -4,3 +4,5 @@
 - pkg:maven/com.avides.xpath/xpath-utils@1.1.3.RELEASE?classifier=sources
 - pkg:maven/com.avides.xpath/xpath-utils@1.1.4.RELEASE
 - pkg:maven/com.avides.xpath/xpath-utils@1.1.4.RELEASE?classifier=sources
+- pkg:maven/com.avides.xpath/xpath-utils@2.0.0
+- pkg:maven/com.avides.xpath/xpath-utils@2.0.0?classifier=sources

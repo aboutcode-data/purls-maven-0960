@@ -6,6 +6,10 @@
 - pkg:maven/de.gsi.chart/chartfx-chart@11.0.2?classifier=sources
 - pkg:maven/de.gsi.chart/chartfx-chart@11.0.3
 - pkg:maven/de.gsi.chart/chartfx-chart@11.0.3?classifier=sources
+- pkg:maven/de.gsi.chart/chartfx-chart@11.0.4
+- pkg:maven/de.gsi.chart/chartfx-chart@11.0.4?classifier=sources
+- pkg:maven/de.gsi.chart/chartfx-chart@11.1.0
+- pkg:maven/de.gsi.chart/chartfx-chart@11.1.0?classifier=sources
 - pkg:maven/de.gsi.chart/chartfx-chart@8.0.0
 - pkg:maven/de.gsi.chart/chartfx-chart@8.0.0?classifier=sources
 - pkg:maven/de.gsi.chart/chartfx-chart@8.0.1
@@ -14,3 +18,7 @@
 - pkg:maven/de.gsi.chart/chartfx-chart@8.0.2?classifier=sources
 - pkg:maven/de.gsi.chart/chartfx-chart@8.0.3
 - pkg:maven/de.gsi.chart/chartfx-chart@8.0.3?classifier=sources
+- pkg:maven/de.gsi.chart/chartfx-chart@8.0.4
+- pkg:maven/de.gsi.chart/chartfx-chart@8.0.4?classifier=sources
+- pkg:maven/de.gsi.chart/chartfx-chart@8.1.0
+- pkg:maven/de.gsi.chart/chartfx-chart@8.1.0?classifier=sources

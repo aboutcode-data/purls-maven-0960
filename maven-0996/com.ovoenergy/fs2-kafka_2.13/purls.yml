@@ -1,4 +1,12 @@
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0
 - pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0-M1
 - pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0-M1?classifier=sources
 - pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0-M2
 - pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0-M2?classifier=sources
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0-RC1
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0-RC1?classifier=sources
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.0?classifier=sources
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.1
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.1?classifier=sources
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.2
+- pkg:maven/com.ovoenergy/fs2-kafka_2.13@0.20.2?classifier=sources

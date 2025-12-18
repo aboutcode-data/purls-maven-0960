@@ -1,2 +1,4 @@
 - pkg:maven/net.webpdf/webpdf-ant@1.0.0
 - pkg:maven/net.webpdf/webpdf-ant@1.0.0?classifier=sources
+- pkg:maven/net.webpdf/webpdf-ant@2.0.0
+- pkg:maven/net.webpdf/webpdf-ant@2.0.0?classifier=sources

@@ -195,6 +195,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.39.6?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.39.7
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.39.7?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.39.8
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.39.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.3?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.4
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi@0.4?classifier=sources

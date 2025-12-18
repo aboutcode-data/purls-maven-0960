@@ -20,6 +20,8 @@
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.11.1?type=war
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.12.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.12.0?type=war
+- pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.12.1?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.12.1?type=war
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.2.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.2.0?type=war
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jboss-full@2.3.0?classifier=sources

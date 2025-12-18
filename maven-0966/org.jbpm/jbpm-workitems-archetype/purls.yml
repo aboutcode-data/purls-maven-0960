@@ -15,6 +15,11 @@
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.23.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.24.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.24.0.t043?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.25.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.26.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.27.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.28.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.29.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.3.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.4.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.4.1.Final?classifier=sources

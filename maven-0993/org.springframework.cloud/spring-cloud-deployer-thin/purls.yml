@@ -30,6 +30,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.21.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.22.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.22.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.23.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.23.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-thin@1.0.4.RELEASE

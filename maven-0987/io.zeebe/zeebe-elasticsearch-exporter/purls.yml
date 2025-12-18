@@ -12,5 +12,17 @@
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.19.0?classifier=sources
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.20.0
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.20.0?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.20.1
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.20.1?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0-alpha1
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0-alpha1?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0-alpha2
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0-alpha2?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0-alpha3
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0-alpha3?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.0?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.1
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.21.1?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.22.0-alpha1
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.22.0-alpha1?classifier=sources

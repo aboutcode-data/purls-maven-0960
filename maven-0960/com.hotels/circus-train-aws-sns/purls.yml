@@ -36,3 +36,7 @@
 - pkg:maven/com.hotels/circus-train-aws-sns@14.0.0?classifier=sources
 - pkg:maven/com.hotels/circus-train-aws-sns@14.0.1
 - pkg:maven/com.hotels/circus-train-aws-sns@14.0.1?classifier=sources
+- pkg:maven/com.hotels/circus-train-aws-sns@14.1.0
+- pkg:maven/com.hotels/circus-train-aws-sns@14.1.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-aws-sns@15.0.0
+- pkg:maven/com.hotels/circus-train-aws-sns@15.0.0?classifier=sources

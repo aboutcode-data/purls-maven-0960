@@ -15,3 +15,5 @@
 - pkg:maven/io.pravega/pravega-test-integration@0.4.1
 - pkg:maven/io.pravega/pravega-test-integration@0.4.1?classifier=sources
 - pkg:maven/io.pravega/pravega-test-integration@0.5.0?classifier=sources
+- pkg:maven/io.pravega/pravega-test-integration@0.5.1?classifier=sources
+- pkg:maven/io.pravega/pravega-test-integration@0.6.0?classifier=sources

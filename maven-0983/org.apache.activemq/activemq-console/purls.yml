@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.activemq/activemq-console@5.15.0
 - pkg:maven/org.apache.activemq/activemq-console@5.15.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-console@5.15.1
+- pkg:maven/org.apache.activemq/activemq-console@5.15.10
+- pkg:maven/org.apache.activemq/activemq-console@5.15.10?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-console@5.15.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-console@5.15.2
 - pkg:maven/org.apache.activemq/activemq-console@5.15.2?classifier=sources

@@ -1,7 +1,11 @@
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@1.12.0
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@1.12.0?classifier=sources
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.0.0
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.0.0?classifier=sources
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.1.0
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.11.0
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.11.0?classifier=sources
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.2.0
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.2.0?classifier=sources
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.3.0
@@ -12,3 +16,7 @@
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.5.0?classifier=sources
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.6.0
 - pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.6.0?classifier=sources
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.7.0
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.7.0?classifier=sources
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.8.0
+- pkg:maven/io.konig/konig-omcs-deploy-maven-plugin@2.8.0?classifier=sources

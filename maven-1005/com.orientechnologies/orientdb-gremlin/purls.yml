@@ -59,6 +59,12 @@
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.21?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.22
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.22?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.23
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.23?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.24
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.24?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.25
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.25?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.2?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.3
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.0.3?classifier=sources
@@ -80,3 +86,5 @@
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.1.0-M2?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.1.0-M3
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.1.0-M3?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.1.0-beta1
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.1.0-beta1?classifier=sources

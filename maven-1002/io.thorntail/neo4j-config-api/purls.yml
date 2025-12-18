@@ -18,3 +18,5 @@
 - pkg:maven/io.thorntail/neo4j-config-api@1.6.4?classifier=sources
 - pkg:maven/io.thorntail/neo4j-config-api@1.7.0
 - pkg:maven/io.thorntail/neo4j-config-api@1.7.0?classifier=sources
+- pkg:maven/io.thorntail/neo4j-config-api@1.8.0
+- pkg:maven/io.thorntail/neo4j-config-api@1.8.0?classifier=sources

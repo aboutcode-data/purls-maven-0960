@@ -1,2 +1,6 @@
+- pkg:maven/dev.profunktor/fs2-rabbit_2.13@2.0.0
 - pkg:maven/dev.profunktor/fs2-rabbit_2.13@2.0.0-RC3
 - pkg:maven/dev.profunktor/fs2-rabbit_2.13@2.0.0-RC3?classifier=sources
+- pkg:maven/dev.profunktor/fs2-rabbit_2.13@2.0.0?classifier=sources
+- pkg:maven/dev.profunktor/fs2-rabbit_2.13@2.1.0
+- pkg:maven/dev.profunktor/fs2-rabbit_2.13@2.1.0?classifier=sources

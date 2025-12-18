@@ -40,6 +40,8 @@
 - pkg:maven/io.github.cactacea/core_2.12@19.1.1?classifier=sources
 - pkg:maven/io.github.cactacea/core_2.12@19.1.2
 - pkg:maven/io.github.cactacea/core_2.12@19.1.2?classifier=sources
+- pkg:maven/io.github.cactacea/core_2.12@19.11.0
+- pkg:maven/io.github.cactacea/core_2.12@19.11.0?classifier=sources
 - pkg:maven/io.github.cactacea/core_2.12@19.3.0
 - pkg:maven/io.github.cactacea/core_2.12@19.3.0?classifier=sources
 - pkg:maven/io.github.cactacea/core_2.12@19.3.1
@@ -70,3 +72,13 @@
 - pkg:maven/io.github.cactacea/core_2.12@19.7.0?classifier=sources
 - pkg:maven/io.github.cactacea/core_2.12@19.7.1
 - pkg:maven/io.github.cactacea/core_2.12@19.7.1?classifier=sources
+- pkg:maven/io.github.cactacea/core_2.12@19.9.0
+- pkg:maven/io.github.cactacea/core_2.12@19.9.0?classifier=sources
+- pkg:maven/io.github.cactacea/core_2.12@19.9.1
+- pkg:maven/io.github.cactacea/core_2.12@19.9.1?classifier=sources
+- pkg:maven/io.github.cactacea/core_2.12@19.9.2
+- pkg:maven/io.github.cactacea/core_2.12@19.9.2?classifier=sources
+- pkg:maven/io.github.cactacea/core_2.12@19.9.3
+- pkg:maven/io.github.cactacea/core_2.12@19.9.3?classifier=sources
+- pkg:maven/io.github.cactacea/core_2.12@19.9.4
+- pkg:maven/io.github.cactacea/core_2.12@19.9.4?classifier=sources

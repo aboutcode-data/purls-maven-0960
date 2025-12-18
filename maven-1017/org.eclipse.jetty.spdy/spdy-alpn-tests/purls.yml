@@ -52,6 +52,8 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.27.v20190403?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.28.v20190418
 - pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.28.v20190418?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.29.v20191105
+- pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.29.v20191105?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.3.v20140905?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-alpn-tests@9.2.4.v20141103

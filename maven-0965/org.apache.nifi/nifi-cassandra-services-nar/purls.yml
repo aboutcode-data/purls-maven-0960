@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.nifi/nifi-cassandra-services-nar@1.10.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-cassandra-services-nar@1.9.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-cassandra-services-nar@1.9.1?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-cassandra-services-nar@1.9.2?classifier=sources

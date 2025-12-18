@@ -35,6 +35,8 @@
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.2
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.20
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.20?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-paymium@4.3.21
+- pkg:maven/org.knowm.xchange/xchange-paymium@4.3.21?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.2?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.3
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.3?classifier=sources
@@ -50,3 +52,5 @@
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.8?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.9
 - pkg:maven/org.knowm.xchange/xchange-paymium@4.3.9?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-paymium@4.4.0
+- pkg:maven/org.knowm.xchange/xchange-paymium@4.4.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.4-RC1
 - pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.4-RC1?classifier=sources
 - pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.4?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.5
+- pkg:maven/org.scalatra.scalate/scalate-util_2.12@1.9.5?classifier=sources

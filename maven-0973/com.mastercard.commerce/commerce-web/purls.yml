@@ -2,3 +2,9 @@
 - pkg:maven/com.mastercard.commerce/commerce-web@1.0.0-beta1?type=aar
 - pkg:maven/com.mastercard.commerce/commerce-web@1.0.0-beta3?classifier=sources
 - pkg:maven/com.mastercard.commerce/commerce-web@1.0.0-beta3?type=aar
+- pkg:maven/com.mastercard.commerce/commerce-web@1.0.0?classifier=sources
+- pkg:maven/com.mastercard.commerce/commerce-web@1.0.0?type=aar
+- pkg:maven/com.mastercard.commerce/commerce-web@1.0.1?classifier=sources
+- pkg:maven/com.mastercard.commerce/commerce-web@1.0.1?type=aar
+- pkg:maven/com.mastercard.commerce/commerce-web@1.0.2?classifier=sources
+- pkg:maven/com.mastercard.commerce/commerce-web@1.0.2?type=aar

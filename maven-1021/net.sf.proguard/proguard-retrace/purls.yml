@@ -52,3 +52,5 @@
 - pkg:maven/net.sf.proguard/proguard-retrace@6.1.0beta2?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-retrace@6.1.1
 - pkg:maven/net.sf.proguard/proguard-retrace@6.1.1?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-retrace@6.2.0
+- pkg:maven/net.sf.proguard/proguard-retrace@6.2.0?classifier=sources

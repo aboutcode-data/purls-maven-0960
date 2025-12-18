@@ -1,2 +1,6 @@
 - pkg:maven/com.mastfrog/util-fileformat@2.5.0
 - pkg:maven/com.mastfrog/util-fileformat@2.5.0?classifier=sources
+- pkg:maven/com.mastfrog/util-fileformat@2.6.0
+- pkg:maven/com.mastfrog/util-fileformat@2.6.0?classifier=sources
+- pkg:maven/com.mastfrog/util-fileformat@2.6.1
+- pkg:maven/com.mastfrog/util-fileformat@2.6.1?classifier=sources

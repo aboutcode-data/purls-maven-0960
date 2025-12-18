@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.websocket/jakarta.websocket-api@1.1.1
 - pkg:maven/jakarta.websocket/jakarta.websocket-api@1.1.1?classifier=sources
+- pkg:maven/jakarta.websocket/jakarta.websocket-api@1.1.2
+- pkg:maven/jakarta.websocket/jakarta.websocket-api@1.1.2?classifier=sources

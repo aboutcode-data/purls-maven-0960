@@ -10,6 +10,8 @@
 - pkg:maven/com.github.fppt/jedis-mock@0.1.14?classifier=sources
 - pkg:maven/com.github.fppt/jedis-mock@0.1.15
 - pkg:maven/com.github.fppt/jedis-mock@0.1.15?classifier=sources
+- pkg:maven/com.github.fppt/jedis-mock@0.1.16
+- pkg:maven/com.github.fppt/jedis-mock@0.1.16?classifier=sources
 - pkg:maven/com.github.fppt/jedis-mock@0.1.6
 - pkg:maven/com.github.fppt/jedis-mock@0.1.6?classifier=sources
 - pkg:maven/com.github.fppt/jedis-mock@0.1.7

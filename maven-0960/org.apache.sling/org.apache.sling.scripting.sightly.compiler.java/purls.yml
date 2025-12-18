@@ -43,3 +43,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler.java@1.1.2-1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler.java@1.1.2-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler.java@1.1.2-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler.java@1.1.4-1.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler.java@1.1.4-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler.java@1.1.4-1.4.0?classifier=sources

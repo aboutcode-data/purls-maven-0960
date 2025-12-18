@@ -14,9 +14,13 @@
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.6.0-RC1
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.6.0-RC1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.6.0?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-MS1
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-MS1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-MS2
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-MS2?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-MS3
 - pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-MS3?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-RC1
+- pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0-RC1?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/maven-commmon-constraints@1.7.0?classifier=sources

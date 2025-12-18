@@ -1,3 +1,5 @@
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.10
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.10?classifier=sources
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.8
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.8?classifier=sources
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.9

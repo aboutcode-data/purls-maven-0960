@@ -16,6 +16,8 @@
 - pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.17?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.19
 - pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.19?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.20
+- pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.20?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.9
 - pkg:maven/fr.ird.observe.toolkit/common-validation@3.7.9?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.10
@@ -32,6 +34,12 @@
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.15?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.16
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.16?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-validation@4.17
+- pkg:maven/fr.ird.observe.toolkit/common-validation@4.17?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-validation@4.18
+- pkg:maven/fr.ird.observe.toolkit/common-validation@4.18?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-validation@4.19
+- pkg:maven/fr.ird.observe.toolkit/common-validation@4.19?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.7
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.7?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-validation@4.9

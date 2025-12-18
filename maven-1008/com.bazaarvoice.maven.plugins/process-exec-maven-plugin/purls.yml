@@ -6,3 +6,5 @@
 - pkg:maven/com.bazaarvoice.maven.plugins/process-exec-maven-plugin@0.7?classifier=sources
 - pkg:maven/com.bazaarvoice.maven.plugins/process-exec-maven-plugin@0.8
 - pkg:maven/com.bazaarvoice.maven.plugins/process-exec-maven-plugin@0.8?classifier=sources
+- pkg:maven/com.bazaarvoice.maven.plugins/process-exec-maven-plugin@0.9
+- pkg:maven/com.bazaarvoice.maven.plugins/process-exec-maven-plugin@0.9?classifier=sources

@@ -9,6 +9,8 @@
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.0
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.0?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.1
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.11
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.11?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.1?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.2
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.2?classifier=sources
@@ -24,3 +26,11 @@
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.7?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.8
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.8?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.9
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@1.0.9?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.0
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.0?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.1
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.1?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.2
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.2?classifier=sources

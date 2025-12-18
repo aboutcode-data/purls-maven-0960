@@ -1,0 +1,4 @@
+- pkg:maven/com.facebook.airlift/stats@0.185
+- pkg:maven/com.facebook.airlift/stats@0.185?classifier=sources
+- pkg:maven/com.facebook.airlift/stats@0.186
+- pkg:maven/com.facebook.airlift/stats@0.186?classifier=sources

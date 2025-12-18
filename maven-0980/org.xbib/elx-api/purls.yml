@@ -1,5 +1,7 @@
 - pkg:maven/org.xbib/elx-api@2.2.1.10
 - pkg:maven/org.xbib/elx-api@2.2.1.10?classifier=sources
+- pkg:maven/org.xbib/elx-api@2.2.1.13
+- pkg:maven/org.xbib/elx-api@2.2.1.13?classifier=sources
 - pkg:maven/org.xbib/elx-api@2.2.1.7
 - pkg:maven/org.xbib/elx-api@2.2.1.7?classifier=sources
 - pkg:maven/org.xbib/elx-api@2.2.1.8

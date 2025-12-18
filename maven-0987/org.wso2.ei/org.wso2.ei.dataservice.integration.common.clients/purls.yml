@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@1.1.0
+- pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@1.1.0?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@6.1.1-update10
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@6.1.1-update10?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@6.1.1-update11

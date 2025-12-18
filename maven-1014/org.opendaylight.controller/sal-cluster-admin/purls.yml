@@ -1,0 +1,10 @@
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.0-Boron
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.0-Boron?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.1-Boron-SR1
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.1-Boron-SR1?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.2-Boron-SR2
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.2-Boron-SR2?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.3-Boron-SR3
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.3-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.4-Boron-SR4
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin@1.4.4-Boron-SR4?classifier=sources

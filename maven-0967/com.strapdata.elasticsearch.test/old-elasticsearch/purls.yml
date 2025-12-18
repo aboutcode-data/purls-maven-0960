@@ -8,3 +8,7 @@
 - pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.16?classifier=sources
 - pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.17
 - pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.17?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.19
+- pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.19?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.20
+- pkg:maven/com.strapdata.elasticsearch.test/old-elasticsearch@6.2.3.20?classifier=sources

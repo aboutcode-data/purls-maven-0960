@@ -54,6 +54,16 @@
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.23.0.Final?type=war
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.24.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.24.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.25.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.26.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.27.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.28.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.29.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.29.0.Final?type=war
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.3.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.3.0.Final?type=war
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-showcase-standalone@7.4.1.Final?classifier=sources

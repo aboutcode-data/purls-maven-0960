@@ -1,2 +1,6 @@
 - pkg:maven/com.fastchar/fastchar-pay@1.0
+- pkg:maven/com.fastchar/fastchar-pay@1.0.3
+- pkg:maven/com.fastchar/fastchar-pay@1.0.3?classifier=sources
+- pkg:maven/com.fastchar/fastchar-pay@1.04
+- pkg:maven/com.fastchar/fastchar-pay@1.04?classifier=sources
 - pkg:maven/com.fastchar/fastchar-pay@1.0?classifier=sources

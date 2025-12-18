@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.james/james-server-guice-mailet@3.2.0?classifier=sources
 - pkg:maven/org.apache.james/james-server-guice-mailet@3.3.0
 - pkg:maven/org.apache.james/james-server-guice-mailet@3.3.0?classifier=sources
+- pkg:maven/org.apache.james/james-server-guice-mailet@3.4.0
+- pkg:maven/org.apache.james/james-server-guice-mailet@3.4.0?classifier=sources

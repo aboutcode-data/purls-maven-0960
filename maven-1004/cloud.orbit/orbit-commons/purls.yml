@@ -72,6 +72,8 @@
 - pkg:maven/cloud.orbit/orbit-commons@1.11.2-placementflush
 - pkg:maven/cloud.orbit/orbit-commons@1.11.2-placementflush?classifier=sources
 - pkg:maven/cloud.orbit/orbit-commons@1.11.2?classifier=sources
+- pkg:maven/cloud.orbit/orbit-commons@1.11.3-mrkt
+- pkg:maven/cloud.orbit/orbit-commons@1.11.3-mrkt?classifier=sources
 - pkg:maven/cloud.orbit/orbit-commons@1.12.0
 - pkg:maven/cloud.orbit/orbit-commons@1.12.0?classifier=sources
 - pkg:maven/cloud.orbit/orbit-commons@1.12.1

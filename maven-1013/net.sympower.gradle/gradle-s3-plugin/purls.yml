@@ -1,2 +1,4 @@
 - pkg:maven/net.sympower.gradle/gradle-s3-plugin@1.0.5
 - pkg:maven/net.sympower.gradle/gradle-s3-plugin@1.0.5?classifier=sources
+- pkg:maven/net.sympower.gradle/gradle-s3-plugin@1.0.6
+- pkg:maven/net.sympower.gradle/gradle-s3-plugin@1.0.6?classifier=sources

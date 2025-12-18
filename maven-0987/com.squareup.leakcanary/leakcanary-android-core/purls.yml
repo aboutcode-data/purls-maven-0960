@@ -8,3 +8,5 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.0-beta-1?type=aar
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.0-beta-2?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.0-beta-2?type=aar
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.0-beta-3?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.0-beta-3?type=aar

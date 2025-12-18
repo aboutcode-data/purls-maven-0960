@@ -4,6 +4,8 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.0.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.1.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.1.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.10.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.10.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.2.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.2.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-fetcher@1.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.1
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-apk@0.0.1?classifier=sources

@@ -76,3 +76,5 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@7.1.3?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@7.1.4
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@7.1.4?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@7.1.5
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-access-control@7.1.5?classifier=sources

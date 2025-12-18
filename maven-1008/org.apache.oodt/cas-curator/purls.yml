@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.oodt/cas-curator@1.2.5?type=war
 - pkg:maven/org.apache.oodt/cas-curator@1.2?classifier=sources
 - pkg:maven/org.apache.oodt/cas-curator@1.2?type=war
+- pkg:maven/org.apache.oodt/cas-curator@1.9?classifier=sources
+- pkg:maven/org.apache.oodt/cas-curator@1.9?type=war

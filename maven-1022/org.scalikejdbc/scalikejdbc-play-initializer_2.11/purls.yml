@@ -32,5 +32,9 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.6.0?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.0-scalikejdbc-3.3
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.0-scalikejdbc-3.3?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.0-scalikejdbc-3.4
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.0-scalikejdbc-3.4?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.1-scalikejdbc-3.3
 - pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.1-scalikejdbc-3.3?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.1-scalikejdbc-3.4
+- pkg:maven/org.scalikejdbc/scalikejdbc-play-initializer_2.11@2.7.1-scalikejdbc-3.4?classifier=sources

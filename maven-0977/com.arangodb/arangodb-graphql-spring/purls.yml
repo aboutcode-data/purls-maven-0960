@@ -1,0 +1,4 @@
+- pkg:maven/com.arangodb/arangodb-graphql-spring@1.0
+- pkg:maven/com.arangodb/arangodb-graphql-spring@1.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-graphql-spring@1.1
+- pkg:maven/com.arangodb/arangodb-graphql-spring@1.1?classifier=sources

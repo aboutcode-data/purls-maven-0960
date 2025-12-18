@@ -1,2 +1,10 @@
 - pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.18.0
 - pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.18.0?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.20.0
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.20.0?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.21.0
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.21.0?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.21.1
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.21.1?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.21.2
+- pkg:maven/com.squareup.workflow/workflow-testing-jvm@0.21.2?classifier=sources

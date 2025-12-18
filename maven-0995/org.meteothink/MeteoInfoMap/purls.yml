@@ -4,3 +4,7 @@
 - pkg:maven/org.meteothink/MeteoInfoMap@1.8.5
 - pkg:maven/org.meteothink/MeteoInfoMap@1.8.5?classifier=sources
 - pkg:maven/org.meteothink/MeteoInfoMap@1.8?classifier=sources
+- pkg:maven/org.meteothink/MeteoInfoMap@1.9
+- pkg:maven/org.meteothink/MeteoInfoMap@1.9?classifier=sources
+- pkg:maven/org.meteothink/MeteoInfoMap@2.0
+- pkg:maven/org.meteothink/MeteoInfoMap@2.0?classifier=sources

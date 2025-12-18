@@ -8,5 +8,9 @@
 - pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.2.2?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.2.3
 - pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.2.3?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.2.4
+- pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.2.4?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.3.0
 - pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.3.0?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.4.0
+- pkg:maven/com.alibaba.blink/flink-cep_2.11@blink-3.4.0?classifier=sources

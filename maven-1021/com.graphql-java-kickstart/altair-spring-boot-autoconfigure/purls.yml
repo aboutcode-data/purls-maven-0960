@@ -1,5 +1,9 @@
 - pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.10.0
 - pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.10.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.11.0
+- pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.11.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.11.1
+- pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.11.1?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.7.0
 - pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.7.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/altair-spring-boot-autoconfigure@5.7.1

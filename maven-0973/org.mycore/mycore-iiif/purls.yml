@@ -7,6 +7,8 @@
 - pkg:maven/org.mycore/mycore-iiif@2018.06.0.2?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2018.06.0.3
 - pkg:maven/org.mycore/mycore-iiif@2018.06.0.3?classifier=sources
+- pkg:maven/org.mycore/mycore-iiif@2018.06.0.4
+- pkg:maven/org.mycore/mycore-iiif@2018.06.0.4?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2018.06.0?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2018.08
 - pkg:maven/org.mycore/mycore-iiif@2018.08?classifier=sources
@@ -16,3 +18,5 @@
 - pkg:maven/org.mycore/mycore-iiif@2019.02?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2019.05
 - pkg:maven/org.mycore/mycore-iiif@2019.05?classifier=sources
+- pkg:maven/org.mycore/mycore-iiif@2019.06.1
+- pkg:maven/org.mycore/mycore-iiif@2019.06.1?classifier=sources

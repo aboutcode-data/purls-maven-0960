@@ -1,4 +1,9 @@
 - pkg:maven/com.tencent.map/sdk-compat-v4@4.2.5?classifier=sources
 - pkg:maven/com.tencent.map/sdk-compat-v4@4.2.5?type=aar
 - pkg:maven/com.tencent.map/sdk-compat-v4@4.2.6.1?type=aar
+- pkg:maven/com.tencent.map/sdk-compat-v4@4.2.6.2?type=aar
 - pkg:maven/com.tencent.map/sdk-compat-v4@4.2.6?type=aar
+- pkg:maven/com.tencent.map/sdk-compat-v4@4.2.7.1?type=aar
+- pkg:maven/com.tencent.map/sdk-compat-v4@4.2.7?type=aar
+- pkg:maven/com.tencent.map/sdk-compat-v4@4.2.8?type=aar
+- pkg:maven/com.tencent.map/sdk-compat-v4@4.2.9?type=aar

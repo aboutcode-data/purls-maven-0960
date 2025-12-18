@@ -6,3 +6,7 @@
 - pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.3.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.4.0
 - pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.4.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.5.0
+- pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.5.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.5.1
+- pkg:maven/org.eclipse.tycho/tycho-lib-detector@1.5.1?classifier=sources

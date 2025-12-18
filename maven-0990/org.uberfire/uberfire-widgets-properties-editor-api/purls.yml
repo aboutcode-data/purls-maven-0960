@@ -148,6 +148,12 @@
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.20.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.21.0.Final
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.22.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.24.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.3.0.Final
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.4.0.Final
@@ -162,3 +168,7 @@
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.8.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.9.0.Final
 - pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@2.9.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@7.28.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@7.29.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-properties-editor-api@7.29.0.Final?classifier=sources

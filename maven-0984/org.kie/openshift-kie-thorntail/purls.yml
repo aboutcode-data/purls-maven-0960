@@ -1,0 +1,8 @@
+- pkg:maven/org.kie/openshift-kie-thorntail@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie/openshift-kie-thorntail@7.25.0.Final?type=war
+- pkg:maven/org.kie/openshift-kie-thorntail@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie/openshift-kie-thorntail@7.26.0.Final?type=war
+- pkg:maven/org.kie/openshift-kie-thorntail@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie/openshift-kie-thorntail@7.27.0.Final?type=war
+- pkg:maven/org.kie/openshift-kie-thorntail@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie/openshift-kie-thorntail@7.28.0.Final?type=war

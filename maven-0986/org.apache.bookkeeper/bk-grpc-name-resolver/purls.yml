@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.10.0
+- pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.10.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.9.0
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.9.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.9.1

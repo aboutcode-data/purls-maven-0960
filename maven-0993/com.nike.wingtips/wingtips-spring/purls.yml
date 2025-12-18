@@ -26,3 +26,5 @@
 - pkg:maven/com.nike.wingtips/wingtips-spring@0.20.0?classifier=sources
 - pkg:maven/com.nike.wingtips/wingtips-spring@0.20.1
 - pkg:maven/com.nike.wingtips/wingtips-spring@0.20.1?classifier=sources
+- pkg:maven/com.nike.wingtips/wingtips-spring@0.21.0
+- pkg:maven/com.nike.wingtips/wingtips-spring@0.21.0?classifier=sources

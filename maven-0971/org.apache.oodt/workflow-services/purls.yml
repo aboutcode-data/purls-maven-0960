@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.oodt/workflow-services@1.2.5?type=war
 - pkg:maven/org.apache.oodt/workflow-services@1.2?classifier=sources
 - pkg:maven/org.apache.oodt/workflow-services@1.2?type=war
+- pkg:maven/org.apache.oodt/workflow-services@1.9?classifier=sources
+- pkg:maven/org.apache.oodt/workflow-services@1.9?type=war

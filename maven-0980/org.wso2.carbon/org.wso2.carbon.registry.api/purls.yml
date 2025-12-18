@@ -17,3 +17,5 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.api@4.4.35
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.api@4.4.36
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.api@4.4.37
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.api@4.5.1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.api@4.5.1?classifier=sources

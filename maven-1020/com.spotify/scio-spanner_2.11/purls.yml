@@ -18,3 +18,7 @@
 - pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-alpha1?classifier=sources
 - pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-alpha2
 - pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-alpha2?classifier=sources
+- pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-beta1
+- pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-beta1?classifier=sources
+- pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-beta2
+- pkg:maven/com.spotify/scio-spanner_2.11@0.8.0-beta2?classifier=sources

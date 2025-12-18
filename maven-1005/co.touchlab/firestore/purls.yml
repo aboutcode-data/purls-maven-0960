@@ -1,1 +1,3 @@
 - pkg:maven/co.touchlab/firestore@0.1.0?classifier=sources
+- pkg:maven/co.touchlab/firestore@0.2.2?classifier=sources
+- pkg:maven/co.touchlab/firestore@0.2.5?classifier=sources

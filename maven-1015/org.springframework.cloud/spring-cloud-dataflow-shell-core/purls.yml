@@ -64,3 +64,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.2.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.2.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.2.2.RELEASE?classifier=sources

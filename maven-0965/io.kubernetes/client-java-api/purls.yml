@@ -30,3 +30,5 @@
 - pkg:maven/io.kubernetes/client-java-api@4.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api@5.0.0
 - pkg:maven/io.kubernetes/client-java-api@5.0.0?classifier=sources
+- pkg:maven/io.kubernetes/client-java-api@6.0.1
+- pkg:maven/io.kubernetes/client-java-api@6.0.1?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.monix/monix-java_2.11@3.0.0
 - pkg:maven/io.monix/monix-java_2.11@3.0.0-RC1
 - pkg:maven/io.monix/monix-java_2.11@3.0.0-RC1?classifier=sources
 - pkg:maven/io.monix/monix-java_2.11@3.0.0-RC2
@@ -14,3 +15,16 @@
 - pkg:maven/io.monix/monix-java_2.11@3.0.0-RC2?classifier=sources
 - pkg:maven/io.monix/monix-java_2.11@3.0.0-RC3
 - pkg:maven/io.monix/monix-java_2.11@3.0.0-RC3?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-RC4
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-RC4-99273a4
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-RC4-99273a4?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-RC4?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-RC5
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-RC5?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-bfc2b51
+- pkg:maven/io.monix/monix-java_2.11@3.0.0-bfc2b51?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.0.0?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.1.0
+- pkg:maven/io.monix/monix-java_2.11@3.1.0-2156c0e
+- pkg:maven/io.monix/monix-java_2.11@3.1.0-2156c0e?classifier=sources
+- pkg:maven/io.monix/monix-java_2.11@3.1.0?classifier=sources

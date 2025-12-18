@@ -70,6 +70,12 @@
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.8?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.9
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.16.9?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.17.0
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.17.0?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.17.1
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.17.1?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.17.2
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.17.2?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.2.0
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.2.0?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@0.3.0

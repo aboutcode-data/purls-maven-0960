@@ -15,3 +15,5 @@
 - pkg:maven/io.pravega/pravega-segmentstore-server-host@0.4.1
 - pkg:maven/io.pravega/pravega-segmentstore-server-host@0.4.1?classifier=sources
 - pkg:maven/io.pravega/pravega-segmentstore-server-host@0.5.0?classifier=sources
+- pkg:maven/io.pravega/pravega-segmentstore-server-host@0.5.1?classifier=sources
+- pkg:maven/io.pravega/pravega-segmentstore-server-host@0.6.0?classifier=sources

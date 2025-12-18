@@ -1,0 +1,6 @@
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@0.1.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@0.1.0?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@1.0.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@1.0.0?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@1.1.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@1.1.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.zeppelin/zeppelin-spark-dependencies@0.6.0?classifier=sources
 - pkg:maven/org.apache.zeppelin/zeppelin-spark-dependencies@0.8.0
 - pkg:maven/org.apache.zeppelin/zeppelin-spark-dependencies@0.8.1
+- pkg:maven/org.apache.zeppelin/zeppelin-spark-dependencies@0.8.2

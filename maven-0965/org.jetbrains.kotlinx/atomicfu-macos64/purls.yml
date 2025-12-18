@@ -1,3 +1,6 @@
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.11-gradle561?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.11?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.2-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.2?classifier=sources
@@ -8,3 +11,5 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.7?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.12.9?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.13.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-macos64@0.13.1?classifier=sources

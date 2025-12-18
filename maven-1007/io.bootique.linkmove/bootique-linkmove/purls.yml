@@ -16,3 +16,5 @@
 - pkg:maven/io.bootique.linkmove/bootique-linkmove@1.0.RC1
 - pkg:maven/io.bootique.linkmove/bootique-linkmove@1.0.RC1?classifier=sources
 - pkg:maven/io.bootique.linkmove/bootique-linkmove@1.0?classifier=sources
+- pkg:maven/io.bootique.linkmove/bootique-linkmove@1.1
+- pkg:maven/io.bootique.linkmove/bootique-linkmove@1.1?classifier=sources

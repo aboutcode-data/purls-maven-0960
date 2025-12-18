@@ -27,3 +27,7 @@
 - pkg:maven/io.ktor/ktor-client-core-js@1.2.3-rc
 - pkg:maven/io.ktor/ktor-client-core-js@1.2.3-rc?classifier=sources
 - pkg:maven/io.ktor/ktor-client-core-js@1.2.3?classifier=sources
+- pkg:maven/io.ktor/ktor-client-core-js@1.2.4
+- pkg:maven/io.ktor/ktor-client-core-js@1.2.4?classifier=sources
+- pkg:maven/io.ktor/ktor-client-core-js@1.2.5
+- pkg:maven/io.ktor/ktor-client-core-js@1.2.5?classifier=sources

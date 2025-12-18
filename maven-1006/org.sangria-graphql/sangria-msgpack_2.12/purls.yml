@@ -2,3 +2,5 @@
 - pkg:maven/org.sangria-graphql/sangria-msgpack_2.12@0.2.2?classifier=sources
 - pkg:maven/org.sangria-graphql/sangria-msgpack_2.12@1.0.0
 - pkg:maven/org.sangria-graphql/sangria-msgpack_2.12@1.0.0?classifier=sources
+- pkg:maven/org.sangria-graphql/sangria-msgpack_2.12@2.0.0
+- pkg:maven/org.sangria-graphql/sangria-msgpack_2.12@2.0.0?classifier=sources

@@ -10,4 +10,6 @@
 - pkg:maven/org.basex/basex-api@9.1?classifier=sources
 - pkg:maven/org.basex/basex-api@9.2.1?classifier=sources
 - pkg:maven/org.basex/basex-api@9.2.2?classifier=sources
+- pkg:maven/org.basex/basex-api@9.2.3?classifier=sources
+- pkg:maven/org.basex/basex-api@9.2.4?classifier=sources
 - pkg:maven/org.basex/basex-api@9.2?classifier=sources

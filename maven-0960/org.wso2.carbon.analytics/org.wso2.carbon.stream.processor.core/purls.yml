@@ -1069,6 +1069,8 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.26?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.2?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.3
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.34
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.34?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.3?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.4
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.stream.processor.core@2.1.4?classifier=sources

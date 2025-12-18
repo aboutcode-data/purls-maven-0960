@@ -36,6 +36,12 @@
 - pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.27?classifier=sources
 - pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.28
 - pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.28?classifier=sources
+- pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.29
+- pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.29?classifier=sources
+- pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.30
+- pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.30?classifier=sources
+- pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.31
+- pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.31?classifier=sources
 - pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.4
 - pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.4?classifier=sources
 - pkg:maven/org.scala-js/scalajs-cli_2.11@0.6.5
@@ -62,3 +68,5 @@
 - pkg:maven/org.scala-js/scalajs-cli_2.11@1.0.0-M7?classifier=sources
 - pkg:maven/org.scala-js/scalajs-cli_2.11@1.0.0-M8
 - pkg:maven/org.scala-js/scalajs-cli_2.11@1.0.0-M8?classifier=sources
+- pkg:maven/org.scala-js/scalajs-cli_2.11@1.0.0-RC1
+- pkg:maven/org.scala-js/scalajs-cli_2.11@1.0.0-RC1?classifier=sources

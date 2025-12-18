@@ -1,0 +1,10 @@
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-alpha
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-alpha?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-beta
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-beta2
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-beta2?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-beta3
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-beta3?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0-beta?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.websocket.transport@1.1.0?classifier=sources

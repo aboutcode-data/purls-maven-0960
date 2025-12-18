@@ -143,6 +143,12 @@
 - pkg:maven/com.danielflower.apprunner/app-runner@2.1.0
 - pkg:maven/com.danielflower.apprunner/app-runner@2.1.0?classifier=sources
 - pkg:maven/com.danielflower.apprunner/app-runner@2.1.1
+- pkg:maven/com.danielflower.apprunner/app-runner@2.1.12
+- pkg:maven/com.danielflower.apprunner/app-runner@2.1.12?classifier=sources
+- pkg:maven/com.danielflower.apprunner/app-runner@2.1.15
+- pkg:maven/com.danielflower.apprunner/app-runner@2.1.15?classifier=sources
+- pkg:maven/com.danielflower.apprunner/app-runner@2.1.17
+- pkg:maven/com.danielflower.apprunner/app-runner@2.1.17?classifier=sources
 - pkg:maven/com.danielflower.apprunner/app-runner@2.1.1?classifier=sources
 - pkg:maven/com.danielflower.apprunner/app-runner@2.1.2
 - pkg:maven/com.danielflower.apprunner/app-runner@2.1.2?classifier=sources

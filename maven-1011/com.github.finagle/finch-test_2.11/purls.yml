@@ -70,6 +70,10 @@
 - pkg:maven/com.github.finagle/finch-test_2.11@0.28.0?classifier=sources
 - pkg:maven/com.github.finagle/finch-test_2.11@0.29.0
 - pkg:maven/com.github.finagle/finch-test_2.11@0.29.0?classifier=sources
+- pkg:maven/com.github.finagle/finch-test_2.11@0.30.0
+- pkg:maven/com.github.finagle/finch-test_2.11@0.30.0?classifier=sources
+- pkg:maven/com.github.finagle/finch-test_2.11@0.31.0
+- pkg:maven/com.github.finagle/finch-test_2.11@0.31.0?classifier=sources
 - pkg:maven/com.github.finagle/finch-test_2.11@0.9.0
 - pkg:maven/com.github.finagle/finch-test_2.11@0.9.0?classifier=sources
 - pkg:maven/com.github.finagle/finch-test_2.11@0.9.1

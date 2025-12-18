@@ -22,6 +22,8 @@
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@12.0.0?type=zip
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@13.0.0?classifier=sources
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@13.0.0?type=zip
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@14.0.0?classifier=sources
+- pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@14.0.0?type=zip
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@9.0.0?classifier=sources
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@9.0.0?type=zip
 - pkg:maven/com.icfolson.aem.groovy.console/aem-groovy-console@9.0.1?classifier=sources

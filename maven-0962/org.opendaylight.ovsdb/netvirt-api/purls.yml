@@ -1,0 +1,4 @@
+- pkg:maven/org.opendaylight.ovsdb/netvirt-api@1.2.1-Beryllium
+- pkg:maven/org.opendaylight.ovsdb/netvirt-api@1.2.1-Beryllium?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/netvirt-api@1.2.2-Beryllium-SR1
+- pkg:maven/org.opendaylight.ovsdb/netvirt-api@1.2.2-Beryllium-SR1?classifier=sources

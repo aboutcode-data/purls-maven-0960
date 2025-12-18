@@ -69,6 +69,12 @@
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.12
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.13
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.14
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.14?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.15
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.15?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.2
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.2?classifier=sources
@@ -86,8 +92,11 @@
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.9
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.1.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-RC1
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-RC1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-RC2
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-RC2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-alpha01
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-alpha02
@@ -100,3 +109,8 @@
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-alpha05?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-alpha06
 - pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0-alpha06?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.1
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.2
+- pkg:maven/org.neo4j/neo4j-ogm-http-driver@3.2.2?classifier=sources

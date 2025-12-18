@@ -20,6 +20,10 @@
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.0.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.1.0
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.1.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.10.0
+- pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.10.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.10.1
+- pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.10.1?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.2.0
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.2.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-static-discovery-uri@2.3.0

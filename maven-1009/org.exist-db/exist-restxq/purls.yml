@@ -1,2 +1,6 @@
+- pkg:maven/org.exist-db/exist-restxq@5.0.0
 - pkg:maven/org.exist-db/exist-restxq@5.0.0-RC8
 - pkg:maven/org.exist-db/exist-restxq@5.0.0-RC8?classifier=sources
+- pkg:maven/org.exist-db/exist-restxq@5.0.0?classifier=sources
+- pkg:maven/org.exist-db/exist-restxq@5.1.0
+- pkg:maven/org.exist-db/exist-restxq@5.1.0?classifier=sources

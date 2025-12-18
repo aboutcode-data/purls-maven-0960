@@ -13,6 +13,9 @@
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@1.0.4
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@1.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@1.0.5
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@1.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.0
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.0?classifier=sources-commercial
@@ -22,6 +25,15 @@
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.2
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.3
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.4
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@3.0.0
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.imageio.plugins@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@3.0.1
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@3.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.imageio.plugins@3.0.1?classifier=sources-commercial

@@ -1,0 +1,5 @@
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5@7.132.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5@7.133.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5@7.136.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5@7.138.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5@7.140.12?classifier=sources

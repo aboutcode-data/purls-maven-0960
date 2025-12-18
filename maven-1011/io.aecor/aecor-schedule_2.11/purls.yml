@@ -26,3 +26,5 @@
 - pkg:maven/io.aecor/aecor-schedule_2.11@0.15.2-old
 - pkg:maven/io.aecor/aecor-schedule_2.11@0.15.2-old?classifier=sources
 - pkg:maven/io.aecor/aecor-schedule_2.11@0.15.2?classifier=sources
+- pkg:maven/io.aecor/aecor-schedule_2.11@0.15.3
+- pkg:maven/io.aecor/aecor-schedule_2.11@0.15.3?classifier=sources

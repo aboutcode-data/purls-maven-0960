@@ -8,3 +8,5 @@
 - pkg:maven/ch.ge.etat.securite/gina-ldap-client@3.0.1.7?classifier=sources
 - pkg:maven/ch.ge.etat.securite/gina-ldap-client@3.0.2
 - pkg:maven/ch.ge.etat.securite/gina-ldap-client@3.0.2?classifier=sources
+- pkg:maven/ch.ge.etat.securite/gina-ldap-client@4.0.0
+- pkg:maven/ch.ge.etat.securite/gina-ldap-client@4.0.0?classifier=sources

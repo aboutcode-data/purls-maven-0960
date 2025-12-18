@@ -64,6 +64,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-stateless@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-stateless@7.14.0
 - pkg:maven/org.wicketstuff/wicketstuff-stateless@7.14.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-stateless@7.15.0
+- pkg:maven/org.wicketstuff/wicketstuff-stateless@7.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-stateless@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-stateless@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-stateless@7.3.0

@@ -24,3 +24,13 @@
 - pkg:maven/io.nextflow/nf-httpfs@19.07.0-edge
 - pkg:maven/io.nextflow/nf-httpfs@19.07.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-httpfs@19.07.0?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.08.0-edge
+- pkg:maven/io.nextflow/nf-httpfs@19.08.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.08.1-edge
+- pkg:maven/io.nextflow/nf-httpfs@19.08.1-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.09.0-edge
+- pkg:maven/io.nextflow/nf-httpfs@19.09.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.09.0-egde
+- pkg:maven/io.nextflow/nf-httpfs@19.09.0-egde?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@19.10.0
+- pkg:maven/io.nextflow/nf-httpfs@19.10.0?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.2.0?classifier=sources
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.3.0
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.3.0?classifier=sources
+- pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.4.0
+- pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.4.0?classifier=sources
+- pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.5.0
+- pkg:maven/org.apache.skywalking/sofa-rpc-plugin@6.5.0?classifier=sources

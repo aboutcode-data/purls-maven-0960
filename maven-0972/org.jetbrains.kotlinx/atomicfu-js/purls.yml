@@ -25,6 +25,12 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.11.9-eap13?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.11.9?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.1
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.10
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.11
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.11-gradle561
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.11-gradle561?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.11?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.2
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.2-eap13
@@ -44,3 +50,7 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.9
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.12.9?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.13.0
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.13.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.13.1
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-js@0.13.1?classifier=sources

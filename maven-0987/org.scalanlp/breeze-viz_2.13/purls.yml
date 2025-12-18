@@ -1,2 +1,4 @@
+- pkg:maven/org.scalanlp/breeze-viz_2.13@1.0
 - pkg:maven/org.scalanlp/breeze-viz_2.13@1.0-RC4
 - pkg:maven/org.scalanlp/breeze-viz_2.13@1.0-RC4?classifier=sources
+- pkg:maven/org.scalanlp/breeze-viz_2.13@1.0?classifier=sources

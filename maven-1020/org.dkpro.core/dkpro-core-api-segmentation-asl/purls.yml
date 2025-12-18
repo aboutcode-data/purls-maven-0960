@@ -1,2 +1,6 @@
 - pkg:maven/org.dkpro.core/dkpro-core-api-segmentation-asl@1.11.0
 - pkg:maven/org.dkpro.core/dkpro-core-api-segmentation-asl@1.11.0?classifier=sources
+- pkg:maven/org.dkpro.core/dkpro-core-api-segmentation-asl@1.11.1
+- pkg:maven/org.dkpro.core/dkpro-core-api-segmentation-asl@1.11.1?classifier=sources
+- pkg:maven/org.dkpro.core/dkpro-core-api-segmentation-asl@2.0.0
+- pkg:maven/org.dkpro.core/dkpro-core-api-segmentation-asl@2.0.0?classifier=sources

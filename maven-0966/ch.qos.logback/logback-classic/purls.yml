@@ -145,3 +145,5 @@
 - pkg:maven/ch.qos.logback/logback-classic@1.3.0-alpha3?classifier=sources
 - pkg:maven/ch.qos.logback/logback-classic@1.3.0-alpha4
 - pkg:maven/ch.qos.logback/logback-classic@1.3.0-alpha4?classifier=sources
+- pkg:maven/ch.qos.logback/logback-classic@1.3.0-alpha5
+- pkg:maven/ch.qos.logback/logback-classic@1.3.0-alpha5?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.sangria-graphql/sangria-play-json_2.12@1.0.4?classifier=sources
 - pkg:maven/org.sangria-graphql/sangria-play-json_2.12@1.0.5
 - pkg:maven/org.sangria-graphql/sangria-play-json_2.12@1.0.5?classifier=sources
+- pkg:maven/org.sangria-graphql/sangria-play-json_2.12@2.0.0
+- pkg:maven/org.sangria-graphql/sangria-play-json_2.12@2.0.0?classifier=sources

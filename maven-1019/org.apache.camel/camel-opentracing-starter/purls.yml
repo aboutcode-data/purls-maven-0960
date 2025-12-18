@@ -52,10 +52,14 @@
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.23.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.23.3
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.23.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-opentracing-starter@2.23.4
+- pkg:maven/org.apache.camel/camel-opentracing-starter@2.23.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.24.0
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.24.1
 - pkg:maven/org.apache.camel/camel-opentracing-starter@2.24.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-opentracing-starter@2.24.2
+- pkg:maven/org.apache.camel/camel-opentracing-starter@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-M1
 - pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-M2
@@ -64,3 +68,9 @@
 - pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-M3?classifier=sources
 - pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-M4
 - pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-M4?classifier=sources
+- pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-RC1
+- pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-RC2
+- pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-RC3
+- pkg:maven/org.apache.camel/camel-opentracing-starter@3.0.0-RC3?classifier=sources

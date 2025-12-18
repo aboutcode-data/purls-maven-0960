@@ -1,5 +1,6 @@
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0-RC3
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0-RC3?classifier=sources
+- pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0-RC1
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0-RC1?classifier=sources
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0-RC2
@@ -8,3 +9,4 @@
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0-RC4?classifier=sources
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0-RC5
 - pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0-RC5?classifier=sources
+- pkg:maven/io.knotx/knotx-server-http-common-placeholders@2.0.0?classifier=sources

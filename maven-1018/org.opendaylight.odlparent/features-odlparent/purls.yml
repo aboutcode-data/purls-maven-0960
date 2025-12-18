@@ -1,0 +1,10 @@
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.6.0-Beryllium?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.6.1-Beryllium-SR1?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.6.2-Beryllium-SR2?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.6.3-Beryllium-SR3?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.6.4-Beryllium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.7.0-Boron?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.7.1-Boron-SR1?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.7.2-Boron-SR2?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.7.3-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-odlparent@1.7.4-Boron-SR4?classifier=sources

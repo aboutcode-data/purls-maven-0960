@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.17.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.18.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.18.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.19.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.19.0?classifier=sources

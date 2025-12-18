@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.carbondata/carbondata-examples-flink@1.6.0
+- pkg:maven/org.apache.carbondata/carbondata-examples-flink@1.6.0?classifier=sources
+- pkg:maven/org.apache.carbondata/carbondata-examples-flink@1.6.1
+- pkg:maven/org.apache.carbondata/carbondata-examples-flink@1.6.1?classifier=sources

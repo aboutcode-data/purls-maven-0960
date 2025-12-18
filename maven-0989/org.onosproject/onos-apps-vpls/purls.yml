@@ -23,5 +23,15 @@
 - pkg:maven/org.onosproject/onos-apps-vpls@1.8.9?classifier=sources
 - pkg:maven/org.onosproject/onos-apps-vpls@2.1.0
 - pkg:maven/org.onosproject/onos-apps-vpls@2.1.0?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.0
 - pkg:maven/org.onosproject/onos-apps-vpls@2.2.0-b1
 - pkg:maven/org.onosproject/onos-apps-vpls@2.2.0-b1?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.0-rc1
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.0-rc1?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.0-rc2
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.0-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.0?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.1-b2
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.1-b2?classifier=sources
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.1-b3
+- pkg:maven/org.onosproject/onos-apps-vpls@2.2.1-b3?classifier=sources
