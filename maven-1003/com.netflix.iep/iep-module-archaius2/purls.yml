@@ -24,7 +24,11 @@
 - pkg:maven/com.netflix.iep/iep-module-archaius2@0.1.25?classifier=sources
 - pkg:maven/com.netflix.iep/iep-module-archaius2@0.1.26
 - pkg:maven/com.netflix.iep/iep-module-archaius2@0.1.26?classifier=sources
+- pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.10
+- pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.10?classifier=sources
 - pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.7
 - pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.7?classifier=sources
 - pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.8
 - pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.8?classifier=sources
+- pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.9
+- pkg:maven/com.netflix.iep/iep-module-archaius2@2.6.9?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20201208-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20210302-1.31.0
 - pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20210302-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20210323-1.31.0
+- pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20210323-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20210413-1.31.0
+- pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev20210413-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev21-1.17.0-rc
 - pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev21-1.17.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admin-reports@reports_v1-rev22-1.17.0-rc

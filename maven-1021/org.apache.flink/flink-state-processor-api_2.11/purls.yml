@@ -20,6 +20,10 @@
 - pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.12.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.12.2
 - pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.12.2?classifier=sources
+- pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.12.3
+- pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.12.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.13.0
+- pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.13.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.9.0
 - pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.9.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-state-processor-api_2.11@1.9.1

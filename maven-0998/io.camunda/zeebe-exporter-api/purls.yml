@@ -1,0 +1,8 @@
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0-rc1
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0-rc2
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0-rc2?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0-rc3
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@1.0.0?classifier=sources

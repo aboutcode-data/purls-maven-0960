@@ -1,3 +1,5 @@
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@0.0.4?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@0.0.5?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@0.11.0
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@0.11.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@1.0.0
@@ -10,3 +12,6 @@
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@20.10.1?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.1.0
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.1.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.1.1
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.1.1?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.4.0?classifier=sources

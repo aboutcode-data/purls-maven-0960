@@ -10,3 +10,5 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent@0.17.0?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent@1.0.0?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent@1.0.1?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent@1.1.0?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent@1.2.0?classifier=sources

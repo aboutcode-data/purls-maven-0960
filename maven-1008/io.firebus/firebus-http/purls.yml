@@ -46,3 +46,5 @@
 - pkg:maven/io.firebus/firebus-http@1.1.8?classifier=sources
 - pkg:maven/io.firebus/firebus-http@1.1.9
 - pkg:maven/io.firebus/firebus-http@1.1.9?classifier=sources
+- pkg:maven/io.firebus/firebus-http@1.2.0
+- pkg:maven/io.firebus/firebus-http@1.2.0?classifier=sources

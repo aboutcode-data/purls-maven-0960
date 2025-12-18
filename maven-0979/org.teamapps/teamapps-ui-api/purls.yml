@@ -1,4 +1,8 @@
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.10
+- pkg:maven/org.teamapps/teamapps-ui-api@0.9.100
+- pkg:maven/org.teamapps/teamapps-ui-api@0.9.100?classifier=sources
+- pkg:maven/org.teamapps/teamapps-ui-api@0.9.101
+- pkg:maven/org.teamapps/teamapps-ui-api@0.9.101?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.10?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.11
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.11?classifier=sources
@@ -163,4 +167,6 @@
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.96?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.98
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.98?classifier=sources
+- pkg:maven/org.teamapps/teamapps-ui-api@0.9.99
+- pkg:maven/org.teamapps/teamapps-ui-api@0.9.99?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-api@0.9.9?classifier=sources

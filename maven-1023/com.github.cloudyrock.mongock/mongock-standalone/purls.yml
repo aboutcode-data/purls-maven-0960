@@ -72,6 +72,10 @@
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.2.7.BETA?classifier=sources
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.2.8.BETA
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.2.8.BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.12.BETA
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.12.BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.13.BETA
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.13.BETA?classifier=sources
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.3
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.3?classifier=sources
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.4
@@ -82,3 +86,9 @@
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.6?classifier=sources
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.7
 - pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.7?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.8
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@4.3.8?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@5.0.0.BETA
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@5.0.0.BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@5.0.1.BETA
+- pkg:maven/com.github.cloudyrock.mongock/mongock-standalone@5.0.1.BETA?classifier=sources

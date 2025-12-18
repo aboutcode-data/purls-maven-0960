@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.dashboard.integration.tests@4.0.0
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.dashboard.integration.tests@4.0.0-beta
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.dashboard.integration.tests@4.0.0-beta?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.dashboard.integration.tests@4.0.0?classifier=sources

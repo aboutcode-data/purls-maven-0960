@@ -61,6 +61,12 @@
 - pkg:maven/org.realityforge.arez.promise/arez-promise@0.119?classifier=sources
 - pkg:maven/org.realityforge.arez.promise/arez-promise@0.11?classifier=sources
 - pkg:maven/org.realityforge.arez.promise/arez-promise@0.12
+- pkg:maven/org.realityforge.arez.promise/arez-promise@0.120
+- pkg:maven/org.realityforge.arez.promise/arez-promise@0.120?classifier=sources
+- pkg:maven/org.realityforge.arez.promise/arez-promise@0.121
+- pkg:maven/org.realityforge.arez.promise/arez-promise@0.121?classifier=sources
+- pkg:maven/org.realityforge.arez.promise/arez-promise@0.122
+- pkg:maven/org.realityforge.arez.promise/arez-promise@0.122?classifier=sources
 - pkg:maven/org.realityforge.arez.promise/arez-promise@0.12?classifier=sources
 - pkg:maven/org.realityforge.arez.promise/arez-promise@0.13
 - pkg:maven/org.realityforge.arez.promise/arez-promise@0.13?classifier=sources

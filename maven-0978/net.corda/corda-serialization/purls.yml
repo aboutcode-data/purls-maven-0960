@@ -12,3 +12,5 @@
 - pkg:maven/net.corda/corda-serialization@4.6?classifier=sources
 - pkg:maven/net.corda/corda-serialization@4.7
 - pkg:maven/net.corda/corda-serialization@4.7?classifier=sources
+- pkg:maven/net.corda/corda-serialization@4.8
+- pkg:maven/net.corda/corda-serialization@4.8?classifier=sources

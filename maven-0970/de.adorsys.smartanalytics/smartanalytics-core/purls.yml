@@ -51,6 +51,10 @@
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.0
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.0?classifier=sources
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.1
+- pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.10
+- pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.10-RC
+- pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.10-RC?classifier=sources
+- pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.10?classifier=sources
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.1?classifier=sources
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.2
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-core@2.3.2?classifier=sources

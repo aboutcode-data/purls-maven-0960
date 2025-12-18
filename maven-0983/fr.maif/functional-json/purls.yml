@@ -2,3 +2,5 @@
 - pkg:maven/fr.maif/functional-json@1.0.1-BETA2
 - pkg:maven/fr.maif/functional-json@1.0.1-BETA2?classifier=sources
 - pkg:maven/fr.maif/functional-json@1.0.1?classifier=sources
+- pkg:maven/fr.maif/functional-json@1.0.2
+- pkg:maven/fr.maif/functional-json@1.0.2?classifier=sources

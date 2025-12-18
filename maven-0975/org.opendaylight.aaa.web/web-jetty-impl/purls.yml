@@ -30,6 +30,8 @@
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.13.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.13.2
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.13.2?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.13.3
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.13.3?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.1

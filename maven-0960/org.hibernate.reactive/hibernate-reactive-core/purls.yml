@@ -28,3 +28,6 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.Beta4?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.CR1
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.CR1?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.CR3?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.CR4?classifier=sources

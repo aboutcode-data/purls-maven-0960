@@ -23,6 +23,8 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@5.2.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@5.3.1?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@5.3.1?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@5.3.2?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@5.3.2?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@6.1.0?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@6.1.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcmstagcloud@6.1.1?classifier=sources

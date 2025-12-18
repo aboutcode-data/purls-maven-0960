@@ -1,1 +1,3 @@
 - pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-e2e-tests@0.10.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-e2e-tests@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-e2e-tests@0.12.0.RELEASE?classifier=sources

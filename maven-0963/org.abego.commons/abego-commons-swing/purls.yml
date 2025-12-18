@@ -1,2 +1,4 @@
 - pkg:maven/org.abego.commons/abego-commons-swing@0.10.0
 - pkg:maven/org.abego.commons/abego-commons-swing@0.10.0?classifier=sources
+- pkg:maven/org.abego.commons/abego-commons-swing@0.11.0
+- pkg:maven/org.abego.commons/abego-commons-swing@0.11.0?classifier=sources

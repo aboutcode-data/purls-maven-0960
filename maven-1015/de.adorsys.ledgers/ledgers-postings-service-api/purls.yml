@@ -91,6 +91,8 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.12?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.13
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.13?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.14
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.14?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.2
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@3.2?classifier=sources
@@ -123,6 +125,10 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.0.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.0?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.1
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.10
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.10?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.11
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.11?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.2
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.2?classifier=sources
@@ -141,4 +147,6 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.9
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.9.1
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.9.1?classifier=sources
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.9.2
+- pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.9.2?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-postings-service-api@4.9?classifier=sources

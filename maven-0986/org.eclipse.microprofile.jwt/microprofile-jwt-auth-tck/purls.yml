@@ -15,4 +15,6 @@
 - pkg:maven/org.eclipse.microprofile.jwt/microprofile-jwt-auth-tck@1.2-RC2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.jwt/microprofile-jwt-auth-tck@1.2-RC3
 - pkg:maven/org.eclipse.microprofile.jwt/microprofile-jwt-auth-tck@1.2-RC3?classifier=sources
+- pkg:maven/org.eclipse.microprofile.jwt/microprofile-jwt-auth-tck@1.2.1
+- pkg:maven/org.eclipse.microprofile.jwt/microprofile-jwt-auth-tck@1.2.1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.jwt/microprofile-jwt-auth-tck@1.2?classifier=sources

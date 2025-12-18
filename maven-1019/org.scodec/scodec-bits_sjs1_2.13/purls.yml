@@ -20,6 +20,8 @@
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-1b5fea7?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-1c51b3b
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-1c51b3b?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-2-39252a5
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-2-39252a5?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-20-070208d
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-20-070208d?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-20-ae8ee45
@@ -40,10 +42,14 @@
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-3dd9d63?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-3f21abf
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-3f21abf?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-4-594ff1b
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-4-594ff1b?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-4d56d5d
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-4d56d5d?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5-a744157
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5-a744157?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5-d513312
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5-d513312?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5-d7be8d3
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5-d7be8d3?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1-5649880
@@ -96,3 +102,9 @@
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.23?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.24
 - pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.24?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.25
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.25?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.26
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.26?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.27
+- pkg:maven/org.scodec/scodec-bits_sjs1_2.13@1.1.27?classifier=sources

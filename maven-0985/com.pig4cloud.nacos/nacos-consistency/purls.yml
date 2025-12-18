@@ -14,3 +14,7 @@
 - pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.0.RELEASE
 - pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.0?classifier=sources
+- pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.1
+- pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.1.RELEASE
+- pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.pig4cloud.nacos/nacos-consistency@2.0.1?classifier=sources

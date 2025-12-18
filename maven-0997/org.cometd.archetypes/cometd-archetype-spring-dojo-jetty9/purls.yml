@@ -55,5 +55,7 @@
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@5.0.3?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@5.0.4?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@5.0.5?classifier=sources
+- pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@5.0.6?classifier=sources
+- pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@5.0.7?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@6.0.0?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-spring-dojo-jetty9@7.0.0?classifier=sources

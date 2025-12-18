@@ -1,4 +1,8 @@
+- pkg:maven/com.netflix.iep/iep-ses@2.6.10
+- pkg:maven/com.netflix.iep/iep-ses@2.6.10?classifier=sources
 - pkg:maven/com.netflix.iep/iep-ses@2.6.7
 - pkg:maven/com.netflix.iep/iep-ses@2.6.7?classifier=sources
 - pkg:maven/com.netflix.iep/iep-ses@2.6.8
 - pkg:maven/com.netflix.iep/iep-ses@2.6.8?classifier=sources
+- pkg:maven/com.netflix.iep/iep-ses@2.6.9
+- pkg:maven/com.netflix.iep/iep-ses@2.6.9?classifier=sources

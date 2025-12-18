@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.cloud/securityadvisor-common@1.2.2
+- pkg:maven/com.ibm.cloud/securityadvisor-common@1.2.2?classifier=sources
+- pkg:maven/com.ibm.cloud/securityadvisor-common@1.2.3
+- pkg:maven/com.ibm.cloud/securityadvisor-common@1.2.3?classifier=sources

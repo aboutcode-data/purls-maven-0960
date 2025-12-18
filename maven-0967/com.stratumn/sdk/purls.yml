@@ -36,3 +36,5 @@
 - pkg:maven/com.stratumn/sdk@0.2.0?classifier=sources
 - pkg:maven/com.stratumn/sdk@0.2.1
 - pkg:maven/com.stratumn/sdk@0.2.1?classifier=sources
+- pkg:maven/com.stratumn/sdk@2.2.0
+- pkg:maven/com.stratumn/sdk@2.2.0?classifier=sources

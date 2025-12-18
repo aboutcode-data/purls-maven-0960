@@ -32,3 +32,5 @@
 - pkg:maven/io.seata/seata-discovery-consul@1.4.0?classifier=sources
 - pkg:maven/io.seata/seata-discovery-consul@1.4.1
 - pkg:maven/io.seata/seata-discovery-consul@1.4.1?classifier=sources
+- pkg:maven/io.seata/seata-discovery-consul@1.4.2
+- pkg:maven/io.seata/seata-discovery-consul@1.4.2?classifier=sources

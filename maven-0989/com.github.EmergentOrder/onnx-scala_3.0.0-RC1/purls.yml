@@ -1,2 +1,4 @@
 - pkg:maven/com.github.EmergentOrder/onnx-scala_3.0.0-RC1@0.10.0
 - pkg:maven/com.github.EmergentOrder/onnx-scala_3.0.0-RC1@0.10.0?classifier=sources
+- pkg:maven/com.github.EmergentOrder/onnx-scala_3.0.0-RC1@0.11.0
+- pkg:maven/com.github.EmergentOrder/onnx-scala_3.0.0-RC1@0.11.0?classifier=sources

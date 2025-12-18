@@ -24,6 +24,9 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.125.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.126.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.127.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.128.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.129.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.130.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.42.0
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.42.0-rc.1
 - pkg:maven/com.netflix.spectator/spectator-reg-atlas@0.42.0-rc.1?classifier=sources

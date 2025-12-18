@@ -300,6 +300,14 @@
 - pkg:maven/io.netty/netty-buffer@4.1.6.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.60.Final
 - pkg:maven/io.netty/netty-buffer@4.1.60.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.61.Final
+- pkg:maven/io.netty/netty-buffer@4.1.61.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.62.Final
+- pkg:maven/io.netty/netty-buffer@4.1.62.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.63.Final
+- pkg:maven/io.netty/netty-buffer@4.1.63.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.64.Final
+- pkg:maven/io.netty/netty-buffer@4.1.64.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.7.Final
 - pkg:maven/io.netty/netty-buffer@4.1.7.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.8.Final

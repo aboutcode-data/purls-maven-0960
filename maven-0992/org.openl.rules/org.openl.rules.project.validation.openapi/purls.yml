@@ -1,2 +1,4 @@
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.24.0
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.24.0?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.24.1
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.24.1?classifier=sources

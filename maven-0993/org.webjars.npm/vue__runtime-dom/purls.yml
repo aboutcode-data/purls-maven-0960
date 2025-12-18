@@ -44,6 +44,10 @@
 - pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.0-rc.9
 - pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.0-rc.9?classifier=sources
 - pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.10
+- pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.11
+- pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.11?classifier=sources
 - pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.2
 - pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/vue__runtime-dom@3.0.3

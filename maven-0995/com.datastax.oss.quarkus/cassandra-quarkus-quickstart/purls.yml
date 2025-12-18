@@ -6,3 +6,5 @@
 - pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-quickstart@1.0.0-alpha3
 - pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-quickstart@1.0.0-alpha3?classifier=sources
 - pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-quickstart@1.0.0?classifier=sources
+- pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-quickstart@1.0.1
+- pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-quickstart@1.0.1?classifier=sources

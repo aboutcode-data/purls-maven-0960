@@ -37,3 +37,8 @@
 - pkg:maven/io.floodplain/floodplain-stream-topology@1.4.5?classifier=sources
 - pkg:maven/io.floodplain/floodplain-stream-topology@1.4.7?classifier=sources
 - pkg:maven/io.floodplain/floodplain-stream-topology@1.4?classifier=sources
+- pkg:maven/io.floodplain/floodplain-stream-topology@1.5.0?classifier=sources
+- pkg:maven/io.floodplain/floodplain-stream-topology@1.5.2?classifier=sources
+- pkg:maven/io.floodplain/floodplain-stream-topology@1.5.5?classifier=sources
+- pkg:maven/io.floodplain/floodplain-stream-topology@1.5.6?classifier=sources
+- pkg:maven/io.floodplain/floodplain-stream-topology@1.5.8?classifier=sources

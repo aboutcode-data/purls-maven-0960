@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.workflow@2.1.0?classifier=sources
 - pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.workflow@2.2.0
 - pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.workflow@2.2.0?classifier=sources
+- pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.workflow@2.3.0
+- pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.workflow@2.3.0?classifier=sources

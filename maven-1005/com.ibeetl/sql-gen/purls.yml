@@ -74,6 +74,14 @@
 - pkg:maven/com.ibeetl/sql-gen@3.3.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-gen@3.3.1-RELEASE
 - pkg:maven/com.ibeetl/sql-gen@3.3.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-gen@3.3.10-RELEASE
+- pkg:maven/com.ibeetl/sql-gen@3.3.10-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-gen@3.3.11-RELEASE
+- pkg:maven/com.ibeetl/sql-gen@3.3.11-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-gen@3.3.12-RELEASE
+- pkg:maven/com.ibeetl/sql-gen@3.3.12-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-gen@3.3.13-RELEASE
+- pkg:maven/com.ibeetl/sql-gen@3.3.13-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-gen@3.3.2-RELEASE
 - pkg:maven/com.ibeetl/sql-gen@3.3.2-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-gen@3.3.3-RELEASE
@@ -84,3 +92,7 @@
 - pkg:maven/com.ibeetl/sql-gen@3.3.6-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-gen@3.3.7-RELEASE
 - pkg:maven/com.ibeetl/sql-gen@3.3.7-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-gen@3.3.8-RELEASE
+- pkg:maven/com.ibeetl/sql-gen@3.3.8-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-gen@3.3.9-RELEASE
+- pkg:maven/com.ibeetl/sql-gen@3.3.9-RELEASE?classifier=sources

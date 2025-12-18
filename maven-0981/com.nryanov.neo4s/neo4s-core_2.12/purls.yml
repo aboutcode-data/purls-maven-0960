@@ -1,2 +1,4 @@
 - pkg:maven/com.nryanov.neo4s/neo4s-core_2.12@0.1.0
 - pkg:maven/com.nryanov.neo4s/neo4s-core_2.12@0.1.0?classifier=sources
+- pkg:maven/com.nryanov.neo4s/neo4s-core_2.12@0.2.0
+- pkg:maven/com.nryanov.neo4s/neo4s-core_2.12@0.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@3.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@3.0.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@3.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@3.1.0?classifier=sources

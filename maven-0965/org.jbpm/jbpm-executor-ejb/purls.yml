@@ -172,6 +172,12 @@
 - pkg:maven/org.jbpm/jbpm-executor-ejb@7.50.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-executor-ejb@7.51.0.Final
 - pkg:maven/org.jbpm/jbpm-executor-ejb@7.51.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-executor-ejb@7.52.0.Final
+- pkg:maven/org.jbpm/jbpm-executor-ejb@7.52.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-executor-ejb@7.53.0.Final
+- pkg:maven/org.jbpm/jbpm-executor-ejb@7.53.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-executor-ejb@7.54.0.Final
+- pkg:maven/org.jbpm/jbpm-executor-ejb@7.54.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-executor-ejb@7.6.0.Final
 - pkg:maven/org.jbpm/jbpm-executor-ejb@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-executor-ejb@7.6.0.t022

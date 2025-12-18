@@ -22,5 +22,9 @@
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.3?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.4
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.4?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.5
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.5-RC1
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.5-RC1?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.5-RC2
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.5-RC2?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-integration-client_2.13@1.6.5?classifier=sources

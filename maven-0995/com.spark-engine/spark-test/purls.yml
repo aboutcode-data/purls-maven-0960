@@ -2,6 +2,8 @@
 - pkg:maven/com.spark-engine/spark-test@0.11.0?classifier=sources
 - pkg:maven/com.spark-engine/spark-test@0.11.1
 - pkg:maven/com.spark-engine/spark-test@0.11.1?classifier=sources
+- pkg:maven/com.spark-engine/spark-test@0.12.0
+- pkg:maven/com.spark-engine/spark-test@0.12.0?classifier=sources
 - pkg:maven/com.spark-engine/spark-test@0.8.1
 - pkg:maven/com.spark-engine/spark-test@0.8.1?classifier=sources
 - pkg:maven/com.spark-engine/spark-test@0.8.2

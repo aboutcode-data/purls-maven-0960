@@ -4,6 +4,14 @@
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.11?classifier=sources
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.12
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.12?classifier=sources
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.13-1-15db980
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.13-1-15db980?classifier=sources
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.13-72-f8b275d
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.13-72-f8b275d?classifier=sources
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.13.0
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.13.0?classifier=sources
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.14.0
+- pkg:maven/org.typelevel/cats-tagless-core_2.13@0.14.0?classifier=sources
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.8
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.8?classifier=sources
 - pkg:maven/org.typelevel/cats-tagless-core_2.13@0.9

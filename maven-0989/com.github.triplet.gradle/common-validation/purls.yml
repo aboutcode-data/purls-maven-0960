@@ -11,3 +11,6 @@
 - pkg:maven/com.github.triplet.gradle/common-validation@3.2.0?classifier=sources
 - pkg:maven/com.github.triplet.gradle/common-validation@3.3.0-agp4.2?classifier=sources
 - pkg:maven/com.github.triplet.gradle/common-validation@3.3.0?classifier=sources
+- pkg:maven/com.github.triplet.gradle/common-validation@3.4.0-agp4.2?classifier=sources
+- pkg:maven/com.github.triplet.gradle/common-validation@3.4.0-agp7.0?classifier=sources
+- pkg:maven/com.github.triplet.gradle/common-validation@3.4.0?classifier=sources

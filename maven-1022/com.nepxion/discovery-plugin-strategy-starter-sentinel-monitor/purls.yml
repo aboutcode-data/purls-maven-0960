@@ -1,3 +1,5 @@
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.10.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.10.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.3.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.3.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.3.1
@@ -12,3 +14,7 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.6.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.7.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.7.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.8.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.8.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.9.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-monitor@6.9.0?classifier=sources

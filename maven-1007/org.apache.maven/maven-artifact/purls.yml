@@ -109,3 +109,5 @@
 - pkg:maven/org.apache.maven/maven-artifact@3.6.2?classifier=sources
 - pkg:maven/org.apache.maven/maven-artifact@3.6.3
 - pkg:maven/org.apache.maven/maven-artifact@3.6.3?classifier=sources
+- pkg:maven/org.apache.maven/maven-artifact@3.8.1
+- pkg:maven/org.apache.maven/maven-artifact@3.8.1?classifier=sources

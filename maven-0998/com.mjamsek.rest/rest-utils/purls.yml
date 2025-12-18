@@ -2,3 +2,5 @@
 - pkg:maven/com.mjamsek.rest/rest-utils@1.3.0?classifier=sources
 - pkg:maven/com.mjamsek.rest/rest-utils@1.4.0
 - pkg:maven/com.mjamsek.rest/rest-utils@1.4.0?classifier=sources
+- pkg:maven/com.mjamsek.rest/rest-utils@2.0.0
+- pkg:maven/com.mjamsek.rest/rest-utils@2.0.0?classifier=sources

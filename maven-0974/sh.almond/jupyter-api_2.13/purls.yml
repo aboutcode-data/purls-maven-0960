@@ -22,6 +22,8 @@
 - pkg:maven/sh.almond/jupyter-api_2.13@0.11.0?classifier=sources
 - pkg:maven/sh.almond/jupyter-api_2.13@0.11.1
 - pkg:maven/sh.almond/jupyter-api_2.13@0.11.1?classifier=sources
+- pkg:maven/sh.almond/jupyter-api_2.13@0.11.2
+- pkg:maven/sh.almond/jupyter-api_2.13@0.11.2?classifier=sources
 - pkg:maven/sh.almond/jupyter-api_2.13@0.6.0
 - pkg:maven/sh.almond/jupyter-api_2.13@0.6.0?classifier=sources
 - pkg:maven/sh.almond/jupyter-api_2.13@0.7.0

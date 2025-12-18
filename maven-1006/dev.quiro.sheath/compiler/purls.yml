@@ -7,3 +7,5 @@
 - pkg:maven/dev.quiro.sheath/compiler@0.4.3?classifier=sources
 - pkg:maven/dev.quiro.sheath/compiler@0.5.0?classifier=sources
 - pkg:maven/dev.quiro.sheath/compiler@0.6.0?classifier=sources
+- pkg:maven/dev.quiro.sheath/compiler@0.6.2?classifier=sources
+- pkg:maven/dev.quiro.sheath/compiler@0.6.3?classifier=sources

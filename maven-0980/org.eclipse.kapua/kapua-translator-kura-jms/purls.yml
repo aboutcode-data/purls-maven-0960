@@ -62,3 +62,5 @@
 - pkg:maven/org.eclipse.kapua/kapua-translator-kura-jms@1.4.2?classifier=sources
 - pkg:maven/org.eclipse.kapua/kapua-translator-kura-jms@1.4.3
 - pkg:maven/org.eclipse.kapua/kapua-translator-kura-jms@1.4.3?classifier=sources
+- pkg:maven/org.eclipse.kapua/kapua-translator-kura-jms@1.4.4
+- pkg:maven/org.eclipse.kapua/kapua-translator-kura-jms@1.4.4?classifier=sources

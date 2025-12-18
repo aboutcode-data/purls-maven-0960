@@ -1,6 +1,10 @@
+- pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0
 - pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-alpha.0
 - pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-alpha.0?classifier=sources
 - pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-alpha.2
 - pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-alpha.2?classifier=sources
 - pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-beta.0
 - pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-beta.0?classifier=sources
+- pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-rc.0
+- pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0-rc.0?classifier=sources
+- pkg:maven/de.syquel.maven.reactorstate/reactorstate-maven-plugin@1.0.0?classifier=sources

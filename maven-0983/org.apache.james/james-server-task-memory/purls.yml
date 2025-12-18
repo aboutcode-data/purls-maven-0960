@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.james/james-server-task-memory@3.5.0
 - pkg:maven/org.apache.james/james-server-task-memory@3.5.0?classifier=sources
+- pkg:maven/org.apache.james/james-server-task-memory@3.6.0
+- pkg:maven/org.apache.james/james-server-task-memory@3.6.0?classifier=sources

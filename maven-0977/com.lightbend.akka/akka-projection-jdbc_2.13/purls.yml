@@ -10,3 +10,5 @@
 - pkg:maven/com.lightbend.akka/akka-projection-jdbc_2.13@1.0.0?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-projection-jdbc_2.13@1.1.0
 - pkg:maven/com.lightbend.akka/akka-projection-jdbc_2.13@1.1.0?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-jdbc_2.13@1.2.0
+- pkg:maven/com.lightbend.akka/akka-projection-jdbc_2.13@1.2.0?classifier=sources

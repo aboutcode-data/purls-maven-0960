@@ -64,6 +64,8 @@
 - pkg:maven/com.crivano/swaggerservlet@1.4.0?classifier=sources
 - pkg:maven/com.crivano/swaggerservlet@1.41.0
 - pkg:maven/com.crivano/swaggerservlet@1.41.0?classifier=sources
+- pkg:maven/com.crivano/swaggerservlet@1.43.0
+- pkg:maven/com.crivano/swaggerservlet@1.43.0?classifier=sources
 - pkg:maven/com.crivano/swaggerservlet@1.6.0
 - pkg:maven/com.crivano/swaggerservlet@1.6.0?classifier=sources
 - pkg:maven/com.crivano/swaggerservlet@1.7.0

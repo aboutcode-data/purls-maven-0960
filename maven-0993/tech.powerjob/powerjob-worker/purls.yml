@@ -1,2 +1,4 @@
 - pkg:maven/tech.powerjob/powerjob-worker@4.0.0
 - pkg:maven/tech.powerjob/powerjob-worker@4.0.0?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-worker@4.0.1
+- pkg:maven/tech.powerjob/powerjob-worker@4.0.1?classifier=sources

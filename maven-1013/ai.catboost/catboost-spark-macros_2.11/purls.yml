@@ -1,6 +1,8 @@
+- pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25
 - pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25-rc1
 - pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25-rc1?classifier=sources
 - pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25-rc2
 - pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25-rc2?classifier=sources
 - pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25-rc3
 - pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25-rc3?classifier=sources
+- pkg:maven/ai.catboost/catboost-spark-macros_2.11@0.25?classifier=sources

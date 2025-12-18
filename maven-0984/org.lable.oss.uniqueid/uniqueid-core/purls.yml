@@ -28,9 +28,13 @@
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta4?classifier=sources
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.1
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.1?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.2
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.2-beta1
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.2-beta1?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.2?classifier=sources
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.0-beta1
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.0-beta1?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.1
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.1-beta1
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.1-beta1?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.1?classifier=sources

@@ -86,4 +86,7 @@
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.80.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.81.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.82.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-imports@1.82.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.83.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-imports@1.84.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-imports@1.85.0?classifier=sources

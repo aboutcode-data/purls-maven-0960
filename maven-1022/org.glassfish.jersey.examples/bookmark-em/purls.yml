@@ -185,6 +185,9 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.33?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.33?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.34?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.34?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.34?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.3?type=war

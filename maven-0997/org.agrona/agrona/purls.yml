@@ -92,6 +92,7 @@
 - pkg:maven/org.agrona/agrona@1.0.9?classifier=sources
 - pkg:maven/org.agrona/agrona@1.1.0
 - pkg:maven/org.agrona/agrona@1.1.0?classifier=sources
+- pkg:maven/org.agrona/agrona@1.10.0?classifier=sources
 - pkg:maven/org.agrona/agrona@1.2.0
 - pkg:maven/org.agrona/agrona@1.2.0?classifier=sources
 - pkg:maven/org.agrona/agrona@1.3.0

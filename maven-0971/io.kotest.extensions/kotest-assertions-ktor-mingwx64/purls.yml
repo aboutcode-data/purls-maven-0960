@@ -1,1 +1,4 @@
 - pkg:maven/io.kotest.extensions/kotest-assertions-ktor-mingwx64@1.0.0?classifier=sources
+- pkg:maven/io.kotest.extensions/kotest-assertions-ktor-mingwx64@1.0.1?classifier=sources
+- pkg:maven/io.kotest.extensions/kotest-assertions-ktor-mingwx64@1.0.2?classifier=sources
+- pkg:maven/io.kotest.extensions/kotest-assertions-ktor-mingwx64@1.0.3?classifier=sources

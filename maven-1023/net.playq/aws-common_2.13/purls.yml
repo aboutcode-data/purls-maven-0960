@@ -23,8 +23,12 @@
 - pkg:maven/net.playq/aws-common_2.13@1.0.16?classifier=sources
 - pkg:maven/net.playq/aws-common_2.13@1.0.18
 - pkg:maven/net.playq/aws-common_2.13@1.0.18?classifier=sources
+- pkg:maven/net.playq/aws-common_2.13@1.0.19
+- pkg:maven/net.playq/aws-common_2.13@1.0.19?classifier=sources
 - pkg:maven/net.playq/aws-common_2.13@1.0.1?classifier=sources
 - pkg:maven/net.playq/aws-common_2.13@1.0.2
+- pkg:maven/net.playq/aws-common_2.13@1.0.20
+- pkg:maven/net.playq/aws-common_2.13@1.0.20?classifier=sources
 - pkg:maven/net.playq/aws-common_2.13@1.0.2?classifier=sources
 - pkg:maven/net.playq/aws-common_2.13@1.0.3
 - pkg:maven/net.playq/aws-common_2.13@1.0.3?classifier=sources

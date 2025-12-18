@@ -15,6 +15,8 @@
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.0
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.0?classifier=sources
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.1
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.10
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.10?classifier=sources
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.1?classifier=sources
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.2
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.2?classifier=sources
@@ -26,3 +28,9 @@
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.5?classifier=sources
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.6
 - pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.6?classifier=sources
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.7
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.7?classifier=sources
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.8
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.8?classifier=sources
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.9
+- pkg:maven/org.dotwebstack.framework/templating-pebble@0.3.9?classifier=sources

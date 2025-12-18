@@ -6,3 +6,5 @@
 - pkg:maven/io.mfj/expr@4.1.16?classifier=sources
 - pkg:maven/io.mfj/expr@4.2.22
 - pkg:maven/io.mfj/expr@4.2.22?classifier=sources
+- pkg:maven/io.mfj/expr@5.0.25
+- pkg:maven/io.mfj/expr@5.0.25?classifier=sources

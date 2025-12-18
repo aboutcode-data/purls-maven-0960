@@ -58,6 +58,8 @@
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@20.1?classifier=sources
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@20.2
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@20.2?classifier=sources
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-api@20.3
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-api@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.0
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.0?classifier=sources
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@3.0.0

@@ -251,6 +251,16 @@
 - pkg:maven/org.prompto/MongoStore@0.0.22
 - pkg:maven/org.prompto/MongoStore@0.0.220
 - pkg:maven/org.prompto/MongoStore@0.0.220?classifier=sources
+- pkg:maven/org.prompto/MongoStore@0.0.221
+- pkg:maven/org.prompto/MongoStore@0.0.221?classifier=sources
+- pkg:maven/org.prompto/MongoStore@0.0.222
+- pkg:maven/org.prompto/MongoStore@0.0.222?classifier=sources
+- pkg:maven/org.prompto/MongoStore@0.0.223
+- pkg:maven/org.prompto/MongoStore@0.0.223?classifier=sources
+- pkg:maven/org.prompto/MongoStore@0.0.224
+- pkg:maven/org.prompto/MongoStore@0.0.224?classifier=sources
+- pkg:maven/org.prompto/MongoStore@0.0.225
+- pkg:maven/org.prompto/MongoStore@0.0.225?classifier=sources
 - pkg:maven/org.prompto/MongoStore@0.0.22?classifier=sources
 - pkg:maven/org.prompto/MongoStore@0.0.23
 - pkg:maven/org.prompto/MongoStore@0.0.237

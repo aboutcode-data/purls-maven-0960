@@ -48,3 +48,7 @@
 - pkg:maven/org.kie.kogito/jobs-service@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jobs-service@1.4.1.Final
 - pkg:maven/org.kie.kogito/jobs-service@1.4.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jobs-service@1.5.0.Final
+- pkg:maven/org.kie.kogito/jobs-service@1.5.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jobs-service@1.6.0.Final
+- pkg:maven/org.kie.kogito/jobs-service@1.6.0.Final?classifier=sources

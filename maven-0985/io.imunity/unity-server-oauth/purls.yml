@@ -24,3 +24,7 @@
 - pkg:maven/io.imunity/unity-server-oauth@3.4.4?classifier=sources
 - pkg:maven/io.imunity/unity-server-oauth@3.4.5
 - pkg:maven/io.imunity/unity-server-oauth@3.4.5?classifier=sources
+- pkg:maven/io.imunity/unity-server-oauth@3.5.0
+- pkg:maven/io.imunity/unity-server-oauth@3.5.0?classifier=sources
+- pkg:maven/io.imunity/unity-server-oauth@3.5.1
+- pkg:maven/io.imunity/unity-server-oauth@3.5.1?classifier=sources

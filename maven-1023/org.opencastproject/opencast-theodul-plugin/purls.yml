@@ -9,6 +9,7 @@
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@7.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@8.10?classifier=sources
+- pkg:maven/org.opencastproject/opencast-theodul-plugin@8.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@8.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@8.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@8.4?classifier=sources
@@ -20,3 +21,5 @@
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@9.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-theodul-plugin@9.2?classifier=sources
+- pkg:maven/org.opencastproject/opencast-theodul-plugin@9.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-theodul-plugin@9.4?classifier=sources

@@ -1,6 +1,7 @@
 - pkg:maven/org.springframework.session/spring-session-bom@2020.0.0?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@2020.0.1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@2020.0.3?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@2020.0.4?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-SR1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-SR2?classifier=sources
@@ -30,6 +31,8 @@
 - pkg:maven/org.springframework.session/spring-session-bom@Corn-SR3?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Corn-SR4?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Corn-SR5?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@Corn-SR6?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Dragonfruit-RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Dragonfruit-SR1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Dragonfruit-SR2?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@Dragonfruit-SR3?classifier=sources

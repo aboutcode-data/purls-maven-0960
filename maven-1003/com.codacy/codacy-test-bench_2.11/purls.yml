@@ -48,3 +48,5 @@
 - pkg:maven/com.codacy/codacy-test-bench_2.11@2.1.2-updatesonatypepublishingtest.4.111859f
 - pkg:maven/com.codacy/codacy-test-bench_2.11@2.1.2-updatesonatypepublishingtest.4.111859f?classifier=sources
 - pkg:maven/com.codacy/codacy-test-bench_2.11@2.1.2?classifier=sources
+- pkg:maven/com.codacy/codacy-test-bench_2.11@2.2.0
+- pkg:maven/com.codacy/codacy-test-bench_2.11@2.2.0?classifier=sources

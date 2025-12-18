@@ -167,6 +167,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.45
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.45?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.46
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.46?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.47
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.47?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@2.0.5
@@ -227,6 +233,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.2
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.20
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.20?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@4.0.3
@@ -253,3 +262,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@5.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@5.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@5.0.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.order.web@5.0.1?classifier=sources-commercial

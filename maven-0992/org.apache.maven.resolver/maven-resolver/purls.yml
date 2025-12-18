@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver@1.4.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@1.6.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@1.6.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.resolver/maven-resolver@1.6.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.resolver/maven-resolver@1.7.0?classifier=source-release&type=zip

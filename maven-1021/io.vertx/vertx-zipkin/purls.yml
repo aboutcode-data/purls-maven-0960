@@ -26,3 +26,5 @@
 - pkg:maven/io.vertx/vertx-zipkin@4.0.2?classifier=sources
 - pkg:maven/io.vertx/vertx-zipkin@4.0.3
 - pkg:maven/io.vertx/vertx-zipkin@4.0.3?classifier=sources
+- pkg:maven/io.vertx/vertx-zipkin@4.1.0.Beta1
+- pkg:maven/io.vertx/vertx-zipkin@4.1.0.Beta1?classifier=sources

@@ -140,6 +140,8 @@
 - pkg:maven/io.grpc/grpc-core@1.35.1?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.36.0?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.36.1?classifier=sources
+- pkg:maven/io.grpc/grpc-core@1.37.0?classifier=sources
+- pkg:maven/io.grpc/grpc-core@1.37.1?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.4.0
 - pkg:maven/io.grpc/grpc-core@1.4.0?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.5.0

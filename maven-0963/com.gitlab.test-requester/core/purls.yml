@@ -1,0 +1,4 @@
+- pkg:maven/com.gitlab.test-requester/core@0.4.8
+- pkg:maven/com.gitlab.test-requester/core@0.4.8?classifier=sources
+- pkg:maven/com.gitlab.test-requester/core@0.4.9
+- pkg:maven/com.gitlab.test-requester/core@0.4.9?classifier=sources

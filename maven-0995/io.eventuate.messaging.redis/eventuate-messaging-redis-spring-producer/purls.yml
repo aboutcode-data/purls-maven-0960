@@ -1,1 +1,2 @@
 - pkg:maven/io.eventuate.messaging.redis/eventuate-messaging-redis-spring-producer@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.messaging.redis/eventuate-messaging-redis-spring-producer@0.12.0.RELEASE?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.eventuate.tram.sagas/eventuate-tram-sagas-micronaut-participant@0.16.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.sagas/eventuate-tram-sagas-micronaut-participant@0.17.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.sagas/eventuate-tram-sagas-micronaut-participant@0.18.0.RELEASE?classifier=sources

@@ -83,6 +83,8 @@
 - pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.44?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.45
 - pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.45?classifier=sources
+- pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.46
+- pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.46?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.5
 - pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.5.1
 - pkg:maven/org.nuiton.jaxx/jaxx-maven-plugin@2.5.10

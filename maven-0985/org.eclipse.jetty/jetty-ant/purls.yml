@@ -352,6 +352,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.4.v20170414?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.4.v20180619
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.4.v20180619?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.40.v20210413
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.40.v20210413?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.5.v20170502
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.5.v20180619

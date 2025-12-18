@@ -1,0 +1,4 @@
+- pkg:maven/com.truedei.swagger.plugin/camel-swagger-io@0.0.1-RELEASE
+- pkg:maven/com.truedei.swagger.plugin/camel-swagger-io@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.truedei.swagger.plugin/camel-swagger-io@0.0.2
+- pkg:maven/com.truedei.swagger.plugin/camel-swagger-io@0.0.2?classifier=sources

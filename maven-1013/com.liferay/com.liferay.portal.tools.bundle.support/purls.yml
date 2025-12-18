@@ -58,3 +58,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.bundle.support@3.7.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.bundle.support@3.7.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.bundle.support@3.7.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.bundle.support@3.7.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.bundle.support@3.7.3?classifier=sources-commercial

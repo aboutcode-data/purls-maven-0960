@@ -20,6 +20,7 @@
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.13
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.14
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.15
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.16
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.2
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.3
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.12.4
@@ -36,6 +37,12 @@
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.13.8
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.13.9
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.14.0
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.14.1
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.15.0
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.15.1
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.15.2
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.15.3
+- pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.15.4
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.3.1
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.3.10
 - pkg:maven/net.n2oapp.framework/n2o-spring-boot-starter@7.3.10?classifier=sources

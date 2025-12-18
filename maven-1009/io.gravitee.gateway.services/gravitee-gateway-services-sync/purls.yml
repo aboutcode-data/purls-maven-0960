@@ -244,6 +244,8 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.4.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.4.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.10?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.11?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.1?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.3?classifier=sources
@@ -252,6 +254,13 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.6?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.7?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.8?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.5.9?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.6.0?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.6.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.6.2?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.6.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.7.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.7.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.7.2?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.8.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.8.1?classifier=sources

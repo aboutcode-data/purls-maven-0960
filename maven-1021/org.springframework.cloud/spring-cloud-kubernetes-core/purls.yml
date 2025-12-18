@@ -34,3 +34,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-core@1.1.7.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-core@1.1.8.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-core@1.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-core@1.1.9.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-core@1.1.9.RELEASE?classifier=sources

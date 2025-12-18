@@ -49,6 +49,12 @@
 - pkg:maven/org.webpieces/plugin-properties@1.9.152?classifier=sources
 - pkg:maven/org.webpieces/plugin-properties@1.9.1?classifier=sources
 - pkg:maven/org.webpieces/plugin-properties@2.0.1
+- pkg:maven/org.webpieces/plugin-properties@2.0.148
+- pkg:maven/org.webpieces/plugin-properties@2.0.148?classifier=sources
+- pkg:maven/org.webpieces/plugin-properties@2.0.149
+- pkg:maven/org.webpieces/plugin-properties@2.0.149?classifier=sources
+- pkg:maven/org.webpieces/plugin-properties@2.0.150
+- pkg:maven/org.webpieces/plugin-properties@2.0.150?classifier=sources
 - pkg:maven/org.webpieces/plugin-properties@2.0.1?classifier=sources
 - pkg:maven/org.webpieces/plugin-properties@2.0.2
 - pkg:maven/org.webpieces/plugin-properties@2.0.2?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.0.RC1
 - pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.0.RC1?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.0?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.1
+- pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.1?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.2
+- pkg:maven/org.apache.karaf.examples/karaf-config-example-listener@4.3.2?classifier=sources

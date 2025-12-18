@@ -16,3 +16,7 @@
 - pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.5.Final
 - pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.5.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.6.Final?classifier=sources
+- pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.7.Final
+- pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.7.Final?classifier=sources
+- pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.8.Final
+- pkg:maven/org.wildfly.extras.batavia/transformer-tools-mvn@1.0.8.Final?classifier=sources

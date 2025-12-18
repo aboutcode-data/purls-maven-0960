@@ -46,3 +46,7 @@
 - pkg:maven/me.legrange.services/service-vertx@3.6.2?classifier=sources
 - pkg:maven/me.legrange.services/service-vertx@3.6.3
 - pkg:maven/me.legrange.services/service-vertx@3.6.3?classifier=sources
+- pkg:maven/me.legrange.services/service-vertx@3.6.4
+- pkg:maven/me.legrange.services/service-vertx@3.6.4?classifier=sources
+- pkg:maven/me.legrange.services/service-vertx@3.6.5
+- pkg:maven/me.legrange.services/service-vertx@3.6.5?classifier=sources

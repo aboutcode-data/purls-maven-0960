@@ -40,6 +40,8 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.14.2?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.14.3
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.14.3?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.15.0
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.15.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.1-Boron-SR1

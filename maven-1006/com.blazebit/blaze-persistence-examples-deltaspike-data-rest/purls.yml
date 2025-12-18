@@ -50,3 +50,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-examples-deltaspike-data-rest@1.6.0-Alpha1?type=war
 - pkg:maven/com.blazebit/blaze-persistence-examples-deltaspike-data-rest@1.6.0-Alpha2?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-examples-deltaspike-data-rest@1.6.0-Alpha2?type=war
+- pkg:maven/com.blazebit/blaze-persistence-examples-deltaspike-data-rest@1.6.0?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-examples-deltaspike-data-rest@1.6.0?type=war

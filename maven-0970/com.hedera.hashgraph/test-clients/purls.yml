@@ -4,6 +4,8 @@
 - pkg:maven/com.hedera.hashgraph/test-clients@0.10.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/test-clients@0.11.0
 - pkg:maven/com.hedera.hashgraph/test-clients@0.11.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/test-clients@0.13.2
+- pkg:maven/com.hedera.hashgraph/test-clients@0.13.2?classifier=sources
 - pkg:maven/com.hedera.hashgraph/test-clients@0.9.0
 - pkg:maven/com.hedera.hashgraph/test-clients@0.9.0-rc.2
 - pkg:maven/com.hedera.hashgraph/test-clients@0.9.0-rc.2?classifier=sources

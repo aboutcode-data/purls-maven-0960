@@ -306,5 +306,11 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.4.31?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.4.32
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.4.32?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0-M1
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0-M1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0-M2
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0-M2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0-RC
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@1.5.0?classifier=sources

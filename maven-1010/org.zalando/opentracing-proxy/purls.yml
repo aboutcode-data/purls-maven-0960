@@ -12,3 +12,7 @@
 - pkg:maven/org.zalando/opentracing-proxy@3.0.0-RC.3?classifier=sources
 - pkg:maven/org.zalando/opentracing-proxy@4.0.0
 - pkg:maven/org.zalando/opentracing-proxy@4.0.0?classifier=sources
+- pkg:maven/org.zalando/opentracing-proxy@4.0.2
+- pkg:maven/org.zalando/opentracing-proxy@4.0.2?classifier=sources
+- pkg:maven/org.zalando/opentracing-proxy@4.0.3
+- pkg:maven/org.zalando/opentracing-proxy@4.0.3?classifier=sources

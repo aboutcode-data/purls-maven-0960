@@ -24,3 +24,5 @@
 - pkg:maven/net.gotev/uploadservice@4.5.1?type=aar
 - pkg:maven/net.gotev/uploadservice@4.5.2?classifier=sources
 - pkg:maven/net.gotev/uploadservice@4.5.2?type=aar
+- pkg:maven/net.gotev/uploadservice@4.5.3?classifier=sources
+- pkg:maven/net.gotev/uploadservice@4.5.4?classifier=sources

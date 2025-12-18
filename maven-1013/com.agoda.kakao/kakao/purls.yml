@@ -1,0 +1,12 @@
+- pkg:maven/com.agoda.kakao/kakao@1.4.0-androidx?classifier=sources
+- pkg:maven/com.agoda.kakao/kakao@1.4.0-androidx?type=aar
+- pkg:maven/com.agoda.kakao/kakao@2.1.0-support?classifier=sources
+- pkg:maven/com.agoda.kakao/kakao@2.1.0-support?type=aar
+- pkg:maven/com.agoda.kakao/kakao@2.1.0?classifier=sources
+- pkg:maven/com.agoda.kakao/kakao@2.1.0?type=aar
+- pkg:maven/com.agoda.kakao/kakao@2.2.0?classifier=sources
+- pkg:maven/com.agoda.kakao/kakao@2.2.0?type=aar
+- pkg:maven/com.agoda.kakao/kakao@2.3.4?classifier=sources
+- pkg:maven/com.agoda.kakao/kakao@2.3.4?type=aar
+- pkg:maven/com.agoda.kakao/kakao@2.4.0?classifier=sources
+- pkg:maven/com.agoda.kakao/kakao@2.4.0?type=aar

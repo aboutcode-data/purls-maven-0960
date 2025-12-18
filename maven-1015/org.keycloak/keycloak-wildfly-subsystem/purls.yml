@@ -92,6 +92,8 @@
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@12.0.3?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@12.0.4
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@12.0.4?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@13.0.0
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@13.0.0?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@2.0.0.CR1
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@2.0.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@2.0.0.Final

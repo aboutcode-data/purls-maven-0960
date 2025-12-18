@@ -1,0 +1,4 @@
+- pkg:maven/io.streamnative/pulsar-client-kafka_0_8-original@2.6.3.1
+- pkg:maven/io.streamnative/pulsar-client-kafka_0_8-original@2.6.3.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-kafka_0_8-original@2.6.3.4
+- pkg:maven/io.streamnative/pulsar-client-kafka_0_8-original@2.6.3.4?classifier=sources
