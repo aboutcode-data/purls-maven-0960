@@ -42,3 +42,9 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.4?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.5
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.5?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.6
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.6?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.7
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.24.7?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.25.0
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.25.0?classifier=sources

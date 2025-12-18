@@ -1,2 +1,4 @@
 - pkg:maven/com.azure/azure-cosmos-cassandra-driver-3-extensions@1.0.0
 - pkg:maven/com.azure/azure-cosmos-cassandra-driver-3-extensions@1.0.0?classifier=sources
+- pkg:maven/com.azure/azure-cosmos-cassandra-driver-3-extensions@1.0.1
+- pkg:maven/com.azure/azure-cosmos-cassandra-driver-3-extensions@1.0.1?classifier=sources

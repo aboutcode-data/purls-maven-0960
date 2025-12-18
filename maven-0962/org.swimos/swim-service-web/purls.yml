@@ -1,4 +1,5 @@
 - pkg:maven/org.swimos/swim-service-web@3.10.0
 - pkg:maven/org.swimos/swim-service-web@3.10.0?classifier=sources
 - pkg:maven/org.swimos/swim-service-web@3.10.2?classifier=sources
+- pkg:maven/org.swimos/swim-service-web@3.10.3?classifier=sources
 - pkg:maven/org.swimos/swim-service-web@3.11.0?classifier=sources

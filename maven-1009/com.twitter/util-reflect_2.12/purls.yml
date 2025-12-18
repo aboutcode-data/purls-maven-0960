@@ -96,6 +96,8 @@
 - pkg:maven/com.twitter/util-reflect_2.12@21.6.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@21.8.0
 - pkg:maven/com.twitter/util-reflect_2.12@21.8.0?classifier=sources
+- pkg:maven/com.twitter/util-reflect_2.12@21.9.0
+- pkg:maven/com.twitter/util-reflect_2.12@21.9.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@6.39.0
 - pkg:maven/com.twitter/util-reflect_2.12@6.39.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@6.40.0

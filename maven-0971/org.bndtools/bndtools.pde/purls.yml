@@ -18,3 +18,5 @@
 - pkg:maven/org.bndtools/bndtools.pde@5.2.0?classifier=sources
 - pkg:maven/org.bndtools/bndtools.pde@5.3.0
 - pkg:maven/org.bndtools/bndtools.pde@5.3.0?classifier=sources
+- pkg:maven/org.bndtools/bndtools.pde@6.0.0
+- pkg:maven/org.bndtools/bndtools.pde@6.0.0?classifier=sources

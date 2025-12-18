@@ -24,3 +24,5 @@
 - pkg:maven/org.scala-js/scalajs-compiler_2.12.12@1.6.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-compiler_2.12.12@1.7.0
 - pkg:maven/org.scala-js/scalajs-compiler_2.12.12@1.7.0?classifier=sources
+- pkg:maven/org.scala-js/scalajs-compiler_2.12.12@1.7.1
+- pkg:maven/org.scala-js/scalajs-compiler_2.12.12@1.7.1?classifier=sources

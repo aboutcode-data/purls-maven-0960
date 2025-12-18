@@ -2,3 +2,6 @@
 - pkg:maven/io.github.nambers/MiraiCP-plugin@2.7-RC-dev4?classifier=sources
 - pkg:maven/io.github.nambers/MiraiCP-plugin@2.7-RC-dev5?classifier=sources
 - pkg:maven/io.github.nambers/MiraiCP-plugin@2.7.0?classifier=sources
+- pkg:maven/io.github.nambers/MiraiCP-plugin@2.7.1-dev-1?classifier=sources
+- pkg:maven/io.github.nambers/MiraiCP-plugin@2.7.1-patch-1?classifier=sources
+- pkg:maven/io.github.nambers/MiraiCP-plugin@2.8.0-M1?classifier=sources

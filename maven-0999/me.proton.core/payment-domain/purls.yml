@@ -13,3 +13,5 @@
 - pkg:maven/me.proton.core/payment-domain@0.2.3?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@0.2.4?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@0.2?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@1.15?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@1.16?classifier=sources

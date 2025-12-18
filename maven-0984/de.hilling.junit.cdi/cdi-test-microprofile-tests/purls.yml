@@ -6,3 +6,7 @@
 - pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.0?type=war
 - pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.11?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.11?type=war
+- pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.12?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.12?type=war
+- pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.13?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.13?type=war

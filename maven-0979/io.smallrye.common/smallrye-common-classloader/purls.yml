@@ -10,3 +10,9 @@
 - pkg:maven/io.smallrye.common/smallrye-common-classloader@1.5.0?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-classloader@1.6.0
 - pkg:maven/io.smallrye.common/smallrye-common-classloader@1.6.0?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@1.7.0
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@1.7.0?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@1.7.1
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@1.7.1?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@1.8.0
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@1.8.0?classifier=sources

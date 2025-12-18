@@ -6,3 +6,5 @@
 - pkg:maven/io.nats/multi-connect-sample@0.3.2?classifier=sources
 - pkg:maven/io.nats/multi-connect-sample@0.4.0
 - pkg:maven/io.nats/multi-connect-sample@0.4.0?classifier=sources
+- pkg:maven/io.nats/multi-connect-sample@0.4.1
+- pkg:maven/io.nats/multi-connect-sample@0.4.1?classifier=sources

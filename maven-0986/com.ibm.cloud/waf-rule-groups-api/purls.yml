@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.cloud/waf-rule-groups-api@0.21.3
+- pkg:maven/com.ibm.cloud/waf-rule-groups-api@0.21.3?classifier=sources
+- pkg:maven/com.ibm.cloud/waf-rule-groups-api@0.22.3
+- pkg:maven/com.ibm.cloud/waf-rule-groups-api@0.22.3?classifier=sources

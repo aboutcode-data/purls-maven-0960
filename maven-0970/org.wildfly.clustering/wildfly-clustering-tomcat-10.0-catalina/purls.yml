@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.0-catalina@13.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.0-catalina@14.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.0-catalina@14.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.0-catalina@15.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.0-catalina@15.0.0.Final?classifier=sources

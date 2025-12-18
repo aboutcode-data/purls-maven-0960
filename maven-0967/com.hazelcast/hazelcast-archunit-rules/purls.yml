@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.0
+- pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.0?classifier=sources

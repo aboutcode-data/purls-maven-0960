@@ -38,6 +38,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.22
 - pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.22?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.26
+- pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.26?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.feature.launcher@1.1.4

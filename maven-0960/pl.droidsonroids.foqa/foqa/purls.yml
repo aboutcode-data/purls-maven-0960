@@ -29,6 +29,7 @@
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.22?type=aar
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.23?type=aar
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.24?type=aar
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.1.26?classifier=sources
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.2?classifier=sources
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.2?type=aar
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.3?classifier=sources
@@ -45,3 +46,5 @@
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.8?type=aar
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.9?classifier=sources
 - pkg:maven/pl.droidsonroids.foqa/foqa@0.1.9?type=aar
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.2.0?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/foqa@0.2.1?classifier=sources

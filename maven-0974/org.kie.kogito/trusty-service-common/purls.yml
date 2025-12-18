@@ -1,5 +1,11 @@
 - pkg:maven/org.kie.kogito/trusty-service-common@1.10.0.Final
 - pkg:maven/org.kie.kogito/trusty-service-common@1.10.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-service-common@1.11.0.Final
+- pkg:maven/org.kie.kogito/trusty-service-common@1.11.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-service-common@1.11.1.Final
+- pkg:maven/org.kie.kogito/trusty-service-common@1.11.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-service-common@1.12.0.Final
+- pkg:maven/org.kie.kogito/trusty-service-common@1.12.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/trusty-service-common@1.4.0.Final
 - pkg:maven/org.kie.kogito/trusty-service-common@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/trusty-service-common@1.4.1.Final

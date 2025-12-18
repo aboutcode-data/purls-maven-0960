@@ -41,8 +41,16 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.15?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.16
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.16?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.17
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.17?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.18
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.18?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.2
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.20
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.20?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.21
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.21?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.3
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.12.3?classifier=sources
@@ -66,3 +74,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.9.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.9.3
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@5.9.3?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@6.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@6.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@6.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@6.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@6.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-documents@6.1.1?classifier=sources

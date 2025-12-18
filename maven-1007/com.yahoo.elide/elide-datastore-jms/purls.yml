@@ -2,7 +2,15 @@
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.10?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.11
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.11?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.12
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.12?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.8
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.8?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.9
 - pkg:maven/com.yahoo.elide/elide-datastore-jms@5.0.9?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@6.0.0-pr3
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@6.0.0-pr3?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@6.0.0-pr4
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@6.0.0-pr4?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@6.0.0-pr5
+- pkg:maven/com.yahoo.elide/elide-datastore-jms@6.0.0-pr5?classifier=sources

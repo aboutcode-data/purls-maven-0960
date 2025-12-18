@@ -11,6 +11,8 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.12.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.12.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.12.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.12.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.12.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.6.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.7.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.springservices.ui.feature@4.7.11?classifier=source-release&type=zip

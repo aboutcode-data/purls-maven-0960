@@ -20,6 +20,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.19.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.20.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.20.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.platform@4.21.0
+- pkg:maven/org.eclipse.platform/org.eclipse.platform@4.21.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.6.2
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.6.2?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.6.3

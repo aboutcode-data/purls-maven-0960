@@ -85,6 +85,8 @@
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.1
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.10
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.10?classifier=sources
+- pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.11
+- pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.11?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.1?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.2
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.4.2?classifier=sources
@@ -112,3 +114,5 @@
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.5.3?classifier=sources
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.5.4
 - pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.5.4?classifier=sources
+- pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.5.5
+- pkg:maven/org.springframework.geode/spring-geode-starter-actuator@1.5.5?classifier=sources

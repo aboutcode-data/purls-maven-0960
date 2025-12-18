@@ -36,3 +36,5 @@
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.4.2?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.4.3
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.4.3?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-postgresql@4.5.0
+- pkg:maven/org.liquibase.ext/liquibase-postgresql@4.5.0?classifier=sources

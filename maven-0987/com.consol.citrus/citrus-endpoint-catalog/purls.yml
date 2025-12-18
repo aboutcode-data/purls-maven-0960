@@ -6,3 +6,5 @@
 - pkg:maven/com.consol.citrus/citrus-endpoint-catalog@3.0.0-M3
 - pkg:maven/com.consol.citrus/citrus-endpoint-catalog@3.0.0-M3?classifier=sources
 - pkg:maven/com.consol.citrus/citrus-endpoint-catalog@3.0.0?classifier=sources
+- pkg:maven/com.consol.citrus/citrus-endpoint-catalog@3.1.0
+- pkg:maven/com.consol.citrus/citrus-endpoint-catalog@3.1.0?classifier=sources

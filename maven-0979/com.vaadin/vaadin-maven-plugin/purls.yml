@@ -123,6 +123,9 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.6.6
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.6.7
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.6.8
+- pkg:maven/com.vaadin/vaadin-maven-plugin@14.6.9
+- pkg:maven/com.vaadin/vaadin-maven-plugin@14.7.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@14.7.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@15.0.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@15.0.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@15.0.2
@@ -173,6 +176,11 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@20.0.5
 - pkg:maven/com.vaadin/vaadin-maven-plugin@20.0.6
 - pkg:maven/com.vaadin/vaadin-maven-plugin@20.0.7
+- pkg:maven/com.vaadin/vaadin-maven-plugin@20.0.8
+- pkg:maven/com.vaadin/vaadin-maven-plugin@21.0.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@21.0.1
+- pkg:maven/com.vaadin/vaadin-maven-plugin@21.0.2
+- pkg:maven/com.vaadin/vaadin-maven-plugin@21.0.3
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0.beta1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0.beta10
@@ -350,6 +358,8 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.13.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.13.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.13.3
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.14.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.14.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.2.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.2.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.0

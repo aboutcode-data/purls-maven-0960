@@ -1,3 +1,4 @@
+- pkg:maven/com.github.kokorin.jaffree/jaffree@0
 - pkg:maven/com.github.kokorin.jaffree/jaffree@0.1
 - pkg:maven/com.github.kokorin.jaffree/jaffree@0.10.0
 - pkg:maven/com.github.kokorin.jaffree/jaffree@0.10.0?classifier=sources
@@ -78,6 +79,7 @@
 - pkg:maven/com.github.kokorin.jaffree/jaffree@0.9.8?classifier=sources
 - pkg:maven/com.github.kokorin.jaffree/jaffree@0.9.9
 - pkg:maven/com.github.kokorin.jaffree/jaffree@0.9.9?classifier=sources
+- pkg:maven/com.github.kokorin.jaffree/jaffree@0?classifier=sources
 - pkg:maven/com.github.kokorin.jaffree/jaffree@2021-03-31
 - pkg:maven/com.github.kokorin.jaffree/jaffree@2021-03-31?classifier=sources
 - pkg:maven/com.github.kokorin.jaffree/jaffree@2021-04-08
@@ -98,3 +100,5 @@
 - pkg:maven/com.github.kokorin.jaffree/jaffree@2021.08.04?classifier=sources
 - pkg:maven/com.github.kokorin.jaffree/jaffree@2021.08.16
 - pkg:maven/com.github.kokorin.jaffree/jaffree@2021.08.16?classifier=sources
+- pkg:maven/com.github.kokorin.jaffree/jaffree@2021.08.31
+- pkg:maven/com.github.kokorin.jaffree/jaffree@2021.08.31?classifier=sources

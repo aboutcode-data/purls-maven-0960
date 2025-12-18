@@ -8,3 +8,5 @@
 - pkg:maven/org.xrpl/xrpl4j-client@1.2.0?classifier=sources
 - pkg:maven/org.xrpl/xrpl4j-client@2.0.0
 - pkg:maven/org.xrpl/xrpl4j-client@2.0.0?classifier=sources
+- pkg:maven/org.xrpl/xrpl4j-client@2.1.0
+- pkg:maven/org.xrpl/xrpl4j-client@2.1.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.izooto/power-push@1.3.0?type=aar
 - pkg:maven/com.izooto/power-push@1.3.2?classifier=sources
 - pkg:maven/com.izooto/power-push@1.3.2?type=aar
+- pkg:maven/com.izooto/power-push@1.3.3?classifier=sources
+- pkg:maven/com.izooto/power-push@1.3.3?type=aar

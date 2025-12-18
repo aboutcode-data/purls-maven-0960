@@ -1,2 +1,6 @@
 - pkg:maven/com.qcloud.cos/goosefs-client@1.0.0
 - pkg:maven/com.qcloud.cos/goosefs-client@1.0.0?classifier=sources
+- pkg:maven/com.qcloud.cos/goosefs-client@1.1.0
+- pkg:maven/com.qcloud.cos/goosefs-client@1.1.0-SNAP
+- pkg:maven/com.qcloud.cos/goosefs-client@1.1.0-SNAP?classifier=sources
+- pkg:maven/com.qcloud.cos/goosefs-client@1.1.0?classifier=sources

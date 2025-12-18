@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.10.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.10.1
 - pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.10.1?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.11.0
+- pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.11.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.7.0
 - pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.7.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-atlasmap-kafka-connector@0.7.1

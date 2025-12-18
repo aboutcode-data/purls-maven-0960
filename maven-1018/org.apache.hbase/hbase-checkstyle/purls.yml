@@ -290,5 +290,7 @@
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.4.4?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.4.5
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.4.5?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-checkstyle@2.4.6
+- pkg:maven/org.apache.hbase/hbase-checkstyle@2.4.6?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@3.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-checkstyle@3.0.0-alpha-1?classifier=sources

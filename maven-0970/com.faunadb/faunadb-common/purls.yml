@@ -96,3 +96,5 @@
 - pkg:maven/com.faunadb/faunadb-common@4.1.1?classifier=sources
 - pkg:maven/com.faunadb/faunadb-common@4.1.2
 - pkg:maven/com.faunadb/faunadb-common@4.1.2?classifier=sources
+- pkg:maven/com.faunadb/faunadb-common@4.2.0
+- pkg:maven/com.faunadb/faunadb-common@4.2.0?classifier=sources

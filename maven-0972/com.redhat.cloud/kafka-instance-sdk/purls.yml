@@ -6,3 +6,5 @@
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.5.1?classifier=sources
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.5.3
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.5.3?classifier=sources
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.6.0
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.6.0?classifier=sources

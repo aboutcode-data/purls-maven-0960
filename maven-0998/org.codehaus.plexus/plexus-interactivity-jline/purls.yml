@@ -5,3 +5,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-interactivity-jline@1.0-alpha-6
 - pkg:maven/org.codehaus.plexus/plexus-interactivity-jline@1.0-alpha-6?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-interactivity-jline@1.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-interactivity-jline@1.1
+- pkg:maven/org.codehaus.plexus/plexus-interactivity-jline@1.1?classifier=sources

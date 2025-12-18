@@ -8,3 +8,5 @@
 - pkg:maven/io.github.tencent/vap@2.0.18?type=aar
 - pkg:maven/io.github.tencent/vap@2.0.19?classifier=sources
 - pkg:maven/io.github.tencent/vap@2.0.19?type=aar
+- pkg:maven/io.github.tencent/vap@2.0.20?classifier=sources
+- pkg:maven/io.github.tencent/vap@2.0.20?type=aar

@@ -50,5 +50,7 @@
 - pkg:maven/org.apache.camel/camel-aws-msk@3.7.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws-msk@3.7.5
 - pkg:maven/org.apache.camel/camel-aws-msk@3.7.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-aws-msk@3.7.6
+- pkg:maven/org.apache.camel/camel-aws-msk@3.7.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-aws-msk@3.8.0
 - pkg:maven/org.apache.camel/camel-aws-msk@3.8.0?classifier=sources

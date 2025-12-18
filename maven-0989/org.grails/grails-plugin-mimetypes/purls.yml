@@ -243,6 +243,8 @@
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.0.10?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.0.11
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.0.11?classifier=sources
+- pkg:maven/org.grails/grails-plugin-mimetypes@4.0.12
+- pkg:maven/org.grails/grails-plugin-mimetypes@4.0.12?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.0.1?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.0.5
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.0.5?classifier=sources
@@ -258,7 +260,11 @@
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.1.0.M3?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.1.0.M4
 - pkg:maven/org.grails/grails-plugin-mimetypes@4.1.0.M4?classifier=sources
+- pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0-RC3?classifier=sources
+- pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0-RC4?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0.M1
 - pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0.M1?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0.M2?classifier=sources
 - pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0.RC1?classifier=sources
+- pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0.RC2?classifier=sources
+- pkg:maven/org.grails/grails-plugin-mimetypes@5.0.0?classifier=sources

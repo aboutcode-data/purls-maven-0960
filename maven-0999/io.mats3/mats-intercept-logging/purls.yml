@@ -1,1 +1,4 @@
 - pkg:maven/io.mats3/mats-intercept-logging@0.17.0?classifier=sources
+- pkg:maven/io.mats3/mats-intercept-logging@0.18.0-2021-09-14?classifier=sources
+- pkg:maven/io.mats3/mats-intercept-logging@0.18.1-2021-10-15?classifier=sources
+- pkg:maven/io.mats3/mats-intercept-logging@0.18.2-2021-10-15?classifier=sources

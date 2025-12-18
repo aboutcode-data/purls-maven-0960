@@ -2,3 +2,5 @@
 - pkg:maven/ru.yoomoney.gradle.plugins/grafana-dashboard-plugin@5.0.1?classifier=sources
 - pkg:maven/ru.yoomoney.gradle.plugins/grafana-dashboard-plugin@5.1.0?classifier=sources
 - pkg:maven/ru.yoomoney.gradle.plugins/grafana-dashboard-plugin@5.2.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/grafana-dashboard-plugin@5.3.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/grafana-dashboard-plugin@5.4.0?classifier=sources

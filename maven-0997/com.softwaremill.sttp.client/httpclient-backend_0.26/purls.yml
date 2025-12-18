@@ -1,3 +1,5 @@
+- pkg:maven/com.softwaremill.sttp.client/httpclient-backend_0.26@2.2.10
+- pkg:maven/com.softwaremill.sttp.client/httpclient-backend_0.26@2.2.10?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client/httpclient-backend_0.26@2.2.5
 - pkg:maven/com.softwaremill.sttp.client/httpclient-backend_0.26@2.2.5?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client/httpclient-backend_0.26@2.2.6

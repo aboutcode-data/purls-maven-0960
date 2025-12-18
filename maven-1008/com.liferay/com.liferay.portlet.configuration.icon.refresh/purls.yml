@@ -81,3 +81,6 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.2
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.3
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.3?classifier=sources-commercial

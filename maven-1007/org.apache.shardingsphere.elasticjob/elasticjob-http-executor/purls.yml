@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-http-executor@3.0.0-beta
 - pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-http-executor@3.0.0-beta?classifier=sources
 - pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-http-executor@3.0.0?classifier=sources
+- pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-http-executor@3.0.1
+- pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-http-executor@3.0.1?classifier=sources

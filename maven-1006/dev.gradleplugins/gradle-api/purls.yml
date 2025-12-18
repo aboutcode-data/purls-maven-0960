@@ -66,6 +66,7 @@
 - pkg:maven/dev.gradleplugins/gradle-api@6.8.2?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-api@6.8.3?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-api@6.8?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-api@6.9.1?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-api@6.9?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-api@7.0.1
 - pkg:maven/dev.gradleplugins/gradle-api@7.0.2?classifier=sources

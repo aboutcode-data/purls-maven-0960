@@ -282,6 +282,12 @@
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.2-b2
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.2-b2?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.2?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.3
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.3?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.4
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.4?classifier=sources
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.5-rc1
+- pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.5.5-rc1?classifier=sources
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.6.0
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.6.0-rc3
 - pkg:maven/org.onosproject/onos-protocols-ovsdb-ctl@2.6.0-rc3?classifier=sources

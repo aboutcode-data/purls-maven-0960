@@ -10,6 +10,8 @@
 - pkg:maven/com.oneidentity.safeguard/safeguardjava@2.9.0-beta2?classifier=sources
 - pkg:maven/com.oneidentity.safeguard/safeguardjava@6.0.0
 - pkg:maven/com.oneidentity.safeguard/safeguardjava@6.0.0?classifier=sources
+- pkg:maven/com.oneidentity.safeguard/safeguardjava@6.11.0.133386
+- pkg:maven/com.oneidentity.safeguard/safeguardjava@6.11.0.133386?classifier=sources
 - pkg:maven/com.oneidentity.safeguard/safeguardjava@6.7.1.96997
 - pkg:maven/com.oneidentity.safeguard/safeguardjava@6.7.1.96997?classifier=sources
 - pkg:maven/com.oneidentity.safeguard/safeguardjava@6.7.2.97402

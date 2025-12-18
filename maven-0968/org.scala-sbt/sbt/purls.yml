@@ -178,3 +178,5 @@
 - pkg:maven/org.scala-sbt/sbt@1.5.4?classifier=sources
 - pkg:maven/org.scala-sbt/sbt@1.5.5
 - pkg:maven/org.scala-sbt/sbt@1.5.5?classifier=sources
+- pkg:maven/org.scala-sbt/sbt@1.6.0-M1
+- pkg:maven/org.scala-sbt/sbt@1.6.0-M1?classifier=sources

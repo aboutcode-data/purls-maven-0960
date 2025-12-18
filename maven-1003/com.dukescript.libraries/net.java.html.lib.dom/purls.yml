@@ -1,6 +1,8 @@
 - pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.1
 - pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.15
 - pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.15?classifier=sources
+- pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.16
+- pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.16?classifier=sources
 - pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.2
 - pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.2?classifier=sources
 - pkg:maven/com.dukescript.libraries/net.java.html.lib.dom@0.3

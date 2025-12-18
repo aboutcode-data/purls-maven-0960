@@ -21,5 +21,8 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.8.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.8.2.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.8.2?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.8.3.ee?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.9.0.ee?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.9.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@9.9.9-20201009170109?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@9.9.9-20201011200802?classifier=sources

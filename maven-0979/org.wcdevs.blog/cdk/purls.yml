@@ -1,0 +1,6 @@
+- pkg:maven/org.wcdevs.blog/cdk@0.0.4
+- pkg:maven/org.wcdevs.blog/cdk@0.0.4?classifier=sources
+- pkg:maven/org.wcdevs.blog/cdk@0.0.6
+- pkg:maven/org.wcdevs.blog/cdk@0.0.6?classifier=sources
+- pkg:maven/org.wcdevs.blog/cdk@0.0.8
+- pkg:maven/org.wcdevs.blog/cdk@0.0.8?classifier=sources

@@ -43,6 +43,8 @@
 - pkg:maven/io.mantisrx/mantis-shaded@1.3.35?classifier=sources
 - pkg:maven/io.mantisrx/mantis-shaded@1.3.36?classifier=sources
 - pkg:maven/io.mantisrx/mantis-shaded@1.3.37?classifier=sources
+- pkg:maven/io.mantisrx/mantis-shaded@1.3.38?classifier=sources
+- pkg:maven/io.mantisrx/mantis-shaded@1.3.39?classifier=sources
 - pkg:maven/io.mantisrx/mantis-shaded@1.3.3?classifier=sources
 - pkg:maven/io.mantisrx/mantis-shaded@1.3.5
 - pkg:maven/io.mantisrx/mantis-shaded@1.3.5?classifier=sources

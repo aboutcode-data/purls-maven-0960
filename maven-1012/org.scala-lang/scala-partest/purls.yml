@@ -76,6 +76,8 @@
 - pkg:maven/org.scala-lang/scala-partest@2.12.13?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.12.14
 - pkg:maven/org.scala-lang/scala-partest@2.12.14?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.12.15
+- pkg:maven/org.scala-lang/scala-partest@2.12.15?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.0
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4?classifier=sources

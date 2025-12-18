@@ -1,4 +1,6 @@
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-core@3.0.0
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@3.0.0-M1
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@3.0.0-M1?classifier=sources
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@3.0.0-M2
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@3.0.0-M2?classifier=sources
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-core@3.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/io.kgraph/kafka-graphs-rest-app@1.4.0?classifier=sources
 - pkg:maven/io.kgraph/kafka-graphs-rest-app@1.5.0
 - pkg:maven/io.kgraph/kafka-graphs-rest-app@1.5.0?classifier=sources
+- pkg:maven/io.kgraph/kafka-graphs-rest-app@2.0.0
+- pkg:maven/io.kgraph/kafka-graphs-rest-app@2.0.0?classifier=sources

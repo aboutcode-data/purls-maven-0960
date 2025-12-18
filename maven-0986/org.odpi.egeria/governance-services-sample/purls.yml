@@ -12,3 +12,7 @@
 - pkg:maven/org.odpi.egeria/governance-services-sample@2.9?classifier=sources
 - pkg:maven/org.odpi.egeria/governance-services-sample@3.0
 - pkg:maven/org.odpi.egeria/governance-services-sample@3.0?classifier=sources
+- pkg:maven/org.odpi.egeria/governance-services-sample@3.1
+- pkg:maven/org.odpi.egeria/governance-services-sample@3.1?classifier=sources
+- pkg:maven/org.odpi.egeria/governance-services-sample@3.2
+- pkg:maven/org.odpi.egeria/governance-services-sample@3.2?classifier=sources

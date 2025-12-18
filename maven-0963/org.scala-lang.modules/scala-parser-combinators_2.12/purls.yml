@@ -22,3 +22,5 @@
 - pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.12@1.2.0-RC2?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.12@2.0.0
 - pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.12@2.0.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.12@2.1.0
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.12@2.1.0?classifier=sources

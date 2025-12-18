@@ -6,3 +6,5 @@
 - pkg:maven/com.apollographql.federation/federation-spring-example@0.6.4?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-spring-example@0.6.5
 - pkg:maven/com.apollographql.federation/federation-spring-example@0.6.5?classifier=sources
+- pkg:maven/com.apollographql.federation/federation-spring-example@0.7.0
+- pkg:maven/com.apollographql.federation/federation-spring-example@0.7.0?classifier=sources

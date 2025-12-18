@@ -55,7 +55,10 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.12.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.12.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.12.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.12.5?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.13.0-rc1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.13.0-rc2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.13.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.2.0
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.2.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.2.1

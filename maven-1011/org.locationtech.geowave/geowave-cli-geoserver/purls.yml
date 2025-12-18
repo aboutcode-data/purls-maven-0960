@@ -6,3 +6,5 @@
 - pkg:maven/org.locationtech.geowave/geowave-cli-geoserver@1.1.0?classifier=sources
 - pkg:maven/org.locationtech.geowave/geowave-cli-geoserver@1.2.0
 - pkg:maven/org.locationtech.geowave/geowave-cli-geoserver@1.2.0?classifier=sources
+- pkg:maven/org.locationtech.geowave/geowave-cli-geoserver@2.0.0
+- pkg:maven/org.locationtech.geowave/geowave-cli-geoserver@2.0.0?classifier=sources

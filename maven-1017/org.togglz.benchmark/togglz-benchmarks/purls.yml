@@ -42,3 +42,5 @@
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@2.9.8?classifier=sources
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@2.9.9
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@2.9.9?classifier=sources
+- pkg:maven/org.togglz.benchmark/togglz-benchmarks@3.0.0
+- pkg:maven/org.togglz.benchmark/togglz-benchmarks@3.0.0?classifier=sources

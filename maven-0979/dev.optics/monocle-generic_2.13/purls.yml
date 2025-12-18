@@ -2,3 +2,5 @@
 - pkg:maven/dev.optics/monocle-generic_2.13@3.0.0-RC2
 - pkg:maven/dev.optics/monocle-generic_2.13@3.0.0-RC2?classifier=sources
 - pkg:maven/dev.optics/monocle-generic_2.13@3.0.0?classifier=sources
+- pkg:maven/dev.optics/monocle-generic_2.13@3.1.0
+- pkg:maven/dev.optics/monocle-generic_2.13@3.1.0?classifier=sources

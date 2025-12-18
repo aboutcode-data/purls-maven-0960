@@ -1,6 +1,8 @@
 - pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.1
 - pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.15
 - pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.15?classifier=sources
+- pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.16
+- pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.16?classifier=sources
 - pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.2
 - pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.3
 - pkg:maven/com.dukescript.libraries/typings-maven-plugin@0.4

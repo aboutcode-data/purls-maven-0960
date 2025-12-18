@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.hono/hono-client-telemetry@1.10.0
+- pkg:maven/org.eclipse.hono/hono-client-telemetry@1.10.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-telemetry@1.9.0
 - pkg:maven/org.eclipse.hono/hono-client-telemetry@1.9.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-telemetry@1.9.1

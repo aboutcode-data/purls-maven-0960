@@ -112,3 +112,7 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.6-noshaded
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.6-noshaded?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.6?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.7
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.7-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.7-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.0.7?classifier=sources

@@ -51,6 +51,8 @@
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.27?classifier=sources
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.28
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.28?classifier=sources
+- pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.29
+- pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.29?classifier=sources
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.2?classifier=sources
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.3
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.3?classifier=sources
@@ -66,3 +68,5 @@
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.8?classifier=sources
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.9
 - pkg:maven/org.scalameta/munit_sjs1_2.13@0.7.9?classifier=sources
+- pkg:maven/org.scalameta/munit_sjs1_2.13@1.0.0-M1
+- pkg:maven/org.scalameta/munit_sjs1_2.13@1.0.0-M1?classifier=sources

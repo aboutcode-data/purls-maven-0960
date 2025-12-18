@@ -1,5 +1,7 @@
 - pkg:maven/com.devonfw.cobigen/core-test@2021.08.001
 - pkg:maven/com.devonfw.cobigen/core-test@2021.08.001?classifier=sources
+- pkg:maven/com.devonfw.cobigen/core-test@2021.08.002
+- pkg:maven/com.devonfw.cobigen/core-test@2021.08.002?classifier=sources
 - pkg:maven/com.devonfw.cobigen/core-test@5.0.0
 - pkg:maven/com.devonfw.cobigen/core-test@5.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/core-test@5.1.0

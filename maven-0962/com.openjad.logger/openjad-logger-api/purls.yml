@@ -1,2 +1,4 @@
 - pkg:maven/com.openjad.logger/openjad-logger-api@2.0.3-RELEASE
 - pkg:maven/com.openjad.logger/openjad-logger-api@2.0.3-RELEASE?classifier=sources
+- pkg:maven/com.openjad.logger/openjad-logger-api@2.0.5-RELEASE
+- pkg:maven/com.openjad.logger/openjad-logger-api@2.0.5-RELEASE?classifier=sources

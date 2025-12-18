@@ -2,6 +2,10 @@
 - pkg:maven/io.gitee.tengjijing/foundation@1.0.0?type=aar
 - pkg:maven/io.gitee.tengjijing/foundation@1.0.1?classifier=sources
 - pkg:maven/io.gitee.tengjijing/foundation@1.0.1?type=aar
+- pkg:maven/io.gitee.tengjijing/foundation@1.0.2?classifier=sources
+- pkg:maven/io.gitee.tengjijing/foundation@1.0.2?type=aar
+- pkg:maven/io.gitee.tengjijing/foundation@1.0.3?classifier=sources
+- pkg:maven/io.gitee.tengjijing/foundation@1.0.3?type=aar
 - pkg:maven/io.gitee.tengjijing/foundation@1.0.4?classifier=sources
 - pkg:maven/io.gitee.tengjijing/foundation@1.0.4?type=aar
 - pkg:maven/io.gitee.tengjijing/foundation@1.0?classifier=sources
@@ -11,3 +15,5 @@
 - pkg:maven/io.gitee.tengjijing/foundation@1.2.2?type=aar
 - pkg:maven/io.gitee.tengjijing/foundation@1.2.3?classifier=sources
 - pkg:maven/io.gitee.tengjijing/foundation@1.2.3?type=aar
+- pkg:maven/io.gitee.tengjijing/foundation@1.2.4?classifier=sources
+- pkg:maven/io.gitee.tengjijing/foundation@1.2.4?type=aar

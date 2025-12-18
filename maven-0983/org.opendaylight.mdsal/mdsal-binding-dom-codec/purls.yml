@@ -214,3 +214,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@8.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@8.0.4
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@8.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@8.0.5
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@8.0.5?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib@1.5.9.9?type=aar
 - pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib@1.5.9?classifier=sources
 - pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib@1.5.9?type=aar
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib@1.6.0-tf?classifier=sources
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib@1.6.0-tf?type=aar

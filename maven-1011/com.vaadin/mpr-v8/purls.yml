@@ -40,6 +40,8 @@
 - pkg:maven/com.vaadin/mpr-v8@2.2.3?classifier=sources
 - pkg:maven/com.vaadin/mpr-v8@2.2.4
 - pkg:maven/com.vaadin/mpr-v8@2.2.4?classifier=sources
+- pkg:maven/com.vaadin/mpr-v8@2.2.5
+- pkg:maven/com.vaadin/mpr-v8@2.2.5?classifier=sources
 - pkg:maven/com.vaadin/mpr-v8@3.0.0
 - pkg:maven/com.vaadin/mpr-v8@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/mpr-v8@3.0.1
@@ -60,3 +62,5 @@
 - pkg:maven/com.vaadin/mpr-v8@5.0.3?classifier=sources
 - pkg:maven/com.vaadin/mpr-v8@5.0.4
 - pkg:maven/com.vaadin/mpr-v8@5.0.4?classifier=sources
+- pkg:maven/com.vaadin/mpr-v8@5.0.5
+- pkg:maven/com.vaadin/mpr-v8@5.0.5?classifier=sources

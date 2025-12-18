@@ -250,3 +250,7 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.4.8.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.4.9.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.4.9.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.1.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.1.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.2.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.2.Final?classifier=sources

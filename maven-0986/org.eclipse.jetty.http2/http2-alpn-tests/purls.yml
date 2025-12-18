@@ -48,6 +48,8 @@
 - pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.26.v20190403?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.3.v20150827?classifier=sources
+- pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.30.v20211001
+- pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.30.v20211001?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.4.RC0
 - pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.4.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.http2/http2-alpn-tests@9.3.4.RC1

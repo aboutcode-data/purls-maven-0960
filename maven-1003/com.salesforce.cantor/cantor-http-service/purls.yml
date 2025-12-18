@@ -83,6 +83,10 @@
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.20?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.21
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.21?classifier=sources
+- pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.22
+- pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.22?classifier=sources
+- pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.23
+- pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.23?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.2?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.4
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.4?classifier=sources

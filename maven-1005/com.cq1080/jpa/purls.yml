@@ -6,3 +6,5 @@
 - pkg:maven/com.cq1080/jpa@0.0.8.1
 - pkg:maven/com.cq1080/jpa@0.0.8.1?classifier=sources
 - pkg:maven/com.cq1080/jpa@0.0.8?classifier=sources
+- pkg:maven/com.cq1080/jpa@0.0.9-ssgc
+- pkg:maven/com.cq1080/jpa@0.0.9-ssgc?classifier=sources

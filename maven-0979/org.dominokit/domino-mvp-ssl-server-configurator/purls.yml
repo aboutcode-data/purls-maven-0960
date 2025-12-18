@@ -1,4 +1,8 @@
 - pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC1
+- pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC10
+- pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC10?classifier=sources
+- pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC11
+- pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC11?classifier=sources
 - pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC1?classifier=sources
 - pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC2
 - pkg:maven/org.dominokit/domino-mvp-ssl-server-configurator@1.0.0-RC2?classifier=sources

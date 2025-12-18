@@ -202,6 +202,8 @@
 - pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.1
 - pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.10
 - pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.10?classifier=sources
+- pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.11
+- pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.11?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.1?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.2
 - pkg:maven/org.springdoc/springdoc-openapi-webflux-core@1.5.2?classifier=sources

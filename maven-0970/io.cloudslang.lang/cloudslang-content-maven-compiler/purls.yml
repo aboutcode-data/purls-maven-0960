@@ -378,6 +378,10 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@1.0.9?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.0
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.0?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.10
+- pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.10?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.11
+- pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.11?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.2
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.2?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.4
@@ -388,3 +392,5 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.7?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.8
 - pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.8?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.9
+- pkg:maven/io.cloudslang.lang/cloudslang-content-maven-compiler@2.0.9?classifier=sources

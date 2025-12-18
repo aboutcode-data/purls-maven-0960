@@ -2,6 +2,12 @@
 - pkg:maven/org.occurrent/command-composition@0.10.0?classifier=sources
 - pkg:maven/org.occurrent/command-composition@0.11.0
 - pkg:maven/org.occurrent/command-composition@0.11.0?classifier=sources
+- pkg:maven/org.occurrent/command-composition@0.12.0
+- pkg:maven/org.occurrent/command-composition@0.12.0?classifier=sources
+- pkg:maven/org.occurrent/command-composition@0.13.0
+- pkg:maven/org.occurrent/command-composition@0.13.0?classifier=sources
+- pkg:maven/org.occurrent/command-composition@0.13.1
+- pkg:maven/org.occurrent/command-composition@0.13.1?classifier=sources
 - pkg:maven/org.occurrent/command-composition@0.2.0
 - pkg:maven/org.occurrent/command-composition@0.2.0?classifier=sources
 - pkg:maven/org.occurrent/command-composition@0.2.1

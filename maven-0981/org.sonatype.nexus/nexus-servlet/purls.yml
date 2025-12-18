@@ -149,6 +149,12 @@
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.33.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.33.1-01
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.33.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.34.0-01
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.34.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.34.1-01
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.34.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.35.0-02
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.35.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.4.0-02
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.4.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.5.0-02

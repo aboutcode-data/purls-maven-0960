@@ -55,3 +55,5 @@
 - pkg:maven/org.apache.tomee/openejb-axis@8.0.6?classifier=sources
 - pkg:maven/org.apache.tomee/openejb-axis@8.0.7
 - pkg:maven/org.apache.tomee/openejb-axis@8.0.7?classifier=sources
+- pkg:maven/org.apache.tomee/openejb-axis@8.0.8
+- pkg:maven/org.apache.tomee/openejb-axis@8.0.8?classifier=sources

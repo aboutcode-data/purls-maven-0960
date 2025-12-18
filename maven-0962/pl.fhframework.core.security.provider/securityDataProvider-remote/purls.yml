@@ -55,6 +55,8 @@
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.10?classifier=sources
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.11
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.11?classifier=sources
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.14
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.14?classifier=sources
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.1?classifier=sources
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.2
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.2?classifier=sources
@@ -68,3 +70,11 @@
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.7?classifier=sources
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.8
 - pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.8.8?classifier=sources
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.16
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.16?classifier=sources
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.17
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.17?classifier=sources
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.18
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.18?classifier=sources
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.19
+- pkg:maven/pl.fhframework.core.security.provider/securityDataProvider-remote@4.9.19?classifier=sources

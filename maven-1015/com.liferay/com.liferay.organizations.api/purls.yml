@@ -41,6 +41,9 @@
 - pkg:maven/com.liferay/com.liferay.organizations.api@3.0.10
 - pkg:maven/com.liferay/com.liferay.organizations.api@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@3.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.api@3.0.11
+- pkg:maven/com.liferay/com.liferay.organizations.api@3.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.api@3.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.api@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.api@3.0.2
@@ -80,6 +83,9 @@
 - pkg:maven/com.liferay/com.liferay.organizations.api@4.0.12
 - pkg:maven/com.liferay/com.liferay.organizations.api@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@4.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.api@4.0.13
+- pkg:maven/com.liferay/com.liferay.organizations.api@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.api@4.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.api@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.api@4.0.2
@@ -131,6 +137,9 @@
 - pkg:maven/com.liferay/com.liferay.organizations.api@5.0.18
 - pkg:maven/com.liferay/com.liferay.organizations.api@5.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@5.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.api@5.0.19
+- pkg:maven/com.liferay/com.liferay.organizations.api@5.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.api@5.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.api@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.organizations.api@5.0.2
@@ -178,3 +187,9 @@
 - pkg:maven/com.liferay/com.liferay.organizations.api@6.0.6
 - pkg:maven/com.liferay/com.liferay.organizations.api@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.organizations.api@6.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.api@6.0.7
+- pkg:maven/com.liferay/com.liferay.organizations.api@6.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.api@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.organizations.api@6.0.8
+- pkg:maven/com.liferay/com.liferay.organizations.api@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.organizations.api@6.0.8?classifier=sources-commercial

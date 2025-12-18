@@ -476,3 +476,13 @@
 - pkg:maven/io.fabric8/openshift-client@5.6.0?classifier=sources
 - pkg:maven/io.fabric8/openshift-client@5.7.0
 - pkg:maven/io.fabric8/openshift-client@5.7.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@5.7.1
+- pkg:maven/io.fabric8/openshift-client@5.7.1?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@5.7.2
+- pkg:maven/io.fabric8/openshift-client@5.7.2?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@5.7.3
+- pkg:maven/io.fabric8/openshift-client@5.7.3?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@5.8.0
+- pkg:maven/io.fabric8/openshift-client@5.8.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-client@5.9.0
+- pkg:maven/io.fabric8/openshift-client@5.9.0?classifier=sources
