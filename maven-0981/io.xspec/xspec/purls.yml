@@ -9,3 +9,5 @@
 - pkg:maven/io.xspec/xspec@1.5.0?classifier=sources
 - pkg:maven/io.xspec/xspec@1.6.0
 - pkg:maven/io.xspec/xspec@1.6.0?classifier=sources
+- pkg:maven/io.xspec/xspec@2.0.7
+- pkg:maven/io.xspec/xspec@2.0.7?classifier=sources

@@ -80,3 +80,7 @@
 - pkg:maven/de.svenkubiak/embedded-mongodb@5.0.4?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@5.0.5
 - pkg:maven/de.svenkubiak/embedded-mongodb@5.0.5?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.1.0
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.1.0?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.1.1
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.1.1?classifier=sources

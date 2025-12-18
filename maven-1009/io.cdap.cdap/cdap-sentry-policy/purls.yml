@@ -14,5 +14,7 @@
 - pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.11.2?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.11.3
 - pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.11.3?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.12.0
+- pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.12.0?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.9.0
 - pkg:maven/io.cdap.cdap/cdap-sentry-policy@0.9.0?classifier=sources

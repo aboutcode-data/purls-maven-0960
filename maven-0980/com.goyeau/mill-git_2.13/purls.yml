@@ -8,6 +8,10 @@
 - pkg:maven/com.goyeau/mill-git_2.13@0.1.0-8-5ed3839?classifier=sources
 - pkg:maven/com.goyeau/mill-git_2.13@0.1.1
 - pkg:maven/com.goyeau/mill-git_2.13@0.1.1?classifier=sources
+- pkg:maven/com.goyeau/mill-git_2.13@0.2.0
+- pkg:maven/com.goyeau/mill-git_2.13@0.2.0?classifier=sources
+- pkg:maven/com.goyeau/mill-git_2.13@0.2.1
+- pkg:maven/com.goyeau/mill-git_2.13@0.2.1?classifier=sources
 - pkg:maven/com.goyeau/mill-git_2.13@22f8716
 - pkg:maven/com.goyeau/mill-git_2.13@22f8716?classifier=sources
 - pkg:maven/com.goyeau/mill-git_2.13@2d01648

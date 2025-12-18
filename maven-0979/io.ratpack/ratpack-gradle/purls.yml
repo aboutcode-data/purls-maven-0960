@@ -126,3 +126,7 @@
 - pkg:maven/io.ratpack/ratpack-gradle@1.7.6?classifier=sources
 - pkg:maven/io.ratpack/ratpack-gradle@1.8.0
 - pkg:maven/io.ratpack/ratpack-gradle@1.8.0?classifier=sources
+- pkg:maven/io.ratpack/ratpack-gradle@1.8.1
+- pkg:maven/io.ratpack/ratpack-gradle@1.8.1?classifier=sources
+- pkg:maven/io.ratpack/ratpack-gradle@1.8.2
+- pkg:maven/io.ratpack/ratpack-gradle@1.8.2?classifier=sources

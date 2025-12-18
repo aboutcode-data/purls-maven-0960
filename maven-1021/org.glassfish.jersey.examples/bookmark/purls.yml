@@ -182,6 +182,9 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.31?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.32?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark@2.33?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/bookmark@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark@2.33?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.3?type=war
@@ -219,3 +222,5 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark@3.0.0-M1?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark@3.0.0-M6?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark@3.0.0-M6?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark@3.0.0-RC2?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark@3.0.0-RC2?type=war

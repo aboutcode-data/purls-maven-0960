@@ -12,3 +12,5 @@
 - pkg:maven/com.foreach.across.modules/across-hibernate-module@3.0.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across.modules/across-hibernate-module@4.0.0.RELEASE
 - pkg:maven/com.foreach.across.modules/across-hibernate-module@4.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/across-hibernate-module@4.1.0.RELEASE
+- pkg:maven/com.foreach.across.modules/across-hibernate-module@4.1.0.RELEASE?classifier=sources

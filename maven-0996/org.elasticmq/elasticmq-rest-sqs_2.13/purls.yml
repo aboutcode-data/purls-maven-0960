@@ -14,3 +14,7 @@
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@0.15.6?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@0.15.8
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@0.15.8?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.0.0
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.0.0?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.1.0
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.1.0?classifier=sources

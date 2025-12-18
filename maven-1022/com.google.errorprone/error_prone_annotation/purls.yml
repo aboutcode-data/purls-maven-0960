@@ -120,3 +120,7 @@
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.3.4?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.4.0
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.4.0?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_annotation@2.5.0
+- pkg:maven/com.google.errorprone/error_prone_annotation@2.5.0?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_annotation@2.5.1
+- pkg:maven/com.google.errorprone/error_prone_annotation@2.5.1?classifier=sources

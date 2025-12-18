@@ -28,3 +28,9 @@
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@8.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@8.7
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@8.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@8.9
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@8.9?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@9.0
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@9.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@9.1
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@9.1?classifier=sources

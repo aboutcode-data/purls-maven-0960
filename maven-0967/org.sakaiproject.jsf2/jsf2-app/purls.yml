@@ -10,7 +10,11 @@
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@19.4?classifier=sources
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@19.5
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@19.5?classifier=sources
+- pkg:maven/org.sakaiproject.jsf2/jsf2-app@19.6
+- pkg:maven/org.sakaiproject.jsf2/jsf2-app@19.6?classifier=sources
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@20.0
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@20.0?classifier=sources
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@20.1
 - pkg:maven/org.sakaiproject.jsf2/jsf2-app@20.1?classifier=sources
+- pkg:maven/org.sakaiproject.jsf2/jsf2-app@20.2
+- pkg:maven/org.sakaiproject.jsf2/jsf2-app@20.2?classifier=sources

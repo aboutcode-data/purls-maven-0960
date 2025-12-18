@@ -120,3 +120,7 @@
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.4.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.5.1
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.5.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.6.0
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.6.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.6.1
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.6.1?classifier=sources

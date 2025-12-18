@@ -10,3 +10,5 @@
 - pkg:maven/dev.sanda/datafi@0.0.5.3
 - pkg:maven/dev.sanda/datafi@0.0.5.3?classifier=sources
 - pkg:maven/dev.sanda/datafi@0.0.5?classifier=sources
+- pkg:maven/dev.sanda/datafi@0.1.0.BETA
+- pkg:maven/dev.sanda/datafi@0.1.0.BETA?classifier=sources

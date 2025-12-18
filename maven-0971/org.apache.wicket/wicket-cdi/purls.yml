@@ -136,6 +136,8 @@
 - pkg:maven/org.apache.wicket/wicket-cdi@8.1.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-cdi@8.10.0
 - pkg:maven/org.apache.wicket/wicket-cdi@8.10.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-cdi@8.11.0
+- pkg:maven/org.apache.wicket/wicket-cdi@8.11.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-cdi@8.2.0
 - pkg:maven/org.apache.wicket/wicket-cdi@8.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-cdi@8.3.0
@@ -168,3 +170,5 @@
 - pkg:maven/org.apache.wicket/wicket-cdi@9.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-cdi@9.1.0
 - pkg:maven/org.apache.wicket/wicket-cdi@9.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-cdi@9.2.0
+- pkg:maven/org.apache.wicket/wicket-cdi@9.2.0?classifier=sources

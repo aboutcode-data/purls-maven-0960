@@ -6,3 +6,9 @@
 - pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.0-RELEASE?classifier=sources
 - pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.1-RELEASE
 - pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.1-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.2-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.2-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.3-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.3-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.4-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-protocol-grpc@1.4.4-RELEASE?classifier=sources

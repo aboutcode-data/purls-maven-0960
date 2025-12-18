@@ -1,2 +1,4 @@
 - pkg:maven/com.github.heuermh.adamcommands/adam-commands_2.12@0.32.0
 - pkg:maven/com.github.heuermh.adamcommands/adam-commands_2.12@0.32.0?classifier=sources
+- pkg:maven/com.github.heuermh.adamcommands/adam-commands_2.12@0.33.0
+- pkg:maven/com.github.heuermh.adamcommands/adam-commands_2.12@0.33.0?classifier=sources

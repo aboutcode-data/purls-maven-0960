@@ -4,3 +4,5 @@
 - pkg:maven/com.helger.peppol/as2-peppol-server@5.4.1?type=war
 - pkg:maven/com.helger.peppol/as2-peppol-server@5.4.2?classifier=sources
 - pkg:maven/com.helger.peppol/as2-peppol-server@5.4.2?type=war
+- pkg:maven/com.helger.peppol/as2-peppol-server@5.4.3?classifier=sources
+- pkg:maven/com.helger.peppol/as2-peppol-server@5.4.3?type=war

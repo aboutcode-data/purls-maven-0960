@@ -1,2 +1,4 @@
 - pkg:maven/io.zipkin.contrib.brave/brave-kafka-interceptor@0.5.4
 - pkg:maven/io.zipkin.contrib.brave/brave-kafka-interceptor@0.5.4?classifier=sources
+- pkg:maven/io.zipkin.contrib.brave/brave-kafka-interceptor@0.5.5
+- pkg:maven/io.zipkin.contrib.brave/brave-kafka-interceptor@0.5.5?classifier=sources

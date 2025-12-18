@@ -1,2 +1,6 @@
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-rest@1.0.10
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-rest@1.0.10?classifier=sources
 - pkg:maven/org.bonitasoft.connectors/bonita-connector-rest@1.0.8
 - pkg:maven/org.bonitasoft.connectors/bonita-connector-rest@1.0.8?classifier=sources
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-rest@1.0.9
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-rest@1.0.9?classifier=sources

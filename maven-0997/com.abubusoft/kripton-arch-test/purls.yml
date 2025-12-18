@@ -58,6 +58,7 @@
 - pkg:maven/com.abubusoft/kripton-arch-test@6.0.0-rc.7
 - pkg:maven/com.abubusoft/kripton-arch-test@6.0.0-rc.7?classifier=sources
 - pkg:maven/com.abubusoft/kripton-arch-test@6.0.0?classifier=sources
+- pkg:maven/com.abubusoft/kripton-arch-test@7.0.0
 - pkg:maven/com.abubusoft/kripton-arch-test@7.0.0-rc.3
 - pkg:maven/com.abubusoft/kripton-arch-test@7.0.0-rc.3?classifier=sources
 - pkg:maven/com.abubusoft/kripton-arch-test@7.0.0-rc.4
@@ -68,3 +69,4 @@
 - pkg:maven/com.abubusoft/kripton-arch-test@7.0.0-rc.7?classifier=sources
 - pkg:maven/com.abubusoft/kripton-arch-test@7.0.0-rc.8
 - pkg:maven/com.abubusoft/kripton-arch-test@7.0.0-rc.8?classifier=sources
+- pkg:maven/com.abubusoft/kripton-arch-test@7.0.0?classifier=sources

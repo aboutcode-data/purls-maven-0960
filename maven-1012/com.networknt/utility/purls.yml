@@ -201,6 +201,8 @@
 - pkg:maven/com.networknt/utility@1.6.29?classifier=sources
 - pkg:maven/com.networknt/utility@1.6.2?classifier=sources
 - pkg:maven/com.networknt/utility@1.6.3
+- pkg:maven/com.networknt/utility@1.6.30
+- pkg:maven/com.networknt/utility@1.6.30?classifier=sources
 - pkg:maven/com.networknt/utility@1.6.3?classifier=sources
 - pkg:maven/com.networknt/utility@1.6.4
 - pkg:maven/com.networknt/utility@1.6.4?classifier=sources
@@ -243,6 +245,10 @@
 - pkg:maven/com.networknt/utility@2.0.2
 - pkg:maven/com.networknt/utility@2.0.20
 - pkg:maven/com.networknt/utility@2.0.20?classifier=sources
+- pkg:maven/com.networknt/utility@2.0.21
+- pkg:maven/com.networknt/utility@2.0.21?classifier=sources
+- pkg:maven/com.networknt/utility@2.0.22
+- pkg:maven/com.networknt/utility@2.0.22?classifier=sources
 - pkg:maven/com.networknt/utility@2.0.2?classifier=sources
 - pkg:maven/com.networknt/utility@2.0.3
 - pkg:maven/com.networknt/utility@2.0.3?classifier=sources

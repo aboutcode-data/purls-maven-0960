@@ -74,3 +74,11 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.0-rc.3
 - pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.0-rc.3?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.0?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.1
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.1-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.1-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.1?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.2
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.2-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.2-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-msb-compat_2.13@1.0.2?classifier=sources

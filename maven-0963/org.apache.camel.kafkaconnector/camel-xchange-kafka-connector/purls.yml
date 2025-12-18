@@ -12,3 +12,7 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.5.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.6.0
 - pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.6.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.6.1
+- pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.6.1?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.7.0
+- pkg:maven/org.apache.camel.kafkaconnector/camel-xchange-kafka-connector@0.7.0?classifier=sources

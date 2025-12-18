@@ -78,6 +78,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.20
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.21
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@3.0.3
@@ -126,6 +129,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.16
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.17
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@4.0.2
@@ -186,6 +192,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.2
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.20
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@5.0.3
@@ -225,6 +234,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.13
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.16
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.2

@@ -2,7 +2,11 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-2
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-2?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-3
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-3?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06.1
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@20.12
+- pkg:maven/com.oracle.coherence.ce/coherence@20.12?classifier=sources

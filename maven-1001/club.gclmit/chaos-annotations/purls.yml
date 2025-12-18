@@ -18,3 +18,7 @@
 - pkg:maven/club.gclmit/chaos-annotations@1.5.1.RELEASE?classifier=sources
 - pkg:maven/club.gclmit/chaos-annotations@1.5.2.RELEASE
 - pkg:maven/club.gclmit/chaos-annotations@1.5.2.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-annotations@2.0.0.RELEASE
+- pkg:maven/club.gclmit/chaos-annotations@2.0.0.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-annotations@2.0.1.RELEASE
+- pkg:maven/club.gclmit/chaos-annotations@2.0.1.RELEASE?classifier=sources

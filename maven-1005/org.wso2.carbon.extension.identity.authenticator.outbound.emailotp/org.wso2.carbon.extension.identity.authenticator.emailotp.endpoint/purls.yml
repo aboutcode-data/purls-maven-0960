@@ -13,6 +13,12 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.3?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.3?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.4?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.4?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.5?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12.5?type=war
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/org.wso2.carbon.extension.identity.authenticator.emailotp.endpoint@2.0.12?type=war

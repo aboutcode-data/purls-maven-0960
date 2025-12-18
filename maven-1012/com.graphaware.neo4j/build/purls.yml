@@ -1,0 +1,8 @@
+- pkg:maven/com.graphaware.neo4j/build@4.0.8.58
+- pkg:maven/com.graphaware.neo4j/build@4.0.8.58?classifier=sources
+- pkg:maven/com.graphaware.neo4j/build@4.0.9.58
+- pkg:maven/com.graphaware.neo4j/build@4.0.9.58?classifier=sources
+- pkg:maven/com.graphaware.neo4j/build@4.1.4.58
+- pkg:maven/com.graphaware.neo4j/build@4.1.4.58?classifier=sources
+- pkg:maven/com.graphaware.neo4j/build@4.2.0.58
+- pkg:maven/com.graphaware.neo4j/build@4.2.0.58?classifier=sources

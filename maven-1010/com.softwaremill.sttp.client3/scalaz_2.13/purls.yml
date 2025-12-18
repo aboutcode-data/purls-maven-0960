@@ -1,3 +1,14 @@
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC10
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC11
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC13
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC13?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC14
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC14?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC15
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC15?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC4
 - pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC4?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC5
@@ -10,3 +21,4 @@
 - pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC8?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC9
 - pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0-RC9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/scalaz_2.13@3.0.0?classifier=sources

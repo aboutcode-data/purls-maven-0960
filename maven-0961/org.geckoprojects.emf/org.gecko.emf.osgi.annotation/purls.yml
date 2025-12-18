@@ -2,3 +2,7 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@1.0.7?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@2.0.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@2.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@3.3.7
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.annotation@3.4.0?classifier=sources

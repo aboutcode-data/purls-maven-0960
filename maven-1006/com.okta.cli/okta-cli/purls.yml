@@ -8,3 +8,5 @@
 - pkg:maven/com.okta.cli/okta-cli@0.6.0?classifier=sources
 - pkg:maven/com.okta.cli/okta-cli@0.7.0
 - pkg:maven/com.okta.cli/okta-cli@0.7.0?classifier=sources
+- pkg:maven/com.okta.cli/okta-cli@0.7.1
+- pkg:maven/com.okta.cli/okta-cli@0.7.1?classifier=sources

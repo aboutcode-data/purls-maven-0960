@@ -1,3 +1,5 @@
 - pkg:maven/org.jitsi/ice4j@1.0
 - pkg:maven/org.jitsi/ice4j@1.0.0
 - pkg:maven/org.jitsi/ice4j@1.0?classifier=sources
+- pkg:maven/org.jitsi/ice4j@3.0-24-g34c2ce5
+- pkg:maven/org.jitsi/ice4j@3.0-24-g34c2ce5?classifier=sources

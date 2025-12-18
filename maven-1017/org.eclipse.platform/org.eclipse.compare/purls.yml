@@ -9,6 +9,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.101?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.1100
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.1100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.1200
+- pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.1200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.200
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.7.200?classifier=sources

@@ -250,3 +250,7 @@
 - pkg:maven/org.immutables/testing@2.8.7?classifier=sources
 - pkg:maven/org.immutables/testing@2.8.8
 - pkg:maven/org.immutables/testing@2.8.8?classifier=sources
+- pkg:maven/org.immutables/testing@2.8.9-ea-0
+- pkg:maven/org.immutables/testing@2.8.9-ea-0?classifier=sources
+- pkg:maven/org.immutables/testing@2.8.9-ea-1
+- pkg:maven/org.immutables/testing@2.8.9-ea-1?classifier=sources

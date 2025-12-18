@@ -53,5 +53,7 @@
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.1.0?classifier=sources
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.1.1
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.1.1?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.2.0
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.2.0-beta1
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.2.0-beta1?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.12@4.2.0?classifier=sources

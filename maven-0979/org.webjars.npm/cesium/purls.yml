@@ -68,3 +68,7 @@
 - pkg:maven/org.webjars.npm/cesium@1.74.0?classifier=sources
 - pkg:maven/org.webjars.npm/cesium@1.75.0
 - pkg:maven/org.webjars.npm/cesium@1.75.0?classifier=sources
+- pkg:maven/org.webjars.npm/cesium@1.76.0
+- pkg:maven/org.webjars.npm/cesium@1.76.0?classifier=sources
+- pkg:maven/org.webjars.npm/cesium@1.77.0
+- pkg:maven/org.webjars.npm/cesium@1.77.0?classifier=sources

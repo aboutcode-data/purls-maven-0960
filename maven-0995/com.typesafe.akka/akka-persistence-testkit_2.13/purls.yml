@@ -1,5 +1,7 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.10
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.10?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.11
+- pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.11?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.5
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.5?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.13@2.6.6

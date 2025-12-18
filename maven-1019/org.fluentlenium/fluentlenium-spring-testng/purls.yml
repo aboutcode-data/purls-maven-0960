@@ -2,3 +2,7 @@
 - pkg:maven/org.fluentlenium/fluentlenium-spring-testng@3.10.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-spring-testng@4.5.1
 - pkg:maven/org.fluentlenium/fluentlenium-spring-testng@4.5.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-spring-testng@4.6.0
+- pkg:maven/org.fluentlenium/fluentlenium-spring-testng@4.6.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-spring-testng@4.6.1
+- pkg:maven/org.fluentlenium/fluentlenium-spring-testng@4.6.1?classifier=sources

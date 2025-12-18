@@ -52,3 +52,7 @@
 - pkg:maven/org.webswing/webswing-api@20.1.8
 - pkg:maven/org.webswing/webswing-api@20.1.8?classifier=sources
 - pkg:maven/org.webswing/webswing-api@20.1?classifier=sources
+- pkg:maven/org.webswing/webswing-api@20.2.1
+- pkg:maven/org.webswing/webswing-api@20.2.1?classifier=sources
+- pkg:maven/org.webswing/webswing-api@20.2.2
+- pkg:maven/org.webswing/webswing-api@20.2.2?classifier=sources

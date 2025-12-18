@@ -1,5 +1,9 @@
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.10.0
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.10.0?classifier=sources
+- pkg:maven/cloud.piranha.resource/piranha-resource@20.11.0
+- pkg:maven/cloud.piranha.resource/piranha-resource@20.11.0?classifier=sources
+- pkg:maven/cloud.piranha.resource/piranha-resource@20.12.0
+- pkg:maven/cloud.piranha.resource/piranha-resource@20.12.0?classifier=sources
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.4.0
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.4.0?classifier=sources
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.5.0
@@ -12,3 +16,5 @@
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.8.0?classifier=sources
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.9.0
 - pkg:maven/cloud.piranha.resource/piranha-resource@20.9.0?classifier=sources
+- pkg:maven/cloud.piranha.resource/piranha-resource@21.1.0
+- pkg:maven/cloud.piranha.resource/piranha-resource@21.1.0?classifier=sources

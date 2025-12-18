@@ -1,2 +1,4 @@
 - pkg:maven/io.github.openfeign/feign-dropwizard-metrics4@10.11
 - pkg:maven/io.github.openfeign/feign-dropwizard-metrics4@10.11?classifier=sources
+- pkg:maven/io.github.openfeign/feign-dropwizard-metrics4@10.12
+- pkg:maven/io.github.openfeign/feign-dropwizard-metrics4@10.12?classifier=sources

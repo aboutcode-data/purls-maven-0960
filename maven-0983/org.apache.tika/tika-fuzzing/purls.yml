@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tika/tika-fuzzing@1.25
+- pkg:maven/org.apache.tika/tika-fuzzing@1.25?classifier=sources
+- pkg:maven/org.apache.tika/tika-fuzzing@2.0.0-ALPHA
+- pkg:maven/org.apache.tika/tika-fuzzing@2.0.0-ALPHA?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.uchuhimo/konf@0.22.1?classifier=sources
 - pkg:maven/com.uchuhimo/konf@0.23.0
 - pkg:maven/com.uchuhimo/konf@0.23.0?classifier=sources
+- pkg:maven/com.uchuhimo/konf@1.0.0
+- pkg:maven/com.uchuhimo/konf@1.0.0?classifier=sources

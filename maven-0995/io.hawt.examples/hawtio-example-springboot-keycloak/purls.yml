@@ -8,6 +8,10 @@
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.11.0?type=war
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.11.1?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.11.1?type=war
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.12.0?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.12.0?type=war
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.12.1?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.12.1?type=war
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.9.0?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.9.0?type=war
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@2.9.1?classifier=sources

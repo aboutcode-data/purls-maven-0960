@@ -283,6 +283,10 @@
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.2.19?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.2.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.2.2
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.2.20
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.2.20?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.2.21
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.2.21?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.2.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.2.3
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.2.3?classifier=sources
@@ -301,6 +305,10 @@
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.3.0
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.3.1
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.3.10
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.3.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.3.11
+- pkg:maven/org.ops4j.pax.web.samples/provision@7.3.11?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.3.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.3.2
 - pkg:maven/org.ops4j.pax.web.samples/provision@7.3.2?classifier=sources

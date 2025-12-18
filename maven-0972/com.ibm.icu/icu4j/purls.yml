@@ -98,3 +98,5 @@
 - pkg:maven/com.ibm.icu/icu4j@67.1?classifier=sources
 - pkg:maven/com.ibm.icu/icu4j@68.1
 - pkg:maven/com.ibm.icu/icu4j@68.1?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j@68.2
+- pkg:maven/com.ibm.icu/icu4j@68.2?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/education.x/common-backend@2.2-SnapShot
 - pkg:maven/education.x/common-backend@2.2-SnapShot?classifier=sources
 - pkg:maven/education.x/common-backend@2.2?classifier=sources
+- pkg:maven/education.x/common-backend@2.3-SnapShot
+- pkg:maven/education.x/common-backend@2.3-SnapShot?classifier=sources

@@ -16,9 +16,12 @@
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@1.4-RC3
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@1.4-RC3?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@1.4?classifier=sources
+- pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-M1
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-M1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC1
+- pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC15
+- pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC15?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC2
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC2?classifier=sources
@@ -26,3 +29,4 @@
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC3?classifier=sources
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC5
 - pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0-RC5?classifier=sources
+- pkg:maven/org.eclipse.microprofile.config/microprofile-config-tck@2.0?classifier=sources

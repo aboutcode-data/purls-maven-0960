@@ -16,3 +16,5 @@
 - pkg:maven/io.cdap.cdap/cdap-etl-proto@6.2.2?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-etl-proto@6.2.3
 - pkg:maven/io.cdap.cdap/cdap-etl-proto@6.2.3?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-etl-proto@6.3.0
+- pkg:maven/io.cdap.cdap/cdap-etl-proto@6.3.0?classifier=sources

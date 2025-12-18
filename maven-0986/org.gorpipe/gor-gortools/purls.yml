@@ -9,3 +9,6 @@
 - pkg:maven/org.gorpipe/gor-gortools@2.11.8?classifier=sources
 - pkg:maven/org.gorpipe/gor-gortools@2.11.9?classifier=sources
 - pkg:maven/org.gorpipe/gor-gortools@2.11?classifier=sources
+- pkg:maven/org.gorpipe/gor-gortools@3.2.0?classifier=sources
+- pkg:maven/org.gorpipe/gor-gortools@3.4.0?classifier=sources
+- pkg:maven/org.gorpipe/gor-gortools@3.4.1?classifier=sources

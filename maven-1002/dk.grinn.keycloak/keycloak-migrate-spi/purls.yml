@@ -41,6 +41,8 @@
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@11.0.2.3?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@11.0.2?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@11.0.3
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@11.0.3.0
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@11.0.3.0?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@11.0.3?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.0
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-spi@2.0.0?classifier=sources

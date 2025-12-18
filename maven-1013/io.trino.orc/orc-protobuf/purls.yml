@@ -1,0 +1,2 @@
+- pkg:maven/io.trino.orc/orc-protobuf@11
+- pkg:maven/io.trino.orc/orc-protobuf@11?classifier=sources

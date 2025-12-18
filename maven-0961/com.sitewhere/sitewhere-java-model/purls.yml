@@ -34,6 +34,7 @@
 - pkg:maven/com.sitewhere/sitewhere-java-model@2.1.9?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-java-model@2.2.0
 - pkg:maven/com.sitewhere/sitewhere-java-model@2.2.0?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.alpha1
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.alpha1?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.alpha2
@@ -55,6 +56,14 @@
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta12?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta13
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta13?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta14
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta14?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta15
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta15?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta16
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta16?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta17
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta17?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta1?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta2
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta2?classifier=sources
@@ -72,3 +81,4 @@
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta8?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta9
 - pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0.beta9?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-java-model@3.0.0?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/org.odpi.egeria/software-developer-spring@2.3?classifier=sources
 - pkg:maven/org.odpi.egeria/software-developer-spring@2.4
 - pkg:maven/org.odpi.egeria/software-developer-spring@2.4?classifier=sources
+- pkg:maven/org.odpi.egeria/software-developer-spring@2.5
+- pkg:maven/org.odpi.egeria/software-developer-spring@2.5?classifier=sources

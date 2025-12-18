@@ -2,3 +2,5 @@
 - pkg:maven/com.azure/azure-data-tables@12.0.0-beta.1?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.0.0-beta.2
 - pkg:maven/com.azure/azure-data-tables@12.0.0-beta.2?classifier=sources
+- pkg:maven/com.azure/azure-data-tables@12.0.0-beta.3
+- pkg:maven/com.azure/azure-data-tables@12.0.0-beta.3?classifier=sources

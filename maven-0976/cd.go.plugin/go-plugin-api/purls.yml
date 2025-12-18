@@ -49,6 +49,7 @@
 - pkg:maven/cd.go.plugin/go-plugin-api@19.8.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@19.9.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@20.1.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-api@20.10.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@20.2.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@20.3.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@20.4.0?classifier=sources
@@ -56,3 +57,5 @@
 - pkg:maven/cd.go.plugin/go-plugin-api@20.6.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@20.7.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-api@20.8.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-api@20.9.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-api@21.1.0?classifier=sources

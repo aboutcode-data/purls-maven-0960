@@ -6,3 +6,5 @@
 - pkg:maven/com.juul.able/timber-logger@0.7.2?type=aar
 - pkg:maven/com.juul.able/timber-logger@0.8.0?classifier=sources
 - pkg:maven/com.juul.able/timber-logger@0.8.0?type=aar
+- pkg:maven/com.juul.able/timber-logger@0.8.1?classifier=sources
+- pkg:maven/com.juul.able/timber-logger@0.8.1?type=aar

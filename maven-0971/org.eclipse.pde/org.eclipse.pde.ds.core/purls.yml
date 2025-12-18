@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ds.core@1.1.800?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ds.core@1.2.0
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ds.core@1.2.0?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ds.core@1.2.100
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ds.core@1.2.100?classifier=sources

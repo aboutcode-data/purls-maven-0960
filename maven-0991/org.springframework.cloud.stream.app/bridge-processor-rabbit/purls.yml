@@ -28,3 +28,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@2.1.5.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@3.0.0
+- pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@3.0.0?classifier=sources

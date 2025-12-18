@@ -1,0 +1,4 @@
+- pkg:maven/com.qiniu/stream-mongo@0.0.4
+- pkg:maven/com.qiniu/stream-mongo@0.0.4?classifier=sources
+- pkg:maven/com.qiniu/stream-mongo@0.1.0
+- pkg:maven/com.qiniu/stream-mongo@0.1.0?classifier=sources

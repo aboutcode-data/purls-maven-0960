@@ -10,3 +10,5 @@
 - pkg:maven/de.idealo.kafka/deckard@1.0.3-PRE-RELEASE-2?classifier=sources
 - pkg:maven/de.idealo.kafka/deckard@1.0.3-PRE-RELEASE-3
 - pkg:maven/de.idealo.kafka/deckard@1.0.3-PRE-RELEASE-3?classifier=sources
+- pkg:maven/de.idealo.kafka/deckard@1.0.3-RELEASE
+- pkg:maven/de.idealo.kafka/deckard@1.0.3-RELEASE?classifier=sources

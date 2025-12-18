@@ -14,3 +14,11 @@
 - pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@4.3.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@4.3.2
 - pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@4.3.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0-RC1
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0-RC1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0-RC2
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0-RC2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0-RC3
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0-RC3?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-tracing-propagation@5.0.0?classifier=sources

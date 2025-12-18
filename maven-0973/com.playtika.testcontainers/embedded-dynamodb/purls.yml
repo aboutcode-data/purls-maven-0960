@@ -98,3 +98,9 @@
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.84?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.85
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.85?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.86
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.86?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.89
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.89?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@2.0.0
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@2.0.0?classifier=sources

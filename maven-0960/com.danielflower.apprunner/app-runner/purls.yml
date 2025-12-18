@@ -184,3 +184,5 @@
 - pkg:maven/com.danielflower.apprunner/app-runner@2.2.5?classifier=sources
 - pkg:maven/com.danielflower.apprunner/app-runner@2.2.7
 - pkg:maven/com.danielflower.apprunner/app-runner@2.2.7?classifier=sources
+- pkg:maven/com.danielflower.apprunner/app-runner@2.3.0
+- pkg:maven/com.danielflower.apprunner/app-runner@2.3.0?classifier=sources

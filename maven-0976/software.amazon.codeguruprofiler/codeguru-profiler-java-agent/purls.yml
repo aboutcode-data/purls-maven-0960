@@ -4,3 +4,7 @@
 - pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.0.2?classifier=sources
 - pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.0.3
 - pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.0.3?classifier=sources
+- pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.1.0
+- pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.1.0?classifier=sources
+- pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.1.1
+- pkg:maven/software.amazon.codeguruprofiler/codeguru-profiler-java-agent@1.1.1?classifier=sources

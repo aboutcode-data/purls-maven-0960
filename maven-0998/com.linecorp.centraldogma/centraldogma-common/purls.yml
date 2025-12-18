@@ -104,3 +104,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common@0.45.1?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common@0.46.0
 - pkg:maven/com.linecorp.centraldogma/centraldogma-common@0.46.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common@0.46.1
+- pkg:maven/com.linecorp.centraldogma/centraldogma-common@0.46.1?classifier=sources

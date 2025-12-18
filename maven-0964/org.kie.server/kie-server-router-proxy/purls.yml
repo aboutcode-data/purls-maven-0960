@@ -120,6 +120,10 @@
 - pkg:maven/org.kie.server/kie-server-router-proxy@7.45.0.t20201014?classifier=sources
 - pkg:maven/org.kie.server/kie-server-router-proxy@7.46.0.Final
 - pkg:maven/org.kie.server/kie-server-router-proxy@7.46.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-router-proxy@7.47.0.Final
+- pkg:maven/org.kie.server/kie-server-router-proxy@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-router-proxy@7.48.0.Final
+- pkg:maven/org.kie.server/kie-server-router-proxy@7.48.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-router-proxy@7.5.0.Final
 - pkg:maven/org.kie.server/kie-server-router-proxy@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-router-proxy@7.5.0.t018

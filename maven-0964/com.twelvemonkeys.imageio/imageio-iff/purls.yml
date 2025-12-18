@@ -35,4 +35,8 @@
 - pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.5
 - pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.5?classifier=sources
 - pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.6
+- pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.6.1
+- pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.6.1?classifier=sources
+- pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.6.2
+- pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.6.2?classifier=sources
 - pkg:maven/com.twelvemonkeys.imageio/imageio-iff@3.6?classifier=sources

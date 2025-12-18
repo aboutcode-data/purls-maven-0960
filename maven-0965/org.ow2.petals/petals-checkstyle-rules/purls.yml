@@ -25,3 +25,5 @@
 - pkg:maven/org.ow2.petals/petals-checkstyle-rules@1.0.8
 - pkg:maven/org.ow2.petals/petals-checkstyle-rules@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-checkstyle-rules@1.0.8?classifier=sources
+- pkg:maven/org.ow2.petals/petals-checkstyle-rules@1.0.9?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-checkstyle-rules@1.0.9?classifier=sources

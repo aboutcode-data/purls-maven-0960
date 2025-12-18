@@ -1,2 +1,4 @@
 - pkg:maven/com.savl.ripple/ripple-client-java-websocket-transport@1.0.1
 - pkg:maven/com.savl.ripple/ripple-client-java-websocket-transport@1.0.1?classifier=sources
+- pkg:maven/com.savl.ripple/ripple-client-java-websocket-transport@1.0.2
+- pkg:maven/com.savl.ripple/ripple-client-java-websocket-transport@1.0.2?classifier=sources

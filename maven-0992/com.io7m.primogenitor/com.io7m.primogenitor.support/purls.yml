@@ -28,3 +28,7 @@
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.0.0-beta0004
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.0.0-beta0004?classifier=sources
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.0.0?classifier=sources
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.1.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.1.0?classifier=sources
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.2.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@6.2.0?classifier=sources

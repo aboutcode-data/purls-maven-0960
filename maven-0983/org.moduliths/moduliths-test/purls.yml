@@ -1,2 +1,4 @@
 - pkg:maven/org.moduliths/moduliths-test@1.0.0
 - pkg:maven/org.moduliths/moduliths-test@1.0.0?classifier=sources
+- pkg:maven/org.moduliths/moduliths-test@1.1.0-M1
+- pkg:maven/org.moduliths/moduliths-test@1.1.0-M1?classifier=sources

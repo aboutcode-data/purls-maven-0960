@@ -1,0 +1,4 @@
+- pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.0
+- pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.1
+- pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.1?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/net.dempsy/dempsy-framework.core@0.13.0?classifier=sources
 - pkg:maven/net.dempsy/dempsy-framework.core@0.14.0
 - pkg:maven/net.dempsy/dempsy-framework.core@0.14.0?classifier=sources
+- pkg:maven/net.dempsy/dempsy-framework.core@0.15.0
+- pkg:maven/net.dempsy/dempsy-framework.core@0.15.0?classifier=sources
 - pkg:maven/net.dempsy/dempsy-framework.core@0.9
 - pkg:maven/net.dempsy/dempsy-framework.core@0.9?classifier=sources

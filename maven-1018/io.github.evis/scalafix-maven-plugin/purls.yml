@@ -4,3 +4,5 @@
 - pkg:maven/io.github.evis/scalafix-maven-plugin@0.1.2_0.9.5?classifier=sources
 - pkg:maven/io.github.evis/scalafix-maven-plugin@0.1.3_0.9.5
 - pkg:maven/io.github.evis/scalafix-maven-plugin@0.1.3_0.9.5?classifier=sources
+- pkg:maven/io.github.evis/scalafix-maven-plugin@0.1.4_0.9.23
+- pkg:maven/io.github.evis/scalafix-maven-plugin@0.1.4_0.9.23?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/org.wso2.ei/cli-test@1.2.0-m4
 - pkg:maven/org.wso2.ei/cli-test@1.2.0-m4?classifier=sources
 - pkg:maven/org.wso2.ei/cli-test@1.2.0?classifier=sources
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m2
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m2?classifier=sources
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m3
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m3?classifier=sources
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m4
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m4?classifier=sources
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m5
+- pkg:maven/org.wso2.ei/cli-test@4.0.0-m5?classifier=sources

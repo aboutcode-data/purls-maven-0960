@@ -14,5 +14,9 @@
 - pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.2.2?classifier=sources
 - pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.2.3
 - pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.2.3?classifier=sources
+- pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.2.4-M1
+- pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.2.4-M1?classifier=sources
 - pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.3.0-SNAP2
 - pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.3.0-SNAP2?classifier=sources
+- pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.3.0-SNAP3
+- pkg:maven/org.scalatest/scalatest-core_sjs1_2.13@3.3.0-SNAP3?classifier=sources

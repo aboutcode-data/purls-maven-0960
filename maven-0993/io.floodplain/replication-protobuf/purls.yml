@@ -23,3 +23,5 @@
 - pkg:maven/io.floodplain/replication-protobuf@0.9.7?classifier=sources
 - pkg:maven/io.floodplain/replication-protobuf@0.9.8?classifier=sources
 - pkg:maven/io.floodplain/replication-protobuf@1.0.0?classifier=sources
+- pkg:maven/io.floodplain/replication-protobuf@1.1.0?classifier=sources
+- pkg:maven/io.floodplain/replication-protobuf@1.2.0?classifier=sources

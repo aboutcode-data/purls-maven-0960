@@ -33,6 +33,10 @@
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.2?classifier=sources
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.3
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.3?classifier=sources
+- pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.4
+- pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.4?classifier=sources
+- pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.5
+- pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.17.5?classifier=sources
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.7.1
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.8.0
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.8.1

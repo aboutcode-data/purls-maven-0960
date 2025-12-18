@@ -8,5 +8,7 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.13.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.14.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.14.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.15.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.15.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.9.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.9.0?classifier=sources

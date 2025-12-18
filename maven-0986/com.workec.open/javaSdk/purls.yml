@@ -14,3 +14,7 @@
 - pkg:maven/com.workec.open/javaSdk@0.0.7?classifier=sources
 - pkg:maven/com.workec.open/javaSdk@0.0.8
 - pkg:maven/com.workec.open/javaSdk@0.0.8?classifier=sources
+- pkg:maven/com.workec.open/javaSdk@0.0.9
+- pkg:maven/com.workec.open/javaSdk@0.0.9?classifier=sources
+- pkg:maven/com.workec.open/javaSdk@0.1.0
+- pkg:maven/com.workec.open/javaSdk@0.1.0?classifier=sources

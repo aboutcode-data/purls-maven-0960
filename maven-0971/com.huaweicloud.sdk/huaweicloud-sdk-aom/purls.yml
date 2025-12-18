@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-aom@3.0.29-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-aom@3.0.29-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-aom@3.0.30-rc
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-aom@3.0.30-rc?classifier=sources

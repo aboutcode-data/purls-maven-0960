@@ -1,0 +1,4 @@
+- pkg:maven/me.kisoft/integration-test-rabbitmq@1.0.0
+- pkg:maven/me.kisoft/integration-test-rabbitmq@1.0.0?classifier=sources
+- pkg:maven/me.kisoft/integration-test-rabbitmq@1.0.1
+- pkg:maven/me.kisoft/integration-test-rabbitmq@1.0.1?classifier=sources

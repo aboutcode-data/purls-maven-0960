@@ -1,3 +1,4 @@
+- pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0
 - pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-b1
 - pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-b1?classifier=sources
 - pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-b2
@@ -6,3 +7,6 @@
 - pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-rc0?classifier=sources
 - pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-rc1
 - pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-rc1?classifier=sources
+- pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-rc2
+- pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0-rc2?classifier=sources
+- pkg:maven/org.tensorflow/tensorflow-lite-metadata@0.1.0?classifier=sources

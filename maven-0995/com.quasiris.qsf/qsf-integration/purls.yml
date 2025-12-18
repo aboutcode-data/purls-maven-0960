@@ -6,6 +6,8 @@
 - pkg:maven/com.quasiris.qsf/qsf-integration@2.12?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@2.13
 - pkg:maven/com.quasiris.qsf/qsf-integration@2.13?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-integration@2.14
+- pkg:maven/com.quasiris.qsf/qsf-integration@2.14?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@2.4
 - pkg:maven/com.quasiris.qsf/qsf-integration@2.4?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@2.5

@@ -2,3 +2,7 @@
 - pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.2.2.0?classifier=sources
 - pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.2.3.0
 - pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.2.3.0?classifier=sources
+- pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.2.4.0-M1
+- pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.2.4.0-M1?classifier=sources
+- pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.3.0.0-SNAP3
+- pkg:maven/org.scalatestplus/scalacheck-1-15_2.13@3.3.0.0-SNAP3?classifier=sources

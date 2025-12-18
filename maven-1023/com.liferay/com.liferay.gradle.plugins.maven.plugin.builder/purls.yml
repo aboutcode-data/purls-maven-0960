@@ -48,3 +48,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.maven.plugin.builder@1.2.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.maven.plugin.builder@1.2.7
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.maven.plugin.builder@1.2.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.maven.plugin.builder@1.2.8
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.maven.plugin.builder@1.2.8?classifier=sources

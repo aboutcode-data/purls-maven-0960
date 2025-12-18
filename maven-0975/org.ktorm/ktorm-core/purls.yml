@@ -4,3 +4,5 @@
 - pkg:maven/org.ktorm/ktorm-core@3.2.0-RC2
 - pkg:maven/org.ktorm/ktorm-core@3.2.0-RC2?classifier=sources
 - pkg:maven/org.ktorm/ktorm-core@3.2.0?classifier=sources
+- pkg:maven/org.ktorm/ktorm-core@3.3.0
+- pkg:maven/org.ktorm/ktorm-core@3.3.0?classifier=sources

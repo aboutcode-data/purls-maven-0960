@@ -12,3 +12,5 @@
 - pkg:maven/io.helidon.media/helidon-media-jackson@2.0.2?classifier=sources
 - pkg:maven/io.helidon.media/helidon-media-jackson@2.1.0
 - pkg:maven/io.helidon.media/helidon-media-jackson@2.1.0?classifier=sources
+- pkg:maven/io.helidon.media/helidon-media-jackson@2.2.0
+- pkg:maven/io.helidon.media/helidon-media-jackson@2.2.0?classifier=sources

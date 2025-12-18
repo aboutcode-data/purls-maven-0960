@@ -111,4 +111,10 @@
 - pkg:maven/com.segment.analytics.android/analytics@4.8.2
 - pkg:maven/com.segment.analytics.android/analytics@4.8.2?classifier=sources
 - pkg:maven/com.segment.analytics.android/analytics@4.9.0
+- pkg:maven/com.segment.analytics.android/analytics@4.9.0-beta.1?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics@4.9.0-beta.1?type=aar
+- pkg:maven/com.segment.analytics.android/analytics@4.9.0-beta?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics@4.9.0-beta?type=aar
 - pkg:maven/com.segment.analytics.android/analytics@4.9.0?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics@4.9.1-beta?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics@4.9.1-beta?type=aar

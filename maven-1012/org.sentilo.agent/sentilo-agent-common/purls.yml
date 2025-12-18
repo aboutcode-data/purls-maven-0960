@@ -2,3 +2,5 @@
 - pkg:maven/org.sentilo.agent/sentilo-agent-common@1.7.0?classifier=sources
 - pkg:maven/org.sentilo.agent/sentilo-agent-common@1.8.0
 - pkg:maven/org.sentilo.agent/sentilo-agent-common@1.8.0?classifier=sources
+- pkg:maven/org.sentilo.agent/sentilo-agent-common@1.9.0
+- pkg:maven/org.sentilo.agent/sentilo-agent-common@1.9.0?classifier=sources

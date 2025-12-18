@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.12?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.13
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.13?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-osgi@5.15.14
+- pkg:maven/org.apache.activemq/activemq-osgi@5.15.14?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.2
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.2?classifier=sources
@@ -76,6 +78,8 @@
 - pkg:maven/org.apache.activemq/activemq-osgi@5.15.9?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.16.0
 - pkg:maven/org.apache.activemq/activemq-osgi@5.16.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-osgi@5.16.1
+- pkg:maven/org.apache.activemq/activemq-osgi@5.16.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.8.0
 - pkg:maven/org.apache.activemq/activemq-osgi@5.8.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.9.0

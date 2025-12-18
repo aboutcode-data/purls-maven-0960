@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.5.7?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.5.8
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.5.8?classifier=sources
+- pkg:maven/org.apache.zookeeper/zookeeper-jute@3.5.9
+- pkg:maven/org.apache.zookeeper/zookeeper-jute@3.5.9?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.6.0
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.6.0?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.6.1

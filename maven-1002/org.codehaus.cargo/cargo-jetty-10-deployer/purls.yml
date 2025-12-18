@@ -1,0 +1,8 @@
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.8.3?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.8.3?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.8.4?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.8.4?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.8.5?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.8.5?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.0?type=war

@@ -68,6 +68,8 @@
 - pkg:maven/org.apache.camel/camel-olingo4-api@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-olingo4-api@2.25.2
 - pkg:maven/org.apache.camel/camel-olingo4-api@2.25.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-olingo4-api@2.25.3
+- pkg:maven/org.apache.camel/camel-olingo4-api@2.25.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.0.0
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.0.0-M1
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.0.0-M1?classifier=sources
@@ -102,7 +104,13 @@
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.4.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.4.4
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.4.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-olingo4-api@3.4.5
+- pkg:maven/org.apache.camel/camel-olingo4-api@3.4.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.5.0
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.6.0
 - pkg:maven/org.apache.camel/camel-olingo4-api@3.6.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-olingo4-api@3.7.0
+- pkg:maven/org.apache.camel/camel-olingo4-api@3.7.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-olingo4-api@3.7.1
+- pkg:maven/org.apache.camel/camel-olingo4-api@3.7.1?classifier=sources
