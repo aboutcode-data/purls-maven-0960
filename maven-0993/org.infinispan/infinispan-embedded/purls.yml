@@ -102,6 +102,8 @@
 - pkg:maven/org.infinispan/infinispan-embedded@8.2.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-embedded@8.2.11.Final
 - pkg:maven/org.infinispan/infinispan-embedded@8.2.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-embedded@8.2.12.Final
+- pkg:maven/org.infinispan/infinispan-embedded@8.2.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-embedded@8.2.2.Final
 - pkg:maven/org.infinispan/infinispan-embedded@8.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-embedded@8.2.3.Final

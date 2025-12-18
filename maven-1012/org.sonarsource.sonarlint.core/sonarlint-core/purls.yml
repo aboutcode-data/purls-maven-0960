@@ -104,3 +104,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.6.0.2652?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.7.0.12286
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.7.0.12286?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.8.0.14729
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.8.0.14729?classifier=sources

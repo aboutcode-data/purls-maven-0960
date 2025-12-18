@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.7?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.8
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.8?classifier=sources
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.9
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.9?classifier=sources

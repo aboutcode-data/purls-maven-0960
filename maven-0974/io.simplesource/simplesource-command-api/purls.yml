@@ -24,5 +24,7 @@
 - pkg:maven/io.simplesource/simplesource-command-api@0.2.6?classifier=sources
 - pkg:maven/io.simplesource/simplesource-command-api@0.2.7
 - pkg:maven/io.simplesource/simplesource-command-api@0.2.7?classifier=sources
+- pkg:maven/io.simplesource/simplesource-command-api@0.2.8
+- pkg:maven/io.simplesource/simplesource-command-api@0.2.8?classifier=sources
 - pkg:maven/io.simplesource/simplesource-command-api@pre-state-store-removal
 - pkg:maven/io.simplesource/simplesource-command-api@pre-state-store-removal?classifier=sources

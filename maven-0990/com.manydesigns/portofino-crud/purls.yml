@@ -27,6 +27,8 @@
 - pkg:maven/com.manydesigns/portofino-crud@4.2.7?classifier=sources
 - pkg:maven/com.manydesigns/portofino-crud@4.2.8
 - pkg:maven/com.manydesigns/portofino-crud@4.2.8?classifier=sources
+- pkg:maven/com.manydesigns/portofino-crud@4.2.9
+- pkg:maven/com.manydesigns/portofino-crud@4.2.9?classifier=sources
 - pkg:maven/com.manydesigns/portofino-crud@4.2?classifier=sources
 - pkg:maven/com.manydesigns/portofino-crud@5.0.0
 - pkg:maven/com.manydesigns/portofino-crud@5.0.0?classifier=sources
@@ -38,3 +40,5 @@
 - pkg:maven/com.manydesigns/portofino-crud@5.0.3?classifier=sources
 - pkg:maven/com.manydesigns/portofino-crud@5.1.0
 - pkg:maven/com.manydesigns/portofino-crud@5.1.0?classifier=sources
+- pkg:maven/com.manydesigns/portofino-crud@5.1.1
+- pkg:maven/com.manydesigns/portofino-crud@5.1.1?classifier=sources

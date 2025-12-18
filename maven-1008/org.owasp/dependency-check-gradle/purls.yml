@@ -90,3 +90,5 @@
 - pkg:maven/org.owasp/dependency-check-gradle@5.2.3?classifier=sources
 - pkg:maven/org.owasp/dependency-check-gradle@5.2.4
 - pkg:maven/org.owasp/dependency-check-gradle@5.2.4?classifier=sources
+- pkg:maven/org.owasp/dependency-check-gradle@5.3.0
+- pkg:maven/org.owasp/dependency-check-gradle@5.3.0?classifier=sources

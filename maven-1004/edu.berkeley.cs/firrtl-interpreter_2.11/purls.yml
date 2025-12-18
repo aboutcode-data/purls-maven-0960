@@ -60,3 +60,9 @@
 - pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.0-RC2
 - pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.0-RC2?classifier=sources
 - pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.0?classifier=sources
+- pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.1
+- pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.1?classifier=sources
+- pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.2
+- pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.2?classifier=sources
+- pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.3
+- pkg:maven/edu.berkeley.cs/firrtl-interpreter_2.11@1.2.3?classifier=sources

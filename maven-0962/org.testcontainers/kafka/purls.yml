@@ -32,6 +32,10 @@
 - pkg:maven/org.testcontainers/kafka@1.12.2?classifier=sources
 - pkg:maven/org.testcontainers/kafka@1.12.3
 - pkg:maven/org.testcontainers/kafka@1.12.3?classifier=sources
+- pkg:maven/org.testcontainers/kafka@1.12.4
+- pkg:maven/org.testcontainers/kafka@1.12.4?classifier=sources
+- pkg:maven/org.testcontainers/kafka@1.12.5
+- pkg:maven/org.testcontainers/kafka@1.12.5?classifier=sources
 - pkg:maven/org.testcontainers/kafka@1.6.0
 - pkg:maven/org.testcontainers/kafka@1.6.0?classifier=sources
 - pkg:maven/org.testcontainers/kafka@1.7.0

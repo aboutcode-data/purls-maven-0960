@@ -4,3 +4,5 @@
 - pkg:maven/guru.nidi/snippets-core@0.0.2?classifier=sources
 - pkg:maven/guru.nidi/snippets-core@0.0.3
 - pkg:maven/guru.nidi/snippets-core@0.0.3?classifier=sources
+- pkg:maven/guru.nidi/snippets-core@1.0.0
+- pkg:maven/guru.nidi/snippets-core@1.0.0?classifier=sources

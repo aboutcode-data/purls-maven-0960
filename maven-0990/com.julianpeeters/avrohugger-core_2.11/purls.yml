@@ -95,6 +95,12 @@
 - pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC19?classifier=sources
 - pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC1?classifier=sources
 - pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC2
+- pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC20
+- pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC20?classifier=sources
+- pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC21
+- pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC21?classifier=sources
+- pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC22
+- pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC22?classifier=sources
 - pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC2?classifier=sources
 - pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC3
 - pkg:maven/com.julianpeeters/avrohugger-core_2.11@1.0.0-RC3?classifier=sources

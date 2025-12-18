@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.analytics.apim/org.wso2.sp.extension.siddhi.io.mgwfile@3.0.0-alpha
 - pkg:maven/org.wso2.analytics.apim/org.wso2.sp.extension.siddhi.io.mgwfile@3.0.0-alpha?classifier=sources
+- pkg:maven/org.wso2.analytics.apim/org.wso2.sp.extension.siddhi.io.mgwfile@3.1.0-beta
+- pkg:maven/org.wso2.analytics.apim/org.wso2.sp.extension.siddhi.io.mgwfile@3.1.0-beta?classifier=sources

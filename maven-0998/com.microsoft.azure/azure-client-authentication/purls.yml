@@ -78,3 +78,9 @@
 - pkg:maven/com.microsoft.azure/azure-client-authentication@1.6.8?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-client-authentication@1.6.9
 - pkg:maven/com.microsoft.azure/azure-client-authentication@1.6.9?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-client-authentication@1.7.0
+- pkg:maven/com.microsoft.azure/azure-client-authentication@1.7.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-client-authentication@1.7.1
+- pkg:maven/com.microsoft.azure/azure-client-authentication@1.7.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-client-authentication@1.7.2
+- pkg:maven/com.microsoft.azure/azure-client-authentication@1.7.2?classifier=sources

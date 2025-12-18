@@ -30,3 +30,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@3.5.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@3.5.2
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@3.5.2?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@4.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@4.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@4.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@4.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-workspace@4.2.0?classifier=sources

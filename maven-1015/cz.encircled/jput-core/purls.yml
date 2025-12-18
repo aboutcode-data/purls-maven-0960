@@ -22,5 +22,9 @@
 - pkg:maven/cz.encircled/jput-core@0.21?classifier=sources
 - pkg:maven/cz.encircled/jput-core@0.22
 - pkg:maven/cz.encircled/jput-core@0.22?classifier=sources
+- pkg:maven/cz.encircled/jput-core@0.23
+- pkg:maven/cz.encircled/jput-core@0.23?classifier=sources
+- pkg:maven/cz.encircled/jput-core@0.24
+- pkg:maven/cz.encircled/jput-core@0.24?classifier=sources
 - pkg:maven/cz.encircled/jput-core@0.6
 - pkg:maven/cz.encircled/jput-core@0.6?classifier=sources

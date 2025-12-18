@@ -91,4 +91,12 @@
 - pkg:maven/org.minijax/minijax-security@0.3.7
 - pkg:maven/org.minijax/minijax-security@0.3.7?classifier=sources
 - pkg:maven/org.minijax/minijax-security@0.4.1
+- pkg:maven/org.minijax/minijax-security@0.4.13
+- pkg:maven/org.minijax/minijax-security@0.4.13?classifier=sources
+- pkg:maven/org.minijax/minijax-security@0.4.14
+- pkg:maven/org.minijax/minijax-security@0.4.14?classifier=sources
+- pkg:maven/org.minijax/minijax-security@0.4.15
+- pkg:maven/org.minijax/minijax-security@0.4.15?classifier=sources
+- pkg:maven/org.minijax/minijax-security@0.4.17
+- pkg:maven/org.minijax/minijax-security@0.4.17?classifier=sources
 - pkg:maven/org.minijax/minijax-security@0.4.1?classifier=sources

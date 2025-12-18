@@ -190,3 +190,7 @@
 - pkg:maven/org.jboss.forge.addon/parser-java@3.9.3.Final?classifier=sources
 - pkg:maven/org.jboss.forge.addon/parser-java@3.9.4.Final
 - pkg:maven/org.jboss.forge.addon/parser-java@3.9.4.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/parser-java@3.9.5.Final
+- pkg:maven/org.jboss.forge.addon/parser-java@3.9.5.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/parser-java@3.9.6.Final
+- pkg:maven/org.jboss.forge.addon/parser-java@3.9.6.Final?classifier=sources

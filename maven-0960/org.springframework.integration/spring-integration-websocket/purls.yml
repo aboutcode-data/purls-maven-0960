@@ -140,3 +140,9 @@
 - pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.1.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.2.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.3.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.4.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-websocket@5.2.4.RELEASE?classifier=sources

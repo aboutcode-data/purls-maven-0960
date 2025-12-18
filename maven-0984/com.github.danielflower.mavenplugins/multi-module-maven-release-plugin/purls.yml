@@ -106,3 +106,5 @@
 - pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@3.1.2?classifier=sources
 - pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@3.2.0
 - pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@3.2.0?classifier=sources
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@3.2.3
+- pkg:maven/com.github.danielflower.mavenplugins/multi-module-maven-release-plugin@3.2.3?classifier=sources

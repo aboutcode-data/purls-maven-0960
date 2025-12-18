@@ -102,6 +102,10 @@
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.1.26?classifier=sources
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.10.3
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.10.3?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.11.27
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.11.27?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.12.21
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.12.21?classifier=sources
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.2.23
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.2.23?classifier=sources
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.3.24
@@ -118,3 +122,7 @@
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.8.17?classifier=sources
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.9.14
 - pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2019.9.14?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2020.1.14
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2020.1.14?classifier=sources
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2020.2.9
+- pkg:maven/com.hack23.cia/model.external.riksdagen.person.impl@2020.2.9?classifier=sources

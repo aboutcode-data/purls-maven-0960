@@ -1,0 +1,4 @@
+- pkg:maven/io.skullabs.kos/tests-report@0.2.0
+- pkg:maven/io.skullabs.kos/tests-report@0.2.0?classifier=sources
+- pkg:maven/io.skullabs.kos/tests-report@0.3.0
+- pkg:maven/io.skullabs.kos/tests-report@0.3.0?classifier=sources

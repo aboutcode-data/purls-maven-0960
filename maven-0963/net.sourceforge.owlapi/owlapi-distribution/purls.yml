@@ -80,6 +80,8 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.13?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.14
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.14?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.15
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.15?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.2
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@4.5.2?classifier=sources
@@ -116,6 +118,8 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.11?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.12
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.12?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.13
+- pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.13?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.2
 - pkg:maven/net.sourceforge.owlapi/owlapi-distribution@5.1.2?classifier=sources

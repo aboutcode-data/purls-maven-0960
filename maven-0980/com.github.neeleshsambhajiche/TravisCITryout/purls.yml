@@ -2,6 +2,14 @@
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@1.0?classifier=sources
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@10.0
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@10.0?classifier=sources
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@11.0
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@11.0?classifier=sources
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@12.0
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@12.0?classifier=sources
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@13.0
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@13.0?classifier=sources
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@14.0
+- pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@14.0?classifier=sources
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@2.0
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@2.0?classifier=sources
 - pkg:maven/com.github.neeleshsambhajiche/TravisCITryout@3.0

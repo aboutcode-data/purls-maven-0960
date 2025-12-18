@@ -12,6 +12,10 @@
 - pkg:maven/org.n52/checkstyle-configuration@15?classifier=sources
 - pkg:maven/org.n52/checkstyle-configuration@16
 - pkg:maven/org.n52/checkstyle-configuration@16?classifier=sources
+- pkg:maven/org.n52/checkstyle-configuration@17
+- pkg:maven/org.n52/checkstyle-configuration@17?classifier=sources
+- pkg:maven/org.n52/checkstyle-configuration@18
+- pkg:maven/org.n52/checkstyle-configuration@18?classifier=sources
 - pkg:maven/org.n52/checkstyle-configuration@5
 - pkg:maven/org.n52/checkstyle-configuration@5?classifier=sources
 - pkg:maven/org.n52/checkstyle-configuration@6

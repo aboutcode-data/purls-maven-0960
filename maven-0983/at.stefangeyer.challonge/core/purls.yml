@@ -2,3 +2,5 @@
 - pkg:maven/at.stefangeyer.challonge/core@2.0.1
 - pkg:maven/at.stefangeyer.challonge/core@2.0.1?classifier=sources
 - pkg:maven/at.stefangeyer.challonge/core@2.0?classifier=sources
+- pkg:maven/at.stefangeyer.challonge/core@2.1.0
+- pkg:maven/at.stefangeyer.challonge/core@2.1.0?classifier=sources

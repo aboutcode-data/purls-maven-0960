@@ -88,6 +88,8 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.13.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.13.1
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.13.1?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.13.2
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.13.2?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.2.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.2.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-rbc@4.3.0

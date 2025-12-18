@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jnosql.artemis/arangodb-extension@0.1.0.M1
 - pkg:maven/org.eclipse.jnosql.artemis/arangodb-extension@0.1.0.M1?classifier=sources
+- pkg:maven/org.eclipse.jnosql.artemis/arangodb-extension@1.0.0-b1
+- pkg:maven/org.eclipse.jnosql.artemis/arangodb-extension@1.0.0-b1?classifier=sources

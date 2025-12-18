@@ -28,3 +28,7 @@
 - pkg:maven/org.clojure/tools.logging@0.5.0-alpha.1?classifier=sources
 - pkg:maven/org.clojure/tools.logging@0.5.0-alpha?classifier=sources
 - pkg:maven/org.clojure/tools.logging@0.5.0?classifier=sources
+- pkg:maven/org.clojure/tools.logging@0.6.0
+- pkg:maven/org.clojure/tools.logging@0.6.0?classifier=sources
+- pkg:maven/org.clojure/tools.logging@1.0.0
+- pkg:maven/org.clojure/tools.logging@1.0.0?classifier=sources

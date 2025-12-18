@@ -7,6 +7,8 @@
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.12?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.13
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.13?classifier=sources
+- pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.14
+- pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.14?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.1?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.2
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.2?classifier=sources
@@ -24,3 +26,5 @@
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.8?classifier=sources
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.9
 - pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@0.9?classifier=sources
+- pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@1.0
+- pkg:maven/org.drombler.acp/drombler-acp-core-standard-docking@1.0?classifier=sources

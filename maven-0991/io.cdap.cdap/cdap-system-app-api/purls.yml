@@ -1,2 +1,4 @@
 - pkg:maven/io.cdap.cdap/cdap-system-app-api@6.0.0
 - pkg:maven/io.cdap.cdap/cdap-system-app-api@6.0.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-system-app-api@6.1.1
+- pkg:maven/io.cdap.cdap/cdap-system-app-api@6.1.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.squbs/squbs-actorregistry_2.11@0.12.0
 - pkg:maven/org.squbs/squbs-actorregistry_2.11@0.12.0?classifier=sources
+- pkg:maven/org.squbs/squbs-actorregistry_2.11@0.13.0
+- pkg:maven/org.squbs/squbs-actorregistry_2.11@0.13.0?classifier=sources
 - pkg:maven/org.squbs/squbs-actorregistry_2.11@0.7.0
 - pkg:maven/org.squbs/squbs-actorregistry_2.11@0.7.0?classifier=sources
 - pkg:maven/org.squbs/squbs-actorregistry_2.11@0.7.1

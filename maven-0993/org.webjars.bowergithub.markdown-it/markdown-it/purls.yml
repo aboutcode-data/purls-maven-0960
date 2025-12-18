@@ -1,4 +1,8 @@
+- pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@10.0.0
+- pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@10.0.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@8.4.1
 - pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@8.4.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@8.4.2
 - pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@8.4.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@9.1.0
+- pkg:maven/org.webjars.bowergithub.markdown-it/markdown-it@9.1.0?classifier=sources

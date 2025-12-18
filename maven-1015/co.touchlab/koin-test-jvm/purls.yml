@@ -1,2 +1,5 @@
 - pkg:maven/co.touchlab/koin-test-jvm@2.1.5-mp?classifier=sources
 - pkg:maven/co.touchlab/koin-test-jvm@2.1.6-mp?classifier=sources
+- pkg:maven/co.touchlab/koin-test-jvm@2.1.7-mp?classifier=sources
+- pkg:maven/co.touchlab/koin-test-jvm@3.0.0-khan?classifier=sources
+- pkg:maven/co.touchlab/koin-test-jvm@3.0.2-khan?classifier=sources

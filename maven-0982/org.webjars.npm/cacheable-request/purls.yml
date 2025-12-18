@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/cacheable-request@2.1.4
 - pkg:maven/org.webjars.npm/cacheable-request@2.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/cacheable-request@7.0.1
+- pkg:maven/org.webjars.npm/cacheable-request@7.0.1?classifier=sources

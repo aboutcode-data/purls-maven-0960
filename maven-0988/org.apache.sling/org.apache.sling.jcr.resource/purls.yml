@@ -106,6 +106,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.18?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.2
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.20
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.20?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.20?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.jcr.resource@3.0.4

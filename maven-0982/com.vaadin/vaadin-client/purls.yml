@@ -304,6 +304,10 @@
 - pkg:maven/com.vaadin/vaadin-client@8.1.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.1.8
 - pkg:maven/com.vaadin/vaadin-client@8.1.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@8.10.0
+- pkg:maven/com.vaadin/vaadin-client@8.10.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@8.10.1
+- pkg:maven/com.vaadin/vaadin-client@8.10.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.2.0
 - pkg:maven/com.vaadin/vaadin-client@8.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.2.1
@@ -372,3 +376,7 @@
 - pkg:maven/com.vaadin/vaadin-client@8.9.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.9.2
 - pkg:maven/com.vaadin/vaadin-client@8.9.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@8.9.3
+- pkg:maven/com.vaadin/vaadin-client@8.9.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@8.9.4
+- pkg:maven/com.vaadin/vaadin-client@8.9.4?classifier=sources

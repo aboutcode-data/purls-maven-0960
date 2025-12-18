@@ -15,6 +15,8 @@
 - pkg:maven/me.bradleysteele/commons@0.2.0
 - pkg:maven/me.bradleysteele/commons@0.2.0?classifier=sources
 - pkg:maven/me.bradleysteele/commons@0.2.1
+- pkg:maven/me.bradleysteele/commons@0.2.10
+- pkg:maven/me.bradleysteele/commons@0.2.10?classifier=sources
 - pkg:maven/me.bradleysteele/commons@0.2.1?classifier=sources
 - pkg:maven/me.bradleysteele/commons@0.2.2
 - pkg:maven/me.bradleysteele/commons@0.2.2?classifier=sources
@@ -30,3 +32,5 @@
 - pkg:maven/me.bradleysteele/commons@0.2.7?classifier=sources
 - pkg:maven/me.bradleysteele/commons@0.2.8
 - pkg:maven/me.bradleysteele/commons@0.2.8?classifier=sources
+- pkg:maven/me.bradleysteele/commons@0.2.9
+- pkg:maven/me.bradleysteele/commons@0.2.9?classifier=sources

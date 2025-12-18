@@ -1,2 +1,4 @@
 - pkg:maven/com.github.mizool.typemapping.store/typemapping-store-cassandra@0.2
 - pkg:maven/com.github.mizool.typemapping.store/typemapping-store-cassandra@0.2?classifier=sources
+- pkg:maven/com.github.mizool.typemapping.store/typemapping-store-cassandra@0.3
+- pkg:maven/com.github.mizool.typemapping.store/typemapping-store-cassandra@0.3?classifier=sources

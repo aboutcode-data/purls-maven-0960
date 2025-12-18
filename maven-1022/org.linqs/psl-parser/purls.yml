@@ -1,2 +1,6 @@
+- pkg:maven/org.linqs/psl-parser@2.2.0
+- pkg:maven/org.linqs/psl-parser@2.2.0?classifier=sources
+- pkg:maven/org.linqs/psl-parser@2.2.1
+- pkg:maven/org.linqs/psl-parser@2.2.1?classifier=sources
 - pkg:maven/org.linqs/psl-parser@CANARY-2.2.3
 - pkg:maven/org.linqs/psl-parser@CANARY-2.2.3?classifier=sources

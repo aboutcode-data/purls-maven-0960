@@ -40,3 +40,5 @@
 - pkg:maven/org.marid/marid-db@0.9.7.9?classifier=sources
 - pkg:maven/org.marid/marid-db@0.9.8.6
 - pkg:maven/org.marid/marid-db@0.9.8.6?classifier=sources
+- pkg:maven/org.marid/marid-db@0.9.8.9
+- pkg:maven/org.marid/marid-db@0.9.8.9?classifier=sources

@@ -114,3 +114,7 @@
 - pkg:maven/org.t-io/tio-http-server@3.5.6.v20191101-RELEASE?classifier=sources
 - pkg:maven/org.t-io/tio-http-server@3.5.7.v20191115-RELEASE
 - pkg:maven/org.t-io/tio-http-server@3.5.7.v20191115-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-http-server@3.5.8.v20191228-RELEASE
+- pkg:maven/org.t-io/tio-http-server@3.5.8.v20191228-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-http-server@3.5.9.v20200214-RELEASE
+- pkg:maven/org.t-io/tio-http-server@3.5.9.v20200214-RELEASE?classifier=sources

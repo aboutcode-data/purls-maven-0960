@@ -4,3 +4,10 @@
 - pkg:maven/org.openapi4j/openapi-parser@0.2?classifier=sources
 - pkg:maven/org.openapi4j/openapi-parser@0.3
 - pkg:maven/org.openapi4j/openapi-parser@0.3?classifier=sources
+- pkg:maven/org.openapi4j/openapi-parser@0.4
+- pkg:maven/org.openapi4j/openapi-parser@0.4?classifier=sources
+- pkg:maven/org.openapi4j/openapi-parser@0.5
+- pkg:maven/org.openapi4j/openapi-parser@0.5?classifier=sources
+- pkg:maven/org.openapi4j/openapi-parser@0.6
+- pkg:maven/org.openapi4j/openapi-parser@0.6?classifier=sources
+- pkg:maven/org.openapi4j/openapi-parser@0.7?classifier=sources

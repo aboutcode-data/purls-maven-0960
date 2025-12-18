@@ -79,6 +79,8 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.0-alpha1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.1
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.10
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.10?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.2
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-combo-box@5.0.2?classifier=sources

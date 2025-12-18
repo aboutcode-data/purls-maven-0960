@@ -1,0 +1,8 @@
+- pkg:maven/com.oracle.database.ha/ons@11.2.0.4
+- pkg:maven/com.oracle.database.ha/ons@11.2.0.4?classifier=sources
+- pkg:maven/com.oracle.database.ha/ons@12.2.0.1
+- pkg:maven/com.oracle.database.ha/ons@12.2.0.1?classifier=sources
+- pkg:maven/com.oracle.database.ha/ons@18.3.0.0
+- pkg:maven/com.oracle.database.ha/ons@18.3.0.0?classifier=sources
+- pkg:maven/com.oracle.database.ha/ons@19.3.0.0
+- pkg:maven/com.oracle.database.ha/ons@19.3.0.0?classifier=sources

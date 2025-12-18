@@ -6,3 +6,5 @@
 - pkg:maven/org.camunda.bpm.assert/camunda-bpm-assert@4.0.0-alpha1
 - pkg:maven/org.camunda.bpm.assert/camunda-bpm-assert@4.0.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm.assert/camunda-bpm-assert@4.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.assert/camunda-bpm-assert@5.0.0
+- pkg:maven/org.camunda.bpm.assert/camunda-bpm-assert@5.0.0?classifier=sources

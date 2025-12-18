@@ -1,2 +1,8 @@
 - pkg:maven/org.twister2/api-utils-java@0.3.0
 - pkg:maven/org.twister2/api-utils-java@0.3.0?classifier=sources
+- pkg:maven/org.twister2/api-utils-java@0.4.0
+- pkg:maven/org.twister2/api-utils-java@0.4.0?classifier=sources
+- pkg:maven/org.twister2/api-utils-java@0.5.0
+- pkg:maven/org.twister2/api-utils-java@0.5.0?classifier=sources
+- pkg:maven/org.twister2/api-utils-java@0.6.0
+- pkg:maven/org.twister2/api-utils-java@0.6.0?classifier=sources

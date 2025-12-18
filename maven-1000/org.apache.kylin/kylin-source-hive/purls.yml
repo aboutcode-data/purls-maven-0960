@@ -46,7 +46,9 @@
 - pkg:maven/org.apache.kylin/kylin-source-hive@2.6.3?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-source-hive@2.6.4
 - pkg:maven/org.apache.kylin/kylin-source-hive@2.6.4?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-source-hive@3.0.0
 - pkg:maven/org.apache.kylin/kylin-source-hive@3.0.0-alpha
 - pkg:maven/org.apache.kylin/kylin-source-hive@3.0.0-alpha2
 - pkg:maven/org.apache.kylin/kylin-source-hive@3.0.0-alpha2?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-source-hive@3.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-source-hive@3.0.0?classifier=sources

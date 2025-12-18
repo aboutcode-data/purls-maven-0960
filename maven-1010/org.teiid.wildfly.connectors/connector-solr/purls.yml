@@ -14,7 +14,15 @@
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.2.0?classifier=sources
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.2.1
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.2.1?classifier=sources
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.2.2
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.2.2?classifier=sources
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.3.0
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.3.0?classifier=sources
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.3.1
 - pkg:maven/org.teiid.wildfly.connectors/connector-solr@12.3.1?classifier=sources
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@13.0.0
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@13.0.0?classifier=sources
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@13.0.1
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@13.0.1?classifier=sources
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@13.0.2
+- pkg:maven/org.teiid.wildfly.connectors/connector-solr@13.0.2?classifier=sources

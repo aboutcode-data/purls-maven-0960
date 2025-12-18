@@ -52,3 +52,9 @@
 - pkg:maven/com.virgilsecurity.sdk/crypto-android@6.0.1?type=aar
 - pkg:maven/com.virgilsecurity.sdk/crypto-android@6.0?classifier=sources
 - pkg:maven/com.virgilsecurity.sdk/crypto-android@6.0?type=aar
+- pkg:maven/com.virgilsecurity.sdk/crypto-android@6.1.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/crypto-android@6.1.0?type=aar
+- pkg:maven/com.virgilsecurity.sdk/crypto-android@7.0.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/crypto-android@7.0.0?type=aar
+- pkg:maven/com.virgilsecurity.sdk/crypto-android@7.1.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/crypto-android@7.1.0?type=aar

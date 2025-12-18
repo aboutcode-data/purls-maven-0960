@@ -12,3 +12,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-connectors-core@2.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-connectors-core@2.0.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-connectors-core@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-connectors-core@2.0.7.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-connectors-core@2.0.7.RELEASE?classifier=sources

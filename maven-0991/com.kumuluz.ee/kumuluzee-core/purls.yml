@@ -64,3 +64,9 @@
 - pkg:maven/com.kumuluz.ee/kumuluzee-core@3.4.1?classifier=sources
 - pkg:maven/com.kumuluz.ee/kumuluzee-core@3.5.0
 - pkg:maven/com.kumuluz.ee/kumuluzee-core@3.5.0?classifier=sources
+- pkg:maven/com.kumuluz.ee/kumuluzee-core@3.6.0
+- pkg:maven/com.kumuluz.ee/kumuluzee-core@3.6.0?classifier=sources
+- pkg:maven/com.kumuluz.ee/kumuluzee-core@3.6.1
+- pkg:maven/com.kumuluz.ee/kumuluzee-core@3.6.1?classifier=sources
+- pkg:maven/com.kumuluz.ee/kumuluzee-core@3.7.0
+- pkg:maven/com.kumuluz.ee/kumuluzee-core@3.7.0?classifier=sources

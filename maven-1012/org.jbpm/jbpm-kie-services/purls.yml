@@ -158,6 +158,14 @@
 - pkg:maven/org.jbpm/jbpm-kie-services@7.29.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-kie-services@7.3.0.Final
 - pkg:maven/org.jbpm/jbpm-kie-services@7.3.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-kie-services@7.30.0.Final
+- pkg:maven/org.jbpm/jbpm-kie-services@7.30.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-kie-services@7.31.0.Final
+- pkg:maven/org.jbpm/jbpm-kie-services@7.31.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-kie-services@7.32.0.Final
+- pkg:maven/org.jbpm/jbpm-kie-services@7.32.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-kie-services@7.33.0.Final
+- pkg:maven/org.jbpm/jbpm-kie-services@7.33.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-kie-services@7.4.0.Final
 - pkg:maven/org.jbpm/jbpm-kie-services@7.4.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-kie-services@7.4.1.Final

@@ -44,3 +44,5 @@
 - pkg:maven/com.josesamuel/rxremote@2.0.1?type=aar
 - pkg:maven/com.josesamuel/rxremote@2.0.3?classifier=sources
 - pkg:maven/com.josesamuel/rxremote@2.0.3?type=aar
+- pkg:maven/com.josesamuel/rxremote@2.0.4?classifier=sources
+- pkg:maven/com.josesamuel/rxremote@2.0.4?type=aar

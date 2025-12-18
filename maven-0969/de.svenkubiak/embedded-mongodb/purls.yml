@@ -76,3 +76,7 @@
 - pkg:maven/de.svenkubiak/embedded-mongodb@5.0.2?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@5.0.3
 - pkg:maven/de.svenkubiak/embedded-mongodb@5.0.3?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.0.4
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.0.4?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.0.5
+- pkg:maven/de.svenkubiak/embedded-mongodb@5.0.5?classifier=sources

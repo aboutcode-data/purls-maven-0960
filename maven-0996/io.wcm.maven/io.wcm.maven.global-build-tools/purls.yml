@@ -23,6 +23,10 @@
 - pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@2
 - pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@20
 - pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@20?classifier=sources
+- pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@21
+- pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@21?classifier=sources
+- pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@22
+- pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@22?classifier=sources
 - pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@2?classifier=sources
 - pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@3
 - pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools@3?classifier=sources

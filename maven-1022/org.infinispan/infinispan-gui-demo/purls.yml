@@ -26,6 +26,10 @@
 - pkg:maven/org.infinispan/infinispan-gui-demo@10.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@10.1.0.Beta1
 - pkg:maven/org.infinispan/infinispan-gui-demo@10.1.0.Beta1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gui-demo@10.1.0.CR1
+- pkg:maven/org.infinispan/infinispan-gui-demo@10.1.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gui-demo@10.1.0.Final
+- pkg:maven/org.infinispan/infinispan-gui-demo@10.1.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@5.0.0.FINAL
 - pkg:maven/org.infinispan/infinispan-gui-demo@5.0.0.FINAL?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@5.0.1.FINAL
@@ -296,6 +300,8 @@
 - pkg:maven/org.infinispan/infinispan-gui-demo@8.2.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@8.2.11.Final
 - pkg:maven/org.infinispan/infinispan-gui-demo@8.2.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gui-demo@8.2.12.Final
+- pkg:maven/org.infinispan/infinispan-gui-demo@8.2.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@8.2.2.Final
 - pkg:maven/org.infinispan/infinispan-gui-demo@8.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@8.2.3.Final
@@ -406,6 +412,8 @@
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.3.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.3.6.Final
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.3.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gui-demo@9.3.8.Final
+- pkg:maven/org.infinispan/infinispan-gui-demo@9.3.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.0.Beta1
@@ -434,6 +442,10 @@
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.16.Final
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.16.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gui-demo@9.4.17.Final
+- pkg:maven/org.infinispan/infinispan-gui-demo@9.4.17.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gui-demo@9.4.18.Final
+- pkg:maven/org.infinispan/infinispan-gui-demo@9.4.18.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.2.Final
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-gui-demo@9.4.3.Final

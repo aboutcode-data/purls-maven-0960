@@ -1,2 +1,4 @@
 - pkg:maven/com.lucadev.trampoline/trampoline-jwt@20190509
 - pkg:maven/com.lucadev.trampoline/trampoline-jwt@20190509?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-jwt@20190628
+- pkg:maven/com.lucadev.trampoline/trampoline-jwt@20190628?classifier=sources

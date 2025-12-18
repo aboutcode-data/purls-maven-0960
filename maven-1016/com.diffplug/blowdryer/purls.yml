@@ -1,0 +1,4 @@
+- pkg:maven/com.diffplug/blowdryer@0.1.1
+- pkg:maven/com.diffplug/blowdryer@0.1.1?classifier=sources
+- pkg:maven/com.diffplug/blowdryer@0.2.0
+- pkg:maven/com.diffplug/blowdryer@0.2.0?classifier=sources

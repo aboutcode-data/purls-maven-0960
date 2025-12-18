@@ -462,3 +462,15 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.0.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.0.RELEASE_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.0.RELEASE_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.1.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.1.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.1.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.1.RELEASE_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.2.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.2.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.2.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.2.RELEASE_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.3.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.3.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.3.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-oxm@5.2.3.RELEASE_1?classifier=src&type=zip

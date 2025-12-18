@@ -16,3 +16,5 @@
 - pkg:maven/com.solace.cloud.cloudfoundry/solace-spring-cloud-connector@4.1.0?classifier=sources
 - pkg:maven/com.solace.cloud.cloudfoundry/solace-spring-cloud-connector@4.1.1
 - pkg:maven/com.solace.cloud.cloudfoundry/solace-spring-cloud-connector@4.1.1?classifier=sources
+- pkg:maven/com.solace.cloud.cloudfoundry/solace-spring-cloud-connector@4.2.0
+- pkg:maven/com.solace.cloud.cloudfoundry/solace-spring-cloud-connector@4.2.0?classifier=sources

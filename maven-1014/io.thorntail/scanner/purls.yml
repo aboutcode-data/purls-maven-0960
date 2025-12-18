@@ -12,3 +12,5 @@
 - pkg:maven/io.thorntail/scanner@2.4.0.Final?classifier=sources
 - pkg:maven/io.thorntail/scanner@2.5.0.Final
 - pkg:maven/io.thorntail/scanner@2.5.0.Final?classifier=sources
+- pkg:maven/io.thorntail/scanner@2.6.0.Final
+- pkg:maven/io.thorntail/scanner@2.6.0.Final?classifier=sources

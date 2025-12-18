@@ -12,3 +12,7 @@
 - pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.2.6?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.2.7
 - pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.2.7?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.2.8
+- pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.2.8?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.3.0.RC1
+- pkg:maven/org.apache.karaf.examples/karaf-bundle-example-client@4.3.0.RC1?classifier=sources

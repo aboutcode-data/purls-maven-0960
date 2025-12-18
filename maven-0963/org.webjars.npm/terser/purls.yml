@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/terser@4.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/terser@4.3.9
 - pkg:maven/org.webjars.npm/terser@4.3.9?classifier=sources
+- pkg:maven/org.webjars.npm/terser@4.6.3
+- pkg:maven/org.webjars.npm/terser@4.6.3?classifier=sources

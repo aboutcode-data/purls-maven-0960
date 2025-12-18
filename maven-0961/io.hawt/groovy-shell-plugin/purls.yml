@@ -134,6 +134,8 @@
 - pkg:maven/io.hawt/groovy-shell-plugin@1.5.10?type=war
 - pkg:maven/io.hawt/groovy-shell-plugin@1.5.11?classifier=sources
 - pkg:maven/io.hawt/groovy-shell-plugin@1.5.11?type=war
+- pkg:maven/io.hawt/groovy-shell-plugin@1.5.12?classifier=sources
+- pkg:maven/io.hawt/groovy-shell-plugin@1.5.12?type=war
 - pkg:maven/io.hawt/groovy-shell-plugin@1.5.1?classifier=sources
 - pkg:maven/io.hawt/groovy-shell-plugin@1.5.1?type=war
 - pkg:maven/io.hawt/groovy-shell-plugin@1.5.2?classifier=sources

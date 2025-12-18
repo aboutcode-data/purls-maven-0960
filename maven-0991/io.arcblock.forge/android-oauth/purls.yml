@@ -1,0 +1,4 @@
+- pkg:maven/io.arcblock.forge/android-oauth@0.1.0?classifier=sources
+- pkg:maven/io.arcblock.forge/android-oauth@0.1.0?type=aar
+- pkg:maven/io.arcblock.forge/android-oauth@0.1.1?classifier=sources
+- pkg:maven/io.arcblock.forge/android-oauth@0.1.1?type=aar

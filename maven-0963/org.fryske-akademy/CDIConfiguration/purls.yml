@@ -37,6 +37,12 @@
 - pkg:maven/org.fryske-akademy/CDIConfiguration@12.2
 - pkg:maven/org.fryske-akademy/CDIConfiguration@12.20
 - pkg:maven/org.fryske-akademy/CDIConfiguration@12.20?classifier=sources
+- pkg:maven/org.fryske-akademy/CDIConfiguration@12.21
+- pkg:maven/org.fryske-akademy/CDIConfiguration@12.21?classifier=sources
+- pkg:maven/org.fryske-akademy/CDIConfiguration@12.23
+- pkg:maven/org.fryske-akademy/CDIConfiguration@12.23?classifier=sources
+- pkg:maven/org.fryske-akademy/CDIConfiguration@12.24
+- pkg:maven/org.fryske-akademy/CDIConfiguration@12.24?classifier=sources
 - pkg:maven/org.fryske-akademy/CDIConfiguration@12.2?classifier=sources
 - pkg:maven/org.fryske-akademy/CDIConfiguration@12.3
 - pkg:maven/org.fryske-akademy/CDIConfiguration@12.3?classifier=sources

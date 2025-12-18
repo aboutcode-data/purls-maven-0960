@@ -21,3 +21,5 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.integrator.server.feature@4.7.21?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.integrator.server.feature@4.7.22?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.integrator.server.feature@4.7.23?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.integrator.server.feature@4.7.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.integrator.server.feature@4.7.34?classifier=source-release&type=zip

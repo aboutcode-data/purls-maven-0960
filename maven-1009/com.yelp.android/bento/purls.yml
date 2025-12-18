@@ -14,3 +14,11 @@
 - pkg:maven/com.yelp.android/bento@15.3.0?type=aar
 - pkg:maven/com.yelp.android/bento@15.3.2?classifier=sources
 - pkg:maven/com.yelp.android/bento@15.3.2?type=aar
+- pkg:maven/com.yelp.android/bento@15.4.0?classifier=sources
+- pkg:maven/com.yelp.android/bento@15.4.0?type=aar
+- pkg:maven/com.yelp.android/bento@15.5.0?classifier=sources
+- pkg:maven/com.yelp.android/bento@15.5.0?type=aar
+- pkg:maven/com.yelp.android/bento@15.6.0?classifier=sources
+- pkg:maven/com.yelp.android/bento@15.6.0?type=aar
+- pkg:maven/com.yelp.android/bento@15.7.0?classifier=sources
+- pkg:maven/com.yelp.android/bento@15.7.0?type=aar

@@ -1,3 +1,15 @@
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.23?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.26?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.27?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.29?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.30?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.32?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.33?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.34?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.35
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.35?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.36
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0-alpha.36?classifier=sources
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a10
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a10?classifier=sources
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a11
@@ -8,5 +20,10 @@
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a13?classifier=sources
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a14
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a14?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0a15?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0a16?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0a17?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0a18?classifier=sources
+- pkg:maven/cloud.orbit/orbit-shared@2.0.0a19?classifier=sources
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a9
 - pkg:maven/cloud.orbit/orbit-shared@2.0.0a9?classifier=sources

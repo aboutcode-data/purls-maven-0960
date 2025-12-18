@@ -1,0 +1,6 @@
+- pkg:maven/org.neo4j/annotations@4.0.0
+- pkg:maven/org.neo4j/annotations@4.0.0-rc01
+- pkg:maven/org.neo4j/annotations@4.0.0-rc01?classifier=sources
+- pkg:maven/org.neo4j/annotations@4.0.0?classifier=sources
+- pkg:maven/org.neo4j/annotations@4.0.1
+- pkg:maven/org.neo4j/annotations@4.0.1?classifier=sources

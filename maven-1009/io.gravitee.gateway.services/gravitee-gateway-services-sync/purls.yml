@@ -115,7 +115,14 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.13?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.14?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.15?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.16?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.17?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.18?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.19?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.20?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.21?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.22?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.25.4?classifier=sources
@@ -148,6 +155,11 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.3.1?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.3.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.30.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.30.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.30.2?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.30.3?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.30.4?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.30.5?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.4.0?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.4.1?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.5.0?classifier=sources
@@ -163,3 +175,4 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.9.0?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.9.1?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@1.9.2?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-sync@3.0.0-alpha?classifier=sources

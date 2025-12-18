@@ -26,3 +26,7 @@
 - pkg:maven/sg.dex/starfish-java@0.7.7?classifier=sources
 - pkg:maven/sg.dex/starfish-java@0.7.8
 - pkg:maven/sg.dex/starfish-java@0.7.8?classifier=sources
+- pkg:maven/sg.dex/starfish-java@0.8.0
+- pkg:maven/sg.dex/starfish-java@0.8.0?classifier=sources
+- pkg:maven/sg.dex/starfish-java@0.8.1
+- pkg:maven/sg.dex/starfish-java@0.8.1?classifier=sources

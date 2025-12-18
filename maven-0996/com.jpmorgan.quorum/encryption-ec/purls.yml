@@ -1,0 +1,4 @@
+- pkg:maven/com.jpmorgan.quorum/encryption-ec@0.10.2
+- pkg:maven/com.jpmorgan.quorum/encryption-ec@0.10.2?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/encryption-ec@0.10.3
+- pkg:maven/com.jpmorgan.quorum/encryption-ec@0.10.3?classifier=sources

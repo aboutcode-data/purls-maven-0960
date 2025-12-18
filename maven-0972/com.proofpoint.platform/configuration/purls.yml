@@ -346,3 +346,13 @@
 - pkg:maven/com.proofpoint.platform/configuration@2.17?classifier=sources
 - pkg:maven/com.proofpoint.platform/configuration@2.18
 - pkg:maven/com.proofpoint.platform/configuration@2.18?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@2.19
+- pkg:maven/com.proofpoint.platform/configuration@2.19?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@2.20
+- pkg:maven/com.proofpoint.platform/configuration@2.20?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@2.22
+- pkg:maven/com.proofpoint.platform/configuration@2.22?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@2.23
+- pkg:maven/com.proofpoint.platform/configuration@2.23?classifier=sources
+- pkg:maven/com.proofpoint.platform/configuration@2.24
+- pkg:maven/com.proofpoint.platform/configuration@2.24?classifier=sources

@@ -9,4 +9,6 @@
 - pkg:maven/org.deeplearning4j/deeplearning4j-ui-standalone@1.0.0-beta4?classifier=sources
 - pkg:maven/org.deeplearning4j/deeplearning4j-ui-standalone@1.0.0-beta5
 - pkg:maven/org.deeplearning4j/deeplearning4j-ui-standalone@1.0.0-beta5?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-ui-standalone@1.0.0-beta6
+- pkg:maven/org.deeplearning4j/deeplearning4j-ui-standalone@1.0.0-beta6?classifier=sources
 - pkg:maven/org.deeplearning4j/deeplearning4j-ui-standalone@1.0.0-beta?classifier=sources

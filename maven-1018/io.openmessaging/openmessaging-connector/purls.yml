@@ -1,2 +1,4 @@
 - pkg:maven/io.openmessaging/openmessaging-connector@0.1.0-beta
 - pkg:maven/io.openmessaging/openmessaging-connector@0.1.0-beta?classifier=sources
+- pkg:maven/io.openmessaging/openmessaging-connector@0.1.1
+- pkg:maven/io.openmessaging/openmessaging-connector@0.1.1?classifier=sources

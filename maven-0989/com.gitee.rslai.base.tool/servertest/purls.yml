@@ -8,3 +8,7 @@
 - pkg:maven/com.gitee.rslai.base.tool/servertest@0.4?classifier=sources
 - pkg:maven/com.gitee.rslai.base.tool/servertest@0.5
 - pkg:maven/com.gitee.rslai.base.tool/servertest@0.5?classifier=sources
+- pkg:maven/com.gitee.rslai.base.tool/servertest@0.7
+- pkg:maven/com.gitee.rslai.base.tool/servertest@0.7?classifier=sources
+- pkg:maven/com.gitee.rslai.base.tool/servertest@0.8
+- pkg:maven/com.gitee.rslai.base.tool/servertest@0.8?classifier=sources

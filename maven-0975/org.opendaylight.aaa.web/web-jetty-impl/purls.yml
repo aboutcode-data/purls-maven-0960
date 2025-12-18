@@ -2,6 +2,8 @@
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.10.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.10.1
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.10.1?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.10.2
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.10.2?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.1
@@ -16,3 +18,5 @@
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.9.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.9.2
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.9.2?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.9.3
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.9.3?classifier=sources

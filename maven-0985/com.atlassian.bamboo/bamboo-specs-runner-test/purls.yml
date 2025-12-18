@@ -1,5 +1,6 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.10.2
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.10.3
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.10.4
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.2.0-eap
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.2.0-m14
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.2.0-m7
@@ -45,3 +46,8 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.9.0-rc2
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.9.1
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@6.9.2
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@7.0.0
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@7.0.0-m05
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@7.0.0-m06
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@7.0.0-rc1
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner-test@7.0.0-rc2

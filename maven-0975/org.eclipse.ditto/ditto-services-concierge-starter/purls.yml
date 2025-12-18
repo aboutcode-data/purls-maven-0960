@@ -16,9 +16,15 @@
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.9.0-M2
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.9.0-M2?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@0.9.0?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M1a
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M1a?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M2
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M2?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M3
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M3?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M4
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0-M4?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.1.0-M2
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-starter@1.1.0-M2?classifier=sources

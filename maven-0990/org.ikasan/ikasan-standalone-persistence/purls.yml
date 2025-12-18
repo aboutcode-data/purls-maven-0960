@@ -16,3 +16,5 @@
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@2.1.2?classifier=sources
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@2.1.3
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@2.1.3?classifier=sources
+- pkg:maven/org.ikasan/ikasan-standalone-persistence@3.0.0
+- pkg:maven/org.ikasan/ikasan-standalone-persistence@3.0.0?classifier=sources

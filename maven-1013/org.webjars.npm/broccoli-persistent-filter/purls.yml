@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/broccoli-persistent-filter@1.4.6
 - pkg:maven/org.webjars.npm/broccoli-persistent-filter@1.4.6?classifier=sources
+- pkg:maven/org.webjars.npm/broccoli-persistent-filter@2.3.1
+- pkg:maven/org.webjars.npm/broccoli-persistent-filter@2.3.1?classifier=sources

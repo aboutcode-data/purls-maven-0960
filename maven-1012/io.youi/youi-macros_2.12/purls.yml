@@ -99,6 +99,14 @@
 - pkg:maven/io.youi/youi-macros_2.12@0.12.0
 - pkg:maven/io.youi/youi-macros_2.12@0.12.0?classifier=sources
 - pkg:maven/io.youi/youi-macros_2.12@0.12.1
+- pkg:maven/io.youi/youi-macros_2.12@0.12.10
+- pkg:maven/io.youi/youi-macros_2.12@0.12.10?classifier=sources
+- pkg:maven/io.youi/youi-macros_2.12@0.12.11
+- pkg:maven/io.youi/youi-macros_2.12@0.12.11?classifier=sources
+- pkg:maven/io.youi/youi-macros_2.12@0.12.12
+- pkg:maven/io.youi/youi-macros_2.12@0.12.12?classifier=sources
+- pkg:maven/io.youi/youi-macros_2.12@0.12.13
+- pkg:maven/io.youi/youi-macros_2.12@0.12.13?classifier=sources
 - pkg:maven/io.youi/youi-macros_2.12@0.12.1?classifier=sources
 - pkg:maven/io.youi/youi-macros_2.12@0.12.2
 - pkg:maven/io.youi/youi-macros_2.12@0.12.2?classifier=sources
@@ -112,6 +120,10 @@
 - pkg:maven/io.youi/youi-macros_2.12@0.12.6?classifier=sources
 - pkg:maven/io.youi/youi-macros_2.12@0.12.7
 - pkg:maven/io.youi/youi-macros_2.12@0.12.7?classifier=sources
+- pkg:maven/io.youi/youi-macros_2.12@0.12.8
+- pkg:maven/io.youi/youi-macros_2.12@0.12.8?classifier=sources
+- pkg:maven/io.youi/youi-macros_2.12@0.12.9
+- pkg:maven/io.youi/youi-macros_2.12@0.12.9?classifier=sources
 - pkg:maven/io.youi/youi-macros_2.12@0.6.0
 - pkg:maven/io.youi/youi-macros_2.12@0.6.0?classifier=sources
 - pkg:maven/io.youi/youi-macros_2.12@0.6.1

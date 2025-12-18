@@ -228,3 +228,9 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.23
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.23?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.23?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.30
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.30?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.34
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.34?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.application.mgt.synapse@4.7.34?classifier=sources

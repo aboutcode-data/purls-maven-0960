@@ -1,0 +1,6 @@
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/x509-provider-preview@%24%7Bx509-provider-version%7D
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/x509-provider-preview@%24%7Bx509-provider-version%7D?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/x509-provider-preview@1.0.0
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/x509-provider-preview@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/x509-provider-preview@1.0.1
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/x509-provider-preview@1.0.1?classifier=sources

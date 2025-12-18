@@ -20,6 +20,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@1.0.7
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@1.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@1.0.8
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@1.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@1.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.0
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.0?classifier=sources-commercial
@@ -32,6 +35,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.3
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.4
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.0.0
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.0.0?classifier=sources-commercial
@@ -41,3 +47,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.1.1
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.1.2
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@3.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@4.0.1
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@4.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.model.adapter@4.0.1?classifier=sources-commercial

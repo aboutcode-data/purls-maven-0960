@@ -1,0 +1,6 @@
+- pkg:maven/de.idealo.kafka/deckard@0.1.5-RELEASE
+- pkg:maven/de.idealo.kafka/deckard@0.1.5-RELEASE?classifier=sources
+- pkg:maven/de.idealo.kafka/deckard@0.1.6-LEGACY
+- pkg:maven/de.idealo.kafka/deckard@0.1.6-LEGACY?classifier=sources
+- pkg:maven/de.idealo.kafka/deckard@1.0.0-RELEASE
+- pkg:maven/de.idealo.kafka/deckard@1.0.0-RELEASE?classifier=sources

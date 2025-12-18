@@ -1,2 +1,4 @@
+- pkg:maven/io.cdap.cdap/cdap-sentry-binding@0.10.0
+- pkg:maven/io.cdap.cdap/cdap-sentry-binding@0.10.0?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-sentry-binding@0.9.0
 - pkg:maven/io.cdap.cdap/cdap-sentry-binding@0.9.0?classifier=sources

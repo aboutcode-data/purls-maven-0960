@@ -20,6 +20,8 @@
 - pkg:maven/org.infinispan/infinispan-doclets@9.3.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-doclets@9.3.6.Final
 - pkg:maven/org.infinispan/infinispan-doclets@9.3.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-doclets@9.3.8.Final
+- pkg:maven/org.infinispan/infinispan-doclets@9.3.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-doclets@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-doclets@9.4.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-doclets@9.4.0.Beta1

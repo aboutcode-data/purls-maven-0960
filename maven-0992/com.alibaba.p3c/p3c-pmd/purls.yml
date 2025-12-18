@@ -16,3 +16,5 @@
 - pkg:maven/com.alibaba.p3c/p3c-pmd@1.3.6?classifier=sources
 - pkg:maven/com.alibaba.p3c/p3c-pmd@2.0.0
 - pkg:maven/com.alibaba.p3c/p3c-pmd@2.0.0?classifier=sources
+- pkg:maven/com.alibaba.p3c/p3c-pmd@2.0.1
+- pkg:maven/com.alibaba.p3c/p3c-pmd@2.0.1?classifier=sources

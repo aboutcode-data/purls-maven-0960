@@ -8,6 +8,10 @@
 - pkg:maven/io.github.alphajiang/hyena-core@0.0.13?classifier=sources
 - pkg:maven/io.github.alphajiang/hyena-core@0.0.14
 - pkg:maven/io.github.alphajiang/hyena-core@0.0.14?classifier=sources
+- pkg:maven/io.github.alphajiang/hyena-core@0.0.19
+- pkg:maven/io.github.alphajiang/hyena-core@0.0.19?classifier=sources
+- pkg:maven/io.github.alphajiang/hyena-core@0.0.20
+- pkg:maven/io.github.alphajiang/hyena-core@0.0.20?classifier=sources
 - pkg:maven/io.github.alphajiang/hyena-core@0.0.3
 - pkg:maven/io.github.alphajiang/hyena-core@0.0.3?classifier=sources
 - pkg:maven/io.github.alphajiang/hyena-core@0.0.4

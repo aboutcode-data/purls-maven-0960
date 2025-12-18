@@ -22,3 +22,7 @@
 - pkg:maven/org.filesys/jfileserver@1.1.8?classifier=sources
 - pkg:maven/org.filesys/jfileserver@1.1.9
 - pkg:maven/org.filesys/jfileserver@1.1.9?classifier=sources
+- pkg:maven/org.filesys/jfileserver@1.2.0
+- pkg:maven/org.filesys/jfileserver@1.2.0?classifier=sources
+- pkg:maven/org.filesys/jfileserver@1.2.1
+- pkg:maven/org.filesys/jfileserver@1.2.1?classifier=sources

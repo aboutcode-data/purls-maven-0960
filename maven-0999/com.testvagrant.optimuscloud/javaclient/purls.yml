@@ -1,5 +1,7 @@
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@0.0.1-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.0
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.0-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.0?classifier=sources
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.1-beta?classifier=sources
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.2-beta?classifier=sources
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.3-beta?classifier=sources
@@ -7,3 +9,9 @@
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.5-beta?classifier=sources
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.6-beta?classifier=sources
 - pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.7-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.8-beta
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.8-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.9-beta
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.0.9-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.1.0
+- pkg:maven/com.testvagrant.optimuscloud/javaclient@1.1.0?classifier=sources

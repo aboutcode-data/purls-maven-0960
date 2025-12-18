@@ -1,2 +1,6 @@
 - pkg:maven/org.xbib/netty-http-server-api@4.1.43.1
 - pkg:maven/org.xbib/netty-http-server-api@4.1.43.1?classifier=sources
+- pkg:maven/org.xbib/netty-http-server-api@4.1.44.2
+- pkg:maven/org.xbib/netty-http-server-api@4.1.44.2?classifier=sources
+- pkg:maven/org.xbib/netty-http-server-api@4.1.45.0
+- pkg:maven/org.xbib/netty-http-server-api@4.1.45.0?classifier=sources

@@ -1,5 +1,9 @@
 - pkg:maven/com.g2forge.alexandria/ax-test@0.0.10
 - pkg:maven/com.g2forge.alexandria/ax-test@0.0.10?classifier=sources
+- pkg:maven/com.g2forge.alexandria/ax-test@0.0.11
+- pkg:maven/com.g2forge.alexandria/ax-test@0.0.11?classifier=sources
+- pkg:maven/com.g2forge.alexandria/ax-test@0.0.13
+- pkg:maven/com.g2forge.alexandria/ax-test@0.0.13?classifier=sources
 - pkg:maven/com.g2forge.alexandria/ax-test@0.0.3
 - pkg:maven/com.g2forge.alexandria/ax-test@0.0.3?classifier=sources
 - pkg:maven/com.g2forge.alexandria/ax-test@0.0.4

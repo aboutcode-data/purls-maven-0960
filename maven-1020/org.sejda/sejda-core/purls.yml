@@ -112,6 +112,7 @@
 - pkg:maven/org.sejda/sejda-core@3.2.84?classifier=sources
 - pkg:maven/org.sejda/sejda-core@3.2.85
 - pkg:maven/org.sejda/sejda-core@3.2.85?classifier=sources
+- pkg:maven/org.sejda/sejda-core@4.0.0
 - pkg:maven/org.sejda/sejda-core@4.0.0.M1
 - pkg:maven/org.sejda/sejda-core@4.0.0.M1?classifier=sources
 - pkg:maven/org.sejda/sejda-core@4.0.0.M2
@@ -120,3 +121,12 @@
 - pkg:maven/org.sejda/sejda-core@4.0.0.M3?classifier=sources
 - pkg:maven/org.sejda/sejda-core@4.0.0.M4
 - pkg:maven/org.sejda/sejda-core@4.0.0.M4?classifier=sources
+- pkg:maven/org.sejda/sejda-core@4.0.0.M5
+- pkg:maven/org.sejda/sejda-core@4.0.0.M5?classifier=sources
+- pkg:maven/org.sejda/sejda-core@4.0.0?classifier=sources
+- pkg:maven/org.sejda/sejda-core@4.0.1
+- pkg:maven/org.sejda/sejda-core@4.0.1?classifier=sources
+- pkg:maven/org.sejda/sejda-core@4.0.2
+- pkg:maven/org.sejda/sejda-core@4.0.2?classifier=sources
+- pkg:maven/org.sejda/sejda-core@4.0.3
+- pkg:maven/org.sejda/sejda-core@4.0.3?classifier=sources

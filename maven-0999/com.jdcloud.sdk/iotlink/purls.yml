@@ -1,2 +1,4 @@
 - pkg:maven/com.jdcloud.sdk/iotlink@1.0.1
 - pkg:maven/com.jdcloud.sdk/iotlink@1.0.1?classifier=sources
+- pkg:maven/com.jdcloud.sdk/iotlink@1.0.3
+- pkg:maven/com.jdcloud.sdk/iotlink@1.0.3?classifier=sources

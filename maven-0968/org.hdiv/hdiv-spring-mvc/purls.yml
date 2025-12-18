@@ -48,3 +48,5 @@
 - pkg:maven/org.hdiv/hdiv-spring-mvc@3.3.0?classifier=sources
 - pkg:maven/org.hdiv/hdiv-spring-mvc@3.4.0
 - pkg:maven/org.hdiv/hdiv-spring-mvc@3.4.0?classifier=sources
+- pkg:maven/org.hdiv/hdiv-spring-mvc@3.5.0.RC1
+- pkg:maven/org.hdiv/hdiv-spring-mvc@3.5.0.RC1?classifier=sources

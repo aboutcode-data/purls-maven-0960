@@ -85,6 +85,8 @@
 - pkg:maven/org.apache.camel/camel-spring-security@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@2.24.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@2.24.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@2.25.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@2.5.0?classifier=sources
@@ -118,3 +120,6 @@
 - pkg:maven/org.apache.camel/camel-spring-security@3.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@3.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@3.0.0-RC3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@3.0.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@3.0.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@3.1.0?classifier=sources

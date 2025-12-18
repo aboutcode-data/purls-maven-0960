@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.0-M3
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.0?classifier=sources
+- pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.1
+- pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.1?classifier=sources
