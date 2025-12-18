@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.ignite/ignite-jcl@2.8.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-jcl@2.8.1
 - pkg:maven/org.apache.ignite/ignite-jcl@2.8.1?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-jcl@2.9.0
+- pkg:maven/org.apache.ignite/ignite-jcl@2.9.0?classifier=sources

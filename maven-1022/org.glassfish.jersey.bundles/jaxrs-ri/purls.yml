@@ -154,6 +154,9 @@
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.31?classifier=src&type=tar.gz
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.31?classifier=src&type=zip
+- pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.32?classifier=sources
+- pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.32?classifier=src&type=tar.gz
+- pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.32?classifier=src&type=zip
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.3?classifier=src&type=tar.gz
 - pkg:maven/org.glassfish.jersey.bundles/jaxrs-ri@2.3?classifier=src&type=zip

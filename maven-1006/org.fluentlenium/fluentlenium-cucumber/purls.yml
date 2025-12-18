@@ -74,6 +74,8 @@
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.1.0?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.1.1
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.1.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.10.1
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.10.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.2.0
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.2.0?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@3.3.0
@@ -116,3 +118,5 @@
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.3.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.4.1
 - pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.4.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.5.1
+- pkg:maven/org.fluentlenium/fluentlenium-cucumber@4.5.1?classifier=sources

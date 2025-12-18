@@ -12,6 +12,8 @@
 - pkg:maven/org.webjars.npm/redoc@1.22.0?classifier=sources
 - pkg:maven/org.webjars.npm/redoc@1.22.2
 - pkg:maven/org.webjars.npm/redoc@1.22.2?classifier=sources
+- pkg:maven/org.webjars.npm/redoc@1.22.3
+- pkg:maven/org.webjars.npm/redoc@1.22.3?classifier=sources
 - pkg:maven/org.webjars.npm/redoc@1.8.0
 - pkg:maven/org.webjars.npm/redoc@1.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/redoc@1.9.0
@@ -39,4 +41,6 @@
 - pkg:maven/org.webjars.npm/redoc@2.0.0-rc.31
 - pkg:maven/org.webjars.npm/redoc@2.0.0-rc.31?classifier=sources
 - pkg:maven/org.webjars.npm/redoc@2.0.0-rc.4
+- pkg:maven/org.webjars.npm/redoc@2.0.0-rc.45
+- pkg:maven/org.webjars.npm/redoc@2.0.0-rc.45?classifier=sources
 - pkg:maven/org.webjars.npm/redoc@2.0.0-rc.4?classifier=sources

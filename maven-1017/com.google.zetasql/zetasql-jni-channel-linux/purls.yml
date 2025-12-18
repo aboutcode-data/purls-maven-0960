@@ -8,3 +8,7 @@
 - pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.07.1?classifier=sources
 - pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.08.1
 - pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.08.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.09.1
+- pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.09.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.10.1
+- pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2020.10.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-hdfs@3.6?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-hdfs@3.7
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-hdfs@3.7?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-hdfs@3.8
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-hdfs@3.8?classifier=sources

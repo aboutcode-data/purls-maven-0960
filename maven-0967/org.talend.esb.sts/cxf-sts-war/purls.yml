@@ -79,3 +79,5 @@
 - pkg:maven/org.talend.esb.sts/cxf-sts-war@7.1.1?type=war
 - pkg:maven/org.talend.esb.sts/cxf-sts-war@7.2.1?classifier=sources
 - pkg:maven/org.talend.esb.sts/cxf-sts-war@7.2.1?type=war
+- pkg:maven/org.talend.esb.sts/cxf-sts-war@7.3.1?classifier=sources
+- pkg:maven/org.talend.esb.sts/cxf-sts-war@7.3.1?type=war

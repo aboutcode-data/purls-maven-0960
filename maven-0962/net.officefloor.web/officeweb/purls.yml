@@ -44,6 +44,12 @@
 - pkg:maven/net.officefloor.web/officeweb@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb@3.26.0
 - pkg:maven/net.officefloor.web/officeweb@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb@3.27.0
+- pkg:maven/net.officefloor.web/officeweb@3.27.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb@3.28.0
+- pkg:maven/net.officefloor.web/officeweb@3.28.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb@3.28.1
+- pkg:maven/net.officefloor.web/officeweb@3.28.1?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb@3.3.0
 - pkg:maven/net.officefloor.web/officeweb@3.3.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb@3.4.0

@@ -289,3 +289,9 @@
 - pkg:maven/org.apache.camel/camel-ldap@3.4.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-ldap@3.4.3
 - pkg:maven/org.apache.camel/camel-ldap@3.4.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-ldap@3.4.4
+- pkg:maven/org.apache.camel/camel-ldap@3.4.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-ldap@3.5.0
+- pkg:maven/org.apache.camel/camel-ldap@3.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-ldap@3.6.0
+- pkg:maven/org.apache.camel/camel-ldap@3.6.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.github.jcustenborder.kafka.connect/xjc-kafka-connect-plugin@0.0.1.7?classifier=sources
 - pkg:maven/com.github.jcustenborder.kafka.connect/xjc-kafka-connect-plugin@0.0.1.8
 - pkg:maven/com.github.jcustenborder.kafka.connect/xjc-kafka-connect-plugin@0.0.1.8?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/xjc-kafka-connect-plugin@0.2.13
+- pkg:maven/com.github.jcustenborder.kafka.connect/xjc-kafka-connect-plugin@0.2.13?classifier=sources

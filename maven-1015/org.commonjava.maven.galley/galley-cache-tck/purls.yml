@@ -146,3 +146,5 @@
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@1.3?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@1.4
 - pkg:maven/org.commonjava.maven.galley/galley-cache-tck@1.4?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@1.5
+- pkg:maven/org.commonjava.maven.galley/galley-cache-tck@1.5?classifier=sources

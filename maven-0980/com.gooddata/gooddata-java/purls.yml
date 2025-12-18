@@ -158,5 +158,7 @@
 - pkg:maven/com.gooddata/gooddata-java@3.0.1%2Bapi3?classifier=sources
 - pkg:maven/com.gooddata/gooddata-java@3.1.0%2Bapi3
 - pkg:maven/com.gooddata/gooddata-java@3.1.0%2Bapi3?classifier=sources
+- pkg:maven/com.gooddata/gooddata-java@3.2.0%2Bapi3
+- pkg:maven/com.gooddata/gooddata-java@3.2.0%2Bapi3?classifier=sources
 - pkg:maven/com.gooddata/gooddata-java@gooddata-java-2.33.0%2Bapi1%2Bapi1
 - pkg:maven/com.gooddata/gooddata-java@gooddata-java-2.33.0%2Bapi1%2Bapi1?classifier=sources

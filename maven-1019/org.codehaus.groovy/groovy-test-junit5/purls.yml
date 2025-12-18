@@ -56,3 +56,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-test-junit5@3.0.4?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-test-junit5@3.0.5
 - pkg:maven/org.codehaus.groovy/groovy-test-junit5@3.0.5?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-test-junit5@3.0.6
+- pkg:maven/org.codehaus.groovy/groovy-test-junit5@3.0.6?classifier=sources

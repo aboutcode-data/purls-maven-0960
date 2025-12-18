@@ -24,6 +24,8 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.4.3?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.4.4
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.4.4?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.4.5
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.4.5?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@1.0.0
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@1.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@1.0.1
@@ -32,3 +34,7 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@1.1.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@1.2.0
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@1.2.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.0.0
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.0.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.1.0
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.1.0?classifier=sources

@@ -26,6 +26,10 @@
 - pkg:maven/io.norberg/auto-matter-gson@0.15.2?classifier=sources
 - pkg:maven/io.norberg/auto-matter-gson@0.15.3
 - pkg:maven/io.norberg/auto-matter-gson@0.15.3?classifier=sources
+- pkg:maven/io.norberg/auto-matter-gson@0.15.4
+- pkg:maven/io.norberg/auto-matter-gson@0.15.4?classifier=sources
+- pkg:maven/io.norberg/auto-matter-gson@0.16.0
+- pkg:maven/io.norberg/auto-matter-gson@0.16.0?classifier=sources
 - pkg:maven/io.norberg/auto-matter-gson@0.3
 - pkg:maven/io.norberg/auto-matter-gson@0.3?classifier=sources
 - pkg:maven/io.norberg/auto-matter-gson@0.4

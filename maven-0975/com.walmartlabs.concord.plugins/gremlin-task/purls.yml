@@ -27,6 +27,11 @@
 - pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.29.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.29.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.30.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.31.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.31.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.32.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.32.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.32.2?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.5.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.6.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/gremlin-task@1.7.0?classifier=sources

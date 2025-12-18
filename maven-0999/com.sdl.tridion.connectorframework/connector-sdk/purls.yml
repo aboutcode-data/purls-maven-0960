@@ -1,2 +1,4 @@
 - pkg:maven/com.sdl.tridion.connectorframework/connector-sdk@11.1.0-1050
 - pkg:maven/com.sdl.tridion.connectorframework/connector-sdk@11.1.0-1050?classifier=sources
+- pkg:maven/com.sdl.tridion.connectorframework/connector-sdk@11.5.0-1082
+- pkg:maven/com.sdl.tridion.connectorframework/connector-sdk@11.5.0-1082?classifier=sources

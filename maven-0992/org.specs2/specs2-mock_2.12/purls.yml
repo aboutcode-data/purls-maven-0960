@@ -138,6 +138,10 @@
 - pkg:maven/org.specs2/specs2-mock_2.12@4.10.2?classifier=sources
 - pkg:maven/org.specs2/specs2-mock_2.12@4.10.3
 - pkg:maven/org.specs2/specs2-mock_2.12@4.10.3?classifier=sources
+- pkg:maven/org.specs2/specs2-mock_2.12@4.10.4
+- pkg:maven/org.specs2/specs2-mock_2.12@4.10.4?classifier=sources
+- pkg:maven/org.specs2/specs2-mock_2.12@4.10.5
+- pkg:maven/org.specs2/specs2-mock_2.12@4.10.5?classifier=sources
 - pkg:maven/org.specs2/specs2-mock_2.12@4.2.0
 - pkg:maven/org.specs2/specs2-mock_2.12@4.2.0-2a08d4cae-20180427164428
 - pkg:maven/org.specs2/specs2-mock_2.12@4.2.0-2a08d4cae-20180427164428?classifier=sources

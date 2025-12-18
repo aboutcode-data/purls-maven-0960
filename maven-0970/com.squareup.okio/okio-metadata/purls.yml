@@ -8,3 +8,5 @@
 - pkg:maven/com.squareup.okio/okio-metadata@2.7.0-alpha.lockfree.1?classifier=sources
 - pkg:maven/com.squareup.okio/okio-metadata@2.7.0-alpha.lockfree.2?classifier=sources
 - pkg:maven/com.squareup.okio/okio-metadata@2.7.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio-metadata@2.8.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio-metadata@2.9.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.hccake/ballcat-spring-boot-starter-kafka@0.0.4
 - pkg:maven/com.hccake/ballcat-spring-boot-starter-kafka@0.0.4?classifier=sources
+- pkg:maven/com.hccake/ballcat-spring-boot-starter-kafka@0.0.5
+- pkg:maven/com.hccake/ballcat-spring-boot-starter-kafka@0.0.5?classifier=sources

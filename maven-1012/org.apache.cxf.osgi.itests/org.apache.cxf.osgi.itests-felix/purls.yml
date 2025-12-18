@@ -72,3 +72,7 @@
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.1.8?classifier=sources
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.1.9
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.1.9?classifier=sources
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.4.0
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.4.0?classifier=sources
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.4.1
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests-felix@3.4.1?classifier=sources

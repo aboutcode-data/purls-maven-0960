@@ -22,3 +22,5 @@
 - pkg:maven/com.mercateo/ktor-server-lambda-core@0.0.9?classifier=sources
 - pkg:maven/com.mercateo/ktor-server-lambda-core@1.0.0
 - pkg:maven/com.mercateo/ktor-server-lambda-core@1.0.0?classifier=sources
+- pkg:maven/com.mercateo/ktor-server-lambda-core@1.0.1
+- pkg:maven/com.mercateo/ktor-server-lambda-core@1.0.1?classifier=sources

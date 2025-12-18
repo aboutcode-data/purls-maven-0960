@@ -57,6 +57,8 @@
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.10?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.11
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.11?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.12
+- pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.12?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.1?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.2
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-lwjgl@1.9.2?classifier=sources

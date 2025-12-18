@@ -236,6 +236,8 @@
 - pkg:maven/org.kaazing/specification.amqp_1_0.jms@3.0.0-alpha-99?classifier=sources
 - pkg:maven/org.kaazing/specification.amqp_1_0.jms@3.0.0-alpha-9?classifier=sources
 - pkg:maven/org.kaazing/specification.amqp_1_0.jms@3.0.0?classifier=sources
+- pkg:maven/org.kaazing/specification.amqp_1_0.jms@3.1.0
+- pkg:maven/org.kaazing/specification.amqp_1_0.jms@3.1.0?classifier=sources
 - pkg:maven/org.kaazing/specification.amqp_1_0.jms@4.0.0
 - pkg:maven/org.kaazing/specification.amqp_1_0.jms@4.0.0-RC001
 - pkg:maven/org.kaazing/specification.amqp_1_0.jms@4.0.0-RC001?classifier=sources

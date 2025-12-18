@@ -4,3 +4,5 @@
 - pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.1.0?type=war
 - pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.0?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.0?type=war
+- pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.11?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-microprofile-tests@1.2.11?type=war

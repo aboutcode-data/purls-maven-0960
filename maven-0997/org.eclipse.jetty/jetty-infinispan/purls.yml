@@ -60,6 +60,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.27.v20190418?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.28.v20191105
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.28.v20191105?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.29.v20201019
+- pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.29.v20201019?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.3.v20150827?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-infinispan@9.3.4.RC0

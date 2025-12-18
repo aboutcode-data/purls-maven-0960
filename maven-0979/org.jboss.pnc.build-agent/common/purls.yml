@@ -14,3 +14,5 @@
 - pkg:maven/org.jboss.pnc.build-agent/common@0.6.1?classifier=sources
 - pkg:maven/org.jboss.pnc.build-agent/common@0.7.0
 - pkg:maven/org.jboss.pnc.build-agent/common@0.7.0?classifier=sources
+- pkg:maven/org.jboss.pnc.build-agent/common@0.8.0
+- pkg:maven/org.jboss.pnc.build-agent/common@0.8.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.iharu.bootstrap/iharu-foundation@0.1-beta
+- pkg:maven/org.iharu.bootstrap/iharu-foundation@0.1-beta?classifier=sources
+- pkg:maven/org.iharu.bootstrap/iharu-foundation@0.2.0-beta
+- pkg:maven/org.iharu.bootstrap/iharu-foundation@0.2.0-beta?classifier=sources

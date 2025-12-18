@@ -26,3 +26,7 @@
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta3?classifier=sources
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta4
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta4?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.1
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@3.1?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.0-beta1
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@4.0-beta1?classifier=sources

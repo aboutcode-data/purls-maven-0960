@@ -52,6 +52,10 @@
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.13.1?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.14.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.14.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.14.1?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.14.1?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.14.2?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.14.2?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.2.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.2.0?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.4.0?classifier=sources

@@ -136,3 +136,7 @@
 - pkg:maven/org.datanucleus/datanucleus-hbase@5.1.0-m4?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-hbase@5.1.0-release
 - pkg:maven/org.datanucleus/datanucleus-hbase@5.1.0-release?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-hbase@5.2.0-release
+- pkg:maven/org.datanucleus/datanucleus-hbase@5.2.0-release?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-hbase@5.2.1
+- pkg:maven/org.datanucleus/datanucleus-hbase@5.2.1?classifier=sources

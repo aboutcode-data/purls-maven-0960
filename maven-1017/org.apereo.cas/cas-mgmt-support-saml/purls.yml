@@ -1,2 +1,4 @@
 - pkg:maven/org.apereo.cas/cas-mgmt-support-saml@6.1.7
 - pkg:maven/org.apereo.cas/cas-mgmt-support-saml@6.1.7?classifier=sources
+- pkg:maven/org.apereo.cas/cas-mgmt-support-saml@6.2.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-mgmt-support-saml@6.2.3.1?classifier=sources

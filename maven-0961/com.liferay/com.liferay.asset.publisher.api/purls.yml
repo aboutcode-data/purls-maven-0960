@@ -37,6 +37,12 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.1
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.2
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.0
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.1
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.1?classifier=sources-commercial
@@ -55,3 +61,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.4
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.5
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.6
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.6?classifier=sources-commercial

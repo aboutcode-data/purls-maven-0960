@@ -31,6 +31,8 @@
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.0
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.0?classifier=sources
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.1
+- pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.10
+- pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.10?classifier=sources
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.1?classifier=sources
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.2
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.2.1
@@ -50,3 +52,5 @@
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.8?classifier=sources
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.9
 - pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.7.9?classifier=sources
+- pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.8.0
+- pkg:maven/ru.tinkoff/tofu-optics-interop_2.13@0.8.0?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-process-vector_2.11@2.4.1?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-process-vector_2.11@3.0.0
 - pkg:maven/org.locationtech.geomesa/geomesa-process-vector_2.11@3.0.0?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-process-vector_2.11@3.1.0
+- pkg:maven/org.locationtech.geomesa/geomesa-process-vector_2.11@3.1.0?classifier=sources

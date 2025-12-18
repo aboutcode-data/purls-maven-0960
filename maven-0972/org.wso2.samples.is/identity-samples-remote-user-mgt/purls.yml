@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.samples.is/identity-samples-remote-user-mgt@4.3.4
 - pkg:maven/org.wso2.samples.is/identity-samples-remote-user-mgt@4.3.4?classifier=sources
+- pkg:maven/org.wso2.samples.is/identity-samples-remote-user-mgt@4.3.5
+- pkg:maven/org.wso2.samples.is/identity-samples-remote-user-mgt@4.3.5?classifier=sources

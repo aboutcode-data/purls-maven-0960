@@ -70,3 +70,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@2.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@2.2.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@2.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@2.2.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@2.2.5.RELEASE?classifier=sources

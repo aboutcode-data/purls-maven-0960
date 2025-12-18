@@ -4,3 +4,5 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.api/identity-local-auth-api@2.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.local.auth.api/identity-local-auth-api@2.1.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.local.auth.api/identity-local-auth-api@2.4.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.api/identity-local-auth-api@2.4.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.api/identity-local-auth-api@2.4.2?classifier=source-release&type=zip

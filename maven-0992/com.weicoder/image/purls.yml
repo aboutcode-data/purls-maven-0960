@@ -18,3 +18,13 @@
 - pkg:maven/com.weicoder/image@3.4.3-jdk8
 - pkg:maven/com.weicoder/image@3.4.3-jdk8?classifier=sources
 - pkg:maven/com.weicoder/image@3.4.3?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.4
+- pkg:maven/com.weicoder/image@3.4.4-jdk8
+- pkg:maven/com.weicoder/image@3.4.4-jdk8?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.4.1
+- pkg:maven/com.weicoder/image@3.4.4.1?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.4?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.5
+- pkg:maven/com.weicoder/image@3.4.5-jdk8
+- pkg:maven/com.weicoder/image@3.4.5-jdk8?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.5?classifier=sources

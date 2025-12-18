@@ -10,6 +10,14 @@
 - pkg:maven/sh.almond/jupyter-api_2.13@0.10.4?classifier=sources
 - pkg:maven/sh.almond/jupyter-api_2.13@0.10.5
 - pkg:maven/sh.almond/jupyter-api_2.13@0.10.5?classifier=sources
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.6
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.6?classifier=sources
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.7
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.7?classifier=sources
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.8
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.8?classifier=sources
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.9
+- pkg:maven/sh.almond/jupyter-api_2.13@0.10.9?classifier=sources
 - pkg:maven/sh.almond/jupyter-api_2.13@0.6.0
 - pkg:maven/sh.almond/jupyter-api_2.13@0.6.0?classifier=sources
 - pkg:maven/sh.almond/jupyter-api_2.13@0.7.0

@@ -2,3 +2,4 @@
 - pkg:maven/org.taymyr.lagom/lagom-metrics-java_2.12@1.0.0?classifier=sources
 - pkg:maven/org.taymyr.lagom/lagom-metrics-java_2.12@1.0.1
 - pkg:maven/org.taymyr.lagom/lagom-metrics-java_2.12@1.0.1?classifier=sources
+- pkg:maven/org.taymyr.lagom/lagom-metrics-java_2.12@1.1.0?classifier=sources

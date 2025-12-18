@@ -1,2 +1,4 @@
 - pkg:maven/xyz.cofe/type-dist@1.0
 - pkg:maven/xyz.cofe/type-dist@1.0?classifier=sources
+- pkg:maven/xyz.cofe/type-dist@1.1
+- pkg:maven/xyz.cofe/type-dist@1.1?classifier=sources

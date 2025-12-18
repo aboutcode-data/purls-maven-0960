@@ -39,6 +39,12 @@
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.19?classifier=sources
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.1?classifier=sources
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.2
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.20
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.20?classifier=sources
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.21
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.21?classifier=sources
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.24
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.24?classifier=sources
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.2?classifier=sources
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.3
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_2.12@0.3.3?classifier=sources

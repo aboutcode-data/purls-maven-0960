@@ -32,3 +32,5 @@
 - pkg:maven/org.languagetool/languagetool-http-client@4.9?classifier=sources
 - pkg:maven/org.languagetool/languagetool-http-client@5.0
 - pkg:maven/org.languagetool/languagetool-http-client@5.0?classifier=sources
+- pkg:maven/org.languagetool/languagetool-http-client@5.1
+- pkg:maven/org.languagetool/languagetool-http-client@5.1?classifier=sources

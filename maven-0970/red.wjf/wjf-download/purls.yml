@@ -1,2 +1,6 @@
 - pkg:maven/red.wjf/wjf-download@0.1.0.RELEASE
 - pkg:maven/red.wjf/wjf-download@0.1.0.RELEASE?classifier=sources
+- pkg:maven/red.wjf/wjf-download@0.2.0.RELEASE
+- pkg:maven/red.wjf/wjf-download@0.2.0.RELEASE?classifier=sources
+- pkg:maven/red.wjf/wjf-download@0.3.0.RELEASE
+- pkg:maven/red.wjf/wjf-download@0.3.0.RELEASE?classifier=sources

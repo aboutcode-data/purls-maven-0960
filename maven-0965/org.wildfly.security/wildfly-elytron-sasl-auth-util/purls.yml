@@ -28,6 +28,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.7.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.8.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.8.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.9.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.9.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.0.CR2
@@ -66,6 +68,10 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.0.CR3?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.0.CR4
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.0.CR4?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.0.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.0.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.1.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.13.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.9.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.9.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.9.0.CR2
@@ -94,3 +100,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@2.0.0.Alpha6?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@2.0.0.Alpha7
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@2.0.0.Alpha7?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@2.0.0.Alpha8
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@2.0.0.Alpha8?classifier=sources

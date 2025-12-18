@@ -107,6 +107,8 @@
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.15.1
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.15.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.15?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.16
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.16?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.2
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@5.3.2?classifier=sources
@@ -183,6 +185,8 @@
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.1.7
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.1.7.1
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.1.7.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.1.7.2
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.1.7.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.1.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.0-RC2?classifier=sources
@@ -191,4 +195,11 @@
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.2.5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.3.0-RC1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.3.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.3.0-RC3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-gauth-mongo@6.3.0-RC4?classifier=sources

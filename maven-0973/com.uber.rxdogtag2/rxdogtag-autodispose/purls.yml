@@ -1,2 +1,4 @@
 - pkg:maven/com.uber.rxdogtag2/rxdogtag-autodispose@2.0.0
 - pkg:maven/com.uber.rxdogtag2/rxdogtag-autodispose@2.0.0?classifier=sources
+- pkg:maven/com.uber.rxdogtag2/rxdogtag-autodispose@2.0.1
+- pkg:maven/com.uber.rxdogtag2/rxdogtag-autodispose@2.0.1?classifier=sources

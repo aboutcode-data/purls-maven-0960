@@ -1,2 +1,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-metadata@1.0-M1-1.4.0-rc?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-metadata@1.0.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-metadata@1.0.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-metadata@1.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-metadata@1.0.1?classifier=sources

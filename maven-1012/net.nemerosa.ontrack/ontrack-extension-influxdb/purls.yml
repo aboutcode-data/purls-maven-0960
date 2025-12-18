@@ -292,8 +292,17 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.42.9-dirty
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.42.9-dirty?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.42.9?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.0
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.1
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.2
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.2?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.3
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@3.43.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@4.0-alpha.0-dirty?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@4.0-alpha.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@4.0-alpha.1?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@feature-732-back-to-central-5e58285
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@feature-732-back-to-central-5e58285?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-influxdb@feature-735-ui-publication-7c8bc12

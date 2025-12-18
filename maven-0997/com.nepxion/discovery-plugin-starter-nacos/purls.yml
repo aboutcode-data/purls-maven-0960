@@ -88,6 +88,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.16.5?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.16.6
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.16.6?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.16.7
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.16.7?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.17.0
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.17.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.18.0
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.18.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.8.0
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.8.0-RC1
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@3.8.0-RC1?classifier=sources
@@ -396,6 +402,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.0.5?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.0.6
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.0.6?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.0.7
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.0.7?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.1.0
+- pkg:maven/com.nepxion/discovery-plugin-starter-nacos@6.1.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-starter-nacos@Finchley.1.0.0

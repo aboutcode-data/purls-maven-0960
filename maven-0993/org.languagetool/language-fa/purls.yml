@@ -46,3 +46,5 @@
 - pkg:maven/org.languagetool/language-fa@4.9?classifier=sources
 - pkg:maven/org.languagetool/language-fa@5.0
 - pkg:maven/org.languagetool/language-fa@5.0?classifier=sources
+- pkg:maven/org.languagetool/language-fa@5.1
+- pkg:maven/org.languagetool/language-fa@5.1?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-tvosx64@0.20.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-tvosx64@1.0.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-tvosx64@1.0.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-tvosx64@1.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-tvosx64@1.0.1?classifier=sources

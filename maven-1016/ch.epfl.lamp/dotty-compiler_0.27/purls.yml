@@ -1,3 +1,5 @@
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-RC1?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200723-eb3b0ac-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200723-eb3b0ac-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200724-fd18546-NIGHTLY
@@ -38,3 +40,19 @@
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200815-0e67451-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200816-15a6c8b-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200816-15a6c8b-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200817-15ae0aa-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200817-15ae0aa-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200818-64a239f-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200818-64a239f-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200819-6e6f67b-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200819-6e6f67b-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200820-1431be2-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200820-1431be2-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200821-387c562-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200821-387c562-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200822-0d36979-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200822-0d36979-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200824-239254a-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200824-239254a-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200826-2e58a66-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.27@0.27.0-bin-20200826-2e58a66-NIGHTLY?classifier=sources

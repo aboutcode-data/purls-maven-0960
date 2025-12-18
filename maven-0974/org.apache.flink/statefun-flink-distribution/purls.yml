@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.flink/statefun-flink-distribution@2.0.0?classifier=sources
 - pkg:maven/org.apache.flink/statefun-flink-distribution@2.1.0
 - pkg:maven/org.apache.flink/statefun-flink-distribution@2.1.0?classifier=sources
+- pkg:maven/org.apache.flink/statefun-flink-distribution@2.2.0
+- pkg:maven/org.apache.flink/statefun-flink-distribution@2.2.0?classifier=sources
+- pkg:maven/org.apache.flink/statefun-flink-distribution@2.2.1
+- pkg:maven/org.apache.flink/statefun-flink-distribution@2.2.1?classifier=sources

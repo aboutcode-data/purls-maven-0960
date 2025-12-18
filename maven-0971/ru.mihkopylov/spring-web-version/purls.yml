@@ -6,3 +6,5 @@
 - pkg:maven/ru.mihkopylov/spring-web-version@0.2.0?classifier=sources
 - pkg:maven/ru.mihkopylov/spring-web-version@0.3.0
 - pkg:maven/ru.mihkopylov/spring-web-version@0.3.0?classifier=sources
+- pkg:maven/ru.mihkopylov/spring-web-version@1.0.0
+- pkg:maven/ru.mihkopylov/spring-web-version@1.0.0?classifier=sources

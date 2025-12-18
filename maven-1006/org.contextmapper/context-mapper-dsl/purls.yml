@@ -31,3 +31,5 @@
 - pkg:maven/org.contextmapper/context-mapper-dsl@5.9.2?classifier=sources
 - pkg:maven/org.contextmapper/context-mapper-dsl@5.9.3?classifier=sources
 - pkg:maven/org.contextmapper/context-mapper-dsl@5.9.4?classifier=sources
+- pkg:maven/org.contextmapper/context-mapper-dsl@6.0.0?classifier=sources
+- pkg:maven/org.contextmapper/context-mapper-dsl@6.1.0?classifier=sources

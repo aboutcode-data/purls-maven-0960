@@ -16,3 +16,5 @@
 - pkg:maven/com.twitter/algebird-core_2.12@0.13.6?classifier=sources
 - pkg:maven/com.twitter/algebird-core_2.12@0.13.7
 - pkg:maven/com.twitter/algebird-core_2.12@0.13.7?classifier=sources
+- pkg:maven/com.twitter/algebird-core_2.12@0.13.8-M1
+- pkg:maven/com.twitter/algebird-core_2.12@0.13.8-M1?classifier=sources

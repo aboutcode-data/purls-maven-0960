@@ -4,3 +4,11 @@
 - pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0.RELEASE
 - pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.1-beta
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.1-beta?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.2-beta
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.2-beta2
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.2-beta2?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.2-beta3
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.2-beta3?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.2-beta?classifier=sources

@@ -163,6 +163,8 @@
 - pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.30?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.31
 - pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.31?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.32
+- pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.32?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.4
 - pkg:maven/com.typesafe.akka/akka-agent_2.11@2.5.4?classifier=sources

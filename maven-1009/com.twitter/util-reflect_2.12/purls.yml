@@ -60,6 +60,8 @@
 - pkg:maven/com.twitter/util-reflect_2.12@19.9.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@20.1.0
 - pkg:maven/com.twitter/util-reflect_2.12@20.1.0?classifier=sources
+- pkg:maven/com.twitter/util-reflect_2.12@20.10.0
+- pkg:maven/com.twitter/util-reflect_2.12@20.10.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@20.3.0
 - pkg:maven/com.twitter/util-reflect_2.12@20.3.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@20.4.0
@@ -74,6 +76,10 @@
 - pkg:maven/com.twitter/util-reflect_2.12@20.7.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@20.8.0
 - pkg:maven/com.twitter/util-reflect_2.12@20.8.0?classifier=sources
+- pkg:maven/com.twitter/util-reflect_2.12@20.8.1
+- pkg:maven/com.twitter/util-reflect_2.12@20.8.1?classifier=sources
+- pkg:maven/com.twitter/util-reflect_2.12@20.9.0
+- pkg:maven/com.twitter/util-reflect_2.12@20.9.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@6.39.0
 - pkg:maven/com.twitter/util-reflect_2.12@6.39.0?classifier=sources
 - pkg:maven/com.twitter/util-reflect_2.12@6.40.0

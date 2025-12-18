@@ -40,3 +40,5 @@
 - pkg:maven/com.datastax.oss/java-driver-query-builder@4.7.2?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-query-builder@4.8.0
 - pkg:maven/com.datastax.oss/java-driver-query-builder@4.8.0?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-query-builder@4.9.0
+- pkg:maven/com.datastax.oss/java-driver-query-builder@4.9.0?classifier=sources

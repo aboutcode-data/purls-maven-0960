@@ -1,0 +1,8 @@
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.2.0-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.2.0-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.3.0-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.3.0-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.4.0-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.4.0-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.4.1-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-serialization-jackson@1.4.1-RELEASE?classifier=sources

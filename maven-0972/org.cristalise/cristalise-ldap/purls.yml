@@ -40,3 +40,9 @@
 - pkg:maven/org.cristalise/cristalise-ldap@5.2.1?classifier=sources
 - pkg:maven/org.cristalise/cristalise-ldap@5.2.2
 - pkg:maven/org.cristalise/cristalise-ldap@5.2.2?classifier=sources
+- pkg:maven/org.cristalise/cristalise-ldap@5.3.0
+- pkg:maven/org.cristalise/cristalise-ldap@5.3.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-ldap@5.3.1
+- pkg:maven/org.cristalise/cristalise-ldap@5.3.1?classifier=sources
+- pkg:maven/org.cristalise/cristalise-ldap@5.3.2
+- pkg:maven/org.cristalise/cristalise-ldap@5.3.2?classifier=sources

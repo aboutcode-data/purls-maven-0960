@@ -8,3 +8,7 @@
 - pkg:maven/net.pwall.json/jsonutil@3.0?classifier=sources
 - pkg:maven/net.pwall.json/jsonutil@3.1
 - pkg:maven/net.pwall.json/jsonutil@3.1?classifier=sources
+- pkg:maven/net.pwall.json/jsonutil@4.0
+- pkg:maven/net.pwall.json/jsonutil@4.0?classifier=sources
+- pkg:maven/net.pwall.json/jsonutil@4.1
+- pkg:maven/net.pwall.json/jsonutil@4.1?classifier=sources

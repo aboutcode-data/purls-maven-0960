@@ -30,3 +30,5 @@
 - pkg:maven/com.coreoz/plume-conf@2.0.0-beta4
 - pkg:maven/com.coreoz/plume-conf@2.0.0-beta4?classifier=sources
 - pkg:maven/com.coreoz/plume-conf@2.0.0?classifier=sources
+- pkg:maven/com.coreoz/plume-conf@2.0.1
+- pkg:maven/com.coreoz/plume-conf@2.0.1?classifier=sources

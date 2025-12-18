@@ -129,3 +129,7 @@
 - pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.7.0?type=aar
 - pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.7.1?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.7.1?type=aar
+- pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.7.2?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.7.2?type=aar
+- pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.8.0?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-sqliteorg@5.8.0?type=aar

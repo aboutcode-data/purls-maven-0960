@@ -17,6 +17,16 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.28?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.30
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.30?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.31
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.31?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.33
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.33?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.37
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.37?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.38
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.38?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.6
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@10.0.6?classifier=sources

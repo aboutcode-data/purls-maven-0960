@@ -240,6 +240,8 @@
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-99?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-9?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0?classifier=sources
+- pkg:maven/org.kaazing/k3po.lang@3.1.0
+- pkg:maven/org.kaazing/k3po.lang@3.1.0?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@4.0.0
 - pkg:maven/org.kaazing/k3po.lang@4.0.0-RC001
 - pkg:maven/org.kaazing/k3po.lang@4.0.0-RC001?classifier=sources

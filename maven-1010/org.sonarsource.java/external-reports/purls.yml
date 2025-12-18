@@ -50,3 +50,9 @@
 - pkg:maven/org.sonarsource.java/external-reports@6.5.1.22586?classifier=sources
 - pkg:maven/org.sonarsource.java/external-reports@6.6.0.22815
 - pkg:maven/org.sonarsource.java/external-reports@6.6.0.22815?classifier=sources
+- pkg:maven/org.sonarsource.java/external-reports@6.7.0.23054
+- pkg:maven/org.sonarsource.java/external-reports@6.7.0.23054?classifier=sources
+- pkg:maven/org.sonarsource.java/external-reports@6.8.0.23379
+- pkg:maven/org.sonarsource.java/external-reports@6.8.0.23379?classifier=sources
+- pkg:maven/org.sonarsource.java/external-reports@6.9.0.23563
+- pkg:maven/org.sonarsource.java/external-reports@6.9.0.23563?classifier=sources

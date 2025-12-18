@@ -1,0 +1,4 @@
+- pkg:maven/com.github.weeb-kun/list-utils@1.0.0?classifier=sources
+- pkg:maven/com.github.weeb-kun/list-utils@1.1.0-alpha?classifier=sources
+- pkg:maven/com.github.weeb-kun/list-utils@1.1.0-snapshot
+- pkg:maven/com.github.weeb-kun/list-utils@1.1.0-snapshot?classifier=sources

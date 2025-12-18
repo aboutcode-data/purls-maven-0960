@@ -71,6 +71,8 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.7.3
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.7.3?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.7.4
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.7.4.1
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.7.4.1?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.7.4?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.8.0
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.8.0?classifier=sources
@@ -78,3 +80,7 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.8.1?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.8.2
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.8.2?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.9.0
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.9.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.9.1
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.9.1?classifier=sources

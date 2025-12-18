@@ -24,3 +24,5 @@
 - pkg:maven/org.pac4j/dropwizard-pac4j@3.0.0-RC1
 - pkg:maven/org.pac4j/dropwizard-pac4j@3.0.0-RC1?classifier=sources
 - pkg:maven/org.pac4j/dropwizard-pac4j@3.0.0?classifier=sources
+- pkg:maven/org.pac4j/dropwizard-pac4j@4.0.0
+- pkg:maven/org.pac4j/dropwizard-pac4j@4.0.0?classifier=sources

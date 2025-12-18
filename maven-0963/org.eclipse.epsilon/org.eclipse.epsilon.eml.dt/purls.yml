@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.eml.dt@2.0.0
 - pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.eml.dt@2.0.0?classifier=sources
+- pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.eml.dt@2.1.0
+- pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.eml.dt@2.1.0?classifier=sources
+- pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.eml.dt@2.2.0
+- pkg:maven/org.eclipse.epsilon/org.eclipse.epsilon.eml.dt@2.2.0?classifier=sources

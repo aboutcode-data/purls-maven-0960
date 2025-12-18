@@ -1,2 +1,6 @@
 - pkg:maven/io.webdevice.scenarios/spring-boot-app@0.0.13
 - pkg:maven/io.webdevice.scenarios/spring-boot-app@0.0.13?classifier=sources
+- pkg:maven/io.webdevice.scenarios/spring-boot-app@0.0.14
+- pkg:maven/io.webdevice.scenarios/spring-boot-app@0.0.14?classifier=sources
+- pkg:maven/io.webdevice.scenarios/spring-boot-app@0.0.15
+- pkg:maven/io.webdevice.scenarios/spring-boot-app@0.0.15?classifier=sources

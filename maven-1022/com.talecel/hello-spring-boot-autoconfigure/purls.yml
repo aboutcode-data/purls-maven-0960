@@ -1,0 +1,4 @@
+- pkg:maven/com.talecel/hello-spring-boot-autoconfigure@0.0.1-RC
+- pkg:maven/com.talecel/hello-spring-boot-autoconfigure@0.0.1-RC?classifier=sources
+- pkg:maven/com.talecel/hello-spring-boot-autoconfigure@0.0.1-RELEASE
+- pkg:maven/com.talecel/hello-spring-boot-autoconfigure@0.0.1-RELEASE?classifier=sources

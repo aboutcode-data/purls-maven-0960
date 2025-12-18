@@ -16,5 +16,7 @@
 - pkg:maven/org.omnifaces/exousia@0.4?classifier=sources
 - pkg:maven/org.omnifaces/exousia@0.5
 - pkg:maven/org.omnifaces/exousia@0.5?classifier=sources
+- pkg:maven/org.omnifaces/exousia@0.6
+- pkg:maven/org.omnifaces/exousia@0.6?classifier=sources
 - pkg:maven/org.omnifaces/exousia@1.0-M1
 - pkg:maven/org.omnifaces/exousia@1.0-M1?classifier=sources

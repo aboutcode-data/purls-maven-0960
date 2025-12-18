@@ -4,3 +4,7 @@
 - pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.M2?classifier=sources
 - pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.M3
 - pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.M3?classifier=sources
+- pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.RC1
+- pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.RC1?classifier=sources
+- pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.RC2
+- pkg:maven/com.alibaba.rsocket/alibaba-broker-spring-boot-starter@1.0.0.RC2?classifier=sources

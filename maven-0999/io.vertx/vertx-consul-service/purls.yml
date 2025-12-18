@@ -60,3 +60,7 @@
 - pkg:maven/io.vertx/vertx-consul-service@3.9.1?classifier=sources
 - pkg:maven/io.vertx/vertx-consul-service@3.9.2
 - pkg:maven/io.vertx/vertx-consul-service@3.9.2?classifier=sources
+- pkg:maven/io.vertx/vertx-consul-service@3.9.3
+- pkg:maven/io.vertx/vertx-consul-service@3.9.3?classifier=sources
+- pkg:maven/io.vertx/vertx-consul-service@3.9.4
+- pkg:maven/io.vertx/vertx-consul-service@3.9.4?classifier=sources

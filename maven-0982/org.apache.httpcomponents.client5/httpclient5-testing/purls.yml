@@ -19,4 +19,8 @@
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0-beta7?classifier=sources
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0.1
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0.1?classifier=sources
+- pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0.2
+- pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0.2?classifier=sources
+- pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0.3
+- pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0.3?classifier=sources
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-testing@5.0?classifier=sources

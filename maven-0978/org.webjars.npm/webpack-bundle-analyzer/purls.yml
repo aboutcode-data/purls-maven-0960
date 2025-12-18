@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/webpack-bundle-analyzer@2.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/webpack-bundle-analyzer@3.0.0-beta.0
 - pkg:maven/org.webjars.npm/webpack-bundle-analyzer@3.0.0-beta.0?classifier=sources
+- pkg:maven/org.webjars.npm/webpack-bundle-analyzer@3.9.0
+- pkg:maven/org.webjars.npm/webpack-bundle-analyzer@3.9.0?classifier=sources

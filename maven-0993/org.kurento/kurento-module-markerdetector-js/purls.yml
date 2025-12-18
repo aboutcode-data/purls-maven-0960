@@ -1,2 +1,3 @@
 - pkg:maven/org.kurento/kurento-module-markerdetector-js@0.0.3
 - pkg:maven/org.kurento/kurento-module-markerdetector-js@0.0.3?classifier=sources
+- pkg:maven/org.kurento/kurento-module-markerdetector-js@6.15.0?classifier=sources

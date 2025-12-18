@@ -85,3 +85,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.core.feature@4.7.30?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.core.feature@4.7.31?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.core.feature@4.7.32?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.core.feature@4.7.33?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.core.feature@4.7.34?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.discovery.core.feature@4.7.35?classifier=source-release&type=zip

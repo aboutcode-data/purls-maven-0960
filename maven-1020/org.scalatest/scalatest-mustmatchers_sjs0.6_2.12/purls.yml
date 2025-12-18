@@ -20,5 +20,7 @@
 - pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.2.2-M2
 - pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.2.2-M2?classifier=sources
 - pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.2.2?classifier=sources
+- pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.2.3
+- pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.2.3?classifier=sources
 - pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.3.0-SNAP2
 - pkg:maven/org.scalatest/scalatest-mustmatchers_sjs0.6_2.12@3.3.0-SNAP2?classifier=sources

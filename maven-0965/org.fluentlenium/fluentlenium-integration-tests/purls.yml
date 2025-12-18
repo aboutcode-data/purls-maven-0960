@@ -1,3 +1,4 @@
+- pkg:maven/org.fluentlenium/fluentlenium-integration-tests@3.10.1
 - pkg:maven/org.fluentlenium/fluentlenium-integration-tests@3.8.1
 - pkg:maven/org.fluentlenium/fluentlenium-integration-tests@3.9.0
 - pkg:maven/org.fluentlenium/fluentlenium-integration-tests@3.9.1
@@ -6,3 +7,4 @@
 - pkg:maven/org.fluentlenium/fluentlenium-integration-tests@4.2.2
 - pkg:maven/org.fluentlenium/fluentlenium-integration-tests@4.3.0
 - pkg:maven/org.fluentlenium/fluentlenium-integration-tests@4.3.1
+- pkg:maven/org.fluentlenium/fluentlenium-integration-tests@4.5.1

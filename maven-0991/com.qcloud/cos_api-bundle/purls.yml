@@ -1,2 +1,6 @@
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.19
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.19?classifier=sources
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.29
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.29?classifier=sources
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.31
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.31?classifier=sources

@@ -650,8 +650,17 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@3.42.9-dirty
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@3.42.9-dirty?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@3.42.9?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.0
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.1
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.2
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.2?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.3
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@3.43.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@4.0-alpha.0-dirty?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@4.0-alpha.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-client@4.0-alpha.1?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@experimental-pipeline-2521992
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@experimental-pipeline-2521992?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-client@experimental-pipeline-3acef09

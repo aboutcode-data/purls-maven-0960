@@ -10,3 +10,5 @@
 - pkg:maven/org.spurint.maven.plugins/mima-maven-plugin@0.7.0.1
 - pkg:maven/org.spurint.maven.plugins/mima-maven-plugin@0.7.0.1?classifier=sources
 - pkg:maven/org.spurint.maven.plugins/mima-maven-plugin@0.7.0?classifier=sources
+- pkg:maven/org.spurint.maven.plugins/mima-maven-plugin@0.8.0
+- pkg:maven/org.spurint.maven.plugins/mima-maven-plugin@0.8.0?classifier=sources

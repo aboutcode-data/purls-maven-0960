@@ -2,3 +2,5 @@
 - pkg:maven/org.bkvm/standalone@1.1.0?type=zip
 - pkg:maven/org.bkvm/standalone@1.2.0?classifier=sources
 - pkg:maven/org.bkvm/standalone@1.2.0?type=zip
+- pkg:maven/org.bkvm/standalone@2.0.0?classifier=sources
+- pkg:maven/org.bkvm/standalone@2.0.0?type=zip

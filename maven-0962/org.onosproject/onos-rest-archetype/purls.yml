@@ -124,6 +124,14 @@
 - pkg:maven/org.onosproject/onos-rest-archetype@2.2.4-b2?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@2.2.4-b3?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@2.2.4?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.5-rc1?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.5?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.6-b1?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.6-b2?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.6-rc1?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.6?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.7-b2?classifier=sources
+- pkg:maven/org.onosproject/onos-rest-archetype@2.2.7-b3?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@2.4.0-rc1?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@2.4.0-rc2?classifier=sources
 - pkg:maven/org.onosproject/onos-rest-archetype@2.4.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.1.0
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.1.0?classifier=sources
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.1.1
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.1.1?classifier=sources
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.2.0
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.2.0?classifier=sources
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.2.1
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.2.1?classifier=sources
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.3.0
+- pkg:maven/org.occurrent/subscription-mongodb-common@0.3.0?classifier=sources

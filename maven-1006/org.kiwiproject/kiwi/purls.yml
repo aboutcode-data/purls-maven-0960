@@ -1,3 +1,15 @@
+- pkg:maven/org.kiwiproject/kiwi@0.10.0
+- pkg:maven/org.kiwiproject/kiwi@0.10.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.11.0
+- pkg:maven/org.kiwiproject/kiwi@0.11.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.12.0
+- pkg:maven/org.kiwiproject/kiwi@0.12.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.13.0
+- pkg:maven/org.kiwiproject/kiwi@0.13.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.14.0
+- pkg:maven/org.kiwiproject/kiwi@0.14.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.15.0
+- pkg:maven/org.kiwiproject/kiwi@0.15.0?classifier=sources
 - pkg:maven/org.kiwiproject/kiwi@0.5.0
 - pkg:maven/org.kiwiproject/kiwi@0.5.0?classifier=sources
 - pkg:maven/org.kiwiproject/kiwi@0.6.0
@@ -6,3 +18,7 @@
 - pkg:maven/org.kiwiproject/kiwi@0.7.0?classifier=sources
 - pkg:maven/org.kiwiproject/kiwi@0.8.0
 - pkg:maven/org.kiwiproject/kiwi@0.8.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.9.0
+- pkg:maven/org.kiwiproject/kiwi@0.9.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@0.9.1
+- pkg:maven/org.kiwiproject/kiwi@0.9.1?classifier=sources

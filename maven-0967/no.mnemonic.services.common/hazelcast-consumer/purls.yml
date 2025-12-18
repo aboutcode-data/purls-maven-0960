@@ -1,2 +1,6 @@
 - pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.3.21
 - pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.3.21?classifier=sources
+- pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.3.22
+- pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.3.22?classifier=sources
+- pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.3.23
+- pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.3.23?classifier=sources

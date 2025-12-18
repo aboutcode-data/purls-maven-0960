@@ -1,4 +1,6 @@
 - pkg:maven/fi.hoski/hoski-lib@1.0.1
+- pkg:maven/fi.hoski/hoski-lib@1.0.10
+- pkg:maven/fi.hoski/hoski-lib@1.0.10?classifier=sources
 - pkg:maven/fi.hoski/hoski-lib@1.0.1?classifier=sources
 - pkg:maven/fi.hoski/hoski-lib@1.0.2
 - pkg:maven/fi.hoski/hoski-lib@1.0.2?classifier=sources

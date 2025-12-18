@@ -99,6 +99,14 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.1
 - pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.2
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.2?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.3
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.36.3?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.37.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.37.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.37.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.37.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.4.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.4.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-keyvault@1.5.0

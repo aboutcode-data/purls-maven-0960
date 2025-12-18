@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M7
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M7?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.1?classifier=sources

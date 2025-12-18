@@ -10,3 +10,9 @@
 - pkg:maven/eu.toop/dsd-service@2.0.0-rc2?type=war
 - pkg:maven/eu.toop/dsd-service@2.0.0-rc3?classifier=sources
 - pkg:maven/eu.toop/dsd-service@2.0.0-rc3?type=war
+- pkg:maven/eu.toop/dsd-service@2.0.0?classifier=sources
+- pkg:maven/eu.toop/dsd-service@2.0.0?type=war
+- pkg:maven/eu.toop/dsd-service@2.0.1?classifier=sources
+- pkg:maven/eu.toop/dsd-service@2.0.1?type=war
+- pkg:maven/eu.toop/dsd-service@2.1.0?classifier=sources
+- pkg:maven/eu.toop/dsd-service@2.1.0?type=war

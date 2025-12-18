@@ -4,6 +4,10 @@
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.1.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.1.2
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.1.2?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.10.0
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.10.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.10.1
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.10.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.2.0
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.2.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.3.0
@@ -34,3 +38,9 @@
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.6.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.7.0
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.7.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.8.0
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.8.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.8.1
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.8.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.9.0
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@0.9.0?classifier=sources

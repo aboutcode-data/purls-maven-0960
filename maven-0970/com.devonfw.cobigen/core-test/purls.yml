@@ -26,3 +26,5 @@
 - pkg:maven/com.devonfw.cobigen/core-test@6.1.1?classifier=sources
 - pkg:maven/com.devonfw.cobigen/core-test@6.1.2
 - pkg:maven/com.devonfw.cobigen/core-test@6.1.2?classifier=sources
+- pkg:maven/com.devonfw.cobigen/core-test@7.0.0
+- pkg:maven/com.devonfw.cobigen/core-test@7.0.0?classifier=sources
