@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.0.0-RC3
 - pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.0.0-RC3?classifier=sources
 - pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.0.0?classifier=sources
+- pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.0.1
+- pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.0.1?classifier=sources
+- pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.1.0
+- pkg:maven/org.apache.shardingsphere/sharding-transaction-xa-atomikos-manager@4.1.0?classifier=sources

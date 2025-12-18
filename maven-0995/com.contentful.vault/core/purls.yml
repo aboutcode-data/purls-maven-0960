@@ -47,3 +47,5 @@
 - pkg:maven/com.contentful.vault/core@3.2.0?classifier=sources
 - pkg:maven/com.contentful.vault/core@3.2.1
 - pkg:maven/com.contentful.vault/core@3.2.1?classifier=sources
+- pkg:maven/com.contentful.vault/core@3.2.3
+- pkg:maven/com.contentful.vault/core@3.2.3?classifier=sources

@@ -30,3 +30,9 @@
 - pkg:maven/com.cognitect.aws/lambda@788.2.607.0?classifier=sources
 - pkg:maven/com.cognitect.aws/lambda@792.2.622.0
 - pkg:maven/com.cognitect.aws/lambda@792.2.622.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@796.2.650.0
+- pkg:maven/com.cognitect.aws/lambda@796.2.650.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@796.2.657.0
+- pkg:maven/com.cognitect.aws/lambda@796.2.657.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@796.2.667.0
+- pkg:maven/com.cognitect.aws/lambda@796.2.667.0?classifier=sources

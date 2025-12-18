@@ -1,2 +1,10 @@
 - pkg:maven/net.sf.jetro/jetro-patch@1.0.0
 - pkg:maven/net.sf.jetro/jetro-patch@1.0.0?classifier=sources
+- pkg:maven/net.sf.jetro/jetro-patch@2.0.0
+- pkg:maven/net.sf.jetro/jetro-patch@2.0.0?classifier=sources
+- pkg:maven/net.sf.jetro/jetro-patch@2.1.0
+- pkg:maven/net.sf.jetro/jetro-patch@2.1.0?classifier=sources
+- pkg:maven/net.sf.jetro/jetro-patch@2.1.1
+- pkg:maven/net.sf.jetro/jetro-patch@2.1.1?classifier=sources
+- pkg:maven/net.sf.jetro/jetro-patch@2.1.2
+- pkg:maven/net.sf.jetro/jetro-patch@2.1.2?classifier=sources

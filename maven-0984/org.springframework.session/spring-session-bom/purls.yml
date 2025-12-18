@@ -9,6 +9,7 @@
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-SR8?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-SR9?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Bean-RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@Bean-SR10?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Bean-SR1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Bean-SR2?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Bean-SR3?classifier=sources
@@ -20,3 +21,5 @@
 - pkg:maven/org.springframework.session/spring-session-bom@Bean-SR9?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Corn-RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Corn-SR1?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@Corn-SR2?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@Dragonfruit-RELEASE?classifier=sources

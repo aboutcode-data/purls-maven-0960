@@ -30,6 +30,8 @@
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.0.Final?classifier=sources
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.1.Final
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.1.Final?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.10.Final
+- pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.10.Final?classifier=sources
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.2.Final
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.2.Final?classifier=sources
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.3.Final
@@ -44,3 +46,5 @@
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.7.Final?classifier=sources
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.8.Final
 - pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.8.Final?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.9.Final
+- pkg:maven/io.skullabs.kikaha/kikaha-cloud-metrics@2.1.9.Final?classifier=sources

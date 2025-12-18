@@ -94,8 +94,14 @@
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.17?type=war
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.18?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.18?type=war
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.19?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.19?type=war
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.1?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.1?type=war
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.20?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.20?type=war
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.21?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.22?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.2?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.2?type=war
 - pkg:maven/com.netflix.eureka/eureka-server-governator@1.9.3?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.beangle.repo/beangle-repo-proxy_2.13@0.0.14?type=war
 - pkg:maven/org.beangle.repo/beangle-repo-proxy_2.13@0.0.15?classifier=sources
 - pkg:maven/org.beangle.repo/beangle-repo-proxy_2.13@0.0.15?type=war
+- pkg:maven/org.beangle.repo/beangle-repo-proxy_2.13@0.0.16?classifier=sources
+- pkg:maven/org.beangle.repo/beangle-repo-proxy_2.13@0.0.16?type=war

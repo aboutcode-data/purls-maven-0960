@@ -166,6 +166,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.5
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.6
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.16.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.17.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.17.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.17.1
@@ -192,6 +194,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.4
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.5
+- pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.18.5?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.19.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.19.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-api@2.19.1

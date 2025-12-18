@@ -1,2 +1,4 @@
 - pkg:maven/io.qameta.allure/allure-junit5-assert@2.13.2
 - pkg:maven/io.qameta.allure/allure-junit5-assert@2.13.2?classifier=sources
+- pkg:maven/io.qameta.allure/allure-junit5-assert@2.13.3
+- pkg:maven/io.qameta.allure/allure-junit5-assert@2.13.3?classifier=sources

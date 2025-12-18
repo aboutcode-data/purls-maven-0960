@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/espree@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/espree@6.1.2
 - pkg:maven/org.webjars.npm/espree@6.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/espree@7.0.0
+- pkg:maven/org.webjars.npm/espree@7.0.0?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.4.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.5.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.5.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.6.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.6.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.0.CR2
@@ -38,6 +40,16 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.3.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.4.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.11.4.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.12.0.CR1
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.12.0.CR1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.12.0.CR2
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.12.0.CR2?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.12.0.CR3
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.12.0.CR3?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.9.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.9.0.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.9.0.CR2

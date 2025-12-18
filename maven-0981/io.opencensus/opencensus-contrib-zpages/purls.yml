@@ -54,6 +54,8 @@
 - pkg:maven/io.opencensus/opencensus-contrib-zpages@0.24.0?classifier=sources
 - pkg:maven/io.opencensus/opencensus-contrib-zpages@0.25.0
 - pkg:maven/io.opencensus/opencensus-contrib-zpages@0.25.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-contrib-zpages@0.26.0
+- pkg:maven/io.opencensus/opencensus-contrib-zpages@0.26.0?classifier=sources
 - pkg:maven/io.opencensus/opencensus-contrib-zpages@0.6.0
 - pkg:maven/io.opencensus/opencensus-contrib-zpages@0.6.0?classifier=sources
 - pkg:maven/io.opencensus/opencensus-contrib-zpages@0.7.0

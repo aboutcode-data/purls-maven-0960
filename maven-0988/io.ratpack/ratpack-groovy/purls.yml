@@ -124,3 +124,5 @@
 - pkg:maven/io.ratpack/ratpack-groovy@1.7.5?classifier=sources
 - pkg:maven/io.ratpack/ratpack-groovy@1.7.6
 - pkg:maven/io.ratpack/ratpack-groovy@1.7.6?classifier=sources
+- pkg:maven/io.ratpack/ratpack-groovy@1.8.0
+- pkg:maven/io.ratpack/ratpack-groovy@1.8.0?classifier=sources

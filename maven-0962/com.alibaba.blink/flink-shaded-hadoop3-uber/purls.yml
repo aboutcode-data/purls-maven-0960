@@ -2,3 +2,4 @@
 - pkg:maven/com.alibaba.blink/flink-shaded-hadoop3-uber@blink-3.3.0?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-shaded-hadoop3-uber@blink-3.4.0
 - pkg:maven/com.alibaba.blink/flink-shaded-hadoop3-uber@blink-3.4.0?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-shaded-hadoop3-uber@blink-3.5.0-RELEASE?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.duracloud.snapshot/bridge@2.0.1?type=war
 - pkg:maven/org.duracloud.snapshot/bridge@2.0.2?classifier=sources
 - pkg:maven/org.duracloud.snapshot/bridge@2.0.2?type=war
+- pkg:maven/org.duracloud.snapshot/bridge@2.0.3?classifier=sources
+- pkg:maven/org.duracloud.snapshot/bridge@2.0.3?type=war

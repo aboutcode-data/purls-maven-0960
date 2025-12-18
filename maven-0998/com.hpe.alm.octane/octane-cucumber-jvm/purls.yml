@@ -12,3 +12,5 @@
 - pkg:maven/com.hpe.alm.octane/octane-cucumber-jvm@12.60.47?classifier=sources
 - pkg:maven/com.hpe.alm.octane/octane-cucumber-jvm@12.60.48
 - pkg:maven/com.hpe.alm.octane/octane-cucumber-jvm@12.60.48?classifier=sources
+- pkg:maven/com.hpe.alm.octane/octane-cucumber-jvm@15.1.0
+- pkg:maven/com.hpe.alm.octane/octane-cucumber-jvm@15.1.0?classifier=sources

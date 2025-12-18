@@ -22,3 +22,5 @@
 - pkg:maven/com.ibm.runtimetools/javametrics-prometheus@1.6.0?type=war
 - pkg:maven/com.ibm.runtimetools/javametrics-prometheus@1.7.0?classifier=sources
 - pkg:maven/com.ibm.runtimetools/javametrics-prometheus@1.7.0?type=war
+- pkg:maven/com.ibm.runtimetools/javametrics-prometheus@1.8.0?classifier=sources
+- pkg:maven/com.ibm.runtimetools/javametrics-prometheus@1.8.0?type=war

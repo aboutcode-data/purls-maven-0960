@@ -10,6 +10,7 @@
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@2.4.0?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@2.5.0
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@2.5.0?classifier=sources
+- pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0-M1
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0-M10
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0-M10?classifier=sources
@@ -32,3 +33,4 @@
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0-M8?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0-M9
 - pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0-M9?classifier=sources
+- pkg:maven/com.paypal.butterfly/butterfly-utilities@3.0.0?classifier=sources

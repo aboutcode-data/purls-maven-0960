@@ -1,3 +1,7 @@
+- pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.10.0
+- pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.10.0?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.10.1
+- pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.10.1?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.3.0-Boron
 - pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.3.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/aclservice-impl@0.3.1-Boron-SR1

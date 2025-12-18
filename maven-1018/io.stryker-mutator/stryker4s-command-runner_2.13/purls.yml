@@ -1,2 +1,6 @@
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.2
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.2?classifier=sources
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.3
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.3?classifier=sources
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.8.0
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.8.0?classifier=sources

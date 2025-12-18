@@ -1,3 +1,5 @@
 - pkg:maven/org.hexworks.cobalt/cobalt.core-js@2020.0.12-RELEASE?classifier=sources
 - pkg:maven/org.hexworks.cobalt/cobalt.core-js@2020.0.14-PREVIEW?classifier=sources
 - pkg:maven/org.hexworks.cobalt/cobalt.core-js@2020.0.15-PREVIEW?classifier=sources
+- pkg:maven/org.hexworks.cobalt/cobalt.core-js@2020.0.16-PREVIEW?classifier=sources
+- pkg:maven/org.hexworks.cobalt/cobalt.core-js@2020.0.17-PREVIEW?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.6.0?classifier=sources
 - pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.7.0
 - pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.7.0?classifier=sources
+- pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.8.0
+- pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.8.0?classifier=sources
+- pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.8.1
+- pkg:maven/com.intel.analytics.zoo/zoo-core-torchnet-java-linux@0.8.1?classifier=sources

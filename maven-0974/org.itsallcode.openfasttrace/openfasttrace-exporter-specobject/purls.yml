@@ -1,2 +1,6 @@
 - pkg:maven/org.itsallcode.openfasttrace/openfasttrace-exporter-specobject@2.3.5
 - pkg:maven/org.itsallcode.openfasttrace/openfasttrace-exporter-specobject@2.3.5?classifier=sources
+- pkg:maven/org.itsallcode.openfasttrace/openfasttrace-exporter-specobject@3.0.0
+- pkg:maven/org.itsallcode.openfasttrace/openfasttrace-exporter-specobject@3.0.0?classifier=sources
+- pkg:maven/org.itsallcode.openfasttrace/openfasttrace-exporter-specobject@3.0.2
+- pkg:maven/org.itsallcode.openfasttrace/openfasttrace-exporter-specobject@3.0.2?classifier=sources

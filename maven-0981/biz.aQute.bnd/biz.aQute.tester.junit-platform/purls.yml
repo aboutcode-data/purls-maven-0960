@@ -1,2 +1,4 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.tester.junit-platform@5.0.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.tester.junit-platform@5.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.tester.junit-platform@5.0.1
+- pkg:maven/biz.aQute.bnd/biz.aQute.tester.junit-platform@5.0.1?classifier=sources

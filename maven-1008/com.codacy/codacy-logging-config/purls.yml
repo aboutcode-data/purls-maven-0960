@@ -1,2 +1,4 @@
+- pkg:maven/com.codacy/codacy-logging-config@0.1.0
 - pkg:maven/com.codacy/codacy-logging-config@0.1.0-firstimplementation.54bf849
 - pkg:maven/com.codacy/codacy-logging-config@0.1.0-firstimplementation.54bf849?classifier=sources
+- pkg:maven/com.codacy/codacy-logging-config@0.1.0?classifier=sources

@@ -300,6 +300,8 @@
 - pkg:maven/org.apache.wicket/wicket-ioc@8.6.1?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@8.7.0
 - pkg:maven/org.apache.wicket/wicket-ioc@8.7.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-ioc@8.8.0
+- pkg:maven/org.apache.wicket/wicket-ioc@8.8.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M1
 - pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M1?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M2
@@ -308,3 +310,5 @@
 - pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M3?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M4
 - pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M4?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M5
+- pkg:maven/org.apache.wicket/wicket-ioc@9.0.0-M5?classifier=sources

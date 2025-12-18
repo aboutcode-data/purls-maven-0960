@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-quartz-deployment@1.0.0-M6
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-quartz-deployment@1.0.0-M6?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-quartz-deployment@1.0.0-M7
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-quartz-deployment@1.0.0-M7?classifier=sources

@@ -114,6 +114,10 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.49.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.5.0
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.5.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.50.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.50.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.51.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.51.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.6.0
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-ahc-1_8@1.7.0

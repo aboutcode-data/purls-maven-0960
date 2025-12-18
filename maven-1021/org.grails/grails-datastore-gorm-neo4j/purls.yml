@@ -138,3 +138,7 @@
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.0.0.RC2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.0.0.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.0.0.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.0.1.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.0.1.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.1.0.M1
+- pkg:maven/org.grails/grails-datastore-gorm-neo4j@7.1.0.M1?classifier=sources

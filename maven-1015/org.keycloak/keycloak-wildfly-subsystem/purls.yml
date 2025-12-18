@@ -68,6 +68,10 @@
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@1.9.7.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@1.9.8.Final
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@1.9.8.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@10.0.0
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@10.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@10.0.1
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@10.0.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@2.0.0.CR1
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@2.0.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@2.0.0.Final
@@ -182,3 +186,7 @@
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@8.0.2?classifier=sources
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@9.0.0
 - pkg:maven/org.keycloak/keycloak-wildfly-subsystem@9.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@9.0.2
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@9.0.2?classifier=sources
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@9.0.3
+- pkg:maven/org.keycloak/keycloak-wildfly-subsystem@9.0.3?classifier=sources

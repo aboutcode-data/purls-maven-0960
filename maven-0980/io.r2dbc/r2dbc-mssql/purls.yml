@@ -2,3 +2,5 @@
 - pkg:maven/io.r2dbc/r2dbc-mssql@0.8.0.RELEASE?classifier=sources
 - pkg:maven/io.r2dbc/r2dbc-mssql@0.8.1.RELEASE
 - pkg:maven/io.r2dbc/r2dbc-mssql@0.8.1.RELEASE?classifier=sources
+- pkg:maven/io.r2dbc/r2dbc-mssql@0.8.2.RELEASE
+- pkg:maven/io.r2dbc/r2dbc-mssql@0.8.2.RELEASE?classifier=sources

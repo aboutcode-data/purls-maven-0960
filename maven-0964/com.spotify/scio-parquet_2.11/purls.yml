@@ -72,3 +72,9 @@
 - pkg:maven/com.spotify/scio-parquet_2.11@0.8.0?classifier=sources
 - pkg:maven/com.spotify/scio-parquet_2.11@0.8.1
 - pkg:maven/com.spotify/scio-parquet_2.11@0.8.1?classifier=sources
+- pkg:maven/com.spotify/scio-parquet_2.11@0.8.2
+- pkg:maven/com.spotify/scio-parquet_2.11@0.8.2?classifier=sources
+- pkg:maven/com.spotify/scio-parquet_2.11@0.8.3
+- pkg:maven/com.spotify/scio-parquet_2.11@0.8.3?classifier=sources
+- pkg:maven/com.spotify/scio-parquet_2.11@0.8.4
+- pkg:maven/com.spotify/scio-parquet_2.11@0.8.4?classifier=sources

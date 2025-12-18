@@ -194,5 +194,9 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.85.3?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.85.4
 - pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.85.4?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.85.5
+- pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.85.5?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.86.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.86.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.9.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-firestore-v1beta1@0.9.0?classifier=sources

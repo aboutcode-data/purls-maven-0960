@@ -2,3 +2,5 @@
 - pkg:maven/io.cdap.plugin/hive-plugins@2.2.0?classifier=sources
 - pkg:maven/io.cdap.plugin/hive-plugins@2.3.4
 - pkg:maven/io.cdap.plugin/hive-plugins@2.3.4?classifier=sources
+- pkg:maven/io.cdap.plugin/hive-plugins@2.3.5
+- pkg:maven/io.cdap.plugin/hive-plugins@2.3.5?classifier=sources

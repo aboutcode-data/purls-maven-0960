@@ -1,0 +1,4 @@
+- pkg:maven/com.weicoder/image@3.3.9
+- pkg:maven/com.weicoder/image@3.3.9-jdk8
+- pkg:maven/com.weicoder/image@3.3.9-jdk8?classifier=sources
+- pkg:maven/com.weicoder/image@3.3.9?classifier=sources

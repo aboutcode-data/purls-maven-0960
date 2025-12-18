@@ -152,5 +152,9 @@
 - pkg:maven/org.glassfish.metro/xmlfilter@2.4.2?classifier=sources
 - pkg:maven/org.glassfish.metro/xmlfilter@2.4.3
 - pkg:maven/org.glassfish.metro/xmlfilter@2.4.3?classifier=sources
+- pkg:maven/org.glassfish.metro/xmlfilter@2.4.4
 - pkg:maven/org.glassfish.metro/xmlfilter@2.4.4-b01
 - pkg:maven/org.glassfish.metro/xmlfilter@2.4.4-b01?classifier=sources
+- pkg:maven/org.glassfish.metro/xmlfilter@2.4.4?classifier=sources
+- pkg:maven/org.glassfish.metro/xmlfilter@3.0.0-M1
+- pkg:maven/org.glassfish.metro/xmlfilter@3.0.0-M1?classifier=sources

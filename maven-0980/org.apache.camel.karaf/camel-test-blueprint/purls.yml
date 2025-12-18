@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.2.0
+- pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.2.0?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.3.0
+- pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.3.0?classifier=sources

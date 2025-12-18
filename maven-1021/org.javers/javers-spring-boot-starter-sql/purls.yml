@@ -335,6 +335,12 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.1
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.10
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.10?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.11
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.11?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.12
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.12?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.13
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.13?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.1?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.2
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.2?classifier=sources
@@ -352,3 +358,4 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.8?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.9
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@5.8.9?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@5.9.0?classifier=sources

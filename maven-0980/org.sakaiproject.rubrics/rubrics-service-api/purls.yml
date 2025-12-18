@@ -6,3 +6,7 @@
 - pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@19.3
 - pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@19.4
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@20.0
+- pkg:maven/org.sakaiproject.rubrics/rubrics-service-api@20.0?classifier=sources

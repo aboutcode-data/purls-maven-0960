@@ -6,3 +6,5 @@
 - pkg:maven/com.gitlab.marvinh/socket@1.3?classifier=sources
 - pkg:maven/com.gitlab.marvinh/socket@2.0
 - pkg:maven/com.gitlab.marvinh/socket@2.0?classifier=sources
+- pkg:maven/com.gitlab.marvinh/socket@2.1
+- pkg:maven/com.gitlab.marvinh/socket@2.1?classifier=sources

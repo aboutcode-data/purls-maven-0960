@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.11?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.12
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.12?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-script@1.13
+- pkg:maven/org.apache.xmlgraphics/batik-script@1.13?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.6.1
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.7
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.7?classifier=sources

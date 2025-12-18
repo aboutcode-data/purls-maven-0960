@@ -47,6 +47,12 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.10?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.11
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.11?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.12
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.12?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.13
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.13?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.14
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.14?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.2
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.2?classifier=sources
@@ -67,6 +73,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.1
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.10
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.10?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.2
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.2?classifier=sources
@@ -84,3 +92,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.9
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@3.0.9?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@6.0.0
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@6.0.0?classifier=sources

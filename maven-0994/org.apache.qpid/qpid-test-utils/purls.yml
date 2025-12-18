@@ -54,6 +54,8 @@
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.0.7?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.0.8
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.0.8?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-test-utils@7.0.9
+- pkg:maven/org.apache.qpid/qpid-test-utils@7.0.9?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.1.0
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.1.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.1.1
@@ -72,3 +74,5 @@
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.1.7?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.1.8
 - pkg:maven/org.apache.qpid/qpid-test-utils@7.1.8?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-test-utils@8.0.0
+- pkg:maven/org.apache.qpid/qpid-test-utils@8.0.0?classifier=sources

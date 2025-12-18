@@ -38,3 +38,5 @@
 - pkg:maven/com.jaredrummler/android-device-names@1.1.8?type=aar
 - pkg:maven/com.jaredrummler/android-device-names@1.1.9?classifier=sources
 - pkg:maven/com.jaredrummler/android-device-names@1.1.9?type=aar
+- pkg:maven/com.jaredrummler/android-device-names@2.0.0?classifier=sources
+- pkg:maven/com.jaredrummler/android-device-names@2.0.0?type=aar

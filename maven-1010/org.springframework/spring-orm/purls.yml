@@ -211,6 +211,8 @@
 - pkg:maven/org.springframework/spring-orm@4.3.25.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@4.3.26.RELEASE
 - pkg:maven/org.springframework/spring-orm@4.3.26.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@4.3.27.RELEASE
+- pkg:maven/org.springframework/spring-orm@4.3.27.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@4.3.3.RELEASE
 - pkg:maven/org.springframework/spring-orm@4.3.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@4.3.4.RELEASE
@@ -243,6 +245,8 @@
 - pkg:maven/org.springframework/spring-orm@5.0.15.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.0.16.RELEASE
 - pkg:maven/org.springframework/spring-orm@5.0.16.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@5.0.17.RELEASE
+- pkg:maven/org.springframework/spring-orm@5.0.17.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.0.2.RELEASE
 - pkg:maven/org.springframework/spring-orm@5.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.0.3.RELEASE
@@ -273,6 +277,8 @@
 - pkg:maven/org.springframework/spring-orm@5.1.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.1.14.RELEASE
 - pkg:maven/org.springframework/spring-orm@5.1.14.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@5.1.15.RELEASE
+- pkg:maven/org.springframework/spring-orm@5.1.15.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.1.2.RELEASE
 - pkg:maven/org.springframework/spring-orm@5.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.1.3.RELEASE
@@ -299,3 +305,7 @@
 - pkg:maven/org.springframework/spring-orm@5.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-orm@5.2.4.RELEASE
 - pkg:maven/org.springframework/spring-orm@5.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@5.2.5.RELEASE
+- pkg:maven/org.springframework/spring-orm@5.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-orm@5.2.6.RELEASE
+- pkg:maven/org.springframework/spring-orm@5.2.6.RELEASE?classifier=sources

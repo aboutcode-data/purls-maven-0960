@@ -1,0 +1,5 @@
+- pkg:maven/io.floodplain/replication-protobuf@0.8.17?classifier=sources
+- pkg:maven/io.floodplain/replication-protobuf@0.8.24?classifier=sources
+- pkg:maven/io.floodplain/replication-protobuf@0.8.26?classifier=sources
+- pkg:maven/io.floodplain/replication-protobuf@0.8.28?classifier=sources
+- pkg:maven/io.floodplain/replication-protobuf@0.8.30?classifier=sources

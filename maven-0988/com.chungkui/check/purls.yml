@@ -1,0 +1,10 @@
+- pkg:maven/com.chungkui/check@0.0.1-RELEASE
+- pkg:maven/com.chungkui/check@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.chungkui/check@0.0.2-RELEASE
+- pkg:maven/com.chungkui/check@0.0.2-RELEASE?classifier=sources
+- pkg:maven/com.chungkui/check@0.0.3-RELEASE
+- pkg:maven/com.chungkui/check@0.0.3-RELEASE?classifier=sources
+- pkg:maven/com.chungkui/check@0.0.3-SNAPSHOTS
+- pkg:maven/com.chungkui/check@0.0.3-SNAPSHOTS?classifier=sources
+- pkg:maven/com.chungkui/check@0.0.4-SNAPSHOTS
+- pkg:maven/com.chungkui/check@0.0.4-SNAPSHOTS?classifier=sources

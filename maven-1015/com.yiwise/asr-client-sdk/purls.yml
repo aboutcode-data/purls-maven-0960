@@ -1,3 +1,5 @@
+- pkg:maven/com.yiwise/asr-client-sdk@1.0.10-RELEASE
+- pkg:maven/com.yiwise/asr-client-sdk@1.0.10-RELEASE?classifier=sources
 - pkg:maven/com.yiwise/asr-client-sdk@1.0.2-RELEASE
 - pkg:maven/com.yiwise/asr-client-sdk@1.0.2-RELEASE?classifier=sources
 - pkg:maven/com.yiwise/asr-client-sdk@1.0.3-RELEASE
@@ -6,3 +8,5 @@
 - pkg:maven/com.yiwise/asr-client-sdk@1.0.4-RELEASE?classifier=sources
 - pkg:maven/com.yiwise/asr-client-sdk@1.0.5-RELEASE
 - pkg:maven/com.yiwise/asr-client-sdk@1.0.5-RELEASE?classifier=sources
+- pkg:maven/com.yiwise/asr-client-sdk@1.0.8-RELEASE
+- pkg:maven/com.yiwise/asr-client-sdk@1.0.8-RELEASE?classifier=sources

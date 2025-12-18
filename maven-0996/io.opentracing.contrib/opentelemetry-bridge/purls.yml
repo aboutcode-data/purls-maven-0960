@@ -1,2 +1,4 @@
 - pkg:maven/io.opentracing.contrib/opentelemetry-bridge@0.2.0
 - pkg:maven/io.opentracing.contrib/opentelemetry-bridge@0.2.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentelemetry-bridge@0.4.0
+- pkg:maven/io.opentracing.contrib/opentelemetry-bridge@0.4.0?classifier=sources

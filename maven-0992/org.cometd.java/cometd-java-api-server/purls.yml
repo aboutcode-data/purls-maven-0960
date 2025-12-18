@@ -1,4 +1,6 @@
+- pkg:maven/org.cometd.java/cometd-java-api-server@5.0.0
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.0-BETA0
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.0-BETA0?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.0-BETA1
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.0-BETA1?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-api-server@5.0.0?classifier=sources

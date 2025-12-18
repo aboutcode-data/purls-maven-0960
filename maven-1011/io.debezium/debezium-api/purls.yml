@@ -1,0 +1,12 @@
+- pkg:maven/io.debezium/debezium-api@1.1.0.CR1
+- pkg:maven/io.debezium/debezium-api@1.1.0.CR1?classifier=sources
+- pkg:maven/io.debezium/debezium-api@1.1.0.Final
+- pkg:maven/io.debezium/debezium-api@1.1.0.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-api@1.1.1.Final
+- pkg:maven/io.debezium/debezium-api@1.1.1.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-api@1.2.0.Alpha1
+- pkg:maven/io.debezium/debezium-api@1.2.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-api@1.2.0.Beta1
+- pkg:maven/io.debezium/debezium-api@1.2.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-api@1.2.0.Beta2
+- pkg:maven/io.debezium/debezium-api@1.2.0.Beta2?classifier=sources

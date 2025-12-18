@@ -68,3 +68,7 @@
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@19.3
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@19.4
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@20.0
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-utils@20.0?classifier=sources

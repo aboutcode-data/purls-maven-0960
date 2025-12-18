@@ -46,3 +46,5 @@
 - pkg:maven/org.webjars.npm/recharts@1.0.0-beta.4?classifier=sources
 - pkg:maven/org.webjars.npm/recharts@1.4.2
 - pkg:maven/org.webjars.npm/recharts@1.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/recharts@1.8.5
+- pkg:maven/org.webjars.npm/recharts@1.8.5?classifier=sources

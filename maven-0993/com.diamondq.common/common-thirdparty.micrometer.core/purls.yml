@@ -4,3 +4,5 @@
 - pkg:maven/com.diamondq.common/common-thirdparty.micrometer.core@1.1.2?classifier=sources
 - pkg:maven/com.diamondq.common/common-thirdparty.micrometer.core@1.2.1
 - pkg:maven/com.diamondq.common/common-thirdparty.micrometer.core@1.2.1?classifier=sources
+- pkg:maven/com.diamondq.common/common-thirdparty.micrometer.core@1.3.5
+- pkg:maven/com.diamondq.common/common-thirdparty.micrometer.core@1.3.5?classifier=sources

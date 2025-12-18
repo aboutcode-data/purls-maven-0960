@@ -36,5 +36,9 @@
 - pkg:maven/org.graalvm.tools/profiler@19.3.0?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@19.3.1
 - pkg:maven/org.graalvm.tools/profiler@19.3.1?classifier=sources
+- pkg:maven/org.graalvm.tools/profiler@19.3.2
+- pkg:maven/org.graalvm.tools/profiler@19.3.2?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@20.0.0
 - pkg:maven/org.graalvm.tools/profiler@20.0.0?classifier=sources
+- pkg:maven/org.graalvm.tools/profiler@20.1.0
+- pkg:maven/org.graalvm.tools/profiler@20.1.0?classifier=sources

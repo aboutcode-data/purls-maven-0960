@@ -84,6 +84,14 @@
 - pkg:maven/org.wildfly/wildfly-rts@19.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-rts@19.0.0.Beta2
 - pkg:maven/org.wildfly/wildfly-rts@19.0.0.Beta2?classifier=sources
+- pkg:maven/org.wildfly/wildfly-rts@19.0.0.Beta3
+- pkg:maven/org.wildfly/wildfly-rts@19.0.0.Beta3?classifier=sources
+- pkg:maven/org.wildfly/wildfly-rts@19.0.0.Final
+- pkg:maven/org.wildfly/wildfly-rts@19.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-rts@19.1.0.Final
+- pkg:maven/org.wildfly/wildfly-rts@19.1.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-rts@20.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-rts@20.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-rts@8.0.0.Alpha2
 - pkg:maven/org.wildfly/wildfly-rts@8.0.0.Alpha2?classifier=sources
 - pkg:maven/org.wildfly/wildfly-rts@8.0.0.Alpha3

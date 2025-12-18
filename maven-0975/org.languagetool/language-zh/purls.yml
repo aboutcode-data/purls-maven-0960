@@ -54,3 +54,5 @@
 - pkg:maven/org.languagetool/language-zh@4.7?classifier=sources
 - pkg:maven/org.languagetool/language-zh@4.8
 - pkg:maven/org.languagetool/language-zh@4.8?classifier=sources
+- pkg:maven/org.languagetool/language-zh@4.9
+- pkg:maven/org.languagetool/language-zh@4.9?classifier=sources

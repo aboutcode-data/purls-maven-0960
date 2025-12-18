@@ -19,6 +19,10 @@
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.1
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.10
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.10?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.11
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.11?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.12
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.12?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.2
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.2?classifier=sources
@@ -56,6 +60,10 @@
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.6?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.7
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.7?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.8
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.8?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.9
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.14.9?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.2.0
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.2.0?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.3.0
@@ -113,3 +121,10 @@
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@4.3.1
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@4.3.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@4.4.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.4.1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.5.0-RC1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.5.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.6.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.7.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.7.1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.7.2?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.scalatest/scalatest-freespec_0.22@3.2.0-M3
 - pkg:maven/org.scalatest/scalatest-freespec_0.22@3.2.0-M3?classifier=sources
+- pkg:maven/org.scalatest/scalatest-freespec_0.22@3.2.0-M4
+- pkg:maven/org.scalatest/scalatest-freespec_0.22@3.2.0-M4?classifier=sources
+- pkg:maven/org.scalatest/scalatest-freespec_0.22@3.3.0-SNAP2
+- pkg:maven/org.scalatest/scalatest-freespec_0.22@3.3.0-SNAP2?classifier=sources

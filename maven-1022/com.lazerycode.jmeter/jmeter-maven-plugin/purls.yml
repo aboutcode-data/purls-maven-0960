@@ -68,3 +68,5 @@
 - pkg:maven/com.lazerycode.jmeter/jmeter-maven-plugin@2.9.0?classifier=sources
 - pkg:maven/com.lazerycode.jmeter/jmeter-maven-plugin@3.0.0
 - pkg:maven/com.lazerycode.jmeter/jmeter-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/com.lazerycode.jmeter/jmeter-maven-plugin@3.1.0
+- pkg:maven/com.lazerycode.jmeter/jmeter-maven-plugin@3.1.0?classifier=sources

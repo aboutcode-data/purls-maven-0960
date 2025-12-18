@@ -60,3 +60,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.1.0?type=war
 - pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.2.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.3.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.4.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime@4.5.0?type=war

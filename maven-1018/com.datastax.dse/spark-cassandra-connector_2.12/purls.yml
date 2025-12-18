@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax.dse/spark-cassandra-connector_2.12@3.0-alpha
+- pkg:maven/com.datastax.dse/spark-cassandra-connector_2.12@3.0-alpha?classifier=sources

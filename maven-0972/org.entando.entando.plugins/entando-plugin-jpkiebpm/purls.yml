@@ -12,3 +12,7 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@5.1.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@5.2.0?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@5.2.0?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@6.1.0?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@6.1.0?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@6.1.1?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpkiebpm@6.1.1?type=war

@@ -24,3 +24,7 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@4.1.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@4.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@4.2.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@5.0.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@5.0.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@5.0.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-autoconfigure@5.0.1?classifier=sources

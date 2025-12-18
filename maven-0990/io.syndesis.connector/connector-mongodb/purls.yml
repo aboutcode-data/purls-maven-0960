@@ -10,3 +10,5 @@
 - pkg:maven/io.syndesis.connector/connector-mongodb@1.8.2?classifier=sources
 - pkg:maven/io.syndesis.connector/connector-mongodb@1.8.6
 - pkg:maven/io.syndesis.connector/connector-mongodb@1.8.6?classifier=sources
+- pkg:maven/io.syndesis.connector/connector-mongodb@1.9.0
+- pkg:maven/io.syndesis.connector/connector-mongodb@1.9.0?classifier=sources

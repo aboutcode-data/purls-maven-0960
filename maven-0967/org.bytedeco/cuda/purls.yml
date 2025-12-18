@@ -8,5 +8,7 @@
 - pkg:maven/org.bytedeco/cuda@10.1-7.6-1.5.2?classifier=sources
 - pkg:maven/org.bytedeco/cuda@10.2-7.6-1.5.2
 - pkg:maven/org.bytedeco/cuda@10.2-7.6-1.5.2?classifier=sources
+- pkg:maven/org.bytedeco/cuda@10.2-7.6-1.5.3
+- pkg:maven/org.bytedeco/cuda@10.2-7.6-1.5.3?classifier=sources
 - pkg:maven/org.bytedeco/cuda@9.2-7.2-1.5
 - pkg:maven/org.bytedeco/cuda@9.2-7.2-1.5?classifier=sources

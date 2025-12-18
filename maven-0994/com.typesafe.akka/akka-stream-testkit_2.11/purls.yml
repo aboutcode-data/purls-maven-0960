@@ -113,6 +113,10 @@
 - pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.29?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.3
+- pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.30
+- pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.30?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.31
+- pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.31?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.4
 - pkg:maven/com.typesafe.akka/akka-stream-testkit_2.11@2.5.4?classifier=sources

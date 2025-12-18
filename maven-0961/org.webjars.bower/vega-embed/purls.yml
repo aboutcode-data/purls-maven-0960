@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.bower/vega-embed@2.1.0?classifier=sources
 - pkg:maven/org.webjars.bower/vega-embed@2.2.0
 - pkg:maven/org.webjars.bower/vega-embed@2.2.0?classifier=sources
+- pkg:maven/org.webjars.bower/vega-embed@5.1.3
+- pkg:maven/org.webjars.bower/vega-embed@5.1.3?classifier=sources
+- pkg:maven/org.webjars.bower/vega-embed@6.4.0
+- pkg:maven/org.webjars.bower/vega-embed@6.4.0?classifier=sources

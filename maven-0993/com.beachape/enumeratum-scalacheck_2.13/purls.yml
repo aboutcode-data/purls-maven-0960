@@ -1,2 +1,6 @@
 - pkg:maven/com.beachape/enumeratum-scalacheck_2.13@1.5.16
 - pkg:maven/com.beachape/enumeratum-scalacheck_2.13@1.5.16?classifier=sources
+- pkg:maven/com.beachape/enumeratum-scalacheck_2.13@1.6.0
+- pkg:maven/com.beachape/enumeratum-scalacheck_2.13@1.6.0?classifier=sources
+- pkg:maven/com.beachape/enumeratum-scalacheck_2.13@1.6.1
+- pkg:maven/com.beachape/enumeratum-scalacheck_2.13@1.6.1?classifier=sources

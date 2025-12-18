@@ -1,2 +1,4 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.23.0
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.23.0?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.23.1
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.kafka@5.23.1?classifier=sources

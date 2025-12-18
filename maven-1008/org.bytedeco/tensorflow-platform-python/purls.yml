@@ -1,2 +1,4 @@
 - pkg:maven/org.bytedeco/tensorflow-platform-python@1.15.0-1.5.2
 - pkg:maven/org.bytedeco/tensorflow-platform-python@1.15.0-1.5.2?classifier=sources
+- pkg:maven/org.bytedeco/tensorflow-platform-python@1.15.2-1.5.3
+- pkg:maven/org.bytedeco/tensorflow-platform-python@1.15.2-1.5.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.dataconservancy.pass.deposit/fedora-builder@1.0.0-3.4
 - pkg:maven/org.dataconservancy.pass.deposit/fedora-builder@1.0.0-3.4?classifier=sources
+- pkg:maven/org.dataconservancy.pass.deposit/fedora-builder@1.0.1-3.4
+- pkg:maven/org.dataconservancy.pass.deposit/fedora-builder@1.0.1-3.4?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.floragunn/search-guard-tlstool@1.6?type=zip
 - pkg:maven/com.floragunn/search-guard-tlstool@1.7?classifier=sources
 - pkg:maven/com.floragunn/search-guard-tlstool@1.7?type=zip
+- pkg:maven/com.floragunn/search-guard-tlstool@1.8?classifier=sources
+- pkg:maven/com.floragunn/search-guard-tlstool@1.8?type=zip

@@ -76,3 +76,4 @@
 - pkg:maven/com.dorkbox/Network@3.0?classifier=sources
 - pkg:maven/com.dorkbox/Network@4.0
 - pkg:maven/com.dorkbox/Network@4.0?classifier=sources
+- pkg:maven/com.dorkbox/Network@4.1?classifier=sources

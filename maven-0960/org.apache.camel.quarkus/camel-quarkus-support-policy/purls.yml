@@ -1,1 +1,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M4
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M5
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M5?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M6
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M6?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M7
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-policy@1.0.0-M7?classifier=sources

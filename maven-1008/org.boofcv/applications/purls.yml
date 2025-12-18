@@ -30,3 +30,7 @@
 - pkg:maven/org.boofcv/applications@0.34?classifier=sources
 - pkg:maven/org.boofcv/applications@0.35
 - pkg:maven/org.boofcv/applications@0.35?classifier=sources
+- pkg:maven/org.boofcv/applications@0.36
+- pkg:maven/org.boofcv/applications@0.36.1
+- pkg:maven/org.boofcv/applications@0.36.1?classifier=sources
+- pkg:maven/org.boofcv/applications@0.36?classifier=sources

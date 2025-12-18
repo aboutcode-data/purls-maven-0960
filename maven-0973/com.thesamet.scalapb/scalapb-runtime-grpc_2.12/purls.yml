@@ -1,3 +1,4 @@
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M1
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M1?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M2
@@ -10,6 +11,15 @@
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M5?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M6
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M6?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M7
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0-M7?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.0?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.1
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.1?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.2
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.2?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.3
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.10.3?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.7.0
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.7.0-rc1
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.7.0-rc1?classifier=sources
@@ -78,3 +88,5 @@
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.9.5?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.9.6
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.9.6?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.9.7
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_2.12@0.9.7?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/com.google.dagger/dagger-grpc-server-annotations@2.25?classifier=sources
 - pkg:maven/com.google.dagger/dagger-grpc-server-annotations@2.26
 - pkg:maven/com.google.dagger/dagger-grpc-server-annotations@2.26?classifier=sources
+- pkg:maven/com.google.dagger/dagger-grpc-server-annotations@2.27
+- pkg:maven/com.google.dagger/dagger-grpc-server-annotations@2.27?classifier=sources

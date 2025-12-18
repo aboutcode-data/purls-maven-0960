@@ -6,3 +6,4 @@
 - pkg:maven/org.xbib/cql-elasticsearch@1.2.0?classifier=sources
 - pkg:maven/org.xbib/cql-elasticsearch@2.0.2
 - pkg:maven/org.xbib/cql-elasticsearch@2.0.2?classifier=sources
+- pkg:maven/org.xbib/cql-elasticsearch@3.0.0?classifier=sources

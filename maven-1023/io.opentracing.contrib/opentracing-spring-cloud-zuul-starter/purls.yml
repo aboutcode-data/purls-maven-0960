@@ -48,3 +48,7 @@
 - pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.4.0?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.5.0
 - pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.5.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.5.1
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.5.1?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.5.3
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-zuul-starter@0.5.3?classifier=sources

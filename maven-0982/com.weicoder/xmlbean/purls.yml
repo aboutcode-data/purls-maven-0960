@@ -1,0 +1,4 @@
+- pkg:maven/com.weicoder/xmlbean@3.3.8
+- pkg:maven/com.weicoder/xmlbean@3.3.8-jdk8
+- pkg:maven/com.weicoder/xmlbean@3.3.8-jdk8?classifier=sources
+- pkg:maven/com.weicoder/xmlbean@3.3.8?classifier=sources

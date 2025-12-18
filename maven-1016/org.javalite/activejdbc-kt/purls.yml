@@ -3,4 +3,6 @@
 - pkg:maven/org.javalite/activejdbc-kt@2.3
 - pkg:maven/org.javalite/activejdbc-kt@2.3.1-j8
 - pkg:maven/org.javalite/activejdbc-kt@2.3.1-j8?classifier=sources
+- pkg:maven/org.javalite/activejdbc-kt@2.3.2-j8
+- pkg:maven/org.javalite/activejdbc-kt@2.3.2-j8?classifier=sources
 - pkg:maven/org.javalite/activejdbc-kt@2.3?classifier=sources

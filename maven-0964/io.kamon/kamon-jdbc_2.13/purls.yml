@@ -1,2 +1,6 @@
 - pkg:maven/io.kamon/kamon-jdbc_2.13@2.0.0
 - pkg:maven/io.kamon/kamon-jdbc_2.13@2.0.0?classifier=sources
+- pkg:maven/io.kamon/kamon-jdbc_2.13@2.0.2
+- pkg:maven/io.kamon/kamon-jdbc_2.13@2.0.2?classifier=sources
+- pkg:maven/io.kamon/kamon-jdbc_2.13@2.1.0
+- pkg:maven/io.kamon/kamon-jdbc_2.13@2.1.0?classifier=sources

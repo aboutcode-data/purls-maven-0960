@@ -53,6 +53,10 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.29?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.3
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.30
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.30?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.31
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.31?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.4
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.5.4?classifier=sources
@@ -94,3 +98,7 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.3
 - pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.3?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.4
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.5
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.12@2.6.5?classifier=sources

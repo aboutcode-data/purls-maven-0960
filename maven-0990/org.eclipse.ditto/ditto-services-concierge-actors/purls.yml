@@ -8,5 +8,9 @@
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.0.0-M4
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.0.0-M4?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.1.0
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.1.0-M2
 - pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.1.0-M2?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.1.1
+- pkg:maven/org.eclipse.ditto/ditto-services-concierge-actors@1.1.1?classifier=sources

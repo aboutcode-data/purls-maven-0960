@@ -6,3 +6,5 @@
 - pkg:maven/com.aliyun.emr/emr-oss@1.9.0?classifier=sources
 - pkg:maven/com.aliyun.emr/emr-oss@1.9.1
 - pkg:maven/com.aliyun.emr/emr-oss@1.9.1?classifier=sources
+- pkg:maven/com.aliyun.emr/emr-oss@2.0.0
+- pkg:maven/com.aliyun.emr/emr-oss@2.0.0?classifier=sources

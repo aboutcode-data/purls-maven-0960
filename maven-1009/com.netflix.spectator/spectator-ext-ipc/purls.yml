@@ -1,6 +1,10 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.101.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.102.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.103.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.104.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.105.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.106.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.107.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.66.0
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.66.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipc@0.67.0

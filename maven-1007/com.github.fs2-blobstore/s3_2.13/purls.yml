@@ -1,2 +1,10 @@
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.6.1
 - pkg:maven/com.github.fs2-blobstore/s3_2.13@0.6.1-b33
 - pkg:maven/com.github.fs2-blobstore/s3_2.13@0.6.1-b33?classifier=sources
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.6.1?classifier=sources
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.6.2
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.6.2?classifier=sources
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.7.0
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.7.0?classifier=sources
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.7.2
+- pkg:maven/com.github.fs2-blobstore/s3_2.13@0.7.2?classifier=sources

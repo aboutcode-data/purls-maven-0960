@@ -12,3 +12,9 @@
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.4E?type=war
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.5?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.5?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.5E?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.5E?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.6?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.6?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.6E?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.6E?type=war

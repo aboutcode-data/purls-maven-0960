@@ -16,6 +16,16 @@
 - pkg:maven/com.virgilsecurity.crypto/ratchet@0.12.1?classifier=sources
 - pkg:maven/com.virgilsecurity.crypto/ratchet@0.12.2
 - pkg:maven/com.virgilsecurity.crypto/ratchet@0.12.2?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.13.1
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.13.1?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.14.0
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.14.0?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.15.0
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.15.0?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.15.1
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.15.1?classifier=sources
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.15.2
+- pkg:maven/com.virgilsecurity.crypto/ratchet@0.15.2?classifier=sources
 - pkg:maven/com.virgilsecurity.crypto/ratchet@0.7.0
 - pkg:maven/com.virgilsecurity.crypto/ratchet@0.7.0?classifier=sources
 - pkg:maven/com.virgilsecurity.crypto/ratchet@0.7.1

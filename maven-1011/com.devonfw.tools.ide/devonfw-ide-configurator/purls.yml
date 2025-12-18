@@ -1,4 +1,10 @@
+- pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@2020.04.001
+- pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@2020.04.001?classifier=sources
 - pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.2.3
 - pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.2.3?classifier=sources
 - pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.2.4
 - pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.2.4?classifier=sources
+- pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.3.0
+- pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.3.0?classifier=sources
+- pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.3.1
+- pkg:maven/com.devonfw.tools.ide/devonfw-ide-configurator@3.3.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.minbox.framework/command-execute-maven-plugin@0.1.0.RELEASE
 - pkg:maven/org.minbox.framework/command-execute-maven-plugin@0.1.0.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/command-execute-maven-plugin@0.2.0.RELEASE
+- pkg:maven/org.minbox.framework/command-execute-maven-plugin@0.2.0.RELEASE?classifier=sources

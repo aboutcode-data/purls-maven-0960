@@ -2,6 +2,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0-alpha0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0.alpha1
 - pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0.alpha1?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0.alpha2
+- pkg:maven/org.eclipse.jetty/jetty-ant@10.0.0.alpha2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.0.0.M3
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.0.0.M3?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.0.0.M4
@@ -110,6 +112,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.29.v20191105?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.3.v20140905?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.2.30.v20200428
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.2.30.v20200428?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.4.v20141103
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.4.v20141103?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.2.5.v20141112
@@ -286,6 +290,10 @@
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.26.v20200117?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.27.v20200227
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.27.v20200227?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.28.v20200408
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.28.v20200408?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.29.v20200521
+- pkg:maven/org.eclipse.jetty/jetty-ant@9.4.29.v20200521?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.3.v20170317
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.3.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-ant@9.4.3.v20180619

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.camel.k/camel-k-runtime-webhook@1.0.9?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-runtime-webhook@1.1.0
 - pkg:maven/org.apache.camel.k/camel-k-runtime-webhook@1.1.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-runtime-webhook@1.2.1
+- pkg:maven/org.apache.camel.k/camel-k-runtime-webhook@1.2.1?classifier=sources

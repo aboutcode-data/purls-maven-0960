@@ -1,2 +1,4 @@
 - pkg:maven/net.cnri/cnri-servlet-container-lib@2.2.0
 - pkg:maven/net.cnri/cnri-servlet-container-lib@2.2.0?classifier=sources
+- pkg:maven/net.cnri/cnri-servlet-container-lib@2.2.1
+- pkg:maven/net.cnri/cnri-servlet-container-lib@2.2.1?classifier=sources

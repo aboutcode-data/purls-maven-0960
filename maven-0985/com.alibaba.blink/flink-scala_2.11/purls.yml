@@ -14,3 +14,4 @@
 - pkg:maven/com.alibaba.blink/flink-scala_2.11@blink-3.3.0?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-scala_2.11@blink-3.4.0
 - pkg:maven/com.alibaba.blink/flink-scala_2.11@blink-3.4.0?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-scala_2.11@blink-3.5.0-RELEASE?classifier=sources

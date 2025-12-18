@@ -88,6 +88,8 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.0.2.2142?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.1.0.2218
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.1.0.2218?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.10.0.17000
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.10.0.17000?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.2.0.2266
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.2.0.2266?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core@4.3.0.2475

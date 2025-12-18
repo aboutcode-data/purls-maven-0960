@@ -1,2 +1,6 @@
 - pkg:maven/io.higherkindness/mu-rpc-client-okhttp_2.12@0.16.0
 - pkg:maven/io.higherkindness/mu-rpc-client-okhttp_2.12@0.16.0?classifier=sources
+- pkg:maven/io.higherkindness/mu-rpc-client-okhttp_2.12@0.22.0
+- pkg:maven/io.higherkindness/mu-rpc-client-okhttp_2.12@0.22.0?classifier=sources
+- pkg:maven/io.higherkindness/mu-rpc-client-okhttp_2.12@0.22.1
+- pkg:maven/io.higherkindness/mu-rpc-client-okhttp_2.12@0.22.1?classifier=sources

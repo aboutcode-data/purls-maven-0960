@@ -194,6 +194,8 @@
 - pkg:maven/org.apache.hbase/hbase-checkstyle@1.4.9?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@1.5.0
 - pkg:maven/org.apache.hbase/hbase-checkstyle@1.5.0?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-checkstyle@1.6.0
+- pkg:maven/org.apache.hbase/hbase-checkstyle@1.6.0?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.0.0
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.0.0-alpha-1?classifier=sources
@@ -223,6 +225,8 @@
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.0
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.0?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.1
+- pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.10
+- pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.10?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.2
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.1.2?classifier=sources
@@ -248,3 +252,5 @@
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.2.2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.2.3
 - pkg:maven/org.apache.hbase/hbase-checkstyle@2.2.3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-checkstyle@2.2.4
+- pkg:maven/org.apache.hbase/hbase-checkstyle@2.2.4?classifier=sources

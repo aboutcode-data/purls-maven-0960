@@ -30,3 +30,5 @@
 - pkg:maven/com.buschmais.jqassistant.plugin/common@1.8.0-MS1
 - pkg:maven/com.buschmais.jqassistant.plugin/common@1.8.0-MS1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.plugin/common@1.8.0?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/common@1.9.0-ALPHA1
+- pkg:maven/com.buschmais.jqassistant.plugin/common@1.9.0-ALPHA1?classifier=sources

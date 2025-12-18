@@ -1,2 +1,4 @@
 - pkg:maven/org.greenrobot/greenrobot-jdt@3.12.2
 - pkg:maven/org.greenrobot/greenrobot-jdt@3.12.2?classifier=sources
+- pkg:maven/org.greenrobot/greenrobot-jdt@3.20.0
+- pkg:maven/org.greenrobot/greenrobot-jdt@3.20.0?classifier=sources

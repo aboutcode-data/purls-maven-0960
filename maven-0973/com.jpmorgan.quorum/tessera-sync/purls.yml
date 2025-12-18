@@ -7,6 +7,10 @@
 - pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.2?classifier=sources
 - pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.3
 - pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.3?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.4
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.4?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.5
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.5?classifier=sources
 - pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10?classifier=sources
 - pkg:maven/com.jpmorgan.quorum/tessera-sync@0.11
 - pkg:maven/com.jpmorgan.quorum/tessera-sync@0.11.0
