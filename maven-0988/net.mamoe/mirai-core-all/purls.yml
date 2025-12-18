@@ -29,6 +29,7 @@
 - pkg:maven/net.mamoe/mirai-core-all@2.6.5?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.6.6?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.6.7?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.6.8?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.7-M1-dev-1?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.7-M1-dev-2?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.7-M1-dev-4?classifier=sources
@@ -36,3 +37,10 @@
 - pkg:maven/net.mamoe/mirai-core-all@2.7-M1-dev-6?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.7-M1?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-all@2.7-M2-dev-1?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.7-M2?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.7-RC-dev-1?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.7-RC-dev-2?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.7-RC-dev-3?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.7-RC?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.7.0?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-all@2.8-M1?classifier=sources

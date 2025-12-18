@@ -20,6 +20,8 @@
 - pkg:maven/org.apache.geode/geode-pulse@1.12.2?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.12.3?classifier=sources
 - pkg:maven/org.apache.geode/geode-pulse@1.12.3?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.12.4?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.12.4?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.13.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-pulse@1.13.0?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.13.1?classifier=sources
@@ -28,6 +30,8 @@
 - pkg:maven/org.apache.geode/geode-pulse@1.13.2?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.13.3?classifier=sources
 - pkg:maven/org.apache.geode/geode-pulse@1.13.3?type=war
+- pkg:maven/org.apache.geode/geode-pulse@1.13.4?classifier=sources
+- pkg:maven/org.apache.geode/geode-pulse@1.13.4?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.2.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-pulse@1.2.0?type=war
 - pkg:maven/org.apache.geode/geode-pulse@1.2.1?classifier=sources

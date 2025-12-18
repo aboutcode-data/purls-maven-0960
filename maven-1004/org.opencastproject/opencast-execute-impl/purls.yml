@@ -1,5 +1,9 @@
 - pkg:maven/org.opencastproject/opencast-execute-impl@10.0
 - pkg:maven/org.opencastproject/opencast-execute-impl@10.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-execute-impl@10.1
+- pkg:maven/org.opencastproject/opencast-execute-impl@10.1?classifier=sources
+- pkg:maven/org.opencastproject/opencast-execute-impl@10.2
+- pkg:maven/org.opencastproject/opencast-execute-impl@10.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-execute-impl@6.6
 - pkg:maven/org.opencastproject/opencast-execute-impl@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-execute-impl@7.2
@@ -54,3 +58,5 @@
 - pkg:maven/org.opencastproject/opencast-execute-impl@9.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-execute-impl@9.6
 - pkg:maven/org.opencastproject/opencast-execute-impl@9.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-execute-impl@9.7
+- pkg:maven/org.opencastproject/opencast-execute-impl@9.7?classifier=sources

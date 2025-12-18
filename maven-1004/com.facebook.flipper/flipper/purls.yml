@@ -3,6 +3,10 @@
 - pkg:maven/com.facebook.flipper/flipper@0.0.3?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.0.6?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.0.7?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.100.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.101.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.102.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.103.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.76.0?classifier=sources
@@ -28,3 +32,7 @@
 - pkg:maven/com.facebook.flipper/flipper@0.94.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.94.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.95.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.96.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.96.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.98.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.99.0?classifier=sources

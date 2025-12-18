@@ -24,6 +24,14 @@
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.15?type=war
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.15E?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.15E?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.16?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.16?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.16E?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.16E?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.17?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.17?type=war
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.17E?classifier=sources
+- pkg:maven/org.craftercms/crafter-search-solr-server@3.1.17E?type=war
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.1?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.1?type=war
 - pkg:maven/org.craftercms/crafter-search-solr-server@3.1.2?classifier=sources

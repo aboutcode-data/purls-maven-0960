@@ -1,2 +1,4 @@
 - pkg:maven/com.simprints/libsimprints@2021.1.0?classifier=sources
 - pkg:maven/com.simprints/libsimprints@2021.1.0?type=aar
+- pkg:maven/com.simprints/libsimprints@2021.2.0?classifier=sources
+- pkg:maven/com.simprints/libsimprints@2021.3.0?classifier=sources

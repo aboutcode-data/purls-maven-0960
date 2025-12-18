@@ -674,6 +674,12 @@
 - pkg:maven/com.codacy/codacy-plugins_2.12@23.4.5_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins_2.12@24.0.0_play_2.7
 - pkg:maven/com.codacy/codacy-plugins_2.12@24.0.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.12@24.1.0-featureaddtoolsmirrorsupport.2.3267e014_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.12@24.1.0-featureaddtoolsmirrorsupport.2.3267e014_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.12@24.1.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.12@24.1.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.12@24.2.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.12@24.2.0_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins_2.12@7.4.1_play_2.6
 - pkg:maven/com.codacy/codacy-plugins_2.12@7.4.1_play_2.6?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins_2.12@7.4.1_play_2.7

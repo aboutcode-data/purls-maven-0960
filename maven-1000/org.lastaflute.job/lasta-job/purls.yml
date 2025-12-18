@@ -166,3 +166,5 @@
 - pkg:maven/org.lastaflute.job/lasta-job@0.5.4-RC1
 - pkg:maven/org.lastaflute.job/lasta-job@0.5.4-RC1?classifier=sources
 - pkg:maven/org.lastaflute.job/lasta-job@0.5.4?classifier=sources
+- pkg:maven/org.lastaflute.job/lasta-job@0.5.5
+- pkg:maven/org.lastaflute.job/lasta-job@0.5.5?classifier=sources

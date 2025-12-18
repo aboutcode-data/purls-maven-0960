@@ -1,3 +1,8 @@
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.11.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.12.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.13.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.14.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.15.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.15.1?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.15.2?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@0.16.0?classifier=sources

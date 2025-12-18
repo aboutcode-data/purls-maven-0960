@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.11.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.11.3
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.11.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.11.4
+- pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.11.4?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.0
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.1
@@ -24,10 +26,14 @@
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.4
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.5
+- pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.12.5?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.13.0
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.13.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.13.1
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.13.1?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.13.2
+- pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.13.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.7.0
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.7.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-elasticsearch5_2.12@1.7.1

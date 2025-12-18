@@ -160,6 +160,8 @@
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev20200826-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev20200826-1.31.5
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev20200826-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev20200826-1.32.1
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev20200826-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v1-rev21-1.19.1
@@ -534,6 +536,14 @@
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210602-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210602-1.31.5
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210602-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210602-1.32.1
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210602-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210721-1.32.1
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210721-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210804-1.32.1
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210804-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210814-1.32.1
+- pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev20210814-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tagmanager@v2-rev21-1.25.0

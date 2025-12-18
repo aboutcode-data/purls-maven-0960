@@ -154,3 +154,5 @@
 - pkg:maven/org.webpieces/http-backpressure-tests@2.0.8?classifier=sources
 - pkg:maven/org.webpieces/http-backpressure-tests@2.0.9
 - pkg:maven/org.webpieces/http-backpressure-tests@2.0.9?classifier=sources
+- pkg:maven/org.webpieces/http-backpressure-tests@2.1.0?classifier=sources
+- pkg:maven/org.webpieces/http-backpressure-tests@2.1.1?classifier=sources

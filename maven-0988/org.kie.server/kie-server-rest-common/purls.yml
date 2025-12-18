@@ -178,6 +178,12 @@
 - pkg:maven/org.kie.server/kie-server-rest-common@7.55.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-rest-common@7.56.0.Final
 - pkg:maven/org.kie.server/kie-server-rest-common@7.56.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-rest-common@7.57.0.Final
+- pkg:maven/org.kie.server/kie-server-rest-common@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-rest-common@7.58.0.Final
+- pkg:maven/org.kie.server/kie-server-rest-common@7.58.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-rest-common@7.59.0.Final
+- pkg:maven/org.kie.server/kie-server-rest-common@7.59.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-rest-common@7.6.0.Final
 - pkg:maven/org.kie.server/kie-server-rest-common@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-rest-common@7.6.0.t022

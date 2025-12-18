@@ -33,6 +33,8 @@
 - pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.15-M1
 - pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.15-M1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.15?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.16
+- pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.16?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.2
 - pkg:maven/com.typesafe.akka/akka-serialization-jackson_2.12@2.6.2?classifier=sources

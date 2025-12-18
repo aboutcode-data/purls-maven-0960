@@ -1,3 +1,5 @@
+- pkg:maven/com.testerum/rdbms-steps@1.1-pre-alpha-21
+- pkg:maven/com.testerum/rdbms-steps@1.1-pre-alpha-21?classifier=sources
 - pkg:maven/com.testerum/rdbms-steps@4.0.1
 - pkg:maven/com.testerum/rdbms-steps@4.0.1?classifier=sources
 - pkg:maven/com.testerum/rdbms-steps@4.0.2

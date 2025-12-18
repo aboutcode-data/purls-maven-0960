@@ -14,6 +14,10 @@
 - pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.15.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.16.0
 - pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.16.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.17.0
+- pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.17.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.18.0
+- pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.18.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.2.0
 - pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.2.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-jetty-admin-login-service@0.3.0

@@ -70,7 +70,13 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.19?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.20
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.20?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.24
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.24?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.26
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.26?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.30
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.30?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.9
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@11.0.9?classifier=sources

@@ -1,5 +1,15 @@
 - pkg:maven/com.sap.cloud.security/java-api@2.10.0
 - pkg:maven/com.sap.cloud.security/java-api@2.10.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-api@2.10.1
+- pkg:maven/com.sap.cloud.security/java-api@2.10.1?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-api@2.10.2
+- pkg:maven/com.sap.cloud.security/java-api@2.10.2?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-api@2.10.3
+- pkg:maven/com.sap.cloud.security/java-api@2.10.3?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-api@2.10.4
+- pkg:maven/com.sap.cloud.security/java-api@2.10.4?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-api@2.10.5
+- pkg:maven/com.sap.cloud.security/java-api@2.10.5?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-api@2.5.1
 - pkg:maven/com.sap.cloud.security/java-api@2.5.1?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-api@2.5.2

@@ -36,3 +36,7 @@
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.8?classifier=sources
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.8E
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.8E?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.9
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.9?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.9E
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-core@2.4.9E?classifier=sources

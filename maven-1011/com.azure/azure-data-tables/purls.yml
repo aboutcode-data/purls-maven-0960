@@ -14,3 +14,7 @@
 - pkg:maven/com.azure/azure-data-tables@12.0.0-beta.7
 - pkg:maven/com.azure/azure-data-tables@12.0.0-beta.7?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.0.0?classifier=sources
+- pkg:maven/com.azure/azure-data-tables@12.1.0
+- pkg:maven/com.azure/azure-data-tables@12.1.0?classifier=sources
+- pkg:maven/com.azure/azure-data-tables@12.1.1
+- pkg:maven/com.azure/azure-data-tables@12.1.1?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/com.feingto.cloud/feingto-auto-configurations@2.5.2.RELEASE
+- pkg:maven/com.feingto.cloud/feingto-auto-configurations@2.5.2.RELEASE?classifier=sources
 - pkg:maven/com.feingto.cloud/feingto-auto-configurations@2020.0.2
 - pkg:maven/com.feingto.cloud/feingto-auto-configurations@2020.0.2?classifier=sources
+- pkg:maven/com.feingto.cloud/feingto-auto-configurations@2020.0.3
+- pkg:maven/com.feingto.cloud/feingto-auto-configurations@2020.0.3?classifier=sources

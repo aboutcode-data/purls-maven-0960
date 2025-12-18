@@ -74,3 +74,5 @@
 - pkg:maven/com.crivano/swaggerservlet@1.9.0?classifier=sources
 - pkg:maven/com.crivano/swaggerservlet@2.0.0
 - pkg:maven/com.crivano/swaggerservlet@2.0.0?classifier=sources
+- pkg:maven/com.crivano/swaggerservlet@2.0.1
+- pkg:maven/com.crivano/swaggerservlet@2.0.1?classifier=sources

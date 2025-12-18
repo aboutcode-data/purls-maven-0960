@@ -1,0 +1,4 @@
+- pkg:maven/uk.gov.gchq.palisade/client-s3@0.5.0-RELEASE
+- pkg:maven/uk.gov.gchq.palisade/client-s3@0.5.0-RELEASE?classifier=sources
+- pkg:maven/uk.gov.gchq.palisade/client-s3@0.5.1-RELEASE
+- pkg:maven/uk.gov.gchq.palisade/client-s3@0.5.1-RELEASE?classifier=sources

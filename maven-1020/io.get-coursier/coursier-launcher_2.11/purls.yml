@@ -48,6 +48,10 @@
 - pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.15
 - pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.15?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.16
+- pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.16%2B69-g69cab05e6
+- pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.16%2B69-g69cab05e6?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.16%2B73-gddc6d9cc9
+- pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.16%2B73-gddc6d9cc9?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.16?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.1?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher_2.11@2.0.2

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-pg-replication-slot@2.0.0-M2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-pg-replication-slot@2.0.0-M2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-pg-replication-slot@2.0.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-pg-replication-slot@2.1.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-pg-replication-slot@2.1.0?classifier=sources

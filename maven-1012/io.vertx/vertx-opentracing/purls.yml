@@ -36,3 +36,7 @@
 - pkg:maven/io.vertx/vertx-opentracing@4.1.0?classifier=sources
 - pkg:maven/io.vertx/vertx-opentracing@4.1.1
 - pkg:maven/io.vertx/vertx-opentracing@4.1.1?classifier=sources
+- pkg:maven/io.vertx/vertx-opentracing@4.1.2
+- pkg:maven/io.vertx/vertx-opentracing@4.1.2?classifier=sources
+- pkg:maven/io.vertx/vertx-opentracing@4.2.0.Beta1
+- pkg:maven/io.vertx/vertx-opentracing@4.2.0.Beta1?classifier=sources

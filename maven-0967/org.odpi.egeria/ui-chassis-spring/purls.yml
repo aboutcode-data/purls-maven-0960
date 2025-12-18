@@ -34,3 +34,5 @@
 - pkg:maven/org.odpi.egeria/ui-chassis-spring@2.8?classifier=sources
 - pkg:maven/org.odpi.egeria/ui-chassis-spring@2.9
 - pkg:maven/org.odpi.egeria/ui-chassis-spring@2.9?classifier=sources
+- pkg:maven/org.odpi.egeria/ui-chassis-spring@3.0
+- pkg:maven/org.odpi.egeria/ui-chassis-spring@3.0?classifier=sources

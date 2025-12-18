@@ -34,3 +34,5 @@
 - pkg:maven/com.ibm.cloud/common@0.0.8?classifier=sources
 - pkg:maven/com.ibm.cloud/common@0.0.9
 - pkg:maven/com.ibm.cloud/common@0.0.9?classifier=sources
+- pkg:maven/com.ibm.cloud/common@1.0.0
+- pkg:maven/com.ibm.cloud/common@1.0.0?classifier=sources

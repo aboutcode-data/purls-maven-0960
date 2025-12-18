@@ -4,3 +4,4 @@
 - pkg:maven/com.palantir.docker.compose/docker-compose-junit-jupiter@1.4.2?classifier=sources
 - pkg:maven/com.palantir.docker.compose/docker-compose-junit-jupiter@1.5.0
 - pkg:maven/com.palantir.docker.compose/docker-compose-junit-jupiter@1.5.0?classifier=sources
+- pkg:maven/com.palantir.docker.compose/docker-compose-junit-jupiter@1.7.0?classifier=sources

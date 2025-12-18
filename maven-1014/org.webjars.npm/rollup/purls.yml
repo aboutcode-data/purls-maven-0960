@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/rollup@0.62.0?classifier=sources
 - pkg:maven/org.webjars.npm/rollup@2.10.9
 - pkg:maven/org.webjars.npm/rollup@2.10.9?classifier=sources
+- pkg:maven/org.webjars.npm/rollup@2.54.0
+- pkg:maven/org.webjars.npm/rollup@2.54.0?classifier=sources

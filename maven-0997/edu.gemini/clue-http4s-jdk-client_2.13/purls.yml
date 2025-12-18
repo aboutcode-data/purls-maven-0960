@@ -1,2 +1,6 @@
 - pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.16.0
 - pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.16.0?classifier=sources
+- pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.16.1
+- pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.16.1?classifier=sources
+- pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.17.0
+- pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.17.0?classifier=sources

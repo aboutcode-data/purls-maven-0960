@@ -16,6 +16,7 @@
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.20.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.21.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.22.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-test-utils@4.23.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.4.0
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.4.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.5.0
@@ -32,3 +33,7 @@
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.8.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.9.0
 - pkg:maven/com.palantir.tracing/tracing-test-utils@4.9.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-test-utils@5.0.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-test-utils@5.1.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-test-utils@6.0.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-test-utils@6.1.0?classifier=sources

@@ -9,4 +9,6 @@
 - pkg:maven/com.dtflys.forest/forest-spring-boot-starter@1.5.1-BETA?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-spring-boot-starter@1.5.1?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-spring-boot-starter@1.5.2-BETA
+- pkg:maven/com.dtflys.forest/forest-spring-boot-starter@1.5.2-BETA2
+- pkg:maven/com.dtflys.forest/forest-spring-boot-starter@1.5.2-BETA2?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-spring-boot-starter@1.5.2-BETA?classifier=sources

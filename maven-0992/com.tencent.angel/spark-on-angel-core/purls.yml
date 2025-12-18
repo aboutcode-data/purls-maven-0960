@@ -38,3 +38,5 @@
 - pkg:maven/com.tencent.angel/spark-on-angel-core@2.4.0?classifier=sources
 - pkg:maven/com.tencent.angel/spark-on-angel-core@3.1.0
 - pkg:maven/com.tencent.angel/spark-on-angel-core@3.1.0?classifier=sources
+- pkg:maven/com.tencent.angel/spark-on-angel-core@3.2.0
+- pkg:maven/com.tencent.angel/spark-on-angel-core@3.2.0?classifier=sources

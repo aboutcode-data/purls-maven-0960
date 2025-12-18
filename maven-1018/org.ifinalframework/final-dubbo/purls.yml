@@ -2,5 +2,7 @@
 - pkg:maven/org.ifinalframework/final-dubbo@1.2.0-alpha
 - pkg:maven/org.ifinalframework/final-dubbo@1.2.0-alpha?classifier=sources
 - pkg:maven/org.ifinalframework/final-dubbo@1.2.0?classifier=sources
+- pkg:maven/org.ifinalframework/final-dubbo@1.2.1
 - pkg:maven/org.ifinalframework/final-dubbo@1.2.1-alpha
 - pkg:maven/org.ifinalframework/final-dubbo@1.2.1-alpha?classifier=sources
+- pkg:maven/org.ifinalframework/final-dubbo@1.2.1?classifier=sources

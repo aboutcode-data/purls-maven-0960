@@ -1,2 +1,4 @@
 - pkg:maven/com.splendo.kaluga/test-utils-jvm@0.1.10?classifier=sources
 - pkg:maven/com.splendo.kaluga/test-utils-jvm@0.1.11?classifier=sources
+- pkg:maven/com.splendo.kaluga/test-utils-jvm@0.2.0?classifier=sources
+- pkg:maven/com.splendo.kaluga/test-utils-jvm@0.2.1?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.0?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.1
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.1?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.2-RC1
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.2-RC1?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.2-RC2
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.1.2-RC2?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/com.senspark.ee/ads@2.10.0?classifier=sources
+- pkg:maven/com.senspark.ee/ads@2.10.1?classifier=sources
+- pkg:maven/com.senspark.ee/ads@2.10.2?classifier=sources
+- pkg:maven/com.senspark.ee/ads@2.10.3?classifier=sources
 - pkg:maven/com.senspark.ee/ads@2.7.0?classifier=sources
 - pkg:maven/com.senspark.ee/ads@2.7.1?classifier=sources
 - pkg:maven/com.senspark.ee/ads@2.7.2?classifier=sources
@@ -6,3 +10,4 @@
 - pkg:maven/com.senspark.ee/ads@2.8.0?classifier=sources
 - pkg:maven/com.senspark.ee/ads@2.8.1?classifier=sources
 - pkg:maven/com.senspark.ee/ads@2.9.0?classifier=sources
+- pkg:maven/com.senspark.ee/ads@2.9.2?classifier=sources

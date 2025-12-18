@@ -460,6 +460,13 @@
 - pkg:maven/org.http4k/http4k-security-oauth@4.1.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.1.2.1
 - pkg:maven/org.http4k/http4k-security-oauth@4.1.2.1?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.10.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.10.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.10.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.11.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.11.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.12.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.12.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.2.0.0
 - pkg:maven/org.http4k/http4k-security-oauth@4.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.3.0.0
@@ -498,6 +505,7 @@
 - pkg:maven/org.http4k/http4k-security-oauth@4.9.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.9.0.2?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.9.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.9.10.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.9.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.9.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.9.3.1?classifier=sources

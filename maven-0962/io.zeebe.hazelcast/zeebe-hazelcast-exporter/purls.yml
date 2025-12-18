@@ -32,3 +32,5 @@
 - pkg:maven/io.zeebe.hazelcast/zeebe-hazelcast-exporter@0.9.1?classifier=sources
 - pkg:maven/io.zeebe.hazelcast/zeebe-hazelcast-exporter@1.0.0
 - pkg:maven/io.zeebe.hazelcast/zeebe-hazelcast-exporter@1.0.0?classifier=sources
+- pkg:maven/io.zeebe.hazelcast/zeebe-hazelcast-exporter@1.0.1
+- pkg:maven/io.zeebe.hazelcast/zeebe-hazelcast-exporter@1.0.1?classifier=sources

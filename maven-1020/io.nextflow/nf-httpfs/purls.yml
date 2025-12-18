@@ -102,5 +102,11 @@
 - pkg:maven/io.nextflow/nf-httpfs@21.04.1-edge
 - pkg:maven/io.nextflow/nf-httpfs@21.04.1-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-httpfs@21.04.1?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@21.04.2
+- pkg:maven/io.nextflow/nf-httpfs@21.04.2?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@21.04.3
+- pkg:maven/io.nextflow/nf-httpfs@21.04.3?classifier=sources
 - pkg:maven/io.nextflow/nf-httpfs@21.05.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-httpfs@21.06.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@21.07.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@21.08.0-edge?classifier=sources

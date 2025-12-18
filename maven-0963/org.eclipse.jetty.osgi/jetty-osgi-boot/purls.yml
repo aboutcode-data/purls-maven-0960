@@ -24,6 +24,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.4?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.5
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.5?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.6
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.0
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.0-alpha0?classifier=sources
@@ -44,6 +46,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.4?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.5
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.5?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.6
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@7.0.2.RC0
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@7.0.2.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@7.0.2.v20100331
@@ -568,6 +572,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.41.v20210516?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.42.v20210604
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.42.v20210604?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.43.v20210629
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.43.v20210629?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.5.v20170502
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.5.v20180619

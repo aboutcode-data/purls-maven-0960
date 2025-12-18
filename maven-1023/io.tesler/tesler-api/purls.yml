@@ -36,6 +36,8 @@
 - pkg:maven/io.tesler/tesler-api@2.3.0.RC4
 - pkg:maven/io.tesler/tesler-api@2.3.0.RC4?classifier=sources
 - pkg:maven/io.tesler/tesler-api@2.3.0?classifier=sources
+- pkg:maven/io.tesler/tesler-api@3.0.0.0
+- pkg:maven/io.tesler/tesler-api@3.0.0.0?classifier=sources
 - pkg:maven/io.tesler/tesler-api@3.0.0.M1
 - pkg:maven/io.tesler/tesler-api@3.0.0.M10
 - pkg:maven/io.tesler/tesler-api@3.0.0.M10?classifier=sources
@@ -45,6 +47,8 @@
 - pkg:maven/io.tesler/tesler-api@3.0.0.M12?classifier=sources
 - pkg:maven/io.tesler/tesler-api@3.0.0.M13
 - pkg:maven/io.tesler/tesler-api@3.0.0.M13?classifier=sources
+- pkg:maven/io.tesler/tesler-api@3.0.0.M14
+- pkg:maven/io.tesler/tesler-api@3.0.0.M14?classifier=sources
 - pkg:maven/io.tesler/tesler-api@3.0.0.M1?classifier=sources
 - pkg:maven/io.tesler/tesler-api@3.0.0.M2
 - pkg:maven/io.tesler/tesler-api@3.0.0.M2?classifier=sources
@@ -62,3 +66,9 @@
 - pkg:maven/io.tesler/tesler-api@3.0.0.M8?classifier=sources
 - pkg:maven/io.tesler/tesler-api@3.0.0.M9
 - pkg:maven/io.tesler/tesler-api@3.0.0.M9?classifier=sources
+- pkg:maven/io.tesler/tesler-api@3.0.1
+- pkg:maven/io.tesler/tesler-api@3.0.1?classifier=sources
+- pkg:maven/io.tesler/tesler-api@3.0.2
+- pkg:maven/io.tesler/tesler-api@3.0.2?classifier=sources
+- pkg:maven/io.tesler/tesler-api@3.0.3
+- pkg:maven/io.tesler/tesler-api@3.0.3?classifier=sources

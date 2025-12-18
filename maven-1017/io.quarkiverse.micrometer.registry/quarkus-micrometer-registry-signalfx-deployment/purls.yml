@@ -20,3 +20,7 @@
 - pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.0.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.0.0.CR3
 - pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.0.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.0.2
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.0.2?classifier=sources
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.1.0
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-signalfx-deployment@2.1.0?classifier=sources

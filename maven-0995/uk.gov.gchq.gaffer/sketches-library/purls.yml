@@ -96,6 +96,10 @@
 - pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.16.1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.17.0
 - pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.17.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.17.1
+- pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.17.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.18.0
+- pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.18.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.2.0
 - pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.2.0-RC1
 - pkg:maven/uk.gov.gchq.gaffer/sketches-library@1.2.0-RC1?classifier=sources

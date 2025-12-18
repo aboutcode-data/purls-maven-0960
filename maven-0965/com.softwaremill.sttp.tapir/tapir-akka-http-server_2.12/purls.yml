@@ -163,6 +163,8 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.19?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.2
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.20
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.20?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.3
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.3?classifier=sources
@@ -178,6 +180,7 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.8?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.9
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.17.9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M1
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M10
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M10?classifier=sources
@@ -187,6 +190,8 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M15?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M17
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M17?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M18
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M18?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M2
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M2?classifier=sources
@@ -200,3 +205,20 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M8?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M9
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0-M9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.18.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M2
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M2?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M4
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M4?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M5
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M5?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M7
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-akka-http-server_2.12@0.19.0-M7?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.phenoscape/owlet_2.12@1.8.1
 - pkg:maven/org.phenoscape/owlet_2.12@1.8.1?classifier=sources
 - pkg:maven/org.phenoscape/owlet_2.12@1.8?classifier=sources
+- pkg:maven/org.phenoscape/owlet_2.12@1.9
+- pkg:maven/org.phenoscape/owlet_2.12@1.9?classifier=sources

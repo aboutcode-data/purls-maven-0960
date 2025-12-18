@@ -1,3 +1,5 @@
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.10.0
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.10.0?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.2.2
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.2.2?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.2.3
@@ -48,3 +50,5 @@
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.8.2?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.9.0
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.9.0?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.9.1
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_sjs1_2.12@2.9.1?classifier=sources

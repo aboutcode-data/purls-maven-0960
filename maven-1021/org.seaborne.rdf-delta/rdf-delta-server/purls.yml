@@ -34,3 +34,5 @@
 - pkg:maven/org.seaborne.rdf-delta/rdf-delta-server@0.9.2?classifier=sources
 - pkg:maven/org.seaborne.rdf-delta/rdf-delta-server@1.0.0
 - pkg:maven/org.seaborne.rdf-delta/rdf-delta-server@1.0.0?classifier=sources
+- pkg:maven/org.seaborne.rdf-delta/rdf-delta-server@1.0.1
+- pkg:maven/org.seaborne.rdf-delta/rdf-delta-server@1.0.1?classifier=sources

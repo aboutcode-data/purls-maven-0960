@@ -1,2 +1,4 @@
 - pkg:maven/ru.stm-labs.rpc/rpc-kakfa-redis@1.0.0.RELEASE
 - pkg:maven/ru.stm-labs.rpc/rpc-kakfa-redis@1.0.0.RELEASE?classifier=sources
+- pkg:maven/ru.stm-labs.rpc/rpc-kakfa-redis@1.1.0
+- pkg:maven/ru.stm-labs.rpc/rpc-kakfa-redis@1.1.0?classifier=sources

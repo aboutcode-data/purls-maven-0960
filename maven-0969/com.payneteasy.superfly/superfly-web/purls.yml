@@ -102,6 +102,10 @@
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-1?type=war
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-20?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-20?type=war
+- pkg:maven/com.payneteasy.superfly/superfly-web@1.7-21?classifier=sources
+- pkg:maven/com.payneteasy.superfly/superfly-web@1.7-21?type=war
+- pkg:maven/com.payneteasy.superfly/superfly-web@1.7-22?classifier=sources
+- pkg:maven/com.payneteasy.superfly/superfly-web@1.7-22?type=war
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-2?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-2?type=war
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-3?classifier=sources

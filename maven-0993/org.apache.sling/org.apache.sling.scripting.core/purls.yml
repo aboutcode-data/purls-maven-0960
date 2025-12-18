@@ -96,3 +96,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.core@2.3.6
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.core@2.3.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.core@2.3.6?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.core@2.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.core@2.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.core@2.4.0?classifier=sources

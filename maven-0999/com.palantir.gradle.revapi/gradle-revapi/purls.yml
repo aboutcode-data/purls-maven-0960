@@ -58,3 +58,4 @@
 - pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.4.3?classifier=sources
 - pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.4.4
 - pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.4.4?classifier=sources
+- pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.5.0?classifier=sources

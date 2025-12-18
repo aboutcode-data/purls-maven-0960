@@ -139,3 +139,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.2
 - pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.3
+- pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.4
+- pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.dao.orm.custom.sql.impl@4.0.4?classifier=sources-commercial

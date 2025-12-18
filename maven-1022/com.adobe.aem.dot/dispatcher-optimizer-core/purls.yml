@@ -8,6 +8,8 @@
 - pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.16?classifier=sources
 - pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.18
 - pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.18?classifier=sources
+- pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.20
+- pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.20?classifier=sources
 - pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.6
 - pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.6?classifier=sources
 - pkg:maven/com.adobe.aem.dot/dispatcher-optimizer-core@1.0.8

@@ -130,3 +130,7 @@
 - pkg:maven/org.t-io/tio-http-server@3.7.1.v20210106-RELEASE?classifier=sources
 - pkg:maven/org.t-io/tio-http-server@3.7.2.v20210316-RELEASE
 - pkg:maven/org.t-io/tio-http-server@3.7.2.v20210316-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-http-server@3.7.3.v20210706-RELEASE
+- pkg:maven/org.t-io/tio-http-server@3.7.3.v20210706-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-http-server@3.7.4.v20210808-RELEASE
+- pkg:maven/org.t-io/tio-http-server@3.7.4.v20210808-RELEASE?classifier=sources

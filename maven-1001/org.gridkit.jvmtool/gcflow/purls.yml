@@ -22,6 +22,8 @@
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.17?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.18
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.18?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.19
+- pkg:maven/org.gridkit.jvmtool/gcflow@0.19?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.2
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.2?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/gcflow@0.3

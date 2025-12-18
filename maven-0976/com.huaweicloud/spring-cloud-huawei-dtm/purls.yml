@@ -40,5 +40,9 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.5.9-Hoxton?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.0-Finchley
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.0-Finchley?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.0-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.0-Greenwich?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.0-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.0-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.1-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-dtm@1.6.1-Hoxton?classifier=sources

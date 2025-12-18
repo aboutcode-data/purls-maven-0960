@@ -3,3 +3,4 @@
 - pkg:maven/io.temporal/temporal-opentracing@1.0.9?classifier=sources
 - pkg:maven/io.temporal/temporal-opentracing@1.1.0.txt?classifier=sources
 - pkg:maven/io.temporal/temporal-opentracing@1.1.0?classifier=sources
+- pkg:maven/io.temporal/temporal-opentracing@1.2.0?classifier=sources

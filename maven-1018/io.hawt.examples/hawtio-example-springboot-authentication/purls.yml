@@ -36,6 +36,8 @@
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.13.4?type=war
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.13.5?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.13.5?type=war
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.13.6?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.13.6?type=war
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.2.0?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.2.0?type=war
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-authentication@2.3.0?classifier=sources

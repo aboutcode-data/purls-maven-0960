@@ -264,3 +264,5 @@
 - pkg:maven/com.guicedee.services/mapstruct@1.1.1.9-jre15?classifier=sources
 - pkg:maven/com.guicedee.services/mapstruct@1.1.1.9-jre16
 - pkg:maven/com.guicedee.services/mapstruct@1.1.1.9-jre16?classifier=sources
+- pkg:maven/com.guicedee.services/mapstruct@1.2.0.0-jre16
+- pkg:maven/com.guicedee.services/mapstruct@1.2.0.0-jre16?classifier=sources

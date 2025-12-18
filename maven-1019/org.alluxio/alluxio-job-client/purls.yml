@@ -46,3 +46,5 @@
 - pkg:maven/org.alluxio/alluxio-job-client@2.5.0?classifier=sources
 - pkg:maven/org.alluxio/alluxio-job-client@2.6.0
 - pkg:maven/org.alluxio/alluxio-job-client@2.6.0?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-client@2.6.1
+- pkg:maven/org.alluxio/alluxio-job-client@2.6.1?classifier=sources

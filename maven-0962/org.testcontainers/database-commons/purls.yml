@@ -58,6 +58,7 @@
 - pkg:maven/org.testcontainers/database-commons@1.15.2?classifier=sources
 - pkg:maven/org.testcontainers/database-commons@1.15.3
 - pkg:maven/org.testcontainers/database-commons@1.15.3?classifier=sources
+- pkg:maven/org.testcontainers/database-commons@1.16.0?classifier=sources
 - pkg:maven/org.testcontainers/database-commons@1.7.0
 - pkg:maven/org.testcontainers/database-commons@1.7.0?classifier=sources
 - pkg:maven/org.testcontainers/database-commons@1.7.1

@@ -38,6 +38,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.20
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.21
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@1.0.3
@@ -101,6 +104,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.20
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.21
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@2.0.3
@@ -184,3 +190,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.4
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.5
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.6
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.7
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.inactive.request.handler@4.0.7?classifier=sources-commercial

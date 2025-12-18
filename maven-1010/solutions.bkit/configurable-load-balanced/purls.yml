@@ -1,0 +1,4 @@
+- pkg:maven/solutions.bkit/configurable-load-balanced@0.0.1
+- pkg:maven/solutions.bkit/configurable-load-balanced@0.0.1?classifier=sources
+- pkg:maven/solutions.bkit/configurable-load-balanced@0.0.2
+- pkg:maven/solutions.bkit/configurable-load-balanced@0.0.2?classifier=sources

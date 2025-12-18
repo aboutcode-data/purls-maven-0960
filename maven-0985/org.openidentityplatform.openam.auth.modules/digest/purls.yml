@@ -16,3 +16,5 @@
 - pkg:maven/org.openidentityplatform.openam.auth.modules/digest@14.6.2.1?type=war
 - pkg:maven/org.openidentityplatform.openam.auth.modules/digest@14.6.3.1?classifier=sources
 - pkg:maven/org.openidentityplatform.openam.auth.modules/digest@14.6.3.1?type=war
+- pkg:maven/org.openidentityplatform.openam.auth.modules/digest@14.6.4.1?classifier=sources
+- pkg:maven/org.openidentityplatform.openam.auth.modules/digest@14.6.4.1?type=war

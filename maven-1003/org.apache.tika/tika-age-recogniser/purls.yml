@@ -1,4 +1,8 @@
+- pkg:maven/org.apache.tika/tika-age-recogniser@2.0.0
 - pkg:maven/org.apache.tika/tika-age-recogniser@2.0.0-ALPHA
 - pkg:maven/org.apache.tika/tika-age-recogniser@2.0.0-ALPHA?classifier=sources
 - pkg:maven/org.apache.tika/tika-age-recogniser@2.0.0-BETA
 - pkg:maven/org.apache.tika/tika-age-recogniser@2.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.tika/tika-age-recogniser@2.0.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-age-recogniser@2.1.0
+- pkg:maven/org.apache.tika/tika-age-recogniser@2.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.16.0
 - pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.16.0?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.16.1
+- pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.16.1?classifier=sources

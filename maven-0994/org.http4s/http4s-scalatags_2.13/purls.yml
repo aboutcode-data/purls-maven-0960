@@ -55,6 +55,10 @@
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.23?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.24
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.24?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.25
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.25?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.26
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.26?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.2?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.3
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.21.3?classifier=sources
@@ -78,6 +82,7 @@
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22-53-01128f5?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22-96-55d3184
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22-96-55d3184?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0-M1
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0-M1?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0-M2
@@ -96,10 +101,19 @@
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0-M8?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0-RC1
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0-RC1?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.0?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.1
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.1?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.2
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.22.2?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.0
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.0-M1
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.0-M1?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.0-RC1
 - pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.0-RC1?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.0?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.1
+- pkg:maven/org.http4s/http4s-scalatags_2.13@0.23.1?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0-10-df008e1
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0-10-df008e1?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0-103-5f6e845
@@ -171,6 +185,8 @@
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M22?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M23
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M23?classifier=sources
+- pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M24
+- pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M24?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M2?classifier=sources
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M3
 - pkg:maven/org.http4s/http4s-scalatags_2.13@1.0.0-M3?classifier=sources

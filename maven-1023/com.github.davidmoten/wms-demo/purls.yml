@@ -6,5 +6,11 @@
 - pkg:maven/com.github.davidmoten/wms-demo@0.2.4?type=war
 - pkg:maven/com.github.davidmoten/wms-demo@0.3.0.1?classifier=sources
 - pkg:maven/com.github.davidmoten/wms-demo@0.3.0.1?type=war
+- pkg:maven/com.github.davidmoten/wms-demo@0.3.1?classifier=sources
+- pkg:maven/com.github.davidmoten/wms-demo@0.3.1?type=war
+- pkg:maven/com.github.davidmoten/wms-demo@0.3.2?classifier=sources
+- pkg:maven/com.github.davidmoten/wms-demo@0.3.2?type=war
 - pkg:maven/com.github.davidmoten/wms-demo@0.3?classifier=sources
 - pkg:maven/com.github.davidmoten/wms-demo@0.3?type=war
+- pkg:maven/com.github.davidmoten/wms-demo@0.4.0?classifier=sources
+- pkg:maven/com.github.davidmoten/wms-demo@0.4.0?type=war

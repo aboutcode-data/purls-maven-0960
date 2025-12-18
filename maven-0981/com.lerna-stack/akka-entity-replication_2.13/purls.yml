@@ -1,2 +1,4 @@
 - pkg:maven/com.lerna-stack/akka-entity-replication_2.13@1.0.0
 - pkg:maven/com.lerna-stack/akka-entity-replication_2.13@1.0.0?classifier=sources
+- pkg:maven/com.lerna-stack/akka-entity-replication_2.13@2.0.0
+- pkg:maven/com.lerna-stack/akka-entity-replication_2.13@2.0.0?classifier=sources

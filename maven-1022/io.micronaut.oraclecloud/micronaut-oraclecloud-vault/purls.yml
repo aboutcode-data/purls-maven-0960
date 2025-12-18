@@ -1,1 +1,6 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-vault@1.4.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-vault@1.4.1?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-vault@1.4.2?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-vault@1.4.3?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-vault@2.0.0-RC1?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-vault@2.0.0?classifier=sources

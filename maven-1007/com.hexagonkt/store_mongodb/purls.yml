@@ -16,6 +16,7 @@
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.18?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.19?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.1?classifier=sources
+- pkg:maven/com.hexagonkt/store_mongodb@1.3.20?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.2?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.3?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.4?classifier=sources
@@ -24,3 +25,5 @@
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.7?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.8?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.3.9?classifier=sources
+- pkg:maven/com.hexagonkt/store_mongodb@1.4.0?classifier=sources
+- pkg:maven/com.hexagonkt/store_mongodb@1.4.1?classifier=sources

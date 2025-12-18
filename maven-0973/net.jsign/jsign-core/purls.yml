@@ -6,3 +6,5 @@
 - pkg:maven/net.jsign/jsign-core@3.0?classifier=sources
 - pkg:maven/net.jsign/jsign-core@3.1
 - pkg:maven/net.jsign/jsign-core@3.1?classifier=sources
+- pkg:maven/net.jsign/jsign-core@4.0
+- pkg:maven/net.jsign/jsign-core@4.0?classifier=sources

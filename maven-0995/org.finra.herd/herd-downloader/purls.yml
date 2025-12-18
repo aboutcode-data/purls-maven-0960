@@ -70,6 +70,10 @@
 - pkg:maven/org.finra.herd/herd-downloader@0.149.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-downloader@0.150.0
 - pkg:maven/org.finra.herd/herd-downloader@0.150.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-downloader@0.152.0
+- pkg:maven/org.finra.herd/herd-downloader@0.152.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-downloader@0.154.0
+- pkg:maven/org.finra.herd/herd-downloader@0.154.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-downloader@0.20.0
 - pkg:maven/org.finra.herd/herd-downloader@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-downloader@0.21.0

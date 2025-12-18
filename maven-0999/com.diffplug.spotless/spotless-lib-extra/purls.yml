@@ -121,6 +121,9 @@
 - pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.13.5?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.14.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.15.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.15.1?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.15.2?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.15.3?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.2.0
 - pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.2.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-lib-extra@2.2.1

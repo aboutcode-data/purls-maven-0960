@@ -38,3 +38,5 @@
 - pkg:maven/org.odpi.egeria/asset-consumer-fvt@2.8?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-consumer-fvt@2.9
 - pkg:maven/org.odpi.egeria/asset-consumer-fvt@2.9?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-consumer-fvt@3.0
+- pkg:maven/org.odpi.egeria/asset-consumer-fvt@3.0?classifier=sources

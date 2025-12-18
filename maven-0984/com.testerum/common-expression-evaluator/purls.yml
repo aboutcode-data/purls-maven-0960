@@ -1,3 +1,7 @@
+- pkg:maven/com.testerum/common-expression-evaluator@1.1-pre-alpha-19
+- pkg:maven/com.testerum/common-expression-evaluator@1.1-pre-alpha-19?classifier=sources
+- pkg:maven/com.testerum/common-expression-evaluator@1.1-pre-alpha-21
+- pkg:maven/com.testerum/common-expression-evaluator@1.1-pre-alpha-21?classifier=sources
 - pkg:maven/com.testerum/common-expression-evaluator@4.0.1
 - pkg:maven/com.testerum/common-expression-evaluator@4.0.1?classifier=sources
 - pkg:maven/com.testerum/common-expression-evaluator@4.0.2

@@ -81,6 +81,8 @@
 - pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.2
 - pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.20
 - pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.20?classifier=sources
+- pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.21
+- pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.21?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.2?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.4
 - pkg:maven/com.salesforce.cantor/cantor-grpc-client@0.4.4?classifier=sources

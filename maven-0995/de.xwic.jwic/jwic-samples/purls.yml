@@ -94,6 +94,8 @@
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.41?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.42?classifier=sources
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.42?type=war
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.43?classifier=sources
+- pkg:maven/de.xwic.jwic/jwic-samples@5.3.43?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.4?classifier=sources
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.4?type=war
 - pkg:maven/de.xwic.jwic/jwic-samples@5.3.5?classifier=sources

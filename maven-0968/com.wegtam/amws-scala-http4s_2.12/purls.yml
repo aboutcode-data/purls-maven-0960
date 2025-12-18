@@ -1,2 +1,4 @@
 - pkg:maven/com.wegtam/amws-scala-http4s_2.12@0.5.4
 - pkg:maven/com.wegtam/amws-scala-http4s_2.12@0.5.4?classifier=sources
+- pkg:maven/com.wegtam/amws-scala-http4s_2.12@0.5.5
+- pkg:maven/com.wegtam/amws-scala-http4s_2.12@0.5.5?classifier=sources

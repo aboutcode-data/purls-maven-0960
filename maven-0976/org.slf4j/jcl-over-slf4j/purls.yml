@@ -87,6 +87,8 @@
 - pkg:maven/org.slf4j/jcl-over-slf4j@1.7.30?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@1.7.31
 - pkg:maven/org.slf4j/jcl-over-slf4j@1.7.31?classifier=sources
+- pkg:maven/org.slf4j/jcl-over-slf4j@1.7.32
+- pkg:maven/org.slf4j/jcl-over-slf4j@1.7.32?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@1.7.3?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@1.7.4
 - pkg:maven/org.slf4j/jcl-over-slf4j@1.7.4?classifier=sources
@@ -120,3 +122,7 @@
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha1?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha2
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha2?classifier=sources
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha3
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha3?classifier=sources
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha4
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha4?classifier=sources

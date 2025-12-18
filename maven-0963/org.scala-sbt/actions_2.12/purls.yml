@@ -164,3 +164,5 @@
 - pkg:maven/org.scala-sbt/actions_2.12@1.5.3?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.5.4
 - pkg:maven/org.scala-sbt/actions_2.12@1.5.4?classifier=sources
+- pkg:maven/org.scala-sbt/actions_2.12@1.5.5
+- pkg:maven/org.scala-sbt/actions_2.12@1.5.5?classifier=sources

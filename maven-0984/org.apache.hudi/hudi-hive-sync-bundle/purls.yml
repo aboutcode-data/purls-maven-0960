@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.hudi/hudi-hive-sync-bundle@0.7.0?classifier=sources
 - pkg:maven/org.apache.hudi/hudi-hive-sync-bundle@0.8.0
 - pkg:maven/org.apache.hudi/hudi-hive-sync-bundle@0.8.0?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-hive-sync-bundle@0.9.0
+- pkg:maven/org.apache.hudi/hudi-hive-sync-bundle@0.9.0?classifier=sources

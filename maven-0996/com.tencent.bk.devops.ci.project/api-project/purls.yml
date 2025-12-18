@@ -20,6 +20,8 @@
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.5.0-alpha.3-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.5.0-alpha.5-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.5.2-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.5.21-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.5.7-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.5.8-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.6.0-RC.11-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@1.6.0-RC.9-RELEASE?classifier=sources

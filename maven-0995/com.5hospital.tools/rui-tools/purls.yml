@@ -1,2 +1,8 @@
+- pkg:maven/com.5hospital.tools/rui-tools@0.0.1
+- pkg:maven/com.5hospital.tools/rui-tools@0.0.1?classifier=sources
+- pkg:maven/com.5hospital.tools/rui-tools@0.0.2
+- pkg:maven/com.5hospital.tools/rui-tools@0.0.2?classifier=sources
+- pkg:maven/com.5hospital.tools/rui-tools@0.0.3
+- pkg:maven/com.5hospital.tools/rui-tools@0.0.3?classifier=sources
 - pkg:maven/com.5hospital.tools/rui-tools@2.4.1.1
 - pkg:maven/com.5hospital.tools/rui-tools@2.4.1.1?classifier=sources

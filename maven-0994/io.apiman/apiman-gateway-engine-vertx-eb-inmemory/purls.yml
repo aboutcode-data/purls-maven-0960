@@ -60,3 +60,5 @@
 - pkg:maven/io.apiman/apiman-gateway-engine-vertx-eb-inmemory@1.5.7.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-engine-vertx-eb-inmemory@2.0.0.Final
 - pkg:maven/io.apiman/apiman-gateway-engine-vertx-eb-inmemory@2.0.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-engine-vertx-eb-inmemory@2.1.0.Final
+- pkg:maven/io.apiman/apiman-gateway-engine-vertx-eb-inmemory@2.1.0.Final?classifier=sources

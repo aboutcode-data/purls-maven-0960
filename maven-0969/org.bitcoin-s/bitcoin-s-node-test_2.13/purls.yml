@@ -1,2 +1,4 @@
 - pkg:maven/org.bitcoin-s/bitcoin-s-node-test_2.13@0.6.0
 - pkg:maven/org.bitcoin-s/bitcoin-s-node-test_2.13@0.6.0?classifier=sources
+- pkg:maven/org.bitcoin-s/bitcoin-s-node-test_2.13@1.7.0
+- pkg:maven/org.bitcoin-s/bitcoin-s-node-test_2.13@1.7.0?classifier=sources

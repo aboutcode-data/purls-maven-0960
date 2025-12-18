@@ -241,7 +241,11 @@
 - pkg:maven/io.cloudslang/score-queue-api@0.3.236?classifier=sources
 - pkg:maven/io.cloudslang/score-queue-api@0.3.237
 - pkg:maven/io.cloudslang/score-queue-api@0.3.237?classifier=sources
+- pkg:maven/io.cloudslang/score-queue-api@0.3.239
+- pkg:maven/io.cloudslang/score-queue-api@0.3.239?classifier=sources
 - pkg:maven/io.cloudslang/score-queue-api@0.3.23?classifier=sources
+- pkg:maven/io.cloudslang/score-queue-api@0.3.240
+- pkg:maven/io.cloudslang/score-queue-api@0.3.240?classifier=sources
 - pkg:maven/io.cloudslang/score-queue-api@0.3.25
 - pkg:maven/io.cloudslang/score-queue-api@0.3.25?classifier=sources
 - pkg:maven/io.cloudslang/score-queue-api@0.3.26
