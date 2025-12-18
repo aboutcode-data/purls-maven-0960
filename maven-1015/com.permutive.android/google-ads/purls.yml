@@ -54,6 +54,7 @@
 - pkg:maven/com.permutive.android/google-ads@1.4.4?type=aar
 - pkg:maven/com.permutive.android/google-ads@1.5.0?classifier=sources
 - pkg:maven/com.permutive.android/google-ads@1.5.0?type=aar
+- pkg:maven/com.permutive.android/google-ads@1.5.12?classifier=sources
 - pkg:maven/com.permutive.android/google-ads@1.5.1?classifier=sources
 - pkg:maven/com.permutive.android/google-ads@1.5.1?type=aar
 - pkg:maven/com.permutive.android/google-ads@1.5.2?classifier=sources

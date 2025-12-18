@@ -48,3 +48,7 @@
 - pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@6.2.2?classifier=sources
 - pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@6.2.3
 - pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@6.2.3?classifier=sources
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@6.2.4
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@6.2.4?classifier=sources
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@7.0.0-M1
+- pkg:maven/org.glassfish.main.web/weld-integration-test-fragment@7.0.0-M1?classifier=sources

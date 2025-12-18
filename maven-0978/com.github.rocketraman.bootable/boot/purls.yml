@@ -1,1 +1,4 @@
 - pkg:maven/com.github.rocketraman.bootable/boot@0.2?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot@0.3?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot@0.4?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot@0.5?classifier=sources

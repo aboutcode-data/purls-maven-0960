@@ -1,6 +1,7 @@
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.1
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.10
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.10?classifier=sources
+- pkg:maven/info.unterrainer.commons/rest-client@0.0.12?classifier=sources
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.2
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.2?classifier=sources

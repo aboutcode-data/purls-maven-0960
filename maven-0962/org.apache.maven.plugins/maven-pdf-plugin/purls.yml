@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-pdf-plugin@1.4
 - pkg:maven/org.apache.maven.plugins/maven-pdf-plugin@1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-pdf-plugin@1.4?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-pdf-plugin@1.5.1
+- pkg:maven/org.apache.maven.plugins/maven-pdf-plugin@1.5.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-pdf-plugin@1.5.1?classifier=sources

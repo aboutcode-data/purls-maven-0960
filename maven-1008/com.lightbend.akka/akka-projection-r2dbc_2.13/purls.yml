@@ -2,3 +2,5 @@
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.2.0?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.3.0
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.3.0?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.4.0
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.4.0?classifier=sources

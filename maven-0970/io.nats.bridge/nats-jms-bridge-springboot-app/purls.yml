@@ -1,3 +1,5 @@
 - pkg:maven/io.nats.bridge/nats-jms-bridge-springboot-app@0.0.0-notforuse-06?classifier=sources
 - pkg:maven/io.nats.bridge/nats-jms-bridge-springboot-app@0.29.0-beta-28?classifier=sources
 - pkg:maven/io.nats.bridge/nats-jms-bridge-springboot-app@1.0.0?classifier=sources
+- pkg:maven/io.nats.bridge/nats-jms-bridge-springboot-app@1.0.3?classifier=sources
+- pkg:maven/io.nats.bridge/nats-jms-bridge-springboot-app@1.0.4?classifier=sources

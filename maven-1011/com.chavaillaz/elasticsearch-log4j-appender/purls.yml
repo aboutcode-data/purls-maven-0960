@@ -1,0 +1,4 @@
+- pkg:maven/com.chavaillaz/elasticsearch-log4j-appender@1.0.0
+- pkg:maven/com.chavaillaz/elasticsearch-log4j-appender@1.0.0?classifier=sources
+- pkg:maven/com.chavaillaz/elasticsearch-log4j-appender@2.0.0
+- pkg:maven/com.chavaillaz/elasticsearch-log4j-appender@2.0.0?classifier=sources

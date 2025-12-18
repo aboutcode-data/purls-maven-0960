@@ -16,6 +16,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@1.2.0
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@1.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@1.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@1.2.1
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@1.2.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@1.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.0.0?classifier=sources-commercial
@@ -40,6 +43,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.2
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.3
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@2.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.0.0?classifier=sources-commercial
@@ -67,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.6
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.7
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.api@3.1.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.api@4.0.0?classifier=sources-commercial

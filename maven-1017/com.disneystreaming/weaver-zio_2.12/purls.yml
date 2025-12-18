@@ -46,6 +46,10 @@
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.6?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.7
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.7?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.8
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.9
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.6.9?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.2
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.2?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.3
@@ -58,3 +62,7 @@
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.6?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.7
 - pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.7?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.8
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.9
+- pkg:maven/com.disneystreaming/weaver-zio_2.12@0.7.9?classifier=sources

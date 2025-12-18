@@ -26,3 +26,7 @@
 - pkg:maven/pl.morgwai.base/grpc-scopes@4.0?classifier=sources
 - pkg:maven/pl.morgwai.base/grpc-scopes@5.0
 - pkg:maven/pl.morgwai.base/grpc-scopes@5.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@6.0
+- pkg:maven/pl.morgwai.base/grpc-scopes@6.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@6.1
+- pkg:maven/pl.morgwai.base/grpc-scopes@6.1?classifier=sources

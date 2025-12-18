@@ -22,3 +22,5 @@
 - pkg:maven/com.singlestore/singlestore-spark-connector_2.11@3.1.2-spark-2.3.4?classifier=sources
 - pkg:maven/com.singlestore/singlestore-spark-connector_2.11@3.1.2-spark-2.4.4
 - pkg:maven/com.singlestore/singlestore-spark-connector_2.11@3.1.2-spark-2.4.4?classifier=sources
+- pkg:maven/com.singlestore/singlestore-spark-connector_2.11@3.1.2-spark-2.4.7
+- pkg:maven/com.singlestore/singlestore-spark-connector_2.11@3.1.2-spark-2.4.7?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@0.22.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@0.23.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@0.24.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@0.25.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@0.26.0?classifier=sources

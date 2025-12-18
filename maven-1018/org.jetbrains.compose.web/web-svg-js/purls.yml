@@ -2,3 +2,5 @@
 - pkg:maven/org.jetbrains.compose.web/web-svg-js@1.0.0-rc2?classifier=sources
 - pkg:maven/org.jetbrains.compose.web/web-svg-js@1.0.0-rc5?classifier=sources
 - pkg:maven/org.jetbrains.compose.web/web-svg-js@1.0.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.web/web-svg-js@1.0.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.web/web-svg-js@1.1.0-alpha1-dev536?classifier=sources

@@ -189,6 +189,14 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.10
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.10?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.11
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.11?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.12
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.12?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.13
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.13?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.2?classifier=sources
@@ -204,3 +212,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.7?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.8
 - pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.8?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.9
+- pkg:maven/com.google.api.grpc/proto-google-cloud-automl-v1beta1@0.88.9?classifier=sources

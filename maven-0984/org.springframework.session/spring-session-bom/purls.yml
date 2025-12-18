@@ -9,7 +9,9 @@
 - pkg:maven/org.springframework.session/spring-session-bom@2021.0.1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@2021.0.2?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@2021.0.3?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@2021.0.4?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@2021.1.0?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-bom@2021.1.1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-SR1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-bom@Apple-SR2?classifier=sources

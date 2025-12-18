@@ -39,5 +39,6 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.CR9?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.0.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.1.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@1.1.1.Final?classifier=sources

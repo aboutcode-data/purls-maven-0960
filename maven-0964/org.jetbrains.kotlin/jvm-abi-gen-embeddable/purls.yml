@@ -74,5 +74,7 @@
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.10
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.10-RC
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@1.6.10?classifier=sources

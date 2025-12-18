@@ -1,2 +1,4 @@
 - pkg:maven/org.analogweb/analogweb-scala_2.13@0.12.0
 - pkg:maven/org.analogweb/analogweb-scala_2.13@0.12.0?classifier=sources
+- pkg:maven/org.analogweb/analogweb-scala_2.13@0.13.0
+- pkg:maven/org.analogweb/analogweb-scala_2.13@0.13.0?classifier=sources

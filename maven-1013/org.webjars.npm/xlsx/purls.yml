@@ -30,8 +30,12 @@
 - pkg:maven/org.webjars.npm/xlsx@0.16.9?classifier=sources
 - pkg:maven/org.webjars.npm/xlsx@0.17.0
 - pkg:maven/org.webjars.npm/xlsx@0.17.0?classifier=sources
+- pkg:maven/org.webjars.npm/xlsx@0.17.2
+- pkg:maven/org.webjars.npm/xlsx@0.17.2?classifier=sources
 - pkg:maven/org.webjars.npm/xlsx@0.17.3
 - pkg:maven/org.webjars.npm/xlsx@0.17.3?classifier=sources
+- pkg:maven/org.webjars.npm/xlsx@0.17.4
+- pkg:maven/org.webjars.npm/xlsx@0.17.4?classifier=sources
 - pkg:maven/org.webjars.npm/xlsx@0.8.0
 - pkg:maven/org.webjars.npm/xlsx@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/xlsx@0.9.13

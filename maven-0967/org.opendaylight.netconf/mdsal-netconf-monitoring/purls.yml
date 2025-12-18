@@ -29,6 +29,8 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.13.4
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.13.4?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.13.5?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.13.6
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.13.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.2.0-Carbon
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.2.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@1.2.1-Carbon

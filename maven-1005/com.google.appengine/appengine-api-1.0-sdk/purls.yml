@@ -132,3 +132,8 @@
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@1.9.90
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@1.9.91
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@1.9.92
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@1.9.93
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.0
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.0?classifier=sources
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.1
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.1?classifier=sources

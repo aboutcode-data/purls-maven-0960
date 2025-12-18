@@ -46,6 +46,8 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@5.0.4?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@5.0.5
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@5.0.5?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@5.0.6
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@5.0.6?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M1
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M1?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M2
@@ -56,3 +58,5 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M4?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M5
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M5?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M6
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-sass@6.0.0-M6?classifier=sources

@@ -324,7 +324,17 @@
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.44.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.45.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.46.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.47.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.48.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.49.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.5.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.50.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.51.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.52.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.53.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.54.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.55.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.56.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.6.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.7.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-refaster-testing@4.8.0?classifier=sources

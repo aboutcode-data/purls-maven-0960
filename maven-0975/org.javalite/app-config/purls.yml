@@ -24,5 +24,7 @@
 - pkg:maven/org.javalite/app-config@2.4-j8?classifier=sources
 - pkg:maven/org.javalite/app-config@2.5-j8
 - pkg:maven/org.javalite/app-config@2.5-j8?classifier=sources
+- pkg:maven/org.javalite/app-config@2.6-j8
+- pkg:maven/org.javalite/app-config@2.6-j8?classifier=sources
 - pkg:maven/org.javalite/app-config@3.0-j11
 - pkg:maven/org.javalite/app-config@3.0-j11?classifier=sources

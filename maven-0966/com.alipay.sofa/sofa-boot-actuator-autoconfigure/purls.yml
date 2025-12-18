@@ -1,3 +1,5 @@
+- pkg:maven/com.alipay.sofa/sofa-boot-actuator-autoconfigure@3.10.0
+- pkg:maven/com.alipay.sofa/sofa-boot-actuator-autoconfigure@3.10.0?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-boot-actuator-autoconfigure@3.2.0
 - pkg:maven/com.alipay.sofa/sofa-boot-actuator-autoconfigure@3.2.0?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-boot-actuator-autoconfigure@3.2.1

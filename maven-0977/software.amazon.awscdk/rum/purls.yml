@@ -1,2 +1,12 @@
 - pkg:maven/software.amazon.awscdk/rum@1.135.0
 - pkg:maven/software.amazon.awscdk/rum@1.135.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rum@1.136.0
+- pkg:maven/software.amazon.awscdk/rum@1.136.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rum@1.137.0
+- pkg:maven/software.amazon.awscdk/rum@1.137.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rum@1.138.0
+- pkg:maven/software.amazon.awscdk/rum@1.138.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rum@1.138.1
+- pkg:maven/software.amazon.awscdk/rum@1.138.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/rum@1.138.2
+- pkg:maven/software.amazon.awscdk/rum@1.138.2?classifier=sources

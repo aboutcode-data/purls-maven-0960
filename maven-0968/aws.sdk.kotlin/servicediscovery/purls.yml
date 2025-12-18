@@ -1,3 +1,4 @@
+- pkg:maven/aws.sdk.kotlin/servicediscovery@0.10.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/servicediscovery@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/servicediscovery@0.5.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/servicediscovery@0.6.0-alpha?classifier=sources
@@ -7,3 +8,5 @@
 - pkg:maven/aws.sdk.kotlin/servicediscovery@0.9.1-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/servicediscovery@0.9.2-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/servicediscovery@0.9.3-alpha?classifier=sources
+- pkg:maven/aws.sdk.kotlin/servicediscovery@0.9.4-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/servicediscovery@0.9.5-beta?classifier=sources

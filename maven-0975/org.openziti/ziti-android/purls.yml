@@ -13,6 +13,8 @@
 - pkg:maven/org.openziti/ziti-android@0.22.9?classifier=sources
 - pkg:maven/org.openziti/ziti-android@0.23.0?classifier=sources
 - pkg:maven/org.openziti/ziti-android@0.23.10?classifier=sources
+- pkg:maven/org.openziti/ziti-android@0.23.11?classifier=sources
+- pkg:maven/org.openziti/ziti-android@0.23.12?classifier=sources
 - pkg:maven/org.openziti/ziti-android@0.23.1?classifier=sources
 - pkg:maven/org.openziti/ziti-android@0.23.2?classifier=sources
 - pkg:maven/org.openziti/ziti-android@0.23.3?classifier=sources

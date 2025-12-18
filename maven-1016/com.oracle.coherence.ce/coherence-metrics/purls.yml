@@ -32,3 +32,4 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.06.2
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.06.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.06?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.12

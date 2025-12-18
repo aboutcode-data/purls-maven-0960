@@ -33,3 +33,6 @@
 - pkg:maven/io.kvision/kvision-server-vertx@5.5.0?classifier=sources
 - pkg:maven/io.kvision/kvision-server-vertx@5.5.1?classifier=sources
 - pkg:maven/io.kvision/kvision-server-vertx@5.6.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-vertx@5.6.1?classifier=sources
+- pkg:maven/io.kvision/kvision-server-vertx@5.7.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-vertx@5.7.1?classifier=sources

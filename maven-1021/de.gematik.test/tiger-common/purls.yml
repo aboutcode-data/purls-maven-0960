@@ -14,6 +14,12 @@
 - pkg:maven/de.gematik.test/tiger-common@0.16.1?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@0.16.2
 - pkg:maven/de.gematik.test/tiger-common@0.16.2?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@0.16.4
+- pkg:maven/de.gematik.test/tiger-common@0.16.4?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@0.17.0
+- pkg:maven/de.gematik.test/tiger-common@0.17.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@0.17.1
+- pkg:maven/de.gematik.test/tiger-common@0.17.1?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@0.3.0
 - pkg:maven/de.gematik.test/tiger-common@0.3.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@0.4.0

@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.akka/akka-persistence_3@2.6.17
 - pkg:maven/com.typesafe.akka/akka-persistence_3@2.6.17?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence_3@2.6.18
+- pkg:maven/com.typesafe.akka/akka-persistence_3@2.6.18?classifier=sources

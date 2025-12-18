@@ -1,2 +1,6 @@
 - pkg:maven/gov.nist.secauto.decima/decima-example@0.6.4
 - pkg:maven/gov.nist.secauto.decima/decima-example@0.6.4?classifier=sources
+- pkg:maven/gov.nist.secauto.decima/decima-example@0.7.0
+- pkg:maven/gov.nist.secauto.decima/decima-example@0.7.0?classifier=sources
+- pkg:maven/gov.nist.secauto.decima/decima-example@0.7.1
+- pkg:maven/gov.nist.secauto.decima/decima-example@0.7.1?classifier=sources

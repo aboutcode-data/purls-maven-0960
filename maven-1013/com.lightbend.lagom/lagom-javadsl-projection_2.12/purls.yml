@@ -26,3 +26,7 @@
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.5-RC2
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.5-RC2?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.5?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.6
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.6?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.7
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-projection_2.12@1.6.7?classifier=sources

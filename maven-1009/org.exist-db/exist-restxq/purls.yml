@@ -10,3 +10,5 @@
 - pkg:maven/org.exist-db/exist-restxq@5.2.0?classifier=sources
 - pkg:maven/org.exist-db/exist-restxq@5.3.0
 - pkg:maven/org.exist-db/exist-restxq@5.3.0?classifier=sources
+- pkg:maven/org.exist-db/exist-restxq@5.3.1
+- pkg:maven/org.exist-db/exist-restxq@5.3.1?classifier=sources

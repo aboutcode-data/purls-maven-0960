@@ -4,3 +4,6 @@
 - pkg:maven/com.bigossp/bigo-ads@1.6.2?type=aar
 - pkg:maven/com.bigossp/bigo-ads@1.6.3?classifier=sources
 - pkg:maven/com.bigossp/bigo-ads@1.6.3?type=aar
+- pkg:maven/com.bigossp/bigo-ads@1.7.0?classifier=sources
+- pkg:maven/com.bigossp/bigo-ads@1.7.0?type=aar
+- pkg:maven/com.bigossp/bigo-ads@1.8.0?type=aar

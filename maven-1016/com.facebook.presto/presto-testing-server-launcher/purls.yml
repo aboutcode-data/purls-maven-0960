@@ -394,3 +394,9 @@
 - pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.265.1
 - pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.265.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.265?classifier=sources
+- pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.266
+- pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.266.1
+- pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.266.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.266?classifier=sources
+- pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.267
+- pkg:maven/com.facebook.presto/presto-testing-server-launcher@0.267?classifier=sources

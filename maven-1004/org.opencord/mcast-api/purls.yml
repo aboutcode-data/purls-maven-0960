@@ -10,3 +10,5 @@
 - pkg:maven/org.opencord/mcast-api@2.3.2?classifier=sources
 - pkg:maven/org.opencord/mcast-api@2.4.0
 - pkg:maven/org.opencord/mcast-api@2.4.0?classifier=sources
+- pkg:maven/org.opencord/mcast-api@2.5.0
+- pkg:maven/org.opencord/mcast-api@2.5.0?classifier=sources

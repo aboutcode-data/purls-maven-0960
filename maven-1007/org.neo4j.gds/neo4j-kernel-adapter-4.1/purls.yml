@@ -53,3 +53,4 @@
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.1@1.8.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.1@1.8.0-alpha04?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.1@1.8.0?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-4.1@1.8.1?classifier=sources

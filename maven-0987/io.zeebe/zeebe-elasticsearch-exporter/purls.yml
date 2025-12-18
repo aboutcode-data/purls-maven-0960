@@ -124,6 +124,8 @@
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.26.4?classifier=sources
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.26.5
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.26.5?classifier=sources
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.26.6
+- pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@0.26.6?classifier=sources
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@1.0.0-alpha1
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@1.0.0-alpha1?classifier=sources
 - pkg:maven/io.zeebe/zeebe-elasticsearch-exporter@1.0.0-alpha2

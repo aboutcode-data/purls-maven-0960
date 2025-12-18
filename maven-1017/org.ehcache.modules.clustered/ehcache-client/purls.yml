@@ -15,3 +15,7 @@
 - pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.6?classifier=sources
 - pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.7
 - pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.7?classifier=sources
+- pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.8
+- pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.8?classifier=sources
+- pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.9
+- pkg:maven/org.ehcache.modules.clustered/ehcache-client@3.9.9?classifier=sources

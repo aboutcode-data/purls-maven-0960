@@ -182,6 +182,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.48
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.48?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.49
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.49?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.49?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.5
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.5?classifier=sources
@@ -344,6 +347,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.26
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.27
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@3.3.3
@@ -553,6 +559,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.6
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.7
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.0.0?classifier=sources-commercial
@@ -679,6 +688,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.7
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.8
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.0.0?classifier=sources-commercial
@@ -713,6 +725,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.1
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.10
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.11
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.2
@@ -736,3 +754,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.8
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.9
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@6.2.9?classifier=sources-commercial

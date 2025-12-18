@@ -1,2 +1,4 @@
 - pkg:maven/com.uzabase/playtest-gauge-db@0.1.0
 - pkg:maven/com.uzabase/playtest-gauge-db@0.1.0?classifier=sources
+- pkg:maven/com.uzabase/playtest-gauge-db@0.2.0
+- pkg:maven/com.uzabase/playtest-gauge-db@0.2.0?classifier=sources

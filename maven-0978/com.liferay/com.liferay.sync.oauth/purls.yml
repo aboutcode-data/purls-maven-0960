@@ -1,3 +1,15 @@
+- pkg:maven/com.liferay/com.liferay.sync.oauth@1.0.9
+- pkg:maven/com.liferay/com.liferay.sync.oauth@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.oauth@1.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.oauth@2.0.4
+- pkg:maven/com.liferay/com.liferay.sync.oauth@2.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.oauth@2.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.oauth@3.0.7
+- pkg:maven/com.liferay/com.liferay.sync.oauth@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.oauth@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.oauth@4.0.8
+- pkg:maven/com.liferay/com.liferay.sync.oauth@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.oauth@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.oauth@5.0.0
 - pkg:maven/com.liferay/com.liferay.sync.oauth@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.oauth@5.0.0?classifier=sources-commercial

@@ -18,8 +18,14 @@
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.17.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.18.0
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.18.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.19.0
+- pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.19.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.2.0
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.2.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.20.0
+- pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.20.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.21.0
+- pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.21.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.3.0
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.3.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-config-connection-manager@0.4.0

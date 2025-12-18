@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-ipfs@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-ipfs@2.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-ipfs@2.5.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-ipfs@2.6.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-ipfs@2.6.0?classifier=sources

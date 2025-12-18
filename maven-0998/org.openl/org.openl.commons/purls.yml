@@ -187,6 +187,12 @@
 - pkg:maven/org.openl/org.openl.commons@5.23.12?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.23.13
 - pkg:maven/org.openl/org.openl.commons@5.23.13?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.14
+- pkg:maven/org.openl/org.openl.commons@5.23.14?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.15
+- pkg:maven/org.openl/org.openl.commons@5.23.15?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.16
+- pkg:maven/org.openl/org.openl.commons@5.23.16?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.23.1?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.23.2
 - pkg:maven/org.openl/org.openl.commons@5.23.2?classifier=sources
@@ -211,6 +217,8 @@
 - pkg:maven/org.openl/org.openl.commons@5.24.0
 - pkg:maven/org.openl/org.openl.commons@5.24.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.24.1
+- pkg:maven/org.openl/org.openl.commons@5.24.10
+- pkg:maven/org.openl/org.openl.commons@5.24.10?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.24.1?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.24.2
 - pkg:maven/org.openl/org.openl.commons@5.24.2?classifier=sources
@@ -224,6 +232,10 @@
 - pkg:maven/org.openl/org.openl.commons@5.24.6?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.24.7
 - pkg:maven/org.openl/org.openl.commons@5.24.7?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.24.8
+- pkg:maven/org.openl/org.openl.commons@5.24.8?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.24.9
+- pkg:maven/org.openl/org.openl.commons@5.24.9?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.25.0
 - pkg:maven/org.openl/org.openl.commons@5.25.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.25.1
@@ -232,6 +244,12 @@
 - pkg:maven/org.openl/org.openl.commons@5.25.2?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.25.3
 - pkg:maven/org.openl/org.openl.commons@5.25.3?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.25.4
+- pkg:maven/org.openl/org.openl.commons@5.25.4?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.25.5
+- pkg:maven/org.openl/org.openl.commons@5.25.5?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.25.6
+- pkg:maven/org.openl/org.openl.commons@5.25.6?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.0
 - pkg:maven/org.openl/org.openl.commons@5.7.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.1

@@ -82,9 +82,15 @@
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.61.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.62.0.Final
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.62.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-compiler-commons@7.63.0.Final
+- pkg:maven/org.kie/kie-pmml-compiler-commons@7.63.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.63.0.t20211129
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-commons@8.13.0.Beta
 - pkg:maven/org.kie/kie-pmml-compiler-commons@8.13.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-commons@8.14.0.Beta
 - pkg:maven/org.kie/kie-pmml-compiler-commons@8.14.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-compiler-commons@8.14.1.Beta
+- pkg:maven/org.kie/kie-pmml-compiler-commons@8.14.1.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-compiler-commons@8.15.0.Beta
+- pkg:maven/org.kie/kie-pmml-compiler-commons@8.15.0.Beta?classifier=sources

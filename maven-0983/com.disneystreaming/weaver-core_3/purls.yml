@@ -8,6 +8,10 @@
 - pkg:maven/com.disneystreaming/weaver-core_3@0.6.6?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-core_3@0.6.7
 - pkg:maven/com.disneystreaming/weaver-core_3@0.6.7?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-core_3@0.6.8
+- pkg:maven/com.disneystreaming/weaver-core_3@0.6.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-core_3@0.6.9
+- pkg:maven/com.disneystreaming/weaver-core_3@0.6.9?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-core_3@0.7.3
 - pkg:maven/com.disneystreaming/weaver-core_3@0.7.3?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-core_3@0.7.4
@@ -18,3 +22,7 @@
 - pkg:maven/com.disneystreaming/weaver-core_3@0.7.6?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-core_3@0.7.7
 - pkg:maven/com.disneystreaming/weaver-core_3@0.7.7?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-core_3@0.7.8
+- pkg:maven/com.disneystreaming/weaver-core_3@0.7.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-core_3@0.7.9
+- pkg:maven/com.disneystreaming/weaver-core_3@0.7.9?classifier=sources

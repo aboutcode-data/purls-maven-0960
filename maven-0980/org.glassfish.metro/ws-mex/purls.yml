@@ -162,6 +162,8 @@
 - pkg:maven/org.glassfish.metro/ws-mex@2.4.6?classifier=sources
 - pkg:maven/org.glassfish.metro/ws-mex@2.4.7
 - pkg:maven/org.glassfish.metro/ws-mex@2.4.7?classifier=sources
+- pkg:maven/org.glassfish.metro/ws-mex@2.4.8
+- pkg:maven/org.glassfish.metro/ws-mex@2.4.8?classifier=sources
 - pkg:maven/org.glassfish.metro/ws-mex@3.0.0
 - pkg:maven/org.glassfish.metro/ws-mex@3.0.0-M1
 - pkg:maven/org.glassfish.metro/ws-mex@3.0.0-M1?classifier=sources

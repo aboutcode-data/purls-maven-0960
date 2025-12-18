@@ -1,2 +1,6 @@
 - pkg:maven/cn.org.thinkcloud/think-cloud-starter-business@1.2.2.RELEASE
 - pkg:maven/cn.org.thinkcloud/think-cloud-starter-business@1.2.2.RELEASE?classifier=sources
+- pkg:maven/cn.org.thinkcloud/think-cloud-starter-business@2.0.0.RELEASE
+- pkg:maven/cn.org.thinkcloud/think-cloud-starter-business@2.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.org.thinkcloud/think-cloud-starter-business@2.0.1.RELEASE
+- pkg:maven/cn.org.thinkcloud/think-cloud-starter-business@2.0.1.RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.bithon/bithon-server-collector@1.0.0-RELEASE
 - pkg:maven/org.bithon/bithon-server-collector@1.0.0-RELEASE?classifier=sources
+- pkg:maven/org.bithon/bithon-server-collector@1.1.0-RELEASE
+- pkg:maven/org.bithon/bithon-server-collector@1.1.0-RELEASE?classifier=sources

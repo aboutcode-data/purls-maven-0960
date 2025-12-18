@@ -1,3 +1,6 @@
+- pkg:maven/net.guerlab.cloud.uploader/guerlab-cloud-uploader-core@2022.0.0
+- pkg:maven/net.guerlab.cloud.uploader/guerlab-cloud-uploader-core@2022.0.0?classifier=sources
+- pkg:maven/net.guerlab.cloud.uploader/guerlab-cloud-uploader-core@2022.1.0?classifier=sources
 - pkg:maven/net.guerlab.cloud.uploader/guerlab-cloud-uploader-core@21.11.0
 - pkg:maven/net.guerlab.cloud.uploader/guerlab-cloud-uploader-core@21.11.0?classifier=sources
 - pkg:maven/net.guerlab.cloud.uploader/guerlab-cloud-uploader-core@21.7.0

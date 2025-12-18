@@ -68,6 +68,8 @@
 - pkg:maven/ch.exense.step/step-functions-client@3.17.1?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-client@3.17.2
 - pkg:maven/ch.exense.step/step-functions-client@3.17.2?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-client@3.18.0
+- pkg:maven/ch.exense.step/step-functions-client@3.18.0?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-client@3.9.0
 - pkg:maven/ch.exense.step/step-functions-client@3.9.0?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-client@3.9.1

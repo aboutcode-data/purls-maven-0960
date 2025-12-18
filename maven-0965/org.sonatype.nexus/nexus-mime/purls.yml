@@ -149,6 +149,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.31.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.32.0-03
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.32.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.32.1-01
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.32.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.33.0-01
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.33.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.33.1-01
@@ -163,6 +165,12 @@
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.36.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.37.0-01
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.37.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.37.1-01
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.37.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.37.2-02
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.37.2-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.37.3-02
+- pkg:maven/org.sonatype.nexus/nexus-mime@3.37.3-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.4.0-02
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.4.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-mime@3.5.0-02

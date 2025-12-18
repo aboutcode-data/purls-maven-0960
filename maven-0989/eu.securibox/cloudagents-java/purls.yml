@@ -1,0 +1,4 @@
+- pkg:maven/eu.securibox/cloudagents-java@0.0.2
+- pkg:maven/eu.securibox/cloudagents-java@0.0.2?classifier=sources
+- pkg:maven/eu.securibox/cloudagents-java@0.0.3
+- pkg:maven/eu.securibox/cloudagents-java@0.0.3?classifier=sources

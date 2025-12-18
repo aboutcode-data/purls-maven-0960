@@ -99,6 +99,10 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.22?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.23
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.23?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.24
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.24?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.25
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.25?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.2?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.3
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.3?classifier=sources

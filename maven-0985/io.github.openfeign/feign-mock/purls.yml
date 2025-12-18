@@ -56,5 +56,7 @@
 - pkg:maven/io.github.openfeign/feign-mock@11.6?classifier=sources
 - pkg:maven/io.github.openfeign/feign-mock@11.7
 - pkg:maven/io.github.openfeign/feign-mock@11.7?classifier=sources
+- pkg:maven/io.github.openfeign/feign-mock@11.8
+- pkg:maven/io.github.openfeign/feign-mock@11.8?classifier=sources
 - pkg:maven/io.github.openfeign/feign-mock@9.7.0
 - pkg:maven/io.github.openfeign/feign-mock@9.7.0?classifier=sources

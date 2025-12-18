@@ -2,6 +2,8 @@
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.107.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.108.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.109.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.109.1?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.109.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.110.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.111.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.112.0?classifier=sources
@@ -19,6 +21,11 @@
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.124.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.125.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.126.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.127.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.128.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.129.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.130.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.131.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-pubsub-aws@7.92.5?classifier=sources

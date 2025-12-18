@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.log@1.2.4
 - pkg:maven/org.apache.felix/org.apache.felix.log@1.2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.log@1.2.4?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.log@1.2.6
+- pkg:maven/org.apache.felix/org.apache.felix.log@1.2.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.log@1.2.6?classifier=sources

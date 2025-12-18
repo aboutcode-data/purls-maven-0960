@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.tika/tika-fuzzing@1.26?classifier=sources
 - pkg:maven/org.apache.tika/tika-fuzzing@1.27
 - pkg:maven/org.apache.tika/tika-fuzzing@1.27?classifier=sources
+- pkg:maven/org.apache.tika/tika-fuzzing@1.28
+- pkg:maven/org.apache.tika/tika-fuzzing@1.28?classifier=sources
 - pkg:maven/org.apache.tika/tika-fuzzing@2.0.0
 - pkg:maven/org.apache.tika/tika-fuzzing@2.0.0-ALPHA
 - pkg:maven/org.apache.tika/tika-fuzzing@2.0.0-ALPHA?classifier=sources
@@ -12,3 +14,7 @@
 - pkg:maven/org.apache.tika/tika-fuzzing@2.0.0?classifier=sources
 - pkg:maven/org.apache.tika/tika-fuzzing@2.1.0
 - pkg:maven/org.apache.tika/tika-fuzzing@2.1.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-fuzzing@2.2.0
+- pkg:maven/org.apache.tika/tika-fuzzing@2.2.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-fuzzing@2.2.1
+- pkg:maven/org.apache.tika/tika-fuzzing@2.2.1?classifier=sources

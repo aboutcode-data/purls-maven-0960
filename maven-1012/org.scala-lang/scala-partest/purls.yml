@@ -110,6 +110,8 @@
 - pkg:maven/org.scala-lang/scala-partest@2.13.6?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.7
 - pkg:maven/org.scala-lang/scala-partest@2.13.7?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.13.8
+- pkg:maven/org.scala-lang/scala-partest@2.13.8?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.8.0
 - pkg:maven/org.scala-lang/scala-partest@2.8.0.Beta1
 - pkg:maven/org.scala-lang/scala-partest@2.8.0.Beta1-RC1

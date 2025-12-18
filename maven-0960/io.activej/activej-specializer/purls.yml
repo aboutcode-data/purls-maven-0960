@@ -60,3 +60,5 @@
 - pkg:maven/io.activej/activej-specializer@5.0-rc3
 - pkg:maven/io.activej/activej-specializer@5.0-rc3?classifier=sources
 - pkg:maven/io.activej/activej-specializer@5.0?classifier=sources
+- pkg:maven/io.activej/activej-specializer@5.1
+- pkg:maven/io.activej/activej-specializer@5.1?classifier=sources

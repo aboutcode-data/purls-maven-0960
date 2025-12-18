@@ -36,6 +36,10 @@
 - pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.15?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.16
 - pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.16?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.18
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.18?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.19
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.19?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.3
 - pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.3?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-cassandra@2.0.4

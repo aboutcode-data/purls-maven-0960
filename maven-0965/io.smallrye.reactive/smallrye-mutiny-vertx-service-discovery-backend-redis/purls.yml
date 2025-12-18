@@ -28,6 +28,12 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.15.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.16.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.16.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.16.1
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.16.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.16.2
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.16.2?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.17.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.17.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.2.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.2.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-service-discovery-backend-redis@2.3.0

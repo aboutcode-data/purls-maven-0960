@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-influxdb@2.32.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-influxdb@2.33.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-influxdb@2.34.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-influxdb@2.35.0?classifier=sources

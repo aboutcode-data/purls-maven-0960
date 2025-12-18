@@ -16,6 +16,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.14
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.15
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.2
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@1.0.2?classifier=sources
@@ -63,6 +66,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@2.0.7
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@2.0.8
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.0
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.0?classifier=sources-commercial
@@ -78,6 +84,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.4
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.5
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.0
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.0?classifier=sources-commercial
@@ -99,6 +108,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.6
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.7
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@5.0.0
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.demo.data.creator.impl@5.0.0?classifier=sources-commercial

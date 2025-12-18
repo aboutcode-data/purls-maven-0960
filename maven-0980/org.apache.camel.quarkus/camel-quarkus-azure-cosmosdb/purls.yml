@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-cosmosdb@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-cosmosdb@2.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-cosmosdb@2.5.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-cosmosdb@2.6.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-cosmosdb@2.6.0?classifier=sources

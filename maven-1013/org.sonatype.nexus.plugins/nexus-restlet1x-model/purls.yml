@@ -56,6 +56,8 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.20-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.20-02
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.20-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.21-02
+- pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.21-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.3-02
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.3-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-restlet1x-model@2.14.4-01

@@ -1,5 +1,10 @@
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.10.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.10.0?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.10.1?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.10.2?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.10.3?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.11.0.ee?classifier=sources
+- pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.11.0?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.6.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.6.0?classifier=sources
 - pkg:maven/com.wavemaker.tools.apidocs/wavemaker-tools-apidocs-core@10.6.1.ee?classifier=sources

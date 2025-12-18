@@ -80,6 +80,8 @@
 - pkg:maven/com.slack.api/bolt-micronaut@1.14.0?classifier=sources
 - pkg:maven/com.slack.api/bolt-micronaut@1.15.0
 - pkg:maven/com.slack.api/bolt-micronaut@1.15.0?classifier=sources
+- pkg:maven/com.slack.api/bolt-micronaut@1.16.0
+- pkg:maven/com.slack.api/bolt-micronaut@1.16.0?classifier=sources
 - pkg:maven/com.slack.api/bolt-micronaut@1.2.0
 - pkg:maven/com.slack.api/bolt-micronaut@1.2.0-RC1
 - pkg:maven/com.slack.api/bolt-micronaut@1.2.0-RC1?classifier=sources

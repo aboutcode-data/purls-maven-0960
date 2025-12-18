@@ -22,3 +22,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.7?type=war
 - pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.8?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.8?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.9?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-10-deployer@1.9.9?type=war

@@ -30,3 +30,7 @@
 - pkg:maven/com.weicoder/image@3.4.5?classifier=sources
 - pkg:maven/com.weicoder/image@3.4.6
 - pkg:maven/com.weicoder/image@3.4.6?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.7
+- pkg:maven/com.weicoder/image@3.4.7-jdk8
+- pkg:maven/com.weicoder/image@3.4.7-jdk8?classifier=sources
+- pkg:maven/com.weicoder/image@3.4.7?classifier=sources
