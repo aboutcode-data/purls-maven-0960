@@ -216,6 +216,8 @@
 - pkg:maven/org.apache.camel/camel-bam@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-bam@2.25.3
 - pkg:maven/org.apache.camel/camel-bam@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-bam@2.25.4
+- pkg:maven/org.apache.camel/camel-bam@2.25.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-bam@2.3.0
 - pkg:maven/org.apache.camel/camel-bam@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-bam@2.4.0

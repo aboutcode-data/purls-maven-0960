@@ -16,3 +16,7 @@
 - pkg:maven/com.flagsmith/flagsmith-java-client@2.7?classifier=sources
 - pkg:maven/com.flagsmith/flagsmith-java-client@2.8
 - pkg:maven/com.flagsmith/flagsmith-java-client@2.8?classifier=sources
+- pkg:maven/com.flagsmith/flagsmith-java-client@3.0
+- pkg:maven/com.flagsmith/flagsmith-java-client@3.0?classifier=sources
+- pkg:maven/com.flagsmith/flagsmith-java-client@3.1
+- pkg:maven/com.flagsmith/flagsmith-java-client@3.1?classifier=sources

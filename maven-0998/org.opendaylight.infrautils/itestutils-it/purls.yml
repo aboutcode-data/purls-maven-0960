@@ -28,6 +28,7 @@
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.8.1
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.8.2
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.8.3
+- pkg:maven/org.opendaylight.infrautils/itestutils-it@1.8.4
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.9.0
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.9.1
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.9.2
@@ -39,3 +40,4 @@
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@1.9.8
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@2.0.0
 - pkg:maven/org.opendaylight.infrautils/itestutils-it@2.0.1
+- pkg:maven/org.opendaylight.infrautils/itestutils-it@2.0.2

@@ -102,3 +102,5 @@
 - pkg:maven/org.ikasan/ikasan-xml-marshaller@3.1.0-beta
 - pkg:maven/org.ikasan/ikasan-xml-marshaller@3.1.0-beta?classifier=sources
 - pkg:maven/org.ikasan/ikasan-xml-marshaller@3.1.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-xml-marshaller@3.1.1
+- pkg:maven/org.ikasan/ikasan-xml-marshaller@3.1.1?classifier=sources

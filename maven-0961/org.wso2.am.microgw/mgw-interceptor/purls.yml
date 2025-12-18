@@ -4,6 +4,8 @@
 - pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.1.0-beta
 - pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.1.0-beta?classifier=sources
 - pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.1.0?classifier=sources
+- pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.1.1
+- pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.1.1?classifier=sources
 - pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.2.0
 - pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.2.0-alpha
 - pkg:maven/org.wso2.am.microgw/mgw-interceptor@3.2.0-alpha?classifier=sources

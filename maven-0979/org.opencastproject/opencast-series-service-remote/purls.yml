@@ -1,3 +1,5 @@
+- pkg:maven/org.opencastproject/opencast-series-service-remote@10.0
+- pkg:maven/org.opencastproject/opencast-series-service-remote@10.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-series-service-remote@6.6
 - pkg:maven/org.opencastproject/opencast-series-service-remote@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-series-service-remote@7.2
@@ -48,3 +50,7 @@
 - pkg:maven/org.opencastproject/opencast-series-service-remote@9.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-series-service-remote@9.4
 - pkg:maven/org.opencastproject/opencast-series-service-remote@9.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-series-service-remote@9.5
+- pkg:maven/org.opencastproject/opencast-series-service-remote@9.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-series-service-remote@9.6
+- pkg:maven/org.opencastproject/opencast-series-service-remote@9.6?classifier=sources

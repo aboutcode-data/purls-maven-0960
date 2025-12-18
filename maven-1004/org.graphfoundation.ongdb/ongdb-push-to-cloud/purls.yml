@@ -1,5 +1,7 @@
+- pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@1.0.0
 - pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@1.0.0-beta01
 - pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@1.0.0-beta01?classifier=sources
+- pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@1.0.0?classifier=sources
 - pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@3.6.0
 - pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@3.6.0.M2
 - pkg:maven/org.graphfoundation.ongdb/ongdb-push-to-cloud@3.6.0.M2?classifier=sources

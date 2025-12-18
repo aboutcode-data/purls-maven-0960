@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.shardingsphere/shardingsphere-db-protocol-postgresql@5.0.0-alpha
 - pkg:maven/org.apache.shardingsphere/shardingsphere-db-protocol-postgresql@5.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.shardingsphere/shardingsphere-db-protocol-postgresql@5.0.0-beta
+- pkg:maven/org.apache.shardingsphere/shardingsphere-db-protocol-postgresql@5.0.0-beta?classifier=sources

@@ -265,6 +265,9 @@
 - pkg:maven/com.liferay/com.liferay.flags.api@5.0.17
 - pkg:maven/com.liferay/com.liferay.flags.api@5.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.api@5.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.api@5.0.18
+- pkg:maven/com.liferay/com.liferay.flags.api@5.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.api@5.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.api@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.api@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.api@5.0.2
@@ -297,3 +300,6 @@
 - pkg:maven/com.liferay/com.liferay.flags.api@6.0.1
 - pkg:maven/com.liferay/com.liferay.flags.api@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.api@6.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.api@6.0.2
+- pkg:maven/com.liferay/com.liferay.flags.api@6.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.api@6.0.2?classifier=sources-commercial

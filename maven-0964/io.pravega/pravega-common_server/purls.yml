@@ -1,2 +1,4 @@
 - pkg:maven/io.pravega/pravega-common_server@0.9.0
 - pkg:maven/io.pravega/pravega-common_server@0.9.0?classifier=sources
+- pkg:maven/io.pravega/pravega-common_server@0.9.1
+- pkg:maven/io.pravega/pravega-common_server@0.9.1?classifier=sources

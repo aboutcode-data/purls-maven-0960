@@ -194,6 +194,8 @@
 - pkg:maven/org.apache.camel/camel-test@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@2.25.3
 - pkg:maven/org.apache.camel/camel-test@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-test@2.25.4
+- pkg:maven/org.apache.camel/camel-test@2.25.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@2.3.0
 - pkg:maven/org.apache.camel/camel-test@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@2.4.0
@@ -267,6 +269,10 @@
 - pkg:maven/org.apache.camel/camel-test@3.0.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.1.0
 - pkg:maven/org.apache.camel/camel-test@3.1.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test@3.10.0
+- pkg:maven/org.apache.camel/camel-test@3.10.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test@3.11.0
+- pkg:maven/org.apache.camel/camel-test@3.11.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.2.0
 - pkg:maven/org.apache.camel/camel-test@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.3.0
@@ -283,6 +289,8 @@
 - pkg:maven/org.apache.camel/camel-test@3.4.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.4.5
 - pkg:maven/org.apache.camel/camel-test@3.4.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-test@3.4.6
+- pkg:maven/org.apache.camel/camel-test@3.4.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.5.0
 - pkg:maven/org.apache.camel/camel-test@3.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.6.0

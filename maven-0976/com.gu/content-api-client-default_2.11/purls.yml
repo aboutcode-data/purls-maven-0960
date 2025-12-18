@@ -73,6 +73,10 @@
 - pkg:maven/com.gu/content-api-client-default_2.11@17.17-RC2
 - pkg:maven/com.gu/content-api-client-default_2.11@17.17-RC2?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.11@17.17?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.11@17.18
+- pkg:maven/com.gu/content-api-client-default_2.11@17.18?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.11@17.19
+- pkg:maven/com.gu/content-api-client-default_2.11@17.19?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.11@17.1?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.11@17.2
 - pkg:maven/com.gu/content-api-client-default_2.11@17.2?classifier=sources

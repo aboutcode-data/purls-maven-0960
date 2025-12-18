@@ -1,0 +1,4 @@
+- pkg:maven/com.fastjrun.codeg/apiworld-generator@1.0
+- pkg:maven/com.fastjrun.codeg/apiworld-generator@1.0?classifier=sources
+- pkg:maven/com.fastjrun.codeg/apiworld-generator@1.1
+- pkg:maven/com.fastjrun.codeg/apiworld-generator@1.1?classifier=sources

@@ -19,3 +19,5 @@
 - pkg:maven/org.glassfish.main.ha/ha-shoal-cache-bootstrap@6.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish.main.ha/ha-shoal-cache-bootstrap@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.ha/ha-shoal-cache-bootstrap@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.ha/ha-shoal-cache-bootstrap@6.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.ha/ha-shoal-cache-bootstrap@6.2.0?classifier=sources

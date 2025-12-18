@@ -1,4 +1,6 @@
 - pkg:maven/io.objectbox/objectbox-processor@2.8.0
 - pkg:maven/io.objectbox/objectbox-processor@2.8.0?classifier=sources
 - pkg:maven/io.objectbox/objectbox-processor@2.9.1?classifier=sources
+- pkg:maven/io.objectbox/objectbox-processor@2.9.2-RC2?classifier=sources
+- pkg:maven/io.objectbox/objectbox-processor@2.9.2-RC3?classifier=sources
 - pkg:maven/io.objectbox/objectbox-processor@2.9.2-RC?classifier=sources

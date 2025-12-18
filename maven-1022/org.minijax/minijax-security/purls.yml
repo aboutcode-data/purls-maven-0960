@@ -101,6 +101,8 @@
 - pkg:maven/org.minijax/minijax-security@0.4.17?classifier=sources
 - pkg:maven/org.minijax/minijax-security@0.4.1?classifier=sources
 - pkg:maven/org.minijax/minijax-security@0.5.1
+- pkg:maven/org.minijax/minijax-security@0.5.10
+- pkg:maven/org.minijax/minijax-security@0.5.10?classifier=sources
 - pkg:maven/org.minijax/minijax-security@0.5.1?classifier=sources
 - pkg:maven/org.minijax/minijax-security@0.5.2
 - pkg:maven/org.minijax/minijax-security@0.5.2?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.opencastproject/opencast-distribution-service-download@10.0
+- pkg:maven/org.opencastproject/opencast-distribution-service-download@10.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-distribution-service-download@6.6
 - pkg:maven/org.opencastproject/opencast-distribution-service-download@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-distribution-service-download@7.2
@@ -48,3 +50,7 @@
 - pkg:maven/org.opencastproject/opencast-distribution-service-download@9.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-distribution-service-download@9.4
 - pkg:maven/org.opencastproject/opencast-distribution-service-download@9.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-distribution-service-download@9.5
+- pkg:maven/org.opencastproject/opencast-distribution-service-download@9.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-distribution-service-download@9.6
+- pkg:maven/org.opencastproject/opencast-distribution-service-download@9.6?classifier=sources

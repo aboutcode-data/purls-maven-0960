@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.nlpcraft/nlpcraft-example-time@0.7.5
 - pkg:maven/org.apache.nlpcraft/nlpcraft-example-time@0.7.5?classifier=sources
+- pkg:maven/org.apache.nlpcraft/nlpcraft-example-time@0.8.0
+- pkg:maven/org.apache.nlpcraft/nlpcraft-example-time@0.8.0?classifier=sources

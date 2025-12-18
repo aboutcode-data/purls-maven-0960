@@ -158,6 +158,7 @@
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.0.0-RC2
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.0.0-RC2?classifier=sources
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.0.0?classifier=sources
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-M1
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-M1?classifier=sources
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-M2
@@ -176,3 +177,12 @@
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC3?classifier=sources
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC4
 - pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC4?classifier=sources
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC5
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC5?classifier=sources
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC6
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0-RC6?classifier=sources
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.0?classifier=sources
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.1
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.1?classifier=sources
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.2
+- pkg:maven/com.iheart/thomas-analysis_2.12@1.1.2?classifier=sources

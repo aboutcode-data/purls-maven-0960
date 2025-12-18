@@ -22,3 +22,5 @@
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.5.0-3
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.5.0-3?classifier=sources
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.5.0?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.6.0
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.6.0?classifier=sources

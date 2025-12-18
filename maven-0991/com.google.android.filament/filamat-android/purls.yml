@@ -1,3 +1,8 @@
+- pkg:maven/com.google.android.filament/filamat-android@1.10.0?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.10.1?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.10.2?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.10.3?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.10.4?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.5.0?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.5.0?type=aar
 - pkg:maven/com.google.android.filament/filamat-android@1.5.1?classifier=sources
@@ -24,6 +29,7 @@
 - pkg:maven/com.google.android.filament/filamat-android@1.9.22?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.9.23?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.9.24?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.9.25?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.9.2?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.9.3?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.9.4?classifier=sources

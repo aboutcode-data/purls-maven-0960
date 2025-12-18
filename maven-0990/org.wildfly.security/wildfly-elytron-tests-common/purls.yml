@@ -9,6 +9,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.10.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.11.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.12.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.13.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.3.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.10.4.Final
@@ -47,6 +48,9 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.15.1.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.15.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.15.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.15.4.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.16.0.CR1
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.16.0.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.9.0.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.9.0.CR2
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests-common@1.9.0.CR3

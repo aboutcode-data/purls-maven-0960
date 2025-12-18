@@ -1,4 +1,6 @@
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@0.0.2
+- pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@0.0.2.1
+- pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@0.0.2.1?classifier=sources
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@0.0.2.Alpha
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@0.0.2.Alpha?classifier=sources
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@0.0.2.BETA5

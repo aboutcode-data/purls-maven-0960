@@ -19,3 +19,5 @@
 - pkg:maven/org.glassfish.main.security/security@6.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish.main.security/security@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.security/security@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.security/security@6.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.security/security@6.2.0?classifier=sources

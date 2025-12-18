@@ -51,3 +51,6 @@
 - pkg:maven/org.neo4j.gds/alpha-algo@1.6.0-alpha04?classifier=sources
 - pkg:maven/org.neo4j.gds/alpha-algo@1.6.0-alpha05?classifier=sources
 - pkg:maven/org.neo4j.gds/alpha-algo@1.6.0-alpha06?classifier=sources
+- pkg:maven/org.neo4j.gds/alpha-algo@1.6.0-alpha07?classifier=sources
+- pkg:maven/org.neo4j.gds/alpha-algo@1.6.0?classifier=sources
+- pkg:maven/org.neo4j.gds/alpha-algo@1.6.1?classifier=sources

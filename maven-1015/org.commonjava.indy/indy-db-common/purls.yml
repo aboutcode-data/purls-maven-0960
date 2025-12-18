@@ -52,3 +52,5 @@
 - pkg:maven/org.commonjava.indy/indy-db-common@2.5.4?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-db-common@2.5.5
 - pkg:maven/org.commonjava.indy/indy-db-common@2.5.5?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-db-common@2.6.0
+- pkg:maven/org.commonjava.indy/indy-db-common@2.6.0?classifier=sources

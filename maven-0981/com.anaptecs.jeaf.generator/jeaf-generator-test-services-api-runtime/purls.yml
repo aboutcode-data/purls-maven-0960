@@ -7,6 +7,14 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.11?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.12
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.12?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.13
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.13?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.14
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.14?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.15
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.15?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.16
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.16?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.1?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.2
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.2?classifier=sources
@@ -24,3 +32,5 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.9
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.5.9?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.6.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-services-api-runtime@1.6.0?classifier=sources

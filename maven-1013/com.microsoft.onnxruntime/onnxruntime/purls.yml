@@ -4,3 +4,4 @@
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime@1.5.2?classifier=sources
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime@1.6.0?classifier=sources
 - pkg:maven/com.microsoft.onnxruntime/onnxruntime@1.7.0?classifier=sources
+- pkg:maven/com.microsoft.onnxruntime/onnxruntime@1.8.0?classifier=sources

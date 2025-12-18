@@ -1,5 +1,7 @@
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1-rev20210330-1.31.0
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1-rev20210330-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policysimulator@v1-rev20210330-1.31.5
+- pkg:maven/com.google.apis/google-api-services-policysimulator@v1-rev20210330-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210213-1.31.0
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210213-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210220-1.31.0
@@ -8,3 +10,5 @@
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210307-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210319-1.31.0
 - pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210319-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210319-1.31.5
+- pkg:maven/com.google.apis/google-api-services-policysimulator@v1beta1-rev20210319-1.31.5?classifier=sources

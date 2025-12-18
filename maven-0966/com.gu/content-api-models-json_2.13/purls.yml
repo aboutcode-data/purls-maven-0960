@@ -68,3 +68,9 @@
 - pkg:maven/com.gu/content-api-models-json_2.13@16.1.0-RC1
 - pkg:maven/com.gu/content-api-models-json_2.13@16.1.0-RC1?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@16.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@16.2.0-RC1
+- pkg:maven/com.gu/content-api-models-json_2.13@16.2.0-RC1?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@17.0.0
+- pkg:maven/com.gu/content-api-models-json_2.13@17.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@17.1.0
+- pkg:maven/com.gu/content-api-models-json_2.13@17.1.0?classifier=sources

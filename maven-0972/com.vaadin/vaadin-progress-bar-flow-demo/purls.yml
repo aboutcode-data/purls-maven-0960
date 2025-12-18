@@ -5,6 +5,11 @@
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.5.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.5.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.5.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.6.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.6.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.6.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.6.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@14.6.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@18.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@18.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@18.0.2?classifier=sources
@@ -20,6 +25,9 @@
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@19.0.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@19.0.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@19.0.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@19.0.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@19.0.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@19.0.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@2.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@2.0.2?classifier=sources
@@ -27,6 +35,10 @@
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@2.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@2.2.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@2.2.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@20.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@20.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@20.0.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@20.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@3.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-progress-bar-flow-demo@4.0.0?classifier=sources

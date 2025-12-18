@@ -25,5 +25,7 @@
 - pkg:maven/com.adyen.checkout/entercash-ui@3.8.0?type=aar
 - pkg:maven/com.adyen.checkout/entercash-ui@3.8.1?type=aar
 - pkg:maven/com.adyen.checkout/entercash-ui@3.8.2?type=aar
+- pkg:maven/com.adyen.checkout/entercash-ui@3.8.3?classifier=sources
+- pkg:maven/com.adyen.checkout/entercash-ui@3.8.3?type=aar
 - pkg:maven/com.adyen.checkout/entercash-ui@4.0.0-alpha01?type=aar
 - pkg:maven/com.adyen.checkout/entercash-ui@4.0.0-alpha02?type=aar

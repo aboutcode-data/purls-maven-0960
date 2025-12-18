@@ -1,2 +1,6 @@
 - pkg:maven/com.lmaye/app-common@1.0.1-RELEASE
 - pkg:maven/com.lmaye/app-common@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.lmaye/app-common@1.0.11-RELEASE
+- pkg:maven/com.lmaye/app-common@1.0.11-RELEASE?classifier=sources
+- pkg:maven/com.lmaye/app-common@1.0.12-RELEASE
+- pkg:maven/com.lmaye/app-common@1.0.12-RELEASE?classifier=sources

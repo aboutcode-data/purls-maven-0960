@@ -131,5 +131,9 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.0-rc1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.0-rc2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.1-java11
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.1-java11?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.1-rc1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.1-rc2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.1-rc3?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@3.3.1?classifier=sources

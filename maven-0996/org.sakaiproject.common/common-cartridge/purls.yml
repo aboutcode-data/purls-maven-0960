@@ -80,3 +80,5 @@
 - pkg:maven/org.sakaiproject.common/common-cartridge@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.common/common-cartridge@21.0
 - pkg:maven/org.sakaiproject.common/common-cartridge@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.common/common-cartridge@21.1
+- pkg:maven/org.sakaiproject.common/common-cartridge@21.1?classifier=sources

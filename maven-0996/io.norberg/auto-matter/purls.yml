@@ -31,6 +31,8 @@
 - pkg:maven/io.norberg/auto-matter@0.15.4?classifier=sources
 - pkg:maven/io.norberg/auto-matter@0.16.0
 - pkg:maven/io.norberg/auto-matter@0.16.0?classifier=sources
+- pkg:maven/io.norberg/auto-matter@0.17.0
+- pkg:maven/io.norberg/auto-matter@0.17.0?classifier=sources
 - pkg:maven/io.norberg/auto-matter@0.1?classifier=sources
 - pkg:maven/io.norberg/auto-matter@0.2
 - pkg:maven/io.norberg/auto-matter@0.2?classifier=sources

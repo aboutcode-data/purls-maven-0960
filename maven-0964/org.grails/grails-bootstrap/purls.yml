@@ -256,6 +256,10 @@
 - pkg:maven/org.grails/grails-bootstrap@3.3.1
 - pkg:maven/org.grails/grails-bootstrap@3.3.10
 - pkg:maven/org.grails/grails-bootstrap@3.3.10?classifier=sources
+- pkg:maven/org.grails/grails-bootstrap@3.3.13
+- pkg:maven/org.grails/grails-bootstrap@3.3.13?classifier=sources
+- pkg:maven/org.grails/grails-bootstrap@3.3.14
+- pkg:maven/org.grails/grails-bootstrap@3.3.14?classifier=sources
 - pkg:maven/org.grails/grails-bootstrap@3.3.1?classifier=sources
 - pkg:maven/org.grails/grails-bootstrap@3.3.2
 - pkg:maven/org.grails/grails-bootstrap@3.3.2?classifier=sources
@@ -270,6 +274,8 @@
 - pkg:maven/org.grails/grails-bootstrap@4.0.1
 - pkg:maven/org.grails/grails-bootstrap@4.0.10
 - pkg:maven/org.grails/grails-bootstrap@4.0.10?classifier=sources
+- pkg:maven/org.grails/grails-bootstrap@4.0.11
+- pkg:maven/org.grails/grails-bootstrap@4.0.11?classifier=sources
 - pkg:maven/org.grails/grails-bootstrap@4.0.1?classifier=sources
 - pkg:maven/org.grails/grails-bootstrap@4.0.5
 - pkg:maven/org.grails/grails-bootstrap@4.0.5?classifier=sources

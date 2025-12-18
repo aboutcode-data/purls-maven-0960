@@ -1,5 +1,6 @@
 - pkg:maven/net.consensys.quorum.tessera/cli-api@0.0.4?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/cli-api@0.0.5?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/cli-api@0.0.6?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/cli-api@0.11.0
 - pkg:maven/net.consensys.quorum.tessera/cli-api@0.11.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/cli-api@1.0.0
@@ -15,3 +16,4 @@
 - pkg:maven/net.consensys.quorum.tessera/cli-api@21.1.1
 - pkg:maven/net.consensys.quorum.tessera/cli-api@21.1.1?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/cli-api@21.4.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/cli-api@21.4.1?classifier=sources

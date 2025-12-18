@@ -5,6 +5,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.10?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.11
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.11?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.12
+- pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.12?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.2
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.2?classifier=sources
@@ -24,5 +26,9 @@
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.8?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.9
 - pkg:maven/org.apache.dubbo/dubbo-cluster@2.7.9?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-cluster@3.0.0
 - pkg:maven/org.apache.dubbo/dubbo-cluster@3.0.0.preview
 - pkg:maven/org.apache.dubbo/dubbo-cluster@3.0.0.preview?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-cluster@3.0.0?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-cluster@3.0.1
+- pkg:maven/org.apache.dubbo/dubbo-cluster@3.0.1?classifier=sources

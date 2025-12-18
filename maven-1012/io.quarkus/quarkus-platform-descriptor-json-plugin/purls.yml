@@ -51,6 +51,8 @@
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.11.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.11.6.Final
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.11.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.11.7.Final
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.11.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.12.0.CR1
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.12.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.12.0.Final
@@ -71,6 +73,12 @@
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.3.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.4.Final
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.4.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.5.Final
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.5.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.6.Final
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.7.Final
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.13.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@1.2.0.Final
@@ -157,3 +165,13 @@
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Alpha2
 - pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Alpha2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Alpha3
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Alpha3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.CR1
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.CR2
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.CR3
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.CR3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Final
+- pkg:maven/io.quarkus/quarkus-platform-descriptor-json-plugin@2.0.0.Final?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/com.graphql-java-kickstart/voyager-spring-boot-starter@11.0.0
 - pkg:maven/com.graphql-java-kickstart/voyager-spring-boot-starter@11.0.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/voyager-spring-boot-starter@11.1.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/voyager-spring-boot-starter@5.0.3
 - pkg:maven/com.graphql-java-kickstart/voyager-spring-boot-starter@5.0.3?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/voyager-spring-boot-starter@5.0.4

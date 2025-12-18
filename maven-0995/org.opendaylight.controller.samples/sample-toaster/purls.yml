@@ -119,6 +119,8 @@
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@2.0.6?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@2.0.7
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@2.0.7?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster@2.0.8
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster@2.0.8?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@3.0.0
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@3.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@3.0.1
@@ -137,3 +139,5 @@
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@3.0.7?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@3.0.8
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster@3.0.8?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster@4.0.0
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster@4.0.0?classifier=sources

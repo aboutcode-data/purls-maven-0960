@@ -1,2 +1,6 @@
 - pkg:maven/com.rallyhealth/weejson-jackson-v1_2.13@1.4.1
 - pkg:maven/com.rallyhealth/weejson-jackson-v1_2.13@1.4.1?classifier=sources
+- pkg:maven/com.rallyhealth/weejson-jackson-v1_2.13@1.4.2
+- pkg:maven/com.rallyhealth/weejson-jackson-v1_2.13@1.4.2?classifier=sources
+- pkg:maven/com.rallyhealth/weejson-jackson-v1_2.13@1.5.0
+- pkg:maven/com.rallyhealth/weejson-jackson-v1_2.13@1.5.0?classifier=sources

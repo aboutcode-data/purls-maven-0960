@@ -36,3 +36,5 @@
 - pkg:maven/com.powsybl/powsybl-afs-ws-client@3.4.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-ws-client@3.5.0
 - pkg:maven/com.powsybl/powsybl-afs-ws-client@3.5.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-ws-client@3.6.0
+- pkg:maven/com.powsybl/powsybl-afs-ws-client@3.6.0?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@1.8.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@1.8.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@1.8.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@2.0.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@2.0.0-M1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@2.0.0-M1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@2.0.0-M2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@2.0.0-M2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-milo-integration-test@2.0.0?classifier=sources

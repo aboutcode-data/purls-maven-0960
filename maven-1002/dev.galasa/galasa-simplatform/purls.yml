@@ -8,6 +8,8 @@
 - pkg:maven/dev.galasa/galasa-simplatform@0.13.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-simplatform@0.14.0
 - pkg:maven/dev.galasa/galasa-simplatform@0.14.0?classifier=sources
+- pkg:maven/dev.galasa/galasa-simplatform@0.15.0
+- pkg:maven/dev.galasa/galasa-simplatform@0.15.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-simplatform@0.3.0
 - pkg:maven/dev.galasa/galasa-simplatform@0.3.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-simplatform@0.4.0

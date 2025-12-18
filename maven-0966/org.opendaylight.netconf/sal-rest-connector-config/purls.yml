@@ -13,6 +13,7 @@
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.12.1
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.12.2
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.12.3
+- pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.12.4
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.13.0
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.13.1
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.13.2
@@ -53,3 +54,4 @@
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.9.1
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.9.2
 - pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@1.9.3
+- pkg:maven/org.opendaylight.netconf/sal-rest-connector-config@2.0.0

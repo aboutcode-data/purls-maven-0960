@@ -127,6 +127,12 @@
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@3.2.7
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@3.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@3.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@3.3.0
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@3.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@3.3.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@4.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@4.1.0
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.file.rank.api@4.1.0?classifier=sources-commercial

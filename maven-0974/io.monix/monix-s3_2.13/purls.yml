@@ -18,5 +18,7 @@
 - pkg:maven/io.monix/monix-s3_2.13@0.5.1?classifier=sources
 - pkg:maven/io.monix/monix-s3_2.13@0.5.2
 - pkg:maven/io.monix/monix-s3_2.13@0.5.2?classifier=sources
+- pkg:maven/io.monix/monix-s3_2.13@0.6.0
 - pkg:maven/io.monix/monix-s3_2.13@0.6.0-RC1
 - pkg:maven/io.monix/monix-s3_2.13@0.6.0-RC1?classifier=sources
+- pkg:maven/io.monix/monix-s3_2.13@0.6.0?classifier=sources

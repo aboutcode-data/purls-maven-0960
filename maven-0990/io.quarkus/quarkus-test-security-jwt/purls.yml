@@ -2,3 +2,13 @@
 - pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Alpha2
 - pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Alpha2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Alpha3
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Alpha3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.CR1
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.CR2
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.CR3
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.CR3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Final
+- pkg:maven/io.quarkus/quarkus-test-security-jwt@2.0.0.Final?classifier=sources

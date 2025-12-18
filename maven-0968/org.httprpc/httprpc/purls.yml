@@ -119,4 +119,6 @@
 - pkg:maven/org.httprpc/httprpc@8.2.3?classifier=sources
 - pkg:maven/org.httprpc/httprpc@8.2?classifier=sources
 - pkg:maven/org.httprpc/httprpc@8.3.1?classifier=sources
+- pkg:maven/org.httprpc/httprpc@8.3.2?classifier=sources
+- pkg:maven/org.httprpc/httprpc@8.3.3?classifier=sources
 - pkg:maven/org.httprpc/httprpc@8.3?classifier=sources

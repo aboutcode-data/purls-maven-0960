@@ -22,3 +22,5 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@5.2.1?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@5.2.2?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@5.2.2?type=aar
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@5.2.3?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@5.2.3?type=aar

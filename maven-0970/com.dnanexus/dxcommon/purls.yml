@@ -32,3 +32,11 @@
 - pkg:maven/com.dnanexus/dxcommon@0.2.9?classifier=sources
 - pkg:maven/com.dnanexus/dxcommon@0.3.0
 - pkg:maven/com.dnanexus/dxcommon@0.3.0?classifier=sources
+- pkg:maven/com.dnanexus/dxcommon@0.4.0
+- pkg:maven/com.dnanexus/dxcommon@0.4.0?classifier=sources
+- pkg:maven/com.dnanexus/dxcommon@0.4.1
+- pkg:maven/com.dnanexus/dxcommon@0.4.1?classifier=sources
+- pkg:maven/com.dnanexus/dxcommon@0.5.0
+- pkg:maven/com.dnanexus/dxcommon@0.5.0?classifier=sources
+- pkg:maven/com.dnanexus/dxcommon@0.5.1
+- pkg:maven/com.dnanexus/dxcommon@0.5.1?classifier=sources

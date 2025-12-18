@@ -11,6 +11,8 @@
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.0.24.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.0.25.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.0.26.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.0.27.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.0.28.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.2.Final?classifier=source-release&type=zip
@@ -18,3 +20,4 @@
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.5.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-parent@1.1.7.Final?classifier=source-release&type=zip

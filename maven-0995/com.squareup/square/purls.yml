@@ -1,5 +1,9 @@
 - pkg:maven/com.squareup/square@10.0.0.20210421
 - pkg:maven/com.squareup/square@10.0.0.20210421?classifier=sources
+- pkg:maven/com.squareup/square@11.0.0.20210513
+- pkg:maven/com.squareup/square@11.0.0.20210513?classifier=sources
+- pkg:maven/com.squareup/square@12.0.0.20210616
+- pkg:maven/com.squareup/square@12.0.0.20210616?classifier=sources
 - pkg:maven/com.squareup/square@3.3.0.20191217
 - pkg:maven/com.squareup/square@3.3.0.20191217?classifier=sources
 - pkg:maven/com.squareup/square@4.0.0.20191217

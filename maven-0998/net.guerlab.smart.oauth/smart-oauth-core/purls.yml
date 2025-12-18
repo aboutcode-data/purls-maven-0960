@@ -1,2 +1,4 @@
 - pkg:maven/net.guerlab.smart.oauth/smart-oauth-core@20.2.0
 - pkg:maven/net.guerlab.smart.oauth/smart-oauth-core@20.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.oauth/smart-oauth-core@21.5.0
+- pkg:maven/net.guerlab.smart.oauth/smart-oauth-core@21.5.0?classifier=sources

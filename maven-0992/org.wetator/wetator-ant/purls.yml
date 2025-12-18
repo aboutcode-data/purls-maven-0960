@@ -10,6 +10,8 @@
 - pkg:maven/org.wetator/wetator-ant@1.12.0?classifier=sources
 - pkg:maven/org.wetator/wetator-ant@1.13.0
 - pkg:maven/org.wetator/wetator-ant@1.13.0?classifier=sources
+- pkg:maven/org.wetator/wetator-ant@1.14.0
+- pkg:maven/org.wetator/wetator-ant@1.14.0?classifier=sources
 - pkg:maven/org.wetator/wetator-ant@1.2.0
 - pkg:maven/org.wetator/wetator-ant@1.2.0?classifier=sources
 - pkg:maven/org.wetator/wetator-ant@1.3.0

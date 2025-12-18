@@ -16,3 +16,5 @@
 - pkg:maven/com.lightbend.akka/akka-persistence-spanner_2.12@1.0.0-RC6?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-persistence-spanner_2.12@1.0.0-RC7
 - pkg:maven/com.lightbend.akka/akka-persistence-spanner_2.12@1.0.0-RC7?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-persistence-spanner_2.12@1.0.0-RC8
+- pkg:maven/com.lightbend.akka/akka-persistence-spanner_2.12@1.0.0-RC8?classifier=sources

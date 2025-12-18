@@ -12,3 +12,5 @@
 - pkg:maven/com.avast.grpc/grpc-json-bridge-core-scalapb_2.13@0.18.5?classifier=sources
 - pkg:maven/com.avast.grpc/grpc-json-bridge-core-scalapb_2.13@0.18.6
 - pkg:maven/com.avast.grpc/grpc-json-bridge-core-scalapb_2.13@0.18.6?classifier=sources
+- pkg:maven/com.avast.grpc/grpc-json-bridge-core-scalapb_2.13@0.18.7
+- pkg:maven/com.avast.grpc/grpc-json-bridge-core-scalapb_2.13@0.18.7?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/co.tamara/java-sdk@1.0.0
 - pkg:maven/co.tamara/java-sdk@1.0.0?classifier=sources
+- pkg:maven/co.tamara/java-sdk@1.0.1
+- pkg:maven/co.tamara/java-sdk@1.0.1?classifier=sources
+- pkg:maven/co.tamara/java-sdk@1.0.2
+- pkg:maven/co.tamara/java-sdk@1.0.2?classifier=sources

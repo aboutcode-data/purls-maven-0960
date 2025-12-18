@@ -1,2 +1,4 @@
 - pkg:maven/com.github.kancyframework/springx-boot-registry@0.0.3-RELEASE
 - pkg:maven/com.github.kancyframework/springx-boot-registry@0.0.3-RELEASE?classifier=sources
+- pkg:maven/com.github.kancyframework/springx-boot-registry@0.0.4-RELEASE
+- pkg:maven/com.github.kancyframework/springx-boot-registry@0.0.4-RELEASE?classifier=sources

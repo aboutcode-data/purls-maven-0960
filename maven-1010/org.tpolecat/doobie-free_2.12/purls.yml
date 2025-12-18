@@ -14,6 +14,10 @@
 - pkg:maven/org.tpolecat/doobie-free_2.12@0.13.1?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.12@0.13.2
 - pkg:maven/org.tpolecat/doobie-free_2.12@0.13.2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-free_2.12@0.13.3
+- pkg:maven/org.tpolecat/doobie-free_2.12@0.13.3?classifier=sources
+- pkg:maven/org.tpolecat/doobie-free_2.12@0.13.4
+- pkg:maven/org.tpolecat/doobie-free_2.12@0.13.4?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.12@0.5.0
 - pkg:maven/org.tpolecat/doobie-free_2.12@0.5.0-M1
 - pkg:maven/org.tpolecat/doobie-free_2.12@0.5.0-M10
@@ -112,3 +116,9 @@
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M1?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M2
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M3
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M3?classifier=sources
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M4
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M4?classifier=sources
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M5
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M5?classifier=sources

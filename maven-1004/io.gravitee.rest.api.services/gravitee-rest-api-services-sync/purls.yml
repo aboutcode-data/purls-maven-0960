@@ -8,6 +8,7 @@
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.14?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.15?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.16?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.17?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.1?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.2?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.0.3?classifier=sources
@@ -38,6 +39,9 @@
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.0?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.10?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.11?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.12?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.15?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.16?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.1?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.2?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.5.3?classifier=sources
@@ -54,5 +58,12 @@
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.7.0?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.7.1?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.7.2?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.7.4?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.8.0?classifier=sources
 - pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.8.1?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.8.3?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.8.4?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.8.5?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.9.0?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.9.1?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-sync@3.9.2?classifier=sources

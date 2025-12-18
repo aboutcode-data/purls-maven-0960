@@ -44,3 +44,7 @@
 - pkg:maven/xyz.erupt/erupt-core@1.6.9?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.7.0
 - pkg:maven/xyz.erupt/erupt-core@1.7.0?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.7.1
+- pkg:maven/xyz.erupt/erupt-core@1.7.1?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.7.2
+- pkg:maven/xyz.erupt/erupt-core@1.7.2?classifier=sources

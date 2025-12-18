@@ -2,3 +2,5 @@
 - pkg:maven/com.manorrock.faces.converter/manorrock-faces-converter-bytes@21.4.0-legacy
 - pkg:maven/com.manorrock.faces.converter/manorrock-faces-converter-bytes@21.4.0-legacy?classifier=sources
 - pkg:maven/com.manorrock.faces.converter/manorrock-faces-converter-bytes@21.4.0?classifier=sources
+- pkg:maven/com.manorrock.faces.converter/manorrock-faces-converter-bytes@21.5.0
+- pkg:maven/com.manorrock.faces.converter/manorrock-faces-converter-bytes@21.5.0?classifier=sources

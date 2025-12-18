@@ -20,3 +20,7 @@
 - pkg:maven/org.dhallj/dhall-scala_2.12@0.7.0-M1?classifier=sources
 - pkg:maven/org.dhallj/dhall-scala_2.12@0.8.0-M1
 - pkg:maven/org.dhallj/dhall-scala_2.12@0.8.0-M1?classifier=sources
+- pkg:maven/org.dhallj/dhall-scala_2.12@0.9.0-M1
+- pkg:maven/org.dhallj/dhall-scala_2.12@0.9.0-M1?classifier=sources
+- pkg:maven/org.dhallj/dhall-scala_2.12@0.9.0-M2
+- pkg:maven/org.dhallj/dhall-scala_2.12@0.9.0-M2?classifier=sources

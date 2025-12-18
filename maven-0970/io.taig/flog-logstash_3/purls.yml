@@ -1,0 +1,4 @@
+- pkg:maven/io.taig/flog-logstash_3@0.10.8
+- pkg:maven/io.taig/flog-logstash_3@0.10.8?classifier=sources
+- pkg:maven/io.taig/flog-logstash_3@0.10.9
+- pkg:maven/io.taig/flog-logstash_3@0.10.9?classifier=sources

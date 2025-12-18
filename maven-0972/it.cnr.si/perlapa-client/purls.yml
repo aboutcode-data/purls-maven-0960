@@ -1,5 +1,11 @@
 - pkg:maven/it.cnr.si/perlapa-client@1.0.0
 - pkg:maven/it.cnr.si/perlapa-client@1.0.0?classifier=sources
+- pkg:maven/it.cnr.si/perlapa-client@1.0.12
+- pkg:maven/it.cnr.si/perlapa-client@1.0.12?classifier=sources
+- pkg:maven/it.cnr.si/perlapa-client@1.0.13
+- pkg:maven/it.cnr.si/perlapa-client@1.0.13?classifier=sources
+- pkg:maven/it.cnr.si/perlapa-client@1.0.14
+- pkg:maven/it.cnr.si/perlapa-client@1.0.14?classifier=sources
 - pkg:maven/it.cnr.si/perlapa-client@1.0.7
 - pkg:maven/it.cnr.si/perlapa-client@1.0.7?classifier=sources
 - pkg:maven/it.cnr.si/perlapa-client@1.0.8

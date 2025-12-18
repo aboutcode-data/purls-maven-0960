@@ -1,2 +1,4 @@
 - pkg:maven/com.skypyb.poet/poet-spring-boot-starter@v1.0.0
 - pkg:maven/com.skypyb.poet/poet-spring-boot-starter@v1.0.0?classifier=sources
+- pkg:maven/com.skypyb.poet/poet-spring-boot-starter@v1.1.0.RELEASE
+- pkg:maven/com.skypyb.poet/poet-spring-boot-starter@v1.1.0.RELEASE?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/d3-dsv@2.0.0-rc.1
 - pkg:maven/org.webjars.npm/d3-dsv@2.0.0-rc.1?classifier=sources
 - pkg:maven/org.webjars.npm/d3-dsv@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3-dsv@3.0.1
+- pkg:maven/org.webjars.npm/d3-dsv@3.0.1?classifier=sources

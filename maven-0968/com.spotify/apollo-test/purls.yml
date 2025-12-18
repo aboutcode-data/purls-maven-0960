@@ -60,6 +60,10 @@
 - pkg:maven/com.spotify/apollo-test@1.17.7?classifier=sources
 - pkg:maven/com.spotify/apollo-test@1.18.0
 - pkg:maven/com.spotify/apollo-test@1.18.0?classifier=sources
+- pkg:maven/com.spotify/apollo-test@1.18.1
+- pkg:maven/com.spotify/apollo-test@1.18.1?classifier=sources
+- pkg:maven/com.spotify/apollo-test@1.19.0-RC
+- pkg:maven/com.spotify/apollo-test@1.19.0-RC?classifier=sources
 - pkg:maven/com.spotify/apollo-test@1.2.0
 - pkg:maven/com.spotify/apollo-test@1.2.0?classifier=sources
 - pkg:maven/com.spotify/apollo-test@1.2.1

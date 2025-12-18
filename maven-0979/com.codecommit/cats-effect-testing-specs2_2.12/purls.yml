@@ -18,6 +18,8 @@
 - pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@0.5.2?classifier=sources
 - pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@0.5.3
 - pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@0.5.3?classifier=sources
+- pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@0.5.4
+- pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@0.5.4?classifier=sources
 - pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@1.0-23-f76ace5
 - pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@1.0-23-f76ace5?classifier=sources
 - pkg:maven/com.codecommit/cats-effect-testing-specs2_2.12@1.0-24-af2c3f3

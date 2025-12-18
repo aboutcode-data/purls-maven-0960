@@ -1,2 +1,4 @@
 - pkg:maven/io.amient.affinity/metrics-reporter-kafka_2.6@0.15.1
 - pkg:maven/io.amient.affinity/metrics-reporter-kafka_2.6@0.15.1?classifier=sources
+- pkg:maven/io.amient.affinity/metrics-reporter-kafka_2.6@0.15.2
+- pkg:maven/io.amient.affinity/metrics-reporter-kafka_2.6@0.15.2?classifier=sources

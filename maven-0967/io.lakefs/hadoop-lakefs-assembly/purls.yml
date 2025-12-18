@@ -1,0 +1,4 @@
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.0
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.0-RC.0
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.0-RC.0?classifier=sources
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.0?classifier=sources

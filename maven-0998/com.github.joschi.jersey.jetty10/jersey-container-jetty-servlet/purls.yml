@@ -1,0 +1,4 @@
+- pkg:maven/com.github.joschi.jersey.jetty10/jersey-container-jetty-servlet@2.33
+- pkg:maven/com.github.joschi.jersey.jetty10/jersey-container-jetty-servlet@2.33?classifier=sources
+- pkg:maven/com.github.joschi.jersey.jetty10/jersey-container-jetty-servlet@2.34
+- pkg:maven/com.github.joschi.jersey.jetty10/jersey-container-jetty-servlet@2.34?classifier=sources

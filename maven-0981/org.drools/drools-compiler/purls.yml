@@ -334,6 +334,14 @@
 - pkg:maven/org.drools/drools-compiler@7.54.0.Beta1?classifier=sources
 - pkg:maven/org.drools/drools-compiler@7.54.0.Final
 - pkg:maven/org.drools/drools-compiler@7.54.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-compiler@7.55.0.Beta1
+- pkg:maven/org.drools/drools-compiler@7.55.0.Beta1?classifier=sources
+- pkg:maven/org.drools/drools-compiler@7.55.0.Final
+- pkg:maven/org.drools/drools-compiler@7.55.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-compiler@7.56.0.Final
+- pkg:maven/org.drools/drools-compiler@7.56.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-compiler@7.57.0.Beta1
+- pkg:maven/org.drools/drools-compiler@7.57.0.Beta1?classifier=sources
 - pkg:maven/org.drools/drools-compiler@7.6.0.Final
 - pkg:maven/org.drools/drools-compiler@7.6.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-compiler@7.6.0.t022

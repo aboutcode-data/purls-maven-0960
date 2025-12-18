@@ -62,3 +62,5 @@
 - pkg:maven/org.sakaiproject/sakai-web-api@20.3?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-web-api@21.0
 - pkg:maven/org.sakaiproject/sakai-web-api@21.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-web-api@21.1
+- pkg:maven/org.sakaiproject/sakai-web-api@21.1?classifier=sources

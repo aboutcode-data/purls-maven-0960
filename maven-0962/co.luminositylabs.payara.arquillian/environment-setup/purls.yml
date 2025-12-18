@@ -1,2 +1,6 @@
 - pkg:maven/co.luminositylabs.payara.arquillian/environment-setup@2.4.1-ll-20210419.01
 - pkg:maven/co.luminositylabs.payara.arquillian/environment-setup@2.4.1-ll-20210419.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/environment-setup@2.4.2-ll-20210611.01
+- pkg:maven/co.luminositylabs.payara.arquillian/environment-setup@2.4.2-ll-20210611.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/environment-setup@2.4.3-ll-20210626.01
+- pkg:maven/co.luminositylabs.payara.arquillian/environment-setup@2.4.3-ll-20210626.01?classifier=sources

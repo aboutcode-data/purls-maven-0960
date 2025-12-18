@@ -92,3 +92,5 @@
 - pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.5.2-b1?classifier=sources
 - pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.5.2-b2
 - pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.5.2-b2?classifier=sources
+- pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.6.0-rc3
+- pkg:maven/org.onosproject/com_google_protobuf_protobuf_java@2.6.0-rc3?classifier=sources

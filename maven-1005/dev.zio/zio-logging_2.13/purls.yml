@@ -33,6 +33,10 @@
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.0
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.0?classifier=sources
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.1
+- pkg:maven/dev.zio/zio-logging_2.13@0.5.10
+- pkg:maven/dev.zio/zio-logging_2.13@0.5.10?classifier=sources
+- pkg:maven/dev.zio/zio-logging_2.13@0.5.11
+- pkg:maven/dev.zio/zio-logging_2.13@0.5.11?classifier=sources
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.1?classifier=sources
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.2
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.2?classifier=sources
@@ -48,3 +52,5 @@
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.7?classifier=sources
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.8
 - pkg:maven/dev.zio/zio-logging_2.13@0.5.8?classifier=sources
+- pkg:maven/dev.zio/zio-logging_2.13@0.5.9
+- pkg:maven/dev.zio/zio-logging_2.13@0.5.9?classifier=sources

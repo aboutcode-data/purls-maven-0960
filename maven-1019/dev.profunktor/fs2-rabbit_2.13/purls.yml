@@ -16,3 +16,5 @@
 - pkg:maven/dev.profunktor/fs2-rabbit_2.13@4.0.0-RC1
 - pkg:maven/dev.profunktor/fs2-rabbit_2.13@4.0.0-RC1?classifier=sources
 - pkg:maven/dev.profunktor/fs2-rabbit_2.13@4.0.0?classifier=sources
+- pkg:maven/dev.profunktor/fs2-rabbit_2.13@4.1.0
+- pkg:maven/dev.profunktor/fs2-rabbit_2.13@4.1.0?classifier=sources

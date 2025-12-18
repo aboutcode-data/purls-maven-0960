@@ -74,3 +74,5 @@
 - pkg:maven/io.buoyant/telemetry-prometheus_2.12@1.7.3?classifier=sources
 - pkg:maven/io.buoyant/telemetry-prometheus_2.12@1.7.4
 - pkg:maven/io.buoyant/telemetry-prometheus_2.12@1.7.4?classifier=sources
+- pkg:maven/io.buoyant/telemetry-prometheus_2.12@1.7.5-rc1
+- pkg:maven/io.buoyant/telemetry-prometheus_2.12@1.7.5-rc1?classifier=sources

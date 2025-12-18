@@ -9,6 +9,10 @@
 - pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.1
 - pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.10
 - pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.10?classifier=sources
+- pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.12
+- pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.12?classifier=sources
+- pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.13
+- pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.13?classifier=sources
 - pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.1?classifier=sources
 - pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.2
 - pkg:maven/com.baremaps/baremaps-osm-lmdb@0.5.2?classifier=sources

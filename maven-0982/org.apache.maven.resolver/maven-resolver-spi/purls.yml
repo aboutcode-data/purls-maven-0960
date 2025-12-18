@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.6.3?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.7.0
 - pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.7.0?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.7.1
+- pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.7.1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/io.basestar/basestar-connector-dynamodb@1.1?classifier=sources
 - pkg:maven/io.basestar/basestar-connector-dynamodb@1.2.1
 - pkg:maven/io.basestar/basestar-connector-dynamodb@1.2.1?classifier=sources
+- pkg:maven/io.basestar/basestar-connector-dynamodb@1.2.2
+- pkg:maven/io.basestar/basestar-connector-dynamodb@1.2.2?classifier=sources

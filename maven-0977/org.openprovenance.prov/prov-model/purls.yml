@@ -21,6 +21,10 @@
 - pkg:maven/org.openprovenance.prov/prov-model@0.9.11?classifier=sources
 - pkg:maven/org.openprovenance.prov/prov-model@0.9.12
 - pkg:maven/org.openprovenance.prov/prov-model@0.9.12?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-model@0.9.13
+- pkg:maven/org.openprovenance.prov/prov-model@0.9.13?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-model@0.9.14
+- pkg:maven/org.openprovenance.prov/prov-model@0.9.14?classifier=sources
 - pkg:maven/org.openprovenance.prov/prov-model@0.9.1?classifier=sources
 - pkg:maven/org.openprovenance.prov/prov-model@0.9.2
 - pkg:maven/org.openprovenance.prov/prov-model@0.9.2?classifier=sources

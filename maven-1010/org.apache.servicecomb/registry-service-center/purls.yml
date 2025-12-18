@@ -18,3 +18,7 @@
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.2.2?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.2.3
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.2.3?classifier=sources
+- pkg:maven/org.apache.servicecomb/registry-service-center@2.2.4
+- pkg:maven/org.apache.servicecomb/registry-service-center@2.2.4?classifier=sources
+- pkg:maven/org.apache.servicecomb/registry-service-center@2.3.0
+- pkg:maven/org.apache.servicecomb/registry-service-center@2.3.0?classifier=sources

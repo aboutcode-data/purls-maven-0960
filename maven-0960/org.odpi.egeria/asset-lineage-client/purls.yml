@@ -8,6 +8,10 @@
 - pkg:maven/org.odpi.egeria/asset-lineage-client@1.8
 - pkg:maven/org.odpi.egeria/asset-lineage-client@2.0
 - pkg:maven/org.odpi.egeria/asset-lineage-client@2.1
+- pkg:maven/org.odpi.egeria/asset-lineage-client@2.10
+- pkg:maven/org.odpi.egeria/asset-lineage-client@2.10?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-lineage-client@2.11
+- pkg:maven/org.odpi.egeria/asset-lineage-client@2.11?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-lineage-client@2.2
 - pkg:maven/org.odpi.egeria/asset-lineage-client@2.3
 - pkg:maven/org.odpi.egeria/asset-lineage-client@2.3?classifier=sources

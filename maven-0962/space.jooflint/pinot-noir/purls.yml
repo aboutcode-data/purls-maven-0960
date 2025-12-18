@@ -1,0 +1,4 @@
+- pkg:maven/space.jooflint/pinot-noir@0.0.2?classifier=sources
+- pkg:maven/space.jooflint/pinot-noir@0.1.0?classifier=sources
+- pkg:maven/space.jooflint/pinot-noir@1.0.1beta?classifier=sources
+- pkg:maven/space.jooflint/pinot-noir@1.1.11?classifier=sources
