@@ -1,0 +1,12 @@
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.1-SP1
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.1-SP1?classifier=sources
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.1-jre14-SP1
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.1-jre14-SP1?classifier=sources
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.1-jre15-SP1
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.1-jre15-SP1?classifier=sources
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.2
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.2-jre14
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.2-jre14?classifier=sources
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.2-jre15
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.2-jre15?classifier=sources
+- pkg:maven/com.guicedee.services/azure-identity@1.1.1.2?classifier=sources

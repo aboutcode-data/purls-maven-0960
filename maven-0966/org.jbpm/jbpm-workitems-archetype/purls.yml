@@ -49,8 +49,11 @@
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.46.0.t20201030?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.47.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.48.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.49.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.5.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.5.0.t018?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.50.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-archetype@7.51.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.6.0.t022?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-archetype@7.7.0.Final?classifier=sources

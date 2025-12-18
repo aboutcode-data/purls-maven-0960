@@ -1,0 +1,4 @@
+- pkg:maven/io.debezium/debezium-checkstyle@1.5.0.Beta2
+- pkg:maven/io.debezium/debezium-checkstyle@1.5.0.Beta2?classifier=sources
+- pkg:maven/io.debezium/debezium-checkstyle@1.5.0.CR1
+- pkg:maven/io.debezium/debezium-checkstyle@1.5.0.CR1?classifier=sources

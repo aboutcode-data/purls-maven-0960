@@ -8,3 +8,5 @@
 - pkg:maven/me.lyh/parquet-tensorflow@0.3.3?classifier=sources
 - pkg:maven/me.lyh/parquet-tensorflow@0.3.4
 - pkg:maven/me.lyh/parquet-tensorflow@0.3.4?classifier=sources
+- pkg:maven/me.lyh/parquet-tensorflow@0.4.0
+- pkg:maven/me.lyh/parquet-tensorflow@0.4.0?classifier=sources

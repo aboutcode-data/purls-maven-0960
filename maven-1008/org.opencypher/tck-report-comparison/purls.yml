@@ -1,2 +1,4 @@
 - pkg:maven/org.opencypher/tck-report-comparison@1.0.0-M15
 - pkg:maven/org.opencypher/tck-report-comparison@1.0.0-M15?classifier=sources
+- pkg:maven/org.opencypher/tck-report-comparison@1.0.0-M16
+- pkg:maven/org.opencypher/tck-report-comparison@1.0.0-M16?classifier=sources

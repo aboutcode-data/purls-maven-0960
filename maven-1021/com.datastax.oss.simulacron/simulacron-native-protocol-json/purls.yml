@@ -1,5 +1,7 @@
 - pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.10.0
 - pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.10.0?classifier=sources
+- pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.11.0
+- pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.11.0?classifier=sources
 - pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.8.0
 - pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.8.0?classifier=sources
 - pkg:maven/com.datastax.oss.simulacron/simulacron-native-protocol-json@0.8.1

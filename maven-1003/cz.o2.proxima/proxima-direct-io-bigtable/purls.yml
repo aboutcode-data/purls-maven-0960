@@ -12,3 +12,11 @@
 - pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.5.0?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.5.1
 - pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.5.1?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.0
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.0-jdk11
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.0-jdk11?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.0?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.1
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.1-jdk11
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.1-jdk11?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-bigtable@0.6.1?classifier=sources

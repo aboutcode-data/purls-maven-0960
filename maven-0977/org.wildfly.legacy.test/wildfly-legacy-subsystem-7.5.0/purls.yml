@@ -22,3 +22,5 @@
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@4.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@5.0.0.Final
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@5.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@6.0.0.Final
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-subsystem-7.5.0@6.0.0.Final?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.0.0
 - pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.0.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.1.0
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.1.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.2.0
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.2.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.3.0
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.3.0?classifier=sources

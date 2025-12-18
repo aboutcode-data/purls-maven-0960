@@ -89,3 +89,6 @@
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.7.0.Alpha5?classifier=sources
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.7.0.Alpha6
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.7.0.Alpha6?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.7.0.Alpha7?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.7.0.Alpha8?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.7.0.Alpha9?classifier=sources

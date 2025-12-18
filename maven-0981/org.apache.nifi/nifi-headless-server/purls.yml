@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.13.0
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.13.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.13.1
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.13.1?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.13.2
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.13.2?classifier=sources

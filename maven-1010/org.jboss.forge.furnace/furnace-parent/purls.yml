@@ -46,6 +46,8 @@
 - pkg:maven/org.jboss.forge.furnace/furnace-parent@2.28.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.furnace/furnace-parent@2.28.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.furnace/furnace-parent@2.28.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.furnace/furnace-parent@2.28.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.furnace/furnace-parent@2.29.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.furnace/furnace-parent@2.3.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.furnace/furnace-parent@2.4.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.furnace/furnace-parent@2.4.1.Final?classifier=source-release&type=zip

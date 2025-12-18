@@ -66,3 +66,7 @@
 - pkg:maven/io.vlingo/vlingo-common@1.4.0?classifier=sources
 - pkg:maven/io.vlingo/vlingo-common@1.4.3
 - pkg:maven/io.vlingo/vlingo-common@1.4.3?classifier=sources
+- pkg:maven/io.vlingo/vlingo-common@1.5.0
+- pkg:maven/io.vlingo/vlingo-common@1.5.0?classifier=sources
+- pkg:maven/io.vlingo/vlingo-common@1.5.2
+- pkg:maven/io.vlingo/vlingo-common@1.5.2?classifier=sources

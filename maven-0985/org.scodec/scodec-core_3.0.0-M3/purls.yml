@@ -8,6 +8,18 @@
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-16-e40cb1a?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-17-e333dd9
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-17-e333dd9?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-18-cfe4419
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-18-cfe4419?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-20-8fa9ab7
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-20-8fa9ab7?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-22-8d41250
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-22-8d41250?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-24-f4fb1ec
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-24-f4fb1ec?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-26-be4b366
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-26-be4b366?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-27-3fb62fc
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-27-3fb62fc?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-5-2c9b5c1
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-5-2c9b5c1?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-7-124d285
@@ -16,3 +28,5 @@
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0-9-4c86b95?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0.0-M3
 - pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0.0-M3?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0.0-RC1
+- pkg:maven/org.scodec/scodec-core_3.0.0-M3@2.0.0-RC1?classifier=sources

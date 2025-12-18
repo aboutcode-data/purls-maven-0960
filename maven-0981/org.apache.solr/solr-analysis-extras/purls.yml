@@ -190,3 +190,7 @@
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.6.3?classifier=sources
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.7.0
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.7.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-analysis-extras@8.8.0
+- pkg:maven/org.apache.solr/solr-analysis-extras@8.8.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-analysis-extras@8.8.1
+- pkg:maven/org.apache.solr/solr-analysis-extras@8.8.1?classifier=sources

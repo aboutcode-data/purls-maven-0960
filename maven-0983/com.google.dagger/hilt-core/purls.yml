@@ -12,3 +12,7 @@
 - pkg:maven/com.google.dagger/hilt-core@2.31.1-alpha?classifier=sources
 - pkg:maven/com.google.dagger/hilt-core@2.31.2-alpha
 - pkg:maven/com.google.dagger/hilt-core@2.31.2-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.32-alpha
+- pkg:maven/com.google.dagger/hilt-core@2.32-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.33-beta
+- pkg:maven/com.google.dagger/hilt-core@2.33-beta?classifier=sources

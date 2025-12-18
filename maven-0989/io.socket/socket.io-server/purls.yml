@@ -6,3 +6,7 @@
 - pkg:maven/io.socket/socket.io-server@1.0.2?classifier=sources
 - pkg:maven/io.socket/socket.io-server@1.0.3
 - pkg:maven/io.socket/socket.io-server@1.0.3?classifier=sources
+- pkg:maven/io.socket/socket.io-server@3.0.0
+- pkg:maven/io.socket/socket.io-server@3.0.0?classifier=sources
+- pkg:maven/io.socket/socket.io-server@3.0.1
+- pkg:maven/io.socket/socket.io-server@3.0.1?classifier=sources

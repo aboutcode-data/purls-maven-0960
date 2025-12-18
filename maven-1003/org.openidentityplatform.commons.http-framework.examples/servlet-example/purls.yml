@@ -1,5 +1,7 @@
 - pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.10?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.10?type=war
+- pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.11?classifier=sources
+- pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.11?type=war
 - pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.7?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.7?type=war
 - pkg:maven/org.openidentityplatform.commons.http-framework.examples/servlet-example@2.0.8?classifier=sources

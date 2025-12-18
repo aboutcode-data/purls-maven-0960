@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.pinot/pinot-spark@0.5.0?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-spark@0.6.0
 - pkg:maven/org.apache.pinot/pinot-spark@0.6.0?classifier=sources
+- pkg:maven/org.apache.pinot/pinot-spark@0.7.0
+- pkg:maven/org.apache.pinot/pinot-spark@0.7.0?classifier=sources

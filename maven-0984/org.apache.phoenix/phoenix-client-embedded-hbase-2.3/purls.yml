@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.phoenix/phoenix-client-embedded-hbase-2.3@5.1.0
+- pkg:maven/org.apache.phoenix/phoenix-client-embedded-hbase-2.3@5.1.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-client-embedded-hbase-2.3@5.1.1
+- pkg:maven/org.apache.phoenix/phoenix-client-embedded-hbase-2.3@5.1.1?classifier=sources

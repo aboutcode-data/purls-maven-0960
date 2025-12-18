@@ -10,3 +10,5 @@
 - pkg:maven/org.typelevel/mouse_2.13@0.26.2
 - pkg:maven/org.typelevel/mouse_2.13@0.26.2?classifier=sources
 - pkg:maven/org.typelevel/mouse_2.13@0.26?classifier=sources
+- pkg:maven/org.typelevel/mouse_2.13@1.0.0
+- pkg:maven/org.typelevel/mouse_2.13@1.0.0?classifier=sources

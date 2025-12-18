@@ -30,8 +30,14 @@
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.2.0?classifier=sources
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.3.0
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.3.0?classifier=sources
+- pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.4.0
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.4.0-M1
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.4.0-M1?classifier=sources
+- pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.4.0?classifier=sources
+- pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.5.0
+- pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.5.0?classifier=sources
+- pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.6.0
+- pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.2.6.0?classifier=sources
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.3.0.0-SNAP2
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.3.0.0-SNAP2?classifier=sources
 - pkg:maven/org.scalatestplus/easymock-3-2_2.13@3.3.0.0-SNAP3

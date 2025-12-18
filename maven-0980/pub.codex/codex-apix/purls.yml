@@ -39,3 +39,6 @@
 - pkg:maven/pub.codex/codex-apix@3.2.8?classifier=sources
 - pkg:maven/pub.codex/codex-apix@3.2.9
 - pkg:maven/pub.codex/codex-apix@3.2.9?classifier=sources
+- pkg:maven/pub.codex/codex-apix@4.0.0?classifier=sources
+- pkg:maven/pub.codex/codex-apix@4.1.0?classifier=sources
+- pkg:maven/pub.codex/codex-apix@4.2.0?classifier=sources

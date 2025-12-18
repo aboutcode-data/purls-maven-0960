@@ -28,3 +28,5 @@
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.1?type=war
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.2?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.2?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.0?type=war

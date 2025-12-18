@@ -14,6 +14,8 @@
 - pkg:maven/org.neo4j/neo4j-jdbc-http@3.4.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-http@3.5.1
 - pkg:maven/org.neo4j/neo4j-jdbc-http@3.5.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-http@3.5.2
+- pkg:maven/org.neo4j/neo4j-jdbc-http@3.5.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-http@4.0.0
 - pkg:maven/org.neo4j/neo4j-jdbc-http@4.0.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-http@4.0.1

@@ -2,6 +2,13 @@
 - pkg:maven/dk.bankdata.tools/cache@0.9.3-BETA?classifier=sources
 - pkg:maven/dk.bankdata.tools/cache@0.9.4-BETA?classifier=sources
 - pkg:maven/dk.bankdata.tools/cache@1.0.0?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.10-beta?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.10.1-beta?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.10.2-beta?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.10?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.11?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.12-BETA?classifier=sources
+- pkg:maven/dk.bankdata.tools/cache@1.0.12?classifier=sources
 - pkg:maven/dk.bankdata.tools/cache@1.0.1?classifier=sources
 - pkg:maven/dk.bankdata.tools/cache@1.0.2?classifier=sources
 - pkg:maven/dk.bankdata.tools/cache@1.0.3?classifier=sources

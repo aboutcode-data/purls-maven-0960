@@ -5,4 +5,6 @@
 - pkg:maven/com.github.spoonlabs/coming@5
 - pkg:maven/com.github.spoonlabs/coming@5.1.0
 - pkg:maven/com.github.spoonlabs/coming@5.1.0?classifier=sources
+- pkg:maven/com.github.spoonlabs/coming@5.2.0
+- pkg:maven/com.github.spoonlabs/coming@5.2.0?classifier=sources
 - pkg:maven/com.github.spoonlabs/coming@5?classifier=sources

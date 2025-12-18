@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@11.2
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@11.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@11.2?classifier=sources
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@12.2
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@12.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@12.2?classifier=sources

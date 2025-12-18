@@ -1,3 +1,4 @@
+- pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1
 - pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20201125-1c3538a-NIGHTLY
 - pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20201125-1c3538a-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20201125-6a56706-NIGHTLY
@@ -74,3 +75,8 @@
 - pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210129-c49d6c0-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210130-ab3bc41-NIGHTLY
 - pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210130-ab3bc41-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210131-913d0a8-NIGHTLY
+- pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210131-913d0a8-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210202-8d43a9c-NIGHTLY
+- pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1-bin-20210202-8d43a9c-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/tasty-core_3.0.0-RC1@3.0.0-RC1?classifier=sources

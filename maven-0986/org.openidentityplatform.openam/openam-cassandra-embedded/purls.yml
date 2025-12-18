@@ -6,3 +6,5 @@
 - pkg:maven/org.openidentityplatform.openam/openam-cassandra-embedded@14.5.4?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-cassandra-embedded@14.6.1
 - pkg:maven/org.openidentityplatform.openam/openam-cassandra-embedded@14.6.1?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-cassandra-embedded@14.6.2
+- pkg:maven/org.openidentityplatform.openam/openam-cassandra-embedded@14.6.2?classifier=sources

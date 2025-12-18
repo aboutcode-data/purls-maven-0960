@@ -12,3 +12,5 @@
 - pkg:maven/com.google.cloud.functions/functions-framework-api@1.0.2?classifier=sources
 - pkg:maven/com.google.cloud.functions/functions-framework-api@1.0.3
 - pkg:maven/com.google.cloud.functions/functions-framework-api@1.0.3?classifier=sources
+- pkg:maven/com.google.cloud.functions/functions-framework-api@1.0.4
+- pkg:maven/com.google.cloud.functions/functions-framework-api@1.0.4?classifier=sources

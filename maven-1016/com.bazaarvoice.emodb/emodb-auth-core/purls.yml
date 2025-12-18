@@ -226,3 +226,7 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.2.2?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.2.3
 - pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.2.3?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.3.0
+- pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.3.0?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.3.1
+- pkg:maven/com.bazaarvoice.emodb/emodb-auth-core@6.3.1?classifier=sources

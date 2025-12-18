@@ -1,5 +1,7 @@
 - pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.10.0
 - pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.10.0?classifier=sources
+- pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.14.1
+- pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.14.1?classifier=sources
 - pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.9.1
 - pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.9.1-RC1
 - pkg:maven/com.comcast.money/money-otel-inmemory-exporter_2.12@0.9.1-RC1?classifier=sources

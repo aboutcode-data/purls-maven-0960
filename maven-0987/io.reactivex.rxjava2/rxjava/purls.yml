@@ -95,6 +95,8 @@
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.2
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.20
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.20?classifier=sources
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.21
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.21?classifier=sources
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.2?classifier=sources
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.3
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.3?classifier=sources

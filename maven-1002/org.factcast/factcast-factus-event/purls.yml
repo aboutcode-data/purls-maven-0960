@@ -7,6 +7,8 @@
 - pkg:maven/org.factcast/factcast-factus-event@0.3.0-M3?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-event@0.3.0?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-event@0.3.1
+- pkg:maven/org.factcast/factcast-factus-event@0.3.13
+- pkg:maven/org.factcast/factcast-factus-event@0.3.13?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-event@0.3.1?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-event@0.3.2
 - pkg:maven/org.factcast/factcast-factus-event@0.3.2?classifier=sources
@@ -23,4 +25,6 @@
 - pkg:maven/org.factcast/factcast-factus-event@0.3.8
 - pkg:maven/org.factcast/factcast-factus-event@0.3.8?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-event@0.3.9
+- pkg:maven/org.factcast/factcast-factus-event@0.3.9.1
+- pkg:maven/org.factcast/factcast-factus-event@0.3.9.1?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-event@0.3.9?classifier=sources

@@ -265,6 +265,8 @@
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.25?classifier=sources
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.26
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.26?classifier=sources
+- pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.27
+- pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.27?classifier=sources
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.2?classifier=sources
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.3
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.25.3?classifier=sources
@@ -375,6 +377,8 @@
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.3
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.30
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.30?classifier=sources
+- pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.31
+- pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.31?classifier=sources
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.3?classifier=sources
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.4
 - pkg:maven/io.gravitee.management/gravitee-management-api-service@1.30.4?classifier=sources

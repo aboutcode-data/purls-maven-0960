@@ -36,3 +36,9 @@
 - pkg:maven/us.springett/alpine@1.7.2?classifier=sources
 - pkg:maven/us.springett/alpine@1.8.0
 - pkg:maven/us.springett/alpine@1.8.0?classifier=sources
+- pkg:maven/us.springett/alpine@1.9.0
+- pkg:maven/us.springett/alpine@1.9.0?classifier=sources
+- pkg:maven/us.springett/alpine@1.9.1
+- pkg:maven/us.springett/alpine@1.9.1?classifier=sources
+- pkg:maven/us.springett/alpine@1.9.2
+- pkg:maven/us.springett/alpine@1.9.2?classifier=sources

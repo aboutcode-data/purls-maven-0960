@@ -118,3 +118,5 @@
 - pkg:maven/com.bertramlabs.plugins/karman-grails@1.5.2?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-grails@1.5.3
 - pkg:maven/com.bertramlabs.plugins/karman-grails@1.5.3?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-grails@1.5.5
+- pkg:maven/com.bertramlabs.plugins/karman-grails@1.5.5?classifier=sources

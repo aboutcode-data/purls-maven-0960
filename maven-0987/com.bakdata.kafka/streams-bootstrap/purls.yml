@@ -1,0 +1,4 @@
+- pkg:maven/com.bakdata.kafka/streams-bootstrap@1.6.0
+- pkg:maven/com.bakdata.kafka/streams-bootstrap@1.6.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap@1.7.0
+- pkg:maven/com.bakdata.kafka/streams-bootstrap@1.7.0?classifier=sources

@@ -23,6 +23,8 @@
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.11?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.12
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.12?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.13
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.13?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.2
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@3.12.2?classifier=sources
@@ -132,3 +134,6 @@
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@4.8.0?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@4.8.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/logging-interceptor@4.9.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@4.9.1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@5.0.0-alpha.1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/logging-interceptor@5.0.0-alpha.2?classifier=sources

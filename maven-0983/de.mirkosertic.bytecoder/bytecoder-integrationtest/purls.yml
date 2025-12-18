@@ -64,3 +64,7 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2020-10-05?type=war
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2020-12-01?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2020-12-01?type=war
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2021-01-26?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2021-01-26?type=war
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2021-03-08?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-integrationtest@2021-03-08?type=war

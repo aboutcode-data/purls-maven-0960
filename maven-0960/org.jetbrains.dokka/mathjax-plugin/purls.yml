@@ -1,1 +1,4 @@
 - pkg:maven/org.jetbrains.dokka/mathjax-plugin@1.4.10.2?classifier=sources
+- pkg:maven/org.jetbrains.dokka/mathjax-plugin@1.4.20-dev-65?classifier=sources
+- pkg:maven/org.jetbrains.dokka/mathjax-plugin@1.4.20?classifier=sources
+- pkg:maven/org.jetbrains.dokka/mathjax-plugin@1.4.30?classifier=sources

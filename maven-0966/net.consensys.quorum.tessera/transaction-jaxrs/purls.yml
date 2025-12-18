@@ -8,3 +8,5 @@
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@20.10.1-RC1
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@20.10.1-RC1?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@20.10.1?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.1.0
+- pkg:maven/net.consensys.quorum.tessera/transaction-jaxrs@21.1.0?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.14.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.14.1
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.14.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.15.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.16.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.17.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@0.17.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@1.0.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure@1.0.1-alpha?classifier=sources

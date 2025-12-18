@@ -82,6 +82,8 @@
 - pkg:maven/com.twitter/finagle-mysql_2.11@20.9.0?classifier=sources
 - pkg:maven/com.twitter/finagle-mysql_2.11@21.1.0
 - pkg:maven/com.twitter/finagle-mysql_2.11@21.1.0?classifier=sources
+- pkg:maven/com.twitter/finagle-mysql_2.11@21.2.0
+- pkg:maven/com.twitter/finagle-mysql_2.11@21.2.0?classifier=sources
 - pkg:maven/com.twitter/finagle-mysql_2.11@6.24.0
 - pkg:maven/com.twitter/finagle-mysql_2.11@6.24.0?classifier=sources
 - pkg:maven/com.twitter/finagle-mysql_2.11@6.24.1-MONOCACHE

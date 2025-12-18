@@ -75,9 +75,13 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.7.0-beta
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.7.0-beta?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.7.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0-beta.2
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0-beta.2?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0-beta.3
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0-beta.3?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0-beta.4
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0-beta.4?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.8.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.9.0-alpha.1
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-sdk-core@5.9.0-alpha.1?classifier=sources

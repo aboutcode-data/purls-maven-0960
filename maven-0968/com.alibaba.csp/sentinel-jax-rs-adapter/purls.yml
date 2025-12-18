@@ -1,2 +1,4 @@
 - pkg:maven/com.alibaba.csp/sentinel-jax-rs-adapter@1.8.0
 - pkg:maven/com.alibaba.csp/sentinel-jax-rs-adapter@1.8.0?classifier=sources
+- pkg:maven/com.alibaba.csp/sentinel-jax-rs-adapter@1.8.1
+- pkg:maven/com.alibaba.csp/sentinel-jax-rs-adapter@1.8.1?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/org.typelevel/case-insensitive_3.0.0-M3@1.0.0
 - pkg:maven/org.typelevel/case-insensitive_3.0.0-M3@1.0.0-RC2
 - pkg:maven/org.typelevel/case-insensitive_3.0.0-M3@1.0.0-RC2?classifier=sources
+- pkg:maven/org.typelevel/case-insensitive_3.0.0-M3@1.0.0?classifier=sources
+- pkg:maven/org.typelevel/case-insensitive_3.0.0-M3@1.1.0
+- pkg:maven/org.typelevel/case-insensitive_3.0.0-M3@1.1.0?classifier=sources

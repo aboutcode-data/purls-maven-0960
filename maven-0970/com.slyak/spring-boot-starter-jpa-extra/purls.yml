@@ -18,3 +18,5 @@
 - pkg:maven/com.slyak/spring-boot-starter-jpa-extra@2.1.2.RELEASE?classifier=sources
 - pkg:maven/com.slyak/spring-boot-starter-jpa-extra@3.0.0.RELEASE
 - pkg:maven/com.slyak/spring-boot-starter-jpa-extra@3.0.0.RELEASE?classifier=sources
+- pkg:maven/com.slyak/spring-boot-starter-jpa-extra@3.3.0.RELEASE
+- pkg:maven/com.slyak/spring-boot-starter-jpa-extra@3.3.0.RELEASE?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.odpi.egeria/ui-chassis-spring@2.4?classifier=sources
 - pkg:maven/org.odpi.egeria/ui-chassis-spring@2.5
 - pkg:maven/org.odpi.egeria/ui-chassis-spring@2.5?classifier=sources
+- pkg:maven/org.odpi.egeria/ui-chassis-spring@2.6
+- pkg:maven/org.odpi.egeria/ui-chassis-spring@2.6?classifier=sources
+- pkg:maven/org.odpi.egeria/ui-chassis-spring@2.7
+- pkg:maven/org.odpi.egeria/ui-chassis-spring@2.7?classifier=sources

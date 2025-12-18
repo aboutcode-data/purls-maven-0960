@@ -62,6 +62,8 @@
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.12.1?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.12.2
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.12.2?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.12.3
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.12.3?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.2.0-Lithium
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.2.0-Lithium?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.api@1.2.1-Lithium-SR1

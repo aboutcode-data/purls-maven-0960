@@ -40,6 +40,8 @@
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.2?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.2?type=aar
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.30?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.31?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.32?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.3?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.3?type=aar
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-core-no-op@0.9.4?classifier=sources

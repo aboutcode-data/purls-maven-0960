@@ -8,6 +8,10 @@
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.10.0?classifier=sources
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.10.1
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.10.1?classifier=sources
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.11.0
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.11.0?classifier=sources
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.11.1
+- pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.11.1?classifier=sources
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.2
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.2?classifier=sources
 - pkg:maven/io.stryker-mutator/stryker4s-command-runner_2.13@0.7.3

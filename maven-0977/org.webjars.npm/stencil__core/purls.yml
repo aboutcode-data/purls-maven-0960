@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/stencil__core@2.1.0
 - pkg:maven/org.webjars.npm/stencil__core@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/stencil__core@2.4.0
+- pkg:maven/org.webjars.npm/stencil__core@2.4.0?classifier=sources

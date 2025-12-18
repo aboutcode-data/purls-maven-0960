@@ -18,3 +18,5 @@
 - pkg:maven/io.cdap.cdap/cdap-api@6.2.3?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-api@6.3.0
 - pkg:maven/io.cdap.cdap/cdap-api@6.3.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-api@6.4.0
+- pkg:maven/io.cdap.cdap/cdap-api@6.4.0?classifier=sources

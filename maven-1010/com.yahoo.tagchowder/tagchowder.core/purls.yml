@@ -1,0 +1,4 @@
+- pkg:maven/com.yahoo.tagchowder/tagchowder.core@2.0.20
+- pkg:maven/com.yahoo.tagchowder/tagchowder.core@2.0.20?classifier=sources
+- pkg:maven/com.yahoo.tagchowder/tagchowder.core@2.0.22
+- pkg:maven/com.yahoo.tagchowder/tagchowder.core@2.0.22?classifier=sources

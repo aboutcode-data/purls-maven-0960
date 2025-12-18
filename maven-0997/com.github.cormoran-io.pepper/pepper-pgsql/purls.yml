@@ -4,3 +4,5 @@
 - pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@1.25?classifier=sources
 - pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@1.26
 - pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@1.26?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.0
+- pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.0?classifier=sources

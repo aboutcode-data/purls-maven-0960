@@ -36,6 +36,8 @@
 - pkg:maven/org.webjars.npm/material__rtl@0.40.1?classifier=sources
 - pkg:maven/org.webjars.npm/material__rtl@0.42.0
 - pkg:maven/org.webjars.npm/material__rtl@0.42.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__rtl@10.0.0
+- pkg:maven/org.webjars.npm/material__rtl@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__rtl@3.2.0
 - pkg:maven/org.webjars.npm/material__rtl@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__rtl@4.0.0
@@ -46,3 +48,5 @@
 - pkg:maven/org.webjars.npm/material__rtl@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__rtl@7.0.0
 - pkg:maven/org.webjars.npm/material__rtl@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__rtl@9.0.0
+- pkg:maven/org.webjars.npm/material__rtl@9.0.0?classifier=sources

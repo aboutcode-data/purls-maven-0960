@@ -8,3 +8,5 @@
 - pkg:maven/com.legsem.legstar/legstar-jaxb-generator@2.0.3?type=zip
 - pkg:maven/com.legsem.legstar/legstar-jaxb-generator@2.0.4?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-jaxb-generator@2.0.4?type=zip
+- pkg:maven/com.legsem.legstar/legstar-jaxb-generator@2.1.0?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar-jaxb-generator@2.1.0?type=zip

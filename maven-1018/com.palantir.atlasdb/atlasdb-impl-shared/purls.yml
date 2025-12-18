@@ -1,0 +1,7 @@
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.312.2-rc2?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.312.2-rc3?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.314.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.315.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.316.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.316.1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-impl-shared@0.317.0?classifier=sources

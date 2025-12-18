@@ -1,5 +1,7 @@
 - pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.10.0
 - pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.10.0?classifier=sources
+- pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.14.1
+- pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.14.1?classifier=sources
 - pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.9.1
 - pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.9.1-RC1
 - pkg:maven/com.comcast.money/money-otel-zipkin-exporter_2.13@0.9.1-RC1?classifier=sources

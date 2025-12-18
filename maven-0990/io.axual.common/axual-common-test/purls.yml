@@ -1,5 +1,7 @@
+- pkg:maven/io.axual.common/axual-common-test@0.0.1
 - pkg:maven/io.axual.common/axual-common-test@0.0.12
 - pkg:maven/io.axual.common/axual-common-test@0.0.12?classifier=sources
+- pkg:maven/io.axual.common/axual-common-test@0.0.1?classifier=sources
 - pkg:maven/io.axual.common/axual-common-test@0.0.4
 - pkg:maven/io.axual.common/axual-common-test@0.0.4?classifier=sources
 - pkg:maven/io.axual.common/axual-common-test@0.0.5
@@ -12,3 +14,13 @@
 - pkg:maven/io.axual.common/axual-common-test@5.4.4?classifier=sources
 - pkg:maven/io.axual.common/axual-common-test@5.5.0
 - pkg:maven/io.axual.common/axual-common-test@5.5.0?classifier=sources
+- pkg:maven/io.axual.common/axual-common-test@5.5.1
+- pkg:maven/io.axual.common/axual-common-test@5.5.1?classifier=sources
+- pkg:maven/io.axual.common/axual-common-test@5.5.2
+- pkg:maven/io.axual.common/axual-common-test@5.5.2?classifier=sources
+- pkg:maven/io.axual.common/axual-common-test@5.6.0
+- pkg:maven/io.axual.common/axual-common-test@5.6.0?classifier=sources
+- pkg:maven/io.axual.common/axual-common-test@5.6.1
+- pkg:maven/io.axual.common/axual-common-test@5.6.1?classifier=sources
+- pkg:maven/io.axual.common/axual-common-test@5.7.0
+- pkg:maven/io.axual.common/axual-common-test@5.7.0?classifier=sources

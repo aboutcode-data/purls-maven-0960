@@ -9,6 +9,7 @@
 - pkg:maven/org.infinispan/infinispan-server-tests@11.0.0.Dev05
 - pkg:maven/org.infinispan/infinispan-server-tests@11.0.0.Final
 - pkg:maven/org.infinispan/infinispan-server-tests@11.0.1.Final
+- pkg:maven/org.infinispan/infinispan-server-tests@11.0.10.Final
 - pkg:maven/org.infinispan/infinispan-server-tests@11.0.2.Final
 - pkg:maven/org.infinispan/infinispan-server-tests@11.0.3.Final
 - pkg:maven/org.infinispan/infinispan-server-tests@11.0.4.Final
@@ -27,3 +28,8 @@
 - pkg:maven/org.infinispan/infinispan-server-tests@12.0.0.Dev07
 - pkg:maven/org.infinispan/infinispan-server-tests@12.0.0.Dev3
 - pkg:maven/org.infinispan/infinispan-server-tests@12.0.0.Final
+- pkg:maven/org.infinispan/infinispan-server-tests@12.0.1.Final
+- pkg:maven/org.infinispan/infinispan-server-tests@12.0.2.Final
+- pkg:maven/org.infinispan/infinispan-server-tests@12.1.0.CR1
+- pkg:maven/org.infinispan/infinispan-server-tests@12.1.0.CR2
+- pkg:maven/org.infinispan/infinispan-server-tests@12.1.0.Dev01

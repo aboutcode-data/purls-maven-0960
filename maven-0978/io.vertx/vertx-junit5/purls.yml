@@ -54,6 +54,8 @@
 - pkg:maven/io.vertx/vertx-junit5@3.9.4?classifier=sources
 - pkg:maven/io.vertx/vertx-junit5@3.9.5
 - pkg:maven/io.vertx/vertx-junit5@3.9.5?classifier=sources
+- pkg:maven/io.vertx/vertx-junit5@3.9.6
+- pkg:maven/io.vertx/vertx-junit5@3.9.6?classifier=sources
 - pkg:maven/io.vertx/vertx-junit5@4.0.0
 - pkg:maven/io.vertx/vertx-junit5@4.0.0-milestone1
 - pkg:maven/io.vertx/vertx-junit5@4.0.0-milestone1?classifier=sources
@@ -76,3 +78,9 @@
 - pkg:maven/io.vertx/vertx-junit5@4.0.0.CR2
 - pkg:maven/io.vertx/vertx-junit5@4.0.0.CR2?classifier=sources
 - pkg:maven/io.vertx/vertx-junit5@4.0.0?classifier=sources
+- pkg:maven/io.vertx/vertx-junit5@4.0.1
+- pkg:maven/io.vertx/vertx-junit5@4.0.1?classifier=sources
+- pkg:maven/io.vertx/vertx-junit5@4.0.2
+- pkg:maven/io.vertx/vertx-junit5@4.0.2?classifier=sources
+- pkg:maven/io.vertx/vertx-junit5@4.0.3
+- pkg:maven/io.vertx/vertx-junit5@4.0.3?classifier=sources

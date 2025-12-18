@@ -66,3 +66,5 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-macro_2.12@3.4.2?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-macro_2.12@3.5.0
 - pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-macro_2.12@3.5.0?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-macro_2.12@4.0.0-M1
+- pkg:maven/org.scalikejdbc/scalikejdbc-interpolation-macro_2.12@4.0.0-M1?classifier=sources

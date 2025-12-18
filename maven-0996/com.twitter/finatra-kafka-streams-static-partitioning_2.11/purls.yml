@@ -50,3 +50,5 @@
 - pkg:maven/com.twitter/finatra-kafka-streams-static-partitioning_2.11@20.9.0?classifier=sources
 - pkg:maven/com.twitter/finatra-kafka-streams-static-partitioning_2.11@21.1.0
 - pkg:maven/com.twitter/finatra-kafka-streams-static-partitioning_2.11@21.1.0?classifier=sources
+- pkg:maven/com.twitter/finatra-kafka-streams-static-partitioning_2.11@21.2.0
+- pkg:maven/com.twitter/finatra-kafka-streams-static-partitioning_2.11@21.2.0?classifier=sources

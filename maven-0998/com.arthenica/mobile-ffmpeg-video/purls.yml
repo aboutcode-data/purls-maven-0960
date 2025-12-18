@@ -1,0 +1,4 @@
+- pkg:maven/com.arthenica/mobile-ffmpeg-video@4.4.LTS?classifier=sources
+- pkg:maven/com.arthenica/mobile-ffmpeg-video@4.4.LTS?type=aar
+- pkg:maven/com.arthenica/mobile-ffmpeg-video@4.4?classifier=sources
+- pkg:maven/com.arthenica/mobile-ffmpeg-video@4.4?type=aar

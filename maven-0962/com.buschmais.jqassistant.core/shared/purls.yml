@@ -36,3 +36,5 @@
 - pkg:maven/com.buschmais.jqassistant.core/shared@1.9.0-RC1
 - pkg:maven/com.buschmais.jqassistant.core/shared@1.9.0-RC1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.core/shared@1.9.0?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.core/shared@1.9.1
+- pkg:maven/com.buschmais.jqassistant.core/shared@1.9.1?classifier=sources

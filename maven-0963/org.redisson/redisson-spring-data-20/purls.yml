@@ -76,6 +76,10 @@
 - pkg:maven/org.redisson/redisson-spring-data-20@3.14.1?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-20@3.15.0
 - pkg:maven/org.redisson/redisson-spring-data-20@3.15.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-20@3.15.1
+- pkg:maven/org.redisson/redisson-spring-data-20@3.15.1?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-20@3.15.2
+- pkg:maven/org.redisson/redisson-spring-data-20@3.15.2?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-20@3.8.0
 - pkg:maven/org.redisson/redisson-spring-data-20@3.8.0?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-20@3.8.1

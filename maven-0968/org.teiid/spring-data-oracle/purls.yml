@@ -1,2 +1,4 @@
 - pkg:maven/org.teiid/spring-data-oracle@1.6.0
 - pkg:maven/org.teiid/spring-data-oracle@1.6.0?classifier=sources
+- pkg:maven/org.teiid/spring-data-oracle@1.7.1
+- pkg:maven/org.teiid/spring-data-oracle@1.7.1?classifier=sources

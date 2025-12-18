@@ -112,3 +112,5 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.2.1?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.2.2?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.2.3?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@6.3.0?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@6.3.1?classifier=sources

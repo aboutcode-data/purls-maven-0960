@@ -1,0 +1,8 @@
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.4
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.4?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.7
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.7?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.8
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.8?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.9
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.9?classifier=sources

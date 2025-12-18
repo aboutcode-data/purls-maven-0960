@@ -1,3 +1,5 @@
+- pkg:maven/cloud.agileframework/agile-context@2.0.10
+- pkg:maven/cloud.agileframework/agile-context@2.0.10?classifier=sources
 - pkg:maven/cloud.agileframework/agile-context@2.0.8
 - pkg:maven/cloud.agileframework/agile-context@2.0.8?classifier=sources
 - pkg:maven/cloud.agileframework/agile-context@2.0.9

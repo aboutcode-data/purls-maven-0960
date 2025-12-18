@@ -144,6 +144,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@2.4.2?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@2.4.3
 - pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@2.4.3?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@2.4.4
+- pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@2.4.4?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@3.0.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@3.0.0-alpha-1
 - pkg:maven/org.apache.myfaces.tobago/tobago-sandbox@3.0.0-alpha-1?classifier=sources

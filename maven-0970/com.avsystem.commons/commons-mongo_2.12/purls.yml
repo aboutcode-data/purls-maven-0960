@@ -262,6 +262,7 @@
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.48.1?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.48.2
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@1.48.2?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M1
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M10
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M10?classifier=sources
@@ -281,8 +282,14 @@
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M17?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M18
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M18?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M19
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M19?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M1?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M2
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M20
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M20?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M21
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M21?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M2?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M3
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M3?classifier=sources
@@ -298,3 +305,6 @@
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-M9?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-ghtest5
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0-ghtest5?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.0.0?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.1.0
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.1.0?classifier=sources

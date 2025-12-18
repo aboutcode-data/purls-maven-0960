@@ -30,6 +30,10 @@
 - pkg:maven/net.java.truevfs/truevfs-access@0.12.2?classifier=sources
 - pkg:maven/net.java.truevfs/truevfs-access@0.13.0
 - pkg:maven/net.java.truevfs/truevfs-access@0.13.0?classifier=sources
+- pkg:maven/net.java.truevfs/truevfs-access@0.13.1
+- pkg:maven/net.java.truevfs/truevfs-access@0.13.1?classifier=sources
+- pkg:maven/net.java.truevfs/truevfs-access@0.14.0
+- pkg:maven/net.java.truevfs/truevfs-access@0.14.0?classifier=sources
 - pkg:maven/net.java.truevfs/truevfs-access@0.9
 - pkg:maven/net.java.truevfs/truevfs-access@0.9.1
 - pkg:maven/net.java.truevfs/truevfs-access@0.9.1?classifier=sources

@@ -16,6 +16,12 @@
 - pkg:maven/com.handpoint.api.shared/qpboc100@5.16.1?type=aar
 - pkg:maven/com.handpoint.api.shared/qpboc100@5.17.0?classifier=sources
 - pkg:maven/com.handpoint.api.shared/qpboc100@5.17.0?type=aar
+- pkg:maven/com.handpoint.api.shared/qpboc100@5.17.1?classifier=sources
+- pkg:maven/com.handpoint.api.shared/qpboc100@5.17.1?type=aar
+- pkg:maven/com.handpoint.api.shared/qpboc100@5.17.2?classifier=sources
+- pkg:maven/com.handpoint.api.shared/qpboc100@5.17.2?type=aar
+- pkg:maven/com.handpoint.api.shared/qpboc100@5.17.3?classifier=sources
+- pkg:maven/com.handpoint.api.shared/qpboc100@5.17.3?type=aar
 - pkg:maven/com.handpoint.api.shared/qpboc100@5.4.0?classifier=sources
 - pkg:maven/com.handpoint.api.shared/qpboc100@5.4.0?type=aar
 - pkg:maven/com.handpoint.api.shared/qpboc100@5.4.1?classifier=sources
