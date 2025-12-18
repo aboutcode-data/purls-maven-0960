@@ -10,3 +10,13 @@
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.19?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.21
 - pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.21?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.22
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.22?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.23
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.23?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.24
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.24?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.25
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.25?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.26
+- pkg:maven/com.playtika.testcontainers/embedded-dynamodb@1.26?classifier=sources

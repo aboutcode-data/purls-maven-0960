@@ -30,3 +30,17 @@
 - pkg:maven/io.jaegertracing/jaeger-micrometer@0.33.1?classifier=sources
 - pkg:maven/io.jaegertracing/jaeger-micrometer@0.34.0
 - pkg:maven/io.jaegertracing/jaeger-micrometer@0.34.0?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.0
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.0?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.1
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.1?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.2
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.2?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.3
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.3?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.4
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.4?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.5
+- pkg:maven/io.jaegertracing/jaeger-micrometer@0.35.5?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@1.0.0
+- pkg:maven/io.jaegertracing/jaeger-micrometer@1.0.0?classifier=sources

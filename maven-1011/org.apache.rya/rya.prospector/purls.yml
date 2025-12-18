@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.rya/rya.prospector@3.2.11-incubating?classifier=sources
 - pkg:maven/org.apache.rya/rya.prospector@3.2.12-incubating
 - pkg:maven/org.apache.rya/rya.prospector@3.2.12-incubating?classifier=sources
+- pkg:maven/org.apache.rya/rya.prospector@4.0.0-incubating
+- pkg:maven/org.apache.rya/rya.prospector@4.0.0-incubating?classifier=sources

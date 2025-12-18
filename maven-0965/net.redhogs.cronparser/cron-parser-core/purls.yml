@@ -12,3 +12,5 @@
 - pkg:maven/net.redhogs.cronparser/cron-parser-core@3.3?classifier=sources
 - pkg:maven/net.redhogs.cronparser/cron-parser-core@3.4
 - pkg:maven/net.redhogs.cronparser/cron-parser-core@3.4?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser-core@3.5
+- pkg:maven/net.redhogs.cronparser/cron-parser-core@3.5?classifier=sources

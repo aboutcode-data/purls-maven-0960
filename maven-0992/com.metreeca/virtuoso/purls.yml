@@ -1,2 +1,4 @@
 - pkg:maven/com.metreeca/virtuoso@0.50.0
 - pkg:maven/com.metreeca/virtuoso@0.50.0?classifier=sources
+- pkg:maven/com.metreeca/virtuoso@0.51.0
+- pkg:maven/com.metreeca/virtuoso@0.51.0?classifier=sources

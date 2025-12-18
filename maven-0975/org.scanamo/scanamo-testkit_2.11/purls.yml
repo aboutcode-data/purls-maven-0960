@@ -1,4 +1,6 @@
 - pkg:maven/org.scanamo/scanamo-testkit_2.11@0.10
 - pkg:maven/org.scanamo/scanamo-testkit_2.11@0.10?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_2.11@1.0.0-M10
+- pkg:maven/org.scanamo/scanamo-testkit_2.11@1.0.0-M10?classifier=sources
 - pkg:maven/org.scanamo/scanamo-testkit_2.11@1.0.0-M9
 - pkg:maven/org.scanamo/scanamo-testkit_2.11@1.0.0-M9?classifier=sources

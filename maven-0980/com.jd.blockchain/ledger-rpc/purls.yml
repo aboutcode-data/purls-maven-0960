@@ -1,2 +1,6 @@
 - pkg:maven/com.jd.blockchain/ledger-rpc@0.8.3.RELEASE
 - pkg:maven/com.jd.blockchain/ledger-rpc@0.8.3.RELEASE?classifier=sources
+- pkg:maven/com.jd.blockchain/ledger-rpc@1.0.0.RELEASE
+- pkg:maven/com.jd.blockchain/ledger-rpc@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.jd.blockchain/ledger-rpc@1.0.1.RELEASE
+- pkg:maven/com.jd.blockchain/ledger-rpc@1.0.1.RELEASE?classifier=sources

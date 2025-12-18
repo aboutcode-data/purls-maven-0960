@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m1?classifier=sources
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m1?type=war
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m2?classifier=sources
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m2?type=war
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m3?classifier=sources
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m3?type=war
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m4?classifier=sources
+- pkg:maven/org.wso2.appserver/configuration-loader@6.0.0-m4?type=war

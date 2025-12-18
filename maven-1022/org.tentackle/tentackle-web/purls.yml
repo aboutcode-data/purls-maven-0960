@@ -2,6 +2,10 @@
 - pkg:maven/org.tentackle/tentackle-web@11.2.3.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@11.3.0.0
 - pkg:maven/org.tentackle/tentackle-web@11.3.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-web@11.4.0.0
+- pkg:maven/org.tentackle/tentackle-web@11.4.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-web@11.4.0.1
+- pkg:maven/org.tentackle/tentackle-web@11.4.0.1?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@2.0.4
 - pkg:maven/org.tentackle/tentackle-web@2.0.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@2.0.5
@@ -28,3 +32,9 @@
 - pkg:maven/org.tentackle/tentackle-web@8.2.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-web@8.2.3.0
 - pkg:maven/org.tentackle/tentackle-web@8.2.3.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-web@8.2.4.0
+- pkg:maven/org.tentackle/tentackle-web@8.2.4.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-web@8.2.5.0
+- pkg:maven/org.tentackle/tentackle-web@8.2.5.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-web@8.2.6.0
+- pkg:maven/org.tentackle/tentackle-web@8.2.6.0?classifier=sources

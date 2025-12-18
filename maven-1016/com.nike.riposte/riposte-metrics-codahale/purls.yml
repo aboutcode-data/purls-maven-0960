@@ -24,6 +24,10 @@
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.15.0?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.16.0
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.16.0?classifier=sources
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.17.0
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.17.0?classifier=sources
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.18.0
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.18.0?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.8.0
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.8.0?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.8.1

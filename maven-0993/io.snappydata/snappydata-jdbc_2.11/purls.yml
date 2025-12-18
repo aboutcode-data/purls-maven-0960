@@ -2,3 +2,9 @@
 - pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.0.2.1?classifier=sources
 - pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.0.2.2
 - pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.0.2.2?classifier=sources
+- pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.0.3
+- pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.0.3?classifier=sources
+- pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.1.0
+- pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.1.0-HF-1
+- pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.1.0-HF-1?classifier=sources
+- pkg:maven/io.snappydata/snappydata-jdbc_2.11@1.1.0?classifier=sources

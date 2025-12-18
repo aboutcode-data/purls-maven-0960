@@ -6,3 +6,15 @@
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.0.0-rc2
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.0.0-rc2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.0.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.0.1
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.0.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.1.0
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.1.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.1.1
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.1.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.0
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.1
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.3.0
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.3.0?classifier=sources

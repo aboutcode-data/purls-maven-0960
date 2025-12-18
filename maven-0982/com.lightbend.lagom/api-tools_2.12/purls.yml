@@ -9,6 +9,14 @@
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.10?classifier=sources
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.11
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.11?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.12
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.12?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.13
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.13-a5bd71c7
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.13-a5bd71c7?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.13?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.14
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.14?classifier=sources
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.1?classifier=sources
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.2
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.2?classifier=sources
@@ -28,6 +36,7 @@
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.8?classifier=sources
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.9
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.4.9?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0-M1
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0-M1?classifier=sources
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0-M2
@@ -42,3 +51,12 @@
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0-RC1?classifier=sources
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0-RC2
 - pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0-RC2?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.0?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.1
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.5.1?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.6.0-M2
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.6.0-M2?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.6.0-M3
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.6.0-M3?classifier=sources
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.6.0-M4
+- pkg:maven/com.lightbend.lagom/api-tools_2.12@1.6.0-M4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.marketcetera/marketdata-recorder@3.0.12
 - pkg:maven/org.marketcetera/marketdata-recorder@3.0.12?classifier=sources
+- pkg:maven/org.marketcetera/marketdata-recorder@3.2.0
+- pkg:maven/org.marketcetera/marketdata-recorder@3.2.0?classifier=sources

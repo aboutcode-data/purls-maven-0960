@@ -1,2 +1,4 @@
 - pkg:maven/org.bytedeco/numpy-platform@1.16.2-1.5
 - pkg:maven/org.bytedeco/numpy-platform@1.16.2-1.5?classifier=sources
+- pkg:maven/org.bytedeco/numpy-platform@1.16.4-1.5.1
+- pkg:maven/org.bytedeco/numpy-platform@1.16.4-1.5.1?classifier=sources

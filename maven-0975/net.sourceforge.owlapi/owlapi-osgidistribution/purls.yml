@@ -61,6 +61,12 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.1
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.10
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.10?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.11
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.11?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.12
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.12?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.13
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.13?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.2
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@4.5.2?classifier=sources
@@ -93,6 +99,8 @@
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.1
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.10
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.10?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.11
+- pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.11?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.1?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.2
 - pkg:maven/net.sourceforge.owlapi/owlapi-osgidistribution@5.1.2?classifier=sources

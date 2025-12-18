@@ -10,3 +10,5 @@
 - pkg:maven/com.github.waffle.demo/waffle-mixed-post@2.0.0-beta1?type=war
 - pkg:maven/com.github.waffle.demo/waffle-mixed-post@2.0.0-beta2?classifier=sources
 - pkg:maven/com.github.waffle.demo/waffle-mixed-post@2.0.0-beta2?type=war
+- pkg:maven/com.github.waffle.demo/waffle-mixed-post@2.0.0?classifier=sources
+- pkg:maven/com.github.waffle.demo/waffle-mixed-post@2.0.0?type=war

@@ -1,2 +1,6 @@
 - pkg:maven/de.sormuras/java-compiler-script-engine@0.1.2
 - pkg:maven/de.sormuras/java-compiler-script-engine@0.1.2?classifier=sources
+- pkg:maven/de.sormuras/java-compiler-script-engine@0.2
+- pkg:maven/de.sormuras/java-compiler-script-engine@0.2.1
+- pkg:maven/de.sormuras/java-compiler-script-engine@0.2.1?classifier=sources
+- pkg:maven/de.sormuras/java-compiler-script-engine@0.2?classifier=sources

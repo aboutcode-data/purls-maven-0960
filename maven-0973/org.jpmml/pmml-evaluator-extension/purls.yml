@@ -25,6 +25,10 @@
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.0
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.0?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.1
+- pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.10
+- pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.10?classifier=sources
+- pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.11
+- pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.11?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.1?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.2
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.2?classifier=sources
@@ -40,3 +44,5 @@
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.7?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.8
 - pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.8?classifier=sources
+- pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.9
+- pkg:maven/org.jpmml/pmml-evaluator-extension@1.4.9?classifier=sources

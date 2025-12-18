@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/mapbox-gl@0.44.1?classifier=sources
 - pkg:maven/org.webjars.npm/mapbox-gl@0.45.0
 - pkg:maven/org.webjars.npm/mapbox-gl@0.45.0?classifier=sources
+- pkg:maven/org.webjars.npm/mapbox-gl@0.54.0
+- pkg:maven/org.webjars.npm/mapbox-gl@0.54.0?classifier=sources

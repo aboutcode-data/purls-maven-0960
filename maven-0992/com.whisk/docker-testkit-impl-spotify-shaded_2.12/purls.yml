@@ -1,2 +1,4 @@
 - pkg:maven/com.whisk/docker-testkit-impl-spotify-shaded_2.12@0.9.8
 - pkg:maven/com.whisk/docker-testkit-impl-spotify-shaded_2.12@0.9.8?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-impl-spotify-shaded_2.12@0.9.9
+- pkg:maven/com.whisk/docker-testkit-impl-spotify-shaded_2.12@0.9.9?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.0.8?type=war
 - pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.1.0?classifier=sources
 - pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.1.0?type=war
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.1.1?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.1.1?type=war
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.1.2?classifier=sources
+- pkg:maven/com.helger/peppol-smp-server-webapp-xml@5.1.2?type=war

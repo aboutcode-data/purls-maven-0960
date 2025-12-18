@@ -1,0 +1,4 @@
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.0
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10.0?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/tessera-sync@0.10?classifier=sources

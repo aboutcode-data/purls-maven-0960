@@ -14,3 +14,9 @@
 - pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.0.0-beta
 - pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.0.0-beta?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.1.0
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.1.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.2.0
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.2.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.3.0
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.3.0?classifier=sources

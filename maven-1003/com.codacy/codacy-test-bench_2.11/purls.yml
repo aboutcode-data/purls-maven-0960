@@ -24,3 +24,7 @@
 - pkg:maven/com.codacy/codacy-test-bench_2.11@0.0.8?classifier=sources
 - pkg:maven/com.codacy/codacy-test-bench_2.11@0.0.9
 - pkg:maven/com.codacy/codacy-test-bench_2.11@0.0.9?classifier=sources
+- pkg:maven/com.codacy/codacy-test-bench_2.11@0.1.0
+- pkg:maven/com.codacy/codacy-test-bench_2.11@0.1.0?classifier=sources
+- pkg:maven/com.codacy/codacy-test-bench_2.11@0.2.0
+- pkg:maven/com.codacy/codacy-test-bench_2.11@0.2.0?classifier=sources

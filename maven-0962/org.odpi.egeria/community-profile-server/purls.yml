@@ -1,2 +1,4 @@
 - pkg:maven/org.odpi.egeria/community-profile-server@0.1
 - pkg:maven/org.odpi.egeria/community-profile-server@0.2
+- pkg:maven/org.odpi.egeria/community-profile-server@1.0
+- pkg:maven/org.odpi.egeria/community-profile-server@1.0?classifier=sources

@@ -186,3 +186,7 @@
 - pkg:maven/org.jboss.forge.addon/addons-impl@3.9.1.Final?classifier=sources
 - pkg:maven/org.jboss.forge.addon/addons-impl@3.9.2.Final
 - pkg:maven/org.jboss.forge.addon/addons-impl@3.9.2.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/addons-impl@3.9.3.Final
+- pkg:maven/org.jboss.forge.addon/addons-impl@3.9.3.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/addons-impl@3.9.4.Final
+- pkg:maven/org.jboss.forge.addon/addons-impl@3.9.4.Final?classifier=sources

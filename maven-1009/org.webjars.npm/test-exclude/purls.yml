@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/test-exclude@5.2.0
 - pkg:maven/org.webjars.npm/test-exclude@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/test-exclude@5.2.3
+- pkg:maven/org.webjars.npm/test-exclude@5.2.3?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.wikimedia.discovery/discovery-maven-tool-configs@1.10
+- pkg:maven/org.wikimedia.discovery/discovery-maven-tool-configs@1.10?classifier=sources
 - pkg:maven/org.wikimedia.discovery/discovery-maven-tool-configs@1.2
 - pkg:maven/org.wikimedia.discovery/discovery-maven-tool-configs@1.2?classifier=sources
 - pkg:maven/org.wikimedia.discovery/discovery-maven-tool-configs@1.3

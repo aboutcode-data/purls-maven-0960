@@ -2,6 +2,8 @@
 - pkg:maven/com.github.life-lab/common-utils@0.0.1-RELEASE?classifier=sources
 - pkg:maven/com.github.life-lab/common-utils@0.0.11-RELEASE
 - pkg:maven/com.github.life-lab/common-utils@0.0.11-RELEASE?classifier=sources
+- pkg:maven/com.github.life-lab/common-utils@0.0.12.RELEASE
+- pkg:maven/com.github.life-lab/common-utils@0.0.12.RELEASE?classifier=sources
 - pkg:maven/com.github.life-lab/common-utils@0.0.2-RELEASE
 - pkg:maven/com.github.life-lab/common-utils@0.0.2-RELEASE?classifier=sources
 - pkg:maven/com.github.life-lab/common-utils@0.0.3

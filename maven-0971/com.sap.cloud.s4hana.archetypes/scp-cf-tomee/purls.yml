@@ -24,6 +24,14 @@
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.13.2?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.13.3?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.14.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.15.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.16.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.17.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.18.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.18.1?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.19.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.19.1?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.19.2?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.3.1?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-tomee@2.4.1?classifier=sources

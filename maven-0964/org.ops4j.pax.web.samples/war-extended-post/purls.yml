@@ -32,6 +32,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.10?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.11?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.11?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.12?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.12?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@6.0.2?classifier=sources
@@ -64,6 +66,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.1.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.10?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.2?classifier=sources
@@ -80,6 +84,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.7?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.8?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.8?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.2.9?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.0?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.2?classifier=sources

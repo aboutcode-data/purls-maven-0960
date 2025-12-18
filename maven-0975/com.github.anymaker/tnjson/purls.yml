@@ -2,3 +2,5 @@
 - pkg:maven/com.github.anymaker/tnjson@1.0?classifier=sources
 - pkg:maven/com.github.anymaker/tnjson@1.2
 - pkg:maven/com.github.anymaker/tnjson@1.2?classifier=sources
+- pkg:maven/com.github.anymaker/tnjson@2.0
+- pkg:maven/com.github.anymaker/tnjson@2.0?classifier=sources

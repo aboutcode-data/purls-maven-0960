@@ -1,4 +1,8 @@
 - pkg:maven/com.aliyun.odps/hadoop-fs-oss@3.3.2-public
 - pkg:maven/com.aliyun.odps/hadoop-fs-oss@3.3.2-public?classifier=sources
+- pkg:maven/com.aliyun.odps/hadoop-fs-oss@3.3.3-public
+- pkg:maven/com.aliyun.odps/hadoop-fs-oss@3.3.3-public?classifier=sources
+- pkg:maven/com.aliyun.odps/hadoop-fs-oss@3.3.8-public
+- pkg:maven/com.aliyun.odps/hadoop-fs-oss@3.3.8-public?classifier=sources
 - pkg:maven/com.aliyun.odps/hadoop-fs-oss@lxw-test-3.0.0-public
 - pkg:maven/com.aliyun.odps/hadoop-fs-oss@lxw-test-3.0.0-public?classifier=sources

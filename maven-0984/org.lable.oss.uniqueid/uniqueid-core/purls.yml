@@ -18,3 +18,11 @@
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.4?classifier=sources
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.5
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.5?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta1
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta1?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta2
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta2?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta3
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta3?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta4
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-core@2.6-beta4?classifier=sources

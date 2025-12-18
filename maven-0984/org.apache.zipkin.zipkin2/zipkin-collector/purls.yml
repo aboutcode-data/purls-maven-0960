@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.zipkin.zipkin2/zipkin-collector@2.13.0
+- pkg:maven/org.apache.zipkin.zipkin2/zipkin-collector@2.13.0?classifier=sources
+- pkg:maven/org.apache.zipkin.zipkin2/zipkin-collector@2.14.0
+- pkg:maven/org.apache.zipkin.zipkin2/zipkin-collector@2.14.0?classifier=sources

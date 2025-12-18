@@ -6,6 +6,8 @@
 - pkg:maven/org.opensingular/server-sei-30-connector@1.6.9-RC3
 - pkg:maven/org.opensingular/server-sei-30-connector@1.6.9-RC3?classifier=sources
 - pkg:maven/org.opensingular/server-sei-30-connector@1.6.9.1
+- pkg:maven/org.opensingular/server-sei-30-connector@1.6.9.10
+- pkg:maven/org.opensingular/server-sei-30-connector@1.6.9.10?classifier=sources
 - pkg:maven/org.opensingular/server-sei-30-connector@1.6.9.1?classifier=sources
 - pkg:maven/org.opensingular/server-sei-30-connector@1.6.9.2
 - pkg:maven/org.opensingular/server-sei-30-connector@1.6.9.2?classifier=sources

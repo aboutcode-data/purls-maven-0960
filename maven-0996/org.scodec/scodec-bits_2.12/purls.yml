@@ -1,5 +1,9 @@
 - pkg:maven/org.scodec/scodec-bits_2.12@1.1.10
 - pkg:maven/org.scodec/scodec-bits_2.12@1.1.10?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_2.12@1.1.11
+- pkg:maven/org.scodec/scodec-bits_2.12@1.1.11?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_2.12@1.1.12
+- pkg:maven/org.scodec/scodec-bits_2.12@1.1.12?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.12@1.1.2
 - pkg:maven/org.scodec/scodec-bits_2.12@1.1.2?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.12@1.1.3

@@ -50,6 +50,14 @@
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.15.2?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.2.0
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.2.0?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.10
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.10?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.11
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.11?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.12
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.12?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.13
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.21.13?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.21.3
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.21.3?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.21.4
@@ -64,6 +72,10 @@
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.21.8?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.21.9
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.21.9?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.22.0
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.22.0?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.23.2
+- pkg:maven/com.atlassian.asap/asap-client-spring@2.23.2?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.3.0
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.3.0?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring@2.3.2

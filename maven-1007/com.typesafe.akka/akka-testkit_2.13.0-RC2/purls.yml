@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.akka/akka-testkit_2.13.0-RC2@2.5.23
+- pkg:maven/com.typesafe.akka/akka-testkit_2.13.0-RC2@2.5.23?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-testkit_2.13.0-RC2@2.6.0-M2
+- pkg:maven/com.typesafe.akka/akka-testkit_2.13.0-RC2@2.6.0-M2?classifier=sources

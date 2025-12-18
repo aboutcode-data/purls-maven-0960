@@ -1,2 +1,6 @@
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.2.3
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.2.3?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.3.0
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.3.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.3.1
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@0.3.1?classifier=sources

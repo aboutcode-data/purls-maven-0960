@@ -6,3 +6,11 @@
 - pkg:maven/io.ratpack/ratpack-reactor@1.6.0-rc-4
 - pkg:maven/io.ratpack/ratpack-reactor@1.6.0-rc-4?classifier=sources
 - pkg:maven/io.ratpack/ratpack-reactor@1.6.0?classifier=sources
+- pkg:maven/io.ratpack/ratpack-reactor@1.6.1
+- pkg:maven/io.ratpack/ratpack-reactor@1.6.1?classifier=sources
+- pkg:maven/io.ratpack/ratpack-reactor@1.7.0
+- pkg:maven/io.ratpack/ratpack-reactor@1.7.0?classifier=sources
+- pkg:maven/io.ratpack/ratpack-reactor@1.7.1
+- pkg:maven/io.ratpack/ratpack-reactor@1.7.1?classifier=sources
+- pkg:maven/io.ratpack/ratpack-reactor@1.7.2
+- pkg:maven/io.ratpack/ratpack-reactor@1.7.2?classifier=sources

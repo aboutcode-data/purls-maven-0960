@@ -156,3 +156,7 @@
 - pkg:maven/net.oneandone.cosmo/cosmo-core@3.3.2?classifier=sources
 - pkg:maven/net.oneandone.cosmo/cosmo-core@3.4.1
 - pkg:maven/net.oneandone.cosmo/cosmo-core@3.4.1?classifier=sources
+- pkg:maven/net.oneandone.cosmo/cosmo-core@3.5.0
+- pkg:maven/net.oneandone.cosmo/cosmo-core@3.5.0?classifier=sources
+- pkg:maven/net.oneandone.cosmo/cosmo-core@3.5.1
+- pkg:maven/net.oneandone.cosmo/cosmo-core@3.5.1?classifier=sources

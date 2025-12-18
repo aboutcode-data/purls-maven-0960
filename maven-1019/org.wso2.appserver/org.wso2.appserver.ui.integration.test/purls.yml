@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.appserver/org.wso2.appserver.ui.integration.test@5.3.0
+- pkg:maven/org.wso2.appserver/org.wso2.appserver.ui.integration.test@5.3.0-beta1
+- pkg:maven/org.wso2.appserver/org.wso2.appserver.ui.integration.test@5.3.0-beta1?classifier=sources
+- pkg:maven/org.wso2.appserver/org.wso2.appserver.ui.integration.test@5.3.0?classifier=sources

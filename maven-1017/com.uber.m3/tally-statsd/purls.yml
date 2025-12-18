@@ -12,3 +12,5 @@
 - pkg:maven/com.uber.m3/tally-statsd@0.2.3?classifier=sources
 - pkg:maven/com.uber.m3/tally-statsd@0.3.0
 - pkg:maven/com.uber.m3/tally-statsd@0.3.0?classifier=sources
+- pkg:maven/com.uber.m3/tally-statsd@0.3.1
+- pkg:maven/com.uber.m3/tally-statsd@0.3.1?classifier=sources

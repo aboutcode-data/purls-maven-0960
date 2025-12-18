@@ -71,6 +71,10 @@
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.0
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.0?classifier=sources
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.1
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.10
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.10?classifier=sources
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.11
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.11?classifier=sources
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.1?classifier=sources
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.2
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.2?classifier=sources
@@ -86,3 +90,5 @@
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.7?classifier=sources
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.8
 - pkg:maven/io.reactivex.rxjava2/rxjava@2.2.8?classifier=sources
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.9
+- pkg:maven/io.reactivex.rxjava2/rxjava@2.2.9?classifier=sources

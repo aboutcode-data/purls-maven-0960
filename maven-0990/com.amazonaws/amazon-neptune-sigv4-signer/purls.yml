@@ -8,3 +8,5 @@
 - pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@1.0.4
 - pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@1.0.4?classifier=sources
 - pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@1.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@2.0.0
+- pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@2.0.0?classifier=sources

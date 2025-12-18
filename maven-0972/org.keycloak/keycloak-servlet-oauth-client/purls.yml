@@ -198,3 +198,5 @@
 - pkg:maven/org.keycloak/keycloak-servlet-oauth-client@5.0.0?classifier=sources
 - pkg:maven/org.keycloak/keycloak-servlet-oauth-client@6.0.0
 - pkg:maven/org.keycloak/keycloak-servlet-oauth-client@6.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-servlet-oauth-client@6.0.1
+- pkg:maven/org.keycloak/keycloak-servlet-oauth-client@6.0.1?classifier=sources

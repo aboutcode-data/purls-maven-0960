@@ -12,7 +12,11 @@
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.16
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.17
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.18
+- pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.19
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.2
+- pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.20
+- pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.21
+- pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.22
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.3
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.4
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.5
@@ -22,3 +26,4 @@
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.0.9
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.1.0-M1
 - pkg:maven/com.orientechnologies/orientdb-crashtests@3.1.0-M2
+- pkg:maven/com.orientechnologies/orientdb-crashtests@3.1.0-M3

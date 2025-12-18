@@ -19,6 +19,10 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC19
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC19?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC2
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC20
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC20?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC21
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC21?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC2?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC3
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC3?classifier=sources
@@ -32,3 +36,5 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC8?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC9
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@0.0.1-RC9?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@1.0.0
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-log4j@1.0.0?classifier=sources

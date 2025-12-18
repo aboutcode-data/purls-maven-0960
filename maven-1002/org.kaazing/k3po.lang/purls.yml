@@ -30,6 +30,10 @@
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-085?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-1
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-10
+- pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-100
+- pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-100?classifier=sources
+- pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-101
+- pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-101?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-10?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-11
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-11?classifier=sources
@@ -221,6 +225,8 @@
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-97?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-98
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-98?classifier=sources
+- pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-99
+- pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-99?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@3.0.0-alpha-9?classifier=sources
 - pkg:maven/org.kaazing/k3po.lang@4.0.0
 - pkg:maven/org.kaazing/k3po.lang@4.0.0-RC001

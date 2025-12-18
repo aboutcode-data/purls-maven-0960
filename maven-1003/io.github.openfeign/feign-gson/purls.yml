@@ -6,6 +6,8 @@
 - pkg:maven/io.github.openfeign/feign-gson@10.1.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-gson@10.2.0
 - pkg:maven/io.github.openfeign/feign-gson@10.2.0?classifier=sources
+- pkg:maven/io.github.openfeign/feign-gson@10.2.3
+- pkg:maven/io.github.openfeign/feign-gson@10.2.3?classifier=sources
 - pkg:maven/io.github.openfeign/feign-gson@9.0.0
 - pkg:maven/io.github.openfeign/feign-gson@9.0.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-gson@9.1.0

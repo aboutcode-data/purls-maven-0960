@@ -1,2 +1,8 @@
+- pkg:maven/io.choerodon/choerodon-starter-redis@0.10.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-redis@0.10.1.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-redis@0.11.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-redis@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-redis@0.11.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-redis@0.11.1.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-starter-redis@0.9.3.RELEASE
 - pkg:maven/io.choerodon/choerodon-starter-redis@0.9.3.RELEASE?classifier=sources

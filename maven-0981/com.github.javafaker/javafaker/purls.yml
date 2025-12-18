@@ -18,6 +18,8 @@
 - pkg:maven/com.github.javafaker/javafaker@0.17.2
 - pkg:maven/com.github.javafaker/javafaker@0.17.2?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.17?classifier=sources
+- pkg:maven/com.github.javafaker/javafaker@0.18
+- pkg:maven/com.github.javafaker/javafaker@0.18?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.2
 - pkg:maven/com.github.javafaker/javafaker@0.2?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.3
@@ -34,3 +36,5 @@
 - pkg:maven/com.github.javafaker/javafaker@0.8?classifier=sources
 - pkg:maven/com.github.javafaker/javafaker@0.9
 - pkg:maven/com.github.javafaker/javafaker@0.9?classifier=sources
+- pkg:maven/com.github.javafaker/javafaker@1.0.0
+- pkg:maven/com.github.javafaker/javafaker@1.0.0?classifier=sources

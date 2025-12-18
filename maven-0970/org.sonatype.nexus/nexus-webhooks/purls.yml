@@ -22,6 +22,14 @@
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.16.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.16.1-02
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.16.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.16.2-01
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.16.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.17.0-01
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.17.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.18.0-01
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.18.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.18.1-01
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.18.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.2.0-01
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.2.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.2.1-01

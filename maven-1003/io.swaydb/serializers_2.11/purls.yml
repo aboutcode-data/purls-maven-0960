@@ -30,5 +30,7 @@
 - pkg:maven/io.swaydb/serializers_2.11@0.8-beta.6?classifier=sources
 - pkg:maven/io.swaydb/serializers_2.11@0.8-beta.7
 - pkg:maven/io.swaydb/serializers_2.11@0.8-beta.7?classifier=sources
+- pkg:maven/io.swaydb/serializers_2.11@0.8-beta.8
+- pkg:maven/io.swaydb/serializers_2.11@0.8-beta.8?classifier=sources
 - pkg:maven/io.swaydb/serializers_2.11@v0.8-beta.5
 - pkg:maven/io.swaydb/serializers_2.11@v0.8-beta.5?classifier=sources

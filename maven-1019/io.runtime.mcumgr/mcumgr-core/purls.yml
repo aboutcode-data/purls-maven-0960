@@ -5,3 +5,5 @@
 - pkg:maven/io.runtime.mcumgr/mcumgr-core@0.7-alpha3?type=aar
 - pkg:maven/io.runtime.mcumgr/mcumgr-core@0.7.0?classifier=sources
 - pkg:maven/io.runtime.mcumgr/mcumgr-core@0.7.0?type=aar
+- pkg:maven/io.runtime.mcumgr/mcumgr-core@0.8.0?classifier=sources
+- pkg:maven/io.runtime.mcumgr/mcumgr-core@0.8.0?type=aar

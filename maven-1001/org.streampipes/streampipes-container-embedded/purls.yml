@@ -6,3 +6,5 @@
 - pkg:maven/org.streampipes/streampipes-container-embedded@0.60.1?classifier=sources
 - pkg:maven/org.streampipes/streampipes-container-embedded@0.61.0
 - pkg:maven/org.streampipes/streampipes-container-embedded@0.61.0?classifier=sources
+- pkg:maven/org.streampipes/streampipes-container-embedded@0.62.0
+- pkg:maven/org.streampipes/streampipes-container-embedded@0.62.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.typesafe.play/play-mailer-guice_2.11@7.0.0-RC1
 - pkg:maven/com.typesafe.play/play-mailer-guice_2.11@7.0.0-RC1?classifier=sources
 - pkg:maven/com.typesafe.play/play-mailer-guice_2.11@7.0.0?classifier=sources
+- pkg:maven/com.typesafe.play/play-mailer-guice_2.11@7.0.1
+- pkg:maven/com.typesafe.play/play-mailer-guice_2.11@7.0.1?classifier=sources

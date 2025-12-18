@@ -208,3 +208,7 @@
 - pkg:maven/org.immutables/testing@2.7.4?classifier=sources
 - pkg:maven/org.immutables/testing@2.7.5
 - pkg:maven/org.immutables/testing@2.7.5?classifier=sources
+- pkg:maven/org.immutables/testing@2.8.0-CriteriaPreview0
+- pkg:maven/org.immutables/testing@2.8.0-CriteriaPreview0?classifier=sources
+- pkg:maven/org.immutables/testing@2.8.0-CriteriaPreview1
+- pkg:maven/org.immutables/testing@2.8.0-CriteriaPreview1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.hovans.android/network@0.9.4?classifier=sources
 - pkg:maven/com.hovans.android/network@0.9.4?type=aar
+- pkg:maven/com.hovans.android/network@0.9.7?classifier=sources
+- pkg:maven/com.hovans.android/network@0.9.7?type=aar
+- pkg:maven/com.hovans.android/network@0.9.8?classifier=sources
+- pkg:maven/com.hovans.android/network@0.9.8?type=aar

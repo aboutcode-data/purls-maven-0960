@@ -1,0 +1,4 @@
+- pkg:maven/com.nikvanderhoof/spark-constraints_2.11@0.1.0_spark2.3
+- pkg:maven/com.nikvanderhoof/spark-constraints_2.11@0.1.0_spark2.3?classifier=sources
+- pkg:maven/com.nikvanderhoof/spark-constraints_2.11@0.1.0_spark2.4
+- pkg:maven/com.nikvanderhoof/spark-constraints_2.11@0.1.0_spark2.4?classifier=sources

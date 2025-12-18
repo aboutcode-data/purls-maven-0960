@@ -6,3 +6,5 @@
 - pkg:maven/io.thorntail/cli@2.3.0.Final?classifier=sources
 - pkg:maven/io.thorntail/cli@2.4.0.Final
 - pkg:maven/io.thorntail/cli@2.4.0.Final?classifier=sources
+- pkg:maven/io.thorntail/cli@2.5.0.Final
+- pkg:maven/io.thorntail/cli@2.5.0.Final?classifier=sources

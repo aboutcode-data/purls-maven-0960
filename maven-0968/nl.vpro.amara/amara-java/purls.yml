@@ -14,3 +14,5 @@
 - pkg:maven/nl.vpro.amara/amara-java@0.7?classifier=sources
 - pkg:maven/nl.vpro.amara/amara-java@0.8
 - pkg:maven/nl.vpro.amara/amara-java@0.8?classifier=sources
+- pkg:maven/nl.vpro.amara/amara-java@0.9
+- pkg:maven/nl.vpro.amara/amara-java@0.9?classifier=sources

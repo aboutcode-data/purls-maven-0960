@@ -48,7 +48,13 @@
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@1.0.1?classifier=sources
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@1.0.2
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@1.0.2?classifier=sources
+- pkg:maven/org.apache.directory.api/api-ldap-extras-codec@1.0.3
+- pkg:maven/org.apache.directory.api/api-ldap-extras-codec@1.0.3?classifier=sources
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM1
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM1?classifier=sources
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM2
 - pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM2?classifier=sources
+- pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM3
+- pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM3?classifier=sources
+- pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM4
+- pkg:maven/org.apache.directory.api/api-ldap-extras-codec@2.0.0.AM4?classifier=sources

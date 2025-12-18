@@ -165,4 +165,12 @@
 - pkg:maven/org.specs2/specs2-mock_2.12@4.5.0
 - pkg:maven/org.specs2/specs2-mock_2.12@4.5.0?classifier=sources
 - pkg:maven/org.specs2/specs2-mock_2.12@4.5.1
+- pkg:maven/org.specs2/specs2-mock_2.12@4.5.1-4f247eaf0
+- pkg:maven/org.specs2/specs2-mock_2.12@4.5.1-4f247eaf0?classifier=sources
+- pkg:maven/org.specs2/specs2-mock_2.12@4.5.1-924020314
+- pkg:maven/org.specs2/specs2-mock_2.12@4.5.1-924020314?classifier=sources
 - pkg:maven/org.specs2/specs2-mock_2.12@4.5.1?classifier=sources
+- pkg:maven/org.specs2/specs2-mock_2.12@4.6.0
+- pkg:maven/org.specs2/specs2-mock_2.12@4.6.0?classifier=sources
+- pkg:maven/org.specs2/specs2-mock_2.12@4.7.0
+- pkg:maven/org.specs2/specs2-mock_2.12@4.7.0?classifier=sources

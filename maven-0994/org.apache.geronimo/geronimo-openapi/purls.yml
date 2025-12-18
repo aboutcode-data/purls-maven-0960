@@ -1,4 +1,5 @@
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.3?classifier=source-release&type=zip
@@ -6,3 +7,5 @@
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo/geronimo-openapi@1.0.9?classifier=source-release&type=zip

@@ -62,6 +62,10 @@
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.20.7?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.21.0
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.21.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.22.0
+- pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.22.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.23.0
+- pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.23.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.9.3
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.9.3?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.portal.providers.datatables@0.9.4

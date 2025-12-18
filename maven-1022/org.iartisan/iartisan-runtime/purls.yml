@@ -12,4 +12,6 @@
 - pkg:maven/org.iartisan/iartisan-runtime@1.0.3?classifier=sources
 - pkg:maven/org.iartisan/iartisan-runtime@1.0.5
 - pkg:maven/org.iartisan/iartisan-runtime@1.0.5?classifier=sources
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.8
+- pkg:maven/org.iartisan/iartisan-runtime@1.0.8?classifier=sources
 - pkg:maven/org.iartisan/iartisan-runtime@1.0?classifier=sources

@@ -43,3 +43,9 @@
 - pkg:maven/org.springframework.session/spring-session-jdbc@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-jdbc@2.1.5.RELEASE
 - pkg:maven/org.springframework.session/spring-session-jdbc@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-jdbc@2.1.6.RELEASE
+- pkg:maven/org.springframework.session/spring-session-jdbc@2.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-jdbc@2.1.7.RELEASE
+- pkg:maven/org.springframework.session/spring-session-jdbc@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-jdbc@2.1.8.RELEASE
+- pkg:maven/org.springframework.session/spring-session-jdbc@2.1.8.RELEASE?classifier=sources

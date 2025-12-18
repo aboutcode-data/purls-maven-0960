@@ -109,6 +109,15 @@
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.136
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.136?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.136?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.84
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.84?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.84?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.85
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.85?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.85?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.86
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.86?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.86?classifier=sources
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.87
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.87?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.devicemgt-plugins/test-coverage@4.0.87?classifier=sources

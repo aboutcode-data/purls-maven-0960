@@ -1,0 +1,4 @@
+- pkg:maven/io.seata/seata-codec-seata@0.7.0
+- pkg:maven/io.seata/seata-codec-seata@0.7.0?classifier=sources
+- pkg:maven/io.seata/seata-codec-seata@0.7.1
+- pkg:maven/io.seata/seata-codec-seata@0.7.1?classifier=sources

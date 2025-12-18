@@ -1,5 +1,9 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@10.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@10.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@10.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@10.1.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@10.2.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@10.2.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@4.8.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@4.8.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa-spring@4.9.0?classifier=sources

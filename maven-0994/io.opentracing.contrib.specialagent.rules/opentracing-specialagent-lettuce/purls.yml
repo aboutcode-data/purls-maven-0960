@@ -1,0 +1,4 @@
+- pkg:maven/io.opentracing.contrib.specialagent.rules/opentracing-specialagent-lettuce@1.1.1
+- pkg:maven/io.opentracing.contrib.specialagent.rules/opentracing-specialagent-lettuce@1.1.1?classifier=sources
+- pkg:maven/io.opentracing.contrib.specialagent.rules/opentracing-specialagent-lettuce@1.1.2
+- pkg:maven/io.opentracing.contrib.specialagent.rules/opentracing-specialagent-lettuce@1.1.2?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/babel-helpers@6.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-helpers@6.8.0
 - pkg:maven/org.webjars.npm/babel-helpers@6.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-helpers@7.0.0-beta.3
+- pkg:maven/org.webjars.npm/babel-helpers@7.0.0-beta.3?classifier=sources

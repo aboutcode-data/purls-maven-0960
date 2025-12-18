@@ -1,2 +1,4 @@
 - pkg:maven/org.odpi.egeria/structured-file-connector@0.2
 - pkg:maven/org.odpi.egeria/structured-file-connector@0.2?classifier=sources
+- pkg:maven/org.odpi.egeria/structured-file-connector@1.0
+- pkg:maven/org.odpi.egeria/structured-file-connector@1.0?classifier=sources

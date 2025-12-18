@@ -14,3 +14,7 @@
 - pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@2.0.3?classifier=sources
 - pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@2.0.4
 - pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@2.0.4?classifier=sources
+- pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@3.0.0-RC1
+- pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@3.0.0-RC1?classifier=sources
+- pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@3.0.0-RC2
+- pkg:maven/com.sksamuel.avro4s/avro4s-cats_2.12@3.0.0-RC2?classifier=sources

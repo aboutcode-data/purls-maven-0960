@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/bittorrent-dht@7.10.0
+- pkg:maven/org.webjars.npm/bittorrent-dht@7.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/bittorrent-dht@9.0.0
 - pkg:maven/org.webjars.npm/bittorrent-dht@9.0.0?classifier=sources

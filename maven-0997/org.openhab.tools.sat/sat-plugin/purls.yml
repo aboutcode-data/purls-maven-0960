@@ -4,3 +4,5 @@
 - pkg:maven/org.openhab.tools.sat/sat-plugin@0.5.0?classifier=sources
 - pkg:maven/org.openhab.tools.sat/sat-plugin@0.6.0
 - pkg:maven/org.openhab.tools.sat/sat-plugin@0.6.0?classifier=sources
+- pkg:maven/org.openhab.tools.sat/sat-plugin@0.7.0
+- pkg:maven/org.openhab.tools.sat/sat-plugin@0.7.0?classifier=sources

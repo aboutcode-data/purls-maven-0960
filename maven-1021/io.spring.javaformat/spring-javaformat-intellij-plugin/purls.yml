@@ -1,3 +1,15 @@
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.10
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.10?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.11
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.11?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.12
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.12?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.13
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.13?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.14
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.14?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.15
+- pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.15?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.2
 - pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.2?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-intellij-plugin@0.0.3

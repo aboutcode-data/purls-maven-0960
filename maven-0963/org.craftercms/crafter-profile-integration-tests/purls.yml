@@ -66,6 +66,14 @@
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.1?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.20?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.20?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.21?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.21?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.22?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.22?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.23?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.23?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.24?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.24?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.4?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.4?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.5?classifier=sources
@@ -78,6 +86,8 @@
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.8?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.9?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@3.0.9?type=war
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.1.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-integration-tests@3.1.0?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@v2.5.0-Beta4?type=war
 - pkg:maven/org.craftercms/crafter-profile-integration-tests@v2.5.0-Beta6?classifier=sources

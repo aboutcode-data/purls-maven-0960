@@ -54,5 +54,7 @@
 - pkg:maven/com.typesafe.akka/akka-http-xml_2.11@10.1.7?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-xml_2.11@10.1.8
 - pkg:maven/com.typesafe.akka/akka-http-xml_2.11@10.1.8?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-xml_2.11@10.1.9
+- pkg:maven/com.typesafe.akka/akka-http-xml_2.11@10.1.9?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-http-xml_2.11@3.0.0-RC1
 - pkg:maven/com.typesafe.akka/akka-http-xml_2.11@3.0.0-RC1?classifier=sources

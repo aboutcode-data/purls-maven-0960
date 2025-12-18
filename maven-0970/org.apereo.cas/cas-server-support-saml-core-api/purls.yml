@@ -12,7 +12,13 @@
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.0.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.0.3
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.0.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.0.4
+- pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.0.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC1
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC2
 - pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC3
+- pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC4
+- pkg:maven/org.apereo.cas/cas-server-support-saml-core-api@6.1.0-RC4?classifier=sources

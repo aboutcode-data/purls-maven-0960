@@ -6,3 +6,5 @@
 - pkg:maven/org.apereo.cas/cas-mgmt-webapp-tomcat@6.0.1?type=war
 - pkg:maven/org.apereo.cas/cas-mgmt-webapp-tomcat@6.1.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-mgmt-webapp-tomcat@6.1.0-RC2?type=war
+- pkg:maven/org.apereo.cas/cas-mgmt-webapp-tomcat@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-mgmt-webapp-tomcat@6.1.0-RC4?type=war

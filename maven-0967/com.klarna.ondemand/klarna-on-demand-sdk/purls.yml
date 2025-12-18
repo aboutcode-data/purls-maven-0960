@@ -50,3 +50,5 @@
 - pkg:maven/com.klarna.ondemand/klarna-on-demand-sdk@3.0.1?type=aar
 - pkg:maven/com.klarna.ondemand/klarna-on-demand-sdk@3.0.2?classifier=sources
 - pkg:maven/com.klarna.ondemand/klarna-on-demand-sdk@3.0.2?type=aar
+- pkg:maven/com.klarna.ondemand/klarna-on-demand-sdk@3.0.3?classifier=sources
+- pkg:maven/com.klarna.ondemand/klarna-on-demand-sdk@3.0.3?type=aar

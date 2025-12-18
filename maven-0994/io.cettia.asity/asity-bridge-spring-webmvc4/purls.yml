@@ -4,3 +4,7 @@
 - pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@2.0.0-RC1
 - pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@2.0.0-RC1?classifier=sources
 - pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@2.0.0?classifier=sources
+- pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@3.0.0
+- pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@3.0.0-Beta1
+- pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@3.0.0-Beta1?classifier=sources
+- pkg:maven/io.cettia.asity/asity-bridge-spring-webmvc4@3.0.0?classifier=sources

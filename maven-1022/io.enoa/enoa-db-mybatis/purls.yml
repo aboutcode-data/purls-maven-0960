@@ -2,3 +2,5 @@
 - pkg:maven/io.enoa/enoa-db-mybatis@1.6-beta.2?classifier=sources
 - pkg:maven/io.enoa/enoa-db-mybatis@1.7.0-beta
 - pkg:maven/io.enoa/enoa-db-mybatis@1.7.0-beta?classifier=sources
+- pkg:maven/io.enoa/enoa-db-mybatis@1.7.2-rc
+- pkg:maven/io.enoa/enoa-db-mybatis@1.7.2-rc?classifier=sources

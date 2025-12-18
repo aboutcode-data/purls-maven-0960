@@ -1,2 +1,4 @@
+- pkg:maven/org.opendaylight.jsonrpc/jsonrpc-test-model@1.5.4
+- pkg:maven/org.opendaylight.jsonrpc/jsonrpc-test-model@1.5.4?classifier=sources
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-test-model@1.6.0
 - pkg:maven/org.opendaylight.jsonrpc/jsonrpc-test-model@1.6.0?classifier=sources

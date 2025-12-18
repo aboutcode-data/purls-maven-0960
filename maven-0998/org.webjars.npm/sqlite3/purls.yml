@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/sqlite3@3.1.10
+- pkg:maven/org.webjars.npm/sqlite3@3.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/sqlite3@3.1.13
 - pkg:maven/org.webjars.npm/sqlite3@3.1.13?classifier=sources
 - pkg:maven/org.webjars.npm/sqlite3@3.1.4

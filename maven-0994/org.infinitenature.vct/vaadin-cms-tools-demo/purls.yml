@@ -4,3 +4,5 @@
 - pkg:maven/org.infinitenature.vct/vaadin-cms-tools-demo@0.0.3?type=war
 - pkg:maven/org.infinitenature.vct/vaadin-cms-tools-demo@0.0.4?classifier=sources
 - pkg:maven/org.infinitenature.vct/vaadin-cms-tools-demo@0.0.4?type=war
+- pkg:maven/org.infinitenature.vct/vaadin-cms-tools-demo@0.0.5?classifier=sources
+- pkg:maven/org.infinitenature.vct/vaadin-cms-tools-demo@0.0.5?type=war

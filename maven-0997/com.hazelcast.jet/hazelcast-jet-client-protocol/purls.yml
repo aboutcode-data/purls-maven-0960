@@ -20,3 +20,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-client-protocol@0.7?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-client-protocol@3.0
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-client-protocol@3.0?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-client-protocol@3.1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-client-protocol@3.1?classifier=sources

@@ -103,6 +103,8 @@
 - pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.1
 - pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.10
 - pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.10?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.11
+- pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.11?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.2
 - pkg:maven/org.apereo.cas/cas-server-support-validation@5.3.2?classifier=sources
@@ -136,7 +138,13 @@
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.0.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.0.3
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.0.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-validation@6.0.4
+- pkg:maven/org.apereo.cas/cas-server-support-validation@6.0.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC1
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC2
 - pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC3
+- pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC4
+- pkg:maven/org.apereo.cas/cas-server-support-validation@6.1.0-RC4?classifier=sources

@@ -1,6 +1,18 @@
 - pkg:maven/nl.praegus/toolchain-fixtures@1.0
 - pkg:maven/nl.praegus/toolchain-fixtures@1.0?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fixtures@1.1
+- pkg:maven/nl.praegus/toolchain-fixtures@1.10
+- pkg:maven/nl.praegus/toolchain-fixtures@1.10.1
+- pkg:maven/nl.praegus/toolchain-fixtures@1.10.1?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.10?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.11
+- pkg:maven/nl.praegus/toolchain-fixtures@1.11?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.13
+- pkg:maven/nl.praegus/toolchain-fixtures@1.13?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.14
+- pkg:maven/nl.praegus/toolchain-fixtures@1.14?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.15
+- pkg:maven/nl.praegus/toolchain-fixtures@1.15?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fixtures@1.1?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fixtures@1.2
 - pkg:maven/nl.praegus/toolchain-fixtures@1.2?classifier=sources
@@ -18,3 +30,7 @@
 - pkg:maven/nl.praegus/toolchain-fixtures@1.6?classifier=sources
 - pkg:maven/nl.praegus/toolchain-fixtures@1.7
 - pkg:maven/nl.praegus/toolchain-fixtures@1.7?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.8
+- pkg:maven/nl.praegus/toolchain-fixtures@1.8?classifier=sources
+- pkg:maven/nl.praegus/toolchain-fixtures@1.9
+- pkg:maven/nl.praegus/toolchain-fixtures@1.9?classifier=sources

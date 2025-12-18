@@ -1,2 +1,6 @@
 - pkg:maven/com.aoindustries/aoserv-daemon-client-book@1.77.2
 - pkg:maven/com.aoindustries/aoserv-daemon-client-book@1.80.1
+- pkg:maven/com.aoindustries/aoserv-daemon-client-book@1.81.22
+- pkg:maven/com.aoindustries/aoserv-daemon-client-book@1.81.22?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-client-book@1.82.1
+- pkg:maven/com.aoindustries/aoserv-daemon-client-book@1.82.1?classifier=sources

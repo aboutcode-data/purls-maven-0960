@@ -1,0 +1,4 @@
+- pkg:maven/cd.connect.features/connect-feature-service-grpc@2.1
+- pkg:maven/cd.connect.features/connect-feature-service-grpc@2.1?classifier=sources
+- pkg:maven/cd.connect.features/connect-feature-service-grpc@2.2
+- pkg:maven/cd.connect.features/connect-feature-service-grpc@2.2?classifier=sources

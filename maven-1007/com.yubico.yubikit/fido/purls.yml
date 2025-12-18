@@ -1,0 +1,4 @@
+- pkg:maven/com.yubico.yubikit/fido@1.0.0-alpha01?classifier=sources
+- pkg:maven/com.yubico.yubikit/fido@1.0.0-alpha01?type=aar
+- pkg:maven/com.yubico.yubikit/fido@1.0.0-beta01?classifier=sources
+- pkg:maven/com.yubico.yubikit/fido@1.0.0-beta01?type=aar

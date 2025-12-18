@@ -10,3 +10,5 @@
 - pkg:maven/io.thorntail/swagger@2.3.0.Final?classifier=sources
 - pkg:maven/io.thorntail/swagger@2.4.0.Final
 - pkg:maven/io.thorntail/swagger@2.4.0.Final?classifier=sources
+- pkg:maven/io.thorntail/swagger@2.5.0.Final
+- pkg:maven/io.thorntail/swagger@2.5.0.Final?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.overturetool.core/interpreter@2.6.2?classifier=sources
 - pkg:maven/org.overturetool.core/interpreter@2.6.4
 - pkg:maven/org.overturetool.core/interpreter@2.6.4?classifier=sources
+- pkg:maven/org.overturetool.core/interpreter@2.7.0
+- pkg:maven/org.overturetool.core/interpreter@2.7.0?classifier=sources

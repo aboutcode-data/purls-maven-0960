@@ -1,2 +1,4 @@
 - pkg:maven/com.stalary/easydoc-gradle-plugin@0.0.1
 - pkg:maven/com.stalary/easydoc-gradle-plugin@0.1.0
+- pkg:maven/com.stalary/easydoc-gradle-plugin@1.0.0
+- pkg:maven/com.stalary/easydoc-gradle-plugin@1.0.0?classifier=sources

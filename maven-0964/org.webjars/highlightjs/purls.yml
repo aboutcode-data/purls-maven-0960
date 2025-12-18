@@ -22,6 +22,8 @@
 - pkg:maven/org.webjars/highlightjs@8.4?classifier=sources
 - pkg:maven/org.webjars/highlightjs@8.7
 - pkg:maven/org.webjars/highlightjs@8.7?classifier=sources
+- pkg:maven/org.webjars/highlightjs@9.15.8
+- pkg:maven/org.webjars/highlightjs@9.15.8?classifier=sources
 - pkg:maven/org.webjars/highlightjs@9.2.0
 - pkg:maven/org.webjars/highlightjs@9.2.0?classifier=sources
 - pkg:maven/org.webjars/highlightjs@9.6.0

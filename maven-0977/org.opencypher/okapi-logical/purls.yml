@@ -40,6 +40,12 @@
 - pkg:maven/org.opencypher/okapi-logical@0.3.1?classifier=sources
 - pkg:maven/org.opencypher/okapi-logical@0.3.2
 - pkg:maven/org.opencypher/okapi-logical@0.3.2?classifier=sources
+- pkg:maven/org.opencypher/okapi-logical@0.4.0
+- pkg:maven/org.opencypher/okapi-logical@0.4.0?classifier=sources
+- pkg:maven/org.opencypher/okapi-logical@0.4.1
+- pkg:maven/org.opencypher/okapi-logical@0.4.1?classifier=sources
+- pkg:maven/org.opencypher/okapi-logical@0.4.2
+- pkg:maven/org.opencypher/okapi-logical@0.4.2?classifier=sources
 - pkg:maven/org.opencypher/okapi-logical@1.0.0-alpha01
 - pkg:maven/org.opencypher/okapi-logical@1.0.0-alpha01?classifier=sources
 - pkg:maven/org.opencypher/okapi-logical@1.0.0-alpha02

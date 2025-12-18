@@ -1,2 +1,10 @@
 - pkg:maven/com.github.rahulsom/grooves-example-test@0.5.0
 - pkg:maven/com.github.rahulsom/grooves-example-test@0.5.0?classifier=sources
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.0
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.0?classifier=sources
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.1
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.1-rc.1
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.1-rc.1?classifier=sources
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.1-rc.2
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.1-rc.2?classifier=sources
+- pkg:maven/com.github.rahulsom/grooves-example-test@0.6.1?classifier=sources

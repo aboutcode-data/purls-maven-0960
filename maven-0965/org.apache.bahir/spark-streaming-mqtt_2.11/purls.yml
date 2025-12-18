@@ -20,9 +20,13 @@
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.2.1?classifier=sources
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.2.2
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.2.2?classifier=sources
+- pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.2.3
+- pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.2.3?classifier=sources
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.0
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.0?classifier=sources
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.1
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.1?classifier=sources
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.2
 - pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.2?classifier=sources
+- pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.3
+- pkg:maven/org.apache.bahir/spark-streaming-mqtt_2.11@2.3.3?classifier=sources

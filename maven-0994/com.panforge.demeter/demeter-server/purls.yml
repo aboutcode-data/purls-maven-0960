@@ -1,0 +1,2 @@
+- pkg:maven/com.panforge.demeter/demeter-server@1.0.0?classifier=sources
+- pkg:maven/com.panforge.demeter/demeter-server@1.0.0?type=war

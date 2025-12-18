@@ -10,3 +10,5 @@
 - pkg:maven/com.aoindustries/aoweb-struts-webapp@1.1.1?type=war
 - pkg:maven/com.aoindustries/aoweb-struts-webapp@1.1.2?classifier=sources
 - pkg:maven/com.aoindustries/aoweb-struts-webapp@1.1.2?type=war
+- pkg:maven/com.aoindustries/aoweb-struts-webapp@1.2.0?classifier=sources
+- pkg:maven/com.aoindustries/aoweb-struts-webapp@1.2.0?type=war

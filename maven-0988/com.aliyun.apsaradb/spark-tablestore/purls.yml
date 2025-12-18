@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun.apsaradb/spark-tablestore@4.11.0_2.3.2-1.0.3
+- pkg:maven/com.aliyun.apsaradb/spark-tablestore@4.11.0_2.3.2-1.0.3?classifier=sources
+- pkg:maven/com.aliyun.apsaradb/spark-tablestore@4.11.0_2.4.3-1.0.4
+- pkg:maven/com.aliyun.apsaradb/spark-tablestore@4.11.0_2.4.3-1.0.4?classifier=sources

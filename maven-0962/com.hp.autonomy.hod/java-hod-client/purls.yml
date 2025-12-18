@@ -78,6 +78,10 @@
 - pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.0?classifier=sources
 - pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.1
 - pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.1?classifier=sources
+- pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.2
+- pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.2?classifier=sources
+- pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.3
+- pkg:maven/com.hp.autonomy.hod/java-hod-client@0.25.3?classifier=sources
 - pkg:maven/com.hp.autonomy.hod/java-hod-client@0.3.0
 - pkg:maven/com.hp.autonomy.hod/java-hod-client@0.3.0?classifier=sources
 - pkg:maven/com.hp.autonomy.hod/java-hod-client@0.4.0

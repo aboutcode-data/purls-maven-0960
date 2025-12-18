@@ -2,3 +2,5 @@
 - pkg:maven/org.odpi.egeria/governance-action-framework@0.1?classifier=sources
 - pkg:maven/org.odpi.egeria/governance-action-framework@0.2
 - pkg:maven/org.odpi.egeria/governance-action-framework@0.2?classifier=sources
+- pkg:maven/org.odpi.egeria/governance-action-framework@1.0
+- pkg:maven/org.odpi.egeria/governance-action-framework@1.0?classifier=sources

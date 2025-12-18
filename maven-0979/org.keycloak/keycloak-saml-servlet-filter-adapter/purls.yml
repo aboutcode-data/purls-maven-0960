@@ -136,3 +136,5 @@
 - pkg:maven/org.keycloak/keycloak-saml-servlet-filter-adapter@5.0.0?classifier=sources
 - pkg:maven/org.keycloak/keycloak-saml-servlet-filter-adapter@6.0.0
 - pkg:maven/org.keycloak/keycloak-saml-servlet-filter-adapter@6.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-saml-servlet-filter-adapter@6.0.1
+- pkg:maven/org.keycloak/keycloak-saml-servlet-filter-adapter@6.0.1?classifier=sources
