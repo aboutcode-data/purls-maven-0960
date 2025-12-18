@@ -180,6 +180,14 @@
 - pkg:maven/org.openl/org.openl.commons@5.23.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.23.1
 - pkg:maven/org.openl/org.openl.commons@5.23.1?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.2
+- pkg:maven/org.openl/org.openl.commons@5.23.2?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.3
+- pkg:maven/org.openl/org.openl.commons@5.23.3?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.4
+- pkg:maven/org.openl/org.openl.commons@5.23.4?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.23.5
+- pkg:maven/org.openl/org.openl.commons@5.23.5?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.0
 - pkg:maven/org.openl/org.openl.commons@5.7.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.1

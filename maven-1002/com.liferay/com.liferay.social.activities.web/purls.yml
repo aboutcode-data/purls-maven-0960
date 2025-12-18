@@ -73,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.27
+- pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.web@2.0.3
@@ -105,6 +108,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.11
 - pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.12
+- pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.2
 - pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@3.0.2?classifier=sources-commercial
@@ -153,6 +159,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.16
 - pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.17
+- pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.web@4.0.2
@@ -191,3 +200,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.4
 - pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.5
+- pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.6
+- pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.web@5.0.6?classifier=sources-commercial

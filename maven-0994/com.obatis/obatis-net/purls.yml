@@ -15,4 +15,6 @@
 - pkg:maven/com.obatis/obatis-net@1.0.7-release
 - pkg:maven/com.obatis/obatis-net@1.0.7-release?classifier=sources
 - pkg:maven/com.obatis/obatis-net@1.0.7?classifier=sources
+- pkg:maven/com.obatis/obatis-net@1.0.8
+- pkg:maven/com.obatis/obatis-net@1.0.8?classifier=sources
 - pkg:maven/com.obatis/obatis-net@1.0?classifier=sources

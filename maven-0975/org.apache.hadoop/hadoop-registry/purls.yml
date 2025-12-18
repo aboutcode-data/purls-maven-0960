@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hadoop/hadoop-registry@3.3.0
+- pkg:maven/org.apache.hadoop/hadoop-registry@3.3.0?classifier=sources

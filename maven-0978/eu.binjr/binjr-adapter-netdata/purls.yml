@@ -1,1 +1,4 @@
 - pkg:maven/eu.binjr/binjr-adapter-netdata@2.15.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-netdata@2.16.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-netdata@2.17.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-netdata@2.17.1?classifier=sources

@@ -4,6 +4,10 @@
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.1?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.2
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.2?classifier=sources
+- pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.3
+- pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.3?classifier=sources
+- pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.4
+- pkg:maven/org.opendaylight.sfc/sfc-shell@0.10.4?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.6.0
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.6.0?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-shell@0.6.1

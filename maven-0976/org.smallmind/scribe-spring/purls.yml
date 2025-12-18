@@ -178,3 +178,5 @@
 - pkg:maven/org.smallmind/scribe-spring@3.3.9?classifier=sources
 - pkg:maven/org.smallmind/scribe-spring@3.5.0
 - pkg:maven/org.smallmind/scribe-spring@3.5.0?classifier=sources
+- pkg:maven/org.smallmind/scribe-spring@3.5.1
+- pkg:maven/org.smallmind/scribe-spring@3.5.1?classifier=sources

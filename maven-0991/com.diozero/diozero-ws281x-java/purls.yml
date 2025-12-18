@@ -2,6 +2,8 @@
 - pkg:maven/com.diozero/diozero-ws281x-java@0.10?classifier=sources
 - pkg:maven/com.diozero/diozero-ws281x-java@0.11
 - pkg:maven/com.diozero/diozero-ws281x-java@0.11?classifier=sources
+- pkg:maven/com.diozero/diozero-ws281x-java@0.12
+- pkg:maven/com.diozero/diozero-ws281x-java@0.12?classifier=sources
 - pkg:maven/com.diozero/diozero-ws281x-java@0.6
 - pkg:maven/com.diozero/diozero-ws281x-java@0.6?classifier=sources
 - pkg:maven/com.diozero/diozero-ws281x-java@0.7

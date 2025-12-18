@@ -22,3 +22,5 @@
 - pkg:maven/de.halfbit/magnetx-app-stetho-scope@3.4-rc1?type=aar
 - pkg:maven/de.halfbit/magnetx-app-stetho-scope@3.4-rc2?classifier=sources
 - pkg:maven/de.halfbit/magnetx-app-stetho-scope@3.4-rc2?type=aar
+- pkg:maven/de.halfbit/magnetx-app-stetho-scope@3.4?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app-stetho-scope@3.4?type=aar

@@ -8,6 +8,8 @@
 - pkg:maven/com.weicoder/web@1.2.1?classifier=sources
 - pkg:maven/com.weicoder/web@1.2.2
 - pkg:maven/com.weicoder/web@1.2.2?classifier=sources
+- pkg:maven/com.weicoder/web@1.2.3
+- pkg:maven/com.weicoder/web@1.2.3?classifier=sources
 - pkg:maven/com.weicoder/web@2.0
 - pkg:maven/com.weicoder/web@2.0?classifier=sources
 - pkg:maven/com.weicoder/web@2.1
@@ -61,6 +63,8 @@
 - pkg:maven/com.weicoder/web@2.5.1?classifier=sources
 - pkg:maven/com.weicoder/web@2.5.2
 - pkg:maven/com.weicoder/web@2.5.2?classifier=sources
+- pkg:maven/com.weicoder/web@2.5.3
+- pkg:maven/com.weicoder/web@2.5.3?classifier=sources
 - pkg:maven/com.weicoder/web@2.6.0
 - pkg:maven/com.weicoder/web@2.6.0?classifier=sources
 - pkg:maven/com.weicoder/web@2.6.1
@@ -125,3 +129,19 @@
 - pkg:maven/com.weicoder/web@3.3.9-jdk8
 - pkg:maven/com.weicoder/web@3.3.9-jdk8?classifier=sources
 - pkg:maven/com.weicoder/web@3.3.9?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.0
+- pkg:maven/com.weicoder/web@3.4.0-jdk8
+- pkg:maven/com.weicoder/web@3.4.0-jdk8?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.0?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.1
+- pkg:maven/com.weicoder/web@3.4.1-jdk8
+- pkg:maven/com.weicoder/web@3.4.1-jdk8?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.1?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.2
+- pkg:maven/com.weicoder/web@3.4.2-jdk8
+- pkg:maven/com.weicoder/web@3.4.2-jdk8?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.2?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.3
+- pkg:maven/com.weicoder/web@3.4.3-jdk8
+- pkg:maven/com.weicoder/web@3.4.3-jdk8?classifier=sources
+- pkg:maven/com.weicoder/web@3.4.3?classifier=sources

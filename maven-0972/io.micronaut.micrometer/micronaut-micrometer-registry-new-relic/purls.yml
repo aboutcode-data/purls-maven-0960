@@ -1,1 +1,5 @@
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic@2.0.0.RC2?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic@2.0.0.RC3?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic@2.0.0.RC4?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic@2.0.0?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic@2.0.1?classifier=sources

@@ -552,6 +552,16 @@
 - pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200429-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200508-1.30.9
 - pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200508-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200603-1.30.9
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200603-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200706-1.30.10
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200706-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200706-1.30.9
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200706-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200720-1.30.10
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200720-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200805-1.30.10
+- pkg:maven/com.google.apis/google-api-services-testing@v1-rev20200805-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-testing@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-testing@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-testing@v1-rev21-1.21.0

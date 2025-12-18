@@ -36,3 +36,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.3.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.4.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.5.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.5.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.5.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-r-kvstore@2.5.1?classifier=sources

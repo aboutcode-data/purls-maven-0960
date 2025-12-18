@@ -2,3 +2,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graaljs@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graaljs@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graaljs@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-graaljs@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-graaljs@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-graaljs@RELEASE120?classifier=sources

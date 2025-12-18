@@ -22,3 +22,5 @@
 - pkg:maven/com.opentable.components/otj-metrics-reactive@4.0.8?classifier=sources
 - pkg:maven/com.opentable.components/otj-metrics-reactive@4.0.9
 - pkg:maven/com.opentable.components/otj-metrics-reactive@4.0.9?classifier=sources
+- pkg:maven/com.opentable.components/otj-metrics-reactive@5.2.0
+- pkg:maven/com.opentable.components/otj-metrics-reactive@5.2.0?classifier=sources

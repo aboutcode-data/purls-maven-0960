@@ -18,3 +18,5 @@
 - pkg:maven/com.itangcent/intellij-idea@0.2.8.RELEASE?classifier=sources
 - pkg:maven/com.itangcent/intellij-idea@0.5.0
 - pkg:maven/com.itangcent/intellij-idea@0.5.0?classifier=sources
+- pkg:maven/com.itangcent/intellij-idea@0.7.1
+- pkg:maven/com.itangcent/intellij-idea@0.7.1?classifier=sources

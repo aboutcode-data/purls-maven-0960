@@ -1,2 +1,4 @@
 - pkg:maven/com.github.spoonlabs/coming@3
 - pkg:maven/com.github.spoonlabs/coming@3?classifier=sources
+- pkg:maven/com.github.spoonlabs/coming@4
+- pkg:maven/com.github.spoonlabs/coming@4?classifier=sources

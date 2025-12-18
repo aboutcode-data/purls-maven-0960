@@ -12,5 +12,7 @@
 - pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.2.7?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.2.8
 - pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.2.8?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.2.9
+- pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.2.9?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.3.0.RC1
 - pkg:maven/org.apache.karaf.examples/karaf-camel-example-java@4.3.0.RC1?classifier=sources

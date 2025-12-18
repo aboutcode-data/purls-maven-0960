@@ -36,3 +36,9 @@
 - pkg:maven/io.redback/redback-core@1.0.8?classifier=sources
 - pkg:maven/io.redback/redback-core@1.0.9
 - pkg:maven/io.redback/redback-core@1.0.9?classifier=sources
+- pkg:maven/io.redback/redback-core@1.1.0
+- pkg:maven/io.redback/redback-core@1.1.0?classifier=sources
+- pkg:maven/io.redback/redback-core@1.2.0
+- pkg:maven/io.redback/redback-core@1.2.0?classifier=sources
+- pkg:maven/io.redback/redback-core@1.2.1
+- pkg:maven/io.redback/redback-core@1.2.1?classifier=sources

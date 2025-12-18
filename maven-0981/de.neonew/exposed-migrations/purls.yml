@@ -1,2 +1,4 @@
 - pkg:maven/de.neonew/exposed-migrations@1.0.0
 - pkg:maven/de.neonew/exposed-migrations@1.0.0?classifier=sources
+- pkg:maven/de.neonew/exposed-migrations@2.0.0
+- pkg:maven/de.neonew/exposed-migrations@2.0.0?classifier=sources

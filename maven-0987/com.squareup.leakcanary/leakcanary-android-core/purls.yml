@@ -22,3 +22,5 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.2?type=aar
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.3?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.3?type=aar
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.4?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.4?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.james/blob-memory-guice@3.4.0
 - pkg:maven/org.apache.james/blob-memory-guice@3.4.0?classifier=sources
+- pkg:maven/org.apache.james/blob-memory-guice@3.5.0
+- pkg:maven/org.apache.james/blob-memory-guice@3.5.0?classifier=sources

@@ -366,3 +366,13 @@
 - pkg:maven/com.proofpoint.platform/log@2.28?classifier=sources
 - pkg:maven/com.proofpoint.platform/log@2.29
 - pkg:maven/com.proofpoint.platform/log@2.29?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@2.30
+- pkg:maven/com.proofpoint.platform/log@2.30?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@2.32
+- pkg:maven/com.proofpoint.platform/log@2.32?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@2.33
+- pkg:maven/com.proofpoint.platform/log@2.33?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@2.34
+- pkg:maven/com.proofpoint.platform/log@2.34?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@2.35
+- pkg:maven/com.proofpoint.platform/log@2.35?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/io.rxmicro/rxmicro-netty-native@0.4.2
 - pkg:maven/io.rxmicro/rxmicro-netty-native@0.4.2?classifier=sources
 - pkg:maven/io.rxmicro/rxmicro-netty-native@0.4?classifier=sources
+- pkg:maven/io.rxmicro/rxmicro-netty-native@0.5
+- pkg:maven/io.rxmicro/rxmicro-netty-native@0.5?classifier=sources

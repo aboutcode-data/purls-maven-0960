@@ -18,6 +18,7 @@
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.0.RC1
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.0.RC1?classifier=sources
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.0?classifier=sources
+- pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1.B1
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1.B1?classifier=sources
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1.B2
@@ -30,5 +31,6 @@
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1.RC1?classifier=sources
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1.RC2
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1.RC2?classifier=sources
+- pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.1?classifier=sources
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.2.M1
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.2.M1?classifier=sources

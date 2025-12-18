@@ -83,6 +83,8 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.15?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.16
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.16?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.17
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.17?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.1?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.2
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.2?classifier=sources

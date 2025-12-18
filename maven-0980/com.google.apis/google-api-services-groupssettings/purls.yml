@@ -24,6 +24,10 @@
 - pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20190725-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20190725-1.30.9
 - pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20190725-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20200617-1.30.10
+- pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20200617-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20200617-1.30.9
+- pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev20200617-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev22-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev22-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-groupssettings@v1-rev22-1.14.1-beta

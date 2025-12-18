@@ -12,3 +12,7 @@
 - pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.2.0%2B7-c1504753
 - pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.2.0%2B7-c1504753?classifier=sources
 - pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.2.0?classifier=sources
+- pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.3.0
+- pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.3.0?classifier=sources
+- pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.4.0
+- pkg:maven/com.vladkopanev/zio-saga-core_2.11@0.4.0?classifier=sources

@@ -28,3 +28,9 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.7.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.8.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.9.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-function-compiler@3.0.9.RELEASE?classifier=sources

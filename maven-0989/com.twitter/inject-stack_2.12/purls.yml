@@ -1,0 +1,6 @@
+- pkg:maven/com.twitter/inject-stack_2.12@20.6.0
+- pkg:maven/com.twitter/inject-stack_2.12@20.6.0?classifier=sources
+- pkg:maven/com.twitter/inject-stack_2.12@20.7.0
+- pkg:maven/com.twitter/inject-stack_2.12@20.7.0?classifier=sources
+- pkg:maven/com.twitter/inject-stack_2.12@20.8.0
+- pkg:maven/com.twitter/inject-stack_2.12@20.8.0?classifier=sources

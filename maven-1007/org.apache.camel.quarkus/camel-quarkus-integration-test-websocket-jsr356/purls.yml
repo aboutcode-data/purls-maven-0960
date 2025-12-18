@@ -1,3 +1,8 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-CR2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-CR2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-CR3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-CR3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-M4
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-M4?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-M5
@@ -6,3 +11,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-M6?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-M7
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0-M7?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-websocket-jsr356@1.0.0?classifier=sources

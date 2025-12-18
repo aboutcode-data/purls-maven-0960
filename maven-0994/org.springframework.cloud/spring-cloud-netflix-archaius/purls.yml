@@ -20,9 +20,15 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.1.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.1.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.1.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-archaius@2.2.4.RELEASE?classifier=sources

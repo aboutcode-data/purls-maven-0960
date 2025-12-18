@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@1.0.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@1.0.0-CR3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@1.0.0-CR3?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@1.0.0?classifier=sources

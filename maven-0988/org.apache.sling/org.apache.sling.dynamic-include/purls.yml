@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.dynamic-include@3.1.6
 - pkg:maven/org.apache.sling/org.apache.sling.dynamic-include@3.1.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.dynamic-include@3.1.6?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.dynamic-include@3.2.0
+- pkg:maven/org.apache.sling/org.apache.sling.dynamic-include@3.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.dynamic-include@3.2.0?classifier=sources

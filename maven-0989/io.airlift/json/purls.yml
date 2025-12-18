@@ -194,6 +194,10 @@
 - pkg:maven/io.airlift/json@0.196?classifier=sources
 - pkg:maven/io.airlift/json@0.197
 - pkg:maven/io.airlift/json@0.197?classifier=sources
+- pkg:maven/io.airlift/json@0.198
+- pkg:maven/io.airlift/json@0.198?classifier=sources
+- pkg:maven/io.airlift/json@0.199
+- pkg:maven/io.airlift/json@0.199?classifier=sources
 - pkg:maven/io.airlift/json@0.65
 - pkg:maven/io.airlift/json@0.65?classifier=sources
 - pkg:maven/io.airlift/json@0.66
@@ -264,3 +268,5 @@
 - pkg:maven/io.airlift/json@0.98?classifier=sources
 - pkg:maven/io.airlift/json@0.99
 - pkg:maven/io.airlift/json@0.99?classifier=sources
+- pkg:maven/io.airlift/json@200
+- pkg:maven/io.airlift/json@200?classifier=sources

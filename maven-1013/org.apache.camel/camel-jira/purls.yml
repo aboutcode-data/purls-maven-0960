@@ -120,6 +120,8 @@
 - pkg:maven/org.apache.camel/camel-jira@2.25.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jira@2.25.1
 - pkg:maven/org.apache.camel/camel-jira@2.25.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-jira@2.25.2
+- pkg:maven/org.apache.camel/camel-jira@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-jira@3.0.0
 - pkg:maven/org.apache.camel/camel-jira@3.0.0-M3
 - pkg:maven/org.apache.camel/camel-jira@3.0.0-M3?classifier=sources
@@ -140,3 +142,11 @@
 - pkg:maven/org.apache.camel/camel-jira@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jira@3.3.0
 - pkg:maven/org.apache.camel/camel-jira@3.3.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-jira@3.4.0
+- pkg:maven/org.apache.camel/camel-jira@3.4.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-jira@3.4.1
+- pkg:maven/org.apache.camel/camel-jira@3.4.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-jira@3.4.2
+- pkg:maven/org.apache.camel/camel-jira@3.4.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-jira@3.4.3
+- pkg:maven/org.apache.camel/camel-jira@3.4.3?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/com.streamr/client@1.3.6?classifier=sources
 - pkg:maven/com.streamr/client@1.4.0
 - pkg:maven/com.streamr/client@1.4.0?classifier=sources
+- pkg:maven/com.streamr/client@2.0.0
+- pkg:maven/com.streamr/client@2.0.0?classifier=sources

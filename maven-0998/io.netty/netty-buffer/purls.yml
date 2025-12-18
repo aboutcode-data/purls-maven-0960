@@ -278,6 +278,8 @@
 - pkg:maven/io.netty/netty-buffer@4.1.5.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.50.Final
 - pkg:maven/io.netty/netty-buffer@4.1.50.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.51.Final
+- pkg:maven/io.netty/netty-buffer@4.1.51.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.6.Final
 - pkg:maven/io.netty/netty-buffer@4.1.6.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.7.Final

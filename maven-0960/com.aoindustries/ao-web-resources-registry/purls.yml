@@ -1,2 +1,4 @@
 - pkg:maven/com.aoindustries/ao-web-resources-registry@0.1.0
 - pkg:maven/com.aoindustries/ao-web-resources-registry@0.1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-web-resources-registry@0.2.0
+- pkg:maven/com.aoindustries/ao-web-resources-registry@0.2.0?classifier=sources

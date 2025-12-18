@@ -4,6 +4,10 @@
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.11.0?classifier=sources
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.12.0
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.12.0?classifier=sources
+- pkg:maven/com.amazon.emr/hive1.2-shims@4.13.0
+- pkg:maven/com.amazon.emr/hive1.2-shims@4.13.0?classifier=sources
+- pkg:maven/com.amazon.emr/hive1.2-shims@4.14.0
+- pkg:maven/com.amazon.emr/hive1.2-shims@4.14.0?classifier=sources
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.3.0
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.3.0?classifier=sources
 - pkg:maven/com.amazon.emr/hive1.2-shims@4.4.0

@@ -2,3 +2,4 @@
 - pkg:maven/org.glassfish.main.distributions/nucleus-common@5.1.0-RC1?classifier=sources
 - pkg:maven/org.glassfish.main.distributions/nucleus-common@5.1.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.main.distributions/nucleus-common@5.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.distributions/nucleus-common@6.0.0-M1?classifier=sources

@@ -3,6 +3,8 @@
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.13?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.14?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.1?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.extension.siddhi.function-archetype@2.0.3?classifier=source-release&type=zip

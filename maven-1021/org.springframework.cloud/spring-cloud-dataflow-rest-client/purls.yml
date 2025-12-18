@@ -88,3 +88,11 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.5.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.6.0
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.6.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.6.1
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-rest-client@2.6.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.flink/flink-sql-connector-hive-3.1.2_2.11@1.11.0
+- pkg:maven/org.apache.flink/flink-sql-connector-hive-3.1.2_2.11@1.11.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-sql-connector-hive-3.1.2_2.11@1.11.1
+- pkg:maven/org.apache.flink/flink-sql-connector-hive-3.1.2_2.11@1.11.1?classifier=sources

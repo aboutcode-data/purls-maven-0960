@@ -1,0 +1,10 @@
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.77
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.77?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.78
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.78?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.79
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.79?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.80
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.80?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.81
+- pkg:maven/com.playtika.testcontainers/embedded-cassandra@1.81?classifier=sources

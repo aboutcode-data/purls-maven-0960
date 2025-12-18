@@ -2,3 +2,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@2.0.0-RC2
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@2.0.0-RC2?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@2.0.0?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@2.0.1
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@2.0.1?classifier=sources

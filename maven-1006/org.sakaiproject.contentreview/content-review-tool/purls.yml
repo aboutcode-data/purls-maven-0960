@@ -18,5 +18,9 @@
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.3?type=war
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.4?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.4?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.5?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@19.5?type=war
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.0?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.0?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.1?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@20.1?type=war

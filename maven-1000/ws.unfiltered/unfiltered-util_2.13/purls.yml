@@ -1,3 +1,5 @@
+- pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M10
+- pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M10?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M4
 - pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M4?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M5
@@ -8,3 +10,5 @@
 - pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M7?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M8
 - pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M8?classifier=sources
+- pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M9
+- pkg:maven/ws.unfiltered/unfiltered-util_2.13@0.10.0-M9?classifier=sources

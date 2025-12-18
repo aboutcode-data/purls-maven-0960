@@ -112,3 +112,7 @@
 - pkg:maven/org.springframework.batch/spring-batch-core@4.2.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-core@4.2.2.RELEASE
 - pkg:maven/org.springframework.batch/spring-batch-core@4.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-core@4.2.3.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-core@4.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-core@4.2.4.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-core@4.2.4.RELEASE?classifier=sources

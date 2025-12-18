@@ -52,3 +52,5 @@
 - pkg:maven/com.facebook.fresco/imagepipeline-volley@1.9.0?type=aar
 - pkg:maven/com.facebook.fresco/imagepipeline-volley@2.0.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-volley@2.0.0?type=aar
+- pkg:maven/com.facebook.fresco/imagepipeline-volley@2.3.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-volley@2.3.0?type=aar

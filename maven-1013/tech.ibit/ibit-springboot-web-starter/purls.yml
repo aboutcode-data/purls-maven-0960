@@ -1,2 +1,4 @@
 - pkg:maven/tech.ibit/ibit-springboot-web-starter@1.0
 - pkg:maven/tech.ibit/ibit-springboot-web-starter@1.0?classifier=sources
+- pkg:maven/tech.ibit/ibit-springboot-web-starter@2.0
+- pkg:maven/tech.ibit/ibit-springboot-web-starter@2.0?classifier=sources

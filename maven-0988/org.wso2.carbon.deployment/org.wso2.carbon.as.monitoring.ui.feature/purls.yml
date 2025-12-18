@@ -1,6 +1,8 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.10.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.10.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.10.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.10.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.11.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.6.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.7.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.as.monitoring.ui.feature@4.7.11?classifier=source-release&type=zip

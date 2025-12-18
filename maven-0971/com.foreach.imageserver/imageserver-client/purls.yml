@@ -2,3 +2,5 @@
 - pkg:maven/com.foreach.imageserver/imageserver-client@4.0.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.imageserver/imageserver-client@5.0.0.RELEASE
 - pkg:maven/com.foreach.imageserver/imageserver-client@5.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.imageserver/imageserver-client@6.0.0.RELEASE
+- pkg:maven/com.foreach.imageserver/imageserver-client@6.0.0.RELEASE?classifier=sources

@@ -48,6 +48,8 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-services@19.3?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-services@19.4
 - pkg:maven/org.sakaiproject.samigo/samigo-services@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-services@19.5
+- pkg:maven/org.sakaiproject.samigo/samigo-services@19.5?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-services@2.9.0
 - pkg:maven/org.sakaiproject.samigo/samigo-services@2.9.0-b03
 - pkg:maven/org.sakaiproject.samigo/samigo-services@2.9.0-b03?classifier=sources
@@ -76,3 +78,5 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-services@2.9.4?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-services@20.0
 - pkg:maven/org.sakaiproject.samigo/samigo-services@20.0?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-services@20.1
+- pkg:maven/org.sakaiproject.samigo/samigo-services@20.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0-beta
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0-beta?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-authority-api@1.0.0?classifier=sources

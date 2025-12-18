@@ -28,3 +28,9 @@
 - pkg:maven/org.apache.skywalking/apm-dubbo-plugin@6.6.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-dubbo-plugin@7.0.0
 - pkg:maven/org.apache.skywalking/apm-dubbo-plugin@7.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@8.0.0
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@8.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@8.0.1
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@8.0.1?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@8.1.0
+- pkg:maven/org.apache.skywalking/apm-dubbo-plugin@8.1.0?classifier=sources

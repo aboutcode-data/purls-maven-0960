@@ -1,2 +1,10 @@
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.2.0
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.2.0?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.0
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.0-rc
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.0-rc.1
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.0-rc.1?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.0-rc?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.0?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.1
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.3.1?classifier=sources

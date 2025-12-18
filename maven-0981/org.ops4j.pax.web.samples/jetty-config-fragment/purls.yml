@@ -269,6 +269,10 @@
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.15?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.16
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.16?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.17
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.17?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.18
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.18?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.2
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.2.2?classifier=sources
@@ -302,3 +306,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.3.6?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.3.7
 - pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.3.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.3.8
+- pkg:maven/org.ops4j.pax.web.samples/jetty-config-fragment@7.3.8?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.flexiblepower.defpi/raml-service@19.10.1
 - pkg:maven/org.flexiblepower.defpi/raml-service@19.10.1?classifier=sources
 - pkg:maven/org.flexiblepower.defpi/raml-service@20.04
+- pkg:maven/org.flexiblepower.defpi/raml-service@20.04.1
+- pkg:maven/org.flexiblepower.defpi/raml-service@20.04.1?classifier=sources
 - pkg:maven/org.flexiblepower.defpi/raml-service@20.04?classifier=sources

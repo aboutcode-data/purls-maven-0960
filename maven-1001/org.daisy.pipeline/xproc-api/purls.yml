@@ -8,3 +8,5 @@
 - pkg:maven/org.daisy.pipeline/xproc-api@2.0.2?classifier=sources
 - pkg:maven/org.daisy.pipeline/xproc-api@3.0.0
 - pkg:maven/org.daisy.pipeline/xproc-api@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline/xproc-api@3.0.1
+- pkg:maven/org.daisy.pipeline/xproc-api@3.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.30.0
+- pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.30.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.32.0
+- pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.32.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.newrelic.agent.java/gradle-verify-instrumentation-plugin@3.1?classifier=sources
+- pkg:maven/com.newrelic.agent.java/gradle-verify-instrumentation-plugin@3.2?classifier=sources

@@ -4,7 +4,11 @@
 - pkg:maven/com.github.almasb/fxgl-ai@0.3.1?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-ai@0.3.2
 - pkg:maven/com.github.almasb/fxgl-ai@0.3.2?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-ai@11.10
+- pkg:maven/com.github.almasb/fxgl-ai@11.10?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-ai@11.7
 - pkg:maven/com.github.almasb/fxgl-ai@11.7?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-ai@11.8
 - pkg:maven/com.github.almasb/fxgl-ai@11.8?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-ai@11.9
+- pkg:maven/com.github.almasb/fxgl-ai@11.9?classifier=sources

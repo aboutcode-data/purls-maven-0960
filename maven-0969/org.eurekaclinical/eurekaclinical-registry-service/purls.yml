@@ -36,3 +36,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.4-Alpha-3?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.4?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.4?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.5-Alpha-2?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-registry-service@1.5-Alpha-2?type=war

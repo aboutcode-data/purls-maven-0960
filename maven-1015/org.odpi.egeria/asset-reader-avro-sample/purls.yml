@@ -1,0 +1,6 @@
+- pkg:maven/org.odpi.egeria/asset-reader-avro-sample@1.8
+- pkg:maven/org.odpi.egeria/asset-reader-avro-sample@1.8?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-reader-avro-sample@2.0
+- pkg:maven/org.odpi.egeria/asset-reader-avro-sample@2.0?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-reader-avro-sample@2.1
+- pkg:maven/org.odpi.egeria/asset-reader-avro-sample@2.1?classifier=sources

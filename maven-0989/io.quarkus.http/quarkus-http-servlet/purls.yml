@@ -22,6 +22,16 @@
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.0.Final?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.1.Final
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.1.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.10.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.10.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.11.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.11.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.12.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.12.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.13.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.13.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.14.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.14.Final?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.2.Final
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.2.Final?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.3.Final
@@ -36,3 +46,5 @@
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.7.Final?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.8.Final
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.8.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.9.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@3.0.9.Final?classifier=sources

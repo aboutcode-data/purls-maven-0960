@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.service@2.3.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.service@2.4.0
 - pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.service@2.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.service@2.5.0
+- pkg:maven/org.apache.karaf.decanter.alerting/org.apache.karaf.decanter.alerting.service@2.5.0?classifier=sources

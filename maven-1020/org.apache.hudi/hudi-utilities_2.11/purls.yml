@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.5.1-incubating?classifier=sources
 - pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.5.2-incubating
 - pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.5.2-incubating?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.5.3
+- pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.5.3?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.6.0
+- pkg:maven/org.apache.hudi/hudi-utilities_2.11@0.6.0?classifier=sources

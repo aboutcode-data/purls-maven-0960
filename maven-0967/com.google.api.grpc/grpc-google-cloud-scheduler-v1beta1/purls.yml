@@ -98,3 +98,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.82.3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.82.4
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.82.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.83.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.83.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.83.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-scheduler-v1beta1@0.83.1?classifier=sources

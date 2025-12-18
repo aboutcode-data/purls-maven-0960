@@ -166,6 +166,14 @@
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.23.8?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.23.9
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.23.9?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.2
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.2?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.3
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.3?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.4
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.4?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.5
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.5?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.3
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.3?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.4

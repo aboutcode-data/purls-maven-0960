@@ -4,3 +4,5 @@
 - pkg:maven/org.itsallcode/openfasttrace-maven-plugin@0.0.3?classifier=sources
 - pkg:maven/org.itsallcode/openfasttrace-maven-plugin@0.1.0
 - pkg:maven/org.itsallcode/openfasttrace-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/org.itsallcode/openfasttrace-maven-plugin@1.0.0
+- pkg:maven/org.itsallcode/openfasttrace-maven-plugin@1.0.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/coreui__coreui@3.0.0-rc.3
 - pkg:maven/org.webjars.npm/coreui__coreui@3.0.0-rc.3?classifier=sources
 - pkg:maven/org.webjars.npm/coreui__coreui@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/coreui__coreui@3.2.2
+- pkg:maven/org.webjars.npm/coreui__coreui@3.2.2?classifier=sources

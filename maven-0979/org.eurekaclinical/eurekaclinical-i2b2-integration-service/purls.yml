@@ -38,3 +38,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-i2b2-integration-service@2.0?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-i2b2-integration-service@2.1-Alpha-1?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-i2b2-integration-service@2.1-Alpha-1?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-i2b2-integration-service@2.1-Alpha-2?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-i2b2-integration-service@2.1-Alpha-2?type=war

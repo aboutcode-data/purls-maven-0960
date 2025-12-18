@@ -229,6 +229,10 @@
 - pkg:maven/org.immutables/testing@2.8.0-dt-experimental-4?classifier=sources
 - pkg:maven/org.immutables/testing@2.8.0-dt-experimental-5
 - pkg:maven/org.immutables/testing@2.8.0-dt-experimental-5?classifier=sources
+- pkg:maven/org.immutables/testing@2.8.0-dt-experimental-6
+- pkg:maven/org.immutables/testing@2.8.0-dt-experimental-6?classifier=sources
+- pkg:maven/org.immutables/testing@2.8.0-dt-experimental-7
+- pkg:maven/org.immutables/testing@2.8.0-dt-experimental-7?classifier=sources
 - pkg:maven/org.immutables/testing@2.8.0?classifier=sources
 - pkg:maven/org.immutables/testing@2.8.1
 - pkg:maven/org.immutables/testing@2.8.1?classifier=sources

@@ -4,3 +4,11 @@
 - pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.4.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.4.1
 - pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.4.1?classifier=sources
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.5.0
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.5.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.6.0
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.6.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.7.0
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.7.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.8.0
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@20.8.0?classifier=sources

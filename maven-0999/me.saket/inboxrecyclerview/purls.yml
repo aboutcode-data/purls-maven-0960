@@ -16,3 +16,5 @@
 - pkg:maven/me.saket/inboxrecyclerview@2.0.0-beta2?type=aar
 - pkg:maven/me.saket/inboxrecyclerview@2.0.0-beta3?classifier=sources
 - pkg:maven/me.saket/inboxrecyclerview@2.0.0-beta3?type=aar
+- pkg:maven/me.saket/inboxrecyclerview@2.0.0?classifier=sources
+- pkg:maven/me.saket/inboxrecyclerview@2.0.0?type=aar

@@ -18,6 +18,8 @@
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.10.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.10.1
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.10.1?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.10.2
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.10.2?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.2.0-Beryllium
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.2.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.2.1-Beryllium-SR1
@@ -88,3 +90,7 @@
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.1?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.2
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.2?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.3
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.3?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.4
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.9.4?classifier=sources

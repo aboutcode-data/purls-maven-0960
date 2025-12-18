@@ -7,6 +7,12 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.10.2
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.10.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.10.2?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.10.3
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.10.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.10.3?classifier=sources
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.11.0
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.11.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.11.0?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.2.3
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.3.0
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.bam.service.data.publisher.stub@4.3.1

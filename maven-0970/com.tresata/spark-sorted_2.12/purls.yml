@@ -2,3 +2,5 @@
 - pkg:maven/com.tresata/spark-sorted_2.12@1.6.0?classifier=sources
 - pkg:maven/com.tresata/spark-sorted_2.12@1.7.0
 - pkg:maven/com.tresata/spark-sorted_2.12@1.7.0?classifier=sources
+- pkg:maven/com.tresata/spark-sorted_2.12@2.0.0
+- pkg:maven/com.tresata/spark-sorted_2.12@2.0.0?classifier=sources

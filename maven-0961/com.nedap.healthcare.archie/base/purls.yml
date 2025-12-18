@@ -14,6 +14,10 @@
 - pkg:maven/com.nedap.healthcare.archie/base@0.12.2?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/base@0.12.3
 - pkg:maven/com.nedap.healthcare.archie/base@0.12.3?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/base@0.13.0
+- pkg:maven/com.nedap.healthcare.archie/base@0.13.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/base@0.14.0
+- pkg:maven/com.nedap.healthcare.archie/base@0.14.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/base@0.4.0
 - pkg:maven/com.nedap.healthcare.archie/base@0.4.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/base@0.4.1

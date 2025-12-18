@@ -1,4 +1,8 @@
 - pkg:maven/nl.elec332.lib/eleclib@0.4-Alpha
 - pkg:maven/nl.elec332.lib/eleclib@0.4-Alpha?classifier=sources
+- pkg:maven/nl.elec332.lib/eleclib@0.4.1-Alpha
+- pkg:maven/nl.elec332.lib/eleclib@0.4.1-Alpha?classifier=sources
+- pkg:maven/nl.elec332.lib/eleclib@0.4.1.1-Alpha
+- pkg:maven/nl.elec332.lib/eleclib@0.4.1.1-Alpha?classifier=sources
 - pkg:maven/nl.elec332.lib/eleclib@1.0-Alpha-j8
 - pkg:maven/nl.elec332.lib/eleclib@1.0-Alpha-j8?classifier=sources

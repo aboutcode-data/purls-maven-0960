@@ -8,3 +8,11 @@
 - pkg:maven/com.51degrees/pipeline.web.shared@4.1.0-beta.26?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.shared@4.1.0-export-gpg.1
 - pkg:maven/com.51degrees/pipeline.web.shared@4.1.0-export-gpg.1?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.4
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.4?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.5
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.5?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.6
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.6?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.8
+- pkg:maven/com.51degrees/pipeline.web.shared@4.1.8?classifier=sources

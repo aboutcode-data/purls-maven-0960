@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.12?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.feature.cpconverter@1.0.6?classifier=sources

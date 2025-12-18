@@ -12,3 +12,5 @@
 - pkg:maven/com.permutive/fs2-google-pubsub_2.13@0.15.0-M5
 - pkg:maven/com.permutive/fs2-google-pubsub_2.13@0.15.0-M5?classifier=sources
 - pkg:maven/com.permutive/fs2-google-pubsub_2.13@0.15.0?classifier=sources
+- pkg:maven/com.permutive/fs2-google-pubsub_2.13@0.16.0
+- pkg:maven/com.permutive/fs2-google-pubsub_2.13@0.16.0?classifier=sources

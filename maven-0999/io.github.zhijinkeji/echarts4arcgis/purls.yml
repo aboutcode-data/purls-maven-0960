@@ -1,5 +1,11 @@
 - pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.1-RELEASE
 - pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.10.RELEASE
+- pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.10.RELEASE?classifier=sources
+- pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.11.RELEASE
+- pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.11.RELEASE?classifier=sources
+- pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.18.RELEASE
+- pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.18.RELEASE?classifier=sources
 - pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.2-RELEASE
 - pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.2-RELEASE?classifier=sources
 - pkg:maven/io.github.zhijinkeji/echarts4arcgis@8.0.3.RELEASE

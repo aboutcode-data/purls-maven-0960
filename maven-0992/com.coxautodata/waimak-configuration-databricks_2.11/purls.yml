@@ -17,4 +17,6 @@
 - pkg:maven/com.coxautodata/waimak-configuration-databricks_2.11@2.7
 - pkg:maven/com.coxautodata/waimak-configuration-databricks_2.11@2.7?classifier=sources
 - pkg:maven/com.coxautodata/waimak-configuration-databricks_2.11@2.8
+- pkg:maven/com.coxautodata/waimak-configuration-databricks_2.11@2.8.1
+- pkg:maven/com.coxautodata/waimak-configuration-databricks_2.11@2.8.1?classifier=sources
 - pkg:maven/com.coxautodata/waimak-configuration-databricks_2.11@2.8?classifier=sources

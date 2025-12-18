@@ -52,6 +52,7 @@
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.9.0-RC1
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.9.0-RC1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@0.9.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0-pre10
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0-pre10?classifier=sources
@@ -134,6 +135,7 @@
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0-pre9?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0-prelmfix
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0-prelmfix?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching-core@1.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@feature_1850_01
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@feature_1850_01?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-core@feature_1850_02

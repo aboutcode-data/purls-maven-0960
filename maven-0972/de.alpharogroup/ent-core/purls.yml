@@ -2,6 +2,8 @@
 - pkg:maven/de.alpharogroup/ent-core@1.1
 - pkg:maven/de.alpharogroup/ent-core@1.10
 - pkg:maven/de.alpharogroup/ent-core@1.10?classifier=sources
+- pkg:maven/de.alpharogroup/ent-core@1.11?classifier=sources
+- pkg:maven/de.alpharogroup/ent-core@1.12?classifier=sources
 - pkg:maven/de.alpharogroup/ent-core@1.1?classifier=sources
 - pkg:maven/de.alpharogroup/ent-core@1.2
 - pkg:maven/de.alpharogroup/ent-core@1.2.1

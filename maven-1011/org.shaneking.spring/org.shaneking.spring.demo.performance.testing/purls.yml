@@ -1,2 +1,6 @@
 - pkg:maven/org.shaneking.spring/org.shaneking.spring.demo.performance.testing@0.2.5
 - pkg:maven/org.shaneking.spring/org.shaneking.spring.demo.performance.testing@0.2.5?classifier=sources
+- pkg:maven/org.shaneking.spring/org.shaneking.spring.demo.performance.testing@0.3.0
+- pkg:maven/org.shaneking.spring/org.shaneking.spring.demo.performance.testing@0.3.0?classifier=sources
+- pkg:maven/org.shaneking.spring/org.shaneking.spring.demo.performance.testing@0.3.1
+- pkg:maven/org.shaneking.spring/org.shaneking.spring.demo.performance.testing@0.3.1?classifier=sources

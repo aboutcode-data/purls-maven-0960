@@ -1,0 +1,4 @@
+- pkg:maven/io.javalin/javalin-bundle@3.9.0
+- pkg:maven/io.javalin/javalin-bundle@3.9.0?classifier=sources
+- pkg:maven/io.javalin/javalin-bundle@3.9.1
+- pkg:maven/io.javalin/javalin-bundle@3.9.1?classifier=sources

@@ -1,6 +1,16 @@
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.0
 - pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.0-M3
 - pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.0-M3?classifier=sources
 - pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.0-M4
 - pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.0-M4?classifier=sources
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.0?classifier=sources
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.1
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.1?classifier=sources
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.2
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.2-M1
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.2-M1?classifier=sources
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.2-M2
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.2-M2?classifier=sources
+- pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.2.2?classifier=sources
 - pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.3.0-SNAP2
 - pkg:maven/org.scalatest/scalatest-flatspec_sjs1_2.13@3.3.0-SNAP2?classifier=sources

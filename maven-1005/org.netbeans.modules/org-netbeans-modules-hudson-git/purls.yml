@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-git@RELEASE90?classifier=sources

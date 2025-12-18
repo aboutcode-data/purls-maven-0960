@@ -52,6 +52,14 @@
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.2?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.3
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.3?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.4
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.4?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.7
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.7?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.8
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.14.8?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.15.0
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.15.0?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.5.0
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.5.0?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.11@1.5.1

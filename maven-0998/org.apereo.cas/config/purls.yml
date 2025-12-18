@@ -8,3 +8,5 @@
 - pkg:maven/org.apereo.cas/config@6.1.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/config@6.1.0-RC4
 - pkg:maven/org.apereo.cas/config@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/config@6.1.7
+- pkg:maven/org.apereo.cas/config@6.1.7?classifier=sources

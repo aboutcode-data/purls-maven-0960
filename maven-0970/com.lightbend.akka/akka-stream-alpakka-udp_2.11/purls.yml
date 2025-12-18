@@ -32,3 +32,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-udp_2.11@2.0.0-RC2
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-udp_2.11@2.0.0-RC2?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-udp_2.11@2.0.0?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-udp_2.11@2.0.1
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-udp_2.11@2.0.1?classifier=sources

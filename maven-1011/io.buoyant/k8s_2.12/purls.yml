@@ -72,3 +72,5 @@
 - pkg:maven/io.buoyant/k8s_2.12@1.7.2?classifier=sources
 - pkg:maven/io.buoyant/k8s_2.12@1.7.3
 - pkg:maven/io.buoyant/k8s_2.12@1.7.3?classifier=sources
+- pkg:maven/io.buoyant/k8s_2.12@1.7.4
+- pkg:maven/io.buoyant/k8s_2.12@1.7.4?classifier=sources

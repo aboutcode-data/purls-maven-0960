@@ -10,3 +10,4 @@
 - pkg:maven/io.micronaut.configuration/micronaut-flyway@1.1.0?classifier=sources
 - pkg:maven/io.micronaut.configuration/micronaut-flyway@1.2.0
 - pkg:maven/io.micronaut.configuration/micronaut-flyway@1.2.0?classifier=sources
+- pkg:maven/io.micronaut.configuration/micronaut-flyway@2.0.0.RC1?classifier=sources

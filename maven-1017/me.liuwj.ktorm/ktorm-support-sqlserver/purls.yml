@@ -12,3 +12,5 @@
 - pkg:maven/me.liuwj.ktorm/ktorm-support-sqlserver@2.7.2
 - pkg:maven/me.liuwj.ktorm/ktorm-support-sqlserver@2.7.2?classifier=sources
 - pkg:maven/me.liuwj.ktorm/ktorm-support-sqlserver@2.7?classifier=sources
+- pkg:maven/me.liuwj.ktorm/ktorm-support-sqlserver@3.0.0
+- pkg:maven/me.liuwj.ktorm/ktorm-support-sqlserver@3.0.0?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/org.xbib/content-xml@2.0.5
 - pkg:maven/org.xbib/content-xml@2.0.5?classifier=sources
 - pkg:maven/org.xbib/content-xml@2.2.0?classifier=sources
+- pkg:maven/org.xbib/content-xml@2.3.1?classifier=sources
+- pkg:maven/org.xbib/content-xml@2.4.0?classifier=sources

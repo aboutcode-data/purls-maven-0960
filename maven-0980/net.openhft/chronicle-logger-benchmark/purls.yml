@@ -10,3 +10,7 @@
 - pkg:maven/net.openhft/chronicle-logger-benchmark@4.16.0?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-benchmark@4.17.2
 - pkg:maven/net.openhft/chronicle-logger-benchmark@4.17.2?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-benchmark@4.19.30
+- pkg:maven/net.openhft/chronicle-logger-benchmark@4.19.30?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-benchmark@4.20.1
+- pkg:maven/net.openhft/chronicle-logger-benchmark@4.20.1?classifier=sources

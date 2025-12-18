@@ -1,4 +1,13 @@
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha10?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha11?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha12?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha13?classifier=source-release&type=zip
 - pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha4?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha5?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha6?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha7?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha8?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.extensions/quarkus-extension-catalog-parent@1.0.0.Alpha9?classifier=source-release&type=zip

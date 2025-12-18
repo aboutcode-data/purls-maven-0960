@@ -11,3 +11,4 @@
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@5.1.0-RC1?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@5.1.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@5.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@6.0.0-M1?classifier=sources

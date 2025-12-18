@@ -24,7 +24,11 @@
 - pkg:maven/org.mycore/mycore-iiif@2019.06.2?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2019.06.3
 - pkg:maven/org.mycore/mycore-iiif@2019.06.3?classifier=sources
+- pkg:maven/org.mycore/mycore-iiif@2019.06.4
+- pkg:maven/org.mycore/mycore-iiif@2019.06.4?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2019.11
 - pkg:maven/org.mycore/mycore-iiif@2019.11?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2020.02
 - pkg:maven/org.mycore/mycore-iiif@2020.02?classifier=sources
+- pkg:maven/org.mycore/mycore-iiif@2020.05
+- pkg:maven/org.mycore/mycore-iiif@2020.05?classifier=sources

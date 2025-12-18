@@ -234,6 +234,10 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.15?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.16?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.16?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.17?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.17?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.18?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.18?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.2.2?classifier=sources
@@ -268,3 +272,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.3.6?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.3.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.3.7?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.3.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-formauth@7.3.8?type=war

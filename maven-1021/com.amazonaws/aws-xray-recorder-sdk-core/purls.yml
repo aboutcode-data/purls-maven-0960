@@ -44,3 +44,7 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.4.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.5.0
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.5.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.6.0
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.6.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.6.1
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core@2.6.1?classifier=sources

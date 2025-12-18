@@ -1,5 +1,7 @@
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.10
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.10?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.11
+- pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.11?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.3
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.3?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-backend-moe@1.9.4

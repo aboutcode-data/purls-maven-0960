@@ -30,6 +30,8 @@
 - pkg:maven/io.vertx/vertx-lang-js-gen@3.9.0?classifier=sources
 - pkg:maven/io.vertx/vertx-lang-js-gen@3.9.1
 - pkg:maven/io.vertx/vertx-lang-js-gen@3.9.1?classifier=sources
+- pkg:maven/io.vertx/vertx-lang-js-gen@3.9.2
+- pkg:maven/io.vertx/vertx-lang-js-gen@3.9.2?classifier=sources
 - pkg:maven/io.vertx/vertx-lang-js-gen@4.0.0-milestone1
 - pkg:maven/io.vertx/vertx-lang-js-gen@4.0.0-milestone1?classifier=sources
 - pkg:maven/io.vertx/vertx-lang-js-gen@4.0.0-milestone2

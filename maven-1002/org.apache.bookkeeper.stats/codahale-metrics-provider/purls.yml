@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.10.0
 - pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.10.0?classifier=sources
+- pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.11.0
+- pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.11.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.3.0
 - pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.3.1
 - pkg:maven/org.apache.bookkeeper.stats/codahale-metrics-provider@4.3.2

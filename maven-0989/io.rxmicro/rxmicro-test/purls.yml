@@ -10,3 +10,5 @@
 - pkg:maven/io.rxmicro/rxmicro-test@0.4.2
 - pkg:maven/io.rxmicro/rxmicro-test@0.4.2?classifier=sources
 - pkg:maven/io.rxmicro/rxmicro-test@0.4?classifier=sources
+- pkg:maven/io.rxmicro/rxmicro-test@0.5
+- pkg:maven/io.rxmicro/rxmicro-test@0.5?classifier=sources

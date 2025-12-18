@@ -10,3 +10,5 @@
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-jetty@1.0?classifier=sources
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-jetty@1.1
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-jetty@1.1?classifier=sources
+- pkg:maven/io.bootique.kotlin/bootique-kotlin-jetty@1.2
+- pkg:maven/io.bootique.kotlin/bootique-kotlin-jetty@1.2?classifier=sources

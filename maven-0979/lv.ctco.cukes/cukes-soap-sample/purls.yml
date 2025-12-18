@@ -46,6 +46,8 @@
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.33?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.34
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.34?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.35
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.35?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.5
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.5?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.6
@@ -56,3 +58,15 @@
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.8?classifier=sources
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.9
 - pkg:maven/lv.ctco.cukes/cukes-soap-sample@0.0.9?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.1
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.1?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.2
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.2?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.3
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.3?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.4
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.4?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.5
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.5?classifier=sources
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.8
+- pkg:maven/lv.ctco.cukes/cukes-soap-sample@1.0.8?classifier=sources
