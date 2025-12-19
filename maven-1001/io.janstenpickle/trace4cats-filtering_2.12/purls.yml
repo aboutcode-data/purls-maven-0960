@@ -230,6 +230,16 @@
 - pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.12.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.0?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B12-491cff7e
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B12-491cff7e?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B16-78f06e87
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B16-78f06e87?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B20-973c3271
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B20-973c3271?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B21-b3ad01df
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1%2B21-b3ad01df?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.13.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.6.0%2B66-03a73d22
 - pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.6.0%2B66-03a73d22?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-filtering_2.12@0.6.0%2B74-3c4c4402

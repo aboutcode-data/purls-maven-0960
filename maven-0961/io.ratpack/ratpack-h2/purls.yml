@@ -138,3 +138,4 @@
 - pkg:maven/io.ratpack/ratpack-h2@1.9.0-rc-1?classifier=sources
 - pkg:maven/io.ratpack/ratpack-h2@1.9.0-rc-2?classifier=sources
 - pkg:maven/io.ratpack/ratpack-h2@1.9.0?classifier=sources
+- pkg:maven/io.ratpack/ratpack-h2@2.0.0-rc-1?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.2.0
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.2.1
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.3.0
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.3.0?classifier=sources

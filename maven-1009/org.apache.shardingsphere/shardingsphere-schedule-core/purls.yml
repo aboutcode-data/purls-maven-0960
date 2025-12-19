@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.shardingsphere/shardingsphere-schedule-core@5.1.0
 - pkg:maven/org.apache.shardingsphere/shardingsphere-schedule-core@5.1.0?classifier=sources
+- pkg:maven/org.apache.shardingsphere/shardingsphere-schedule-core@5.1.1
+- pkg:maven/org.apache.shardingsphere/shardingsphere-schedule-core@5.1.1?classifier=sources

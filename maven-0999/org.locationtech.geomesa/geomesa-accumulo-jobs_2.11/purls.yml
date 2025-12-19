@@ -62,3 +62,5 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-accumulo-jobs_2.11@3.2.2?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-accumulo-jobs_2.11@3.3.0
 - pkg:maven/org.locationtech.geomesa/geomesa-accumulo-jobs_2.11@3.3.0?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-accumulo-jobs_2.11@3.4.0
+- pkg:maven/org.locationtech.geomesa/geomesa-accumulo-jobs_2.11@3.4.0?classifier=sources

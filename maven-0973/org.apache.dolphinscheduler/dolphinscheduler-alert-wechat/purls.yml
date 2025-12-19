@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-wechat@2.0.4?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-wechat@2.0.5
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-wechat@2.0.5?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-wechat@3.0.0-alpha
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-wechat@3.0.0-alpha?classifier=sources

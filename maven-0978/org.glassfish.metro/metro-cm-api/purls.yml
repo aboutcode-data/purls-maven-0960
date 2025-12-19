@@ -174,3 +174,11 @@
 - pkg:maven/org.glassfish.metro/metro-cm-api@3.0.2?classifier=sources
 - pkg:maven/org.glassfish.metro/metro-cm-api@3.0.3
 - pkg:maven/org.glassfish.metro/metro-cm-api@3.0.3?classifier=sources
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M1
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M2
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M2?classifier=sources
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M3
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M3?classifier=sources
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M4
+- pkg:maven/org.glassfish.metro/metro-cm-api@4.0.0-M4?classifier=sources

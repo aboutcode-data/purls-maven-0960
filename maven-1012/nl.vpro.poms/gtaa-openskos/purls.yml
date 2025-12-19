@@ -98,6 +98,8 @@
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.27.2?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.27.4
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.27.4?classifier=sources
+- pkg:maven/nl.vpro.poms/gtaa-openskos@5.27.5
+- pkg:maven/nl.vpro.poms/gtaa-openskos@5.27.5?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.29.0
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.29.0?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.30
@@ -114,3 +116,5 @@
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.30?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.31.0
 - pkg:maven/nl.vpro.poms/gtaa-openskos@5.31.0?classifier=sources
+- pkg:maven/nl.vpro.poms/gtaa-openskos@5.32.0
+- pkg:maven/nl.vpro.poms/gtaa-openskos@5.32.0?classifier=sources

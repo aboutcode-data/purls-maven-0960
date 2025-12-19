@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.10.0
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.10.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.4.0
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.4.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.4.1

@@ -5,6 +5,12 @@
 - pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.13.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.13.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.14.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.14.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.14.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.14.3-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.14.4-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.15.0?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.15.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.5.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticloadbalancingv2@0.6.0-alpha?classifier=sources

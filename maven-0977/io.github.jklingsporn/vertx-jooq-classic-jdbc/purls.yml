@@ -46,3 +46,5 @@
 - pkg:maven/io.github.jklingsporn/vertx-jooq-classic-jdbc@6.4.0?classifier=sources
 - pkg:maven/io.github.jklingsporn/vertx-jooq-classic-jdbc@6.5.0
 - pkg:maven/io.github.jklingsporn/vertx-jooq-classic-jdbc@6.5.0?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic-jdbc@6.5.1
+- pkg:maven/io.github.jklingsporn/vertx-jooq-classic-jdbc@6.5.1?classifier=sources

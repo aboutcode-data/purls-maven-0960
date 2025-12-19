@@ -106,7 +106,13 @@
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-20220323?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-20220325
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-20220325?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-20220501
+- pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-20220501?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-8.5.2-20220315
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.2-8.5.2-20220315?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.3-beta1
 - pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.3-beta1?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.3-beta2
+- pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.3-beta2?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.3-beta3
+- pkg:maven/org.anyline/anyline-jdbc-mysql@8.5.3-beta3?classifier=sources

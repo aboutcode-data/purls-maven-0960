@@ -84,3 +84,5 @@
 - pkg:maven/io.monix/monix-tail_2.12@3.3.0?classifier=sources
 - pkg:maven/io.monix/monix-tail_2.12@3.4.0
 - pkg:maven/io.monix/monix-tail_2.12@3.4.0?classifier=sources
+- pkg:maven/io.monix/monix-tail_2.12@3.4.1
+- pkg:maven/io.monix/monix-tail_2.12@3.4.1?classifier=sources

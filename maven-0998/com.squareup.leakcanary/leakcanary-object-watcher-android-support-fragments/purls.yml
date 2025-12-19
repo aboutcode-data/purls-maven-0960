@@ -16,3 +16,5 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-object-watcher-android-support-fragments@2.7?type=aar
 - pkg:maven/com.squareup.leakcanary/leakcanary-object-watcher-android-support-fragments@2.8.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-object-watcher-android-support-fragments@2.8?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-object-watcher-android-support-fragments@2.9.1?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-object-watcher-android-support-fragments@2.9?classifier=sources

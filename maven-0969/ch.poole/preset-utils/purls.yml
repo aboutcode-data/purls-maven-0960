@@ -14,3 +14,5 @@
 - pkg:maven/ch.poole/preset-utils@0.27.1?classifier=sources
 - pkg:maven/ch.poole/preset-utils@0.27.2
 - pkg:maven/ch.poole/preset-utils@0.27.2?classifier=sources
+- pkg:maven/ch.poole/preset-utils@0.28.0
+- pkg:maven/ch.poole/preset-utils@0.28.0?classifier=sources

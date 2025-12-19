@@ -1,2 +1,4 @@
 - pkg:maven/tf.tofu/tofu-doobie-ce3_2.13@0.10.7
 - pkg:maven/tf.tofu/tofu-doobie-ce3_2.13@0.10.7?classifier=sources
+- pkg:maven/tf.tofu/tofu-doobie-ce3_2.13@0.10.8
+- pkg:maven/tf.tofu/tofu-doobie-ce3_2.13@0.10.8?classifier=sources

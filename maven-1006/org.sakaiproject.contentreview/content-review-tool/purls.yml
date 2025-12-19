@@ -40,3 +40,7 @@
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.1?type=war
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.2?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.2?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@21.3?type=war
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@22.0?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview/content-review-tool@22.0?type=war

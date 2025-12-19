@@ -46,3 +46,5 @@
 - pkg:maven/org.catools/atlassian.etl.jira@0.1.48?classifier=sources
 - pkg:maven/org.catools/atlassian.etl.jira@0.1.49
 - pkg:maven/org.catools/atlassian.etl.jira@0.1.49?classifier=sources
+- pkg:maven/org.catools/atlassian.etl.jira@1.0.0
+- pkg:maven/org.catools/atlassian.etl.jira@1.0.0?classifier=sources

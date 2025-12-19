@@ -48,3 +48,7 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@7.17.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@7.4.2
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@7.4.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@8.0.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@8.0.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@8.1.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-handlers_2.12@8.1.0?classifier=sources

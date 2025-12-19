@@ -56,6 +56,8 @@
 - pkg:maven/com.azure/azure-storage-blob@12.15.0-beta.3
 - pkg:maven/com.azure/azure-storage-blob@12.15.0-beta.3?classifier=sources
 - pkg:maven/com.azure/azure-storage-blob@12.15.0?classifier=sources
+- pkg:maven/com.azure/azure-storage-blob@12.16.0
+- pkg:maven/com.azure/azure-storage-blob@12.16.0?classifier=sources
 - pkg:maven/com.azure/azure-storage-blob@12.2.0
 - pkg:maven/com.azure/azure-storage-blob@12.2.0-beta.1
 - pkg:maven/com.azure/azure-storage-blob@12.2.0-beta.1?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.14.1?classifier=sources
 - pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.14.2
 - pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.14.2?classifier=sources
+- pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.14.3
+- pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.14.3?classifier=sources
 - pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.4.1
 - pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.4.1?classifier=sources
 - pkg:maven/org.occurrent/example-uno-es-mongodb-common@0.5.0

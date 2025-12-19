@@ -1,5 +1,9 @@
 - pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.10?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.11?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.12?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.13-RC2?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.13-RC?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.13?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.14?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.8?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-core-jvm@0.0.9?classifier=sources

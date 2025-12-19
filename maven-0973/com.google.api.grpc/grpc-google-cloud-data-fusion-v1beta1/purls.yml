@@ -18,3 +18,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.4.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.5.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.5.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.5.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.5.2
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-data-fusion-v1beta1@0.5.2?classifier=sources

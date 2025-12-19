@@ -116,3 +116,5 @@
 - pkg:maven/org.smallmind/sleuth-runner@4.4.9?classifier=sources
 - pkg:maven/org.smallmind/sleuth-runner@4.5.0
 - pkg:maven/org.smallmind/sleuth-runner@4.5.0?classifier=sources
+- pkg:maven/org.smallmind/sleuth-runner@4.6.0
+- pkg:maven/org.smallmind/sleuth-runner@4.6.0?classifier=sources

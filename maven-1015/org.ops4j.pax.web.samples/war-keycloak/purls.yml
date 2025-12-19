@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web.samples/war-keycloak@8.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-keycloak@8.0.3?type=war

@@ -5,3 +5,5 @@
 - pkg:maven/org.drewcarlson/coingecko-watchosarm64@0.3.3?classifier=sources
 - pkg:maven/org.drewcarlson/coingecko-watchosarm64@0.4.0-beta01?classifier=sources
 - pkg:maven/org.drewcarlson/coingecko-watchosarm64@0.4.0-beta02?classifier=sources
+- pkg:maven/org.drewcarlson/coingecko-watchosarm64@0.4.0?classifier=sources
+- pkg:maven/org.drewcarlson/coingecko-watchosarm64@0.4.1?classifier=sources

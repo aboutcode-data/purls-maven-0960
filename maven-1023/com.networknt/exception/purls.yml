@@ -209,6 +209,8 @@
 - pkg:maven/com.networknt/exception@1.6.37?classifier=sources
 - pkg:maven/com.networknt/exception@1.6.38
 - pkg:maven/com.networknt/exception@1.6.38?classifier=sources
+- pkg:maven/com.networknt/exception@1.6.39
+- pkg:maven/com.networknt/exception@1.6.39?classifier=sources
 - pkg:maven/com.networknt/exception@1.6.3?classifier=sources
 - pkg:maven/com.networknt/exception@1.6.4
 - pkg:maven/com.networknt/exception@1.6.4?classifier=sources
@@ -292,3 +294,5 @@
 - pkg:maven/com.networknt/exception@2.0.9?classifier=sources
 - pkg:maven/com.networknt/exception@2.1.0
 - pkg:maven/com.networknt/exception@2.1.0?classifier=sources
+- pkg:maven/com.networknt/exception@2.1.1
+- pkg:maven/com.networknt/exception@2.1.1?classifier=sources

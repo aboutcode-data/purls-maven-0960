@@ -77,5 +77,7 @@
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.5.0?classifier=sources
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.5.1
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.5.1?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.6.0
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.6.0-alpha0
 - pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.6.0-alpha0?classifier=sources
+- pkg:maven/org.mongodb.scala/mongo-scala-bson_2.13@4.6.0?classifier=sources

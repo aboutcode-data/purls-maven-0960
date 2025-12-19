@@ -4,6 +4,10 @@
 - pkg:maven/io.mats3/mats-impl-jms@0.18.2-2021-10-15?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.18.3-2021-11-02?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.18.4-2021-11-17?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@0.18.5-2022-04-04?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@0.18.6-2022-04-05?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@0.18.7-2022-04-06?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.18.3-2021-10-28?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.18.5-2022-02-22?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC1-0.18.5-2022-02-25?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC2-0.18.5-2022-04-04?classifier=sources

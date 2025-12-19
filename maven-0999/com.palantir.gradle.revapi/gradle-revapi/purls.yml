@@ -60,3 +60,4 @@
 - pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.4.4?classifier=sources
 - pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.5.0?classifier=sources
 - pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.6.0?classifier=sources
+- pkg:maven/com.palantir.gradle.revapi/gradle-revapi@1.7.0?classifier=sources

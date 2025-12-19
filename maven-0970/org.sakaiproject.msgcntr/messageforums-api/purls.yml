@@ -70,6 +70,10 @@
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.1?classifier=sources
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.2
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.2?classifier=sources
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.3
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-api@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-api@22.0
+- pkg:maven/org.sakaiproject.msgcntr/messageforums-api@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@3.0.0
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@3.0.0-b03
 - pkg:maven/org.sakaiproject.msgcntr/messageforums-api@3.0.0-b03?classifier=sources

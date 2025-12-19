@@ -19,4 +19,7 @@
 - pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5-alpha.1?classifier=sources
 - pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5-alpha.2?classifier=sources
 - pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5.1?classifier=sources
+- pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5.2-alpha.1?classifier=sources
+- pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5.2-alpha.2?classifier=sources
+- pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5.2?classifier=sources
 - pkg:maven/com.just-ai.aimybox/google-cloud-speechkit@0.17.5?classifier=sources

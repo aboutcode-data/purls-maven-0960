@@ -32,3 +32,5 @@
 - pkg:maven/io.kamon/kamon-redis_2.12@2.4.8?classifier=sources
 - pkg:maven/io.kamon/kamon-redis_2.12@2.5.0
 - pkg:maven/io.kamon/kamon-redis_2.12@2.5.0?classifier=sources
+- pkg:maven/io.kamon/kamon-redis_2.12@2.5.1
+- pkg:maven/io.kamon/kamon-redis_2.12@2.5.1?classifier=sources

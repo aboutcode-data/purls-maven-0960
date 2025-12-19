@@ -20,6 +20,12 @@
 - pkg:maven/com.fakerandroid.tools.build/support@1.0.31a?type=aar
 - pkg:maven/com.fakerandroid.tools.build/support@1.0.32?classifier=sources
 - pkg:maven/com.fakerandroid.tools.build/support@1.0.32?type=aar
+- pkg:maven/com.fakerandroid.tools.build/support@1.0.33?classifier=sources
+- pkg:maven/com.fakerandroid.tools.build/support@1.0.33?type=aar
+- pkg:maven/com.fakerandroid.tools.build/support@1.0.35?classifier=sources
+- pkg:maven/com.fakerandroid.tools.build/support@1.0.35?type=aar
+- pkg:maven/com.fakerandroid.tools.build/support@1.0.36?classifier=sources
+- pkg:maven/com.fakerandroid.tools.build/support@1.0.36?type=aar
 - pkg:maven/com.fakerandroid.tools.build/support@1.0.3?classifier=sources
 - pkg:maven/com.fakerandroid.tools.build/support@1.0.3?type=aar
 - pkg:maven/com.fakerandroid.tools.build/support@1.0.4?classifier=sources

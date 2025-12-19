@@ -1,2 +1,4 @@
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-catalog-listener_2.11@3.3.0
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-catalog-listener_2.11@3.3.0?classifier=sources
+- pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-catalog-listener_2.11@3.4.0
+- pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-catalog-listener_2.11@3.4.0?classifier=sources

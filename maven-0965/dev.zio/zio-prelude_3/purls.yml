@@ -2,6 +2,12 @@
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC10?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC11-2
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC11-2?classifier=sources
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC12
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC12?classifier=sources
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC13
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC13?classifier=sources
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC14
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC14?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC5
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC5?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC6
@@ -9,6 +15,8 @@
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC7
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC7?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC8
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC8-1
+- pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC8-1?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC8?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC9
 - pkg:maven/dev.zio/zio-prelude_3@1.0.0-RC9?classifier=sources

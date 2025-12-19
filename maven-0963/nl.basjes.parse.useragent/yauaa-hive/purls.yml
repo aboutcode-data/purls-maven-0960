@@ -100,3 +100,7 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-hive@6.8?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-hive@6.9
 - pkg:maven/nl.basjes.parse.useragent/yauaa-hive@6.9?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-hive@7.0.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-hive@7.0.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-hive@7.1.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-hive@7.1.0?classifier=sources

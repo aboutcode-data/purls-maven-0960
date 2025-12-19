@@ -64,6 +64,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.json.validator@4.0.8
 - pkg:maven/com.liferay/com.liferay.petra.json.validator@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.json.validator@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.json.validator@4.0.9
+- pkg:maven/com.liferay/com.liferay.petra.json.validator@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.json.validator@4.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.json.validator@5.0.0
 - pkg:maven/com.liferay/com.liferay.petra.json.validator@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.json.validator@5.0.0?classifier=sources-commercial

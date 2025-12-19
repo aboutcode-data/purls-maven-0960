@@ -24,6 +24,10 @@
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.18.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.19.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.19.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.20.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.20.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.21.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.21.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.8.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.8.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-springboot-process-management@1.9.0.Final

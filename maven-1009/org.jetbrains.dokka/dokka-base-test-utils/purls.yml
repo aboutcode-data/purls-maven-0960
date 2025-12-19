@@ -5,3 +5,5 @@
 - pkg:maven/org.jetbrains.dokka/dokka-base-test-utils@1.5.31?classifier=sources
 - pkg:maven/org.jetbrains.dokka/dokka-base-test-utils@1.6.0?classifier=sources
 - pkg:maven/org.jetbrains.dokka/dokka-base-test-utils@1.6.10?classifier=sources
+- pkg:maven/org.jetbrains.dokka/dokka-base-test-utils@1.6.20?classifier=sources
+- pkg:maven/org.jetbrains.dokka/dokka-base-test-utils@1.6.21?classifier=sources

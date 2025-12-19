@@ -1,2 +1,4 @@
+- pkg:maven/dev.taie.nacos/nacos-cmdb@1.4.2
+- pkg:maven/dev.taie.nacos/nacos-cmdb@1.4.2?classifier=sources
 - pkg:maven/dev.taie.nacos/nacos-cmdb@2.0.4
 - pkg:maven/dev.taie.nacos/nacos-cmdb@2.0.4?classifier=sources

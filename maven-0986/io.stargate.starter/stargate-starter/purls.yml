@@ -139,6 +139,12 @@
 - pkg:maven/io.stargate.starter/stargate-starter@1.0.51?classifier=sources
 - pkg:maven/io.stargate.starter/stargate-starter@1.0.52
 - pkg:maven/io.stargate.starter/stargate-starter@1.0.52?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@1.0.53
+- pkg:maven/io.stargate.starter/stargate-starter@1.0.53?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@1.0.54
+- pkg:maven/io.stargate.starter/stargate-starter@1.0.54?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@1.0.55
+- pkg:maven/io.stargate.starter/stargate-starter@1.0.55?classifier=sources
 - pkg:maven/io.stargate.starter/stargate-starter@1.0.5?classifier=sources
 - pkg:maven/io.stargate.starter/stargate-starter@1.0.6
 - pkg:maven/io.stargate.starter/stargate-starter@1.0.6?classifier=sources
@@ -158,3 +164,11 @@
 - pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-4?classifier=sources
 - pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-5
 - pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-5?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-6
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-6?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-7
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-7?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-8
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-8?classifier=sources
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-9
+- pkg:maven/io.stargate.starter/stargate-starter@2.0.0-ALPHA-9?classifier=sources

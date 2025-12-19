@@ -120,3 +120,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.6.20-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.6.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.6.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.6.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.6.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.7.0-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.7.0-Beta?classifier=sources

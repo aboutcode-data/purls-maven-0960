@@ -1,6 +1,7 @@
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.0
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.0?classifier=sources
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.1
+- pkg:maven/com.alecstrong/grammar-kit-composer@0.1.10?classifier=sources
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.1?classifier=sources
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.2
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.2?classifier=sources
@@ -11,3 +12,5 @@
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.5?classifier=sources
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.6?classifier=sources
 - pkg:maven/com.alecstrong/grammar-kit-composer@0.1.7?classifier=sources
+- pkg:maven/com.alecstrong/grammar-kit-composer@0.1.8?classifier=sources
+- pkg:maven/com.alecstrong/grammar-kit-composer@0.1.9?classifier=sources

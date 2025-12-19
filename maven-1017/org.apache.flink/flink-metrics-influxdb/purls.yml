@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.flink/flink-metrics-influxdb@1.14.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-metrics-influxdb@1.14.4
 - pkg:maven/org.apache.flink/flink-metrics-influxdb@1.14.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-metrics-influxdb@1.15.0
+- pkg:maven/org.apache.flink/flink-metrics-influxdb@1.15.0?classifier=sources

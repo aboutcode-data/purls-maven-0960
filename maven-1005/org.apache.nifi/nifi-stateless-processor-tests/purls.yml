@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.nifi/nifi-stateless-processor-tests@1.15.3?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-stateless-processor-tests@1.16.0
 - pkg:maven/org.apache.nifi/nifi-stateless-processor-tests@1.16.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-stateless-processor-tests@1.16.1
+- pkg:maven/org.apache.nifi/nifi-stateless-processor-tests@1.16.1?classifier=sources

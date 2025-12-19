@@ -66,3 +66,9 @@
 - pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.7.0-RC2
 - pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.7.0-RC2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.7.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.8.0
+- pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.8.0-RC1
+- pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.8.0-RC1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.8.0-RC2
+- pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.8.0-RC2?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynamic-simulation-dsl@4.8.0?classifier=sources

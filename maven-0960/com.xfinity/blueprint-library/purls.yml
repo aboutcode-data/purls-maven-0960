@@ -24,3 +24,5 @@
 - pkg:maven/com.xfinity/blueprint-library@1.5.0?type=aar
 - pkg:maven/com.xfinity/blueprint-library@1.7.0?classifier=sources
 - pkg:maven/com.xfinity/blueprint-library@1.7.0?type=aar
+- pkg:maven/com.xfinity/blueprint-library@2.0.0?classifier=sources
+- pkg:maven/com.xfinity/blueprint-library@2.0.0?type=aar

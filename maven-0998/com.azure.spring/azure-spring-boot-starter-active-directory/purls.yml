@@ -30,3 +30,4 @@
 - pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.8.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.9.0
 - pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@3.9.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-boot-starter-active-directory@4.0.0

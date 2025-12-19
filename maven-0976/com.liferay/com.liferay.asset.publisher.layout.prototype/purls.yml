@@ -133,6 +133,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.18
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.19
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@2.0.2
@@ -199,6 +202,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.20
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.21
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@3.0.3
@@ -262,6 +268,12 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.20
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.21
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.22
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.layout.prototype@4.0.3

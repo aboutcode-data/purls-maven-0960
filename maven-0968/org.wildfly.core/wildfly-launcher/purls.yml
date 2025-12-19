@@ -236,6 +236,12 @@
 - pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta6
 - pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta7
+- pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta8
+- pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta8?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta9
+- pkg:maven/org.wildfly.core/wildfly-launcher@19.0.0.Beta9?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-launcher@2.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-launcher@2.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-launcher@2.0.0.Alpha10?classifier=sources

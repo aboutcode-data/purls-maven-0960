@@ -36,6 +36,8 @@
 - pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.5.6?classifier=sources
 - pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.0
 - pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.0?classifier=sources
+- pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.10
+- pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.10?classifier=sources
 - pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.2
 - pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.2?classifier=sources
 - pkg:maven/com.gitee.fubluesky.kernel/cache-sdk-redis@1.6.3

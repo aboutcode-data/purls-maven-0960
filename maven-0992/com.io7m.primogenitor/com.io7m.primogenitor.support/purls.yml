@@ -50,3 +50,5 @@
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@7.0.0-beta0005
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@7.0.0-beta0005?classifier=sources
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@7.0.0?classifier=sources
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@7.1.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.support@7.1.0?classifier=sources

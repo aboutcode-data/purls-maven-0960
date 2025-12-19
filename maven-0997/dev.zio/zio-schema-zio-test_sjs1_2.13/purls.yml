@@ -6,7 +6,15 @@
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.1.7?classifier=sources
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.1.8
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.1.8?classifier=sources
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.1.9
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.1.9?classifier=sources
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC1
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC1-1
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC1-1?classifier=sources
 - pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC1?classifier=sources
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC3-1
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC3-1?classifier=sources
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC4
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC4?classifier=sources
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC5
+- pkg:maven/dev.zio/zio-schema-zio-test_sjs1_2.13@0.2.0-RC5?classifier=sources

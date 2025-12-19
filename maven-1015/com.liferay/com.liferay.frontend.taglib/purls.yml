@@ -562,6 +562,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.7
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.8
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@4.1.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.0.0?classifier=sources-commercial
@@ -691,6 +694,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.8
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.9
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@5.6.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@6.0.0?classifier=sources-commercial
@@ -778,3 +784,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.5
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.6
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.7
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@7.0.7?classifier=sources-commercial

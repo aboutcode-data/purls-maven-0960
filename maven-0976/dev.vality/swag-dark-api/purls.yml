@@ -26,3 +26,11 @@
 - pkg:maven/dev.vality/swag-dark-api@1.73-5c7092a-client?classifier=sources
 - pkg:maven/dev.vality/swag-dark-api@1.73-5c7092a-server
 - pkg:maven/dev.vality/swag-dark-api@1.73-5c7092a-server?classifier=sources
+- pkg:maven/dev.vality/swag-dark-api@1.74-a3f1678-client
+- pkg:maven/dev.vality/swag-dark-api@1.74-a3f1678-client?classifier=sources
+- pkg:maven/dev.vality/swag-dark-api@1.74-a3f1678-server
+- pkg:maven/dev.vality/swag-dark-api@1.74-a3f1678-server?classifier=sources
+- pkg:maven/dev.vality/swag-dark-api@1.75-f6025e2-client
+- pkg:maven/dev.vality/swag-dark-api@1.75-f6025e2-client?classifier=sources
+- pkg:maven/dev.vality/swag-dark-api@1.75-f6025e2-server
+- pkg:maven/dev.vality/swag-dark-api@1.75-f6025e2-server?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync-runtime@3.2.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync-runtime@3.3.0
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync-runtime@3.3.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync-runtime@3.3.1
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync-runtime@3.3.1?classifier=sources

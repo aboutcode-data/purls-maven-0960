@@ -5,6 +5,8 @@
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.11
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.11?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.12
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.12?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.2
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@10.2?classifier=sources
@@ -34,6 +36,8 @@
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@11.5
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@11.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@11.6
+- pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@11.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@6.6
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videoeditor-ffmpeg-impl@7.2

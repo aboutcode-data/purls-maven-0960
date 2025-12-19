@@ -45,6 +45,12 @@
 - pkg:maven/com.codenameone/cn1app-archetype@7.0.60?classifier=sources
 - pkg:maven/com.codenameone/cn1app-archetype@7.0.61?classifier=sources
 - pkg:maven/com.codenameone/cn1app-archetype@7.0.62?classifier=sources
+- pkg:maven/com.codenameone/cn1app-archetype@7.0.63?classifier=sources
+- pkg:maven/com.codenameone/cn1app-archetype@7.0.64?classifier=sources
+- pkg:maven/com.codenameone/cn1app-archetype@7.0.69?classifier=sources
+- pkg:maven/com.codenameone/cn1app-archetype@7.0.70?classifier=sources
+- pkg:maven/com.codenameone/cn1app-archetype@7.0.71?classifier=sources
+- pkg:maven/com.codenameone/cn1app-archetype@7.0.72?classifier=sources
 - pkg:maven/com.codenameone/cn1app-archetype@7.0.7?classifier=sources
 - pkg:maven/com.codenameone/cn1app-archetype@7.0.8-b2?classifier=sources
 - pkg:maven/com.codenameone/cn1app-archetype@7.0.8-b3?classifier=sources

@@ -187,6 +187,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.1
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.10
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.10?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.11
+- pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.11?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.2
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.9.2?classifier=sources

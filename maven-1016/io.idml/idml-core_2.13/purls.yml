@@ -1,6 +1,10 @@
+- pkg:maven/io.idml/idml-core_2.13@2.1.0
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC10
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC10?classifier=sources
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC12
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC12?classifier=sources
+- pkg:maven/io.idml/idml-core_2.13@2.1.0-RC13
+- pkg:maven/io.idml/idml-core_2.13@2.1.0-RC13?classifier=sources
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC9
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC9?classifier=sources
+- pkg:maven/io.idml/idml-core_2.13@2.1.0?classifier=sources

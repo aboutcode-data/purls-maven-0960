@@ -213,6 +213,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.10?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.11?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.12?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.13?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.1?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.2?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.5.3?classifier=sources
@@ -229,3 +230,4 @@
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.6.4?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.6.5?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.6.6?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.6.7?classifier=sources

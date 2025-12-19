@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-streams-dbinit@1.0.0-preview
 - pkg:maven/org.apache.rocketmq/rocketmq-streams-dbinit@1.0.0-preview?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-streams-dbinit@1.0.1-preview
+- pkg:maven/org.apache.rocketmq/rocketmq-streams-dbinit@1.0.1-preview?classifier=sources

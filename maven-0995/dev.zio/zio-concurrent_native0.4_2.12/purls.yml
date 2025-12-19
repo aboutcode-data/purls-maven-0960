@@ -1,8 +1,16 @@
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@1.0.13
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@1.0.13?classifier=sources
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@1.0.14
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@1.0.14?classifier=sources
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC1
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC1?classifier=sources
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC2
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC2?classifier=sources
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC3
 - pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC3?classifier=sources
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC4
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC4?classifier=sources
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC5
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC5?classifier=sources
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC6
+- pkg:maven/dev.zio/zio-concurrent_native0.4_2.12@2.0.0-RC6?classifier=sources

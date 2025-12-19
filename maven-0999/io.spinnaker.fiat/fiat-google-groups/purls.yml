@@ -1,6 +1,11 @@
 - pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.27.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.27.1?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.28.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.28.1?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.28.2?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.28.3?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.28.4?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.29.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.30.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-google-groups@1.31.1?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-google-groups@version-1.14.4?classifier=sources

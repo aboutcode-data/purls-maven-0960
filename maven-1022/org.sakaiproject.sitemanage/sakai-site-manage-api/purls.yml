@@ -70,3 +70,7 @@
 - pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@21.1?classifier=sources
 - pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@21.2
 - pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@21.2?classifier=sources
+- pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@21.3
+- pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@22.0
+- pkg:maven/org.sakaiproject.sitemanage/sakai-site-manage-api@22.0?classifier=sources

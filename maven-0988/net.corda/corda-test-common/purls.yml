@@ -29,6 +29,8 @@
 - pkg:maven/net.corda/corda-test-common@4.8
 - pkg:maven/net.corda/corda-test-common@4.8?classifier=sources
 - pkg:maven/net.corda/corda-test-common@4.9
+- pkg:maven/net.corda/corda-test-common@4.9.1
+- pkg:maven/net.corda/corda-test-common@4.9.1?classifier=sources
 - pkg:maven/net.corda/corda-test-common@4.9?classifier=sources
 - pkg:maven/net.corda/corda-test-common@corda-3.0
 - pkg:maven/net.corda/corda-test-common@corda-3.0?classifier=sources

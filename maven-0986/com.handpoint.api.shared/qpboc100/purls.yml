@@ -80,3 +80,5 @@
 - pkg:maven/com.handpoint.api.shared/qpboc100@6.6.6?type=aar
 - pkg:maven/com.handpoint.api.shared/qpboc100@6.6.7?classifier=sources
 - pkg:maven/com.handpoint.api.shared/qpboc100@6.6.7?type=aar
+- pkg:maven/com.handpoint.api.shared/qpboc100@6.7.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/qpboc100@6.7.0?type=aar

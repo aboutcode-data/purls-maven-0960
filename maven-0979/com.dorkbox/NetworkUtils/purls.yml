@@ -5,6 +5,8 @@
 - pkg:maven/com.dorkbox/NetworkUtils@1.4?classifier=sources
 - pkg:maven/com.dorkbox/NetworkUtils@1.5?classifier=sources
 - pkg:maven/com.dorkbox/NetworkUtils@2.0?classifier=sources
+- pkg:maven/com.dorkbox/NetworkUtils@2.10?classifier=sources
+- pkg:maven/com.dorkbox/NetworkUtils@2.11?classifier=sources
 - pkg:maven/com.dorkbox/NetworkUtils@2.1?classifier=sources
 - pkg:maven/com.dorkbox/NetworkUtils@2.2?classifier=sources
 - pkg:maven/com.dorkbox/NetworkUtils@2.3?classifier=sources

@@ -86,3 +86,7 @@
 - pkg:maven/org.spincast/spincast-plugins-jdbc@1.8.0?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-jdbc@1.9.0
 - pkg:maven/org.spincast/spincast-plugins-jdbc@1.9.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-jdbc@2.0.0
+- pkg:maven/org.spincast/spincast-plugins-jdbc@2.0.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-jdbc@2.0.1
+- pkg:maven/org.spincast/spincast-plugins-jdbc@2.0.1?classifier=sources

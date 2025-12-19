@@ -42,3 +42,5 @@
 - pkg:maven/com.mastfrog/util-streams@2.7.3?classifier=sources
 - pkg:maven/com.mastfrog/util-streams@2.8.0
 - pkg:maven/com.mastfrog/util-streams@2.8.0?classifier=sources
+- pkg:maven/com.mastfrog/util-streams@2.8.1
+- pkg:maven/com.mastfrog/util-streams@2.8.1?classifier=sources

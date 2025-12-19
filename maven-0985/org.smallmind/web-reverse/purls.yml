@@ -172,3 +172,5 @@
 - pkg:maven/org.smallmind/web-reverse@4.4.9?classifier=sources
 - pkg:maven/org.smallmind/web-reverse@4.5.0
 - pkg:maven/org.smallmind/web-reverse@4.5.0?classifier=sources
+- pkg:maven/org.smallmind/web-reverse@4.6.0
+- pkg:maven/org.smallmind/web-reverse@4.6.0?classifier=sources

@@ -292,6 +292,8 @@
 - pkg:maven/org.jboss.resteasy/jose-jwt@4.7.4.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@4.7.5.Final
 - pkg:maven/org.jboss.resteasy/jose-jwt@4.7.5.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@4.7.6.Final
+- pkg:maven/org.jboss.resteasy/jose-jwt@4.7.6.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@5.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/jose-jwt@5.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@5.0.0.Beta1
@@ -306,9 +308,17 @@
 - pkg:maven/org.jboss.resteasy/jose-jwt@5.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@5.0.2.Final
 - pkg:maven/org.jboss.resteasy/jose-jwt@5.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@5.0.3.Final
+- pkg:maven/org.jboss.resteasy/jose-jwt@5.0.3.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/jose-jwt@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@6.0.0.Final
 - pkg:maven/org.jboss.resteasy/jose-jwt@6.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@6.0.1.Final
+- pkg:maven/org.jboss.resteasy/jose-jwt@6.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/jose-jwt@6.1.0.Alpha1
 - pkg:maven/org.jboss.resteasy/jose-jwt@6.1.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@6.1.0.Beta1
+- pkg:maven/org.jboss.resteasy/jose-jwt@6.1.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.resteasy/jose-jwt@6.1.0.Beta2
+- pkg:maven/org.jboss.resteasy/jose-jwt@6.1.0.Beta2?classifier=sources

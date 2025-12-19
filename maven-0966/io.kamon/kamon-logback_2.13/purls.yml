@@ -78,3 +78,5 @@
 - pkg:maven/io.kamon/kamon-logback_2.13@2.4.8?classifier=sources
 - pkg:maven/io.kamon/kamon-logback_2.13@2.5.0
 - pkg:maven/io.kamon/kamon-logback_2.13@2.5.0?classifier=sources
+- pkg:maven/io.kamon/kamon-logback_2.13@2.5.1
+- pkg:maven/io.kamon/kamon-logback_2.13@2.5.1?classifier=sources

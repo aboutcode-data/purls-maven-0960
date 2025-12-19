@@ -6,3 +6,5 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-commons-server@2.3.2?classifier=sources
 - pkg:maven/com.navercorp.pinpoint/pinpoint-commons-server@2.3.3
 - pkg:maven/com.navercorp.pinpoint/pinpoint-commons-server@2.3.3?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-commons-server@2.4.0-RC1
+- pkg:maven/com.navercorp.pinpoint/pinpoint-commons-server@2.4.0-RC1?classifier=sources

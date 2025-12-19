@@ -34,5 +34,11 @@
 - pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.7.24-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.7.26-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.7.31-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.7.35-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.7.36-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.7.37-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.8.0-RC.2-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.8.0-RC.3-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.8.0-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.8.0-alpha.1-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dockerhost/api-dockerhost@1.8.0-alpha.26-RELEASE?classifier=sources

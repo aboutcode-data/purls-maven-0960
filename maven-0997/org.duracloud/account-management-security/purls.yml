@@ -39,3 +39,5 @@
 - pkg:maven/org.duracloud/account-management-security@7.0.0
 - pkg:maven/org.duracloud/account-management-security@7.0.0?classifier=sources
 - pkg:maven/org.duracloud/account-management-security@7.1.0?classifier=sources
+- pkg:maven/org.duracloud/account-management-security@7.1.1
+- pkg:maven/org.duracloud/account-management-security@7.1.1?classifier=sources
