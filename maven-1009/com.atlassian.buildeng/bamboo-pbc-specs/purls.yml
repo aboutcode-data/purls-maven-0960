@@ -20,3 +20,7 @@
 - pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@1.4.3?classifier=sources
 - pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@1.4.4?classifier=sources
 - pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@1.4.5?classifier=sources
+- pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@1.4.6?classifier=sources
+- pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@1.4.7?classifier=sources
+- pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@2.0.0?classifier=sources
+- pkg:maven/com.atlassian.buildeng/bamboo-pbc-specs@2.0.1?classifier=sources

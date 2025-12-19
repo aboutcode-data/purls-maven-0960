@@ -1,0 +1,4 @@
+- pkg:maven/org.wartremover/wartremover-inspector-common_3@3.0.0-RC5
+- pkg:maven/org.wartremover/wartremover-inspector-common_3@3.0.0-RC5?classifier=sources
+- pkg:maven/org.wartremover/wartremover-inspector-common_3@3.0.0-RC6
+- pkg:maven/org.wartremover/wartremover-inspector-common_3@3.0.0-RC6?classifier=sources

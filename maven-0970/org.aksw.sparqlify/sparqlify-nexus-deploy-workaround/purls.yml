@@ -14,3 +14,5 @@
 - pkg:maven/org.aksw.sparqlify/sparqlify-nexus-deploy-workaround@0.8.9?classifier=sources
 - pkg:maven/org.aksw.sparqlify/sparqlify-nexus-deploy-workaround@0.9.0
 - pkg:maven/org.aksw.sparqlify/sparqlify-nexus-deploy-workaround@0.9.0?classifier=sources
+- pkg:maven/org.aksw.sparqlify/sparqlify-nexus-deploy-workaround@0.9.1
+- pkg:maven/org.aksw.sparqlify/sparqlify-nexus-deploy-workaround@0.9.1?classifier=sources

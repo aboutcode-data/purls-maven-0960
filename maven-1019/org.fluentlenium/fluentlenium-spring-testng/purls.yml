@@ -16,3 +16,5 @@
 - pkg:maven/org.fluentlenium/fluentlenium-spring-testng@5.0.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-spring-testng@5.0.2
 - pkg:maven/org.fluentlenium/fluentlenium-spring-testng@5.0.2?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-spring-testng@5.0.3
+- pkg:maven/org.fluentlenium/fluentlenium-spring-testng@5.0.3?classifier=sources

@@ -14,6 +14,7 @@
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.3.4?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.10?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.11?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.1?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.3?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.4?classifier=sources
@@ -22,3 +23,12 @@
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.7?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.8?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.4.9?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.5.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.5.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.5.2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.5.3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.6.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.6.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.6.2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.6.3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-mingwx64@2.7.0?classifier=sources

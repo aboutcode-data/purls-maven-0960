@@ -1,0 +1,4 @@
+- pkg:maven/dev.failsafe/failsafe-retrofit@3.2.2
+- pkg:maven/dev.failsafe/failsafe-retrofit@3.2.2?classifier=sources
+- pkg:maven/dev.failsafe/failsafe-retrofit@3.2.3
+- pkg:maven/dev.failsafe/failsafe-retrofit@3.2.3?classifier=sources

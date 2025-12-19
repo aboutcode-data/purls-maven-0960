@@ -56,6 +56,10 @@
 - pkg:maven/com.sap.cds/cds4j-tx@1.25.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-tx@1.26.0
 - pkg:maven/com.sap.cds/cds4j-tx@1.26.0?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-tx@1.26.1
+- pkg:maven/com.sap.cds/cds4j-tx@1.26.1?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-tx@1.26.2
+- pkg:maven/com.sap.cds/cds4j-tx@1.26.2?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-tx@1.5.0
 - pkg:maven/com.sap.cds/cds4j-tx@1.5.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-tx@1.5.1

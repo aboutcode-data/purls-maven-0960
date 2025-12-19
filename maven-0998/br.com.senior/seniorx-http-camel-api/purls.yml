@@ -36,6 +36,10 @@
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.25-alhpa?classifier=sources
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.26-alpha
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.26-alpha?classifier=sources
+- pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.27-alpha
+- pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.27-alpha?classifier=sources
+- pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.29-alpha
+- pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.29-alpha?classifier=sources
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.3-alpha
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.3-alpha?classifier=sources
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.4-alpha
@@ -50,3 +54,5 @@
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.8-alpha?classifier=sources
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.9-alpha
 - pkg:maven/br.com.senior/seniorx-http-camel-api@0.0.9-alpha?classifier=sources
+- pkg:maven/br.com.senior/seniorx-http-camel-api@1.0.0
+- pkg:maven/br.com.senior/seniorx-http-camel-api@1.0.0?classifier=sources

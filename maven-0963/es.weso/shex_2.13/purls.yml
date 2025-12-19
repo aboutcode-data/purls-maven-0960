@@ -11,6 +11,10 @@
 - pkg:maven/es.weso/shex_2.13@0.1.107
 - pkg:maven/es.weso/shex_2.13@0.1.107?classifier=sources
 - pkg:maven/es.weso/shex_2.13@0.1.108
+- pkg:maven/es.weso/shex_2.13@0.1.108-ult
+- pkg:maven/es.weso/shex_2.13@0.1.108-ult?classifier=sources
+- pkg:maven/es.weso/shex_2.13@0.1.108-ult_0
+- pkg:maven/es.weso/shex_2.13@0.1.108-ult_0?classifier=sources
 - pkg:maven/es.weso/shex_2.13@0.1.108?classifier=sources
 - pkg:maven/es.weso/shex_2.13@0.1.109
 - pkg:maven/es.weso/shex_2.13@0.1.109?classifier=sources
@@ -28,3 +32,5 @@
 - pkg:maven/es.weso/shex_2.13@0.1.97?classifier=sources
 - pkg:maven/es.weso/shex_2.13@0.1.98
 - pkg:maven/es.weso/shex_2.13@0.1.98?classifier=sources
+- pkg:maven/es.weso/shex_2.13@0.2.0
+- pkg:maven/es.weso/shex_2.13@0.2.0?classifier=sources

@@ -46,6 +46,10 @@
 - pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.14.RELEASE?classifier=sources
 - pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.15.RELEASE
 - pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.15.RELEASE?classifier=sources
+- pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.16.RELEASE
+- pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.16.RELEASE?classifier=sources
+- pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.17.RELEASE
+- pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.17.RELEASE?classifier=sources
 - pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.2.RELEASE
 - pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.2.RELEASE?classifier=sources
 - pkg:maven/io.nuls.v2/sdk4j-jdk8@1.1.3.RELEASE

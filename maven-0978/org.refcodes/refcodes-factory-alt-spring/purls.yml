@@ -116,3 +116,5 @@
 - pkg:maven/org.refcodes/refcodes-factory-alt-spring@2.2.1?classifier=sources
 - pkg:maven/org.refcodes/refcodes-factory-alt-spring@2.2.2
 - pkg:maven/org.refcodes/refcodes-factory-alt-spring@2.2.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-factory-alt-spring@3.0.0
+- pkg:maven/org.refcodes/refcodes-factory-alt-spring@3.0.0?classifier=sources

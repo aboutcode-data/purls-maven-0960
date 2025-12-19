@@ -16,3 +16,7 @@
 - pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.6?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.7
 - pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.7?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.8
+- pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.8?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.9
+- pkg:maven/com.adobe.testing/s3mock-testcontainers@2.4.9?classifier=sources

@@ -110,5 +110,11 @@
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.0?classifier=sources
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.1
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.2
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.2?classifier=sources
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.3-beta1
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.3-beta1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.3-beta2
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@2.5.3-beta2?classifier=sources
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@v2.3.4-beta20220122
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@v2.3.4-beta20220122?classifier=sources

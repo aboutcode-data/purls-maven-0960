@@ -346,6 +346,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.7.46
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.7.46?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.7.46?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.7.47
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.7.47?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.7.47?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.8.0
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.8.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.cluster.mgt.admin@4.8.0?classifier=sources

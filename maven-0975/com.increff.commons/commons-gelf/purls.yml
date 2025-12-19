@@ -1,5 +1,7 @@
 - pkg:maven/com.increff.commons/commons-gelf@1.12
 - pkg:maven/com.increff.commons/commons-gelf@1.12?classifier=sources
+- pkg:maven/com.increff.commons/commons-gelf@1.13
+- pkg:maven/com.increff.commons/commons-gelf@1.13?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.2
 - pkg:maven/com.increff.commons/commons-gelf@1.2?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.4

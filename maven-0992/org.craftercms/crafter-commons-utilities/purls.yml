@@ -224,6 +224,10 @@
 - pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc1?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc1E
 - pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc1E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc2
+- pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc2?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc2E
+- pkg:maven/org.craftercms/crafter-commons-utilities@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-utilities@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-commons-utilities@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-utilities@v2.4.1-RC3

@@ -1,2 +1,4 @@
 - pkg:maven/io.cloudslang.content/cs-oracle-cloud@1.0.0-RC3
 - pkg:maven/io.cloudslang.content/cs-oracle-cloud@1.0.0-RC3?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-oracle-cloud@1.0.1
+- pkg:maven/io.cloudslang.content/cs-oracle-cloud@1.0.1?classifier=sources

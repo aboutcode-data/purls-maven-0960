@@ -1,0 +1,10 @@
+- pkg:maven/br.com.objectos/git@0.1.0-jdk11
+- pkg:maven/br.com.objectos/git@0.1.0-jdk11?classifier=sources
+- pkg:maven/br.com.objectos/git@0.1.0-jdk17
+- pkg:maven/br.com.objectos/git@0.1.0-jdk17?classifier=sources
+- pkg:maven/br.com.objectos/git@0.1.0-jdk6
+- pkg:maven/br.com.objectos/git@0.1.0-jdk6?classifier=sources
+- pkg:maven/br.com.objectos/git@0.1.0-jdk7
+- pkg:maven/br.com.objectos/git@0.1.0-jdk7?classifier=sources
+- pkg:maven/br.com.objectos/git@0.1.0-jdk8
+- pkg:maven/br.com.objectos/git@0.1.0-jdk8?classifier=sources

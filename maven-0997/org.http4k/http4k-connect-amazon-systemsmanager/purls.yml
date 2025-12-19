@@ -80,6 +80,8 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.16.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.16.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.16.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.16.5.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.17.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.2.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.3.0.0?classifier=sources

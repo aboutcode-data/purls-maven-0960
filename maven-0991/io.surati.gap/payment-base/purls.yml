@@ -1,0 +1,4 @@
+- pkg:maven/io.surati.gap/payment-base@0.1
+- pkg:maven/io.surati.gap/payment-base@0.1.1
+- pkg:maven/io.surati.gap/payment-base@0.1.1?classifier=sources
+- pkg:maven/io.surati.gap/payment-base@0.1?classifier=sources

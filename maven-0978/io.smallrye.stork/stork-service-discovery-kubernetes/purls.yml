@@ -6,3 +6,5 @@
 - pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@1.0.0.Beta4
 - pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@1.0.0.Beta4?classifier=sources
 - pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@1.0.0?classifier=sources
+- pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@1.1.0
+- pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@1.1.0?classifier=sources

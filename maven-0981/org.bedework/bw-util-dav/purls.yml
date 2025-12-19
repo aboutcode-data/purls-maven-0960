@@ -56,3 +56,5 @@
 - pkg:maven/org.bedework/bw-util-dav@4.1.4?classifier=sources
 - pkg:maven/org.bedework/bw-util-dav@5.0.0
 - pkg:maven/org.bedework/bw-util-dav@5.0.0?classifier=sources
+- pkg:maven/org.bedework/bw-util-dav@5.0.1
+- pkg:maven/org.bedework/bw-util-dav@5.0.1?classifier=sources

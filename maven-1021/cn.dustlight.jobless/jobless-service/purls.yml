@@ -1,2 +1,4 @@
 - pkg:maven/cn.dustlight.jobless/jobless-service@0.0.1-alpha
 - pkg:maven/cn.dustlight.jobless/jobless-service@0.0.1-alpha?classifier=sources
+- pkg:maven/cn.dustlight.jobless/jobless-service@0.0.2-alpha
+- pkg:maven/cn.dustlight.jobless/jobless-service@0.0.2-alpha?classifier=sources

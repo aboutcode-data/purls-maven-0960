@@ -20,3 +20,7 @@
 - pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.7.0-jdk11
 - pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.7.0-jdk11?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.7.0?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.8.0
+- pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.8.0-jdk11
+- pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.8.0-jdk11?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-s3@0.8.0?classifier=sources

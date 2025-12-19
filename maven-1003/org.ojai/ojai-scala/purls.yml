@@ -7,4 +7,8 @@
 - pkg:maven/org.ojai/ojai-scala@3.1
 - pkg:maven/org.ojai/ojai-scala@3.1-mapr
 - pkg:maven/org.ojai/ojai-scala@3.1-mapr?classifier=sources
+- pkg:maven/org.ojai/ojai-scala@3.1.1
+- pkg:maven/org.ojai/ojai-scala@3.1.1-mapr
+- pkg:maven/org.ojai/ojai-scala@3.1.1-mapr?classifier=sources
+- pkg:maven/org.ojai/ojai-scala@3.1.1?classifier=sources
 - pkg:maven/org.ojai/ojai-scala@3.1?classifier=sources

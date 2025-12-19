@@ -54,3 +54,5 @@
 - pkg:maven/me.legrange.services/service-job-scheduler@3.6.6?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.7.0
 - pkg:maven/me.legrange.services/service-job-scheduler@3.7.0?classifier=sources
+- pkg:maven/me.legrange.services/service-job-scheduler@3.8.1
+- pkg:maven/me.legrange.services/service-job-scheduler@3.8.1?classifier=sources

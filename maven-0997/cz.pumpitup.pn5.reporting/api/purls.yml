@@ -97,6 +97,12 @@
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.0
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.0?classifier=sources
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.1
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.10
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.10?classifier=sources
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.11
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.11?classifier=sources
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.12
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.12?classifier=sources
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.1?classifier=sources
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.2
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.2?classifier=sources
@@ -108,3 +114,9 @@
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.5?classifier=sources
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.6
 - pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.6?classifier=sources
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.7
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.7?classifier=sources
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.8
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.8?classifier=sources
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.9
+- pkg:maven/cz.pumpitup.pn5.reporting/api@0.5.9?classifier=sources

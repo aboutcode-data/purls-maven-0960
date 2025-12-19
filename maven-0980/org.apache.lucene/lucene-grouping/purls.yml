@@ -206,3 +206,5 @@
 - pkg:maven/org.apache.lucene/lucene-grouping@8.9.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-grouping@9.0.0
 - pkg:maven/org.apache.lucene/lucene-grouping@9.0.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-grouping@9.1.0
+- pkg:maven/org.apache.lucene/lucene-grouping@9.1.0?classifier=sources

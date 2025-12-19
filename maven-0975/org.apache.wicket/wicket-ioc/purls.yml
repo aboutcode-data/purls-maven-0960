@@ -346,3 +346,5 @@
 - pkg:maven/org.apache.wicket/wicket-ioc@9.7.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@9.8.0
 - pkg:maven/org.apache.wicket/wicket-ioc@9.8.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-ioc@9.9.0
+- pkg:maven/org.apache.wicket/wicket-ioc@9.9.0?classifier=sources

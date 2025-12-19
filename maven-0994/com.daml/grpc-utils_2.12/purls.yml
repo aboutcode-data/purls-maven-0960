@@ -248,6 +248,10 @@
 - pkg:maven/com.daml/grpc-utils_2.12@1.18.1-snapshot.20220113.8434.1.1724373f
 - pkg:maven/com.daml/grpc-utils_2.12@1.18.1-snapshot.20220113.8434.1.1724373f?classifier=sources
 - pkg:maven/com.daml/grpc-utils_2.12@1.18.1?classifier=sources
+- pkg:maven/com.daml/grpc-utils_2.12@1.18.2-snapshot.20220310.8437.1.5221a5d1
+- pkg:maven/com.daml/grpc-utils_2.12@1.18.2-snapshot.20220310.8437.1.5221a5d1?classifier=sources
+- pkg:maven/com.daml/grpc-utils_2.12@1.18.2-snapshot.20220324.8440.0.5cfb1a21
+- pkg:maven/com.daml/grpc-utils_2.12@1.18.2-snapshot.20220324.8440.0.5cfb1a21?classifier=sources
 - pkg:maven/com.daml/grpc-utils_2.12@1.2.0
 - pkg:maven/com.daml/grpc-utils_2.12@1.2.0-snapshot.20200513.4172.0.021f4af3
 - pkg:maven/com.daml/grpc-utils_2.12@1.2.0-snapshot.20200513.4172.0.021f4af3?classifier=sources

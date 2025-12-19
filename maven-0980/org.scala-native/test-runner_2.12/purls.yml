@@ -18,3 +18,5 @@
 - pkg:maven/org.scala-native/test-runner_2.12@0.4.3-RC2
 - pkg:maven/org.scala-native/test-runner_2.12@0.4.3-RC2?classifier=sources
 - pkg:maven/org.scala-native/test-runner_2.12@0.4.3?classifier=sources
+- pkg:maven/org.scala-native/test-runner_2.12@0.4.4
+- pkg:maven/org.scala-native/test-runner_2.12@0.4.4?classifier=sources

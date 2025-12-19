@@ -4,3 +4,5 @@
 - pkg:maven/org.jpmml/pmml-converter@1.5.1?classifier=sources
 - pkg:maven/org.jpmml/pmml-converter@1.5.2
 - pkg:maven/org.jpmml/pmml-converter@1.5.2?classifier=sources
+- pkg:maven/org.jpmml/pmml-converter@1.5.3
+- pkg:maven/org.jpmml/pmml-converter@1.5.3?classifier=sources

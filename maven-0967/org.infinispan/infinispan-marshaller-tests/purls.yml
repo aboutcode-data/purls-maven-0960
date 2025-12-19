@@ -84,7 +84,10 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@13.0.4.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@13.0.5.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@13.0.6.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@13.0.7.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@13.0.8.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@14.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-marshaller-tests@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-tests@9.0.0.Beta2

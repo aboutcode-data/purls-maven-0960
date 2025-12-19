@@ -30,6 +30,8 @@
 - pkg:maven/org.apache.geode/geode-rebalancer@1.12.7?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.12.8
 - pkg:maven/org.apache.geode/geode-rebalancer@1.12.8?classifier=sources
+- pkg:maven/org.apache.geode/geode-rebalancer@1.12.9
+- pkg:maven/org.apache.geode/geode-rebalancer@1.12.9?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.0
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.1
@@ -46,6 +48,8 @@
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.6?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.7
 - pkg:maven/org.apache.geode/geode-rebalancer@1.13.7?classifier=sources
+- pkg:maven/org.apache.geode/geode-rebalancer@1.13.8
+- pkg:maven/org.apache.geode/geode-rebalancer@1.13.8?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.14.0
 - pkg:maven/org.apache.geode/geode-rebalancer@1.14.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.14.1
@@ -54,6 +58,8 @@
 - pkg:maven/org.apache.geode/geode-rebalancer@1.14.2?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.14.3
 - pkg:maven/org.apache.geode/geode-rebalancer@1.14.3?classifier=sources
+- pkg:maven/org.apache.geode/geode-rebalancer@1.14.4
+- pkg:maven/org.apache.geode/geode-rebalancer@1.14.4?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.2.0
 - pkg:maven/org.apache.geode/geode-rebalancer@1.2.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-rebalancer@1.2.1

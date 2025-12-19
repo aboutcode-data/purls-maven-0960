@@ -173,6 +173,15 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.154
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.154?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.154?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.155
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.155?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.155?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.156
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.156?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.156?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.157
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.157?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.157?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.portlet.provider@1.0.16

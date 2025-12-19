@@ -1,4 +1,6 @@
+- pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.0.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.0.0-beta.2
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.0.0-beta.2?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.0.0-beta.3
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.0.0-beta.3?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.0.0?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@26.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@26.0.1.Final
 - pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@26.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@26.1.0.Beta1
+- pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@26.1.0.Beta1?classifier=sources

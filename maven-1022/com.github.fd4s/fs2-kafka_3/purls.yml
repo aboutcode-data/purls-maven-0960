@@ -1,3 +1,5 @@
+- pkg:maven/com.github.fd4s/fs2-kafka_3@1.10.0
+- pkg:maven/com.github.fd4s/fs2-kafka_3@1.10.0?classifier=sources
 - pkg:maven/com.github.fd4s/fs2-kafka_3@1.7.0
 - pkg:maven/com.github.fd4s/fs2-kafka_3@1.7.0?classifier=sources
 - pkg:maven/com.github.fd4s/fs2-kafka_3@1.8.0
@@ -10,5 +12,13 @@
 - pkg:maven/com.github.fd4s/fs2-kafka_3@2.2.0?classifier=sources
 - pkg:maven/com.github.fd4s/fs2-kafka_3@2.3.0
 - pkg:maven/com.github.fd4s/fs2-kafka_3@2.3.0?classifier=sources
+- pkg:maven/com.github.fd4s/fs2-kafka_3@2.4.0
+- pkg:maven/com.github.fd4s/fs2-kafka_3@2.4.0?classifier=sources
+- pkg:maven/com.github.fd4s/fs2-kafka_3@2.5.0-M2
+- pkg:maven/com.github.fd4s/fs2-kafka_3@2.5.0-M2?classifier=sources
 - pkg:maven/com.github.fd4s/fs2-kafka_3@3.0.0-M4
 - pkg:maven/com.github.fd4s/fs2-kafka_3@3.0.0-M4?classifier=sources
+- pkg:maven/com.github.fd4s/fs2-kafka_3@3.0.0-M5
+- pkg:maven/com.github.fd4s/fs2-kafka_3@3.0.0-M5?classifier=sources
+- pkg:maven/com.github.fd4s/fs2-kafka_3@3.0.0-M6
+- pkg:maven/com.github.fd4s/fs2-kafka_3@3.0.0-M6?classifier=sources

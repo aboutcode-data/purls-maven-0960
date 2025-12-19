@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.pinot/pinot-ingestion-common@0.10.0
+- pkg:maven/org.apache.pinot/pinot-ingestion-common@0.10.0?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-ingestion-common@0.3.0
 - pkg:maven/org.apache.pinot/pinot-ingestion-common@0.3.0?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-ingestion-common@0.4.0

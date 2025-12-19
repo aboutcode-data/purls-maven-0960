@@ -28,3 +28,7 @@
 - pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.5.1.RELEASE?classifier=sources
 - pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.5.2.RELEASE
 - pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.5.2.RELEASE?classifier=sources
+- pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.6.0
+- pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.6.0?classifier=sources
+- pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.6.1
+- pkg:maven/com.scloudic/rabbit-security-spring-boot-starter@3.6.1?classifier=sources

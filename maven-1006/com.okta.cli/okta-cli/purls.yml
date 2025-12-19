@@ -1,3 +1,5 @@
+- pkg:maven/com.okta.cli/okta-cli@0.10.0
+- pkg:maven/com.okta.cli/okta-cli@0.10.0?classifier=sources
 - pkg:maven/com.okta.cli/okta-cli@0.3.1
 - pkg:maven/com.okta.cli/okta-cli@0.3.1?classifier=sources
 - pkg:maven/com.okta.cli/okta-cli@0.4.0

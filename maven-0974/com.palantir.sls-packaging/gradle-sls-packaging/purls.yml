@@ -157,7 +157,9 @@
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.16.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.17.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.18.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.19.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.2.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.20.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.3.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.4.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging@7.5.0?classifier=sources

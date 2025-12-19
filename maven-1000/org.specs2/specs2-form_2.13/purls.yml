@@ -57,7 +57,11 @@
 - pkg:maven/org.specs2/specs2-form_2.13@4.14.0
 - pkg:maven/org.specs2/specs2-form_2.13@4.14.0?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.14.1
+- pkg:maven/org.specs2/specs2-form_2.13@4.14.1-cross
+- pkg:maven/org.specs2/specs2-form_2.13@4.14.1-cross?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.14.1?classifier=sources
+- pkg:maven/org.specs2/specs2-form_2.13@4.15.0
+- pkg:maven/org.specs2/specs2-form_2.13@4.15.0?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.5.1
 - pkg:maven/org.specs2/specs2-form_2.13@4.5.1?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.6.0

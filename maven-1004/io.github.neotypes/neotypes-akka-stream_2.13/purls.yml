@@ -6,3 +6,7 @@
 - pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.18.2?classifier=sources
 - pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.18.3
 - pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.18.3?classifier=sources
+- pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.19.0
+- pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.19.0?classifier=sources
+- pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.19.1
+- pkg:maven/io.github.neotypes/neotypes-akka-stream_2.13@0.19.1?classifier=sources

@@ -72,3 +72,6 @@
 - pkg:maven/com.walmartlabs.concord.runtime.v2/concord-runner-v2@1.92.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.runtime.v2/concord-runner-v2@1.93.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.runtime.v2/concord-runner-v2@1.93.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.runtime.v2/concord-runner-v2@1.93.2?classifier=sources
+- pkg:maven/com.walmartlabs.concord.runtime.v2/concord-runner-v2@1.93.3?classifier=sources
+- pkg:maven/com.walmartlabs.concord.runtime.v2/concord-runner-v2@1.94.0?classifier=sources

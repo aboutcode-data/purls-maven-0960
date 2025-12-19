@@ -5,3 +5,5 @@
 - pkg:maven/io.mats3/mats-impl-jms@0.18.3-2021-11-02?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.18.4-2021-11-17?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.18.3-2021-10-28?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC0-0.18.5-2022-02-22?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC1-0.18.5-2022-02-25?classifier=sources

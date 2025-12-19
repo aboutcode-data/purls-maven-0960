@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.jclouds.driver/jclouds-slf4j@2.3.0?classifier=sources
 - pkg:maven/org.apache.jclouds.driver/jclouds-slf4j@2.4.0
 - pkg:maven/org.apache.jclouds.driver/jclouds-slf4j@2.4.0?classifier=sources
+- pkg:maven/org.apache.jclouds.driver/jclouds-slf4j@2.5.0
+- pkg:maven/org.apache.jclouds.driver/jclouds-slf4j@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.transformer/transformer-maven-plugin@0.4.0
+- pkg:maven/org.eclipse.transformer/transformer-maven-plugin@0.4.0?classifier=sources

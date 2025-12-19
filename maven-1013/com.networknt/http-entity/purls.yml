@@ -14,3 +14,5 @@
 - pkg:maven/com.networknt/http-entity@2.0.31?classifier=sources
 - pkg:maven/com.networknt/http-entity@2.0.32
 - pkg:maven/com.networknt/http-entity@2.0.32?classifier=sources
+- pkg:maven/com.networknt/http-entity@2.1.0
+- pkg:maven/com.networknt/http-entity@2.1.0?classifier=sources

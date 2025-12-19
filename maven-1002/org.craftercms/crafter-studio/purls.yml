@@ -160,3 +160,7 @@
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc1?type=war
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc1E?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc1E?type=war
+- pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2?type=war
+- pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2E?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2E?type=war

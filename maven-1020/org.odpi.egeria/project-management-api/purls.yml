@@ -56,3 +56,7 @@
 - pkg:maven/org.odpi.egeria/project-management-api@3.4?classifier=sources
 - pkg:maven/org.odpi.egeria/project-management-api@3.5
 - pkg:maven/org.odpi.egeria/project-management-api@3.5?classifier=sources
+- pkg:maven/org.odpi.egeria/project-management-api@3.6
+- pkg:maven/org.odpi.egeria/project-management-api@3.6?classifier=sources
+- pkg:maven/org.odpi.egeria/project-management-api@3.7
+- pkg:maven/org.odpi.egeria/project-management-api@3.7?classifier=sources

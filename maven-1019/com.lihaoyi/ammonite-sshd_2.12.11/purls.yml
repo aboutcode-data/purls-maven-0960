@@ -191,4 +191,6 @@
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.11@2.5.1-7-cd989427?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.11@2.5.1?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.11@2.5.2
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.12.11@2.5.2-1-fcc95af4
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.12.11@2.5.2-1-fcc95af4?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.11@2.5.2?classifier=sources

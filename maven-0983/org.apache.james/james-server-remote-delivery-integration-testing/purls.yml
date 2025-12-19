@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.james/james-server-remote-delivery-integration-testing@3.6.0?classifier=sources
 - pkg:maven/org.apache.james/james-server-remote-delivery-integration-testing@3.6.2
 - pkg:maven/org.apache.james/james-server-remote-delivery-integration-testing@3.6.2?classifier=sources
+- pkg:maven/org.apache.james/james-server-remote-delivery-integration-testing@3.7.0
+- pkg:maven/org.apache.james/james-server-remote-delivery-integration-testing@3.7.0?classifier=sources

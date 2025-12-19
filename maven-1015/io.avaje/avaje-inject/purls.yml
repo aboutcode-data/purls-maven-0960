@@ -66,6 +66,10 @@
 - pkg:maven/io.avaje/avaje-inject@5.1?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@5.20
 - pkg:maven/io.avaje/avaje-inject@5.20?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@5.21
+- pkg:maven/io.avaje/avaje-inject@5.21?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@5.22
+- pkg:maven/io.avaje/avaje-inject@5.22?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@5.5
 - pkg:maven/io.avaje/avaje-inject@5.5-RC0
 - pkg:maven/io.avaje/avaje-inject@5.5-RC0?classifier=sources
@@ -119,6 +123,10 @@
 - pkg:maven/io.avaje/avaje-inject@6.2
 - pkg:maven/io.avaje/avaje-inject@6.20
 - pkg:maven/io.avaje/avaje-inject@6.20?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@6.21
+- pkg:maven/io.avaje/avaje-inject@6.21?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@6.22
+- pkg:maven/io.avaje/avaje-inject@6.22?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@6.2?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@6.5
 - pkg:maven/io.avaje/avaje-inject@6.5-RC0
@@ -136,3 +144,7 @@
 - pkg:maven/io.avaje/avaje-inject@6.8?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@6.9
 - pkg:maven/io.avaje/avaje-inject@6.9?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@7.0
+- pkg:maven/io.avaje/avaje-inject@7.0?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.0
+- pkg:maven/io.avaje/avaje-inject@8.0?classifier=sources

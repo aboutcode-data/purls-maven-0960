@@ -124,3 +124,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.2
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.2?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.3
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.3?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.4
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-shell-core@2.9.4?classifier=sources

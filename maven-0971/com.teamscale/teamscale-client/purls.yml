@@ -16,3 +16,5 @@
 - pkg:maven/com.teamscale/teamscale-client@21.9.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-client@22.0.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-client@22.1.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-client@22.2.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-client@23.0.0?classifier=sources

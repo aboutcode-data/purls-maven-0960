@@ -14,3 +14,7 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.16.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.17.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.17.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.18.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.18.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.19.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-persistence-mongodb@1.19.0.Final?classifier=sources

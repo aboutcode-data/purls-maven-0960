@@ -10,3 +10,7 @@
 - pkg:maven/us.ihmc/scs2-simulation@0.3.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@0.4.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@0.5.0?classifier=sources
+- pkg:maven/us.ihmc/scs2-simulation@0.5.1-bullet-alpha-0?classifier=sources
+- pkg:maven/us.ihmc/scs2-simulation@0.5.1-bullet-alpha-1?classifier=sources
+- pkg:maven/us.ihmc/scs2-simulation@0.5.1?classifier=sources
+- pkg:maven/us.ihmc/scs2-simulation@17-0.5.1?classifier=sources

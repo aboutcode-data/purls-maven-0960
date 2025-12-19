@@ -43,5 +43,7 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2.2.7.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2020.0.RC1
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2020.0.RC1?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2021.0.1.0
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2021.0.1.0?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2021.1
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-alibaba-sentinel@2021.1?classifier=sources

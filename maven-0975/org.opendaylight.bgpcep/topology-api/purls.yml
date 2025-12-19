@@ -71,6 +71,8 @@
 - pkg:maven/org.opendaylight.bgpcep/topology-api@0.16.8?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/topology-api@0.16.9
 - pkg:maven/org.opendaylight.bgpcep/topology-api@0.16.9?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/topology-api@0.17.0
+- pkg:maven/org.opendaylight.bgpcep/topology-api@0.17.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/topology-api@0.3.0
 - pkg:maven/org.opendaylight.bgpcep/topology-api@0.3.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/topology-api@0.3.1-Helium

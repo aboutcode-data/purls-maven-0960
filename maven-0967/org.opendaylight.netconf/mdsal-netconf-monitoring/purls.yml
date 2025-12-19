@@ -130,3 +130,5 @@
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@2.0.8
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@2.0.8?classifier=sources
 - pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@2.0.9?classifier=sources
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@3.0.0
+- pkg:maven/org.opendaylight.netconf/mdsal-netconf-monitoring@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.stackspot/stackspot-openapi-plugin@0.1.0?classifier=sources
+- pkg:maven/com.stackspot/stackspot-openapi-plugin@main?classifier=sources

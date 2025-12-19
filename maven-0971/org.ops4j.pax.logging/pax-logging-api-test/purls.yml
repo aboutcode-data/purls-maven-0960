@@ -6,6 +6,7 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.13
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.14
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.15
+- pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.16
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.3
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.4
@@ -16,6 +17,7 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.11.9
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.12.0
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.12.1
+- pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@1.12.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.0
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.1
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.10
@@ -25,6 +27,7 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.14
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.15
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.16
+- pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.17
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.3
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.4
@@ -35,3 +38,4 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.0.9
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.1.0
 - pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.1.1
+- pkg:maven/org.ops4j.pax.logging/pax-logging-api-test@2.1.2

@@ -4,3 +4,5 @@
 - pkg:maven/no.digipost/http-client-builder5@4.0.0-RC2
 - pkg:maven/no.digipost/http-client-builder5@4.0.0-RC2?classifier=sources
 - pkg:maven/no.digipost/http-client-builder5@4.0.0?classifier=sources
+- pkg:maven/no.digipost/http-client-builder5@4.1.0
+- pkg:maven/no.digipost/http-client-builder5@4.1.0?classifier=sources

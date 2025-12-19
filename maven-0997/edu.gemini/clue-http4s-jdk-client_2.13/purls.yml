@@ -26,3 +26,5 @@
 - pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.20.0?classifier=sources
 - pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.20.2
 - pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.20.2?classifier=sources
+- pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.20.3
+- pkg:maven/edu.gemini/clue-http4s-jdk-client_2.13@0.20.3?classifier=sources

@@ -7,6 +7,8 @@
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.1
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.10
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.10?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-api-server@5.0.11
+- pkg:maven/org.cometd.java/cometd-java-api-server@5.0.11?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.1?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.2
 - pkg:maven/org.cometd.java/cometd-java-api-server@5.0.2?classifier=sources
@@ -36,6 +38,8 @@
 - pkg:maven/org.cometd.java/cometd-java-api-server@6.0.4?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@6.0.5
 - pkg:maven/org.cometd.java/cometd-java-api-server@6.0.5?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-api-server@6.0.6
+- pkg:maven/org.cometd.java/cometd-java-api-server@6.0.6?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.0
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.0?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.1
@@ -48,3 +52,5 @@
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.4?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.5
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.5?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-api-server@7.0.6
+- pkg:maven/org.cometd.java/cometd-java-api-server@7.0.6?classifier=sources

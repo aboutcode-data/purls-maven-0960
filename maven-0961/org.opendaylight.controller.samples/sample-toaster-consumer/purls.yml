@@ -169,3 +169,6 @@
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster-consumer@4.0.8?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster-consumer@4.0.9
 - pkg:maven/org.opendaylight.controller.samples/sample-toaster-consumer@4.0.9?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster-consumer@5.0.0
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster-consumer@5.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/sample-toaster-consumer@5.0.1?classifier=sources

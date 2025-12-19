@@ -10,3 +10,5 @@
 - pkg:maven/com.networknt/oauth2-token@1.4.0?classifier=sources
 - pkg:maven/com.networknt/oauth2-token@1.5.4
 - pkg:maven/com.networknt/oauth2-token@1.5.4?classifier=sources
+- pkg:maven/com.networknt/oauth2-token@2.1.0
+- pkg:maven/com.networknt/oauth2-token@2.1.0?classifier=sources

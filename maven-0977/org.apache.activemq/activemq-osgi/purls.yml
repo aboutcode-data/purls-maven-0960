@@ -88,6 +88,8 @@
 - pkg:maven/org.apache.activemq/activemq-osgi@5.16.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.16.4
 - pkg:maven/org.apache.activemq/activemq-osgi@5.16.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-osgi@5.17.0
+- pkg:maven/org.apache.activemq/activemq-osgi@5.17.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.8.0
 - pkg:maven/org.apache.activemq/activemq-osgi@5.8.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-osgi@5.9.0

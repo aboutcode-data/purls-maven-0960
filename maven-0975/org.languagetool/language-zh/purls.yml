@@ -1,3 +1,5 @@
+- pkg:maven/org.languagetool/language-zh@%24%257Brevision%257D
+- pkg:maven/org.languagetool/language-zh@%24%257Brevision%257D?classifier=sources
 - pkg:maven/org.languagetool/language-zh@2.1
 - pkg:maven/org.languagetool/language-zh@2.1?classifier=sources
 - pkg:maven/org.languagetool/language-zh@2.2
@@ -70,3 +72,5 @@
 - pkg:maven/org.languagetool/language-zh@5.5?classifier=sources
 - pkg:maven/org.languagetool/language-zh@5.6
 - pkg:maven/org.languagetool/language-zh@5.6?classifier=sources
+- pkg:maven/org.languagetool/language-zh@5.7
+- pkg:maven/org.languagetool/language-zh@5.7?classifier=sources

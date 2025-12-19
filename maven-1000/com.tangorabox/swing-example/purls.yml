@@ -10,3 +10,7 @@
 - pkg:maven/com.tangorabox/swing-example@1.0.2-java8?classifier=sources
 - pkg:maven/com.tangorabox/swing-example@1.0.2?classifier=sources
 - pkg:maven/com.tangorabox/swing-example@1.0?classifier=sources
+- pkg:maven/com.tangorabox/swing-example@1.1.0
+- pkg:maven/com.tangorabox/swing-example@1.1.0-java8
+- pkg:maven/com.tangorabox/swing-example@1.1.0-java8?classifier=sources
+- pkg:maven/com.tangorabox/swing-example@1.1.0?classifier=sources

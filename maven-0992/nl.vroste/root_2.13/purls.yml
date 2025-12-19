@@ -6,5 +6,9 @@
 - pkg:maven/nl.vroste/root_2.13@0.20.0?classifier=sources
 - pkg:maven/nl.vroste/root_2.13@0.21.0
 - pkg:maven/nl.vroste/root_2.13@0.21.0?classifier=sources
+- pkg:maven/nl.vroste/root_2.13@0.21.1
+- pkg:maven/nl.vroste/root_2.13@0.21.1?classifier=sources
+- pkg:maven/nl.vroste/root_2.13@0.21.2
+- pkg:maven/nl.vroste/root_2.13@0.21.2?classifier=sources
 - pkg:maven/nl.vroste/root_2.13@5dd51766a6de8d3233c1846ad75deb185e05b8a0
 - pkg:maven/nl.vroste/root_2.13@5dd51766a6de8d3233c1846ad75deb185e05b8a0?classifier=sources

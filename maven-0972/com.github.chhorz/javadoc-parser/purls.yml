@@ -4,3 +4,5 @@
 - pkg:maven/com.github.chhorz/javadoc-parser@0.1.0.M3
 - pkg:maven/com.github.chhorz/javadoc-parser@0.1.0.M3?classifier=sources
 - pkg:maven/com.github.chhorz/javadoc-parser@0.1.0?classifier=sources
+- pkg:maven/com.github.chhorz/javadoc-parser@0.1.1
+- pkg:maven/com.github.chhorz/javadoc-parser@0.1.1?classifier=sources

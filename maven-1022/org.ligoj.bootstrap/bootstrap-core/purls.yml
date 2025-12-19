@@ -89,6 +89,8 @@
 - pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.0
 - pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.0?classifier=sources
 - pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.1
+- pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.10
+- pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.10?classifier=sources
 - pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.1?classifier=sources
 - pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.2
 - pkg:maven/org.ligoj.bootstrap/bootstrap-core@2.8.2?classifier=sources

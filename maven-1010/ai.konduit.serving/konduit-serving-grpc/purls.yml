@@ -1,2 +1,4 @@
+- pkg:maven/ai.konduit.serving/konduit-serving-grpc@0.0.2
+- pkg:maven/ai.konduit.serving/konduit-serving-grpc@0.0.2?classifier=sources
 - pkg:maven/ai.konduit.serving/konduit-serving-grpc@0.1.0
 - pkg:maven/ai.konduit.serving/konduit-serving-grpc@0.1.0?classifier=sources

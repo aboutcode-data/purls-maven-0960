@@ -1,2 +1,9 @@
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.132?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.135?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.137?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.180?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.185?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.237?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.240?classifier=sources
 - pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.62?classifier=sources
 - pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.5.0.85?classifier=sources

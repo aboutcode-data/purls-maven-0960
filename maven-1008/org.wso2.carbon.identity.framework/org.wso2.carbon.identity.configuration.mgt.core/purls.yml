@@ -1120,6 +1120,12 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.240?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.241
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.241?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.242
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.242?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.243
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.243?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.244
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.244?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.24?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.25
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.18.25?classifier=sources
@@ -1896,6 +1902,14 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.32
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.320
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.320?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.321
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.321?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.322
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.322?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.323
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.323?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.324
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.324?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.32?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.33
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.configuration.mgt.core@5.20.33?classifier=sources
