@@ -1,2 +1,4 @@
+- pkg:maven/com.twitter/util-validator-constraints_2.13@22.12.0
+- pkg:maven/com.twitter/util-validator-constraints_2.13@22.12.0?classifier=sources
 - pkg:maven/com.twitter/util-validator-constraints_2.13@22.7.0
 - pkg:maven/com.twitter/util-validator-constraints_2.13@22.7.0?classifier=sources

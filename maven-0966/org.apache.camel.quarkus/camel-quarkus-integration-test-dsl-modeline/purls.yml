@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-dsl-modeline@2.14.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-dsl-modeline@2.14.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-dsl-modeline@2.15.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-dsl-modeline@2.15.0?classifier=sources

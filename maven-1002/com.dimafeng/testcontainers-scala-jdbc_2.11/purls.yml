@@ -63,6 +63,8 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.10?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.11
 - pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.11?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.12
+- pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.12?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.1?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.2
 - pkg:maven/com.dimafeng/testcontainers-scala-jdbc_2.11@0.40.2?classifier=sources

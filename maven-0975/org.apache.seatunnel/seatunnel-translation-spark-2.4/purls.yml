@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.seatunnel/seatunnel-translation-spark-2.4@2.2.0-beta
 - pkg:maven/org.apache.seatunnel/seatunnel-translation-spark-2.4@2.2.0-beta?classifier=sources
+- pkg:maven/org.apache.seatunnel/seatunnel-translation-spark-2.4@2.3.0
 - pkg:maven/org.apache.seatunnel/seatunnel-translation-spark-2.4@2.3.0-beta
 - pkg:maven/org.apache.seatunnel/seatunnel-translation-spark-2.4@2.3.0-beta?classifier=sources
+- pkg:maven/org.apache.seatunnel/seatunnel-translation-spark-2.4@2.3.0?classifier=sources

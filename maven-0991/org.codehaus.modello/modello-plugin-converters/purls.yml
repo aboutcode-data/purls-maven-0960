@@ -60,3 +60,5 @@
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@1.9.1?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@2.0.0
 - pkg:maven/org.codehaus.modello/modello-plugin-converters@2.0.0?classifier=sources
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@2.1.0
+- pkg:maven/org.codehaus.modello/modello-plugin-converters@2.1.0?classifier=sources

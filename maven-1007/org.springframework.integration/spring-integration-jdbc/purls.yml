@@ -304,6 +304,8 @@
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.14?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.15
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.15?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.16
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.16?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.1?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.2
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.2?classifier=sources
@@ -323,3 +325,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@5.5.9?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@6.0.0
 - pkg:maven/org.springframework.integration/spring-integration-jdbc@6.0.0?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@6.0.1
+- pkg:maven/org.springframework.integration/spring-integration-jdbc@6.0.1?classifier=sources

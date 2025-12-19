@@ -19,3 +19,7 @@
 - pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.17.7-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.17.8-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.17.9-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.18.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.19.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.19.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/elasticsearchservice-jvm@0.19.2-beta?classifier=sources

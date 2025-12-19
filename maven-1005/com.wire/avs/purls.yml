@@ -78,9 +78,17 @@
 - pkg:maven/com.wire/avs@8.2.16?type=aar
 - pkg:maven/com.wire/avs@8.2.1?classifier=sources
 - pkg:maven/com.wire/avs@8.2.1?type=aar
+- pkg:maven/com.wire/avs@8.2.28?classifier=sources
+- pkg:maven/com.wire/avs@8.2.28?type=aar
+- pkg:maven/com.wire/avs@8.2.29?classifier=sources
+- pkg:maven/com.wire/avs@8.2.29?type=aar
+- pkg:maven/com.wire/avs@8.2.30?classifier=sources
+- pkg:maven/com.wire/avs@8.2.30?type=aar
 - pkg:maven/com.wire/avs@8.2.4?classifier=sources
 - pkg:maven/com.wire/avs@8.2.4?type=aar
 - pkg:maven/com.wire/avs@8.2.5?classifier=sources
 - pkg:maven/com.wire/avs@8.2.5?type=aar
 - pkg:maven/com.wire/avs@8.2.9?classifier=sources
 - pkg:maven/com.wire/avs@8.2.9?type=aar
+- pkg:maven/com.wire/avs@9.0.1?classifier=sources
+- pkg:maven/com.wire/avs@9.0.1?type=aar

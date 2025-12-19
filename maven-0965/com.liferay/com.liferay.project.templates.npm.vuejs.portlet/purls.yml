@@ -216,6 +216,12 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.176
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.176?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.176?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.177
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.177?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.177?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.178
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.178?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.178?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.npm.vuejs.portlet@1.0.18

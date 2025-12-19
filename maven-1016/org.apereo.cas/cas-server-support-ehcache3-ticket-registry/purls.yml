@@ -73,5 +73,6 @@
 - pkg:maven/org.apereo.cas/cas-server-support-ehcache3-ticket-registry@6.6.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-ehcache3-ticket-registry@6.6.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-ehcache3-ticket-registry@6.6.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-ehcache3-ticket-registry@6.6.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-ehcache3-ticket-registry@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-ehcache3-ticket-registry@v6.4.0-RC6?classifier=sources

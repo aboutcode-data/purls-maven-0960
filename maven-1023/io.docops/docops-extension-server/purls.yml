@@ -11,6 +11,10 @@
 - pkg:maven/io.docops/docops-extension-server@2022.13?classifier=sources
 - pkg:maven/io.docops/docops-extension-server@2022.14
 - pkg:maven/io.docops/docops-extension-server@2022.14?classifier=sources
+- pkg:maven/io.docops/docops-extension-server@2022.15
+- pkg:maven/io.docops/docops-extension-server@2022.15?classifier=sources
+- pkg:maven/io.docops/docops-extension-server@2022.16
+- pkg:maven/io.docops/docops-extension-server@2022.16?classifier=sources
 - pkg:maven/io.docops/docops-extension-server@2022.1?classifier=sources
 - pkg:maven/io.docops/docops-extension-server@2022.2
 - pkg:maven/io.docops/docops-extension-server@2022.2?classifier=sources

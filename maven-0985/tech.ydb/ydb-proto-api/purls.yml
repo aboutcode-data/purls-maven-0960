@@ -2,3 +2,5 @@
 - pkg:maven/tech.ydb/ydb-proto-api@1.2.2?classifier=sources
 - pkg:maven/tech.ydb/ydb-proto-api@1.3.0
 - pkg:maven/tech.ydb/ydb-proto-api@1.3.0?classifier=sources
+- pkg:maven/tech.ydb/ydb-proto-api@1.3.1
+- pkg:maven/tech.ydb/ydb-proto-api@1.3.1?classifier=sources

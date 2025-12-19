@@ -128,6 +128,9 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.50
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.51
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.51?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.6
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@2.0.6?classifier=sources
@@ -646,6 +649,9 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.4
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.40
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.css.web@6.0.5

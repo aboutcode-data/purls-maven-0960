@@ -1,2 +1,4 @@
 - pkg:maven/org.lealone.plugins/lealone-tomcat@5.0.0
 - pkg:maven/org.lealone.plugins/lealone-tomcat@5.0.0?classifier=sources
+- pkg:maven/org.lealone.plugins/lealone-tomcat@5.1.0
+- pkg:maven/org.lealone.plugins/lealone-tomcat@5.1.0?classifier=sources

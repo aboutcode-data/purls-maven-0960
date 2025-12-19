@@ -29,6 +29,8 @@
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.21?classifier=sources
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.22
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.22?classifier=sources
+- pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.23
+- pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.23?classifier=sources
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.2?classifier=sources
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.5
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.5?classifier=sources

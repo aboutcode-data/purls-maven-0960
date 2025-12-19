@@ -240,3 +240,5 @@
 - pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/org.wso2.carbon.identity.workflow.impl.ui@5.5.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/org.wso2.carbon.identity.workflow.impl.ui@5.5.3
 - pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/org.wso2.carbon.identity.workflow.impl.ui@5.5.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/org.wso2.carbon.identity.workflow.impl.ui@5.5.4
+- pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/org.wso2.carbon.identity.workflow.impl.ui@5.5.4?classifier=sources

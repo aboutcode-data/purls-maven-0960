@@ -1,2 +1,4 @@
 - pkg:maven/org.restheart/restheart-mongoclient-provider@7.0.0
 - pkg:maven/org.restheart/restheart-mongoclient-provider@7.0.0?classifier=sources
+- pkg:maven/org.restheart/restheart-mongoclient-provider@7.1.0
+- pkg:maven/org.restheart/restheart-mongoclient-provider@7.1.0?classifier=sources

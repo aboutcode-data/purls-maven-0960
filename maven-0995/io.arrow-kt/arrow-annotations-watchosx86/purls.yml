@@ -108,7 +108,11 @@
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.14?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.15?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.16?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.17?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.18?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.19?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.1?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.20?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.2?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.3?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.4?classifier=sources
@@ -117,3 +121,6 @@
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.7?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.8?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-alpha.9?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-rc.2?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.4-rc.3?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-annotations-watchosx86@1.1.5-alpha.1?classifier=sources

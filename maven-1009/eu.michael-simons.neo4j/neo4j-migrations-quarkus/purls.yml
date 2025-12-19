@@ -18,6 +18,10 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.14.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.15.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.15.0?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.15.1
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.15.1?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.15.2
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.15.2?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.2.2
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.2.2?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.2.3
@@ -66,3 +70,9 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.9.1?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.9.2
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.9.2?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@2.0.0
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@2.0.0?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@2.0.1
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@2.0.1?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@2.0.2
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@2.0.2?classifier=sources

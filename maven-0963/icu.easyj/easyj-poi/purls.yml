@@ -102,4 +102,6 @@
 - pkg:maven/icu.easyj/easyj-poi@0.7.4
 - pkg:maven/icu.easyj/easyj-poi@0.7.4?classifier=sources
 - pkg:maven/icu.easyj/easyj-poi@0.7.5
+- pkg:maven/icu.easyj/easyj-poi@0.7.5-for-springboot3
+- pkg:maven/icu.easyj/easyj-poi@0.7.5-for-springboot3?classifier=sources
 - pkg:maven/icu.easyj/easyj-poi@0.7.5?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/com.twitter/util-slf4j-api_3@21.9.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-api_3@22.1.0
 - pkg:maven/com.twitter/util-slf4j-api_3@22.1.0?classifier=sources
+- pkg:maven/com.twitter/util-slf4j-api_3@22.12.0
+- pkg:maven/com.twitter/util-slf4j-api_3@22.12.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-api_3@22.2.0
 - pkg:maven/com.twitter/util-slf4j-api_3@22.2.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-api_3@22.3.0

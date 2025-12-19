@@ -54,6 +54,8 @@
 - pkg:maven/io.github.hashiprobr/nfp-rest@3.12.2?classifier=sources
 - pkg:maven/io.github.hashiprobr/nfp-rest@3.12.3
 - pkg:maven/io.github.hashiprobr/nfp-rest@3.12.3?classifier=sources
+- pkg:maven/io.github.hashiprobr/nfp-rest@3.16.3
+- pkg:maven/io.github.hashiprobr/nfp-rest@3.16.3?classifier=sources
 - pkg:maven/io.github.hashiprobr/nfp-rest@3.2.3
 - pkg:maven/io.github.hashiprobr/nfp-rest@3.2.3?classifier=sources
 - pkg:maven/io.github.hashiprobr/nfp-rest@3.3.3

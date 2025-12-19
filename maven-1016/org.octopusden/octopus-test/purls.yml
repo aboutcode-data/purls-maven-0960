@@ -1,2 +1,15 @@
+- pkg:maven/org.octopusden/octopus-test@%24ver?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@0.0.8?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@1.6.1?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.0?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.10?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.11?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.12?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.13?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.14?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.15?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.5?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.6?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.7?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.8?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.0.9?classifier=sources

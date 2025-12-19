@@ -80,3 +80,7 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.0.0-java8
 - pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.0.0-java8?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.0.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.1.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.1.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.1.1
+- pkg:maven/net.n2oapp.platform/n2o-platform-initializr@5.1.1?classifier=sources

@@ -130,3 +130,6 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.web@5.0.7
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.web@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.web@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.web@5.0.8
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.web@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.web@5.0.8?classifier=sources-commercial

@@ -206,6 +206,8 @@
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.24.9?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.25.0
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.25.0?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.26.0
+- pkg:maven/org.kill-bill.commons/killbill-concurrent@0.26.0?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.3
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.3?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-concurrent@0.4

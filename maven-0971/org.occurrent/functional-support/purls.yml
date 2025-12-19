@@ -32,6 +32,10 @@
 - pkg:maven/org.occurrent/functional-support@0.14.9?classifier=sources
 - pkg:maven/org.occurrent/functional-support@0.15.0
 - pkg:maven/org.occurrent/functional-support@0.15.0?classifier=sources
+- pkg:maven/org.occurrent/functional-support@0.15.1
+- pkg:maven/org.occurrent/functional-support@0.15.1?classifier=sources
+- pkg:maven/org.occurrent/functional-support@0.16.0
+- pkg:maven/org.occurrent/functional-support@0.16.0?classifier=sources
 - pkg:maven/org.occurrent/functional-support@0.2.0
 - pkg:maven/org.occurrent/functional-support@0.2.0?classifier=sources
 - pkg:maven/org.occurrent/functional-support@0.2.1

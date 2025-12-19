@@ -84,11 +84,15 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.6
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.7?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.8?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.2?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.3
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.3?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.4
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.4?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.5?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.1-Boron-SR1

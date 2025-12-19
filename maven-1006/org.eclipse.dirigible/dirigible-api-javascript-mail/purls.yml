@@ -275,8 +275,14 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.27?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.28
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.28?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.29
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.29?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.3
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.30
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.30?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.31
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.31?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.3?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.4
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.4?classifier=sources
@@ -290,3 +296,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.8?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.9
 - pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@6.3.9?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-javascript-mail@7.0.0?classifier=sources

@@ -265,6 +265,10 @@
 - pkg:maven/com.vaadin/vaadin@14.9.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin@14.9.2
 - pkg:maven/com.vaadin/vaadin@14.9.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin@14.9.3
+- pkg:maven/com.vaadin/vaadin@14.9.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin@14.9.4
+- pkg:maven/com.vaadin/vaadin@14.9.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin@15.0.0
 - pkg:maven/com.vaadin/vaadin@15.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin@15.0.1
@@ -420,6 +424,10 @@
 - pkg:maven/com.vaadin/vaadin@22.0.23?classifier=sources
 - pkg:maven/com.vaadin/vaadin@22.0.24
 - pkg:maven/com.vaadin/vaadin@22.0.24?classifier=sources
+- pkg:maven/com.vaadin/vaadin@22.0.25
+- pkg:maven/com.vaadin/vaadin@22.0.25?classifier=sources
+- pkg:maven/com.vaadin/vaadin@22.0.26
+- pkg:maven/com.vaadin/vaadin@22.0.26?classifier=sources
 - pkg:maven/com.vaadin/vaadin@22.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin@22.0.3
 - pkg:maven/com.vaadin/vaadin@22.0.3?classifier=sources
@@ -508,6 +516,10 @@
 - pkg:maven/com.vaadin/vaadin@23.2.1
 - pkg:maven/com.vaadin/vaadin@23.2.10
 - pkg:maven/com.vaadin/vaadin@23.2.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin@23.2.11
+- pkg:maven/com.vaadin/vaadin@23.2.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin@23.2.12
+- pkg:maven/com.vaadin/vaadin@23.2.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin@23.2.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin@23.2.2
 - pkg:maven/com.vaadin/vaadin@23.2.2?classifier=sources
@@ -525,6 +537,12 @@
 - pkg:maven/com.vaadin/vaadin@23.2.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin@23.2.9
 - pkg:maven/com.vaadin/vaadin@23.2.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin@23.3.0
+- pkg:maven/com.vaadin/vaadin@23.3.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin@23.3.1
+- pkg:maven/com.vaadin/vaadin@23.3.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin@23.3.2
+- pkg:maven/com.vaadin/vaadin@23.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin@6.0.0
 - pkg:maven/com.vaadin/vaadin@6.0.1
 - pkg:maven/com.vaadin/vaadin@6.1.0

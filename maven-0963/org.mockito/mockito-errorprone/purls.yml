@@ -75,6 +75,8 @@
 - pkg:maven/org.mockito/mockito-errorprone@3.9.0?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.0.0?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.1.0?classifier=sources
+- pkg:maven/org.mockito/mockito-errorprone@4.10.0?classifier=sources
+- pkg:maven/org.mockito/mockito-errorprone@4.11.0?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.2.0?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.3.0?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.3.1?classifier=sources

@@ -68,6 +68,8 @@
 - pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.26.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.27.0
 - pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.27.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.27.1
+- pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.27.1?classifier=sources
 - pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.3.0
 - pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.failover/ha-policy-autobackup@2.4.0

@@ -230,10 +230,15 @@
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.13.3.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.13.4.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.13.5.Final
+- pkg:maven/io.quarkus/quarkus-artemis-jms@2.13.6.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.14.0.CR1
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.14.0.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.14.1.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.14.2.Final
+- pkg:maven/io.quarkus/quarkus-artemis-jms@2.14.3.Final
+- pkg:maven/io.quarkus/quarkus-artemis-jms@2.15.0.CR1
+- pkg:maven/io.quarkus/quarkus-artemis-jms@2.15.0.Final
+- pkg:maven/io.quarkus/quarkus-artemis-jms@2.15.1.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.2.0.Final
@@ -297,3 +302,4 @@
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.9.1.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@2.9.2.Final
 - pkg:maven/io.quarkus/quarkus-artemis-jms@3.0.0.Alpha1
+- pkg:maven/io.quarkus/quarkus-artemis-jms@3.0.0.Alpha2

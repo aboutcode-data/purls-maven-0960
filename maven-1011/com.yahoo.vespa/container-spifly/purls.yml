@@ -1,3 +1,11 @@
+- pkg:maven/com.yahoo.vespa/container-spifly@8.100.20
+- pkg:maven/com.yahoo.vespa/container-spifly@8.100.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-spifly@8.101.28
+- pkg:maven/com.yahoo.vespa/container-spifly@8.101.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-spifly@8.102.12
+- pkg:maven/com.yahoo.vespa/container-spifly@8.102.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-spifly@8.103.41
+- pkg:maven/com.yahoo.vespa/container-spifly@8.103.41?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-spifly@8.11.15
 - pkg:maven/com.yahoo.vespa/container-spifly@8.11.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-spifly@8.12.48
@@ -130,3 +138,9 @@
 - pkg:maven/com.yahoo.vespa/container-spifly@8.89.6?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-spifly@8.90.59
 - pkg:maven/com.yahoo.vespa/container-spifly@8.90.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-spifly@8.91.2
+- pkg:maven/com.yahoo.vespa/container-spifly@8.91.2?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-spifly@8.98.34
+- pkg:maven/com.yahoo.vespa/container-spifly@8.98.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-spifly@8.99.32
+- pkg:maven/com.yahoo.vespa/container-spifly@8.99.32?classifier=sources

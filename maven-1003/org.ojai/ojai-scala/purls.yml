@@ -11,4 +11,10 @@
 - pkg:maven/org.ojai/ojai-scala@3.1.1-mapr
 - pkg:maven/org.ojai/ojai-scala@3.1.1-mapr?classifier=sources
 - pkg:maven/org.ojai/ojai-scala@3.1.1?classifier=sources
+- pkg:maven/org.ojai/ojai-scala@3.1.2
+- pkg:maven/org.ojai/ojai-scala@3.1.2-mapr
+- pkg:maven/org.ojai/ojai-scala@3.1.2-mapr?classifier=sources
+- pkg:maven/org.ojai/ojai-scala@3.1.2?classifier=sources
 - pkg:maven/org.ojai/ojai-scala@3.1?classifier=sources
+- pkg:maven/org.ojai/ojai-scala@3.2.0
+- pkg:maven/org.ojai/ojai-scala@3.2.0?classifier=sources

@@ -179,6 +179,8 @@
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.13.4.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.13.5.Final
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.13.5.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.13.6.Final
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.13.6.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.0.CR1
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.0.Final
@@ -187,6 +189,14 @@
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.2.Final
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.3.Final
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.14.3.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.15.0.CR1
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.15.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.15.0.Final
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.15.0.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.15.1.Final
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.15.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.2.0.Final
@@ -273,3 +283,5 @@
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@2.9.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@3.0.0.Alpha1
 - pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@3.0.0.Alpha1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@3.0.0.Alpha2
+- pkg:maven/io.quarkus/quarkus-google-cloud-functions-http-deployment@3.0.0.Alpha2?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.knowm.xchange/xchange-stream-core@5.0.8?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-stream-core@5.0.9
 - pkg:maven/org.knowm.xchange/xchange-stream-core@5.0.9?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-stream-core@5.1.0
+- pkg:maven/org.knowm.xchange/xchange-stream-core@5.1.0?classifier=sources

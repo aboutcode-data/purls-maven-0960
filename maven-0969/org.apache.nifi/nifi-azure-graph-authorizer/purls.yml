@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.nifi/nifi-azure-graph-authorizer@1.18.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-azure-graph-authorizer@1.19.0
 - pkg:maven/org.apache.nifi/nifi-azure-graph-authorizer@1.19.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-azure-graph-authorizer@1.19.1
+- pkg:maven/org.apache.nifi/nifi-azure-graph-authorizer@1.19.1?classifier=sources

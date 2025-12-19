@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.iotdb/external-pipe-api@0.14.0-preview2?classifier=sources
 - pkg:maven/org.apache.iotdb/external-pipe-api@0.14.0-preview3
 - pkg:maven/org.apache.iotdb/external-pipe-api@0.14.0-preview3?classifier=sources
+- pkg:maven/org.apache.iotdb/external-pipe-api@1.0.0
+- pkg:maven/org.apache.iotdb/external-pipe-api@1.0.0?classifier=sources

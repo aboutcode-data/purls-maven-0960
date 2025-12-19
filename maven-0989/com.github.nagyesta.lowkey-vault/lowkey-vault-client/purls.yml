@@ -44,6 +44,9 @@
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.13.1?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.13.23?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.13.33?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.13.38?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.14.0?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.14.12?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.2.0?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.2.11?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-client@1.2.2?classifier=sources

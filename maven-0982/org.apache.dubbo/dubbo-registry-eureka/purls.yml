@@ -16,6 +16,10 @@
 - pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.17?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.18
 - pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.18?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.19
+- pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.19?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.20
+- pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.20?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.5
 - pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.5?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-registry-eureka@2.7.6

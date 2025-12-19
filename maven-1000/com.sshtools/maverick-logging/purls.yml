@@ -18,6 +18,8 @@
 - pkg:maven/com.sshtools/maverick-logging@3.0.0-RC8?classifier=sources
 - pkg:maven/com.sshtools/maverick-logging@3.0.1-FINAL
 - pkg:maven/com.sshtools/maverick-logging@3.0.1-FINAL?classifier=sources
+- pkg:maven/com.sshtools/maverick-logging@3.0.10
+- pkg:maven/com.sshtools/maverick-logging@3.0.10?classifier=sources
 - pkg:maven/com.sshtools/maverick-logging@3.0.2-FINAL
 - pkg:maven/com.sshtools/maverick-logging@3.0.2-FINAL?classifier=sources
 - pkg:maven/com.sshtools/maverick-logging@3.0.3-FINAL

@@ -60,3 +60,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-workflow-executions-v1@2.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-workflow-executions-v1@2.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-workflow-executions-v1@2.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-workflow-executions-v1@2.7.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-workflow-executions-v1@2.7.0?classifier=sources

@@ -74,3 +74,7 @@
 - pkg:maven/com.cognitect.aws/lambda@822.2.1145.0?classifier=sources
 - pkg:maven/com.cognitect.aws/lambda@822.2.1205.0
 - pkg:maven/com.cognitect.aws/lambda@822.2.1205.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@825.2.1262.0
+- pkg:maven/com.cognitect.aws/lambda@825.2.1262.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@825.2.1263.0
+- pkg:maven/com.cognitect.aws/lambda@825.2.1263.0?classifier=sources

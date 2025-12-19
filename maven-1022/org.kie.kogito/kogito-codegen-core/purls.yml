@@ -54,6 +54,10 @@
 - pkg:maven/org.kie.kogito/kogito-codegen-core@1.30.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-core@1.31.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-core@1.31.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-codegen-core@1.31.1.Final
+- pkg:maven/org.kie.kogito/kogito-codegen-core@1.31.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-codegen-core@1.32.0.Final
+- pkg:maven/org.kie.kogito/kogito-codegen-core@1.32.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-core@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen-core@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen-core@1.4.1.Final

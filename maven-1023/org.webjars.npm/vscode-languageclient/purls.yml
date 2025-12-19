@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/vscode-languageclient@2.5.0
 - pkg:maven/org.webjars.npm/vscode-languageclient@2.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/vscode-languageclient@7.0.0
+- pkg:maven/org.webjars.npm/vscode-languageclient@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/vscode-languageclient@8.0.0-next.9
+- pkg:maven/org.webjars.npm/vscode-languageclient@8.0.0-next.9?classifier=sources

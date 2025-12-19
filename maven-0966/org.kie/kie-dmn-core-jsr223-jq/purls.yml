@@ -34,3 +34,7 @@
 - pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.30.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.31.0.Final
 - pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.31.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.31.1.Final
+- pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.31.1.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.32.0.Final
+- pkg:maven/org.kie/kie-dmn-core-jsr223-jq@8.32.0.Final?classifier=sources

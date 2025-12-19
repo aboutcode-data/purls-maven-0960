@@ -24,5 +24,7 @@
 - pkg:maven/io.apiman/apiman-gateway-engine-filesystem@2.2.2.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-engine-filesystem@2.2.3.Final
 - pkg:maven/io.apiman/apiman-gateway-engine-filesystem@2.2.3.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-engine-filesystem@3.0.0.Final
+- pkg:maven/io.apiman/apiman-gateway-engine-filesystem@3.0.0.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-engine-filesystem@3.0.0.RC6
 - pkg:maven/io.apiman/apiman-gateway-engine-filesystem@3.0.0.RC6?classifier=sources

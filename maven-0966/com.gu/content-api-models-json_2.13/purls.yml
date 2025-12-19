@@ -100,3 +100,9 @@
 - pkg:maven/com.gu/content-api-models-json_2.13@17.4.0-beta.0
 - pkg:maven/com.gu/content-api-models-json_2.13@17.4.0-beta.0?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@17.4.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@17.4.2
+- pkg:maven/com.gu/content-api-models-json_2.13@17.4.2?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@17.5.0-beta.0
+- pkg:maven/com.gu/content-api-models-json_2.13@17.5.0-beta.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@17.6.0-beta.0
+- pkg:maven/com.gu/content-api-models-json_2.13@17.6.0-beta.0?classifier=sources

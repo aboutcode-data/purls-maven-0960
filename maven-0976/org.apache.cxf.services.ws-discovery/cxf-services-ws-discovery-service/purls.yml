@@ -173,6 +173,8 @@
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.0
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.0?classifier=sources
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.1
+- pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.10
+- pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.10?classifier=sources
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.1?classifier=sources
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.2
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.4.2?classifier=sources
@@ -200,3 +202,7 @@
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.5.3?classifier=sources
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.5.4
 - pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.5.4?classifier=sources
+- pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.5.5
+- pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@3.5.5?classifier=sources
+- pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@4.0.0
+- pkg:maven/org.apache.cxf.services.ws-discovery/cxf-services-ws-discovery-service@4.0.0?classifier=sources

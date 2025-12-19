@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.shardingsphere/shardingsphere-cluster-mode-repository-consul@5.2.1
 - pkg:maven/org.apache.shardingsphere/shardingsphere-cluster-mode-repository-consul@5.2.1?classifier=sources
+- pkg:maven/org.apache.shardingsphere/shardingsphere-cluster-mode-repository-consul@5.3.0
+- pkg:maven/org.apache.shardingsphere/shardingsphere-cluster-mode-repository-consul@5.3.0?classifier=sources

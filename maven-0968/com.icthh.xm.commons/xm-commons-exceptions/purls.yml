@@ -197,6 +197,12 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.21?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.22
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.22?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.23
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.23?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.24
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.24?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.25
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.25?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.4
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@2.2.4?classifier=sources
@@ -214,3 +220,5 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@3.0.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@3.0.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@3.0.4?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@3.0.6?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-exceptions@3.0.7?classifier=sources

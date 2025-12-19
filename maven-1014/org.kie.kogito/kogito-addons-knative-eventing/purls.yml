@@ -50,3 +50,7 @@
 - pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.30.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.31.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.31.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.31.1.Final
+- pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.31.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.32.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-knative-eventing@1.32.0.Final?classifier=sources

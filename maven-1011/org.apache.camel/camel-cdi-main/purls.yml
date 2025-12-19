@@ -12,5 +12,9 @@
 - pkg:maven/org.apache.camel/camel-cdi-main@3.18.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-cdi-main@3.18.3
 - pkg:maven/org.apache.camel/camel-cdi-main@3.18.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-cdi-main@3.18.4
+- pkg:maven/org.apache.camel/camel-cdi-main@3.18.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-cdi-main@3.19.0
 - pkg:maven/org.apache.camel/camel-cdi-main@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-cdi-main@3.20.0
+- pkg:maven/org.apache.camel/camel-cdi-main@3.20.0?classifier=sources

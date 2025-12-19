@@ -14,3 +14,5 @@
 - pkg:maven/com.rabbitmq/stream-client@0.7.0?classifier=sources
 - pkg:maven/com.rabbitmq/stream-client@0.8.0
 - pkg:maven/com.rabbitmq/stream-client@0.8.0?classifier=sources
+- pkg:maven/com.rabbitmq/stream-client@0.9.0
+- pkg:maven/com.rabbitmq/stream-client@0.9.0?classifier=sources

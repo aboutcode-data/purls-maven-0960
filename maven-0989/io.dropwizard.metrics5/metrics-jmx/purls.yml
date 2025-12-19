@@ -8,6 +8,10 @@
 - pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc12?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc13
 - pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc13?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc14
+- pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc14?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc15
+- pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc15?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc1?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc2
 - pkg:maven/io.dropwizard.metrics5/metrics-jmx@5.0.0-rc2?classifier=sources

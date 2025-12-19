@@ -1,4 +1,6 @@
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.14
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.14?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.15
+- pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.15?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.4
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.4?classifier=sources

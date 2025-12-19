@@ -46,3 +46,7 @@
 - pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@12.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@12.5
 - pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@12.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@12.6
+- pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@12.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@13.0
+- pkg:maven/org.opencastproject/opencast-analyze-mediapackage-workflowoperation@13.0?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.4.4-ll-20210726.01?classifier=sources
 - pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.4.5-ll-20211004.01
 - pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.4.5-ll-20211004.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.4.6-ll-20221127.01
+- pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.4.6-ll-20221127.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.5-ll-20221127.01
+- pkg:maven/co.luminositylabs.payara.arquillian/arquillian-payara-server-embedded@2.5-ll-20221127.01?classifier=sources

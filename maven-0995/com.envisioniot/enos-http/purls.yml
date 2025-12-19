@@ -18,3 +18,5 @@
 - pkg:maven/com.envisioniot/enos-http@0.2.0?classifier=sources
 - pkg:maven/com.envisioniot/enos-http@0.2.1
 - pkg:maven/com.envisioniot/enos-http@0.2.1?classifier=sources
+- pkg:maven/com.envisioniot/enos-http@2.4.0
+- pkg:maven/com.envisioniot/enos-http@2.4.0?classifier=sources

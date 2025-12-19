@@ -74,6 +74,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.17.6?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.17.7
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.17.7?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.17.8
+- pkg:maven/org.elasticsearch/elasticsearch-geo@7.17.8?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@7.2.1
@@ -170,3 +172,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.5.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.5.2
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.5.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.5.3
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.5.3?classifier=sources

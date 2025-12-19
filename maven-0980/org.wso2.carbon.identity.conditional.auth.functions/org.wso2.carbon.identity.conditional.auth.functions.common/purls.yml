@@ -103,6 +103,10 @@
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.14?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.15
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.16
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.16?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.18
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.18?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.1?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.2
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.common@1.2.2?classifier=sources

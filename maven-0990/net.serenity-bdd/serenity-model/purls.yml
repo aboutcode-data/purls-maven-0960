@@ -446,3 +446,7 @@
 - pkg:maven/net.serenity-bdd/serenity-model@3.4.2?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-model@3.4.3
 - pkg:maven/net.serenity-bdd/serenity-model@3.4.3?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-model@3.5.0
+- pkg:maven/net.serenity-bdd/serenity-model@3.5.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-model@3.5.1
+- pkg:maven/net.serenity-bdd/serenity-model@3.5.1?classifier=sources

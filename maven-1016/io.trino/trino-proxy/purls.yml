@@ -51,3 +51,4 @@
 - pkg:maven/io.trino/trino-proxy@401?classifier=sources
 - pkg:maven/io.trino/trino-proxy@402?classifier=sources
 - pkg:maven/io.trino/trino-proxy@403?classifier=sources
+- pkg:maven/io.trino/trino-proxy@405?classifier=sources

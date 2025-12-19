@@ -48,6 +48,7 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@5.5.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@5.5.2
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@5.5.2?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0-PR.1
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0-PR.10
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0-PR.10?classifier=sources
@@ -86,3 +87,4 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0-PR.6?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0-PR.9
 - pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0-PR.9?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-api@6.0.0?classifier=sources

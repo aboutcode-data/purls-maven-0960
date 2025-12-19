@@ -22,3 +22,5 @@
 - pkg:maven/dev.zio/zio-cache_2.12@0.2.0-RC6
 - pkg:maven/dev.zio/zio-cache_2.12@0.2.0-RC6?classifier=sources
 - pkg:maven/dev.zio/zio-cache_2.12@0.2.0?classifier=sources
+- pkg:maven/dev.zio/zio-cache_2.12@0.2.1
+- pkg:maven/dev.zio/zio-cache_2.12@0.2.1?classifier=sources

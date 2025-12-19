@@ -45,6 +45,8 @@
 - pkg:maven/com.51degrees/pipeline.web.shared@4.3.8
 - pkg:maven/com.51degrees/pipeline.web.shared@4.3.8?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.1
+- pkg:maven/com.51degrees/pipeline.web.shared@4.4.10
+- pkg:maven/com.51degrees/pipeline.web.shared@4.4.10?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.1?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.3
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.3?classifier=sources
@@ -54,3 +56,7 @@
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.6?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.7
 - pkg:maven/com.51degrees/pipeline.web.shared@4.4.7?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.4.8
+- pkg:maven/com.51degrees/pipeline.web.shared@4.4.8?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.4.9
+- pkg:maven/com.51degrees/pipeline.web.shared@4.4.9?classifier=sources

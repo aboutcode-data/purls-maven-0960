@@ -95,6 +95,8 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.17?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.18
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.18?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.19
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.19?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.15.3?classifier=sources
@@ -145,6 +147,8 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.12?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.13
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.13?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.14
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.14?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.2
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.2?classifier=sources
@@ -168,6 +172,8 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.19.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.19.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.19.3?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.19.4
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.19.4?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.5.19
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.5.19?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.5.20

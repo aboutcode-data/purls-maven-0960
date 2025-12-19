@@ -124,3 +124,5 @@
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.4.9?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.5.0
 - pkg:maven/com.salesforce.cantor/cantor-http-service@0.5.0?classifier=sources
+- pkg:maven/com.salesforce.cantor/cantor-http-service@0.5.1
+- pkg:maven/com.salesforce.cantor/cantor-http-service@0.5.1?classifier=sources

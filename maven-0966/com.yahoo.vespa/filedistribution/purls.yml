@@ -569,6 +569,10 @@
 - pkg:maven/com.yahoo.vespa/filedistribution@7.91.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@7.92.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.100.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.101.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.102.12?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.103.41?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.11.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.12.48?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.13.21?classifier=sources
@@ -635,3 +639,6 @@
 - pkg:maven/com.yahoo.vespa/filedistribution@8.86.28?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.89.6?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.90.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.91.2?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.98.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.99.32?classifier=sources

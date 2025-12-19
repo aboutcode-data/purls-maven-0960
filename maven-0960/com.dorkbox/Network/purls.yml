@@ -136,3 +136,5 @@
 - pkg:maven/com.dorkbox/Network@5.9.2?classifier=sources
 - pkg:maven/com.dorkbox/Network@5.9?classifier=sources
 - pkg:maven/com.dorkbox/Network@6.0?classifier=sources
+- pkg:maven/com.dorkbox/Network@6.1?classifier=sources
+- pkg:maven/com.dorkbox/Network@6.2?classifier=sources

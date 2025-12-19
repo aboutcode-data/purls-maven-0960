@@ -213,6 +213,8 @@
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.36?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.37
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.37?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.38
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@2.4
@@ -276,6 +278,8 @@
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.0.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.0.8
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.0.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.0.9
+- pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.0.9?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.1.0
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.1.0-M1
 - pkg:maven/org.glassfish.jersey.examples/jaxrs-types-injection@3.1.0-M1?classifier=sources

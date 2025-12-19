@@ -220,3 +220,7 @@
 - pkg:maven/org.scala-sbt/sbt@1.8.0-RC1
 - pkg:maven/org.scala-sbt/sbt@1.8.0-RC1?classifier=sources
 - pkg:maven/org.scala-sbt/sbt@1.8.0?classifier=sources
+- pkg:maven/org.scala-sbt/sbt@1.8.1
+- pkg:maven/org.scala-sbt/sbt@1.8.1?classifier=sources
+- pkg:maven/org.scala-sbt/sbt@1.8.2
+- pkg:maven/org.scala-sbt/sbt@1.8.2?classifier=sources

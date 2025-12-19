@@ -19,6 +19,8 @@
 - pkg:maven/io.yupiik.alveoli/postgres-local@1.0.17?classifier=sources
 - pkg:maven/io.yupiik.alveoli/postgres-local@1.0.18
 - pkg:maven/io.yupiik.alveoli/postgres-local@1.0.18?classifier=sources
+- pkg:maven/io.yupiik.alveoli/postgres-local@1.0.19
+- pkg:maven/io.yupiik.alveoli/postgres-local@1.0.19?classifier=sources
 - pkg:maven/io.yupiik.alveoli/postgres-local@1.0.1?classifier=sources
 - pkg:maven/io.yupiik.alveoli/postgres-local@1.0.2
 - pkg:maven/io.yupiik.alveoli/postgres-local@1.0.2?classifier=sources

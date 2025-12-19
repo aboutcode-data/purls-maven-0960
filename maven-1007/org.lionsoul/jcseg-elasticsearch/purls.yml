@@ -22,3 +22,5 @@
 - pkg:maven/org.lionsoul/jcseg-elasticsearch@2.6.0?classifier=sources
 - pkg:maven/org.lionsoul/jcseg-elasticsearch@2.6.2
 - pkg:maven/org.lionsoul/jcseg-elasticsearch@2.6.2?classifier=sources
+- pkg:maven/org.lionsoul/jcseg-elasticsearch@2.6.3
+- pkg:maven/org.lionsoul/jcseg-elasticsearch@2.6.3?classifier=sources
