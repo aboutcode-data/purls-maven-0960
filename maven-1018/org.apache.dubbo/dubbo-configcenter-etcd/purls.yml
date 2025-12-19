@@ -23,6 +23,10 @@
 - pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.2
 - pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.20
 - pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.20?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.21
+- pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.21?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.22
+- pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.22?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.2?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.3
 - pkg:maven/org.apache.dubbo/dubbo-configcenter-etcd@2.7.3?classifier=sources

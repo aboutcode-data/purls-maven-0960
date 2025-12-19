@@ -14,3 +14,5 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-containerservice-lib@0.27.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-containerservice-lib@0.28.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-containerservice-lib@0.28.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-containerservice-lib@0.29.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-containerservice-lib@0.29.0?classifier=sources

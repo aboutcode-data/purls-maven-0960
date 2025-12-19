@@ -172,3 +172,5 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@4.4.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@4.5.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@4.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@4.6.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@4.6.0?classifier=sources

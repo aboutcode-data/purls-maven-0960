@@ -1,5 +1,7 @@
 - pkg:maven/org.drasyl/drasyl-examples@0.1.2
 - pkg:maven/org.drasyl/drasyl-examples@0.1.2?classifier=sources
+- pkg:maven/org.drasyl/drasyl-examples@0.10.0
+- pkg:maven/org.drasyl/drasyl-examples@0.10.0?classifier=sources
 - pkg:maven/org.drasyl/drasyl-examples@0.2.0
 - pkg:maven/org.drasyl/drasyl-examples@0.2.0?classifier=sources
 - pkg:maven/org.drasyl/drasyl-examples@0.3.0

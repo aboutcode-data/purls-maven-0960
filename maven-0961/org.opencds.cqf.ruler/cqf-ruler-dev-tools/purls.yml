@@ -1,5 +1,7 @@
 - pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.10.0
 - pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.10.0?classifier=sources
+- pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.11.0
+- pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.11.0?classifier=sources
 - pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.5.0
 - pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.5.0?classifier=sources
 - pkg:maven/org.opencds.cqf.ruler/cqf-ruler-dev-tools@0.5.1

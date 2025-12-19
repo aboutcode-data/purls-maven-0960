@@ -14,6 +14,8 @@
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.16?classifier=sources
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.17
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.17?classifier=sources
+- pkg:maven/org.squeryl/squeryl_2.12@0.9.18
+- pkg:maven/org.squeryl/squeryl_2.12@0.9.18?classifier=sources
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.5-7
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.5-7?classifier=sources
 - pkg:maven/org.squeryl/squeryl_2.12@0.9.6-RC3

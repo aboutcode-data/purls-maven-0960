@@ -119,6 +119,8 @@
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.70?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.71
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.71?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.72
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.72?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.7?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.8
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.8?classifier=sources
@@ -180,3 +182,9 @@
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.3?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.4
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.4?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.5
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.5?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.6
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.6?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.7
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.7?classifier=sources

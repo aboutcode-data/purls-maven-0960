@@ -10,6 +10,9 @@
 - pkg:maven/io.deephaven/deephaven-java-client-session@0.18.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-session@0.19.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-session@0.19.1?classifier=sources
+- pkg:maven/io.deephaven/deephaven-java-client-session@0.20.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-java-client-session@0.20.1?classifier=sources
+- pkg:maven/io.deephaven/deephaven-java-client-session@0.21.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-session@0.6.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-session@0.6.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-java-client-session@0.7.0?classifier=sources

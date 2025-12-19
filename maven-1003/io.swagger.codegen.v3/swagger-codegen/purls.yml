@@ -59,8 +59,16 @@
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.35?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.36
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.36?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.37
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.37?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.38
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.38?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.39
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.39?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.3?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.4
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.40
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.40?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.4?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.5
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.5?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.31.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.32.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.32.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.33.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.33.0.Final?classifier=sources

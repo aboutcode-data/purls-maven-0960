@@ -14,3 +14,6 @@
 - pkg:maven/io.cloudflight.platform.spring/platform-spring-messaging@1.1.4?classifier=sources
 - pkg:maven/io.cloudflight.platform.spring/platform-spring-messaging@1.1.5?classifier=sources
 - pkg:maven/io.cloudflight.platform.spring/platform-spring-messaging@1.1.6?classifier=sources
+- pkg:maven/io.cloudflight.platform.spring/platform-spring-messaging@1.1.7?classifier=sources
+- pkg:maven/io.cloudflight.platform.spring/platform-spring-messaging@2.0.0-rc.1?classifier=sources
+- pkg:maven/io.cloudflight.platform.spring/platform-spring-messaging@2.0.0-rc.2?classifier=sources

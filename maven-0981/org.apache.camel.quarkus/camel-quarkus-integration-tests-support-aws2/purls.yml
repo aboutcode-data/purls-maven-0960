@@ -28,6 +28,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.14.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.15.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.15.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.16.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.16.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.2.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@2.2.1

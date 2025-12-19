@@ -153,6 +153,8 @@
 - pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.33?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.34
 - pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.34?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.35
+- pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.35?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.3?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.4
 - pkg:maven/io.dropwizard/dropwizard-json-logging@2.0.4?classifier=sources

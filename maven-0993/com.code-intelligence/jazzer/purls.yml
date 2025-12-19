@@ -6,3 +6,7 @@
 - pkg:maven/com.code-intelligence/jazzer@0.13.2?classifier=sources
 - pkg:maven/com.code-intelligence/jazzer@0.13.3
 - pkg:maven/com.code-intelligence/jazzer@0.13.3?classifier=sources
+- pkg:maven/com.code-intelligence/jazzer@0.14.0
+- pkg:maven/com.code-intelligence/jazzer@0.14.0?classifier=sources
+- pkg:maven/com.code-intelligence/jazzer@0.15.0
+- pkg:maven/com.code-intelligence/jazzer@0.15.0?classifier=sources

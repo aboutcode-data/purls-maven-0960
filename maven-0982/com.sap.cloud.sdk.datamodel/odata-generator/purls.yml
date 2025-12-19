@@ -172,3 +172,5 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator@4.4.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator@4.5.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator@4.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator@4.6.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator@4.6.0?classifier=sources

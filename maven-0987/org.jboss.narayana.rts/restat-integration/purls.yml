@@ -222,3 +222,5 @@
 - pkg:maven/org.jboss.narayana.rts/restat-integration@5.9.8.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/restat-integration@5.9.9.Final
 - pkg:maven/org.jboss.narayana.rts/restat-integration@5.9.9.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/restat-integration@6.0.0.CR1
+- pkg:maven/org.jboss.narayana.rts/restat-integration@6.0.0.CR1?classifier=sources

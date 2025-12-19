@@ -10,3 +10,5 @@
 - pkg:maven/org.opennms.alec.integrations.opennms.sink/impl@2.1.1-ALPHA?classifier=sources
 - pkg:maven/org.opennms.alec.integrations.opennms.sink/impl@2.1.2-ALPHA
 - pkg:maven/org.opennms.alec.integrations.opennms.sink/impl@2.1.2-ALPHA?classifier=sources
+- pkg:maven/org.opennms.alec.integrations.opennms.sink/impl@3.0.1
+- pkg:maven/org.opennms.alec.integrations.opennms.sink/impl@3.0.1?classifier=sources

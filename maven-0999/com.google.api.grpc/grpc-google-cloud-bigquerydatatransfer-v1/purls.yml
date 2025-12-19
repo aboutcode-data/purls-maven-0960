@@ -426,6 +426,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.1.8?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.1.9
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.1.9?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.10.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.10.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.2.1
@@ -484,3 +486,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.7.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.8.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.8.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.9.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerydatatransfer-v1@2.9.0?classifier=sources

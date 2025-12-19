@@ -64,6 +64,13 @@
 - pkg:maven/org.projectnessie/nessie-deltalake@0.46.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.46.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.46.3?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.46.5?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.46.7?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.47.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.47.1?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.48.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.48.1?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.48.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.9.1
 - pkg:maven/org.projectnessie/nessie-deltalake@0.9.1?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.9.2

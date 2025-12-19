@@ -58,3 +58,5 @@
 - pkg:maven/io.github.sinri/Keel@2.9.4
 - pkg:maven/io.github.sinri/Keel@2.9.4?classifier=sources
 - pkg:maven/io.github.sinri/Keel@2.9?classifier=sources
+- pkg:maven/io.github.sinri/Keel@3.0.0
+- pkg:maven/io.github.sinri/Keel@3.0.0?classifier=sources

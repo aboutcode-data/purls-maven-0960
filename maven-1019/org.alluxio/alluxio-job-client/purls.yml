@@ -79,4 +79,12 @@
 - pkg:maven/org.alluxio/alluxio-job-client@2.8.2
 - pkg:maven/org.alluxio/alluxio-job-client@2.8.2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-job-client@2.9.0
+- pkg:maven/org.alluxio/alluxio-job-client@2.9.0-1
+- pkg:maven/org.alluxio/alluxio-job-client@2.9.0-1?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-client@2.9.0-2
+- pkg:maven/org.alluxio/alluxio-job-client@2.9.0-2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-job-client@2.9.0?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-client@2.9.1
+- pkg:maven/org.alluxio/alluxio-job-client@2.9.1?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-client@291-alpha
+- pkg:maven/org.alluxio/alluxio-job-client@291-alpha?classifier=sources

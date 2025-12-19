@@ -1,3 +1,7 @@
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-10
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-10?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-11
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-11?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-2
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-2?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-3
@@ -12,3 +16,5 @@
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-7?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-8
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-8?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-9
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-scm@1.2-ALPHA-9?classifier=sources

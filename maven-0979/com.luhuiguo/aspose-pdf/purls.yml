@@ -1,4 +1,8 @@
+- pkg:maven/com.luhuiguo/aspose-pdf@22.12
+- pkg:maven/com.luhuiguo/aspose-pdf@22.12?classifier=sources
 - pkg:maven/com.luhuiguo/aspose-pdf@22.4
 - pkg:maven/com.luhuiguo/aspose-pdf@22.4?classifier=sources
 - pkg:maven/com.luhuiguo/aspose-pdf@22.9
 - pkg:maven/com.luhuiguo/aspose-pdf@22.9?classifier=sources
+- pkg:maven/com.luhuiguo/aspose-pdf@23.1
+- pkg:maven/com.luhuiguo/aspose-pdf@23.1?classifier=sources

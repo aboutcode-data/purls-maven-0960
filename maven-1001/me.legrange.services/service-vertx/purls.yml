@@ -20,6 +20,8 @@
 - pkg:maven/me.legrange.services/service-vertx@3.10.5?classifier=sources
 - pkg:maven/me.legrange.services/service-vertx@3.10.7
 - pkg:maven/me.legrange.services/service-vertx@3.10.7?classifier=sources
+- pkg:maven/me.legrange.services/service-vertx@3.10.8
+- pkg:maven/me.legrange.services/service-vertx@3.10.8?classifier=sources
 - pkg:maven/me.legrange.services/service-vertx@3.2.10
 - pkg:maven/me.legrange.services/service-vertx@3.2.10?classifier=sources
 - pkg:maven/me.legrange.services/service-vertx@3.2.11

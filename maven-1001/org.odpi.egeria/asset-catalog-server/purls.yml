@@ -48,6 +48,8 @@
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.0?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.1
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.10
+- pkg:maven/org.odpi.egeria/asset-catalog-server@3.10.1
+- pkg:maven/org.odpi.egeria/asset-catalog-server@3.10.1?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.10?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.11
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.11?classifier=sources
@@ -57,6 +59,8 @@
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.13?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.14
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.14?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-catalog-server@3.15
+- pkg:maven/org.odpi.egeria/asset-catalog-server@3.15?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.1?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.2
 - pkg:maven/org.odpi.egeria/asset-catalog-server@3.2?classifier=sources

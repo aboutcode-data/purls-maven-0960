@@ -328,6 +328,16 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.6.9?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.60.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.60.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.61.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.61.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.62.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.62.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.62.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.62.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.62.2?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.62.2?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.63.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kms@2.63.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.7.0
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.7.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-kms@2.7.1

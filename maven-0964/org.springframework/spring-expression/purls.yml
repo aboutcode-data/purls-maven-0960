@@ -331,6 +331,7 @@
 - pkg:maven/org.springframework/spring-expression@5.3.22?classifier=sources
 - pkg:maven/org.springframework/spring-expression@5.3.23?classifier=sources
 - pkg:maven/org.springframework/spring-expression@5.3.24?classifier=sources
+- pkg:maven/org.springframework/spring-expression@5.3.25?classifier=sources
 - pkg:maven/org.springframework/spring-expression@5.3.2?classifier=sources
 - pkg:maven/org.springframework/spring-expression@5.3.3?classifier=sources
 - pkg:maven/org.springframework/spring-expression@5.3.4?classifier=sources
@@ -343,3 +344,4 @@
 - pkg:maven/org.springframework/spring-expression@6.0.1?classifier=sources
 - pkg:maven/org.springframework/spring-expression@6.0.2?classifier=sources
 - pkg:maven/org.springframework/spring-expression@6.0.3?classifier=sources
+- pkg:maven/org.springframework/spring-expression@6.0.4?classifier=sources

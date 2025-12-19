@@ -29,6 +29,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-127-b1246cc
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-127-b1246cc?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-128-d970888
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-128-d970888?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-169-d86112b
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-169-d86112b?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0-177-7156a5c
@@ -40,3 +42,5 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.0?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.1
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.1?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.2
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-decline_2.13@0.17.2?classifier=sources

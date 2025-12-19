@@ -4,3 +4,5 @@
 - pkg:maven/software.amazon.timestream/amazon-timestream-jdbc@1.0.1?classifier=sources
 - pkg:maven/software.amazon.timestream/amazon-timestream-jdbc@1.0.2
 - pkg:maven/software.amazon.timestream/amazon-timestream-jdbc@1.0.2?classifier=sources
+- pkg:maven/software.amazon.timestream/amazon-timestream-jdbc@2.0.0
+- pkg:maven/software.amazon.timestream/amazon-timestream-jdbc@2.0.0?classifier=sources

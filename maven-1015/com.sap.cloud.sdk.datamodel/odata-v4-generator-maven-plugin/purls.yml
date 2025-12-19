@@ -144,3 +144,5 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.4.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.5.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.6.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.6.0?classifier=sources

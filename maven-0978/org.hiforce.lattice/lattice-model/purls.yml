@@ -26,6 +26,8 @@
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.14.1
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.14.1?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.14?classifier=sources
+- pkg:maven/org.hiforce.lattice/lattice-model@1.0.15
+- pkg:maven/org.hiforce.lattice/lattice-model@1.0.15?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.2
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.2?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.3

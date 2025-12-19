@@ -272,3 +272,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@6.3.9?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@7.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@7.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-template-application-rest-mongodb@7.1.1?classifier=sources

@@ -46,6 +46,8 @@
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.13.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.13.6.Final
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.13.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.13.7.Final
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.13.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.14.0.CR1
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.14.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.14.0.Final
@@ -62,6 +64,16 @@
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.15.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.15.1.Final
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.15.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.15.2.Final
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.15.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.15.3.Final
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.15.3.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.16.0.CR1
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.16.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.16.0.Final
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.16.0.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.16.1.Final
+- pkg:maven/io.quarkus/quarkus-grpc-api@2.16.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.9.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@2.9.0.Final
@@ -74,3 +86,5 @@
 - pkg:maven/io.quarkus/quarkus-grpc-api@3.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-grpc-api@3.0.0.Alpha2
 - pkg:maven/io.quarkus/quarkus-grpc-api@3.0.0.Alpha2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-grpc-api@3.0.0.Alpha3
+- pkg:maven/io.quarkus/quarkus-grpc-api@3.0.0.Alpha3?classifier=sources

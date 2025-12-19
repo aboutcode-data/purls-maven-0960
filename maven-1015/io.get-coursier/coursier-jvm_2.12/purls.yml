@@ -158,3 +158,5 @@
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC3?classifier=sources
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC4
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC4?classifier=sources
+- pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC5
+- pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC5?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@2.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@2.0.3
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@2.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@2.0.4
+- pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@2.0.4?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha1
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha2
@@ -38,3 +40,5 @@
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha3?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha4
 - pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha4?classifier=sources
+- pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha5
+- pkg:maven/io.quarkiverse.artemis/quarkus-test-artemis@3.0.0.Alpha5?classifier=sources

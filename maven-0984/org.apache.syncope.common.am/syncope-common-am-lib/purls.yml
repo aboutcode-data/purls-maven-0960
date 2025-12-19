@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.syncope.common.am/syncope-common-am-lib@3.0.0-M2
 - pkg:maven/org.apache.syncope.common.am/syncope-common-am-lib@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.syncope.common.am/syncope-common-am-lib@3.0.0?classifier=sources
+- pkg:maven/org.apache.syncope.common.am/syncope-common-am-lib@3.0.1
+- pkg:maven/org.apache.syncope.common.am/syncope-common-am-lib@3.0.1?classifier=sources

@@ -338,12 +338,18 @@
 - pkg:maven/org.apache.camel/camel-buildtools@3.18.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.18.4
 - pkg:maven/org.apache.camel/camel-buildtools@3.18.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-buildtools@3.18.5
+- pkg:maven/org.apache.camel/camel-buildtools@3.18.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.19.0
 - pkg:maven/org.apache.camel/camel-buildtools@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.2.0
 - pkg:maven/org.apache.camel/camel-buildtools@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.20.0
 - pkg:maven/org.apache.camel/camel-buildtools@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-buildtools@3.20.1
+- pkg:maven/org.apache.camel/camel-buildtools@3.20.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-buildtools@3.20.2
+- pkg:maven/org.apache.camel/camel-buildtools@3.20.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.3.0
 - pkg:maven/org.apache.camel/camel-buildtools@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.4.0
@@ -384,3 +390,5 @@
 - pkg:maven/org.apache.camel/camel-buildtools@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-buildtools@3.9.0
 - pkg:maven/org.apache.camel/camel-buildtools@3.9.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-buildtools@4.0.0-M1
+- pkg:maven/org.apache.camel/camel-buildtools@4.0.0-M1?classifier=sources

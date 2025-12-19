@@ -12,3 +12,5 @@
 - pkg:maven/com.posthog.android/posthog@1.1.2?classifier=sources
 - pkg:maven/com.posthog.android/posthog@2.0.0
 - pkg:maven/com.posthog.android/posthog@2.0.0?classifier=sources
+- pkg:maven/com.posthog.android/posthog@2.0.1
+- pkg:maven/com.posthog.android/posthog@2.0.1?classifier=sources

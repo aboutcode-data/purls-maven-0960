@@ -156,6 +156,8 @@
 - pkg:maven/com.google.apis/google-api-services-composer@v1-rev20221012-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-composer@v1-rev20221130-2.0.0
 - pkg:maven/com.google.apis/google-api-services-composer@v1-rev20221130-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-composer@v1-rev20230124-2.0.0
+- pkg:maven/com.google.apis/google-api-services-composer@v1-rev20230124-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-composer@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-composer@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-composer@v1-rev22-1.25.0
@@ -458,6 +460,8 @@
 - pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev20221104-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev20221114-2.0.0
 - pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev20221114-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev20230124-2.0.0
+- pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev20230124-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-composer@v1beta1-rev21-1.25.0

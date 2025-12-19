@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-logging-rocketmq@2.4.3?classifier=sources
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-logging-rocketmq@2.5.0
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-logging-rocketmq@2.5.0?classifier=sources
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-logging-rocketmq@2.5.1
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-logging-rocketmq@2.5.1?classifier=sources

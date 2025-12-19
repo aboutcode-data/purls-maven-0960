@@ -1,2 +1,4 @@
 - pkg:maven/io.edurt.datacap.plugin.jdbc/datacap-plugin-jdbc-iotdb@1.3.0
 - pkg:maven/io.edurt.datacap.plugin.jdbc/datacap-plugin-jdbc-iotdb@1.3.0?classifier=sources
+- pkg:maven/io.edurt.datacap.plugin.jdbc/datacap-plugin-jdbc-iotdb@1.4.0
+- pkg:maven/io.edurt.datacap.plugin.jdbc/datacap-plugin-jdbc-iotdb@1.4.0?classifier=sources

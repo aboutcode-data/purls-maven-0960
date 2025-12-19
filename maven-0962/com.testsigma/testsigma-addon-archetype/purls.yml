@@ -7,3 +7,6 @@
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.0.6?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.0.7?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.0.8.beta_2?classifier=sources
+- pkg:maven/com.testsigma/testsigma-addon-archetype@1.0.8?classifier=sources
+- pkg:maven/com.testsigma/testsigma-addon-archetype@1.0.9_beta?classifier=sources
+- pkg:maven/com.testsigma/testsigma-addon-archetype@1.0.9_beta_1?classifier=sources

@@ -138,3 +138,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.20-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-serialization-unshaded@1.8.20-Beta?classifier=sources

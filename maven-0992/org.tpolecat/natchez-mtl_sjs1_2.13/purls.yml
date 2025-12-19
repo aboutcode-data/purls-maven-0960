@@ -38,9 +38,11 @@
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.2.1?classifier=sources
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.2.2
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.2.2?classifier=sources
+- pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0-M1
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0-M1?classifier=sources
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0-M2
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0-M2?classifier=sources
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0-M3
 - pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0-M3?classifier=sources
+- pkg:maven/org.tpolecat/natchez-mtl_sjs1_2.13@0.3.0?classifier=sources

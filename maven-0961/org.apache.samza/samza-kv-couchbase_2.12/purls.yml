@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.samza/samza-kv-couchbase_2.12@1.6.0?classifier=sources
 - pkg:maven/org.apache.samza/samza-kv-couchbase_2.12@1.7.0
 - pkg:maven/org.apache.samza/samza-kv-couchbase_2.12@1.7.0?classifier=sources
+- pkg:maven/org.apache.samza/samza-kv-couchbase_2.12@1.8.0
+- pkg:maven/org.apache.samza/samza-kv-couchbase_2.12@1.8.0?classifier=sources

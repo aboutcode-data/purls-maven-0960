@@ -404,6 +404,8 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@4.5.8-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@4.5.9-eu
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@4.5.9-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@4.6.0-eu
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@4.6.0-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@etlunit-4.2.1
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@etlunit-4.2.1?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-postgresql-database@etlunit-4.2.2

@@ -107,3 +107,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-archetype-js@1.8.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-archetype-js@1.8.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-archetype-js@1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-archetype-js@1.8.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-archetype-js@1.8.20-Beta?classifier=sources

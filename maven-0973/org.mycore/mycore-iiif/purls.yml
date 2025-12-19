@@ -60,3 +60,7 @@
 - pkg:maven/org.mycore/mycore-iiif@2022.05?classifier=sources
 - pkg:maven/org.mycore/mycore-iiif@2022.06.0
 - pkg:maven/org.mycore/mycore-iiif@2022.06.0?classifier=sources
+- pkg:maven/org.mycore/mycore-iiif@2022.06.1
+- pkg:maven/org.mycore/mycore-iiif@2022.06.1?classifier=sources
+- pkg:maven/org.mycore/mycore-iiif@2022.08
+- pkg:maven/org.mycore/mycore-iiif@2022.08?classifier=sources

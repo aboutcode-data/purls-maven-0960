@@ -23,3 +23,8 @@
 - pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.19.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.19.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.19.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.19.3-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.19.4-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.19.5-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.20.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/ecrpublic-jvm@0.20.1-beta?classifier=sources

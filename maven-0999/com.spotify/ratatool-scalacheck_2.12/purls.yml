@@ -64,3 +64,5 @@
 - pkg:maven/com.spotify/ratatool-scalacheck_2.12@0.3.7?classifier=sources
 - pkg:maven/com.spotify/ratatool-scalacheck_2.12@0.3.8
 - pkg:maven/com.spotify/ratatool-scalacheck_2.12@0.3.8?classifier=sources
+- pkg:maven/com.spotify/ratatool-scalacheck_2.12@0.4.0
+- pkg:maven/com.spotify/ratatool-scalacheck_2.12@0.4.0?classifier=sources

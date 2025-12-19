@@ -38,5 +38,13 @@
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@1.7.0?classifier=sources
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@1.7.1
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@1.7.1?classifier=sources
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@1.8.0
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@1.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.0.0
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.1.0
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.2.0
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.2.1
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@2.2.1?classifier=sources

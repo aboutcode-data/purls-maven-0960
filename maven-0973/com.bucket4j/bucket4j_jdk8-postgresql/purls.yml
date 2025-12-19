@@ -4,3 +4,5 @@
 - pkg:maven/com.bucket4j/bucket4j_jdk8-postgresql@8.0.1?classifier=sources
 - pkg:maven/com.bucket4j/bucket4j_jdk8-postgresql@8.1.0
 - pkg:maven/com.bucket4j/bucket4j_jdk8-postgresql@8.1.0?classifier=sources
+- pkg:maven/com.bucket4j/bucket4j_jdk8-postgresql@8.2.RC2
+- pkg:maven/com.bucket4j/bucket4j_jdk8-postgresql@8.2.RC2?classifier=sources

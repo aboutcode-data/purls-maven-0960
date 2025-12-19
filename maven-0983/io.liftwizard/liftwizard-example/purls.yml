@@ -48,6 +48,10 @@
 - pkg:maven/io.liftwizard/liftwizard-example@0.30.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-example@0.31.0
 - pkg:maven/io.liftwizard/liftwizard-example@0.31.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-example@0.32.0
+- pkg:maven/io.liftwizard/liftwizard-example@0.32.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-example@0.33.0
+- pkg:maven/io.liftwizard/liftwizard-example@0.33.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-example@0.4.0
 - pkg:maven/io.liftwizard/liftwizard-example@0.4.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-example@0.5.0

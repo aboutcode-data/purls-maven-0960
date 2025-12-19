@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt5-sink-kafka-connector@3.18.2?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt5-sink-kafka-connector@3.19.0
 - pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt5-sink-kafka-connector@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt5-sink-kafka-connector@3.20.0?classifier=sources

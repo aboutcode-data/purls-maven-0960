@@ -24,3 +24,5 @@
 - pkg:maven/com.spotify/ratatool-common_2.13@0.3.28?classifier=sources
 - pkg:maven/com.spotify/ratatool-common_2.13@0.3.29
 - pkg:maven/com.spotify/ratatool-common_2.13@0.3.29?classifier=sources
+- pkg:maven/com.spotify/ratatool-common_2.13@0.4.0
+- pkg:maven/com.spotify/ratatool-common_2.13@0.4.0?classifier=sources

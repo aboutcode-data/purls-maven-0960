@@ -3,3 +3,5 @@
 - pkg:maven/fr.maif/thoth-core@2.0.0-BETA8?classifier=sources
 - pkg:maven/fr.maif/thoth-core@2.0.0-BETA9?classifier=sources
 - pkg:maven/fr.maif/thoth-core@2.0.0-RC1?classifier=sources
+- pkg:maven/fr.maif/thoth-core@2.0.0?classifier=sources
+- pkg:maven/fr.maif/thoth-core@2.1.0?classifier=sources

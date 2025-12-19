@@ -12,3 +12,5 @@
 - pkg:maven/com.metlo/spring@0.3?classifier=sources
 - pkg:maven/com.metlo/spring@0.4.0
 - pkg:maven/com.metlo/spring@0.4.0?classifier=sources
+- pkg:maven/com.metlo/spring@0.4.1
+- pkg:maven/com.metlo/spring@0.4.1?classifier=sources

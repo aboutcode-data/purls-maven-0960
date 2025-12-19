@@ -252,3 +252,7 @@
 - pkg:maven/io.fabric8/openshift-server-mock@6.3.0?classifier=sources
 - pkg:maven/io.fabric8/openshift-server-mock@6.3.1
 - pkg:maven/io.fabric8/openshift-server-mock@6.3.1?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@6.4.0
+- pkg:maven/io.fabric8/openshift-server-mock@6.4.0?classifier=sources
+- pkg:maven/io.fabric8/openshift-server-mock@6.4.1
+- pkg:maven/io.fabric8/openshift-server-mock@6.4.1?classifier=sources

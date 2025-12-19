@@ -156,3 +156,5 @@
 - pkg:maven/com.facebook.presto/presto-common@0.278.1
 - pkg:maven/com.facebook.presto/presto-common@0.278.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-common@0.278?classifier=sources
+- pkg:maven/com.facebook.presto/presto-common@0.279
+- pkg:maven/com.facebook.presto/presto-common@0.279?classifier=sources

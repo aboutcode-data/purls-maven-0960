@@ -88,10 +88,14 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.12.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.12.2
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.12.2?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.12.3
+- pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.12.3?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.13.0
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.13.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.13.1
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.13.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.13.2
+- pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.13.2?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.2.0
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.2.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@2.3.0
@@ -144,3 +148,5 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@3.1.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@3.1.1
 - pkg:maven/io.smallrye.config/smallrye-config-source-hocon@3.1.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-hocon@3.1.2
+- pkg:maven/io.smallrye.config/smallrye-config-source-hocon@3.1.2?classifier=sources

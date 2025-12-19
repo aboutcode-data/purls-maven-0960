@@ -104,3 +104,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@3.1.5?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@4.0.1
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-verifier@4.0.1?classifier=sources

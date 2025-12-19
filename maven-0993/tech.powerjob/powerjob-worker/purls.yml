@@ -8,3 +8,9 @@
 - pkg:maven/tech.powerjob/powerjob-worker@4.1.1?classifier=sources
 - pkg:maven/tech.powerjob/powerjob-worker@4.2.0
 - pkg:maven/tech.powerjob/powerjob-worker@4.2.0?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-worker@4.2.1
+- pkg:maven/tech.powerjob/powerjob-worker@4.2.1-bugfix
+- pkg:maven/tech.powerjob/powerjob-worker@4.2.1-bugfix?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-worker@4.2.1?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-worker@4.3.0
+- pkg:maven/tech.powerjob/powerjob-worker@4.3.0?classifier=sources

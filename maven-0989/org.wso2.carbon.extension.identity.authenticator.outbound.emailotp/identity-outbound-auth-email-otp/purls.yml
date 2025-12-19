@@ -45,6 +45,7 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.23?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.24?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.25?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@3.0.4?classifier=source-release&type=zip
@@ -66,3 +67,4 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@4.1.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@4.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@4.1.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.emailotp/identity-outbound-auth-email-otp@4.1.5?classifier=source-release&type=zip

@@ -6,6 +6,8 @@
 - pkg:maven/house.inksoftware/system-test-framework@12.0.0?classifier=sources
 - pkg:maven/house.inksoftware/system-test-framework@13.0.0
 - pkg:maven/house.inksoftware/system-test-framework@13.0.0?classifier=sources
+- pkg:maven/house.inksoftware/system-test-framework@14.0.0
+- pkg:maven/house.inksoftware/system-test-framework@14.0.0?classifier=sources
 - pkg:maven/house.inksoftware/system-test-framework@3.0
 - pkg:maven/house.inksoftware/system-test-framework@3.0?classifier=sources
 - pkg:maven/house.inksoftware/system-test-framework@4.0.0

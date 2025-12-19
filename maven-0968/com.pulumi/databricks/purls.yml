@@ -11,3 +11,7 @@
 - pkg:maven/com.pulumi/databricks@1.5.0-alpha.1669142861%2B722312f3?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.5.0?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.5.1?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.6.0-alpha.1673416280%2Be07d5b52?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.6.0-alpha.1673555856%2B4cd89ee1?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.6.0-alpha.1674683679%2Bd5189074?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.6.0?classifier=sources

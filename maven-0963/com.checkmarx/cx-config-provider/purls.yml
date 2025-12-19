@@ -3,6 +3,8 @@
 - pkg:maven/com.checkmarx/cx-config-provider@1.0.1
 - pkg:maven/com.checkmarx/cx-config-provider@1.0.10
 - pkg:maven/com.checkmarx/cx-config-provider@1.0.10?classifier=sources
+- pkg:maven/com.checkmarx/cx-config-provider@1.0.14
+- pkg:maven/com.checkmarx/cx-config-provider@1.0.14?classifier=sources
 - pkg:maven/com.checkmarx/cx-config-provider@1.0.1?classifier=sources
 - pkg:maven/com.checkmarx/cx-config-provider@1.0.2
 - pkg:maven/com.checkmarx/cx-config-provider@1.0.2?classifier=sources

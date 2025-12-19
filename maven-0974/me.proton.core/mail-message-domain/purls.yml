@@ -64,3 +64,6 @@
 - pkg:maven/me.proton.core/mail-message-domain@9.7.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@9.7.1?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@9.8.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@9.8.1?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@9.9.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@9.9.1?classifier=sources

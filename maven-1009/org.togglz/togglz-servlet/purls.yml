@@ -86,3 +86,5 @@
 - pkg:maven/org.togglz/togglz-servlet@3.3.2?classifier=sources
 - pkg:maven/org.togglz/togglz-servlet@3.3.3
 - pkg:maven/org.togglz/togglz-servlet@3.3.3?classifier=sources
+- pkg:maven/org.togglz/togglz-servlet@4.0.0-M1
+- pkg:maven/org.togglz/togglz-servlet@4.0.0-M1?classifier=sources

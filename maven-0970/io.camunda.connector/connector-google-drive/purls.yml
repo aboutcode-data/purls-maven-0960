@@ -4,6 +4,8 @@
 - pkg:maven/io.camunda.connector/connector-google-drive@0.14.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@0.14.2
 - pkg:maven/io.camunda.connector/connector-google-drive@0.14.2?classifier=sources
+- pkg:maven/io.camunda.connector/connector-google-drive@0.15.0
+- pkg:maven/io.camunda.connector/connector-google-drive@0.15.0?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@0.4.0
 - pkg:maven/io.camunda.connector/connector-google-drive@0.4.0-rc1
 - pkg:maven/io.camunda.connector/connector-google-drive@0.4.0-rc1?classifier=sources

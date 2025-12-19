@@ -1,2 +1,6 @@
 - pkg:maven/io.github.logrecorder/logrecorder-kotest@2.4.0
 - pkg:maven/io.github.logrecorder/logrecorder-kotest@2.4.0?classifier=sources
+- pkg:maven/io.github.logrecorder/logrecorder-kotest@2.5.0
+- pkg:maven/io.github.logrecorder/logrecorder-kotest@2.5.0?classifier=sources
+- pkg:maven/io.github.logrecorder/logrecorder-kotest@2.5.1
+- pkg:maven/io.github.logrecorder/logrecorder-kotest@2.5.1?classifier=sources

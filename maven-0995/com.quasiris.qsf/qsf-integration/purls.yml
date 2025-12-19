@@ -102,3 +102,5 @@
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.8.4?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.8.5
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.8.5?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-integration@5.9
+- pkg:maven/com.quasiris.qsf/qsf-integration@5.9?classifier=sources

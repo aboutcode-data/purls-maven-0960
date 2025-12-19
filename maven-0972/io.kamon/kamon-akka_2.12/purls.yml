@@ -106,3 +106,5 @@
 - pkg:maven/io.kamon/kamon-akka_2.12@2.5.8?classifier=sources
 - pkg:maven/io.kamon/kamon-akka_2.12@2.5.9
 - pkg:maven/io.kamon/kamon-akka_2.12@2.5.9?classifier=sources
+- pkg:maven/io.kamon/kamon-akka_2.12@2.6.0
+- pkg:maven/io.kamon/kamon-akka_2.12@2.6.0?classifier=sources

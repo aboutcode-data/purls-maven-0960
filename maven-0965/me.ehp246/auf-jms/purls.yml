@@ -58,3 +58,7 @@
 - pkg:maven/me.ehp246/auf-jms@0.8.7?classifier=sources
 - pkg:maven/me.ehp246/auf-jms@0.8.8
 - pkg:maven/me.ehp246/auf-jms@0.8.8?classifier=sources
+- pkg:maven/me.ehp246/auf-jms@2.0.0
+- pkg:maven/me.ehp246/auf-jms@2.0.0?classifier=sources
+- pkg:maven/me.ehp246/auf-jms@2.1.0
+- pkg:maven/me.ehp246/auf-jms@2.1.0?classifier=sources

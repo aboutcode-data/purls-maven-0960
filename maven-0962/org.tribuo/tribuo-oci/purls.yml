@@ -6,3 +6,5 @@
 - pkg:maven/org.tribuo/tribuo-oci@4.2.2?classifier=sources
 - pkg:maven/org.tribuo/tribuo-oci@4.3.0
 - pkg:maven/org.tribuo/tribuo-oci@4.3.0?classifier=sources
+- pkg:maven/org.tribuo/tribuo-oci@4.3.1
+- pkg:maven/org.tribuo/tribuo-oci@4.3.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.10
 - pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.10?classifier=sources
+- pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.11
+- pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.11?classifier=sources
 - pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.8
 - pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.8?classifier=sources
 - pkg:maven/io.github.fslev/maven-cucumber-reporting-extended@5.4.9

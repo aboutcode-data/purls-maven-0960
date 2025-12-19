@@ -8,5 +8,7 @@
 - pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@1.15.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@1.16.0
 - pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@1.16.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@1.16.1
+- pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@1.16.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@4.0.0-1.16
 - pkg:maven/org.apache.flink/flink-sql-connector-aws-kinesis-streams@4.0.0-1.16?classifier=sources

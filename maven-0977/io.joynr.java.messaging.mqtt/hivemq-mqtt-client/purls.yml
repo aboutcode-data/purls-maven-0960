@@ -130,6 +130,8 @@
 - pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.21.6?classifier=sources
 - pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.21.7
 - pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.21.7?classifier=sources
+- pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.21.9
+- pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.21.9?classifier=sources
 - pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.8.10
 - pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.8.10?classifier=sources
 - pkg:maven/io.joynr.java.messaging.mqtt/hivemq-mqtt-client@1.8.11

@@ -1,4 +1,6 @@
 - pkg:maven/com.ritense.valtimo/form-link@10.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/form-link@10.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/form-link@10.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-link@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-link@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/form-link@9.11.0.RELEASE?classifier=sources

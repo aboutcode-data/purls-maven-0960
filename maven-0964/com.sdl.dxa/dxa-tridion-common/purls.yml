@@ -63,6 +63,8 @@
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.29?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.2?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.3
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.30
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.30?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.3?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.4
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.4?classifier=sources

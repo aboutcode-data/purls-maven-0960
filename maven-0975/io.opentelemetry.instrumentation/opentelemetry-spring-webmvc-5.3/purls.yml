@@ -7,3 +7,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-webmvc-5.3@1.20.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-webmvc-5.3@1.20.2-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-webmvc-5.3@1.21.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-webmvc-5.3@1.22.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-spring-webmvc-5.3@1.22.1-alpha?classifier=sources

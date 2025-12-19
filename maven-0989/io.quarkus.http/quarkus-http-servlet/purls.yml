@@ -98,3 +98,7 @@
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha2?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha3
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha3?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Final?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.1.Final
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.1.Final?classifier=sources

@@ -18,4 +18,6 @@
 - pkg:maven/io.milton/milton-api@3.1.1.488
 - pkg:maven/io.milton/milton-api@3.1.1.488?classifier=sources
 - pkg:maven/io.milton/milton-api@4.0.0.1129
+- pkg:maven/io.milton/milton-api@4.0.0.1129-Beta
+- pkg:maven/io.milton/milton-api@4.0.0.1129-Beta?classifier=sources
 - pkg:maven/io.milton/milton-api@4.0.0.1129?classifier=sources

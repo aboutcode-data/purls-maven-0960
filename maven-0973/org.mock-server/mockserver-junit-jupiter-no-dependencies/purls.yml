@@ -4,3 +4,5 @@
 - pkg:maven/org.mock-server/mockserver-junit-jupiter-no-dependencies@5.13.2?classifier=sources
 - pkg:maven/org.mock-server/mockserver-junit-jupiter-no-dependencies@5.14.0
 - pkg:maven/org.mock-server/mockserver-junit-jupiter-no-dependencies@5.14.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-junit-jupiter-no-dependencies@5.15.0
+- pkg:maven/org.mock-server/mockserver-junit-jupiter-no-dependencies@5.15.0?classifier=sources

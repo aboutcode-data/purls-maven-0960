@@ -3,3 +3,6 @@
 - pkg:maven/aws.smithy.kotlin/tracing-core-jvm@0.14.0?classifier=sources
 - pkg:maven/aws.smithy.kotlin/tracing-core-jvm@0.14.1?classifier=sources
 - pkg:maven/aws.smithy.kotlin/tracing-core-jvm@0.14.2?classifier=sources
+- pkg:maven/aws.smithy.kotlin/tracing-core-jvm@0.14.3?classifier=sources
+- pkg:maven/aws.smithy.kotlin/tracing-core-jvm@0.15.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/tracing-core-jvm@0.15.1?classifier=sources

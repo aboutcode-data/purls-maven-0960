@@ -120,6 +120,7 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.4.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.14.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.14.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.14.1.Final?classifier=sources
@@ -128,6 +129,11 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.15.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.15.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.15.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.15.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.15.3.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.16.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.16.0.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.16.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.2.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.2.1.Final?classifier=sources
@@ -161,6 +167,7 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.7.4.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.7.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.7.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.7.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.8.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.8.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.8.1.Final?classifier=sources
@@ -172,3 +179,4 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.9.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.0.0.Alpha2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.0.0.Alpha3?classifier=sources

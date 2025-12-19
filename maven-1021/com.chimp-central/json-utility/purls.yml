@@ -12,3 +12,7 @@
 - pkg:maven/com.chimp-central/json-utility@2.1.2?classifier=sources
 - pkg:maven/com.chimp-central/json-utility@3.0.0
 - pkg:maven/com.chimp-central/json-utility@3.0.0?classifier=sources
+- pkg:maven/com.chimp-central/json-utility@4.0.0
+- pkg:maven/com.chimp-central/json-utility@4.0.0?classifier=sources
+- pkg:maven/com.chimp-central/json-utility@4.0.1
+- pkg:maven/com.chimp-central/json-utility@4.0.1?classifier=sources

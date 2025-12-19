@@ -46,6 +46,8 @@
 - pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.32?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.33
 - pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.33?classifier=sources
+- pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.34
+- pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.34?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.5
 - pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.5?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix_2.13@0.21.6

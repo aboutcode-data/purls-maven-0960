@@ -602,6 +602,13 @@
 - pkg:maven/org.http4k/http4k-security-oauth@4.35.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.35.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.35.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.35.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.35.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.36.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.37.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.38.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.38.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-security-oauth@4.39.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.4.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-security-oauth@4.4.1.0?classifier=sources

@@ -93,6 +93,8 @@
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.0
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.0?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.1
+- pkg:maven/de.codecentric/spring-boot-admin-client@2.7.10
+- pkg:maven/de.codecentric/spring-boot-admin-client@2.7.10?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.1?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.2
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.2?classifier=sources
@@ -110,6 +112,7 @@
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.8?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.9
 - pkg:maven/de.codecentric/spring-boot-admin-client@2.7.9?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M1
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M1?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M2
@@ -126,3 +129,6 @@
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M7?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M8
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M8?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M9
+- pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M9?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0?classifier=sources

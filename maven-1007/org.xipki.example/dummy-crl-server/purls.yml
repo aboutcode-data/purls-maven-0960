@@ -1,2 +1,4 @@
 - pkg:maven/org.xipki.example/dummy-crl-server@6.0.0?classifier=sources
 - pkg:maven/org.xipki.example/dummy-crl-server@6.0.0?type=war
+- pkg:maven/org.xipki.example/dummy-crl-server@6.1.0?classifier=sources
+- pkg:maven/org.xipki.example/dummy-crl-server@6.1.0?type=war
