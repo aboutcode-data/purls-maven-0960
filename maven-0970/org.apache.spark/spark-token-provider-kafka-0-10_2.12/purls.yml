@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.2.2?classifier=sources
 - pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.3.0
 - pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.3.0?classifier=sources
+- pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.3.1
+- pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.3.1?classifier=sources

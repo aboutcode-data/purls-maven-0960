@@ -4,8 +4,14 @@
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.0.0-beta07?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.0.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.1.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.10.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.11.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.2.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.3.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.4.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.5.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.6.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.7.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.8.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.8.1?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.9.0?classifier=sources

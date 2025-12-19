@@ -166,6 +166,16 @@
 - pkg:maven/software.amazon.awscdk/appflow@1.172.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/appflow@1.173.0
 - pkg:maven/software.amazon.awscdk/appflow@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appflow@1.174.0
+- pkg:maven/software.amazon.awscdk/appflow@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appflow@1.175.0
+- pkg:maven/software.amazon.awscdk/appflow@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appflow@1.176.0
+- pkg:maven/software.amazon.awscdk/appflow@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appflow@1.177.0
+- pkg:maven/software.amazon.awscdk/appflow@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appflow@1.178.0
+- pkg:maven/software.amazon.awscdk/appflow@1.178.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/appflow@1.66.0
 - pkg:maven/software.amazon.awscdk/appflow@1.66.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/appflow@1.67.0

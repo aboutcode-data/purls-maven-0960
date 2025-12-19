@@ -22,6 +22,10 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.5-2020.0.x?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.5-2021.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.5-2021.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.6-2020.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.6-2020.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.6-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.10.6-2021.0.x?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.9.0-2020.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.9.0-2020.0.x?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-actuator@1.9.0-Hoxton

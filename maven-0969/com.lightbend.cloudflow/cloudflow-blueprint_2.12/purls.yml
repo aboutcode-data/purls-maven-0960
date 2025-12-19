@@ -1187,6 +1187,14 @@
 - pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220829?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220905
 - pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220905?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220912
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220912?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220919
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220919?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220926
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20220926?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20221003
+- pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2-NIGHTLY20221003?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@2.3.2?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@back-to-core-0.0.1
 - pkg:maven/com.lightbend.cloudflow/cloudflow-blueprint_2.12@back-to-core-0.0.1?classifier=sources

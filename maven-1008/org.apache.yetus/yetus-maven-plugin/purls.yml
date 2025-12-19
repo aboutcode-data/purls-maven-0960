@@ -10,5 +10,7 @@
 - pkg:maven/org.apache.yetus/yetus-maven-plugin@0.13.0?classifier=sources
 - pkg:maven/org.apache.yetus/yetus-maven-plugin@0.14.0
 - pkg:maven/org.apache.yetus/yetus-maven-plugin@0.14.0?classifier=sources
+- pkg:maven/org.apache.yetus/yetus-maven-plugin@0.14.1
+- pkg:maven/org.apache.yetus/yetus-maven-plugin@0.14.1?classifier=sources
 - pkg:maven/org.apache.yetus/yetus-maven-plugin@0.9.0
 - pkg:maven/org.apache.yetus/yetus-maven-plugin@0.9.0?classifier=sources

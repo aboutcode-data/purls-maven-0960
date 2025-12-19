@@ -236,6 +236,8 @@
 - pkg:maven/io.ebean/ebean-agent@13.0.1-RC2?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@13.1.0
 - pkg:maven/io.ebean/ebean-agent@13.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@13.10.0
+- pkg:maven/io.ebean/ebean-agent@13.10.0?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@13.2.0
 - pkg:maven/io.ebean/ebean-agent@13.2.0?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@13.2.1-RC1
@@ -276,3 +278,7 @@
 - pkg:maven/io.ebean/ebean-agent@13.9.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@13.9.2
 - pkg:maven/io.ebean/ebean-agent@13.9.2?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@13.9.3
+- pkg:maven/io.ebean/ebean-agent@13.9.3?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@13.9.4
+- pkg:maven/io.ebean/ebean-agent@13.9.4?classifier=sources

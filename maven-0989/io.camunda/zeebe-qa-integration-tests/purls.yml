@@ -61,8 +61,15 @@
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.0.4
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.0.5
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.0.6
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.0.7
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-alpha1
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-alpha2
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-alpha3
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-alpha4
 - pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-alpha5
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-rc
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-rc1
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-rc2
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.0-rc3
+- pkg:maven/io.camunda/zeebe-qa-integration-tests@8.1.1

@@ -243,6 +243,7 @@
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.3.12?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.3.13?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.3.14?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.6.3.15?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.3.2?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.3.3?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.3.5?classifier=sources
@@ -261,8 +262,14 @@
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.6.3?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.6.5?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.6.6.6?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.6.7.22?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.6.7.25?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.6.8.23?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.6.8.24?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.0.12?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.0.16?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.0.17?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.0.19?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.7.0.20?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.7.0.21?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.0.2?classifier=sources

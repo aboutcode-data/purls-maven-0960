@@ -154,6 +154,8 @@
 - pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.24.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.25.0
 - pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.25.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.26.0
+- pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.26.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.3.0
 - pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.3.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/wafwebaclapigateway@2.4.0

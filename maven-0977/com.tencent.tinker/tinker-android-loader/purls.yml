@@ -67,6 +67,8 @@
 - pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.23.1?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.23?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.24?classifier=sources
+- pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.25.1?classifier=sources
+- pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.25?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.3?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.3?type=aar
 - pkg:maven/com.tencent.tinker/tinker-android-loader@1.9.14.4?classifier=sources

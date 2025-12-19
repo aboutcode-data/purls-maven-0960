@@ -18,3 +18,5 @@
 - pkg:maven/de.bmiag.tapir/tapir-datasource-csv@3.5.0?classifier=sources
 - pkg:maven/de.bmiag.tapir/tapir-datasource-csv@3.6.2
 - pkg:maven/de.bmiag.tapir/tapir-datasource-csv@3.6.2?classifier=sources
+- pkg:maven/de.bmiag.tapir/tapir-datasource-csv@4.0.0
+- pkg:maven/de.bmiag.tapir/tapir-datasource-csv@4.0.0?classifier=sources

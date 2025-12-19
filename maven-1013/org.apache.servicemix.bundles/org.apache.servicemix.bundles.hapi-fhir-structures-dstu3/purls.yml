@@ -42,3 +42,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi-fhir-structures-dstu3@6.1.1_1?classifier=src&type=zip

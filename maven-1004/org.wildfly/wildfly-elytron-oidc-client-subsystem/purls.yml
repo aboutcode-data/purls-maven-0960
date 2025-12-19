@@ -28,3 +28,5 @@
 - pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@27.0.0.Alpha4?classifier=sources
 - pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@27.0.0.Alpha5
 - pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@27.0.0.Alpha5?classifier=sources
+- pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@27.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@27.0.0.Beta1?classifier=sources

@@ -248,3 +248,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.4.7?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.4.8
 - pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.4.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.4.9
+- pkg:maven/org.apache.cxf/cxf-rt-rs-security-oauth@3.4.9?classifier=sources

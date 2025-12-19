@@ -39,6 +39,8 @@
 - pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.13.3?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.14.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.14.1?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.14.2?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.15.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.2.0-Beryllium
 - pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.2.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/topology-lldp-discovery@0.2.1-Beryllium-SR1

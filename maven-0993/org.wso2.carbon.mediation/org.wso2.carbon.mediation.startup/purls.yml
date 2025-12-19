@@ -287,6 +287,12 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.140
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.140?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.140?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.141
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.141?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.141?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.142
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.142?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.142?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.16
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.startup@4.7.16?classifier=sources

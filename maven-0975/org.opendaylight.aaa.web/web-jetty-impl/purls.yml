@@ -77,6 +77,7 @@
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.16.1
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.16.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.16.2?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.16.3?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.1

@@ -424,3 +424,7 @@
 - pkg:maven/org.drools/drools-persistence-jpa@8.26.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@8.27.0.Beta
 - pkg:maven/org.drools/drools-persistence-jpa@8.27.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-persistence-jpa@8.28.0.Beta
+- pkg:maven/org.drools/drools-persistence-jpa@8.28.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-persistence-jpa@8.29.0.Final
+- pkg:maven/org.drools/drools-persistence-jpa@8.29.0.Final?classifier=sources

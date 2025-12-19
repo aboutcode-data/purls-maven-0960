@@ -1,6 +1,7 @@
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.3.2?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.3.3?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.0?classifier=sources
+- pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.10?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.1?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.2?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.3?classifier=sources
@@ -10,3 +11,4 @@
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.7?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.8?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.4.9?classifier=sources
+- pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.5.0?classifier=sources

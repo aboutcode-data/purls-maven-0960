@@ -150,6 +150,8 @@
 - pkg:maven/com.hack23.cia/service.data.api@2021.9.24?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2022.1.24
 - pkg:maven/com.hack23.cia/service.data.api@2022.1.24?classifier=sources
+- pkg:maven/com.hack23.cia/service.data.api@2022.10.9
+- pkg:maven/com.hack23.cia/service.data.api@2022.10.9?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2022.3.12
 - pkg:maven/com.hack23.cia/service.data.api@2022.3.12?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2022.4.14
@@ -176,3 +178,5 @@
 - pkg:maven/com.hack23.cia/service.data.api@2022.8.4?classifier=sources
 - pkg:maven/com.hack23.cia/service.data.api@2022.9.10
 - pkg:maven/com.hack23.cia/service.data.api@2022.9.10?classifier=sources
+- pkg:maven/com.hack23.cia/service.data.api@2022.9.17
+- pkg:maven/com.hack23.cia/service.data.api@2022.9.17?classifier=sources

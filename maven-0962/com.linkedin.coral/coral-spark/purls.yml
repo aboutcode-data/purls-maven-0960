@@ -118,6 +118,12 @@
 - pkg:maven/com.linkedin.coral/coral-spark@1.0.99?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@1.0.9?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.0?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.100?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.101?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.102?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.103?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.104?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.105?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.10?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.13?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.14?classifier=sources
@@ -204,4 +210,6 @@
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.95?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.96?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.97?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.98?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-spark@2.0.99?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-spark@2.0.9?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.typelevel/catbird-finagle_2.12@22.4.0
 - pkg:maven/org.typelevel/catbird-finagle_2.12@22.4.0?classifier=sources
+- pkg:maven/org.typelevel/catbird-finagle_2.12@22.7.0
+- pkg:maven/org.typelevel/catbird-finagle_2.12@22.7.0?classifier=sources

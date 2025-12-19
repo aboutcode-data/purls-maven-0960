@@ -1,0 +1,6 @@
+- pkg:maven/org.memgraph/graph-jdbc-driver@0.4.0
+- pkg:maven/org.memgraph/graph-jdbc-driver@0.4.0?classifier=sources
+- pkg:maven/org.memgraph/graph-jdbc-driver@0.4.4
+- pkg:maven/org.memgraph/graph-jdbc-driver@0.4.4?classifier=sources
+- pkg:maven/org.memgraph/graph-jdbc-driver@0.4.8
+- pkg:maven/org.memgraph/graph-jdbc-driver@0.4.8?classifier=sources

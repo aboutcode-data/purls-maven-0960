@@ -60,6 +60,8 @@
 - pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.14.4?classifier=sources
 - pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.14.5
 - pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.14.5?classifier=sources
+- pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.14.6
+- pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.14.6?classifier=sources
 - pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.15.0
 - pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.15.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-queryable-state-client-java@1.15.1

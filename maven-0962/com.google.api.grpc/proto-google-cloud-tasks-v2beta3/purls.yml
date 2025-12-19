@@ -189,6 +189,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.10?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.11
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.11?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.12
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.12?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.91.2?classifier=sources
@@ -211,6 +213,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.10
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.10?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.11
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.11?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.12
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.12?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.2?classifier=sources
@@ -222,3 +230,9 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.5?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.6
 - pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.6?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.8
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.8?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.9
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.93.9?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.94.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-tasks-v2beta3@0.94.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/com.intel.analytics.bigdl.core.native.bigquant/bigquant-java-mac@0.9.1?classifier=sources
 - pkg:maven/com.intel.analytics.bigdl.core.native.bigquant/bigquant-java-mac@2.0.0
 - pkg:maven/com.intel.analytics.bigdl.core.native.bigquant/bigquant-java-mac@2.0.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl.core.native.bigquant/bigquant-java-mac@2.1.0
+- pkg:maven/com.intel.analytics.bigdl.core.native.bigquant/bigquant-java-mac@2.1.0?classifier=sources

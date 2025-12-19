@@ -90,3 +90,5 @@
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.4?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.5?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.5?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.7?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.7?type=zip

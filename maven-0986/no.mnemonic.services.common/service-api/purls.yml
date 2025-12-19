@@ -99,8 +99,12 @@
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.37?classifier=sources
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.38
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.38?classifier=sources
+- pkg:maven/no.mnemonic.services.common/service-api@0.3.39
+- pkg:maven/no.mnemonic.services.common/service-api@0.3.39?classifier=sources
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.3?classifier=sources
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.4
+- pkg:maven/no.mnemonic.services.common/service-api@0.3.40
+- pkg:maven/no.mnemonic.services.common/service-api@0.3.40?classifier=sources
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.4?classifier=sources
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.5
 - pkg:maven/no.mnemonic.services.common/service-api@0.3.5?classifier=sources

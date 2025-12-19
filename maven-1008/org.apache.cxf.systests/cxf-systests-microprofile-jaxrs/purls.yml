@@ -44,6 +44,8 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.4.7?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.4.8
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.4.8?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.4.9
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.4.9?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.0
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.0?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.1
@@ -52,3 +54,5 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.2?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.3
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.3?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.4
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-jaxrs@3.5.4?classifier=sources

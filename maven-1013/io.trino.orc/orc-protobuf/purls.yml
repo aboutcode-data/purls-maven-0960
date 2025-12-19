@@ -4,3 +4,5 @@
 - pkg:maven/io.trino.orc/orc-protobuf@12?classifier=sources
 - pkg:maven/io.trino.orc/orc-protobuf@13
 - pkg:maven/io.trino.orc/orc-protobuf@13?classifier=sources
+- pkg:maven/io.trino.orc/orc-protobuf@14
+- pkg:maven/io.trino.orc/orc-protobuf@14?classifier=sources

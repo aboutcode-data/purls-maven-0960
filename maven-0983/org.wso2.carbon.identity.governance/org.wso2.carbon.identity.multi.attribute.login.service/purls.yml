@@ -146,3 +146,7 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.6.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.6.5
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.6.5?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.8.0
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.8.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.8.1
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.multi.attribute.login.service@1.8.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.mycore/mycore-cronjob@2022.02?classifier=sources
 - pkg:maven/org.mycore/mycore-cronjob@2022.05
 - pkg:maven/org.mycore/mycore-cronjob@2022.05?classifier=sources
+- pkg:maven/org.mycore/mycore-cronjob@2022.06.0
+- pkg:maven/org.mycore/mycore-cronjob@2022.06.0?classifier=sources

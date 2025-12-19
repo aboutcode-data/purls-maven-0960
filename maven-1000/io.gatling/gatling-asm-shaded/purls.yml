@@ -1,2 +1,4 @@
 - pkg:maven/io.gatling/gatling-asm-shaded@9.2
 - pkg:maven/io.gatling/gatling-asm-shaded@9.2?classifier=sources
+- pkg:maven/io.gatling/gatling-asm-shaded@9.4
+- pkg:maven/io.gatling/gatling-asm-shaded@9.4?classifier=sources

@@ -59,6 +59,7 @@
 - pkg:maven/org.projectnessie/nessie-deltalake@0.41.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.43.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-deltalake@0.44.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.9.1
 - pkg:maven/org.projectnessie/nessie-deltalake@0.9.1?classifier=sources
 - pkg:maven/org.projectnessie/nessie-deltalake@0.9.2

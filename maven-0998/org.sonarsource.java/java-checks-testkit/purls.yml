@@ -147,6 +147,7 @@
 - pkg:maven/org.sonarsource.java/java-checks-testkit@7.12.0.29739?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-testkit@7.12.1.29810?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-testkit@7.13.0.29990?classifier=sources
+- pkg:maven/org.sonarsource.java/java-checks-testkit@7.14.0.30229?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-testkit@7.2.0.26923?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-testkit@7.3.0.27589?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-testkit@7.4.0.27839?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.sila-standard.sila_java.library/maven_plugin@0.6.0?classifier=sources
 - pkg:maven/org.sila-standard.sila_java.library/maven_plugin@0.7.0
 - pkg:maven/org.sila-standard.sila_java.library/maven_plugin@0.7.0?classifier=sources
+- pkg:maven/org.sila-standard.sila_java.library/maven_plugin@0.8.0
+- pkg:maven/org.sila-standard.sila_java.library/maven_plugin@0.8.0?classifier=sources

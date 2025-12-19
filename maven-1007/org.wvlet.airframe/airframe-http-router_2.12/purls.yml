@@ -26,6 +26,12 @@
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@21.9.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.1.0
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.1.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.10.0
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.10.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.10.1
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.10.1?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.10.2
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.10.2?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.2.0
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.2.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.3.0
@@ -62,3 +68,7 @@
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.1
 - pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.1?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.2
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.2?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.3
+- pkg:maven/org.wvlet.airframe/airframe-http-router_2.12@22.9.3?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.1.5
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.1.5?classifier=sources
+- pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0-M1
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0-M1?classifier=sources
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0-M2
@@ -8,6 +9,8 @@
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0-M3?classifier=sources
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0-M4
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0-M4?classifier=sources
+- pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.2.0?classifier=sources
+- pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0-RC1-1
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0-RC1-1?classifier=sources
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0-RC10
@@ -30,3 +33,4 @@
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0-RC8?classifier=sources
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0-RC9
 - pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0-RC9?classifier=sources
+- pkg:maven/dev.zio/zio-json-macros_sjs1_2.12@0.3.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-revision-api@1.16.3?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-revision-api@1.17.0
 - pkg:maven/org.apache.nifi.registry/nifi-registry-revision-api@1.17.0?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-revision-api@1.18.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-revision-api@1.18.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-salesforce-delete-sink-kafka-connector@3.18.1
 - pkg:maven/org.apache.camel.kafkaconnector/camel-salesforce-delete-sink-kafka-connector@3.18.1?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-salesforce-delete-sink-kafka-connector@3.18.2
+- pkg:maven/org.apache.camel.kafkaconnector/camel-salesforce-delete-sink-kafka-connector@3.18.2?classifier=sources

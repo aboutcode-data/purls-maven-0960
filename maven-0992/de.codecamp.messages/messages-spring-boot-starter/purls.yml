@@ -38,3 +38,5 @@
 - pkg:maven/de.codecamp.messages/messages-spring-boot-starter@0.9.8?classifier=sources
 - pkg:maven/de.codecamp.messages/messages-spring-boot-starter@0.9.9
 - pkg:maven/de.codecamp.messages/messages-spring-boot-starter@0.9.9?classifier=sources
+- pkg:maven/de.codecamp.messages/messages-spring-boot-starter@1.0.0
+- pkg:maven/de.codecamp.messages/messages-spring-boot-starter@1.0.0?classifier=sources

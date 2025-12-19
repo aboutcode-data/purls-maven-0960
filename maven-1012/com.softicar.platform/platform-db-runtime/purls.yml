@@ -39,3 +39,11 @@
 - pkg:maven/com.softicar.platform/platform-db-runtime@21.1.2?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-runtime@22.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db-runtime@23.0.0-rc1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@23.0.0-rc2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@23.0.0-rc3?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@23.0.0-rc4?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@23.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@23.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@24.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@24.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db-runtime@24.0.2?classifier=sources

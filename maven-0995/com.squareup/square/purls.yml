@@ -37,6 +37,8 @@
 - pkg:maven/com.squareup/square@23.0.0.20220817?classifier=sources
 - pkg:maven/com.squareup/square@23.1.0.20220823
 - pkg:maven/com.squareup/square@23.1.0.20220823?classifier=sources
+- pkg:maven/com.squareup/square@24.0.0.20220921
+- pkg:maven/com.squareup/square@24.0.0.20220921?classifier=sources
 - pkg:maven/com.squareup/square@3.3.0.20191217
 - pkg:maven/com.squareup/square@3.3.0.20191217?classifier=sources
 - pkg:maven/com.squareup/square@4.0.0.20191217

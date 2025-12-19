@@ -5,3 +5,6 @@
 - pkg:maven/com.agorapulse/micronaut-worker-queues-redis@1.2.1-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-worker-queues-redis@1.2.1-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-worker-queues-redis@1.2.1-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-worker-queues-redis@1.2.2-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-worker-queues-redis@1.2.2-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-worker-queues-redis@1.2.2-micronaut-3.0?classifier=sources

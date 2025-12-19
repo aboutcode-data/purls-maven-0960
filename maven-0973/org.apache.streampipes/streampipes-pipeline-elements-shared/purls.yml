@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-pipeline-elements-shared@0.69.0
 - pkg:maven/org.apache.streampipes/streampipes-pipeline-elements-shared@0.69.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-pipeline-elements-shared@0.70.0
+- pkg:maven/org.apache.streampipes/streampipes-pipeline-elements-shared@0.70.0?classifier=sources

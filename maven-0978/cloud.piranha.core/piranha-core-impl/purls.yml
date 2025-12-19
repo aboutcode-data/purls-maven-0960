@@ -4,6 +4,8 @@
 - pkg:maven/cloud.piranha.core/piranha-core-impl@21.12.0?classifier=sources
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.1.0
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.1.0?classifier=sources
+- pkg:maven/cloud.piranha.core/piranha-core-impl@22.10.0
+- pkg:maven/cloud.piranha.core/piranha-core-impl@22.10.0?classifier=sources
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.2.0
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.2.0?classifier=sources
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.3.0
@@ -18,3 +20,5 @@
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.7.0?classifier=sources
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.8.0
 - pkg:maven/cloud.piranha.core/piranha-core-impl@22.8.0?classifier=sources
+- pkg:maven/cloud.piranha.core/piranha-core-impl@22.9.0
+- pkg:maven/cloud.piranha.core/piranha-core-impl@22.9.0?classifier=sources

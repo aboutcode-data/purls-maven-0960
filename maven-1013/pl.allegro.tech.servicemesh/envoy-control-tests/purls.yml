@@ -73,6 +73,10 @@
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.2-remove-resource-dir2?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.2-remove-resource-dir?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.20?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.21?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.22?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.23?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.24?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.2?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.3?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.19.4?classifier=sources

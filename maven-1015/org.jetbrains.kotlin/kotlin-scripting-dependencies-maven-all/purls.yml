@@ -30,7 +30,9 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.10
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.20
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.20-Beta
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.20-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.20-RC
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.20-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@1.7.20?classifier=sources

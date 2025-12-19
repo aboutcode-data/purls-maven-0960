@@ -44,6 +44,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.11.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.12.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.12.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.13.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.13.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.2.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jaxb@2.2.1

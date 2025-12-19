@@ -6,3 +6,5 @@
 - pkg:maven/io.netty/netty5-testsuite-native-image-client@5.0.0.Alpha3?classifier=sources
 - pkg:maven/io.netty/netty5-testsuite-native-image-client@5.0.0.Alpha4
 - pkg:maven/io.netty/netty5-testsuite-native-image-client@5.0.0.Alpha4?classifier=sources
+- pkg:maven/io.netty/netty5-testsuite-native-image-client@5.0.0.Alpha5
+- pkg:maven/io.netty/netty5-testsuite-native-image-client@5.0.0.Alpha5?classifier=sources

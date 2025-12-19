@@ -58,3 +58,5 @@
 - pkg:maven/com.netflix.iep/iep-ses@3.0.9?classifier=sources
 - pkg:maven/com.netflix.iep/iep-ses@4.0.0
 - pkg:maven/com.netflix.iep/iep-ses@4.0.0?classifier=sources
+- pkg:maven/com.netflix.iep/iep-ses@4.0.1
+- pkg:maven/com.netflix.iep/iep-ses@4.0.1?classifier=sources

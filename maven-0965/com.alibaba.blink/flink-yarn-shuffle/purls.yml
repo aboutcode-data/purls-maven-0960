@@ -17,5 +17,7 @@
 - pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.5.0-RELEASE?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.6.4
 - pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.6.4?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.6.8
+- pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.6.8?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.7.0
 - pkg:maven/com.alibaba.blink/flink-yarn-shuffle@blink-3.7.0?classifier=sources

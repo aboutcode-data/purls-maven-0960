@@ -66,3 +66,5 @@
 - pkg:maven/com.easemob.im/im-sdk-core@0.5.9?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-core@0.6.0
 - pkg:maven/com.easemob.im/im-sdk-core@0.6.0?classifier=sources
+- pkg:maven/com.easemob.im/im-sdk-core@0.6.1
+- pkg:maven/com.easemob.im/im-sdk-core@0.6.1?classifier=sources

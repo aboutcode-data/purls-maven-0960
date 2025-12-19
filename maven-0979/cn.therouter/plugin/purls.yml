@@ -1,2 +1,14 @@
 - pkg:maven/cn.therouter/plugin@1.1.0
 - pkg:maven/cn.therouter/plugin@1.1.0?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.1.1
+- pkg:maven/cn.therouter/plugin@1.1.1-rc1
+- pkg:maven/cn.therouter/plugin@1.1.1-rc1?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.1.1-rc2
+- pkg:maven/cn.therouter/plugin@1.1.1-rc2?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.1.1-rc3
+- pkg:maven/cn.therouter/plugin@1.1.1-rc3?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.1.1-rc4
+- pkg:maven/cn.therouter/plugin@1.1.1-rc4?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.1.1-rc5
+- pkg:maven/cn.therouter/plugin@1.1.1-rc5?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.1.1?classifier=sources

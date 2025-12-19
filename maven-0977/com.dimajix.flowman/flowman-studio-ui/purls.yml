@@ -133,3 +133,16 @@
 - pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.27.0-oss-spark3.2-hadoop3.3
 - pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.27.0-oss-spark3.3-hadoop2.7
 - pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.27.0-oss-spark3.3-hadoop3.3
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-cdh6-spark2.4-hadoop3.0
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-cdp7-spark2.4-hadoop3.1
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark2.4-hadoop2.6
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark2.4-hadoop2.7
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.0-hadoop2.7
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.0-hadoop3.2
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.1-hadoop2.7
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.1-hadoop3.2
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.2-hadoop2.7
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.2-hadoop3.3
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.3-hadoop2.7
+- pkg:maven/com.dimajix.flowman/flowman-studio-ui@0.28.0-oss-spark3.3-hadoop3.3

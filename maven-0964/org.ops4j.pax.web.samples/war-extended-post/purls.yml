@@ -164,6 +164,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.25?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.26?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.26?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.27?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.27?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.3.3?classifier=sources

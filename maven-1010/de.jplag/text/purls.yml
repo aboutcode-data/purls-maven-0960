@@ -1,2 +1,4 @@
 - pkg:maven/de.jplag/text@3.0.0
 - pkg:maven/de.jplag/text@3.0.0?classifier=sources
+- pkg:maven/de.jplag/text@4.0.0
+- pkg:maven/de.jplag/text@4.0.0?classifier=sources

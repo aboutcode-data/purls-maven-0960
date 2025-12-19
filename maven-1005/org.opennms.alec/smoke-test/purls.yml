@@ -6,3 +6,7 @@
 - pkg:maven/org.opennms.alec/smoke-test@1.1.1?classifier=sources
 - pkg:maven/org.opennms.alec/smoke-test@2.0.0
 - pkg:maven/org.opennms.alec/smoke-test@2.0.0?classifier=sources
+- pkg:maven/org.opennms.alec/smoke-test@2.1.1-ALPHA
+- pkg:maven/org.opennms.alec/smoke-test@2.1.1-ALPHA?classifier=sources
+- pkg:maven/org.opennms.alec/smoke-test@2.1.2-ALPHA
+- pkg:maven/org.opennms.alec/smoke-test@2.1.2-ALPHA?classifier=sources

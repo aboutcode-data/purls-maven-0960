@@ -1,2 +1,4 @@
 - pkg:maven/com.intel.analytics.bigdl/bigdl-orca-spark_3.1.2@2.0.0
 - pkg:maven/com.intel.analytics.bigdl/bigdl-orca-spark_3.1.2@2.0.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl/bigdl-orca-spark_3.1.2@2.1.0
+- pkg:maven/com.intel.analytics.bigdl/bigdl-orca-spark_3.1.2@2.1.0?classifier=sources

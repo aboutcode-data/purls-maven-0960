@@ -1,2 +1,8 @@
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.0.CR2
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.0.CR2?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.0.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.1.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.2.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.2.Final?classifier=sources

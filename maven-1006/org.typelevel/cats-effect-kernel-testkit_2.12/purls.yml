@@ -106,7 +106,15 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.3.9-20-44bf4e1
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.3.9-20-44bf4e1?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.3.9?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-148221d
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-148221d?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-387-e167c59
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-387-e167c59?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-389-3862cf0
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-389-3862cf0?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-4c07d83
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4-4c07d83?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4.0-RC1
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4.0-RC1?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4.0-RC2
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.4.0-RC2?classifier=sources

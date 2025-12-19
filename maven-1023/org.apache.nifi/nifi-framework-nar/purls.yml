@@ -28,6 +28,7 @@
 - pkg:maven/org.apache.nifi/nifi-framework-nar@1.16.2?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-framework-nar@1.16.3?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-framework-nar@1.17.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-nar@1.18.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-framework-nar@1.5.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-framework-nar@1.6.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-framework-nar@1.7.0?classifier=sources

@@ -107,6 +107,12 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-kms@3.21.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-kms@3.21.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-kms@3.21.2.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-kms@3.21.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-kms@3.21.3.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-kms@3.22.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-kms@3.22.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-kms@3.22.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-kms@3.23.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-kms@3.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-kms@3.3.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-kms@3.3.2.0?classifier=sources

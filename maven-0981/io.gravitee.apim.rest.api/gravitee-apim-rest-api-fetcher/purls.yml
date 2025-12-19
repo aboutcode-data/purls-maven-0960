@@ -133,6 +133,10 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.0
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.0?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.1
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.10
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.10?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.11
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.11?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.2
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-fetcher@3.18.2?classifier=sources

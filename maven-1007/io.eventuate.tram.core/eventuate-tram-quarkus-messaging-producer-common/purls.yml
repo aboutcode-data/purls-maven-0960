@@ -2,3 +2,5 @@
 - pkg:maven/io.eventuate.tram.core/eventuate-tram-quarkus-messaging-producer-common@0.2.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.core/eventuate-tram-quarkus-messaging-producer-common@0.3.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.tram.core/eventuate-tram-quarkus-messaging-producer-common@0.4.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-quarkus-messaging-producer-common@0.5.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-quarkus-messaging-producer-common@0.5.1.RELEASE?classifier=sources

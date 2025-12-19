@@ -12,6 +12,8 @@
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.15?classifier=sources
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.16
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.16?classifier=sources
+- pkg:maven/dev.zio/zio-test-sbt_3@1.0.17
+- pkg:maven/dev.zio/zio-test-sbt_3@1.0.17?classifier=sources
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.8
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.8?classifier=sources
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.9

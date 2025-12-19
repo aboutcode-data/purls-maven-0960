@@ -1,0 +1,10 @@
+- pkg:maven/io.javalin/javalin-rendering@5.0.0
+- pkg:maven/io.javalin/javalin-rendering@5.0.0.RC2
+- pkg:maven/io.javalin/javalin-rendering@5.0.0.RC2?classifier=sources
+- pkg:maven/io.javalin/javalin-rendering@5.0.0?classifier=sources
+- pkg:maven/io.javalin/javalin-rendering@5.0.1
+- pkg:maven/io.javalin/javalin-rendering@5.0.1?classifier=sources
+- pkg:maven/io.javalin/javalin-rendering@5.1.0
+- pkg:maven/io.javalin/javalin-rendering@5.1.0?classifier=sources
+- pkg:maven/io.javalin/javalin-rendering@5.1.1
+- pkg:maven/io.javalin/javalin-rendering@5.1.1?classifier=sources

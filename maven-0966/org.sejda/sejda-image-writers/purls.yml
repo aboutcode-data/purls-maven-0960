@@ -229,6 +229,12 @@
 - pkg:maven/org.sejda/sejda-image-writers@4.3.13?classifier=sources
 - pkg:maven/org.sejda/sejda-image-writers@4.3.14
 - pkg:maven/org.sejda/sejda-image-writers@4.3.14?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@4.3.15
+- pkg:maven/org.sejda/sejda-image-writers@4.3.15?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@4.3.16
+- pkg:maven/org.sejda/sejda-image-writers@4.3.16?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@4.3.17
+- pkg:maven/org.sejda/sejda-image-writers@4.3.17?classifier=sources
 - pkg:maven/org.sejda/sejda-image-writers@4.3.1?classifier=sources
 - pkg:maven/org.sejda/sejda-image-writers@4.3.2
 - pkg:maven/org.sejda/sejda-image-writers@4.3.2?classifier=sources
@@ -248,3 +254,7 @@
 - pkg:maven/org.sejda/sejda-image-writers@4.3.9?classifier=sources
 - pkg:maven/org.sejda/sejda-image-writers@5.0.0.M1
 - pkg:maven/org.sejda/sejda-image-writers@5.0.0.M1?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@5.0.0.M2
+- pkg:maven/org.sejda/sejda-image-writers@5.0.0.M2?classifier=sources
+- pkg:maven/org.sejda/sejda-image-writers@5.0.0.M3
+- pkg:maven/org.sejda/sejda-image-writers@5.0.0.M3?classifier=sources

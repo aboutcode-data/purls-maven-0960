@@ -124,6 +124,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@22.0.29
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@22.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@22.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@22.0.33
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@22.0.33?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@5.2.0.M4
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@5.2.0.M4?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc@5.2.0.M5

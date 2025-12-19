@@ -2,3 +2,7 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.26.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.27.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.27.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.28.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.28.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.29.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-jobs-knative-eventing-deployment@1.29.0.Final?classifier=sources

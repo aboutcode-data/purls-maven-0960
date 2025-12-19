@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/httpsnippet@1.16.5
 - pkg:maven/org.webjars.npm/httpsnippet@1.16.5?classifier=sources
+- pkg:maven/org.webjars.npm/httpsnippet@2.0.0
+- pkg:maven/org.webjars.npm/httpsnippet@2.0.0?classifier=sources

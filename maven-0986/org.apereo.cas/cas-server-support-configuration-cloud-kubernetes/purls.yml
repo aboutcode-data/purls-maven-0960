@@ -15,3 +15,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-kubernetes@6.6.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-kubernetes@6.6.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-kubernetes@6.6.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-kubernetes@6.6.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-configuration-cloud-kubernetes@7.0.0-RC1?classifier=sources

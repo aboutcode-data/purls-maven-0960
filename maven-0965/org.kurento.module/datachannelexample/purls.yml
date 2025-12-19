@@ -1,5 +1,7 @@
 - pkg:maven/org.kurento.module/datachannelexample@6.15.0
 - pkg:maven/org.kurento.module/datachannelexample@6.15.0?classifier=sources
+- pkg:maven/org.kurento.module/datachannelexample@6.18.0
+- pkg:maven/org.kurento.module/datachannelexample@6.18.0?classifier=sources
 - pkg:maven/org.kurento.module/datachannelexample@6.3.1
 - pkg:maven/org.kurento.module/datachannelexample@6.3.1?classifier=sources
 - pkg:maven/org.kurento.module/datachannelexample@6.4.0

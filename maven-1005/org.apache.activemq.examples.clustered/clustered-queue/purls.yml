@@ -64,6 +64,8 @@
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.24.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.25.0
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.25.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.26.0
+- pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.26.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.3.0
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/clustered-queue@2.4.0

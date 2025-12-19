@@ -35,3 +35,7 @@
 - pkg:maven/me.proton.core/report-presentation@8.5.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@9.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@9.0.2?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@9.1.0?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@9.1.1?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@9.1.2?classifier=sources

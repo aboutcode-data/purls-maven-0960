@@ -62,3 +62,5 @@
 - pkg:maven/com.weicoder/image@3.5.4-jdk8
 - pkg:maven/com.weicoder/image@3.5.4-jdk8?classifier=sources
 - pkg:maven/com.weicoder/image@3.5.4?classifier=sources
+- pkg:maven/com.weicoder/image@3.5.5
+- pkg:maven/com.weicoder/image@3.5.5?classifier=sources
