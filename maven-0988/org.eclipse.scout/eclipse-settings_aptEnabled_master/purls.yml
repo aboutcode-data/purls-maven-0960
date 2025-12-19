@@ -42,6 +42,8 @@
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.12.6?classifier=sources
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.12.7
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.12.7?classifier=sources
+- pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.12.9
+- pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.12.9?classifier=sources
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.2.0
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.2.0?classifier=sources
 - pkg:maven/org.eclipse.scout/eclipse-settings_aptEnabled_master@3.3.0

@@ -138,6 +138,14 @@
 - pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.69.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.7.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.70.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.70.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.71.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.71.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.72.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.72.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.73.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.73.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.8.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/jaxrs-gson@3.9.0

@@ -1,6 +1,8 @@
+- pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0
 - pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0-rc1
 - pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0-rc1?classifier=sources
 - pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0-rc2
 - pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0-rc2?classifier=sources
 - pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0-rc3
 - pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0-rc3?classifier=sources
+- pkg:maven/io.reinert.requestor.core/requestor-core@1.1.0?classifier=sources

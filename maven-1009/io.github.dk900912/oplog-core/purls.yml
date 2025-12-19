@@ -7,6 +7,12 @@
 - pkg:maven/io.github.dk900912/oplog-core@1.0.12?classifier=sources
 - pkg:maven/io.github.dk900912/oplog-core@1.0.13
 - pkg:maven/io.github.dk900912/oplog-core@1.0.13?classifier=sources
+- pkg:maven/io.github.dk900912/oplog-core@1.0.14
+- pkg:maven/io.github.dk900912/oplog-core@1.0.14?classifier=sources
+- pkg:maven/io.github.dk900912/oplog-core@1.0.15
+- pkg:maven/io.github.dk900912/oplog-core@1.0.15?classifier=sources
+- pkg:maven/io.github.dk900912/oplog-core@1.0.16
+- pkg:maven/io.github.dk900912/oplog-core@1.0.16?classifier=sources
 - pkg:maven/io.github.dk900912/oplog-core@1.0.1?classifier=sources
 - pkg:maven/io.github.dk900912/oplog-core@1.0.2
 - pkg:maven/io.github.dk900912/oplog-core@1.0.2?classifier=sources
@@ -24,3 +30,5 @@
 - pkg:maven/io.github.dk900912/oplog-core@1.0.8?classifier=sources
 - pkg:maven/io.github.dk900912/oplog-core@1.0.9
 - pkg:maven/io.github.dk900912/oplog-core@1.0.9?classifier=sources
+- pkg:maven/io.github.dk900912/oplog-core@1.1
+- pkg:maven/io.github.dk900912/oplog-core@1.1?classifier=sources

@@ -58,3 +58,7 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.8?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.9
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.9?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.0.RC1
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.0.RC1?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.0.RC2
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.0.RC2?classifier=sources

@@ -70,6 +70,8 @@
 - pkg:maven/org.webjars.npm/moment@2.29.2?classifier=sources
 - pkg:maven/org.webjars.npm/moment@2.29.3
 - pkg:maven/org.webjars.npm/moment@2.29.3?classifier=sources
+- pkg:maven/org.webjars.npm/moment@2.29.4
+- pkg:maven/org.webjars.npm/moment@2.29.4?classifier=sources
 - pkg:maven/org.webjars.npm/moment@2.8.3
 - pkg:maven/org.webjars.npm/moment@2.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/moment@2.8.4

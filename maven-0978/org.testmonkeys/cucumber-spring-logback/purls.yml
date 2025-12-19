@@ -13,6 +13,10 @@
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.14?classifier=sources
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.15
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.15?classifier=sources
+- pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.16
+- pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.16?classifier=sources
+- pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.17
+- pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.17?classifier=sources
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.1?classifier=sources
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.2
 - pkg:maven/org.testmonkeys/cucumber-spring-logback@1.7.2?classifier=sources

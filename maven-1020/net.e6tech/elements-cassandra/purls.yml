@@ -161,8 +161,14 @@
 - pkg:maven/net.e6tech/elements-cassandra@2.6.36?classifier=sources
 - pkg:maven/net.e6tech/elements-cassandra@2.6.37
 - pkg:maven/net.e6tech/elements-cassandra@2.6.37?classifier=sources
+- pkg:maven/net.e6tech/elements-cassandra@2.6.38
+- pkg:maven/net.e6tech/elements-cassandra@2.6.38?classifier=sources
+- pkg:maven/net.e6tech/elements-cassandra@2.6.39
+- pkg:maven/net.e6tech/elements-cassandra@2.6.39?classifier=sources
 - pkg:maven/net.e6tech/elements-cassandra@2.6.3?classifier=sources
 - pkg:maven/net.e6tech/elements-cassandra@2.6.4
+- pkg:maven/net.e6tech/elements-cassandra@2.6.40
+- pkg:maven/net.e6tech/elements-cassandra@2.6.40?classifier=sources
 - pkg:maven/net.e6tech/elements-cassandra@2.6.4?classifier=sources
 - pkg:maven/net.e6tech/elements-cassandra@2.6.5
 - pkg:maven/net.e6tech/elements-cassandra@2.6.5?classifier=sources

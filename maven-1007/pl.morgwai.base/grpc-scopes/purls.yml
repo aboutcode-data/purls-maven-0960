@@ -30,3 +30,11 @@
 - pkg:maven/pl.morgwai.base/grpc-scopes@6.0?classifier=sources
 - pkg:maven/pl.morgwai.base/grpc-scopes@6.1
 - pkg:maven/pl.morgwai.base/grpc-scopes@6.1?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@6.2
+- pkg:maven/pl.morgwai.base/grpc-scopes@6.2?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@7.0
+- pkg:maven/pl.morgwai.base/grpc-scopes@7.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@8.0
+- pkg:maven/pl.morgwai.base/grpc-scopes@8.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@9.0
+- pkg:maven/pl.morgwai.base/grpc-scopes@9.0?classifier=sources

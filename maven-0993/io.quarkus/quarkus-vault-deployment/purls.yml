@@ -199,6 +199,13 @@
 - pkg:maven/io.quarkus/quarkus-vault-deployment@2.1.4.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vault-deployment@2.10.0.CR1
 - pkg:maven/io.quarkus/quarkus-vault-deployment@2.10.0.Final
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.10.1.Final
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.10.2.Final
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.10.3.Final
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.10.4.Final
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.11.0.CR1
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.11.0.Final
+- pkg:maven/io.quarkus/quarkus-vault-deployment@2.11.1.Final
 - pkg:maven/io.quarkus/quarkus-vault-deployment@2.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-vault-deployment@2.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vault-deployment@2.2.0.Final

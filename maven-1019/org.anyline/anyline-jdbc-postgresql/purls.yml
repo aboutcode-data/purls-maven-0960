@@ -124,9 +124,17 @@
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220615?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220617
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220617?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220623
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220623?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220629
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220629?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220630
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-20220630?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-beta1
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-beta1?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-beta2
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-beta2?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-beta3
 - pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.3-beta3?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.5-20220725
+- pkg:maven/org.anyline/anyline-jdbc-postgresql@8.5.5-20220725?classifier=sources

@@ -36,3 +36,7 @@
 - pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.5.2
 - pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.5.2?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.5?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.6-RC1
+- pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.6-RC1?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.6-RC2
+- pkg:maven/de.wayofquality.blended/blended.security.scep.standalone_2.13@3.6-RC2?classifier=sources

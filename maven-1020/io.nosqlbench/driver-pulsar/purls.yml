@@ -1,3 +1,7 @@
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.100
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.100?classifier=sources
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.101
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.101?classifier=sources
 - pkg:maven/io.nosqlbench/driver-pulsar@4.15.31
 - pkg:maven/io.nosqlbench/driver-pulsar@4.15.31?classifier=sources
 - pkg:maven/io.nosqlbench/driver-pulsar@4.15.33
@@ -92,3 +96,7 @@
 - pkg:maven/io.nosqlbench/driver-pulsar@4.15.96?classifier=sources
 - pkg:maven/io.nosqlbench/driver-pulsar@4.15.97
 - pkg:maven/io.nosqlbench/driver-pulsar@4.15.97?classifier=sources
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.98
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.98?classifier=sources
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.99
+- pkg:maven/io.nosqlbench/driver-pulsar@4.15.99?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.expofp/fplan@0.2.2?classifier=sources
+- pkg:maven/com.expofp/fplan@0.2.8?classifier=sources
 - pkg:maven/com.expofp/fplan@1.0.0?classifier=sources
 - pkg:maven/com.expofp/fplan@1.0.1?classifier=sources
 - pkg:maven/com.expofp/fplan@1.1.0?classifier=sources
@@ -12,3 +14,4 @@
 - pkg:maven/com.expofp/fplan@1.1.8?classifier=sources
 - pkg:maven/com.expofp/fplan@1.1.9?classifier=sources
 - pkg:maven/com.expofp/fplan@2.0.0?classifier=sources
+- pkg:maven/com.expofp/fplan@2.1.0?classifier=sources

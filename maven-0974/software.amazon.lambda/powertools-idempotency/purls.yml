@@ -6,3 +6,5 @@
 - pkg:maven/software.amazon.lambda/powertools-idempotency@1.12.1?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-idempotency@1.12.2
 - pkg:maven/software.amazon.lambda/powertools-idempotency@1.12.2?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-idempotency@1.12.3
+- pkg:maven/software.amazon.lambda/powertools-idempotency@1.12.3?classifier=sources

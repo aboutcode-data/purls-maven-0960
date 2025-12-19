@@ -1,2 +1,6 @@
 - pkg:maven/com.teamscale/teamscale-maven-plugin@24.0.1
 - pkg:maven/com.teamscale/teamscale-maven-plugin@24.0.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-maven-plugin@24.1.1
+- pkg:maven/com.teamscale/teamscale-maven-plugin@24.1.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-maven-plugin@25.0.0
+- pkg:maven/com.teamscale/teamscale-maven-plugin@25.0.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.21.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.21.3
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.21.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.22.0
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.22.0?classifier=sources

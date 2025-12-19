@@ -1,0 +1,4 @@
+- pkg:maven/com.launchableinc/launchable-testng@0.1-alpha-2
+- pkg:maven/com.launchableinc/launchable-testng@0.1-alpha-2?classifier=sources
+- pkg:maven/com.launchableinc/launchable-testng@1.0.0
+- pkg:maven/com.launchableinc/launchable-testng@1.0.0?classifier=sources

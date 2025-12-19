@@ -101,6 +101,8 @@
 - pkg:maven/org.neo4j/annotations@4.3.13?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.3.14
 - pkg:maven/org.neo4j/annotations@4.3.14?classifier=sources
+- pkg:maven/org.neo4j/annotations@4.3.15
+- pkg:maven/org.neo4j/annotations@4.3.15?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.3.1?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.3.2
 - pkg:maven/org.neo4j/annotations@4.3.2?classifier=sources
@@ -136,3 +138,5 @@
 - pkg:maven/org.neo4j/annotations@4.4.7?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.4.8
 - pkg:maven/org.neo4j/annotations@4.4.8?classifier=sources
+- pkg:maven/org.neo4j/annotations@4.4.9
+- pkg:maven/org.neo4j/annotations@4.4.9?classifier=sources

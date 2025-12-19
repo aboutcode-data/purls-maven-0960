@@ -66,3 +66,8 @@
 - pkg:maven/io.peekandpoke.ultra/kontainer@0.47.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/kontainer@0.47.1?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/kontainer@0.47.2?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/kontainer@0.48.2?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/kontainer@0.50.0-kotlin170?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/kontainer@0.51.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/kontainer@0.52.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/kontainer@0.52.1?classifier=sources

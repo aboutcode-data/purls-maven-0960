@@ -9,6 +9,8 @@
 - pkg:maven/com.spotify/elitzur-core_2.12@0.6.12?classifier=sources
 - pkg:maven/com.spotify/elitzur-core_2.12@0.6.14
 - pkg:maven/com.spotify/elitzur-core_2.12@0.6.14?classifier=sources
+- pkg:maven/com.spotify/elitzur-core_2.12@0.6.15-SCI00120-RC11
+- pkg:maven/com.spotify/elitzur-core_2.12@0.6.15-SCI00120-RC11?classifier=sources
 - pkg:maven/com.spotify/elitzur-core_2.12@0.6.1?classifier=sources
 - pkg:maven/com.spotify/elitzur-core_2.12@0.6.2
 - pkg:maven/com.spotify/elitzur-core_2.12@0.6.2?classifier=sources

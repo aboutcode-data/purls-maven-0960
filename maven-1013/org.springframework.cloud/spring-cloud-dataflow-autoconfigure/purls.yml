@@ -78,3 +78,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.9.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.9.4
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.9.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.9.5
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.9.5?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.10.0?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.10.1
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.10.1?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-logging@1.11.0
+- pkg:maven/org.camunda.commons/camunda-commons-logging@1.11.0?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.2.0
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.2.0-alpha7
 - pkg:maven/org.camunda.commons/camunda-commons-logging@1.2.0-alpha7?classifier=sources

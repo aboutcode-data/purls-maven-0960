@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.10.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.10.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.11.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.11.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.3.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.4.0
@@ -12,6 +14,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.7.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.7.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.7.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.7.2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.7.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.8.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.8.0-M1?classifier=sources

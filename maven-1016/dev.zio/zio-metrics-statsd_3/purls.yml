@@ -2,5 +2,7 @@
 - pkg:maven/dev.zio/zio-metrics-statsd_3@1.0.13?classifier=sources
 - pkg:maven/dev.zio/zio-metrics-statsd_3@1.0.14
 - pkg:maven/dev.zio/zio-metrics-statsd_3@1.0.14?classifier=sources
+- pkg:maven/dev.zio/zio-metrics-statsd_3@2.0.0
 - pkg:maven/dev.zio/zio-metrics-statsd_3@2.0.0-RC6
 - pkg:maven/dev.zio/zio-metrics-statsd_3@2.0.0-RC6?classifier=sources
+- pkg:maven/dev.zio/zio-metrics-statsd_3@2.0.0?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.karaf.examples/karaf-itest-example@4.3.7?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-itest-example@4.4.0
 - pkg:maven/org.apache.karaf.examples/karaf-itest-example@4.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-itest-example@4.4.1
+- pkg:maven/org.apache.karaf.examples/karaf-itest-example@4.4.1?classifier=sources

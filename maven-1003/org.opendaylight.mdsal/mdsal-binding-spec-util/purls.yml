@@ -40,6 +40,9 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@1.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@1.0.9
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@1.0.9?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@10.0.1
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-spec-util@2.0.1

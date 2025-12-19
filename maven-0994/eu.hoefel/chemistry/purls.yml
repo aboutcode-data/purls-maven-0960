@@ -1,2 +1,4 @@
 - pkg:maven/eu.hoefel/chemistry@1.0.0
 - pkg:maven/eu.hoefel/chemistry@1.0.0?classifier=sources
+- pkg:maven/eu.hoefel/chemistry@1.1.0
+- pkg:maven/eu.hoefel/chemistry@1.1.0?classifier=sources

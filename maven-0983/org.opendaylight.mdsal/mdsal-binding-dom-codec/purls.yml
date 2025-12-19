@@ -54,6 +54,9 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@0.9.3-Boron-SR3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@0.9.4-Boron-SR4
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@0.9.4-Boron-SR4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.1
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@3.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@3.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@3.0.1

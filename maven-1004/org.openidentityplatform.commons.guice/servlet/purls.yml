@@ -10,6 +10,8 @@
 - pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.14?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.15
 - pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.15?classifier=sources
+- pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.16
+- pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.16?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.7
 - pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.7?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.guice/servlet@2.0.8

@@ -2,3 +2,5 @@
 - pkg:maven/com.dianping.cat/cat-client@3.0.1?classifier=sources
 - pkg:maven/com.dianping.cat/cat-client@3.1.0
 - pkg:maven/com.dianping.cat/cat-client@3.1.0?classifier=sources
+- pkg:maven/com.dianping.cat/cat-client@4.0-RC1
+- pkg:maven/com.dianping.cat/cat-client@4.0-RC1?classifier=sources

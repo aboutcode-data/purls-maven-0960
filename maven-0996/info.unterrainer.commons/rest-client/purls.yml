@@ -25,3 +25,9 @@
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.8?classifier=sources
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.9
 - pkg:maven/info.unterrainer.commons/rest-client@0.0.9?classifier=sources
+- pkg:maven/info.unterrainer.commons/rest-client@0.1.0
+- pkg:maven/info.unterrainer.commons/rest-client@0.1.0?classifier=sources
+- pkg:maven/info.unterrainer.commons/rest-client@0.1.1
+- pkg:maven/info.unterrainer.commons/rest-client@0.1.1?classifier=sources
+- pkg:maven/info.unterrainer.commons/rest-client@0.1.2
+- pkg:maven/info.unterrainer.commons/rest-client@0.1.2?classifier=sources

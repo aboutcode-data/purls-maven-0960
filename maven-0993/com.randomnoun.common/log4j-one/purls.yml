@@ -1,2 +1,4 @@
 - pkg:maven/com.randomnoun.common/log4j-one@0.0.4
 - pkg:maven/com.randomnoun.common/log4j-one@0.0.4?classifier=sources
+- pkg:maven/com.randomnoun.common/log4j-one@1.0.0
+- pkg:maven/com.randomnoun.common/log4j-one@1.0.0?classifier=sources

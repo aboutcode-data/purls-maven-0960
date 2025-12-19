@@ -1,6 +1,16 @@
 - pkg:maven/xyz.erupt/erupt-core@1.10.0-beta
 - pkg:maven/xyz.erupt/erupt-core@1.10.0-beta?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.10.1
+- pkg:maven/xyz.erupt/erupt-core@1.10.10
+- pkg:maven/xyz.erupt/erupt-core@1.10.10-beta
+- pkg:maven/xyz.erupt/erupt-core@1.10.10-beta2
+- pkg:maven/xyz.erupt/erupt-core@1.10.10-beta2?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.10.10-beta?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.10.10?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.10.11
+- pkg:maven/xyz.erupt/erupt-core@1.10.11?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.10.12
+- pkg:maven/xyz.erupt/erupt-core@1.10.12?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.10.1?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.10.2
 - pkg:maven/xyz.erupt/erupt-core@1.10.2?classifier=sources
@@ -24,8 +34,10 @@
 - pkg:maven/xyz.erupt/erupt-core@1.10.8-beta.4?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.10.8-beta?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.10.8?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.10.9
 - pkg:maven/xyz.erupt/erupt-core@1.10.9-beta
 - pkg:maven/xyz.erupt/erupt-core@1.10.9-beta?classifier=sources
+- pkg:maven/xyz.erupt/erupt-core@1.10.9?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.10.beta
 - pkg:maven/xyz.erupt/erupt-core@1.10.beta?classifier=sources
 - pkg:maven/xyz.erupt/erupt-core@1.5.1

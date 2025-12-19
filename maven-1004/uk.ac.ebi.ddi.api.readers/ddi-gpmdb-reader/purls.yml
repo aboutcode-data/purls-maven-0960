@@ -1,2 +1,6 @@
 - pkg:maven/uk.ac.ebi.ddi.api.readers/ddi-gpmdb-reader@1.0
 - pkg:maven/uk.ac.ebi.ddi.api.readers/ddi-gpmdb-reader@1.0?classifier=sources
+- pkg:maven/uk.ac.ebi.ddi.api.readers/ddi-gpmdb-reader@1.1
+- pkg:maven/uk.ac.ebi.ddi.api.readers/ddi-gpmdb-reader@1.1?classifier=sources
+- pkg:maven/uk.ac.ebi.ddi.api.readers/ddi-gpmdb-reader@1.2
+- pkg:maven/uk.ac.ebi.ddi.api.readers/ddi-gpmdb-reader@1.2?classifier=sources

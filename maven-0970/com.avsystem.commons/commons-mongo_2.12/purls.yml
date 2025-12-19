@@ -360,3 +360,7 @@
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.0?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.1
 - pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.1?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.2
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.2?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.3
+- pkg:maven/com.avsystem.commons/commons-mongo_2.12@2.7.3?classifier=sources

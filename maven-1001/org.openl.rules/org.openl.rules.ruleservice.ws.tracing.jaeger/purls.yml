@@ -4,6 +4,10 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.10?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.11?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.11?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.12?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.12?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.13?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.13?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.1?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.2?classifier=sources
@@ -24,3 +28,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.25.9?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.26.0?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.26.0?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.26.1?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.tracing.jaeger@5.26.1?type=zip

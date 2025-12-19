@@ -138,6 +138,14 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.69.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.7.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.70.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.70.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.71.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.71.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.72.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.72.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.73.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.73.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.8.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/tenant@3.9.0

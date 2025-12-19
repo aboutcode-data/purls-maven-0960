@@ -4,6 +4,8 @@
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.11?classifier=sources
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.12
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.12?classifier=sources
+- pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.15
+- pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.15?classifier=sources
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.4
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.4?classifier=sources
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.5
@@ -16,3 +18,7 @@
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.8?classifier=sources
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.9
 - pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.1.9?classifier=sources
+- pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.2.0
+- pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.2.0?classifier=sources
+- pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.2.1
+- pkg:maven/io.github.kitlangton/animus_sjs1_2.13@0.2.1?classifier=sources

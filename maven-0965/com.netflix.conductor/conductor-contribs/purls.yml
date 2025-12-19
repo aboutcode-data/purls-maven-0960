@@ -490,6 +490,7 @@
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.31.6?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.31.7?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.31.8?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-contribs@2.31.9?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.4.0
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.4.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-contribs@2.4.1

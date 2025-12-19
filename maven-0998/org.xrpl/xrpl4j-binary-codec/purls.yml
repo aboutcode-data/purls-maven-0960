@@ -15,6 +15,12 @@
 - pkg:maven/org.xrpl/xrpl4j-binary-codec@2.2.0
 - pkg:maven/org.xrpl/xrpl4j-binary-codec@2.2.0?classifier=sources
 - pkg:maven/org.xrpl/xrpl4j-binary-codec@2.3.0
+- pkg:maven/org.xrpl/xrpl4j-binary-codec@2.3.0-nft-dev-preview
+- pkg:maven/org.xrpl/xrpl4j-binary-codec@2.3.0-nft-dev-preview?classifier=sources
 - pkg:maven/org.xrpl/xrpl4j-binary-codec@2.3.0?classifier=sources
+- pkg:maven/org.xrpl/xrpl4j-binary-codec@2.4.0
+- pkg:maven/org.xrpl/xrpl4j-binary-codec@2.4.0-nft-dev-preview
+- pkg:maven/org.xrpl/xrpl4j-binary-codec@2.4.0-nft-dev-preview?classifier=sources
+- pkg:maven/org.xrpl/xrpl4j-binary-codec@2.4.0?classifier=sources
 - pkg:maven/org.xrpl/xrpl4j-binary-codec@3.0.0-rc1
 - pkg:maven/org.xrpl/xrpl4j-binary-codec@3.0.0-rc1?classifier=sources

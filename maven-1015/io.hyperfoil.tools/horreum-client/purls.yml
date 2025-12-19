@@ -8,3 +8,7 @@
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.4.1
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.4.1?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.4?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.5
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.5.1
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.5.1?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.5?classifier=sources

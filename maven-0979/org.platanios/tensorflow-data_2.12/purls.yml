@@ -46,3 +46,5 @@
 - pkg:maven/org.platanios/tensorflow-data_2.12@0.6.3?classifier=sources
 - pkg:maven/org.platanios/tensorflow-data_2.12@0.6.4
 - pkg:maven/org.platanios/tensorflow-data_2.12@0.6.4?classifier=sources
+- pkg:maven/org.platanios/tensorflow-data_2.12@0.6.5
+- pkg:maven/org.platanios/tensorflow-data_2.12@0.6.5?classifier=sources

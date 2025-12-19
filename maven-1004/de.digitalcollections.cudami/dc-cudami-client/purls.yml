@@ -78,6 +78,7 @@
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@5.2.4?classifier=sources
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@5.2.5
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@5.2.5?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC1
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC1?classifier=sources
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC2
@@ -86,3 +87,12 @@
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC3?classifier=sources
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC4
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC4?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC5
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC5?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC6
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0-RC6?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.1.0
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.1.0-RC1
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.1.0-RC1?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-client@6.1.0?classifier=sources

@@ -42,6 +42,10 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.4.2?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.4.3
 - pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.4.3?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.5.0
+- pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.5.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.5.1
+- pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@5.5.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@6.0.0-PR.1
 - pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@6.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-core-v20@6.0.0-PR.2

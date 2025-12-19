@@ -1285,6 +1285,10 @@
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.0
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.0?classifier=sources
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.1
+- pkg:maven/co.fs2/fs2-core_2.12@3.2.10
+- pkg:maven/co.fs2/fs2-core_2.12@3.2.10?classifier=sources
+- pkg:maven/co.fs2/fs2-core_2.12@3.2.11
+- pkg:maven/co.fs2/fs2-core_2.12@3.2.11?classifier=sources
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.1?classifier=sources
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.2
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.2?classifier=sources
@@ -1300,3 +1304,5 @@
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.7?classifier=sources
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.8
 - pkg:maven/co.fs2/fs2-core_2.12@3.2.8?classifier=sources
+- pkg:maven/co.fs2/fs2-core_2.12@3.2.9
+- pkg:maven/co.fs2/fs2-core_2.12@3.2.9?classifier=sources

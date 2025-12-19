@@ -80,3 +80,4 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.17.4
 - pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.17.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.17.5?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.18.0?classifier=sources

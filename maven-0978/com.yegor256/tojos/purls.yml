@@ -1,3 +1,7 @@
+- pkg:maven/com.yegor256/tojos@0.10.0
+- pkg:maven/com.yegor256/tojos@0.10.0?classifier=sources
+- pkg:maven/com.yegor256/tojos@0.11.0
+- pkg:maven/com.yegor256/tojos@0.11.0?classifier=sources
 - pkg:maven/com.yegor256/tojos@0.3.0
 - pkg:maven/com.yegor256/tojos@0.3.0?classifier=sources
 - pkg:maven/com.yegor256/tojos@0.4.0

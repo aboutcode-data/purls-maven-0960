@@ -14,3 +14,5 @@
 - pkg:maven/org.intermine/bio-webapp@5.0.6?type=war
 - pkg:maven/org.intermine/bio-webapp@5.0.7?classifier=sources
 - pkg:maven/org.intermine/bio-webapp@5.0.7?type=war
+- pkg:maven/org.intermine/bio-webapp@5.0.8?classifier=sources
+- pkg:maven/org.intermine/bio-webapp@5.0.8?type=war

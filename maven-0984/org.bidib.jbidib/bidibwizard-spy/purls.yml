@@ -74,3 +74,7 @@
 - pkg:maven/org.bidib.jbidib/bidibwizard-spy@1.13.9?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-spy@2.0.0-M1
 - pkg:maven/org.bidib.jbidib/bidibwizard-spy@2.0.0-M1?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-spy@2.0.0.RC1
+- pkg:maven/org.bidib.jbidib/bidibwizard-spy@2.0.0.RC1?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-spy@2.0.0.RC2
+- pkg:maven/org.bidib.jbidib/bidibwizard-spy@2.0.0.RC2?classifier=sources

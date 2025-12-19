@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.1.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.10.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.10.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.11.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.11.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.2.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.2.1
@@ -54,6 +56,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.7.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.7.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.7.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.7.2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.7.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.8.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-debezium-postgres-deployment@2.8.0-M1?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler@2.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler@3.0.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler@3.0.0-beta-1?classifier=source-release&type=zip
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler@3.0.0-beta-2?classifier=source-release&type=zip

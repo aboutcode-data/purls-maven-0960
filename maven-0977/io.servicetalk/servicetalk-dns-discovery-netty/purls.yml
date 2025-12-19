@@ -47,6 +47,8 @@
 - pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.10?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.11?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.12?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.13?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.1?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.2?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-dns-discovery-netty@0.42.3?classifier=sources

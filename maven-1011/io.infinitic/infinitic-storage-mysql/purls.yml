@@ -1,3 +1,5 @@
+- pkg:maven/io.infinitic/infinitic-storage-mysql@0.9.10?classifier=sources
+- pkg:maven/io.infinitic/infinitic-storage-mysql@0.9.11?classifier=sources
 - pkg:maven/io.infinitic/infinitic-storage-mysql@0.9.7?classifier=sources
 - pkg:maven/io.infinitic/infinitic-storage-mysql@0.9.8?classifier=sources
 - pkg:maven/io.infinitic/infinitic-storage-mysql@0.9.9?classifier=sources

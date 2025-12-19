@@ -6,3 +6,5 @@
 - pkg:maven/com.arkivanov.mvikotlin/rx-android@3.0.0-alpha03?classifier=sources
 - pkg:maven/com.arkivanov.mvikotlin/rx-android@3.0.0-beta01?classifier=sources
 - pkg:maven/com.arkivanov.mvikotlin/rx-android@3.0.0-beta02?classifier=sources
+- pkg:maven/com.arkivanov.mvikotlin/rx-android@3.0.0?classifier=sources
+- pkg:maven/com.arkivanov.mvikotlin/rx-android@3.0.1?classifier=sources

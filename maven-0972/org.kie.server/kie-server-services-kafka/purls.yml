@@ -48,3 +48,7 @@
 - pkg:maven/org.kie.server/kie-server-services-kafka@7.70.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-kafka@7.71.0.Final
 - pkg:maven/org.kie.server/kie-server-services-kafka@7.71.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-kafka@7.72.0.Final
+- pkg:maven/org.kie.server/kie-server-services-kafka@7.72.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-kafka@7.73.0.Final
+- pkg:maven/org.kie.server/kie-server-services-kafka@7.73.0.Final?classifier=sources

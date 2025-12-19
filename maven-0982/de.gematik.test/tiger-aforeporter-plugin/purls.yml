@@ -46,6 +46,10 @@
 - pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.22.3?classifier=sources
 - pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.23.1
 - pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.23.1?classifier=sources
+- pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.23.2
+- pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.23.2?classifier=sources
+- pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.23.3
+- pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.23.3?classifier=sources
 - pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.3.0
 - pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.3.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-aforeporter-plugin@0.4.0

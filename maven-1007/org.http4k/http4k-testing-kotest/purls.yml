@@ -148,6 +148,9 @@
 - pkg:maven/org.http4k/http4k-testing-kotest@4.25.9.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-kotest@4.26.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-kotest@4.27.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-kotest@4.27.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-kotest@4.27.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-testing-kotest@4.27.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-kotest@4.3.0.0
 - pkg:maven/org.http4k/http4k-testing-kotest@4.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-testing-kotest@4.3.2.0

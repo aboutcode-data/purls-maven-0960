@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/fastest-levenshtein@1.0.12
 - pkg:maven/org.webjars.npm/fastest-levenshtein@1.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/fastest-levenshtein@1.0.16
+- pkg:maven/org.webjars.npm/fastest-levenshtein@1.0.16?classifier=sources

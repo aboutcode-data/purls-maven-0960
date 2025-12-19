@@ -28,3 +28,7 @@
 - pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.1.8?classifier=sources
 - pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.1.9
 - pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.1.9?classifier=sources
+- pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.2.0
+- pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.2.0?classifier=sources
+- pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.2.1
+- pkg:maven/it.cnr.si.sprint/sprint-keycloak@3.2.1?classifier=sources

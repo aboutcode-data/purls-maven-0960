@@ -80,6 +80,8 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@20.4?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@20.5
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@20.5?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@20.6
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@20.6?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@21.0
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@21.0?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@21.1
@@ -90,3 +92,5 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@21.3?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@22.0
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@22.0?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@22.1
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-common@22.1?classifier=sources

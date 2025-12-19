@@ -194,7 +194,15 @@
 - pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.2.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.3.Final
 - pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.3.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.4.Final
+- pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.4.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.5.Final
+- pkg:maven/io.debezium/debezium-connector-sqlserver@1.9.5.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Alpha1
 - pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Alpha2
 - pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Alpha3
+- pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Alpha3?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Beta1
+- pkg:maven/io.debezium/debezium-connector-sqlserver@2.0.0.Beta1?classifier=sources

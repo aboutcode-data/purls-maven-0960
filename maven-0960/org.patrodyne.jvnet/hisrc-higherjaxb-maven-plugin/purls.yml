@@ -1,2 +1,4 @@
 - pkg:maven/org.patrodyne.jvnet/hisrc-higherjaxb-maven-plugin@0.14.1
 - pkg:maven/org.patrodyne.jvnet/hisrc-higherjaxb-maven-plugin@0.14.1?classifier=sources
+- pkg:maven/org.patrodyne.jvnet/hisrc-higherjaxb-maven-plugin@0.14.2
+- pkg:maven/org.patrodyne.jvnet/hisrc-higherjaxb-maven-plugin@0.14.2?classifier=sources

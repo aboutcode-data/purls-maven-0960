@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.tomee/cdi-signature-test@8.0.8?classifier=sources
 - pkg:maven/org.apache.tomee/cdi-signature-test@8.0.9
 - pkg:maven/org.apache.tomee/cdi-signature-test@8.0.9?classifier=sources
+- pkg:maven/org.apache.tomee/cdi-signature-test@9.0.0-M8
+- pkg:maven/org.apache.tomee/cdi-signature-test@9.0.0-M8?classifier=sources

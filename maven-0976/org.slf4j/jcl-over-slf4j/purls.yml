@@ -140,3 +140,7 @@
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha6?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha7
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-alpha7?classifier=sources
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-beta0
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-beta0?classifier=sources
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-beta1
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.0-beta1?classifier=sources

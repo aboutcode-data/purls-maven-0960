@@ -11,3 +11,5 @@
 - pkg:maven/io.objectbox/objectbox-processor@3.1.1?classifier=sources
 - pkg:maven/io.objectbox/objectbox-processor@3.1.2?classifier=sources
 - pkg:maven/io.objectbox/objectbox-processor@3.1.3?classifier=sources
+- pkg:maven/io.objectbox/objectbox-processor@3.2.0?classifier=sources
+- pkg:maven/io.objectbox/objectbox-processor@3.2.1?classifier=sources

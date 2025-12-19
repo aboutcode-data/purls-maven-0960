@@ -55,6 +55,8 @@
 - pkg:maven/com.weicoder/dao@2.5.3?classifier=sources
 - pkg:maven/com.weicoder/dao@2.5.4
 - pkg:maven/com.weicoder/dao@2.5.4?classifier=sources
+- pkg:maven/com.weicoder/dao@2.5.5
+- pkg:maven/com.weicoder/dao@2.5.5?classifier=sources
 - pkg:maven/com.weicoder/dao@2.6.0
 - pkg:maven/com.weicoder/dao@2.6.0?classifier=sources
 - pkg:maven/com.weicoder/dao@2.6.1
@@ -165,3 +167,9 @@
 - pkg:maven/com.weicoder/dao@3.5.1-jdk8
 - pkg:maven/com.weicoder/dao@3.5.1-jdk8?classifier=sources
 - pkg:maven/com.weicoder/dao@3.5.1?classifier=sources
+- pkg:maven/com.weicoder/dao@3.5.2
+- pkg:maven/com.weicoder/dao@3.5.2-jdk11
+- pkg:maven/com.weicoder/dao@3.5.2-jdk11?classifier=sources
+- pkg:maven/com.weicoder/dao@3.5.2-jdk8
+- pkg:maven/com.weicoder/dao@3.5.2-jdk8?classifier=sources
+- pkg:maven/com.weicoder/dao@3.5.2?classifier=sources

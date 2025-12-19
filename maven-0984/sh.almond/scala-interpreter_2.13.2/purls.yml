@@ -26,3 +26,5 @@
 - pkg:maven/sh.almond/scala-interpreter_2.13.2@0.11.2?classifier=sources
 - pkg:maven/sh.almond/scala-interpreter_2.13.2@0.13.0
 - pkg:maven/sh.almond/scala-interpreter_2.13.2@0.13.0?classifier=sources
+- pkg:maven/sh.almond/scala-interpreter_2.13.2@0.13.1
+- pkg:maven/sh.almond/scala-interpreter_2.13.2@0.13.1?classifier=sources

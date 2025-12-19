@@ -1,5 +1,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.1.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.1.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.10.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.10.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.2.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.2.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.2.1
@@ -10,3 +12,17 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.4.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.5.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.5.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.6.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.6.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.6.2
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.6.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.7.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.7.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.8.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.8.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.8.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.8.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.9.2
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.9.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.9.3
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-xml-protocol@3.9.3?classifier=sources

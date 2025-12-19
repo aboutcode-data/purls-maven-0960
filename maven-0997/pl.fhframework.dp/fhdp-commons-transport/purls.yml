@@ -1,5 +1,7 @@
 - pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.10.0
 - pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.10.0?classifier=sources
+- pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.10.2
+- pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.10.2?classifier=sources
 - pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.9.23
 - pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.9.23?classifier=sources
 - pkg:maven/pl.fhframework.dp/fhdp-commons-transport@4.9.24
