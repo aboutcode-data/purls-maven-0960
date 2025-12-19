@@ -16,3 +16,7 @@
 - pkg:maven/io.openmessaging.storage/dledger@0.2.6?classifier=sources
 - pkg:maven/io.openmessaging.storage/dledger@0.2.7
 - pkg:maven/io.openmessaging.storage/dledger@0.2.7?classifier=sources
+- pkg:maven/io.openmessaging.storage/dledger@0.3.0
+- pkg:maven/io.openmessaging.storage/dledger@0.3.0?classifier=sources
+- pkg:maven/io.openmessaging.storage/dledger@0.3.1
+- pkg:maven/io.openmessaging.storage/dledger@0.3.1?classifier=sources

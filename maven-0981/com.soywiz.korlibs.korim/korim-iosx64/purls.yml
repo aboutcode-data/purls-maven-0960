@@ -41,3 +41,6 @@
 - pkg:maven/com.soywiz.korlibs.korim/korim-iosx64@3.0.0-Beta6?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-iosx64@3.0.0-Beta7?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-iosx64@3.0.0-Beta?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-iosx64@3.0.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-iosx64@3.0.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-iosx64@3.1.0?classifier=sources

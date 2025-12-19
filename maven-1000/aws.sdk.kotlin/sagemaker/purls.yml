@@ -23,6 +23,9 @@
 - pkg:maven/aws.sdk.kotlin/sagemaker@0.17.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/sagemaker@0.17.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/sagemaker@0.17.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemaker@0.17.3-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemaker@0.17.4-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemaker@0.17.5-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/sagemaker@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/sagemaker@0.5.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/sagemaker@0.6.0-alpha?classifier=sources

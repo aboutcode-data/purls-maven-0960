@@ -36,3 +36,7 @@
 - pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.1.3?classifier=sources
 - pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.1.4
 - pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.1.4?classifier=sources
+- pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.2.0
+- pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.2.0?classifier=sources
+- pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.2.1
+- pkg:maven/org.eu.acolyte/play-jdbc_2.12@1.2.1?classifier=sources

@@ -44,6 +44,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.7.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.7.4
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.7.4?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.7.5
+- pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.7.5?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.0
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.1
@@ -52,6 +54,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.3
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.3?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.4
+- pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.8.4?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.9.0
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.9.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-data-generator@2.9.1

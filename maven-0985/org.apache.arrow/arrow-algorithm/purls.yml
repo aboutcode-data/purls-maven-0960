@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.arrow/arrow-algorithm@7.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-algorithm@8.0.0
 - pkg:maven/org.apache.arrow/arrow-algorithm@8.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-algorithm@9.0.0
+- pkg:maven/org.apache.arrow/arrow-algorithm@9.0.0?classifier=sources

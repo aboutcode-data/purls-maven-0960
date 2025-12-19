@@ -66,6 +66,8 @@
 - pkg:maven/org.apache.flink/flink-scala_2.12@1.15.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-scala_2.12@1.15.1
 - pkg:maven/org.apache.flink/flink-scala_2.12@1.15.1?classifier=sources
+- pkg:maven/org.apache.flink/flink-scala_2.12@1.15.2
+- pkg:maven/org.apache.flink/flink-scala_2.12@1.15.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-scala_2.12@1.7.0
 - pkg:maven/org.apache.flink/flink-scala_2.12@1.7.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-scala_2.12@1.7.1

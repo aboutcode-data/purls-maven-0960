@@ -30,3 +30,5 @@
 - pkg:maven/com.consol.citrus/citrus-jdbc@3.2.0?classifier=sources
 - pkg:maven/com.consol.citrus/citrus-jdbc@3.2.1
 - pkg:maven/com.consol.citrus/citrus-jdbc@3.2.1?classifier=sources
+- pkg:maven/com.consol.citrus/citrus-jdbc@3.3.0
+- pkg:maven/com.consol.citrus/citrus-jdbc@3.3.0?classifier=sources

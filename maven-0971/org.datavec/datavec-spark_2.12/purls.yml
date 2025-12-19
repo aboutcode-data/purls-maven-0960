@@ -1,4 +1,6 @@
 - pkg:maven/org.datavec/datavec-spark_2.12@1.0.0-M2
+- pkg:maven/org.datavec/datavec-spark_2.12@1.0.0-M2.1
+- pkg:maven/org.datavec/datavec-spark_2.12@1.0.0-M2.1?classifier=sources
 - pkg:maven/org.datavec/datavec-spark_2.12@1.0.0-M2?classifier=sources
 - pkg:maven/org.datavec/datavec-spark_2.12@1.0.0-beta5
 - pkg:maven/org.datavec/datavec-spark_2.12@1.0.0-beta5?classifier=sources

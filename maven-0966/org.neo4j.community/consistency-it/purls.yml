@@ -79,6 +79,8 @@
 - pkg:maven/org.neo4j.community/consistency-it@3.5.33?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@3.5.34
 - pkg:maven/org.neo4j.community/consistency-it@3.5.34?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@3.5.35
+- pkg:maven/org.neo4j.community/consistency-it@3.5.35?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@3.5.3?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@3.5.4
 - pkg:maven/org.neo4j.community/consistency-it@3.5.4?classifier=sources
@@ -127,6 +129,8 @@
 - pkg:maven/org.neo4j.community/consistency-it@4.1.10?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.1.11
 - pkg:maven/org.neo4j.community/consistency-it@4.1.11?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.1.12
+- pkg:maven/org.neo4j.community/consistency-it@4.1.12?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.1.1?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.1.2
 - pkg:maven/org.neo4j.community/consistency-it@4.1.2?classifier=sources
@@ -165,6 +169,8 @@
 - pkg:maven/org.neo4j.community/consistency-it@4.2.17?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.2.18
 - pkg:maven/org.neo4j.community/consistency-it@4.2.18?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.2.19
+- pkg:maven/org.neo4j.community/consistency-it@4.2.19?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.2.1?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.2.2
 - pkg:maven/org.neo4j.community/consistency-it@4.2.2?classifier=sources
@@ -197,6 +203,12 @@
 - pkg:maven/org.neo4j.community/consistency-it@4.3.14?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.3.15
 - pkg:maven/org.neo4j.community/consistency-it@4.3.15?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.3.16
+- pkg:maven/org.neo4j.community/consistency-it@4.3.16?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.3.17
+- pkg:maven/org.neo4j.community/consistency-it@4.3.17?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.3.18
+- pkg:maven/org.neo4j.community/consistency-it@4.3.18?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.3.1?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.3.2
 - pkg:maven/org.neo4j.community/consistency-it@4.3.2?classifier=sources
@@ -217,6 +229,10 @@
 - pkg:maven/org.neo4j.community/consistency-it@4.4.0
 - pkg:maven/org.neo4j.community/consistency-it@4.4.0?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.4.1
+- pkg:maven/org.neo4j.community/consistency-it@4.4.10
+- pkg:maven/org.neo4j.community/consistency-it@4.4.10?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.4.11
+- pkg:maven/org.neo4j.community/consistency-it@4.4.11?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.4.1?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.4.2
 - pkg:maven/org.neo4j.community/consistency-it@4.4.2?classifier=sources

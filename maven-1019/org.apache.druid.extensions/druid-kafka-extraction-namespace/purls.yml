@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-kafka-extraction-namespace@0.22.1?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-kafka-extraction-namespace@0.23.0
 - pkg:maven/org.apache.druid.extensions/druid-kafka-extraction-namespace@0.23.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-kafka-extraction-namespace@24.0.0
+- pkg:maven/org.apache.druid.extensions/druid-kafka-extraction-namespace@24.0.0?classifier=sources

@@ -63,4 +63,8 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.58
 - pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.58?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.59
+- pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.59.1
+- pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.59.1?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.59?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.60
+- pkg:maven/org.testingisdocumenting.znai/znai-ecmascript@1.60?classifier=sources

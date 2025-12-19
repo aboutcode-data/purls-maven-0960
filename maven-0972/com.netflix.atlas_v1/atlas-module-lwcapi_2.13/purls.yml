@@ -1,3 +1,5 @@
+- pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.6.7-rc.2
+- pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.6.7-rc.2?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.14
 - pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.14?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.15
@@ -22,3 +24,5 @@
 - pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.24?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.25
 - pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.25?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.26
+- pkg:maven/com.netflix.atlas_v1/atlas-module-lwcapi_2.13@1.7.0-rc.26?classifier=sources

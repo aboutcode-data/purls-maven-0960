@@ -62,6 +62,10 @@
 - pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.23.0?type=war
 - pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.23.1?classifier=sources
 - pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.23.1?type=war
+- pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.24.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.24.0?type=war
+- pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.25.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.25.0?type=war
 - pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.3.0?type=war
 - pkg:maven/org.apache.activemq.examples.rest/javascript-chat@2.4.0?classifier=sources

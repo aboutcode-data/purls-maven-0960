@@ -6,6 +6,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.1.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.10.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.10.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.10.2
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.10.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.10.3
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.10.3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-memcache-v1beta2@0.2.1

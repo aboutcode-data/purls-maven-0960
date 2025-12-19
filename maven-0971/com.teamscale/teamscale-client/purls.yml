@@ -24,3 +24,5 @@
 - pkg:maven/com.teamscale/teamscale-client@24.0.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-client@24.1.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-client@25.0.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-client@26.0.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-client@26.0.1?classifier=sources

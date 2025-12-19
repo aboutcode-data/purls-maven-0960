@@ -10,3 +10,5 @@
 - pkg:maven/pro.juxt.crux/crux-s3@1.18.1-beta1
 - pkg:maven/pro.juxt.crux/crux-s3@1.18.1-beta1?classifier=sources
 - pkg:maven/pro.juxt.crux/crux-s3@1.18.1?classifier=sources
+- pkg:maven/pro.juxt.crux/crux-s3@1.18.2
+- pkg:maven/pro.juxt.crux/crux-s3@1.18.2?classifier=sources

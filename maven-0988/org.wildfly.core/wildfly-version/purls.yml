@@ -236,6 +236,8 @@
 - pkg:maven/org.wildfly.core/wildfly-version@18.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@18.1.1.Final
 - pkg:maven/org.wildfly.core/wildfly-version@18.1.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-version@18.1.2.Final
+- pkg:maven/org.wildfly.core/wildfly-version@18.1.2.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta1
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta10
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta10?classifier=sources
@@ -249,6 +251,8 @@
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta14?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta15
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta15?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta17
+- pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta17?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta2
 - pkg:maven/org.wildfly.core/wildfly-version@19.0.0.Beta2?classifier=sources

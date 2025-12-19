@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.10.0?classifier=sources
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.11.0
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.11.0?classifier=sources
+- pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.12.0
+- pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.12.0?classifier=sources
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.8.0
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.8.0?classifier=sources
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.9.0

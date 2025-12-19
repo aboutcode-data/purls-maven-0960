@@ -84,6 +84,10 @@
 - pkg:maven/io.github.liewhite/json_3@0.17.2?classifier=sources
 - pkg:maven/io.github.liewhite/json_3@0.17.3
 - pkg:maven/io.github.liewhite/json_3@0.17.3?classifier=sources
+- pkg:maven/io.github.liewhite/json_3@0.17.5
+- pkg:maven/io.github.liewhite/json_3@0.17.5?classifier=sources
+- pkg:maven/io.github.liewhite/json_3@0.2.0
+- pkg:maven/io.github.liewhite/json_3@0.2.0?classifier=sources
 - pkg:maven/io.github.liewhite/json_3@0.2.2
 - pkg:maven/io.github.liewhite/json_3@0.2.2?classifier=sources
 - pkg:maven/io.github.liewhite/json_3@0.2.3

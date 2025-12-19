@@ -25,3 +25,5 @@
 - pkg:maven/org.apache.skywalking/configuration-apollo@9.0.0?classifier=sources
 - pkg:maven/org.apache.skywalking/configuration-apollo@9.1.0
 - pkg:maven/org.apache.skywalking/configuration-apollo@9.1.0?classifier=sources
+- pkg:maven/org.apache.skywalking/configuration-apollo@9.2.0
+- pkg:maven/org.apache.skywalking/configuration-apollo@9.2.0?classifier=sources

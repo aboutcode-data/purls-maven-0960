@@ -102,6 +102,8 @@
 - pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.100?classifier=sources
 - pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.101
 - pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.101?classifier=sources
+- pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.102
+- pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.102?classifier=sources
 - pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.31
 - pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.31?classifier=sources
 - pkg:maven/io.nosqlbench/driver-cql-shaded@4.15.33

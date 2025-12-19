@@ -14,6 +14,8 @@
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.2.105?classifier=sources
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.2.106?classifier=sources
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.2.107?classifier=sources
+- pkg:maven/io.github.agoraio-community/AgoraEduCore@2.2.108?classifier=sources
+- pkg:maven/io.github.agoraio-community/AgoraEduCore@2.2.108?type=aar
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.3.0?classifier=sources
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.3.100?classifier=sources
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.3.1?classifier=sources
@@ -38,3 +40,7 @@
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.5.7?classifier=sources
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.6.0?classifier=sources
 - pkg:maven/io.github.agoraio-community/AgoraEduCore@2.6.1?classifier=sources
+- pkg:maven/io.github.agoraio-community/AgoraEduCore@2.6.3?classifier=sources
+- pkg:maven/io.github.agoraio-community/AgoraEduCore@2.7.0?classifier=sources
+- pkg:maven/io.github.agoraio-community/AgoraEduCore@2.7.100?classifier=sources
+- pkg:maven/io.github.agoraio-community/AgoraEduCore@2.7.1?classifier=sources

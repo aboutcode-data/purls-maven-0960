@@ -10,6 +10,8 @@
 - pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.13.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.14.Final
 - pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.14.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.15.Final
+- pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.15.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.2.Final
 - pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.2.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-transport-native-io_uring@0.0.3.Final

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.icemachined/kafka-client@0.0.16?classifier=sources
+- pkg:maven/io.github.icemachined/kafka-client@0.0.20?classifier=sources
+- pkg:maven/io.github.icemachined/kafka-client@0.0.21?classifier=sources
+- pkg:maven/io.github.icemachined/kafka-client@0.0.22?classifier=sources

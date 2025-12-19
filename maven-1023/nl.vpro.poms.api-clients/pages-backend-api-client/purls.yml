@@ -54,3 +54,5 @@
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@5.33.0?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@5.34.0
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@5.34.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@6.0.0
+- pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@6.0.0?classifier=sources

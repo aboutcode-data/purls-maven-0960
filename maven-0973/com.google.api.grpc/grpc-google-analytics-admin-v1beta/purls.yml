@@ -1,2 +1,6 @@
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.12.0
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.12.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.13.0
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.13.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.13.1
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.13.1?classifier=sources

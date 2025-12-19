@@ -46,6 +46,8 @@
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.14.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.14.4
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.14.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.14.5
+- pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.14.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.15.0
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.16.0
@@ -54,6 +56,10 @@
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.18.0
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.18.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.18.1
+- pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.18.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.18.2
+- pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.18.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.2.0
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-caffeine-lrucache@3.3.0

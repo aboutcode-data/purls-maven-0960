@@ -38,3 +38,5 @@
 - pkg:maven/pl.morgwai.base/grpc-scopes@8.0?classifier=sources
 - pkg:maven/pl.morgwai.base/grpc-scopes@9.0
 - pkg:maven/pl.morgwai.base/grpc-scopes@9.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-scopes@9.1
+- pkg:maven/pl.morgwai.base/grpc-scopes@9.1?classifier=sources

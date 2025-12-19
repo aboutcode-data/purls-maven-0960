@@ -16,6 +16,13 @@
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.29?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.2?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.30?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.31?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.32?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.33?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.34?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.35?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.36?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.37?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.12.4?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.4.20
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.4.20?classifier=sources

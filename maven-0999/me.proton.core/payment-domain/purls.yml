@@ -60,3 +60,5 @@
 - pkg:maven/me.proton.core/payment-domain@8.3.0?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@8.4.0?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@8.5.0?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@9.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@9.0.1?classifier=sources

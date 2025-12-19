@@ -3,6 +3,9 @@
 - pkg:maven/io.deephaven/deephaven-qst@0.12.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-qst@0.13.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-qst@0.14.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-qst@0.15.1?classifier=sources
+- pkg:maven/io.deephaven/deephaven-qst@0.16.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-qst@0.16.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-qst@0.4.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-qst@0.4.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-qst@0.5.0?classifier=sources

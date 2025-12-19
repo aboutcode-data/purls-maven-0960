@@ -107,6 +107,8 @@
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.42?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.43
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.43?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.44
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.44?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.4?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.5
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.0.5?classifier=sources
@@ -151,6 +153,8 @@
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.19?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.1?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.2
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.20
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.20?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.2?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.3
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.1.3?classifier=sources
@@ -184,3 +188,5 @@
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.2.7?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.2.8
 - pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.2.8?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.2.9
+- pkg:maven/com.orientechnologies/orientdb-neo4j-importer-plugin@3.2.9?classifier=sources

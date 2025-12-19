@@ -1,2 +1,4 @@
 - pkg:maven/com.codedx/data-provider-sdk-test-utils_2.13@3.0.0-M3
 - pkg:maven/com.codedx/data-provider-sdk-test-utils_2.13@3.0.0-M3?classifier=sources
+- pkg:maven/com.codedx/data-provider-sdk-test-utils_2.13@4.0.0
+- pkg:maven/com.codedx/data-provider-sdk-test-utils_2.13@4.0.0?classifier=sources

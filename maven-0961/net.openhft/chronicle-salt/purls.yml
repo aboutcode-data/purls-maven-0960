@@ -6,5 +6,9 @@
 - pkg:maven/net.openhft/chronicle-salt@2.19.30?classifier=sources
 - pkg:maven/net.openhft/chronicle-salt@2.19.40
 - pkg:maven/net.openhft/chronicle-salt@2.19.40?classifier=sources
+- pkg:maven/net.openhft/chronicle-salt@2.23.5
+- pkg:maven/net.openhft/chronicle-salt@2.23.5?classifier=sources
 - pkg:maven/net.openhft/chronicle-salt@2.23ea3
 - pkg:maven/net.openhft/chronicle-salt@2.23ea3?classifier=sources
+- pkg:maven/net.openhft/chronicle-salt@2.23ea4
+- pkg:maven/net.openhft/chronicle-salt@2.23ea4?classifier=sources

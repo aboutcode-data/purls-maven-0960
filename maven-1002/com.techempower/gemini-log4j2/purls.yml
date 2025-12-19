@@ -5,6 +5,8 @@
 - pkg:maven/com.techempower/gemini-log4j2@3.3.0
 - pkg:maven/com.techempower/gemini-log4j2@3.3.0?classifier=sources
 - pkg:maven/com.techempower/gemini-log4j2@3.3.1
+- pkg:maven/com.techempower/gemini-log4j2@3.3.10
+- pkg:maven/com.techempower/gemini-log4j2@3.3.10?classifier=sources
 - pkg:maven/com.techempower/gemini-log4j2@3.3.1?classifier=sources
 - pkg:maven/com.techempower/gemini-log4j2@3.3.2
 - pkg:maven/com.techempower/gemini-log4j2@3.3.2?classifier=sources

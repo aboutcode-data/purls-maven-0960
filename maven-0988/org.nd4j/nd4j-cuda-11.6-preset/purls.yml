@@ -1,2 +1,4 @@
 - pkg:maven/org.nd4j/nd4j-cuda-11.6-preset@1.0.0-M2
+- pkg:maven/org.nd4j/nd4j-cuda-11.6-preset@1.0.0-M2.1
+- pkg:maven/org.nd4j/nd4j-cuda-11.6-preset@1.0.0-M2.1?classifier=sources
 - pkg:maven/org.nd4j/nd4j-cuda-11.6-preset@1.0.0-M2?classifier=sources

@@ -19,3 +19,10 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@0.7.0?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@0.8.0-native-compose-02?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@0.8.0?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-01-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-02?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-03-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-03?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-04-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-04?classifier=sources

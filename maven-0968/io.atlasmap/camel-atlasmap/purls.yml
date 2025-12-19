@@ -237,6 +237,8 @@
 - pkg:maven/io.atlasmap/camel-atlasmap@2.3.17?classifier=sources
 - pkg:maven/io.atlasmap/camel-atlasmap@2.3.18
 - pkg:maven/io.atlasmap/camel-atlasmap@2.3.18?classifier=sources
+- pkg:maven/io.atlasmap/camel-atlasmap@2.3.19
+- pkg:maven/io.atlasmap/camel-atlasmap@2.3.19?classifier=sources
 - pkg:maven/io.atlasmap/camel-atlasmap@2.3.1?classifier=sources
 - pkg:maven/io.atlasmap/camel-atlasmap@2.3.2
 - pkg:maven/io.atlasmap/camel-atlasmap@2.3.2?classifier=sources
@@ -266,3 +268,5 @@
 - pkg:maven/io.atlasmap/camel-atlasmap@2.4.0?classifier=sources
 - pkg:maven/io.atlasmap/camel-atlasmap@2.5.0
 - pkg:maven/io.atlasmap/camel-atlasmap@2.5.0?classifier=sources
+- pkg:maven/io.atlasmap/camel-atlasmap@2.5.1
+- pkg:maven/io.atlasmap/camel-atlasmap@2.5.1?classifier=sources

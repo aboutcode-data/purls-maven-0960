@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.shenyu/shenyu-client-spring-websocket@2.4.3
 - pkg:maven/org.apache.shenyu/shenyu-client-spring-websocket@2.4.3?classifier=sources
+- pkg:maven/org.apache.shenyu/shenyu-client-spring-websocket@2.5.0
+- pkg:maven/org.apache.shenyu/shenyu-client-spring-websocket@2.5.0?classifier=sources

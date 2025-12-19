@@ -1,3 +1,5 @@
+- pkg:maven/io.imunity/unity-server-oauth@3.10.0
+- pkg:maven/io.imunity/unity-server-oauth@3.10.0?classifier=sources
 - pkg:maven/io.imunity/unity-server-oauth@3.3.0
 - pkg:maven/io.imunity/unity-server-oauth@3.3.0-rc2
 - pkg:maven/io.imunity/unity-server-oauth@3.3.0-rc2?classifier=sources

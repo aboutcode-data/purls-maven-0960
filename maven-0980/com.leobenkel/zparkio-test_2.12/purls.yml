@@ -24,6 +24,8 @@
 - pkg:maven/com.leobenkel/zparkio-test_2.12@2.4.5_0.14.1?classifier=sources
 - pkg:maven/com.leobenkel/zparkio-test_2.12@2.4.5_0.14.9
 - pkg:maven/com.leobenkel/zparkio-test_2.12@2.4.5_0.14.9?classifier=sources
+- pkg:maven/com.leobenkel/zparkio-test_2.12@2.4.5_1.0.0
+- pkg:maven/com.leobenkel/zparkio-test_2.12@2.4.5_1.0.0?classifier=sources
 - pkg:maven/com.leobenkel/zparkio-test_2.12@3.0.1_0.13.0
 - pkg:maven/com.leobenkel/zparkio-test_2.12@3.0.1_0.13.0?classifier=sources
 - pkg:maven/com.leobenkel/zparkio-test_2.12@3.1.1_0.14.0
@@ -32,3 +34,5 @@
 - pkg:maven/com.leobenkel/zparkio-test_2.12@3.1.2_0.14.1?classifier=sources
 - pkg:maven/com.leobenkel/zparkio-test_2.12@3.1.2_0.14.9
 - pkg:maven/com.leobenkel/zparkio-test_2.12@3.1.2_0.14.9?classifier=sources
+- pkg:maven/com.leobenkel/zparkio-test_2.12@3.1.2_1.0.0
+- pkg:maven/com.leobenkel/zparkio-test_2.12@3.1.2_1.0.0?classifier=sources

@@ -3,4 +3,6 @@
 - pkg:maven/com.nimbusds/oauth-jwt-self-issued-grant-handler@1.0.1?classifier=sources
 - pkg:maven/com.nimbusds/oauth-jwt-self-issued-grant-handler@1.0?classifier=sources
 - pkg:maven/com.nimbusds/oauth-jwt-self-issued-grant-handler@1.1
+- pkg:maven/com.nimbusds/oauth-jwt-self-issued-grant-handler@1.1.1
+- pkg:maven/com.nimbusds/oauth-jwt-self-issued-grant-handler@1.1.1?classifier=sources
 - pkg:maven/com.nimbusds/oauth-jwt-self-issued-grant-handler@1.1?classifier=sources

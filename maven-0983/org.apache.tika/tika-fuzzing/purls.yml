@@ -13,6 +13,8 @@
 - pkg:maven/org.apache.tika/tika-fuzzing@1.28.3?classifier=sources
 - pkg:maven/org.apache.tika/tika-fuzzing@1.28.4
 - pkg:maven/org.apache.tika/tika-fuzzing@1.28.4?classifier=sources
+- pkg:maven/org.apache.tika/tika-fuzzing@1.28.5
+- pkg:maven/org.apache.tika/tika-fuzzing@1.28.5?classifier=sources
 - pkg:maven/org.apache.tika/tika-fuzzing@1.28?classifier=sources
 - pkg:maven/org.apache.tika/tika-fuzzing@2.0.0
 - pkg:maven/org.apache.tika/tika-fuzzing@2.0.0-ALPHA

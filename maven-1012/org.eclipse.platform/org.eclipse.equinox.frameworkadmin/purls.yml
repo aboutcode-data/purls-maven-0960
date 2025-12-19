@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.frameworkadmin@2.1.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.frameworkadmin@2.2.0
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.frameworkadmin@2.2.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.frameworkadmin@2.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.frameworkadmin@2.2.100?classifier=sources

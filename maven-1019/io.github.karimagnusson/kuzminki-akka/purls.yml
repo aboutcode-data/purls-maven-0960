@@ -1,0 +1,8 @@
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.8.0-test
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.8.0-test?classifier=sources
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.9.3
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.9.3?classifier=sources
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.9.4-RC1
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.9.4-RC1?classifier=sources
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.9.4-RC2
+- pkg:maven/io.github.karimagnusson/kuzminki-akka@0.9.4-RC2?classifier=sources

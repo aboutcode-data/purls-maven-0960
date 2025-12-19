@@ -1,2 +1,4 @@
 - pkg:maven/net.sourceforge.pmd/pmd-test-schema@6.48.0
 - pkg:maven/net.sourceforge.pmd/pmd-test-schema@6.48.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-test-schema@6.49.0
+- pkg:maven/net.sourceforge.pmd/pmd-test-schema@6.49.0?classifier=sources

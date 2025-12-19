@@ -98,5 +98,11 @@
 - pkg:maven/org.typelevel/scalacheck-effect_3@1.0.3?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_3@1.0.4
 - pkg:maven/org.typelevel/scalacheck-effect_3@1.0.4?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_3@2.0-66e864e
+- pkg:maven/org.typelevel/scalacheck-effect_3@2.0-66e864e?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_3@2.0-9366e44
+- pkg:maven/org.typelevel/scalacheck-effect_3@2.0-9366e44?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect_3@2.0.0-M1
 - pkg:maven/org.typelevel/scalacheck-effect_3@2.0.0-M1?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect_3@2.0.0-M2
+- pkg:maven/org.typelevel/scalacheck-effect_3@2.0.0-M2?classifier=sources

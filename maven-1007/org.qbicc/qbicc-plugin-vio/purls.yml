@@ -60,6 +60,12 @@
 - pkg:maven/org.qbicc/qbicc-plugin-vio@0.39.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-vio@0.40.0
 - pkg:maven/org.qbicc/qbicc-plugin-vio@0.40.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vio@0.41.0
+- pkg:maven/org.qbicc/qbicc-plugin-vio@0.41.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vio@0.42.0
+- pkg:maven/org.qbicc/qbicc-plugin-vio@0.42.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vio@0.43.0
+- pkg:maven/org.qbicc/qbicc-plugin-vio@0.43.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-vio@0.6.0
 - pkg:maven/org.qbicc/qbicc-plugin-vio@0.6.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-vio@0.7.0

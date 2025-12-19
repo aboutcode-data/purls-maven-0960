@@ -2,3 +2,5 @@
 - pkg:maven/org.springframework.shell/spring-shell-starter@2.0.1.RELEASE
 - pkg:maven/org.springframework.shell/spring-shell-starter@2.1.0
 - pkg:maven/org.springframework.shell/spring-shell-starter@2.1.0?classifier=sources
+- pkg:maven/org.springframework.shell/spring-shell-starter@2.1.1
+- pkg:maven/org.springframework.shell/spring-shell-starter@2.1.1?classifier=sources

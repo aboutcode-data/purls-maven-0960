@@ -68,7 +68,9 @@
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.20?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.21?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.22?classifier=sources
+- pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.23.1?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.23?classifier=sources
+- pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.24?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.3
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.3?classifier=sources
 - pkg:maven/com.tencent.tinker/tinker-patch-gradle-plugin@1.9.14.4

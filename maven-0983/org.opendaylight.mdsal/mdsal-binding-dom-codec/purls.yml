@@ -57,6 +57,7 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.1
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.1?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@3.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@3.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@3.0.1
@@ -244,3 +245,4 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@9.0.3
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@9.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@9.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec@9.0.5?classifier=sources

@@ -38,7 +38,9 @@
 - pkg:maven/org.webjars.npm/codemirror-graphql@1.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror-graphql@1.3.2
 - pkg:maven/org.webjars.npm/codemirror-graphql@1.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror-graphql@2.0.0
 - pkg:maven/org.webjars.npm/codemirror-graphql@2.0.0-next.0
 - pkg:maven/org.webjars.npm/codemirror-graphql@2.0.0-next.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror-graphql@2.0.0-next.1
 - pkg:maven/org.webjars.npm/codemirror-graphql@2.0.0-next.1?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror-graphql@2.0.0?classifier=sources

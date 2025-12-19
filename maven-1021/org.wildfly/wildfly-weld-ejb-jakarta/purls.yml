@@ -6,3 +6,5 @@
 - pkg:maven/org.wildfly/wildfly-weld-ejb-jakarta@27.0.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly/wildfly-weld-ejb-jakarta@27.0.0.Alpha4
 - pkg:maven/org.wildfly/wildfly-weld-ejb-jakarta@27.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly/wildfly-weld-ejb-jakarta@27.0.0.Alpha5
+- pkg:maven/org.wildfly/wildfly-weld-ejb-jakarta@27.0.0.Alpha5?classifier=sources

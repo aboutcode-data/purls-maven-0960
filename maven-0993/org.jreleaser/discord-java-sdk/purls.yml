@@ -15,3 +15,4 @@
 - pkg:maven/org.jreleaser/discord-java-sdk@1.0.0-RC2?classifier=sources
 - pkg:maven/org.jreleaser/discord-java-sdk@1.0.0?classifier=sources
 - pkg:maven/org.jreleaser/discord-java-sdk@1.1.0?classifier=sources
+- pkg:maven/org.jreleaser/discord-java-sdk@1.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.devsisters/shardcake-core_2.13@1.0.0
+- pkg:maven/com.devsisters/shardcake-core_2.13@1.0.0?classifier=sources
+- pkg:maven/com.devsisters/shardcake-core_2.13@2.0.0
+- pkg:maven/com.devsisters/shardcake-core_2.13@2.0.0?classifier=sources

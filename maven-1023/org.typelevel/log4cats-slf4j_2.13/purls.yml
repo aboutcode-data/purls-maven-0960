@@ -44,3 +44,7 @@
 - pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.3.2?classifier=sources
 - pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.4.0
 - pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.4.0?classifier=sources
+- pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.5-a595fcf
+- pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.5-a595fcf?classifier=sources
+- pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.5.0
+- pkg:maven/org.typelevel/log4cats-slf4j_2.13@2.5.0?classifier=sources

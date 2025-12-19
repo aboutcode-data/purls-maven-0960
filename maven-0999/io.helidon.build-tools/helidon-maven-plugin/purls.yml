@@ -70,3 +70,5 @@
 - pkg:maven/io.helidon.build-tools/helidon-maven-plugin@3.0.0-RC3
 - pkg:maven/io.helidon.build-tools/helidon-maven-plugin@3.0.0-RC3?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/io.helidon.build-tools/helidon-maven-plugin@3.0.1
+- pkg:maven/io.helidon.build-tools/helidon-maven-plugin@3.0.1?classifier=sources

@@ -58,3 +58,7 @@
 - pkg:maven/org.apache.jena/jena-fuseki-core@4.4.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki-core@4.5.0
 - pkg:maven/org.apache.jena/jena-fuseki-core@4.5.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-core@4.6.0
+- pkg:maven/org.apache.jena/jena-fuseki-core@4.6.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-core@4.6.1
+- pkg:maven/org.apache.jena/jena-fuseki-core@4.6.1?classifier=sources

@@ -6,9 +6,13 @@
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@2.2.0?classifier=sources
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@2.3.0
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@2.3.0?classifier=sources
+- pkg:maven/fish.payara.security.connectors/security-connectors-api@2.4.0
+- pkg:maven/fish.payara.security.connectors/security-connectors-api@2.4.0?classifier=sources
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha3
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha3?classifier=sources
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha4
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha4?classifier=sources
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha5
 - pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha5?classifier=sources
+- pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha6
+- pkg:maven/fish.payara.security.connectors/security-connectors-api@3.0.alpha6?classifier=sources

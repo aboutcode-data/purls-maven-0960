@@ -9,3 +9,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-api@8.5.0.46449?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-api@8.6.0.47852?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-api@8.7.0.52152?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-api@8.8.0.53224?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-api@8.8.1.54103?classifier=sources

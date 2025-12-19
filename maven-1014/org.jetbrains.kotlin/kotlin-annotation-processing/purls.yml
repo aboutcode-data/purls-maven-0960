@@ -252,3 +252,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing@1.7.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing@1.7.20-Beta
 - pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing@1.7.20-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing@1.7.20-RC
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing@1.7.20-RC?classifier=sources

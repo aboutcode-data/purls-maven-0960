@@ -22,3 +22,5 @@
 - pkg:maven/io.github.embeddedkafka/embedded-kafka-streams_2.13@3.1.0?classifier=sources
 - pkg:maven/io.github.embeddedkafka/embedded-kafka-streams_2.13@3.2.0
 - pkg:maven/io.github.embeddedkafka/embedded-kafka-streams_2.13@3.2.0?classifier=sources
+- pkg:maven/io.github.embeddedkafka/embedded-kafka-streams_2.13@3.2.1
+- pkg:maven/io.github.embeddedkafka/embedded-kafka-streams_2.13@3.2.1?classifier=sources

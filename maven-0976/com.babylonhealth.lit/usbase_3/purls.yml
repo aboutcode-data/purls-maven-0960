@@ -1,5 +1,13 @@
 - pkg:maven/com.babylonhealth.lit/usbase_3@0.14.10
 - pkg:maven/com.babylonhealth.lit/usbase_3@0.14.10?classifier=sources
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.12
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.12?classifier=sources
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.13
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.13?classifier=sources
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.14
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.14?classifier=sources
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.15
+- pkg:maven/com.babylonhealth.lit/usbase_3@0.14.15?classifier=sources
 - pkg:maven/com.babylonhealth.lit/usbase_3@0.14.6
 - pkg:maven/com.babylonhealth.lit/usbase_3@0.14.6?classifier=sources
 - pkg:maven/com.babylonhealth.lit/usbase_3@0.14.7

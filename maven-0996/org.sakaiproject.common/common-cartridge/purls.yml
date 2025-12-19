@@ -92,6 +92,8 @@
 - pkg:maven/org.sakaiproject.common/common-cartridge@21.2?classifier=sources
 - pkg:maven/org.sakaiproject.common/common-cartridge@21.3
 - pkg:maven/org.sakaiproject.common/common-cartridge@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.common/common-cartridge@21.4
+- pkg:maven/org.sakaiproject.common/common-cartridge@21.4?classifier=sources
 - pkg:maven/org.sakaiproject.common/common-cartridge@22.0
 - pkg:maven/org.sakaiproject.common/common-cartridge@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.common/common-cartridge@22.1

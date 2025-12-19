@@ -401,6 +401,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.79?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.8
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.81?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.82?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.8?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.9
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.9?classifier=sources

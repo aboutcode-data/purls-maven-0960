@@ -1,5 +1,14 @@
 - pkg:maven/com.netflix.conductor/conductor-http-task@3.10.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-http-task@3.10.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.10.2?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.10.3?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.10.4?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.10.5?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.10.6?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.10.7?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.11.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.11.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-http-task@3.11.2?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-http-task@3.8.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-http-task@3.8.1?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-http-task@3.8.2?classifier=sources

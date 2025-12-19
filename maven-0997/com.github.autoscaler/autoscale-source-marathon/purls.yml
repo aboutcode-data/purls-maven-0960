@@ -28,3 +28,5 @@
 - pkg:maven/com.github.autoscaler/autoscale-source-marathon@1.9.0-659?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-source-marathon@1.9.1-797
 - pkg:maven/com.github.autoscaler/autoscale-source-marathon@1.9.1-797?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-source-marathon@1.9.2-833
+- pkg:maven/com.github.autoscaler/autoscale-source-marathon@1.9.2-833?classifier=sources

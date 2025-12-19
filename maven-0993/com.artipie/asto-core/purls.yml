@@ -1,0 +1,4 @@
+- pkg:maven/com.artipie/asto-core@v1.12.4
+- pkg:maven/com.artipie/asto-core@v1.12.4?classifier=sources
+- pkg:maven/com.artipie/asto-core@v1.13.0
+- pkg:maven/com.artipie/asto-core@v1.13.0?classifier=sources

@@ -10,6 +10,10 @@
 - pkg:maven/org.everit.config/org.everit.config.conventions@10.0.4?classifier=sources
 - pkg:maven/org.everit.config/org.everit.config.conventions@10.0.5
 - pkg:maven/org.everit.config/org.everit.config.conventions@10.0.5?classifier=sources
+- pkg:maven/org.everit.config/org.everit.config.conventions@11.0.0
+- pkg:maven/org.everit.config/org.everit.config.conventions@11.0.0?classifier=sources
+- pkg:maven/org.everit.config/org.everit.config.conventions@11.0.1
+- pkg:maven/org.everit.config/org.everit.config.conventions@11.0.1?classifier=sources
 - pkg:maven/org.everit.config/org.everit.config.conventions@8.0.0
 - pkg:maven/org.everit.config/org.everit.config.conventions@8.0.0?classifier=sources
 - pkg:maven/org.everit.config/org.everit.config.conventions@8.0.1

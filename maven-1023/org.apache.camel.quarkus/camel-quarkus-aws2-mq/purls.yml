@@ -40,6 +40,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.10.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.11.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.11.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.12.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.12.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.2.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-aws2-mq@2.2.1

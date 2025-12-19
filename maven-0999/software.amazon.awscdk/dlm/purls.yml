@@ -246,6 +246,16 @@
 - pkg:maven/software.amazon.awscdk/dlm@1.17.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/dlm@1.17.1.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/dlm@1.17.1.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@1.170.0
+- pkg:maven/software.amazon.awscdk/dlm@1.170.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@1.170.1
+- pkg:maven/software.amazon.awscdk/dlm@1.170.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@1.171.0
+- pkg:maven/software.amazon.awscdk/dlm@1.171.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@1.172.0
+- pkg:maven/software.amazon.awscdk/dlm@1.172.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/dlm@1.173.0
+- pkg:maven/software.amazon.awscdk/dlm@1.173.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/dlm@1.18.0
 - pkg:maven/software.amazon.awscdk/dlm@1.18.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/dlm@1.19.0

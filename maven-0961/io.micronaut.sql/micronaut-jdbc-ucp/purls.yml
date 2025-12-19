@@ -43,3 +43,6 @@
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@4.6.0?classifier=sources
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@4.6.1?classifier=sources
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@4.6.2?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@4.6.3?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@4.6.4?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@4.7.0?classifier=sources

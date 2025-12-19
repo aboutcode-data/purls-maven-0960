@@ -91,6 +91,10 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.10-RC2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.10-RC2?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.10?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.11
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.11-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.11-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.11?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.2-RC1
@@ -156,10 +160,12 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.2-RC2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.2-RC2?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.2?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.3
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.3-RC1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.3-RC1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.3-RC2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.3-RC2?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.0.3?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.1.0-M1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@3.1.0-M1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-M1
@@ -168,3 +174,7 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-M2?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-M3
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-M3?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-RC2
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@4.0.0-RC2?classifier=sources

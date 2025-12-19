@@ -7,3 +7,7 @@
 - pkg:maven/com.wgtwo.api.v1.grpc/sms@1.6.3?classifier=sources
 - pkg:maven/com.wgtwo.api.v1.grpc/sms@1.7.0
 - pkg:maven/com.wgtwo.api.v1.grpc/sms@1.7.0?classifier=sources
+- pkg:maven/com.wgtwo.api.v1.grpc/sms@1.8.0
+- pkg:maven/com.wgtwo.api.v1.grpc/sms@1.8.0?classifier=sources
+- pkg:maven/com.wgtwo.api.v1.grpc/sms@1.8.2
+- pkg:maven/com.wgtwo.api.v1.grpc/sms@1.8.2?classifier=sources

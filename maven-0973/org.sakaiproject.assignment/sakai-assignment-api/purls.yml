@@ -98,6 +98,8 @@
 - pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@21.2?classifier=sources
 - pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@21.3
 - pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@21.4
+- pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@21.4?classifier=sources
 - pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@22.0
 - pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.assignment/sakai-assignment-api@22.1

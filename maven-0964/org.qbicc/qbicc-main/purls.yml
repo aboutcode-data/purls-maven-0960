@@ -68,6 +68,12 @@
 - pkg:maven/org.qbicc/qbicc-main@0.4.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-main@0.40.0
 - pkg:maven/org.qbicc/qbicc-main@0.40.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-main@0.41.0
+- pkg:maven/org.qbicc/qbicc-main@0.41.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-main@0.42.0
+- pkg:maven/org.qbicc/qbicc-main@0.42.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-main@0.43.0
+- pkg:maven/org.qbicc/qbicc-main@0.43.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-main@0.5.0
 - pkg:maven/org.qbicc/qbicc-main@0.5.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-main@0.6.0

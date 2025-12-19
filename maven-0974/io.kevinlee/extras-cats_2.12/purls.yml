@@ -18,6 +18,8 @@
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.17.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.18.0
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.18.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-cats_2.12@0.19.0
+- pkg:maven/io.kevinlee/extras-cats_2.12@0.19.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.2.0
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.2.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.3.0

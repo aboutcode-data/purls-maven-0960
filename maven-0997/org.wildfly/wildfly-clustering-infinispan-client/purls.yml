@@ -74,3 +74,5 @@
 - pkg:maven/org.wildfly/wildfly-clustering-infinispan-client@26.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-infinispan-client@26.1.1.Final
 - pkg:maven/org.wildfly/wildfly-clustering-infinispan-client@26.1.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-infinispan-client@26.1.2.Final
+- pkg:maven/org.wildfly/wildfly-clustering-infinispan-client@26.1.2.Final?classifier=sources

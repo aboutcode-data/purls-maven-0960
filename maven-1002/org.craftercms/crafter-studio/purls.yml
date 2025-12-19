@@ -134,6 +134,14 @@
 - pkg:maven/org.craftercms/crafter-studio@3.1.24?type=war
 - pkg:maven/org.craftercms/crafter-studio@3.1.24E?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@3.1.24E?type=war
+- pkg:maven/org.craftercms/crafter-studio@3.1.25?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@3.1.25?type=war
+- pkg:maven/org.craftercms/crafter-studio@3.1.25E?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@3.1.25E?type=war
+- pkg:maven/org.craftercms/crafter-studio@3.1.26?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@3.1.26?type=war
+- pkg:maven/org.craftercms/crafter-studio@3.1.26E?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio@3.1.26E?type=war
 - pkg:maven/org.craftercms/crafter-studio@3.1.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@3.1.2?type=war
 - pkg:maven/org.craftercms/crafter-studio@3.1.3?classifier=sources
@@ -172,3 +180,4 @@
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2?type=war
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2E?type=war
+- pkg:maven/org.craftercms/crafter-studio@4.0.1?type=war

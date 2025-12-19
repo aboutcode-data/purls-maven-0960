@@ -32,3 +32,7 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@3.0.3?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@3.0.4
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@3.0.4?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@4.0.0
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@4.0.0-M1
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@4.0.0-M1?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-sse_2.13@4.0.0?classifier=sources

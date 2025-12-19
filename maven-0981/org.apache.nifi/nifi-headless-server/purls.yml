@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.nifi/nifi-headless-server@1.16.2?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-headless-server@1.16.3
 - pkg:maven/org.apache.nifi/nifi-headless-server@1.16.3?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.17.0
+- pkg:maven/org.apache.nifi/nifi-headless-server@1.17.0?classifier=sources

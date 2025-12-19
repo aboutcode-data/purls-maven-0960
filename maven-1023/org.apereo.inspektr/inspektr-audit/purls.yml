@@ -48,3 +48,5 @@
 - pkg:maven/org.apereo.inspektr/inspektr-audit@1.8.8.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-audit@1.8.9.GA
 - pkg:maven/org.apereo.inspektr/inspektr-audit@1.8.9.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-audit@2.0.0.RC1
+- pkg:maven/org.apereo.inspektr/inspektr-audit@2.0.0.RC1?classifier=sources
