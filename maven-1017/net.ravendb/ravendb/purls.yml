@@ -57,3 +57,5 @@
 - pkg:maven/net.ravendb/ravendb@5.2.4?classifier=sources
 - pkg:maven/net.ravendb/ravendb@5.4.0
 - pkg:maven/net.ravendb/ravendb@5.4.0?classifier=sources
+- pkg:maven/net.ravendb/ravendb@5.4.1
+- pkg:maven/net.ravendb/ravendb@5.4.1?classifier=sources

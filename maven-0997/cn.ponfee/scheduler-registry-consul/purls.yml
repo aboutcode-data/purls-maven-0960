@@ -1,3 +1,5 @@
+- pkg:maven/cn.ponfee/scheduler-registry-consul@1.10
+- pkg:maven/cn.ponfee/scheduler-registry-consul@1.10?classifier=sources
 - pkg:maven/cn.ponfee/scheduler-registry-consul@1.5
 - pkg:maven/cn.ponfee/scheduler-registry-consul@1.5?classifier=sources
 - pkg:maven/cn.ponfee/scheduler-registry-consul@1.6

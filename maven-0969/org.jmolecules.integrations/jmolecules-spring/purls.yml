@@ -6,6 +6,10 @@
 - pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.12.0?classifier=sources
 - pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.13.0
 - pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.13.0?classifier=sources
+- pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.14.0
+- pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.14.0?classifier=sources
+- pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.15.0
+- pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.15.0?classifier=sources
 - pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.2.0
 - pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.2.0?classifier=sources
 - pkg:maven/org.jmolecules.integrations/jmolecules-spring@0.3.0

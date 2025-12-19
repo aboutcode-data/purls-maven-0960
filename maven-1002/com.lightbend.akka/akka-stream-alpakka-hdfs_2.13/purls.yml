@@ -36,3 +36,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-hdfs_2.13@5.0.0-M2
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-hdfs_2.13@5.0.0-M2?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-hdfs_2.13@5.0.0?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-hdfs_2.13@5.1.0-M1
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-hdfs_2.13@5.1.0-M1?classifier=sources

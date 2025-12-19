@@ -80,11 +80,15 @@
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.6?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.7?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.8?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.9?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.0-m1?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.0-m3?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.0-m4?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.0-m5?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.0?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.1?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.3?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.4?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.0-m1?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@unspecified
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@unspecified?classifier=sources

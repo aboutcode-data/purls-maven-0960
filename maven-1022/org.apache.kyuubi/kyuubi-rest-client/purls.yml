@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.kyuubi/kyuubi-rest-client@1.6.0-incubating?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-rest-client@1.6.1-incubating
 - pkg:maven/org.apache.kyuubi/kyuubi-rest-client@1.6.1-incubating?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-rest-client@1.7.0
+- pkg:maven/org.apache.kyuubi/kyuubi-rest-client@1.7.0?classifier=sources

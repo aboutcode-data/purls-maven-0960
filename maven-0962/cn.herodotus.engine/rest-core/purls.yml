@@ -98,6 +98,12 @@
 - pkg:maven/cn.herodotus.engine/rest-core@2.7.7.5?classifier=sources
 - pkg:maven/cn.herodotus.engine/rest-core@2.7.8.0
 - pkg:maven/cn.herodotus.engine/rest-core@2.7.8.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@2.7.8.1
+- pkg:maven/cn.herodotus.engine/rest-core@2.7.8.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@2.7.9.0
+- pkg:maven/cn.herodotus.engine/rest-core@2.7.9.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@2.7.9.1
+- pkg:maven/cn.herodotus.engine/rest-core@2.7.9.1?classifier=sources
 - pkg:maven/cn.herodotus.engine/rest-core@3.0.0-M1
 - pkg:maven/cn.herodotus.engine/rest-core@3.0.0-M1?classifier=sources
 - pkg:maven/cn.herodotus.engine/rest-core@3.0.0-M2
@@ -120,3 +126,11 @@
 - pkg:maven/cn.herodotus.engine/rest-core@3.0.2.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/rest-core@3.0.2.1
 - pkg:maven/cn.herodotus.engine/rest-core@3.0.2.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.2.2
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.2.2?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.2.3
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.2.3?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.3.0
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.3.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.4.0
+- pkg:maven/cn.herodotus.engine/rest-core@3.0.4.0?classifier=sources

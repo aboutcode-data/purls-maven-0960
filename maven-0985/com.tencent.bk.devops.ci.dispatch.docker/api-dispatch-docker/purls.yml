@@ -40,5 +40,6 @@
 - pkg:maven/com.tencent.bk.devops.ci.dispatch.docker/api-dispatch-docker@1.8.0-alpha.26-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dispatch.docker/api-dispatch-docker@1.8.1-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dispatch.docker/api-dispatch-docker@1.9.1-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.dispatch.docker/api-dispatch-docker@1.9.16-RC.1-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dispatch.docker/api-dispatch-docker@1.9.2-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.dispatch.docker/api-dispatch-docker@1.9.7-RC.1-RELEASE?classifier=sources

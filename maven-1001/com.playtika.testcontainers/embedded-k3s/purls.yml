@@ -1,0 +1,4 @@
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC2
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC2?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC3
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC3?classifier=sources

@@ -40,6 +40,10 @@
 - pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.2.3?classifier=sources
 - pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.2.4
 - pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.2.4?classifier=sources
+- pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.20.0
+- pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.20.0?classifier=sources
+- pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.21.0
+- pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.21.0?classifier=sources
 - pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.3.0
 - pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.3.0?classifier=sources
 - pkg:maven/com.cloudbees.thirdparty/zendesk-java-client@0.3.1

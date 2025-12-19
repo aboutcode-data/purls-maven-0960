@@ -14,3 +14,7 @@
 - pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@1.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@1.2.0
 - pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@1.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@1.2.1
+- pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@1.2.1?classifier=sources
+- pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@2.0.0
+- pkg:maven/io.quarkiverse.jberet/quarkus-jberet-deployment@2.0.0?classifier=sources

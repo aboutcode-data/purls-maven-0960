@@ -123,6 +123,10 @@
 - pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.10?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.11
 - pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.12
+- pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.12?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.13
+- pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.13?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.2
 - pkg:maven/com.softwaremill.sttp.client3/slf4j-backend_2.11@3.8.2?classifier=sources

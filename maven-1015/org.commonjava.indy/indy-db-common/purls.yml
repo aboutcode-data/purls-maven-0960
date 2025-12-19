@@ -78,3 +78,5 @@
 - pkg:maven/org.commonjava.indy/indy-db-common@2.7.6?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-db-common@3.0.0
 - pkg:maven/org.commonjava.indy/indy-db-common@3.0.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-db-common@3.0.2
+- pkg:maven/org.commonjava.indy/indy-db-common@3.0.2?classifier=sources

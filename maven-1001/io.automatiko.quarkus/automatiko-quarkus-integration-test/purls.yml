@@ -28,6 +28,8 @@
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.20.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.21.0
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.21.0?classifier=sources
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.22.0
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.22.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.3.0
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.3.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.4.0

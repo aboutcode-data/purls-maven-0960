@@ -3,6 +3,9 @@
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.5.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.6.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.7.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.0-b1135?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.0-b884?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.0-b892?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.0-b982?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.1?classifier=sources

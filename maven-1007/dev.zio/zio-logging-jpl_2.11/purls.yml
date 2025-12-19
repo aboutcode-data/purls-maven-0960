@@ -1,4 +1,6 @@
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.1
+- pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.10
+- pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.10?classifier=sources
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.1?classifier=sources
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.2
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.2?classifier=sources
@@ -14,3 +16,5 @@
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.7?classifier=sources
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.8
 - pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.8?classifier=sources
+- pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.9
+- pkg:maven/dev.zio/zio-logging-jpl_2.11@2.1.9?classifier=sources

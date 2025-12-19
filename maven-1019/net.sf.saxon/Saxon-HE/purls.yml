@@ -8,11 +8,13 @@
 - pkg:maven/net.sf.saxon/Saxon-HE@10.6?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@10.7?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@10.8?classifier=sources
+- pkg:maven/net.sf.saxon/Saxon-HE@10.9?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@11.1.1?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@11.1?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@11.2?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@11.3?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@11.4?classifier=sources
+- pkg:maven/net.sf.saxon/Saxon-HE@11.5?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@12.0?classifier=sources
 - pkg:maven/net.sf.saxon/Saxon-HE@9.4
 - pkg:maven/net.sf.saxon/Saxon-HE@9.4.0-8

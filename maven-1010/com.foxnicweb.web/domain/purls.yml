@@ -1,2 +1,4 @@
 - pkg:maven/com.foxnicweb.web/domain@1.7.0.RELEASE
 - pkg:maven/com.foxnicweb.web/domain@1.7.0.RELEASE?classifier=sources
+- pkg:maven/com.foxnicweb.web/domain@1.7.1.RELEASE
+- pkg:maven/com.foxnicweb.web/domain@1.7.1.RELEASE?classifier=sources

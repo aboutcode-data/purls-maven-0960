@@ -1,2 +1,4 @@
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.2
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.2?classifier=sources
+- pkg:maven/io.dialob/dialob-db-jdbc@2.1.3
+- pkg:maven/io.dialob/dialob-db-jdbc@2.1.3?classifier=sources

@@ -180,3 +180,5 @@
 - pkg:maven/org.scala-sbt/util-scripted_2.12@1.8.1?classifier=sources
 - pkg:maven/org.scala-sbt/util-scripted_2.12@1.8.2
 - pkg:maven/org.scala-sbt/util-scripted_2.12@1.8.2?classifier=sources
+- pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.0-M1
+- pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.0-M1?classifier=sources

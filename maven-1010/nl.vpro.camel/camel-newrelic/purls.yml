@@ -10,3 +10,5 @@
 - pkg:maven/nl.vpro.camel/camel-newrelic@1.5.0?classifier=sources
 - pkg:maven/nl.vpro.camel/camel-newrelic@1.5.1
 - pkg:maven/nl.vpro.camel/camel-newrelic@1.5.1?classifier=sources
+- pkg:maven/nl.vpro.camel/camel-newrelic@1.6.0
+- pkg:maven/nl.vpro.camel/camel-newrelic@1.6.0?classifier=sources

@@ -114,3 +114,5 @@
 - pkg:maven/com.opentable.components/otj-logging-kafka@5.3.0?classifier=sources
 - pkg:maven/com.opentable.components/otj-logging-kafka@5.3.1
 - pkg:maven/com.opentable.components/otj-logging-kafka@5.3.1?classifier=sources
+- pkg:maven/com.opentable.components/otj-logging-kafka@6.0.0
+- pkg:maven/com.opentable.components/otj-logging-kafka@6.0.0?classifier=sources

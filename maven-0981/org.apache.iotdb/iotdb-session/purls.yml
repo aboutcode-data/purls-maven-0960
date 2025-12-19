@@ -34,6 +34,8 @@
 - pkg:maven/org.apache.iotdb/iotdb-session@0.13.2?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-session@0.13.3
 - pkg:maven/org.apache.iotdb/iotdb-session@0.13.3?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-session@0.13.4
+- pkg:maven/org.apache.iotdb/iotdb-session@0.13.4?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-session@0.14.0-preview1
 - pkg:maven/org.apache.iotdb/iotdb-session@0.14.0-preview1?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-session@0.14.0-preview2
@@ -50,3 +52,5 @@
 - pkg:maven/org.apache.iotdb/iotdb-session@0.9.3?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-session@1.0.0
 - pkg:maven/org.apache.iotdb/iotdb-session@1.0.0?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-session@1.0.1
+- pkg:maven/org.apache.iotdb/iotdb-session@1.0.1?classifier=sources

@@ -44,6 +44,8 @@
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.1.0-m3?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.1.0-m4
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.1.0-m4?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.2.0-beta
+- pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.2.0-beta?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.2.0-m1
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@4.2.0-m1?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dataservice.integration.common.clients@6.1.1-update10

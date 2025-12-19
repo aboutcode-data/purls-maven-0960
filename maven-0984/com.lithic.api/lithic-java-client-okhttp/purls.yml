@@ -2,3 +2,6 @@
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.0.2?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.0.3?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.0.4?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.2.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.3.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.3.1?classifier=sources

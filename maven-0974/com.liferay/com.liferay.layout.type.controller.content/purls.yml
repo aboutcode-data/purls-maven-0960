@@ -311,6 +311,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.34
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.35
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.36
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@3.0.4
@@ -410,6 +416,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.32
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.33
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.4

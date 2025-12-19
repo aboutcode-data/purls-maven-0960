@@ -1,2 +1,8 @@
 - pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.0.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.1.0-preview
+- pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.1.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.1.1-preview
+- pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.1.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.1.2-preview
+- pkg:maven/com.google.cloud/google-cloud-artifact-registry-spring-starter@4.1.2-preview?classifier=sources

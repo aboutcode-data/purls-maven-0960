@@ -132,3 +132,5 @@
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M9
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0-M9?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-client@3.0.0?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-client@3.0.1
+- pkg:maven/de.codecentric/spring-boot-admin-client@3.0.1?classifier=sources

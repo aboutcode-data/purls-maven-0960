@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms/smoke-test@31.0.4
+- pkg:maven/org.opennms/smoke-test@31.0.4?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/org.tinylog/tinylog-api@2.6.0-M2
 - pkg:maven/org.tinylog/tinylog-api@2.6.0-M2?classifier=sources
 - pkg:maven/org.tinylog/tinylog-api@2.6.0?classifier=sources
+- pkg:maven/org.tinylog/tinylog-api@2.6.1
+- pkg:maven/org.tinylog/tinylog-api@2.6.1?classifier=sources

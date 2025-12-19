@@ -67,6 +67,8 @@
 - pkg:maven/io.vertx/vertx-jwt@3.9.13?classifier=sources
 - pkg:maven/io.vertx/vertx-jwt@3.9.14
 - pkg:maven/io.vertx/vertx-jwt@3.9.14?classifier=sources
+- pkg:maven/io.vertx/vertx-jwt@3.9.15
+- pkg:maven/io.vertx/vertx-jwt@3.9.15?classifier=sources
 - pkg:maven/io.vertx/vertx-jwt@3.9.1?classifier=sources
 - pkg:maven/io.vertx/vertx-jwt@3.9.2
 - pkg:maven/io.vertx/vertx-jwt@3.9.2?classifier=sources

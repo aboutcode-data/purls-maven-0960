@@ -220,6 +220,8 @@
 - pkg:maven/org.infinispan/infinispan-spring5-common@14.0.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring5-common@14.0.6.Final
 - pkg:maven/org.infinispan/infinispan-spring5-common@14.0.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring5-common@14.0.7.Final
+- pkg:maven/org.infinispan/infinispan-spring5-common@14.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring5-common@9.4.10.Final
 - pkg:maven/org.infinispan/infinispan-spring5-common@9.4.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring5-common@9.4.11.Final

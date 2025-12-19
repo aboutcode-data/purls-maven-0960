@@ -1,2 +1,3 @@
 - pkg:maven/com.palantir.tracing/tracing-jersey-jakarta@6.13.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jersey-jakarta@6.15.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-jersey-jakarta@6.16.0?classifier=sources

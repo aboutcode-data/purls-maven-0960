@@ -6,3 +6,5 @@
 - pkg:maven/com.bkahlert.kommons/kommons-logging-spring-boot-jvm@2.4.1?classifier=sources
 - pkg:maven/com.bkahlert.kommons/kommons-logging-spring-boot-jvm@2.5.0?classifier=sources
 - pkg:maven/com.bkahlert.kommons/kommons-logging-spring-boot-jvm@2.6.0?classifier=sources
+- pkg:maven/com.bkahlert.kommons/kommons-logging-spring-boot-jvm@2.7.0?classifier=sources
+- pkg:maven/com.bkahlert.kommons/kommons-logging-spring-boot-jvm@2.8.0?classifier=sources

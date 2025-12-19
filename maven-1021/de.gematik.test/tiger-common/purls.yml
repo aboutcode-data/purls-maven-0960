@@ -72,3 +72,9 @@
 - pkg:maven/de.gematik.test/tiger-common@1.1.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@1.1.1
 - pkg:maven/de.gematik.test/tiger-common@1.1.1?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@1.2.1
+- pkg:maven/de.gematik.test/tiger-common@1.2.1?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@1.3.0
+- pkg:maven/de.gematik.test/tiger-common@1.3.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@1.3.1
+- pkg:maven/de.gematik.test/tiger-common@1.3.1?classifier=sources

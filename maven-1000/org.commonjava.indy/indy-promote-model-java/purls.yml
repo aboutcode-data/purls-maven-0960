@@ -200,3 +200,5 @@
 - pkg:maven/org.commonjava.indy/indy-promote-model-java@2.7.6?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-promote-model-java@3.0.0
 - pkg:maven/org.commonjava.indy/indy-promote-model-java@3.0.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-promote-model-java@3.0.2
+- pkg:maven/org.commonjava.indy/indy-promote-model-java@3.0.2?classifier=sources

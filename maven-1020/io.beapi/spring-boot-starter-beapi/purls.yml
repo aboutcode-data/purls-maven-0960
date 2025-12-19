@@ -1,3 +1,5 @@
 - pkg:maven/io.beapi/spring-boot-starter-beapi@0.4.1?classifier=sources
 - pkg:maven/io.beapi/spring-boot-starter-beapi@0.5.1?classifier=sources
 - pkg:maven/io.beapi/spring-boot-starter-beapi@0.5?classifier=sources
+- pkg:maven/io.beapi/spring-boot-starter-beapi@0.6.0-STABLE?classifier=sources
+- pkg:maven/io.beapi/spring-boot-starter-beapi@0.6.0?classifier=sources

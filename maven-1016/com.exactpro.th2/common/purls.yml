@@ -86,9 +86,12 @@
 - pkg:maven/com.exactpro.th2/common@3.42.0?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.43.0?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.44.0?classifier=sources
+- pkg:maven/com.exactpro.th2/common@3.44.1?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.6.2?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.7.0?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.7.1?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.8.0?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.9.0?classifier=sources
 - pkg:maven/com.exactpro.th2/common@3.9.1?classifier=sources
+- pkg:maven/com.exactpro.th2/common@5.1.1-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/common@5.2.0-dev?classifier=sources

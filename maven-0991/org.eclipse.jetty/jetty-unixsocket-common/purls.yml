@@ -23,6 +23,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.12?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.13
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.13?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.14
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.14?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.2
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@10.0.2?classifier=sources
@@ -59,6 +61,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.12?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.13
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.13?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.14
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.14?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.2
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket-common@11.0.2?classifier=sources

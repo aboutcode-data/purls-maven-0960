@@ -2,7 +2,12 @@
 - pkg:maven/com.pulumi/f5bigip@3.10.0-alpha.1663342495%2B54d3a063?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.10.0-alpha.1674361346%2Bc7489965?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.10.0?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.10.1?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1674492495%2B29a5e279?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1675048735%2B9667c9e1?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1675870954%2Bd11ab6ac?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1676326005%2Bb0ffa29b?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1677783334%2B4030d8e2?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1678391755%2B9942beef?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.9.0-alpha.1661535806%2Bc5d753e3?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.9.0?classifier=sources

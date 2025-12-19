@@ -1,0 +1,4 @@
+- pkg:maven/ch.exense.step/step-repositories-artifact@3.21.0
+- pkg:maven/ch.exense.step/step-repositories-artifact@3.21.0?classifier=sources
+- pkg:maven/ch.exense.step/step-repositories-artifact@3.21.1
+- pkg:maven/ch.exense.step/step-repositories-artifact@3.21.1?classifier=sources

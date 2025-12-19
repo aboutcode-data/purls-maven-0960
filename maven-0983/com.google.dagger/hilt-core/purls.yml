@@ -64,3 +64,5 @@
 - pkg:maven/com.google.dagger/hilt-core@2.44.2
 - pkg:maven/com.google.dagger/hilt-core@2.44.2?classifier=sources
 - pkg:maven/com.google.dagger/hilt-core@2.44?classifier=sources
+- pkg:maven/com.google.dagger/hilt-core@2.45
+- pkg:maven/com.google.dagger/hilt-core@2.45?classifier=sources

@@ -180,6 +180,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.51.3?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.52.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.52.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.53.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.53.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.54.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.54.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.54.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.54.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.55.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.55.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@2.7.0
@@ -214,3 +222,11 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.2.3?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.3.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.3.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.4.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.4.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.5.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.5.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.6.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.6.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.7.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-optimizer@3.7.0?classifier=sources

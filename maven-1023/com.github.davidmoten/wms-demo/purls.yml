@@ -24,3 +24,5 @@
 - pkg:maven/com.github.davidmoten/wms-demo@0.4.5?type=war
 - pkg:maven/com.github.davidmoten/wms-demo@0.4.7?classifier=sources
 - pkg:maven/com.github.davidmoten/wms-demo@0.4.7?type=war
+- pkg:maven/com.github.davidmoten/wms-demo@0.4.8?classifier=sources
+- pkg:maven/com.github.davidmoten/wms-demo@0.4.8?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/io.dialob/quarkus-app@3.0.3
 - pkg:maven/io.dialob/quarkus-app@3.0.3?classifier=sources
+- pkg:maven/io.dialob/quarkus-app@3.0.4
+- pkg:maven/io.dialob/quarkus-app@3.0.4?classifier=sources

@@ -808,6 +808,12 @@
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M3-22-ac0ea4
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M3-22-ac0ea4?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M3?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M4
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M4?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M5
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M5?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M6
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.0-M6?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.8.0-16-2f9b63
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.8.0-16-2f9b63?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.8.0-17-81ae1d

@@ -176,6 +176,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.64
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.64?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.65
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.65?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.65?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@1.0.7
@@ -383,6 +386,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.68
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.68?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.69
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.69?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.69?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@2.0.7

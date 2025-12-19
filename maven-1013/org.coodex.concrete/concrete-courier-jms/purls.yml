@@ -2,6 +2,7 @@
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.0-RC1?classifier=sources
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.0-RC3
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.0-RC3?classifier=sources
+- pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1-RC1
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1-RC1?classifier=sources
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1-RC2
@@ -14,3 +15,4 @@
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1-RC5?classifier=sources
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1-RC6
 - pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1-RC6?classifier=sources
+- pkg:maven/org.coodex.concrete/concrete-courier-jms@0.5.1?classifier=sources

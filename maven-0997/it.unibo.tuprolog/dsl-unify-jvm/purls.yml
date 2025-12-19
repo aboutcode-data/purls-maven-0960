@@ -66,3 +66,7 @@
 - pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.30.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.30.4?classifier=sources
 - pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.30.5?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.31.0?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.31.1-dev01%2Bf8b39929b?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.31.1-dev02%2B0cd8a1ae6?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-unify-jvm@0.31.1?classifier=sources

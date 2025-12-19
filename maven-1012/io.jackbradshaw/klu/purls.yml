@@ -1,2 +1,4 @@
 - pkg:maven/io.jackbradshaw/klu@0.1.1
 - pkg:maven/io.jackbradshaw/klu@0.1.1?classifier=sources
+- pkg:maven/io.jackbradshaw/klu@1.0.0
+- pkg:maven/io.jackbradshaw/klu@1.0.0?classifier=sources

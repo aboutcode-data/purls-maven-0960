@@ -52,6 +52,8 @@
 - pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.32.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.33.0
 - pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.33.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.34.0
+- pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.34.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.4.0
 - pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.4.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-reladomo-graphql-data-fetcher@0.5.0

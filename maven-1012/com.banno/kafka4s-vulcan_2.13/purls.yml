@@ -1,2 +1,4 @@
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@5.0.0-M4
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@5.0.0-M4?classifier=sources
+- pkg:maven/com.banno/kafka4s-vulcan_2.13@5.0.0-M5
+- pkg:maven/com.banno/kafka4s-vulcan_2.13@5.0.0-M5?classifier=sources

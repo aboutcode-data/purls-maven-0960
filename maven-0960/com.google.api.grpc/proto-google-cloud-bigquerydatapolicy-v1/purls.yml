@@ -6,3 +6,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.7.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.7.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.8.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.8.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.9.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigquerydatapolicy-v1@0.9.0?classifier=sources

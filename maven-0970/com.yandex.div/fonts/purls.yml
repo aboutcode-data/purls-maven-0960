@@ -9,6 +9,10 @@
 - pkg:maven/com.yandex.div/fonts@18.0.0?classifier=sources
 - pkg:maven/com.yandex.div/fonts@19.0.0?classifier=sources
 - pkg:maven/com.yandex.div/fonts@20.0.0?classifier=sources
+- pkg:maven/com.yandex.div/fonts@23.2.0?classifier=sources
+- pkg:maven/com.yandex.div/fonts@23.3.0?classifier=sources
+- pkg:maven/com.yandex.div/fonts@23.3.1?classifier=sources
+- pkg:maven/com.yandex.div/fonts@23.4.0?classifier=sources
 - pkg:maven/com.yandex.div/fonts@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/fonts@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/fonts@7.0.0?classifier=sources

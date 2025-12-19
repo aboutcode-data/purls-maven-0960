@@ -161,3 +161,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@2.1.2?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@2.1.2?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@2.1.2?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@2.1.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@2.1.3?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-auction@2.1.3?type=war

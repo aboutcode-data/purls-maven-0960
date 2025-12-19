@@ -6,3 +6,5 @@
 - pkg:maven/org.nervousync/cache-jedis-jdk11@1.0.2?classifier=sources
 - pkg:maven/org.nervousync/cache-jedis-jdk11@1.0.3
 - pkg:maven/org.nervousync/cache-jedis-jdk11@1.0.3?classifier=sources
+- pkg:maven/org.nervousync/cache-jedis-jdk11@1.1.0
+- pkg:maven/org.nervousync/cache-jedis-jdk11@1.1.0?classifier=sources

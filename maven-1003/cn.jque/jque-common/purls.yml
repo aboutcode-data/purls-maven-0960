@@ -53,6 +53,8 @@
 - pkg:maven/cn.jque/jque-common@2023.02.01-RELEASE?classifier=sources
 - pkg:maven/cn.jque/jque-common@2023.02.02-RELEASE
 - pkg:maven/cn.jque/jque-common@2023.02.02-RELEASE?classifier=sources
+- pkg:maven/cn.jque/jque-common@2023.02.15-RELEASE
+- pkg:maven/cn.jque/jque-common@2023.02.15-RELEASE?classifier=sources
 - pkg:maven/cn.jque/jque-common@3.0.0
 - pkg:maven/cn.jque/jque-common@3.1.0
 - pkg:maven/cn.jque/jque-common@3.1.0?classifier=sources

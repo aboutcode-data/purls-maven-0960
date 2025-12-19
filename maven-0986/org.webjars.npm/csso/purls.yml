@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/csso@3.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/csso@4.2.0
 - pkg:maven/org.webjars.npm/csso@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/csso@5.0.5
+- pkg:maven/org.webjars.npm/csso@5.0.5?classifier=sources

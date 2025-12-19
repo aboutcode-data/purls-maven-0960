@@ -19,3 +19,5 @@
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.5.5?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.5.6?classifier=sources
 - pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.5.7?classifier=sources
+- pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.5.8-test2?classifier=sources
+- pkg:maven/io.github.hwolf.kvalidation/kvalidation-core@0.5.8?classifier=sources

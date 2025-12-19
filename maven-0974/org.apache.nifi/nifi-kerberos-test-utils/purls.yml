@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.19.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.19.1
 - pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.19.1?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.20.0
+- pkg:maven/org.apache.nifi/nifi-kerberos-test-utils@1.20.0?classifier=sources

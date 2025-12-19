@@ -1,2 +1,4 @@
 - pkg:maven/com.fizzgate/fizz-plugin-ip@2.3.4-beta2
 - pkg:maven/com.fizzgate/fizz-plugin-ip@2.3.4-beta2?classifier=sources
+- pkg:maven/com.fizzgate/fizz-plugin-ip@2.7.1
+- pkg:maven/com.fizzgate/fizz-plugin-ip@2.7.1?classifier=sources

@@ -70,3 +70,7 @@
 - pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.8.0-java8
 - pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.8.0-java8?classifier=sources
 - pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.8.0?classifier=sources
+- pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.9.0
+- pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.9.0-java8
+- pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.9.0-java8?classifier=sources
+- pkg:maven/io.github.jbwheatley/pact4s-munit-cats-effect_2.12@0.9.0?classifier=sources

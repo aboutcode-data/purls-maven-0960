@@ -6,3 +6,11 @@
 - pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.0.3
 - pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.0.4
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.0.4?classifier=sources
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.14.2
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@3.14.2?classifier=sources
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@4.1.0
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@4.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@4.1.1
+- pkg:maven/io.quarkiverse.omnifaces/quarkus-omnifaces@4.1.1?classifier=sources

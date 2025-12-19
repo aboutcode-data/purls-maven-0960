@@ -24,3 +24,5 @@
 - pkg:maven/org.openidentityplatform.openam/smpp@14.6.6.1?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/smpp@14.7.0.0
 - pkg:maven/org.openidentityplatform.openam/smpp@14.7.0.0?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/smpp@14.7.2.3
+- pkg:maven/org.openidentityplatform.openam/smpp@14.7.2.3?classifier=sources

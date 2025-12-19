@@ -1,4 +1,8 @@
 - pkg:maven/com.codenameone/codenameone-javase@7.0.10
+- pkg:maven/com.codenameone/codenameone-javase@7.0.100
+- pkg:maven/com.codenameone/codenameone-javase@7.0.100?classifier=sources
+- pkg:maven/com.codenameone/codenameone-javase@7.0.101
+- pkg:maven/com.codenameone/codenameone-javase@7.0.101?classifier=sources
 - pkg:maven/com.codenameone/codenameone-javase@7.0.10?classifier=sources
 - pkg:maven/com.codenameone/codenameone-javase@7.0.11
 - pkg:maven/com.codenameone/codenameone-javase@7.0.11?classifier=sources
@@ -161,6 +165,8 @@
 - pkg:maven/com.codenameone/codenameone-javase@7.0.97?classifier=sources
 - pkg:maven/com.codenameone/codenameone-javase@7.0.98
 - pkg:maven/com.codenameone/codenameone-javase@7.0.98?classifier=sources
+- pkg:maven/com.codenameone/codenameone-javase@7.0.99
+- pkg:maven/com.codenameone/codenameone-javase@7.0.99?classifier=sources
 - pkg:maven/com.codenameone/codenameone-javase@7.0.9?classifier=sources
 - pkg:maven/com.codenameone/codenameone-javase@v7.0.81
 - pkg:maven/com.codenameone/codenameone-javase@v7.0.81?classifier=sources

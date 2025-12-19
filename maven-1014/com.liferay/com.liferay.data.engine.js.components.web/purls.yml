@@ -274,5 +274,14 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.92
 - pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.92?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.93
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.93?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.94
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.94?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.95
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.95?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.95?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.js.components.web@1.0.9?classifier=sources-commercial

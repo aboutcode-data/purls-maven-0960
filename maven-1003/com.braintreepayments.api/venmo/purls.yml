@@ -24,6 +24,9 @@
 - pkg:maven/com.braintreepayments.api/venmo@4.24.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/venmo@4.25.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/venmo@4.25.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/venmo@4.25.2?classifier=sources
+- pkg:maven/com.braintreepayments.api/venmo@4.26.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/venmo@4.26.1?classifier=sources
 - pkg:maven/com.braintreepayments.api/venmo@4.3.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/venmo@4.4.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/venmo@4.4.1?classifier=sources

@@ -3,6 +3,11 @@
 - pkg:maven/com.pulumi/sumologic@0.10.1-alpha.1673556377%2Bdbacb656?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.10.1-alpha.1674064786%2Bd2394004?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.11.0?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.11.1-alpha.1676598214%2B4a2b4dda?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.11.1-alpha.1676678133%2Bf4f39164?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.11.1-alpha.1677535310%2B259f756d?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.12.0?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.12.1-alpha.1677788150%2B168c64f4?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.0?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.1-alpha.1660680842%2B1b90b1ad?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.9.0?classifier=sources

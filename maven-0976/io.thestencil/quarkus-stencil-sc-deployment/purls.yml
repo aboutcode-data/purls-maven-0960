@@ -147,7 +147,11 @@
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.17?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.18
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.18?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.19
+- pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.19?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.2
+- pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.20
+- pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.20?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.2?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.3
 - pkg:maven/io.thestencil/quarkus-stencil-sc-deployment@1.148.3?classifier=sources

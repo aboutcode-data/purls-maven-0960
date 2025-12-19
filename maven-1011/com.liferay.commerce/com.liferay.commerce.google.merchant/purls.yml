@@ -20,6 +20,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.15
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.15?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.16
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.16?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@1.0.2
@@ -70,6 +73,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@2.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@2.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@2.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@2.0.8?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.0?classifier=sources-commercial
@@ -89,6 +95,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.14
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.14?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.15
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.15?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@3.0.2
@@ -164,6 +173,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.23
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.23?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.24
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.24?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.25
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.25?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.google.merchant@4.0.3

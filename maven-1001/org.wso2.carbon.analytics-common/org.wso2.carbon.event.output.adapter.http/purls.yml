@@ -132,6 +132,10 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.48?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.49
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.49?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.51
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.51?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.52
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.2.52?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.0
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.0?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.1
@@ -140,3 +144,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.3?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.4
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.4?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.5
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.http@5.3.5?classifier=sources

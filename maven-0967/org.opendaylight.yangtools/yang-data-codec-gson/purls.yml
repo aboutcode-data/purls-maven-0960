@@ -63,6 +63,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@10.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@10.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@10.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@2.0.1
@@ -305,6 +306,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@7.0.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@8.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@8.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@8.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@8.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@8.0.2?classifier=sources

@@ -131,6 +131,8 @@
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.28.0?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.28.1.M2
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.28.1.M2?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.28.1.RC1
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.28.1.RC1?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.29.0
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.29.0.M1
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.29.0.M1?classifier=sources
@@ -139,10 +141,18 @@
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.29.0.M3
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.29.0.M3?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.29.0?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.M1
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.M1?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.M2
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.M2?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.M3
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.M3?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.RC1
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.RC1?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.RC2
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0.RC2?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.30.0?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.7.0
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.7.0?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.lib.macro@2.7.1

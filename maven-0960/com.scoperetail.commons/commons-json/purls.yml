@@ -1,2 +1,4 @@
 - pkg:maven/com.scoperetail.commons/commons-json@1.0
 - pkg:maven/com.scoperetail.commons/commons-json@1.0?classifier=sources
+- pkg:maven/com.scoperetail.commons/commons-json@2.0
+- pkg:maven/com.scoperetail.commons/commons-json@2.0?classifier=sources

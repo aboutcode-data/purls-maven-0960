@@ -1,2 +1,4 @@
 - pkg:maven/com.aoapps/ao-payments-api-book@2.0.0
 - pkg:maven/com.aoapps/ao-payments-api-book@2.0.0?classifier=sources
+- pkg:maven/com.aoapps/ao-payments-api-book@3.0.0
+- pkg:maven/com.aoapps/ao-payments-api-book@3.0.0?classifier=sources

@@ -167,6 +167,7 @@
 - pkg:maven/org.http4k/http4k-format-klaxon@4.4.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.4.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.4.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.40.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.5.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.6.0.0?classifier=sources

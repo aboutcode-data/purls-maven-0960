@@ -1,0 +1,4 @@
+- pkg:maven/com.netflix.iep/iep-spring-leader-redis-cluster@4.2.0
+- pkg:maven/com.netflix.iep/iep-spring-leader-redis-cluster@4.2.0?classifier=sources
+- pkg:maven/com.netflix.iep/iep-spring-leader-redis-cluster@5.0.0
+- pkg:maven/com.netflix.iep/iep-spring-leader-redis-cluster@5.0.0?classifier=sources

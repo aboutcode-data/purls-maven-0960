@@ -138,6 +138,10 @@
 - pkg:maven/com.outr/scribe_2.12@3.10.6?classifier=sources
 - pkg:maven/com.outr/scribe_2.12@3.10.7
 - pkg:maven/com.outr/scribe_2.12@3.10.7?classifier=sources
+- pkg:maven/com.outr/scribe_2.12@3.11.0
+- pkg:maven/com.outr/scribe_2.12@3.11.0?classifier=sources
+- pkg:maven/com.outr/scribe_2.12@3.11.1
+- pkg:maven/com.outr/scribe_2.12@3.11.1?classifier=sources
 - pkg:maven/com.outr/scribe_2.12@3.2.0
 - pkg:maven/com.outr/scribe_2.12@3.2.0?classifier=sources
 - pkg:maven/com.outr/scribe_2.12@3.2.1

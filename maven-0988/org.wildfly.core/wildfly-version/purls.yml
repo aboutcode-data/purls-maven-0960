@@ -398,6 +398,10 @@
 - pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta5
 - pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta5?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta6
+- pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta7
+- pkg:maven/org.wildfly.core/wildfly-version@20.0.0.Beta7?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-version@3.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-version@3.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-version@3.0.0.Alpha10?classifier=sources

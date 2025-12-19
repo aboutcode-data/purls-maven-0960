@@ -1,7 +1,15 @@
+- pkg:maven/com.thegoate/kernel@0.15.11.202302180044?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.11.202302191103?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.11.202302230932?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.11.202302242230?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.17.202207222244?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.17.202208262237?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.17.202212161524?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.17.202302070955?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.17.202302172341?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.17.202302191119?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.17.202302230922?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.17.202302242243?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.8.202102061107
 - pkg:maven/com.thegoate/kernel@0.15.8.202102061107?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.8.202102092109
@@ -57,3 +65,10 @@
 - pkg:maven/com.thegoate/kernel@0.15.8.202210251328?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.8.202210302200?classifier=sources
 - pkg:maven/com.thegoate/kernel@0.15.8.202211072256?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302171932?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302172239?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302191056?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302211300?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302212206?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302231131?classifier=sources
+- pkg:maven/com.thegoate/kernel@0.15.8.202302242210?classifier=sources

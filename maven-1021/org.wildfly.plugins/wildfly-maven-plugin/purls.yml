@@ -92,3 +92,7 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.1.0.Beta1
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.1.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.1.0.Beta2
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.1.0.Beta2?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.1.0.Beta3
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin@4.1.0.Beta3?classifier=sources

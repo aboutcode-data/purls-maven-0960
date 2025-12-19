@@ -64,6 +64,10 @@
 - pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.29
 - pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.29?classifier=sources
 - pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.3
+- pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.30
+- pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.30?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.31
+- pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.31?classifier=sources
 - pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.3?classifier=sources
 - pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.4
 - pkg:maven/com.ksyun/ksc-sdk-java-kec@0.3.4?classifier=sources

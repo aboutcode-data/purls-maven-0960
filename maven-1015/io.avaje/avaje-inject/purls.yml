@@ -151,6 +151,10 @@
 - pkg:maven/io.avaje/avaje-inject@7.10?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@7.11
 - pkg:maven/io.avaje/avaje-inject@7.11?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@7.12
+- pkg:maven/io.avaje/avaje-inject@7.12?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@7.13
+- pkg:maven/io.avaje/avaje-inject@7.13?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@7.1?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@7.2
 - pkg:maven/io.avaje/avaje-inject@7.2?classifier=sources
@@ -181,6 +185,7 @@
 - pkg:maven/io.avaje/avaje-inject@8.11-RC2
 - pkg:maven/io.avaje/avaje-inject@8.11-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@8.11?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.12
 - pkg:maven/io.avaje/avaje-inject@8.12-RC1
 - pkg:maven/io.avaje/avaje-inject@8.12-RC1?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@8.12-RC2
@@ -189,6 +194,17 @@
 - pkg:maven/io.avaje/avaje-inject@8.12-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@8.12-RC4
 - pkg:maven/io.avaje/avaje-inject@8.12-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.12?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.13
+- pkg:maven/io.avaje/avaje-inject@8.13-RC1
+- pkg:maven/io.avaje/avaje-inject@8.13-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.13-RC2
+- pkg:maven/io.avaje/avaje-inject@8.13-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.13-RC3
+- pkg:maven/io.avaje/avaje-inject@8.13-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.13-RC4
+- pkg:maven/io.avaje/avaje-inject@8.13-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@8.13?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@8.1?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@8.2
 - pkg:maven/io.avaje/avaje-inject@8.2?classifier=sources
@@ -206,3 +222,5 @@
 - pkg:maven/io.avaje/avaje-inject@8.8?classifier=sources
 - pkg:maven/io.avaje/avaje-inject@8.9
 - pkg:maven/io.avaje/avaje-inject@8.9?classifier=sources
+- pkg:maven/io.avaje/avaje-inject@9.0-RC1
+- pkg:maven/io.avaje/avaje-inject@9.0-RC1?classifier=sources

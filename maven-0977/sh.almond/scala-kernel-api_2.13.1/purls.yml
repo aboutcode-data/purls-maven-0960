@@ -32,6 +32,8 @@
 - pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.13.2?classifier=sources
 - pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.13.3
 - pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.13.3?classifier=sources
+- pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.13.4
+- pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.13.4?classifier=sources
 - pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.8.2
 - pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.8.2?classifier=sources
 - pkg:maven/sh.almond/scala-kernel-api_2.13.1@0.8.3

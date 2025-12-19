@@ -9,6 +9,10 @@
 - pkg:maven/com.yandex.div/div-histogram@18.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@19.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@20.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@23.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@23.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@23.3.1?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@23.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@7.0.0?classifier=sources

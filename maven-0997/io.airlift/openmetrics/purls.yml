@@ -1,0 +1,4 @@
+- pkg:maven/io.airlift/openmetrics@224
+- pkg:maven/io.airlift/openmetrics@224?classifier=sources
+- pkg:maven/io.airlift/openmetrics@225
+- pkg:maven/io.airlift/openmetrics@225?classifier=sources

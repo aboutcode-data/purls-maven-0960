@@ -67,6 +67,10 @@
 - pkg:maven/ie.curiositysoftware/testmodeller@2.0.39?classifier=sources
 - pkg:maven/ie.curiositysoftware/testmodeller@2.0.3?classifier=sources
 - pkg:maven/ie.curiositysoftware/testmodeller@2.0.4
+- pkg:maven/ie.curiositysoftware/testmodeller@2.0.40
+- pkg:maven/ie.curiositysoftware/testmodeller@2.0.40?classifier=sources
+- pkg:maven/ie.curiositysoftware/testmodeller@2.0.41
+- pkg:maven/ie.curiositysoftware/testmodeller@2.0.41?classifier=sources
 - pkg:maven/ie.curiositysoftware/testmodeller@2.0.4?classifier=sources
 - pkg:maven/ie.curiositysoftware/testmodeller@2.0.5
 - pkg:maven/ie.curiositysoftware/testmodeller@2.0.5?classifier=sources

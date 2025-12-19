@@ -74,6 +74,10 @@
 - pkg:maven/org.kie.kogito/explainability-service-messaging@1.32.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/explainability-service-messaging@1.33.0.Final
 - pkg:maven/org.kie.kogito/explainability-service-messaging@1.33.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/explainability-service-messaging@1.34.0.Final
+- pkg:maven/org.kie.kogito/explainability-service-messaging@1.34.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/explainability-service-messaging@1.35.0.Final
+- pkg:maven/org.kie.kogito/explainability-service-messaging@1.35.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/explainability-service-messaging@1.4.0.Final
 - pkg:maven/org.kie.kogito/explainability-service-messaging@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/explainability-service-messaging@1.4.1.Final

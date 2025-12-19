@@ -1,2 +1,4 @@
 - pkg:maven/com.fizzgate/fizz-simple-cache-plugin@1.0
 - pkg:maven/com.fizzgate/fizz-simple-cache-plugin@1.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-simple-cache-plugin@2.7.1
+- pkg:maven/com.fizzgate/fizz-simple-cache-plugin@2.7.1?classifier=sources

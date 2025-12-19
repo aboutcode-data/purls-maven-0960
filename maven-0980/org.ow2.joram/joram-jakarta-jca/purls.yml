@@ -2,3 +2,5 @@
 - pkg:maven/org.ow2.joram/joram-jakarta-jca@5.19.0?classifier=sources
 - pkg:maven/org.ow2.joram/joram-jakarta-jca@5.19.1
 - pkg:maven/org.ow2.joram/joram-jakarta-jca@5.19.1?classifier=sources
+- pkg:maven/org.ow2.joram/joram-jakarta-jca@5.20.0
+- pkg:maven/org.ow2.joram/joram-jakarta-jca@5.20.0?classifier=sources

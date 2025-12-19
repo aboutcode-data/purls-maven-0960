@@ -86,3 +86,7 @@
 - pkg:maven/io.vertx/vertx-zipkin@4.3.6?classifier=sources
 - pkg:maven/io.vertx/vertx-zipkin@4.3.7
 - pkg:maven/io.vertx/vertx-zipkin@4.3.7?classifier=sources
+- pkg:maven/io.vertx/vertx-zipkin@4.3.8
+- pkg:maven/io.vertx/vertx-zipkin@4.3.8?classifier=sources
+- pkg:maven/io.vertx/vertx-zipkin@4.4.0
+- pkg:maven/io.vertx/vertx-zipkin@4.4.0?classifier=sources

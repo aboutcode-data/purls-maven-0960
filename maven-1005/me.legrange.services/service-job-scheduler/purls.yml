@@ -9,6 +9,8 @@
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.0
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.0?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.1
+- pkg:maven/me.legrange.services/service-job-scheduler@3.10.11
+- pkg:maven/me.legrange.services/service-job-scheduler@3.10.11?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.1?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.2
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.2?classifier=sources
@@ -22,6 +24,8 @@
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.7?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.8
 - pkg:maven/me.legrange.services/service-job-scheduler@3.10.8?classifier=sources
+- pkg:maven/me.legrange.services/service-job-scheduler@3.10.9
+- pkg:maven/me.legrange.services/service-job-scheduler@3.10.9?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.2.10
 - pkg:maven/me.legrange.services/service-job-scheduler@3.2.10?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@3.2.11

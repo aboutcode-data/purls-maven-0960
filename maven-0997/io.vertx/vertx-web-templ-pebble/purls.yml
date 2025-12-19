@@ -81,6 +81,8 @@
 - pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.13?classifier=sources
 - pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.14
 - pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.14?classifier=sources
+- pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.15
+- pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.15?classifier=sources
 - pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.1?classifier=sources
 - pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.2
 - pkg:maven/io.vertx/vertx-web-templ-pebble@3.9.2?classifier=sources
@@ -186,3 +188,7 @@
 - pkg:maven/io.vertx/vertx-web-templ-pebble@4.3.6?classifier=sources
 - pkg:maven/io.vertx/vertx-web-templ-pebble@4.3.7
 - pkg:maven/io.vertx/vertx-web-templ-pebble@4.3.7?classifier=sources
+- pkg:maven/io.vertx/vertx-web-templ-pebble@4.3.8
+- pkg:maven/io.vertx/vertx-web-templ-pebble@4.3.8?classifier=sources
+- pkg:maven/io.vertx/vertx-web-templ-pebble@4.4.0
+- pkg:maven/io.vertx/vertx-web-templ-pebble@4.4.0?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-5.4@2.2.7?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-5.4@2.3.0?classifier=sources
+- pkg:maven/org.neo4j.gds/storage-engine-adapter-5.4@2.3.1?classifier=sources
+- pkg:maven/org.neo4j.gds/storage-engine-adapter-5.4@2.4.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.gds/storage-engine-adapter-5.4@2.4.0-alpha02?classifier=sources
