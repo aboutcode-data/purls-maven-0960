@@ -79,6 +79,8 @@
 - pkg:maven/de.bwaldvogel/mongo-java-server@1.4.4?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server@1.40.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server@1.41.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server@1.42.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server@1.43.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server@1.5.0
 - pkg:maven/de.bwaldvogel/mongo-java-server@1.5.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server@1.6.0

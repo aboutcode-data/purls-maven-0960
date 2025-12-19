@@ -108,3 +108,7 @@
 - pkg:maven/org.slf4j/osgi-over-slf4j@2.0.2?classifier=sources
 - pkg:maven/org.slf4j/osgi-over-slf4j@2.0.3
 - pkg:maven/org.slf4j/osgi-over-slf4j@2.0.3?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@2.0.4
+- pkg:maven/org.slf4j/osgi-over-slf4j@2.0.4?classifier=sources
+- pkg:maven/org.slf4j/osgi-over-slf4j@2.0.5
+- pkg:maven/org.slf4j/osgi-over-slf4j@2.0.5?classifier=sources

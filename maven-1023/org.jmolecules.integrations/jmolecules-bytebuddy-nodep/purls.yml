@@ -1,2 +1,4 @@
 - pkg:maven/org.jmolecules.integrations/jmolecules-bytebuddy-nodep@0.12.0
 - pkg:maven/org.jmolecules.integrations/jmolecules-bytebuddy-nodep@0.12.0?classifier=sources
+- pkg:maven/org.jmolecules.integrations/jmolecules-bytebuddy-nodep@0.13.0
+- pkg:maven/org.jmolecules.integrations/jmolecules-bytebuddy-nodep@0.13.0?classifier=sources

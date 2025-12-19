@@ -253,6 +253,8 @@
 - pkg:maven/org.openl/org.openl.commons@5.25.13?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.25.14
 - pkg:maven/org.openl/org.openl.commons@5.25.14?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.25.15
+- pkg:maven/org.openl/org.openl.commons@5.25.15?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.25.1?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.25.2
 - pkg:maven/org.openl/org.openl.commons@5.25.2?classifier=sources
@@ -276,6 +278,8 @@
 - pkg:maven/org.openl/org.openl.commons@5.26.1?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.26.2
 - pkg:maven/org.openl/org.openl.commons@5.26.2?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.26.3
+- pkg:maven/org.openl/org.openl.commons@5.26.3?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.0
 - pkg:maven/org.openl/org.openl.commons@5.7.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.1

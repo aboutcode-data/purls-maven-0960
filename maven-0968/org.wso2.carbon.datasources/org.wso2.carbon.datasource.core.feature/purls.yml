@@ -8,6 +8,7 @@
 - pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.0?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.10?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.12?classifier=sources
+- pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.13?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.1?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.2?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/org.wso2.carbon.datasource.core.feature@1.1.3?classifier=sources

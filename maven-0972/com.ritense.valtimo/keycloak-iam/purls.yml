@@ -14,6 +14,9 @@
 - pkg:maven/com.ritense.valtimo/keycloak-iam@9.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/keycloak-iam@9.20.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/keycloak-iam@9.21.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/keycloak-iam@9.22.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/keycloak-iam@9.23.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/keycloak-iam@9.24.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/keycloak-iam@9.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/keycloak-iam@9.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/keycloak-iam@9.5.0.RELEASE?classifier=sources

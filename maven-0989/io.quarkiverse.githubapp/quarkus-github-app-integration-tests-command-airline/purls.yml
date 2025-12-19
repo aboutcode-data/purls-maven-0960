@@ -18,6 +18,12 @@
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.13.2?classifier=sources
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.14.0
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.14.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.15.0
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.15.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.15.1
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.15.1?classifier=sources
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.15.2
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.15.2?classifier=sources
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.8.0
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-integration-tests-command-airline@1.8.1

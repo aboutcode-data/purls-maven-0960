@@ -142,6 +142,7 @@
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.0.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.0.8
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.0.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0-M1
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0-M2
@@ -152,3 +153,4 @@
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0-M7?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0-M8
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0-M8?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty@3.1.0?classifier=sources

@@ -53,6 +53,8 @@
 - pkg:maven/org.odpi.egeria/asset-owner-client@3.11?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-owner-client@3.12
 - pkg:maven/org.odpi.egeria/asset-owner-client@3.12?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-owner-client@3.13
+- pkg:maven/org.odpi.egeria/asset-owner-client@3.13?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-owner-client@3.1?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-owner-client@3.2
 - pkg:maven/org.odpi.egeria/asset-owner-client@3.2?classifier=sources

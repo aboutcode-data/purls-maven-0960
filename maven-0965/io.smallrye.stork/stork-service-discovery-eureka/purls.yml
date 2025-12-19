@@ -14,3 +14,7 @@
 - pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.2.0?classifier=sources
 - pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.3.0
 - pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.3.0?classifier=sources
+- pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.3.1
+- pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.3.1?classifier=sources
+- pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.3.2
+- pkg:maven/io.smallrye.stork/stork-service-discovery-eureka@1.3.2?classifier=sources

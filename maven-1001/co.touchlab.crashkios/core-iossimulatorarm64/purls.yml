@@ -1,2 +1,4 @@
 - pkg:maven/co.touchlab.crashkios/core-iossimulatorarm64@0.7.1-alpha2?classifier=sources
 - pkg:maven/co.touchlab.crashkios/core-iossimulatorarm64@0.7.1-alpha3?classifier=sources
+- pkg:maven/co.touchlab.crashkios/core-iossimulatorarm64@0.8.0?classifier=sources
+- pkg:maven/co.touchlab.crashkios/core-iossimulatorarm64@0.8.1?classifier=sources

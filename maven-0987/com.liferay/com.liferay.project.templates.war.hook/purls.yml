@@ -198,6 +198,15 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.17
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.170
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.170?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.170?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.171
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.171?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.171?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.172
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.172?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.172?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.war.hook@1.0.18

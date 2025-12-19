@@ -42,6 +42,12 @@
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.12.9?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.13.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.13.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.13.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.14.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.14.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.14.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.14.3?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.14.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.9.11?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.9.12?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.9.13?classifier=sources

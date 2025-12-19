@@ -22,3 +22,7 @@
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.2-alpha.2?classifier=sources
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.2-alpha?classifier=sources
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.2?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.3
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.3-upgrade
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.3-upgrade?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-adapter-spring-cloud-stream-rocketmq@1.4.3?classifier=sources

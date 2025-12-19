@@ -150,9 +150,17 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.74.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.75.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.75.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.76.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.76.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.77.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.77.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.8.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.9.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@3.9.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@4.0.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@4.0.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@4.1.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@4.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@4.2.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-generator-maven-plugin@4.2.0?classifier=sources

@@ -31,3 +31,6 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-spring@4.0.3?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-spring@4.1.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-spring@4.2.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-spring@4.3.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-spring@4.4.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-spring@4.5.0?classifier=sources

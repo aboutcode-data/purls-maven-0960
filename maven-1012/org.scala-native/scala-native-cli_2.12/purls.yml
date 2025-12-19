@@ -18,3 +18,7 @@
 - pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.6?classifier=sources
 - pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.7
 - pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.7?classifier=sources
+- pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.8
+- pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.8?classifier=sources
+- pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.9
+- pkg:maven/org.scala-native/scala-native-cli_2.12@0.4.9?classifier=sources

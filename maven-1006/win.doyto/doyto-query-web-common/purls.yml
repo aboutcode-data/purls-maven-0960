@@ -1,4 +1,8 @@
 - pkg:maven/win.doyto/doyto-query-web-common@0.3.1
 - pkg:maven/win.doyto/doyto-query-web-common@0.3.1?classifier=sources
+- pkg:maven/win.doyto/doyto-query-web-common@1.0.0
 - pkg:maven/win.doyto/doyto-query-web-common@1.0.0-ALPHA
 - pkg:maven/win.doyto/doyto-query-web-common@1.0.0-ALPHA?classifier=sources
+- pkg:maven/win.doyto/doyto-query-web-common@1.0.0-BETA
+- pkg:maven/win.doyto/doyto-query-web-common@1.0.0-BETA?classifier=sources
+- pkg:maven/win.doyto/doyto-query-web-common@1.0.0?classifier=sources

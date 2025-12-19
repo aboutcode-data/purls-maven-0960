@@ -32,3 +32,7 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.28.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.29.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.29.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.30.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.30.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.31.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.31.0.Final?classifier=sources

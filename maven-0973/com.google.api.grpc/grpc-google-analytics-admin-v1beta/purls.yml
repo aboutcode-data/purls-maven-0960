@@ -14,3 +14,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.13.5?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.14.0
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.14.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.15.0
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.15.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.16.0
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-admin-v1beta@0.16.0?classifier=sources

@@ -21,6 +21,10 @@
 - pkg:maven/net.corda/corda-serialization@4.9.2?classifier=sources
 - pkg:maven/net.corda/corda-serialization@4.9.3
 - pkg:maven/net.corda/corda-serialization@4.9.3?classifier=sources
+- pkg:maven/net.corda/corda-serialization@4.9.4
+- pkg:maven/net.corda/corda-serialization@4.9.4?classifier=sources
 - pkg:maven/net.corda/corda-serialization@4.9?classifier=sources
 - pkg:maven/net.corda/corda-serialization@5.0.0.190-DevPreview-2
 - pkg:maven/net.corda/corda-serialization@5.0.0.190-DevPreview-2?classifier=sources
+- pkg:maven/net.corda/corda-serialization@5.0.0.435-Eagle
+- pkg:maven/net.corda/corda-serialization@5.0.0.435-Eagle?classifier=sources

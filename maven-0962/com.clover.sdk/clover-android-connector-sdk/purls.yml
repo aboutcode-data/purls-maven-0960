@@ -24,3 +24,5 @@
 - pkg:maven/com.clover.sdk/clover-android-connector-sdk@262.2?type=aar
 - pkg:maven/com.clover.sdk/clover-android-connector-sdk@284?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-connector-sdk@288?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-connector-sdk@292?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-connector-sdk@293?classifier=sources

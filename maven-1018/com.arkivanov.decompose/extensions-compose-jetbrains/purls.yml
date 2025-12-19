@@ -30,3 +30,7 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-05?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-06-native-compose?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-06?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-07-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-alpha-07?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-beta-01-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0-beta-01?classifier=sources

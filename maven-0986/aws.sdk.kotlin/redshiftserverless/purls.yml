@@ -2,6 +2,9 @@
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.16.7-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.10-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.11-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.12-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.2-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.3-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.4-beta?classifier=sources
@@ -9,3 +12,4 @@
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.6-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.7-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.8-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/redshiftserverless@0.17.9-beta?classifier=sources

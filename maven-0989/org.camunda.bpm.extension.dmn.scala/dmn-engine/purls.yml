@@ -28,3 +28,5 @@
 - pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine@1.7.2?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine@1.7.3
 - pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine@1.7.3?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine@1.7.4
+- pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine@1.7.4?classifier=sources

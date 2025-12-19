@@ -16,3 +16,5 @@
 - pkg:maven/io.hkube/wrapper@2.0.00?classifier=sources
 - pkg:maven/io.hkube/wrapper@v2.2.2
 - pkg:maven/io.hkube/wrapper@v2.2.2?classifier=sources
+- pkg:maven/io.hkube/wrapper@v2.3.1
+- pkg:maven/io.hkube/wrapper@v2.3.1?classifier=sources

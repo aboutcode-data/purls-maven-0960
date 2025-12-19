@@ -19,11 +19,15 @@
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.4.4?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.4.5?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.4.6?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-rpc@3.4.7?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.5.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.5.1?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.5.2?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.5.3?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.5.4?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-rpc@3.5.5?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.6.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.6.1?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-rpc@3.6.2?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-rpc@3.7.0?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-rpc@3.7.1?classifier=sources

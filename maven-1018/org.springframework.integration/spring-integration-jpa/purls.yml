@@ -295,3 +295,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-jpa@5.5.8?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-jpa@5.5.9
 - pkg:maven/org.springframework.integration/spring-integration-jpa@5.5.9?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-jpa@6.0.0
+- pkg:maven/org.springframework.integration/spring-integration-jpa@6.0.0?classifier=sources

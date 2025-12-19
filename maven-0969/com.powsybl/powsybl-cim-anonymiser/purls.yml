@@ -76,6 +76,8 @@
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.10.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.10.1
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.10.1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.10.2
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.10.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.2.0
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.2.0-RC1
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.2.0-RC1?classifier=sources
@@ -126,3 +128,7 @@
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.9.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.9.2
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@4.9.2?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.0.0
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.0.0-RC1
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.0.0-RC1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.0.0?classifier=sources

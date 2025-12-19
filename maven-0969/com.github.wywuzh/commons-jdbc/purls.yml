@@ -98,6 +98,12 @@
 - pkg:maven/com.github.wywuzh/commons-jdbc@2.6.10.1.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-jdbc@2.6.10.RELEASE
 - pkg:maven/com.github.wywuzh/commons-jdbc@2.6.10.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-jdbc@2.6.11.RELEASE
+- pkg:maven/com.github.wywuzh/commons-jdbc@2.6.11.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-jdbc@2.6.12.RELEASE
+- pkg:maven/com.github.wywuzh/commons-jdbc@2.6.12.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-jdbc@2.6.13.RELEASE
+- pkg:maven/com.github.wywuzh/commons-jdbc@2.6.13.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-jdbc@2.6.2.RELEASE
 - pkg:maven/com.github.wywuzh/commons-jdbc@2.6.2.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-jdbc@2.6.3.RELEASE

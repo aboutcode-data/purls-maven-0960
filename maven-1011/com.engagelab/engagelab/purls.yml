@@ -1,0 +1,4 @@
+- pkg:maven/com.engagelab/engagelab@3.0.0.t6?classifier=sources
+- pkg:maven/com.engagelab/engagelab@3.0.0.test2?classifier=sources
+- pkg:maven/com.engagelab/engagelab@3.0.0.test3?classifier=sources
+- pkg:maven/com.engagelab/engagelab@3.0.0?classifier=sources

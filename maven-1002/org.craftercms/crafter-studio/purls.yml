@@ -185,3 +185,4 @@
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-studio@4.0.0-rc2E?type=war
 - pkg:maven/org.craftercms/crafter-studio@4.0.1?type=war
+- pkg:maven/org.craftercms/crafter-studio@4.0.2?type=war

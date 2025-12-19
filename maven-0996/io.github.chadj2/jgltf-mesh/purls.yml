@@ -1,2 +1,4 @@
 - pkg:maven/io.github.chadj2/jgltf-mesh@1.0
 - pkg:maven/io.github.chadj2/jgltf-mesh@1.0?classifier=sources
+- pkg:maven/io.github.chadj2/jgltf-mesh@1.1
+- pkg:maven/io.github.chadj2/jgltf-mesh@1.1?classifier=sources

@@ -22,3 +22,9 @@
 - pkg:maven/com.itv/bucky-test_2.13@3.0.0-alpha
 - pkg:maven/com.itv/bucky-test_2.13@3.0.0-alpha?classifier=sources
 - pkg:maven/com.itv/bucky-test_2.13@3.0.0?classifier=sources
+- pkg:maven/com.itv/bucky-test_2.13@3.0.1
+- pkg:maven/com.itv/bucky-test_2.13@3.0.1?classifier=sources
+- pkg:maven/com.itv/bucky-test_2.13@3.0.2
+- pkg:maven/com.itv/bucky-test_2.13@3.0.2?classifier=sources
+- pkg:maven/com.itv/bucky-test_2.13@3.1.0
+- pkg:maven/com.itv/bucky-test_2.13@3.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/dargs@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/dargs@6.0.0
 - pkg:maven/org.webjars.npm/dargs@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/dargs@7.0.0
+- pkg:maven/org.webjars.npm/dargs@7.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.liquibase.osgi@1.0.0
 - pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.liquibase.osgi@1.0.0?classifier=sources
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.liquibase.osgi@1.0.1
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.liquibase.osgi@1.0.1?classifier=sources

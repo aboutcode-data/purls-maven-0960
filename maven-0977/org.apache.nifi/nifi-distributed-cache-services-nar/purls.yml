@@ -29,6 +29,7 @@
 - pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.16.3?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.17.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.18.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.19.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.5.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.6.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-distributed-cache-services-nar@1.7.0?classifier=sources

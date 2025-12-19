@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.iceberg/iceberg-spark-runtime-2.4@0.14.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-spark-runtime-2.4@0.14.1?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-spark-runtime-2.4@1.0.0?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-spark-runtime-2.4@1.1.0?classifier=sources

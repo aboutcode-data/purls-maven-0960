@@ -63,8 +63,14 @@
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC25?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC26
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC26?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC27
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC27?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC29
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC29?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC2?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC3
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC33
+- pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC33?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC3?classifier=sources
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC4
 - pkg:maven/com.lightbend.cloudflow/contrib-flink-tests_2.12@0.2.1-RC4?classifier=sources

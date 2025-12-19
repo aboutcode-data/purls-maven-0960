@@ -1,2 +1,4 @@
 - pkg:maven/org.hansken.plugin.extraction/api@0.6.1
 - pkg:maven/org.hansken.plugin.extraction/api@0.6.1?classifier=sources
+- pkg:maven/org.hansken.plugin.extraction/api@0.6.2
+- pkg:maven/org.hansken.plugin.extraction/api@0.6.2?classifier=sources

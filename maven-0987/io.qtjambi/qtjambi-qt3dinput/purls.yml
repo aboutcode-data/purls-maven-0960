@@ -1,4 +1,5 @@
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@5.15.10?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-qt3dinput@5.15.11?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@5.15.5?classifier=sources
@@ -15,6 +16,7 @@
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.2.6?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.2.7?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.2.8?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.2.9?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.2?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.3.0?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.3.1?classifier=sources
@@ -23,3 +25,4 @@
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.3.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.3.5?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.4.0?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.4.1?classifier=sources

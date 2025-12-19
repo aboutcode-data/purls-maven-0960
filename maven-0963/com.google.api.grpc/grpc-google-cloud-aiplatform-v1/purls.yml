@@ -106,3 +106,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.4.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.5.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.6.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.7.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-aiplatform-v1@3.7.0?classifier=sources

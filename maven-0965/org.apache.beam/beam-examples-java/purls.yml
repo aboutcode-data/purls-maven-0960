@@ -68,6 +68,7 @@
 - pkg:maven/org.apache.beam/beam-examples-java@2.40.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java@2.41.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java@2.42.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java@2.43.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java@2.5.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java@2.6.0
 - pkg:maven/org.apache.beam/beam-examples-java@2.6.0?classifier=sources

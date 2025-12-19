@@ -118,3 +118,5 @@
 - pkg:maven/com.alicp.jetcache/jetcache-autoconfigure@2.7.0.RC3?classifier=sources
 - pkg:maven/com.alicp.jetcache/jetcache-autoconfigure@2.7.0.RC?classifier=sources
 - pkg:maven/com.alicp.jetcache/jetcache-autoconfigure@2.7.0?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-autoconfigure@2.7.1
+- pkg:maven/com.alicp.jetcache/jetcache-autoconfigure@2.7.1?classifier=sources

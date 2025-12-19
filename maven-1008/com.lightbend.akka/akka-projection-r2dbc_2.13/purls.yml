@@ -26,7 +26,13 @@
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.7.6?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.7.7
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@0.7.7?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0-M1
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0-M1?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0-M2
 - pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0-M2?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0-M3
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0-M3?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.0?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.1
+- pkg:maven/com.lightbend.akka/akka-projection-r2dbc_2.13@1.0.1?classifier=sources

@@ -1,4 +1,12 @@
+- pkg:maven/com.yandex.div/div-core-views@10.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@11.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@12.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@13.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@14.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@15.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@16.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core-views@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core-views@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core-views@7.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core-views@8.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core-views@9.0.1?classifier=sources

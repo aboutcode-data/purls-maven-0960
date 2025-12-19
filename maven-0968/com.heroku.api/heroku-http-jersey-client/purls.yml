@@ -60,3 +60,5 @@
 - pkg:maven/com.heroku.api/heroku-http-jersey-client@0.44?classifier=sources
 - pkg:maven/com.heroku.api/heroku-http-jersey-client@0.45
 - pkg:maven/com.heroku.api/heroku-http-jersey-client@0.45?classifier=sources
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.46
+- pkg:maven/com.heroku.api/heroku-http-jersey-client@0.46?classifier=sources

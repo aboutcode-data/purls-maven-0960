@@ -1,2 +1,4 @@
 - pkg:maven/dev.entao.app/jsonhttp@0.7.0?classifier=sources
 - pkg:maven/dev.entao.app/jsonhttp@0.7.2?classifier=sources
+- pkg:maven/dev.entao.app/jsonhttp@0.7.3?classifier=sources
+- pkg:maven/dev.entao.app/jsonhttp@1.0.0?classifier=sources

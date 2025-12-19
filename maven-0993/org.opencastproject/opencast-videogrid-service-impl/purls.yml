@@ -56,6 +56,8 @@
 - pkg:maven/org.opencastproject/opencast-videogrid-service-impl@12.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videogrid-service-impl@12.3
 - pkg:maven/org.opencastproject/opencast-videogrid-service-impl@12.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videogrid-service-impl@12.5
+- pkg:maven/org.opencastproject/opencast-videogrid-service-impl@12.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.0
 - pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videogrid-service-impl@9.1

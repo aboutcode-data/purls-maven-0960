@@ -32,6 +32,7 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.6.8?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.6.9
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.6.9?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0-M1
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0-M1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0-M2
@@ -42,3 +43,6 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0-M4?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0-M5
 - pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0-M5?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.7.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.8.0-M1
+- pkg:maven/com.typesafe.akka/akka-persistence-testkit_2.12@2.8.0-M1?classifier=sources

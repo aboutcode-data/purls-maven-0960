@@ -1,2 +1,4 @@
+- pkg:maven/com.netflix.atlas_v1/atlas-chart_2.12@1.6.7
 - pkg:maven/com.netflix.atlas_v1/atlas-chart_2.12@1.6.7-rc.2
 - pkg:maven/com.netflix.atlas_v1/atlas-chart_2.12@1.6.7-rc.2?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-chart_2.12@1.6.7?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/io.github.tencent/vap@2.0.26?type=aar
 - pkg:maven/io.github.tencent/vap@2.0.27?classifier=sources
 - pkg:maven/io.github.tencent/vap@2.0.27?type=aar
+- pkg:maven/io.github.tencent/vap@2.0.28?classifier=sources
+- pkg:maven/io.github.tencent/vap@2.0.28?type=aar

@@ -1,0 +1,16 @@
+- pkg:maven/ca.denisab85/tdlib@%24POM_XML_VERSION
+- pkg:maven/ca.denisab85/tdlib@%24POM_XML_VERSION?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@test1
+- pkg:maven/ca.denisab85/tdlib@test1?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@test51
+- pkg:maven/ca.denisab85/tdlib@test51?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@v1.7.0
+- pkg:maven/ca.denisab85/tdlib@v1.7.0?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@v1.8.0
+- pkg:maven/ca.denisab85/tdlib@v1.8.0-20221029
+- pkg:maven/ca.denisab85/tdlib@v1.8.0-20221029?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@v1.8.0?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@v1.8.8-20221104
+- pkg:maven/ca.denisab85/tdlib@v1.8.8-20221104?classifier=sources
+- pkg:maven/ca.denisab85/tdlib@v1.8.8-20221107
+- pkg:maven/ca.denisab85/tdlib@v1.8.8-20221107?classifier=sources

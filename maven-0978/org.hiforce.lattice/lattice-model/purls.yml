@@ -13,6 +13,10 @@
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.11.2?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.11?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.12
+- pkg:maven/org.hiforce.lattice/lattice-model@1.0.12.1
+- pkg:maven/org.hiforce.lattice/lattice-model@1.0.12.1?classifier=sources
+- pkg:maven/org.hiforce.lattice/lattice-model@1.0.12.3
+- pkg:maven/org.hiforce.lattice/lattice-model@1.0.12.3?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.12?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.2
 - pkg:maven/org.hiforce.lattice/lattice-model@1.0.2?classifier=sources

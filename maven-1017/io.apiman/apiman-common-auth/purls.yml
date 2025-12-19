@@ -134,3 +134,5 @@
 - pkg:maven/io.apiman/apiman-common-auth@2.2.2.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-common-auth@2.2.3.Final
 - pkg:maven/io.apiman/apiman-common-auth@2.2.3.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-common-auth@3.0.0.RC6
+- pkg:maven/io.apiman/apiman-common-auth@3.0.0.RC6?classifier=sources

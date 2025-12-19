@@ -1,0 +1,4 @@
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native-osx-x86-64@1.1.0-RC6
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native-osx-x86-64@1.1.0-RC6.1
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native-osx-x86-64@1.1.0-RC6.1?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-shaded-native-osx-x86-64@1.1.0-RC6?classifier=sources

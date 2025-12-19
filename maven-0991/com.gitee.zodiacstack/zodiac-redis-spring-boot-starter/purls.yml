@@ -55,6 +55,10 @@
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.0
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.0?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.1
+- pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.10
+- pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.10?classifier=sources
+- pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.11
+- pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.11?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.1?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.2
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.2?classifier=sources
@@ -70,3 +74,5 @@
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.7?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.8
 - pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.8?classifier=sources
+- pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.9
+- pkg:maven/com.gitee.zodiacstack/zodiac-redis-spring-boot-starter@1.5.9?classifier=sources

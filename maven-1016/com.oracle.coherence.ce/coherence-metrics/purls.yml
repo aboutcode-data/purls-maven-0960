@@ -1,6 +1,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-1
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-10
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-10?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-11
+- pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-11?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-2
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@14.1.1-0-2?classifier=sources
@@ -44,6 +46,7 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.12.3
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.12.4
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.12.5
+- pkg:maven/com.oracle.coherence.ce/coherence-metrics@21.12.6
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@22.06
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@22.06.1
 - pkg:maven/com.oracle.coherence.ce/coherence-metrics@22.06.2

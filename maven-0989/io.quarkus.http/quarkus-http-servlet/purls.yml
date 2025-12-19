@@ -90,7 +90,11 @@
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@4.1.8?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@4.1.9
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@4.1.9?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@4.2.1
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@4.2.1?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha1
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha2
 - pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha2?classifier=sources
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha3
+- pkg:maven/io.quarkus.http/quarkus-http-servlet@5.0.0.Alpha3?classifier=sources

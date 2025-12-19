@@ -10,6 +10,8 @@
 - pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.14.0?classifier=sources
 - pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.15.0
 - pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.15.0?classifier=sources
+- pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.16.0
+- pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.16.0?classifier=sources
 - pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.7.0
 - pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.7.0?classifier=sources
 - pkg:maven/org.scala-steward/scala-steward-mill-plugin_2.12@0.8.1

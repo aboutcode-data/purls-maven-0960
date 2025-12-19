@@ -133,3 +133,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@4.1.0
 - pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@4.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@4.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@5.0.0
+- pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@5.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@5.1.0
+- pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@5.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.auto.tagger.api@5.1.0?classifier=sources-commercial

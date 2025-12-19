@@ -321,3 +321,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.api@6.0.9
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.api@6.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.api@6.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.api@7.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.api@7.0.0?classifier=sources-commercial

@@ -13,6 +13,8 @@
 - pkg:maven/com.weibo/codec-extension@1.1.12?classifier=sources
 - pkg:maven/com.weibo/codec-extension@1.1.13
 - pkg:maven/com.weibo/codec-extension@1.1.13?classifier=sources
+- pkg:maven/com.weibo/codec-extension@1.1.14
+- pkg:maven/com.weibo/codec-extension@1.1.14?classifier=sources
 - pkg:maven/com.weibo/codec-extension@1.1.1?classifier=sources
 - pkg:maven/com.weibo/codec-extension@1.1.2
 - pkg:maven/com.weibo/codec-extension@1.1.2?classifier=sources
@@ -30,3 +32,5 @@
 - pkg:maven/com.weibo/codec-extension@1.1.8?classifier=sources
 - pkg:maven/com.weibo/codec-extension@1.1.9
 - pkg:maven/com.weibo/codec-extension@1.1.9?classifier=sources
+- pkg:maven/com.weibo/codec-extension@1.2.0
+- pkg:maven/com.weibo/codec-extension@1.2.0?classifier=sources

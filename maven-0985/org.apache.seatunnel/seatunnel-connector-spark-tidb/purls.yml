@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.seatunnel/seatunnel-connector-spark-tidb@2.1.3?classifier=sources
 - pkg:maven/org.apache.seatunnel/seatunnel-connector-spark-tidb@2.2.0-beta
 - pkg:maven/org.apache.seatunnel/seatunnel-connector-spark-tidb@2.2.0-beta?classifier=sources
+- pkg:maven/org.apache.seatunnel/seatunnel-connector-spark-tidb@2.3.0-beta
+- pkg:maven/org.apache.seatunnel/seatunnel-connector-spark-tidb@2.3.0-beta?classifier=sources

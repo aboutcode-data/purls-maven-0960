@@ -217,6 +217,9 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@6.6.0-RC5?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@6.6.0?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@6.6.1?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@6.6.2?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@6.6.3?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@7.0.0-RC1?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@7.0.0-RC2?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@v6.4.0-RC5?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-eureka-server@v6.4.0-RC6?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/io.dropwizard.metrics5/metrics-logback13@5.0.0-rc12
 - pkg:maven/io.dropwizard.metrics5/metrics-logback13@5.0.0-rc12?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-logback13@5.0.0-rc13
+- pkg:maven/io.dropwizard.metrics5/metrics-logback13@5.0.0-rc13?classifier=sources

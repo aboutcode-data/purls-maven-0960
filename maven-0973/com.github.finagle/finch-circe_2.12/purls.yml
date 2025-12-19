@@ -64,3 +64,5 @@
 - pkg:maven/com.github.finagle/finch-circe_2.12@0.31.0?classifier=sources
 - pkg:maven/com.github.finagle/finch-circe_2.12@0.34.0
 - pkg:maven/com.github.finagle/finch-circe_2.12@0.34.0?classifier=sources
+- pkg:maven/com.github.finagle/finch-circe_2.12@0.34.1
+- pkg:maven/com.github.finagle/finch-circe_2.12@0.34.1?classifier=sources

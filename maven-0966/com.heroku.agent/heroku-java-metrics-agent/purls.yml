@@ -36,3 +36,7 @@
 - pkg:maven/com.heroku.agent/heroku-java-metrics-agent@3.8?classifier=sources
 - pkg:maven/com.heroku.agent/heroku-java-metrics-agent@3.9
 - pkg:maven/com.heroku.agent/heroku-java-metrics-agent@3.9?classifier=sources
+- pkg:maven/com.heroku.agent/heroku-java-metrics-agent@4.0.0
+- pkg:maven/com.heroku.agent/heroku-java-metrics-agent@4.0.0?classifier=sources
+- pkg:maven/com.heroku.agent/heroku-java-metrics-agent@4.0.1
+- pkg:maven/com.heroku.agent/heroku-java-metrics-agent@4.0.1?classifier=sources

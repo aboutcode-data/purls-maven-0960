@@ -388,6 +388,12 @@
 - pkg:maven/org.wildfly.core/wildfly-cli@2.2.1.CR2?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-cli@2.2.1.Final
 - pkg:maven/org.wildfly.core/wildfly-cli@2.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-cli@20.0.0.Beta1
+- pkg:maven/org.wildfly.core/wildfly-cli@20.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-cli@20.0.0.Beta2
+- pkg:maven/org.wildfly.core/wildfly-cli@20.0.0.Beta2?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-cli@20.0.0.Beta3
+- pkg:maven/org.wildfly.core/wildfly-cli@20.0.0.Beta3?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-cli@3.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-cli@3.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-cli@3.0.0.Alpha10?classifier=sources

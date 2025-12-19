@@ -18,3 +18,5 @@
 - pkg:maven/com.powsybl/powsybl-glsk-commons@1.6.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-glsk-commons@1.6.1
 - pkg:maven/com.powsybl/powsybl-glsk-commons@1.6.1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-glsk-commons@2.0.0
+- pkg:maven/com.powsybl/powsybl-glsk-commons@2.0.0?classifier=sources

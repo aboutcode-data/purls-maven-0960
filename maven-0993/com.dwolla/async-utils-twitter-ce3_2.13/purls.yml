@@ -1,4 +1,6 @@
 - pkg:maven/com.dwolla/async-utils-twitter-ce3_2.13@0.0.1
+- pkg:maven/com.dwolla/async-utils-twitter-ce3_2.13@0.0.10
+- pkg:maven/com.dwolla/async-utils-twitter-ce3_2.13@0.0.10?classifier=sources
 - pkg:maven/com.dwolla/async-utils-twitter-ce3_2.13@0.0.1?classifier=sources
 - pkg:maven/com.dwolla/async-utils-twitter-ce3_2.13@0.0.2
 - pkg:maven/com.dwolla/async-utils-twitter-ce3_2.13@0.0.2?classifier=sources

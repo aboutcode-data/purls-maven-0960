@@ -1,2 +1,6 @@
 - pkg:maven/io.gitee.minelx/common-tools@1.0
 - pkg:maven/io.gitee.minelx/common-tools@1.0?classifier=sources
+- pkg:maven/io.gitee.minelx/common-tools@1.1.0
+- pkg:maven/io.gitee.minelx/common-tools@1.1.0?classifier=sources
+- pkg:maven/io.gitee.minelx/common-tools@1.2.1
+- pkg:maven/io.gitee.minelx/common-tools@1.2.1?classifier=sources

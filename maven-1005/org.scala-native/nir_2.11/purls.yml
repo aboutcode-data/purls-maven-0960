@@ -14,3 +14,7 @@
 - pkg:maven/org.scala-native/nir_2.11@0.4.6?classifier=sources
 - pkg:maven/org.scala-native/nir_2.11@0.4.7
 - pkg:maven/org.scala-native/nir_2.11@0.4.7?classifier=sources
+- pkg:maven/org.scala-native/nir_2.11@0.4.8
+- pkg:maven/org.scala-native/nir_2.11@0.4.8?classifier=sources
+- pkg:maven/org.scala-native/nir_2.11@0.4.9
+- pkg:maven/org.scala-native/nir_2.11@0.4.9?classifier=sources

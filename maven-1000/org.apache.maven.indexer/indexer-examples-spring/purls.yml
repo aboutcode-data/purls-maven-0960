@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.maven.indexer/indexer-examples-spring@6.2.1?classifier=sources
 - pkg:maven/org.apache.maven.indexer/indexer-examples-spring@6.2.2
 - pkg:maven/org.apache.maven.indexer/indexer-examples-spring@6.2.2?classifier=sources
+- pkg:maven/org.apache.maven.indexer/indexer-examples-spring@7.0.0
+- pkg:maven/org.apache.maven.indexer/indexer-examples-spring@7.0.0?classifier=sources

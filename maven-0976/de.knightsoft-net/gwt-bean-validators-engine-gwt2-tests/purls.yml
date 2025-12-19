@@ -12,6 +12,12 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.4?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.6
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.6?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.7
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.7?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.8
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.8?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.9
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.11.9?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.8.0
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.8.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.8.1
@@ -48,3 +54,5 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.9.6?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.9.7
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@1.9.7?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@2.0.0
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine-gwt2-tests@2.0.0?classifier=sources

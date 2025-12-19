@@ -1,2 +1,4 @@
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_BRIDGE@8.0
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_BRIDGE@8.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_BRIDGE@8.1
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_BRIDGE@8.1?classifier=sources

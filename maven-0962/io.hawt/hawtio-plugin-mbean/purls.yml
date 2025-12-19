@@ -268,6 +268,10 @@
 - pkg:maven/io.hawt/hawtio-plugin-mbean@2.15.2?classifier=sources
 - pkg:maven/io.hawt/hawtio-plugin-mbean@2.16.0
 - pkg:maven/io.hawt/hawtio-plugin-mbean@2.16.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-plugin-mbean@2.16.1
+- pkg:maven/io.hawt/hawtio-plugin-mbean@2.16.1?classifier=sources
+- pkg:maven/io.hawt/hawtio-plugin-mbean@2.16.2
+- pkg:maven/io.hawt/hawtio-plugin-mbean@2.16.2?classifier=sources
 - pkg:maven/io.hawt/hawtio-plugin-mbean@2.8.0
 - pkg:maven/io.hawt/hawtio-plugin-mbean@2.8.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-plugin-mbean@2.9.0

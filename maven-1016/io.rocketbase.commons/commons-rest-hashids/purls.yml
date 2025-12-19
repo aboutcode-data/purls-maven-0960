@@ -78,3 +78,5 @@
 - pkg:maven/io.rocketbase.commons/commons-rest-hashids@2.3.9?classifier=sources
 - pkg:maven/io.rocketbase.commons/commons-rest-hashids@2.4.0
 - pkg:maven/io.rocketbase.commons/commons-rest-hashids@2.4.0?classifier=sources
+- pkg:maven/io.rocketbase.commons/commons-rest-hashids@2.5.0
+- pkg:maven/io.rocketbase.commons/commons-rest-hashids@2.5.0?classifier=sources
