@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.36
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.36?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.5
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.5?classifier=sources

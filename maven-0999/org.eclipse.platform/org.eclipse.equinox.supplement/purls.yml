@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.10.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.10.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.10.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.10.500
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.10.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.6.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.6.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.supplement@1.7.0

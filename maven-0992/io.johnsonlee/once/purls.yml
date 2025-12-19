@@ -1,0 +1,6 @@
+- pkg:maven/io.johnsonlee/once@1.0.0-rc1?classifier=sources
+- pkg:maven/io.johnsonlee/once@1.0.0?classifier=sources
+- pkg:maven/io.johnsonlee/once@1.1.0-rc1?classifier=sources
+- pkg:maven/io.johnsonlee/once@1.1.0?classifier=sources
+- pkg:maven/io.johnsonlee/once@1.2.0-alph1?classifier=sources
+- pkg:maven/io.johnsonlee/once@1.2.0?classifier=sources

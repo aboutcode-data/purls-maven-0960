@@ -20,6 +20,8 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.17?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.18?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.18?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.19?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.19?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.7?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.7?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@1.8.1?classifier=sources
@@ -46,3 +48,9 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.0.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.0.2?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.0.2?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.1.0-M1?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.1.0-M1?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.1.0-M2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.1.0-M2?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.1.0-M4?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-inject@2.1.0-M4?type=war

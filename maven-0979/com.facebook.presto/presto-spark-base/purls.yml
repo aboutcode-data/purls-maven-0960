@@ -148,3 +148,11 @@
 - pkg:maven/com.facebook.presto/presto-spark-base@0.272.1
 - pkg:maven/com.facebook.presto/presto-spark-base@0.272.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-spark-base@0.272?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273.1
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273.2
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273.3
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273.3?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-base@0.273?classifier=sources

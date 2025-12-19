@@ -9,4 +9,6 @@
 - pkg:maven/com.fastjrun.codeg/base-sdkg-test@4.0.4?classifier=sources
 - pkg:maven/com.fastjrun.codeg/base-sdkg-test@4.0?classifier=sources
 - pkg:maven/com.fastjrun.codeg/base-sdkg-test@4.1
+- pkg:maven/com.fastjrun.codeg/base-sdkg-test@4.1.1
+- pkg:maven/com.fastjrun.codeg/base-sdkg-test@4.1.1?classifier=sources
 - pkg:maven/com.fastjrun.codeg/base-sdkg-test@4.1?classifier=sources

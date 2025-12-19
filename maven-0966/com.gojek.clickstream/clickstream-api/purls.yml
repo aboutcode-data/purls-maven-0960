@@ -1,0 +1,5 @@
+- pkg:maven/com.gojek.clickstream/clickstream-api@0.2.35-snapshot?classifier=sources
+- pkg:maven/com.gojek.clickstream/clickstream-api@0.2.36-snapshot?classifier=sources
+- pkg:maven/com.gojek.clickstream/clickstream-api@0.2.36?classifier=sources
+- pkg:maven/com.gojek.clickstream/clickstream-api@0.2.38?classifier=sources
+- pkg:maven/com.gojek.clickstream/clickstream-api@0.2.39?classifier=sources

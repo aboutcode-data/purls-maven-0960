@@ -94,3 +94,5 @@
 - pkg:maven/org.wcdevs.blog/cdk@2.1.8?classifier=sources
 - pkg:maven/org.wcdevs.blog/cdk@2.1.9
 - pkg:maven/org.wcdevs.blog/cdk@2.1.9?classifier=sources
+- pkg:maven/org.wcdevs.blog/cdk@3.0.0
+- pkg:maven/org.wcdevs.blog/cdk@3.0.0?classifier=sources

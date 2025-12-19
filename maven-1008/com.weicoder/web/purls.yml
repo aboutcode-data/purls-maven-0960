@@ -173,3 +173,9 @@
 - pkg:maven/com.weicoder/web@3.4.9?classifier=sources
 - pkg:maven/com.weicoder/web@3.5.0
 - pkg:maven/com.weicoder/web@3.5.0?classifier=sources
+- pkg:maven/com.weicoder/web@3.5.1
+- pkg:maven/com.weicoder/web@3.5.1-jdk11
+- pkg:maven/com.weicoder/web@3.5.1-jdk11?classifier=sources
+- pkg:maven/com.weicoder/web@3.5.1-jdk8
+- pkg:maven/com.weicoder/web@3.5.1-jdk8?classifier=sources
+- pkg:maven/com.weicoder/web@3.5.1?classifier=sources

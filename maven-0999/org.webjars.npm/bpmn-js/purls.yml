@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.npm/bpmn-js@6.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/bpmn-js@8.0.0
 - pkg:maven/org.webjars.npm/bpmn-js@8.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/bpmn-js@9.0.3
+- pkg:maven/org.webjars.npm/bpmn-js@9.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/bpmn-js@9.2.0
+- pkg:maven/org.webjars.npm/bpmn-js@9.2.0?classifier=sources

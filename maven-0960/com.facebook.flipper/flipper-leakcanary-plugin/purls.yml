@@ -51,6 +51,14 @@
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.142.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.143.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.144.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.145.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.146.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.146.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.147.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.147.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.148.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.149.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.150.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.76.0?classifier=sources

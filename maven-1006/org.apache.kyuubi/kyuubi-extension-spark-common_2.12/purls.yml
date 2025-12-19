@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.5.0-incubating?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.5.1-incubating
 - pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.5.1-incubating?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.5.2-incubating
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.5.2-incubating?classifier=sources

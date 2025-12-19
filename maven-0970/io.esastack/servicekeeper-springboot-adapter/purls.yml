@@ -1,2 +1,4 @@
 - pkg:maven/io.esastack/servicekeeper-springboot-adapter@0.1.0
 - pkg:maven/io.esastack/servicekeeper-springboot-adapter@0.1.0?classifier=sources
+- pkg:maven/io.esastack/servicekeeper-springboot-adapter@0.1.1-BETA
+- pkg:maven/io.esastack/servicekeeper-springboot-adapter@0.1.1-BETA?classifier=sources

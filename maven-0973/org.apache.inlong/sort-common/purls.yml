@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.inlong/sort-common@1.0.0-incubating?classifier=sources
 - pkg:maven/org.apache.inlong/sort-common@1.1.0-incubating
 - pkg:maven/org.apache.inlong/sort-common@1.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.inlong/sort-common@1.2.0-incubating
+- pkg:maven/org.apache.inlong/sort-common@1.2.0-incubating?classifier=sources

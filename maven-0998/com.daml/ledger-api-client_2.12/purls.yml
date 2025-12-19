@@ -254,6 +254,8 @@
 - pkg:maven/com.daml/ledger-api-client_2.12@1.18.2-snapshot.20220324.8440.0.5cfb1a21
 - pkg:maven/com.daml/ledger-api-client_2.12@1.18.2-snapshot.20220324.8440.0.5cfb1a21?classifier=sources
 - pkg:maven/com.daml/ledger-api-client_2.12@1.18.2?classifier=sources
+- pkg:maven/com.daml/ledger-api-client_2.12@1.18.3-snapshot.20220620.8442.0.c7424302
+- pkg:maven/com.daml/ledger-api-client_2.12@1.18.3-snapshot.20220620.8442.0.c7424302?classifier=sources
 - pkg:maven/com.daml/ledger-api-client_2.12@1.2.0
 - pkg:maven/com.daml/ledger-api-client_2.12@1.2.0-snapshot.20200513.4172.0.021f4af3
 - pkg:maven/com.daml/ledger-api-client_2.12@1.2.0-snapshot.20200513.4172.0.021f4af3?classifier=sources

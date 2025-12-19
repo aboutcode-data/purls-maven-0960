@@ -49,4 +49,6 @@
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.8.0
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.8.0-1
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.8.0-1?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.8.0-2
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.8.0-2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@2.8.0?classifier=sources

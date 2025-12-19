@@ -60,5 +60,7 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@6.2.0?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@6.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@6.2.1?type=aar
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@6.3.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@6.3.0?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@rc-5.3.6?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@rc-5.3.6?type=aar

@@ -1,3 +1,4 @@
 - pkg:maven/org.pytorch/pytorch_android_torchvision_lite@1.10.0?classifier=sources
 - pkg:maven/org.pytorch/pytorch_android_torchvision_lite@1.11?classifier=sources
+- pkg:maven/org.pytorch/pytorch_android_torchvision_lite@1.12.1?classifier=sources
 - pkg:maven/org.pytorch/pytorch_android_torchvision_lite@1.12?classifier=sources

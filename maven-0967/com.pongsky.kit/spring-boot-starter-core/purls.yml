@@ -1,3 +1,7 @@
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.10.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.10.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.11.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.11.1-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.6.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.7.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.8.0-2.4.13?classifier=sources
@@ -7,3 +11,8 @@
 - pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.8.4-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.8.5-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.8.6-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.9.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@3.9.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@4.0.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@4.1.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-core@4.1.1-2.4.13?classifier=sources

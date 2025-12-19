@@ -1,2 +1,4 @@
 - pkg:maven/com.viafoura/metrics-datadog@2.0.0-RC2
 - pkg:maven/com.viafoura/metrics-datadog@2.0.0-RC2?classifier=sources
+- pkg:maven/com.viafoura/metrics-datadog@2.0.0-RC3
+- pkg:maven/com.viafoura/metrics-datadog@2.0.0-RC3?classifier=sources

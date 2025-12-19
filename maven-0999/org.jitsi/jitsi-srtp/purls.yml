@@ -8,6 +8,8 @@
 - pkg:maven/org.jitsi/jitsi-srtp@1.0-4-g5a06536?classifier=sources
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-1-gbbf37c0
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-1-gbbf37c0?classifier=sources
+- pkg:maven/org.jitsi/jitsi-srtp@1.1-10-gd9bbebf
+- pkg:maven/org.jitsi/jitsi-srtp@1.1-10-gd9bbebf?classifier=sources
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-2-gabdf3cc
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-2-gabdf3cc?classifier=sources
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-3-g4637686
@@ -18,3 +20,7 @@
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-5-g70395c7?classifier=sources
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-7-gd8d1435
 - pkg:maven/org.jitsi/jitsi-srtp@1.1-7-gd8d1435?classifier=sources
+- pkg:maven/org.jitsi/jitsi-srtp@1.1-8-g8f5c9fd
+- pkg:maven/org.jitsi/jitsi-srtp@1.1-8-g8f5c9fd?classifier=sources
+- pkg:maven/org.jitsi/jitsi-srtp@1.1-9-ge234488
+- pkg:maven/org.jitsi/jitsi-srtp@1.1-9-ge234488?classifier=sources

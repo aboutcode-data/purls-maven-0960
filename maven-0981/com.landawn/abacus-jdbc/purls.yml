@@ -220,3 +220,6 @@
 - pkg:maven/com.landawn/abacus-jdbc@2.8.8?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@2.8.9?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@2.9?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@3.1.1?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@3.1.2?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@3.1?classifier=sources

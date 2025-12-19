@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.feature@0.9.4-RC3
 - pkg:maven/org.apache.felix/org.apache.felix.feature@0.9.4-RC3?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.feature@0.9.4-RC3?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.feature@1.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.feature@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.feature@1.0.0?classifier=sources

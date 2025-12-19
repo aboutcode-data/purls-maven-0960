@@ -161,6 +161,8 @@
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.14?classifier=sources
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.15
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.15?classifier=sources
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.16
+- pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.16?classifier=sources
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.1?classifier=sources
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.2
 - pkg:maven/org.apache.karaf.deployer/org.apache.karaf.deployer.blueprint@4.2.2?classifier=sources

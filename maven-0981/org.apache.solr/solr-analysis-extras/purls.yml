@@ -172,6 +172,8 @@
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.11.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.11.1
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.11.1?classifier=sources
+- pkg:maven/org.apache.solr/solr-analysis-extras@8.11.2
+- pkg:maven/org.apache.solr/solr-analysis-extras@8.11.2?classifier=sources
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.2.0
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.2.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-analysis-extras@8.3.0

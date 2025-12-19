@@ -185,6 +185,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.17?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.18
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.18?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.19
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.19?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.2
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.10.2?classifier=sources
@@ -266,6 +268,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.15.7?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.15.8
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.15.8?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.15.9
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.15.9?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.16.0
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.16.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.16.1
@@ -276,6 +280,10 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.17.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.17.1
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.17.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.17.2
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.17.2?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.18.0-RC1
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.18.0-RC1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.2.0
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-api@3.2.1

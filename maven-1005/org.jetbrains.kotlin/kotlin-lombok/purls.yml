@@ -39,3 +39,6 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.6.21
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.6.21?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.7.0-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.7.0-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.7.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.7.0?classifier=sources

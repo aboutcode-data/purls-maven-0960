@@ -54,3 +54,5 @@
 - pkg:maven/edu.ucr.cs.bdlab/common@0.9.4-RC2
 - pkg:maven/edu.ucr.cs.bdlab/common@0.9.4-RC2?classifier=sources
 - pkg:maven/edu.ucr.cs.bdlab/common@0.9.4?classifier=sources
+- pkg:maven/edu.ucr.cs.bdlab/common@0.9.5-RC1
+- pkg:maven/edu.ucr.cs.bdlab/common@0.9.5-RC1?classifier=sources

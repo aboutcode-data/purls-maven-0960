@@ -80,3 +80,5 @@
 - pkg:maven/org.mockito/mockito-errorprone@4.3.1?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.4.0?classifier=sources
 - pkg:maven/org.mockito/mockito-errorprone@4.5.1?classifier=sources
+- pkg:maven/org.mockito/mockito-errorprone@4.6.0?classifier=sources
+- pkg:maven/org.mockito/mockito-errorprone@4.6.1?classifier=sources

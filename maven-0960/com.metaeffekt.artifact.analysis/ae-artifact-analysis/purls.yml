@@ -42,6 +42,14 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.3.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.30.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.30.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.31.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.31.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.32.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.32.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.33.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.33.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.34.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.34.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.4.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.4.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis@0.4.1

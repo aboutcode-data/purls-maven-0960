@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon.qldb/amazon-qldb-ledger-load@1.0.0
 - pkg:maven/software.amazon.qldb/amazon-qldb-ledger-load@1.0.0?classifier=sources
+- pkg:maven/software.amazon.qldb/amazon-qldb-ledger-load@1.0.1
+- pkg:maven/software.amazon.qldb/amazon-qldb-ledger-load@1.0.1?classifier=sources

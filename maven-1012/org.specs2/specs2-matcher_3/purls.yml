@@ -2,6 +2,8 @@
 - pkg:maven/org.specs2/specs2-matcher_3@4.14.1-cross?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_3@4.15.0
 - pkg:maven/org.specs2/specs2-matcher_3@4.15.0?classifier=sources
+- pkg:maven/org.specs2/specs2-matcher_3@4.16.0
+- pkg:maven/org.specs2/specs2-matcher_3@4.16.0?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_3@5.0.0
 - pkg:maven/org.specs2/specs2-matcher_3@5.0.0-ALPHA-03
 - pkg:maven/org.specs2/specs2-matcher_3@5.0.0-ALPHA-03?classifier=sources

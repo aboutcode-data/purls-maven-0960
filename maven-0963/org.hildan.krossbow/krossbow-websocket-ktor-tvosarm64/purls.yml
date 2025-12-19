@@ -1,1 +1,5 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosarm64@3.4.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosarm64@3.5.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosarm64@3.6.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosarm64@3.7.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosarm64@3.8.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/jakarta.servlet.jsp/jakarta.servlet.jsp-api@3.0.0-RC2
 - pkg:maven/jakarta.servlet.jsp/jakarta.servlet.jsp-api@3.0.0-RC2?classifier=sources
 - pkg:maven/jakarta.servlet.jsp/jakarta.servlet.jsp-api@3.0.0?classifier=sources
+- pkg:maven/jakarta.servlet.jsp/jakarta.servlet.jsp-api@3.1.0
+- pkg:maven/jakarta.servlet.jsp/jakarta.servlet.jsp-api@3.1.0?classifier=sources

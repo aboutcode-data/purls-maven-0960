@@ -231,6 +231,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.13.1%2B23-2f138f66
+- pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.13.1%2B23-2f138f66?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.13.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.2.0
 - pkg:maven/io.janstenpickle/trace4cats-stackdriver-grpc-exporter_2.13@0.2.0%2B1-b13cdc37

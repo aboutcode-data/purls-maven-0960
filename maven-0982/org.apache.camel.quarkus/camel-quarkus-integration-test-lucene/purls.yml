@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.10.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.10.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.3.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-lucene@2.4.0

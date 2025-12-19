@@ -36,6 +36,14 @@
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.19.0?classifier=sources
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.0
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.0?classifier=sources
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.1
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.1?classifier=sources
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.2
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.2?classifier=sources
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.3
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.3?classifier=sources
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.4
+- pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.20.4?classifier=sources
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.3.1
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.3.1?classifier=sources
 - pkg:maven/com.redhat.cloud/kafka-instance-sdk@0.4.0

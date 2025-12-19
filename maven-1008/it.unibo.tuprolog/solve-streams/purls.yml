@@ -28,3 +28,6 @@
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.20.2?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.20.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.20.4?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.20.7?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.20.9-dev01%2Bada92962?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.20.9?classifier=sources

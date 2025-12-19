@@ -189,6 +189,8 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-common@1.12.2?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-common@1.12.3?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-common@1.12.4?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-common@1.13.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-common@1.14.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-common@1.2.0
 - pkg:maven/pl.allegro.tech.hermes/hermes-common@1.2.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-common@1.2.1

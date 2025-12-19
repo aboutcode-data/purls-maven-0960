@@ -1,6 +1,10 @@
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.1
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.1?classifier=sources
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.B1
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.B1?classifier=sources
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.M1
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.M1?classifier=sources
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.RC1
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0.RC1?classifier=sources
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-junit5@2.0?classifier=sources

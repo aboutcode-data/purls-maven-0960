@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.skywalking/cluster-nacos-plugin@8.9.1?classifier=sources
 - pkg:maven/org.apache.skywalking/cluster-nacos-plugin@9.0.0
 - pkg:maven/org.apache.skywalking/cluster-nacos-plugin@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/cluster-nacos-plugin@9.1.0
+- pkg:maven/org.apache.skywalking/cluster-nacos-plugin@9.1.0?classifier=sources

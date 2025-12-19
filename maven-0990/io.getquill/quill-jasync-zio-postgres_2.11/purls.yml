@@ -26,3 +26,7 @@
 - pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@3.17.0-RC3?classifier=sources
 - pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@3.17.0-RC4
 - pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@3.17.0-RC4?classifier=sources
+- pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@3.18.0
+- pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@3.18.0?classifier=sources
+- pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@4.0.0-RC1
+- pkg:maven/io.getquill/quill-jasync-zio-postgres_2.11@4.0.0-RC1?classifier=sources

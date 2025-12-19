@@ -335,3 +335,5 @@
 - pkg:maven/org.jboss.modules/jboss-modules@2.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@2.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.modules/jboss-modules@2.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@2.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@2.0.3.Final?classifier=sources

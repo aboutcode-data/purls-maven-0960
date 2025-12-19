@@ -1,2 +1,6 @@
 - pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.21.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.21.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.22.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.22.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.22.1.Final
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-management@1.22.1.Final?classifier=sources

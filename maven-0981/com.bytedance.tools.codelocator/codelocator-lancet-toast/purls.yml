@@ -1,2 +1,4 @@
 - pkg:maven/com.bytedance.tools.codelocator/codelocator-lancet-toast@1.0.0-support?classifier=sources
 - pkg:maven/com.bytedance.tools.codelocator/codelocator-lancet-toast@1.0.0?classifier=sources
+- pkg:maven/com.bytedance.tools.codelocator/codelocator-lancet-toast@1.9.9?classifier=sources
+- pkg:maven/com.bytedance.tools.codelocator/codelocator-lancet-toast@2.0.0?classifier=sources

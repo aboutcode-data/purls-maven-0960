@@ -58,6 +58,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.36.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.37.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.38.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.39.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.4.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.4.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-jdbc@2.5.0?classifier=sources

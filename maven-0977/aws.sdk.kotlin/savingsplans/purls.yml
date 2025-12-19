@@ -11,6 +11,11 @@
 - pkg:maven/aws.sdk.kotlin/savingsplans@0.14.4-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/savingsplans@0.15.0?classifier=sources
 - pkg:maven/aws.sdk.kotlin/savingsplans@0.15.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/savingsplans@0.15.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/savingsplans@0.16.0?classifier=sources
+- pkg:maven/aws.sdk.kotlin/savingsplans@0.16.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/savingsplans@0.16.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/savingsplans@0.16.3-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/savingsplans@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/savingsplans@0.5.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/savingsplans@0.6.0-alpha?classifier=sources

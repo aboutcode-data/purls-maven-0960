@@ -6,3 +6,6 @@
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.1.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.2.0?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.3.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.4.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.5.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird-compiler@2.6.0?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigqueryreservation-v1@2.2.6?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigqueryreservation-v1@2.2.7
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigqueryreservation-v1@2.2.7?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigqueryreservation-v1@2.3.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigqueryreservation-v1@2.3.0?classifier=sources

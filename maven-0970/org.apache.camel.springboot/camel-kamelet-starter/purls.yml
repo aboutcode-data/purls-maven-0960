@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@3.16.0
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@3.16.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@3.17.0
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@3.17.0?classifier=sources

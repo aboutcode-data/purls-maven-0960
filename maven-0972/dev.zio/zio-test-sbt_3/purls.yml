@@ -8,6 +8,8 @@
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.13?classifier=sources
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.14
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.14?classifier=sources
+- pkg:maven/dev.zio/zio-test-sbt_3@1.0.15
+- pkg:maven/dev.zio/zio-test-sbt_3@1.0.15?classifier=sources
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.8
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.8?classifier=sources
 - pkg:maven/dev.zio/zio-test-sbt_3@1.0.9

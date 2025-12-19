@@ -158,6 +158,9 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.57
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.58
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.58?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@1.0.6
@@ -254,6 +257,9 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.34
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.35
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@2.0.4
@@ -371,6 +377,9 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.40
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.41
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.navigation.lang@3.0.5

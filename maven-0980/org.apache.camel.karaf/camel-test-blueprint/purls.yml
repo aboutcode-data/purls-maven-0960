@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.16.0
 - pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.16.0?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.17.0
+- pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.2.0
 - pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-test-blueprint@3.3.0

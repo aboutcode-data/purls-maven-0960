@@ -32,6 +32,8 @@
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.17.0-RC3?classifier=sources
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.17.0-RC4
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.17.0-RC4?classifier=sources
+- pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.18.0
+- pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.18.0?classifier=sources
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.7.0
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.7.0?classifier=sources
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.7.1
@@ -42,3 +44,5 @@
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.8.0?classifier=sources
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.9.0
 - pkg:maven/io.getquill/quill-cassandra-zio_2.12@3.9.0?classifier=sources
+- pkg:maven/io.getquill/quill-cassandra-zio_2.12@4.0.0-RC1
+- pkg:maven/io.getquill/quill-cassandra-zio_2.12@4.0.0-RC1?classifier=sources

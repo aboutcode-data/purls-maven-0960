@@ -8,3 +8,7 @@
 - pkg:maven/io.vantiq/vantiq-sdk@1.0.31?classifier=sources
 - pkg:maven/io.vantiq/vantiq-sdk@1.0.32
 - pkg:maven/io.vantiq/vantiq-sdk@1.0.32?classifier=sources
+- pkg:maven/io.vantiq/vantiq-sdk@1.1.0
+- pkg:maven/io.vantiq/vantiq-sdk@1.1.0?classifier=sources
+- pkg:maven/io.vantiq/vantiq-sdk@1.1.1
+- pkg:maven/io.vantiq/vantiq-sdk@1.1.1?classifier=sources

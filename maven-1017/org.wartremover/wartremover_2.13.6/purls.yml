@@ -36,3 +36,5 @@
 - pkg:maven/org.wartremover/wartremover_2.13.6@3.0.2?classifier=sources
 - pkg:maven/org.wartremover/wartremover_2.13.6@3.0.3
 - pkg:maven/org.wartremover/wartremover_2.13.6@3.0.3?classifier=sources
+- pkg:maven/org.wartremover/wartremover_2.13.6@3.0.4
+- pkg:maven/org.wartremover/wartremover_2.13.6@3.0.4?classifier=sources

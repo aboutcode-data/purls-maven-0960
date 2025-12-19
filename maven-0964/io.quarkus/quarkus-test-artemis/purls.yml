@@ -179,6 +179,8 @@
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.1.3.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.1.4.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.1.4.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-test-artemis@2.10.0.CR1
+- pkg:maven/io.quarkus/quarkus-test-artemis@2.10.0.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.2.0.Final
@@ -231,6 +233,7 @@
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.7.3.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.7.4.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.7.5.Final
+- pkg:maven/io.quarkus/quarkus-test-artemis@2.7.6.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.8.0.CR1
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.8.0.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.8.1.Final
@@ -238,3 +241,5 @@
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.8.3.Final
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-test-artemis@2.9.0.Final
+- pkg:maven/io.quarkus/quarkus-test-artemis@2.9.1.Final
+- pkg:maven/io.quarkus/quarkus-test-artemis@2.9.2.Final

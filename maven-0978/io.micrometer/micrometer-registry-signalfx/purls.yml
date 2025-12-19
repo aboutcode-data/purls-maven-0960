@@ -187,4 +187,6 @@
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.8.4?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.8.5?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.8.6?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.8.7?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.0?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.1?classifier=sources

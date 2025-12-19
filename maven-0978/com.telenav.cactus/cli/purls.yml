@@ -1,0 +1,5 @@
+- pkg:maven/com.telenav.cactus/cli@1.4.10?classifier=sources
+- pkg:maven/com.telenav.cactus/cli@1.4.8
+- pkg:maven/com.telenav.cactus/cli@1.4.8?classifier=sources
+- pkg:maven/com.telenav.cactus/cli@1.4.9
+- pkg:maven/com.telenav.cactus/cli@1.4.9?classifier=sources

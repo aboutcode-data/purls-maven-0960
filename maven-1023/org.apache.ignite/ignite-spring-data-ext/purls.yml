@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.ignite/ignite-spring-data-ext@1.0.0
 - pkg:maven/org.apache.ignite/ignite-spring-data-ext@1.0.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-spring-data-ext@2.0.0
+- pkg:maven/org.apache.ignite/ignite-spring-data-ext@2.0.0?classifier=sources

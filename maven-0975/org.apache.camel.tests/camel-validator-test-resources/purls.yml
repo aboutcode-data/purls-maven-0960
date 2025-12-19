@@ -68,6 +68,8 @@
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.16.0
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.16.0?classifier=sources
+- pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.17.0
+- pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.2.0
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@3.3.0

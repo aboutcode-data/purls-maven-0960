@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.axis2/org.apache.axis2.osgi@1.7.9?classifier=sources
 - pkg:maven/org.apache.axis2/org.apache.axis2.osgi@1.8.0
 - pkg:maven/org.apache.axis2/org.apache.axis2.osgi@1.8.0?classifier=sources
+- pkg:maven/org.apache.axis2/org.apache.axis2.osgi@1.8.1
+- pkg:maven/org.apache.axis2/org.apache.axis2.osgi@1.8.1?classifier=sources

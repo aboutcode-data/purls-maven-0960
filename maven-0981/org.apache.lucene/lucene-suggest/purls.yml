@@ -156,6 +156,8 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@8.11.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@8.11.1
 - pkg:maven/org.apache.lucene/lucene-suggest@8.11.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@8.11.2
+- pkg:maven/org.apache.lucene/lucene-suggest@8.11.2?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@8.2.0
 - pkg:maven/org.apache.lucene/lucene-suggest@8.2.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@8.3.0
@@ -194,3 +196,5 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@9.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@9.1.0
 - pkg:maven/org.apache.lucene/lucene-suggest@9.1.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@9.2.0
+- pkg:maven/org.apache.lucene/lucene-suggest@9.2.0?classifier=sources

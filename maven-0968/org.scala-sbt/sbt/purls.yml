@@ -202,3 +202,5 @@
 - pkg:maven/org.scala-sbt/sbt@1.7.0-M2-6810fix
 - pkg:maven/org.scala-sbt/sbt@1.7.0-M2-6810fix?classifier=sources
 - pkg:maven/org.scala-sbt/sbt@1.7.0-M2?classifier=sources
+- pkg:maven/org.scala-sbt/sbt@1.7.0-M3
+- pkg:maven/org.scala-sbt/sbt@1.7.0-M3?classifier=sources

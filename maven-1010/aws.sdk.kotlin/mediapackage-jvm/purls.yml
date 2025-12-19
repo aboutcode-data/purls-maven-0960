@@ -1,0 +1,4 @@
+- pkg:maven/aws.sdk.kotlin/mediapackage-jvm@0.16.0?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mediapackage-jvm@0.16.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mediapackage-jvm@0.16.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mediapackage-jvm@0.16.3-beta?classifier=sources

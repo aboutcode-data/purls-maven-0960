@@ -57,3 +57,5 @@
 - pkg:maven/io.github.sskorol/test-data-supplier@1.9.5?classifier=sources
 - pkg:maven/io.github.sskorol/test-data-supplier@1.9.6?classifier=sources
 - pkg:maven/io.github.sskorol/test-data-supplier@1.9.7?classifier=sources
+- pkg:maven/io.github.sskorol/test-data-supplier@2.0.0?classifier=sources
+- pkg:maven/io.github.sskorol/test-data-supplier@2.1.0?classifier=sources

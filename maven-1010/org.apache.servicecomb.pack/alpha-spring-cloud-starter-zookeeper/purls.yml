@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.servicecomb.pack/alpha-spring-cloud-starter-zookeeper@0.5.0?classifier=sources
 - pkg:maven/org.apache.servicecomb.pack/alpha-spring-cloud-starter-zookeeper@0.6.0
 - pkg:maven/org.apache.servicecomb.pack/alpha-spring-cloud-starter-zookeeper@0.6.0?classifier=sources
+- pkg:maven/org.apache.servicecomb.pack/alpha-spring-cloud-starter-zookeeper@0.7.0
+- pkg:maven/org.apache.servicecomb.pack/alpha-spring-cloud-starter-zookeeper@0.7.0?classifier=sources

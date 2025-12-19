@@ -14,7 +14,11 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.2.1?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.2.2
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.2.2?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.2.3
+- pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.2.3?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.3.0
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.3.0?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.4.0
 - pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.4.0?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.4.1
+- pkg:maven/org.locationtech.geomesa/geomesa-hbase-spark-runtime-hbase2_2.11@3.4.1?classifier=sources

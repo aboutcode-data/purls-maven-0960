@@ -1,3 +1,4 @@
 - pkg:maven/com.microsoft.thrifty/thrifty-runtime-jvm@3.0.0-RC02?classifier=sources
 - pkg:maven/com.microsoft.thrifty/thrifty-runtime-jvm@3.0.0?classifier=sources
 - pkg:maven/com.microsoft.thrifty/thrifty-runtime-jvm@3.1.0-RC01?classifier=sources
+- pkg:maven/com.microsoft.thrifty/thrifty-runtime-jvm@3.1.0-RC02?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/org.tentackle/tentackle-maven-support@11.7.3.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-maven-support@11.7.4.0
 - pkg:maven/org.tentackle/tentackle-maven-support@11.7.4.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-maven-support@11.7.4.1
+- pkg:maven/org.tentackle/tentackle-maven-support@11.7.4.1?classifier=sources
+- pkg:maven/org.tentackle/tentackle-maven-support@17.10.0.0
+- pkg:maven/org.tentackle/tentackle-maven-support@17.10.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-maven-support@17.8.0.0
 - pkg:maven/org.tentackle/tentackle-maven-support@17.8.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-maven-support@17.9.0.0

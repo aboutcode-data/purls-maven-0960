@@ -38,3 +38,5 @@
 - pkg:maven/fish.charles.cdk-constructs/smtp-credentials-cdk-construct@1.0.8?classifier=sources
 - pkg:maven/fish.charles.cdk-constructs/smtp-credentials-cdk-construct@1.0.9
 - pkg:maven/fish.charles.cdk-constructs/smtp-credentials-cdk-construct@1.0.9?classifier=sources
+- pkg:maven/fish.charles.cdk-constructs/smtp-credentials-cdk-construct@2.0.0
+- pkg:maven/fish.charles.cdk-constructs/smtp-credentials-cdk-construct@2.0.0?classifier=sources

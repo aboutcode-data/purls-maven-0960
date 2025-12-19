@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler@4.2.M2?classifier=sources
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler@4.2.M3
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler@4.2.M3?classifier=sources
+- pkg:maven/org.apache.cayenne.modeler/cayenne-modeler@4.2.RC1
+- pkg:maven/org.apache.cayenne.modeler/cayenne-modeler@4.2.RC1?classifier=sources

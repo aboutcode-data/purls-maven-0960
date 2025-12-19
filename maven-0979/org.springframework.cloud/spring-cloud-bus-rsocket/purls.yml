@@ -8,3 +8,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-bus-rsocket@3.0.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-bus-rsocket@3.1.0
 - pkg:maven/org.springframework.cloud/spring-cloud-bus-rsocket@3.1.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-bus-rsocket@3.1.2
+- pkg:maven/org.springframework.cloud/spring-cloud-bus-rsocket@3.1.2?classifier=sources

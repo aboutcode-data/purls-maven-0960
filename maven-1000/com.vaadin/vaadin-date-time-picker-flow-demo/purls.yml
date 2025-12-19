@@ -36,6 +36,9 @@
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.7.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.12?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@14.8.3?classifier=sources
@@ -90,6 +93,8 @@
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.15?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.16?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.17?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.3?classifier=sources
@@ -100,6 +105,9 @@
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@22.0.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-flow-demo@23.0.3?classifier=sources

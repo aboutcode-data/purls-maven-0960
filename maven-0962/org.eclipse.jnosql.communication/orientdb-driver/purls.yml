@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jnosql.communication/orientdb-driver@1.0.0-b3
 - pkg:maven/org.eclipse.jnosql.communication/orientdb-driver@1.0.0-b3?classifier=sources
+- pkg:maven/org.eclipse.jnosql.communication/orientdb-driver@1.0.0-b4
+- pkg:maven/org.eclipse.jnosql.communication/orientdb-driver@1.0.0-b4?classifier=sources

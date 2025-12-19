@@ -1,0 +1,8 @@
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.4
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.4?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.5
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.5.android
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.5.android?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.5.graal
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.5.graal?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-benchmark@2.0.5?classifier=sources

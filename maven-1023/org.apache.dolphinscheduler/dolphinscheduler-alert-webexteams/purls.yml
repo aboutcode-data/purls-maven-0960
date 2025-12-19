@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-webexteams@3.0.0-alpha
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-webexteams@3.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-webexteams@3.0.0-beta-1
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-webexteams@3.0.0-beta-1?classifier=sources

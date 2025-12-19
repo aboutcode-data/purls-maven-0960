@@ -8,7 +8,9 @@
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.13.0-RC1
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.13.0-RC1?classifier=sources
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.13.0?classifier=sources
+- pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.14.0
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.14.0-RC1
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.14.0-RC1?classifier=sources
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.14.0-RC2
 - pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.14.0-RC2?classifier=sources
+- pkg:maven/com.ocadotechnology/sttp-oauth2-cache-ce2_2.13@0.14.0?classifier=sources
