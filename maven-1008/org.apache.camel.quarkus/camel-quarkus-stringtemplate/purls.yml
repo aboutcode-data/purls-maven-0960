@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.1.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.2.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.2.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.2.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.3.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.4.0
@@ -34,3 +36,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.5.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.6.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.7.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-stringtemplate@2.7.0?classifier=sources

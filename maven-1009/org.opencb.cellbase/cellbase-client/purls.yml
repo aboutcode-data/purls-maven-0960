@@ -52,3 +52,5 @@
 - pkg:maven/org.opencb.cellbase/cellbase-client@5.0.0-rc
 - pkg:maven/org.opencb.cellbase/cellbase-client@5.0.0-rc?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-client@5.0.0?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-client@5.0.1
+- pkg:maven/org.opencb.cellbase/cellbase-client@5.0.1?classifier=sources

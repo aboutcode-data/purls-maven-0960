@@ -18,3 +18,5 @@
 - pkg:maven/com.google.inject.extensions/guice-testlib@5.0.0?classifier=sources
 - pkg:maven/com.google.inject.extensions/guice-testlib@5.0.1
 - pkg:maven/com.google.inject.extensions/guice-testlib@5.0.1?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-testlib@5.1.0
+- pkg:maven/com.google.inject.extensions/guice-testlib@5.1.0?classifier=sources

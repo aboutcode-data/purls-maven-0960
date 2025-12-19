@@ -72,3 +72,7 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.5?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.6?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.6?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.7?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.7?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.8?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.elasticsearch@5.25.8?type=zip

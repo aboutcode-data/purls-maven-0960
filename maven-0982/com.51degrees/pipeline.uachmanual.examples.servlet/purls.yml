@@ -4,6 +4,10 @@
 - pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.10?type=war
 - pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.11?classifier=sources
 - pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.11?type=war
+- pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.12?classifier=sources
+- pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.12?type=war
+- pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.13?classifier=sources
+- pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.13?type=war
 - pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.2?classifier=sources
 - pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.2?type=war
 - pkg:maven/com.51degrees/pipeline.uachmanual.examples.servlet@4.3.3?classifier=sources

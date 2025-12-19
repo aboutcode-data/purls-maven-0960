@@ -32,3 +32,5 @@
 - pkg:maven/ru.tinkoff.acquiring/payment@1.7.3?type=aar
 - pkg:maven/ru.tinkoff.acquiring/payment@1.7.4?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/payment@1.7.4?type=aar
+- pkg:maven/ru.tinkoff.acquiring/payment@1.7.5?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/payment@1.7.5?type=aar

@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.shardingsphere/shardingsphere-sql-parser-sqlserver@5.0.0-beta
 - pkg:maven/org.apache.shardingsphere/shardingsphere-sql-parser-sqlserver@5.0.0-beta?classifier=sources
 - pkg:maven/org.apache.shardingsphere/shardingsphere-sql-parser-sqlserver@5.0.0?classifier=sources
+- pkg:maven/org.apache.shardingsphere/shardingsphere-sql-parser-sqlserver@5.1.0
+- pkg:maven/org.apache.shardingsphere/shardingsphere-sql-parser-sqlserver@5.1.0?classifier=sources

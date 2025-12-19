@@ -1,3 +1,6 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-common-bootstrap@1.10.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-common-bootstrap@1.10.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-common-bootstrap@1.11.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-common-bootstrap@1.9.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-common-bootstrap@1.9.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-common-bootstrap@1.9.2-alpha?classifier=sources

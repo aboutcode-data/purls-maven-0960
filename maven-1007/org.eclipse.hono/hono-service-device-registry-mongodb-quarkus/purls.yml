@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.hono/hono-service-device-registry-mongodb-quarkus@1.12.0
+- pkg:maven/org.eclipse.hono/hono-service-device-registry-mongodb-quarkus@1.12.0?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry-mongodb-quarkus@1.12.1
+- pkg:maven/org.eclipse.hono/hono-service-device-registry-mongodb-quarkus@1.12.1?classifier=sources

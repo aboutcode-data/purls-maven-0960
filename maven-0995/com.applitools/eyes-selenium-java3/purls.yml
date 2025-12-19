@@ -190,6 +190,8 @@
 - pkg:maven/com.applitools/eyes-selenium-java3@3.165.210_0?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-java3@3.165.210_5
 - pkg:maven/com.applitools/eyes-selenium-java3@3.165.210_5?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-java3@3.165.212_0
+- pkg:maven/com.applitools/eyes-selenium-java3@3.165.212_0?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-java3@3.166.0
 - pkg:maven/com.applitools/eyes-selenium-java3@3.166.0?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-java3@3.167.0
@@ -364,8 +366,14 @@
 - pkg:maven/com.applitools/eyes-selenium-java3@3.210.4?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-java3@3.210.6
 - pkg:maven/com.applitools/eyes-selenium-java3@3.210.6?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-java3@3.211.0
 - pkg:maven/com.applitools/eyes-selenium-java3@3.211.0-beta
 - pkg:maven/com.applitools/eyes-selenium-java3@3.211.0-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-java3@3.211.0?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-java3@3.211.1
+- pkg:maven/com.applitools/eyes-selenium-java3@3.211.1?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-java3@3.212.0
+- pkg:maven/com.applitools/eyes-selenium-java3@3.212.0?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-java3@3.21?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-java3@3.22
 - pkg:maven/com.applitools/eyes-selenium-java3@3.22?classifier=sources

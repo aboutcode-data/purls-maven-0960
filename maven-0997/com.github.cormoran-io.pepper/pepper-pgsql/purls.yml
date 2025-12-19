@@ -8,3 +8,5 @@
 - pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.0?classifier=sources
 - pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.1
 - pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.1?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.2
+- pkg:maven/com.github.cormoran-io.pepper/pepper-pgsql@2.2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/de.heikoseeberger/akka-http-zio-json_2.13@1.38.2?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-zio-json_2.13@1.39.2
 - pkg:maven/de.heikoseeberger/akka-http-zio-json_2.13@1.39.2?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-zio-json_2.13@1.40.0-RC1
+- pkg:maven/de.heikoseeberger/akka-http-zio-json_2.13@1.40.0-RC1?classifier=sources

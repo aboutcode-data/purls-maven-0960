@@ -6,3 +6,10 @@
 - pkg:maven/com.softicar.platform/platform-common-ui@12.1.1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-ui@13.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-ui@13.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@13.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@14.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@15.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@16.0.0%2Bpatch1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@16.0.0%2Bpatch2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@16.0.0%2Bpatch3?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ui@16.0.0?classifier=sources

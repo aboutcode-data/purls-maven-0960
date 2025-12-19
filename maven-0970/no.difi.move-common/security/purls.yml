@@ -16,3 +16,5 @@
 - pkg:maven/no.difi.move-common/security@1.6.1?classifier=sources
 - pkg:maven/no.difi.move-common/security@1.7.0
 - pkg:maven/no.difi.move-common/security@1.7.0?classifier=sources
+- pkg:maven/no.difi.move-common/security@1.8.0
+- pkg:maven/no.difi.move-common/security@1.8.0?classifier=sources

@@ -852,3 +852,7 @@
 - pkg:maven/com.guicedee.services/jakarta.mail@1.2.1.1-jre17?classifier=sources
 - pkg:maven/com.guicedee.services/jakarta.mail@1.2.1.2-jre17
 - pkg:maven/com.guicedee.services/jakarta.mail@1.2.1.2-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/jakarta.mail@1.2.2.1
+- pkg:maven/com.guicedee.services/jakarta.mail@1.2.2.1-jre17
+- pkg:maven/com.guicedee.services/jakarta.mail@1.2.2.1-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/jakarta.mail@1.2.2.1?classifier=sources

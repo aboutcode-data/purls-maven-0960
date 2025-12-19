@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dist@2.0.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dist@2.0.2?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dist@2.0.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dist@2.0.3?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-dist@2.0.3?classifier=src&type=tar.gz

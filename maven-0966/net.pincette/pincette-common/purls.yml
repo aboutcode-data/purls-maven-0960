@@ -83,4 +83,6 @@
 - pkg:maven/net.pincette/pincette-common@1.9.3?classifier=sources
 - pkg:maven/net.pincette/pincette-common@1.9?classifier=sources
 - pkg:maven/net.pincette/pincette-common@2.0
+- pkg:maven/net.pincette/pincette-common@2.0.1
+- pkg:maven/net.pincette/pincette-common@2.0.1?classifier=sources
 - pkg:maven/net.pincette/pincette-common@2.0?classifier=sources

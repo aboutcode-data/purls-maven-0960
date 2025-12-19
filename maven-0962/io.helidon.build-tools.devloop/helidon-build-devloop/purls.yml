@@ -1,0 +1,4 @@
+- pkg:maven/io.helidon.build-tools.devloop/helidon-build-devloop@3.0.0-M2
+- pkg:maven/io.helidon.build-tools.devloop/helidon-build-devloop@3.0.0-M2?classifier=sources
+- pkg:maven/io.helidon.build-tools.devloop/helidon-build-devloop@3.0.0-M3
+- pkg:maven/io.helidon.build-tools.devloop/helidon-build-devloop@3.0.0-M3?classifier=sources

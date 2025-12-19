@@ -1,2 +1,4 @@
+- pkg:maven/org.rhttpc/rhttpc-amqp_2.13@0.10.0
+- pkg:maven/org.rhttpc/rhttpc-amqp_2.13@0.10.0?classifier=sources
 - pkg:maven/org.rhttpc/rhttpc-amqp_2.13@0.9.0
 - pkg:maven/org.rhttpc/rhttpc-amqp_2.13@0.9.0?classifier=sources

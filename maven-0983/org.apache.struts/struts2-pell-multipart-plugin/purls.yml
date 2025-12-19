@@ -149,6 +149,8 @@
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.28.3
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.28.3?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.28?classifier=sources
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.29
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.29?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.2?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.5
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.5?classifier=sources

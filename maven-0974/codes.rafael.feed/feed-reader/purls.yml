@@ -1,2 +1,4 @@
 - pkg:maven/codes.rafael.feed/feed-reader@1.0
 - pkg:maven/codes.rafael.feed/feed-reader@1.0?classifier=sources
+- pkg:maven/codes.rafael.feed/feed-reader@1.1
+- pkg:maven/codes.rafael.feed/feed-reader@1.1?classifier=sources

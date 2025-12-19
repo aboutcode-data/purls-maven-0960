@@ -4,3 +4,6 @@
 - pkg:maven/io.github.joafalves/pixel-input@0.6.0-rc.1?classifier=sources
 - pkg:maven/io.github.joafalves/pixel-input@0.6.0-rc.2?classifier=sources
 - pkg:maven/io.github.joafalves/pixel-input@0.6.0-rc.3?classifier=sources
+- pkg:maven/io.github.joafalves/pixel-input@0.6.0?classifier=sources
+- pkg:maven/io.github.joafalves/pixel-input@0.6.1?classifier=sources
+- pkg:maven/io.github.joafalves/pixel-input@0.7.0?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@10.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@10.0.7
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@10.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@10.0.8
+- pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@10.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.0
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.0-alpha0?classifier=sources
@@ -46,3 +48,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.7
 - pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.8
+- pkg:maven/org.eclipse.jetty.websocket/websocket-core-client@11.0.8?classifier=sources

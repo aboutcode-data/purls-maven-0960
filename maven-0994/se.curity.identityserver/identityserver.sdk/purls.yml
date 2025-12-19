@@ -58,3 +58,7 @@
 - pkg:maven/se.curity.identityserver/identityserver.sdk@6.7.1?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.sdk@6.7.2
 - pkg:maven/se.curity.identityserver/identityserver.sdk@6.7.2?classifier=sources
+- pkg:maven/se.curity.identityserver/identityserver.sdk@6.7.3
+- pkg:maven/se.curity.identityserver/identityserver.sdk@6.7.3?classifier=sources
+- pkg:maven/se.curity.identityserver/identityserver.sdk@6.8.0
+- pkg:maven/se.curity.identityserver/identityserver.sdk@6.8.0?classifier=sources

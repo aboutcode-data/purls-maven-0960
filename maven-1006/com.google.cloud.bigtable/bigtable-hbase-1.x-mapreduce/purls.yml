@@ -58,6 +58,8 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.26.1?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.26.2
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.26.2?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.26.3
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.26.3?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.5.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.5.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.6.0
@@ -68,6 +70,7 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.8.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.9.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@1.9.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0-alpha1
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0-alpha1?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0-alpha2
@@ -84,3 +87,4 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0-beta5?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0-beta6
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0-beta6?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-mapreduce@2.0.0?classifier=sources

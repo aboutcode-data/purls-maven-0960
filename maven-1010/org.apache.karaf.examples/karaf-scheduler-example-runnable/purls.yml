@@ -9,6 +9,8 @@
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.13?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.14
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.14?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.15
+- pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.15?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.1?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.2
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.2.2?classifier=sources
@@ -40,3 +42,5 @@
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.3.4?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.3.5
 - pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.3.5?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.3.6
+- pkg:maven/org.apache.karaf.examples/karaf-scheduler-example-runnable@4.3.6?classifier=sources

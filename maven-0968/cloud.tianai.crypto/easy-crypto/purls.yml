@@ -1,0 +1,4 @@
+- pkg:maven/cloud.tianai.crypto/easy-crypto@1.0
+- pkg:maven/cloud.tianai.crypto/easy-crypto@1.0.basic
+- pkg:maven/cloud.tianai.crypto/easy-crypto@1.0.basic?classifier=sources
+- pkg:maven/cloud.tianai.crypto/easy-crypto@1.0?classifier=sources

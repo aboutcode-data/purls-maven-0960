@@ -60,3 +60,7 @@
 - pkg:maven/io.jexxa.jexxatest/jexxa-test@3.3.1?classifier=sources
 - pkg:maven/io.jexxa.jexxatest/jexxa-test@3.3.2
 - pkg:maven/io.jexxa.jexxatest/jexxa-test@3.3.2?classifier=sources
+- pkg:maven/io.jexxa.jexxatest/jexxa-test@4.0.0
+- pkg:maven/io.jexxa.jexxatest/jexxa-test@4.0.0?classifier=sources
+- pkg:maven/io.jexxa.jexxatest/jexxa-test@4.1.0
+- pkg:maven/io.jexxa.jexxatest/jexxa-test@4.1.0?classifier=sources

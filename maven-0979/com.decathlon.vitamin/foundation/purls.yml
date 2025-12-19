@@ -3,3 +3,5 @@
 - pkg:maven/com.decathlon.vitamin/foundation@0.1.0?classifier=sources
 - pkg:maven/com.decathlon.vitamin/foundation@0.1.1?classifier=sources
 - pkg:maven/com.decathlon.vitamin/foundation@0.2.0-beta01?classifier=sources
+- pkg:maven/com.decathlon.vitamin/foundation@0.2.0?classifier=sources
+- pkg:maven/com.decathlon.vitamin/foundation@0.3.0-beta01?classifier=sources

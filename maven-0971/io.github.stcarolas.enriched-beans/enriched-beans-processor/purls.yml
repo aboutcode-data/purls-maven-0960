@@ -1,1 +1,2 @@
 - pkg:maven/io.github.stcarolas.enriched-beans/enriched-beans-processor@0.4.0
+- pkg:maven/io.github.stcarolas.enriched-beans/enriched-beans-processor@0.4.0?classifier=sources

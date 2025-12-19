@@ -202,5 +202,15 @@
 - pkg:maven/io.sentry/sentry-spring@5.5.1?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@5.5.2
 - pkg:maven/io.sentry/sentry-spring@5.5.2?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@5.5.3
+- pkg:maven/io.sentry/sentry-spring@5.5.3?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@5.6.0
+- pkg:maven/io.sentry/sentry-spring@5.6.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@5.6.1
+- pkg:maven/io.sentry/sentry-spring@5.6.1?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@5.6.2-beta.1
+- pkg:maven/io.sentry/sentry-spring@5.6.2-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@6.0.0-alpha.1
 - pkg:maven/io.sentry/sentry-spring@6.0.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@6.0.0-alpha.2
+- pkg:maven/io.sentry/sentry-spring@6.0.0-alpha.2?classifier=sources

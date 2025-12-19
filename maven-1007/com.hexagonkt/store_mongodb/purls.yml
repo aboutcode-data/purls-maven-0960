@@ -32,3 +32,6 @@
 - pkg:maven/com.hexagonkt/store_mongodb@1.4.4?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.5.4?classifier=sources
 - pkg:maven/com.hexagonkt/store_mongodb@1.6.0?classifier=sources
+- pkg:maven/com.hexagonkt/store_mongodb@2.0.0?classifier=sources
+- pkg:maven/com.hexagonkt/store_mongodb@2.0.1?classifier=sources
+- pkg:maven/com.hexagonkt/store_mongodb@2.0.2?classifier=sources

@@ -42,3 +42,7 @@
 - pkg:maven/io.ebean/ebean-datasource@7.2?classifier=sources
 - pkg:maven/io.ebean/ebean-datasource@7.3
 - pkg:maven/io.ebean/ebean-datasource@7.3?classifier=sources
+- pkg:maven/io.ebean/ebean-datasource@7.4
+- pkg:maven/io.ebean/ebean-datasource@7.4?classifier=sources
+- pkg:maven/io.ebean/ebean-datasource@7.5
+- pkg:maven/io.ebean/ebean-datasource@7.5?classifier=sources

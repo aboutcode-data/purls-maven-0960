@@ -34,6 +34,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.1.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.2.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.2.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.2.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.3.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.4.0
@@ -42,3 +44,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.5.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.6.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.7.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-custom-type-converter@2.7.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.citrusframework.yaks/yaks-kubernetes@0.6.0?classifier=sources
 - pkg:maven/org.citrusframework.yaks/yaks-kubernetes@0.7.0
 - pkg:maven/org.citrusframework.yaks/yaks-kubernetes@0.7.0?classifier=sources
+- pkg:maven/org.citrusframework.yaks/yaks-kubernetes@0.8.0
+- pkg:maven/org.citrusframework.yaks/yaks-kubernetes@0.8.0?classifier=sources

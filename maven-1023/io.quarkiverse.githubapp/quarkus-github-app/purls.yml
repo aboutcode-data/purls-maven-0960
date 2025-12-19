@@ -56,3 +56,5 @@
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app@1.5.0?classifier=sources
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app@1.6.0
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app@1.6.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app@1.7.0
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app@1.7.0?classifier=sources

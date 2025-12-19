@@ -38,9 +38,12 @@
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.4.4.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.4.4.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.4.4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.4.5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.5.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.5.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.5.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.5.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.5.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@6.5.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-passwordless-mongo@v6.4.0-RC6?classifier=sources

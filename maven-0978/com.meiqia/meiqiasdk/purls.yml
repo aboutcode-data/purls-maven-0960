@@ -158,3 +158,5 @@
 - pkg:maven/com.meiqia/meiqiasdk@3.7.7?type=aar
 - pkg:maven/com.meiqia/meiqiasdk@3.7.8?classifier=sources
 - pkg:maven/com.meiqia/meiqiasdk@3.7.8?type=aar
+- pkg:maven/com.meiqia/meiqiasdk@3.7.9?classifier=sources
+- pkg:maven/com.meiqia/meiqiasdk@3.7.9?type=aar

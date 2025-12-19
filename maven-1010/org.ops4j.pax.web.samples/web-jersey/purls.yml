@@ -152,3 +152,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/web-jersey@7.4.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/web-jersey@7.4.3
 - pkg:maven/org.ops4j.pax.web.samples/web-jersey@7.4.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/web-jersey@7.4.4
+- pkg:maven/org.ops4j.pax.web.samples/web-jersey@7.4.4?classifier=sources

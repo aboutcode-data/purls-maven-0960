@@ -566,6 +566,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.14_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.14_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.14_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.15_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.15_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.15_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.15_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.1_1?classifier=src&type=tar.gz

@@ -20,6 +20,8 @@
 - pkg:maven/de.gematik.test/tiger-common@0.17.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@0.17.1
 - pkg:maven/de.gematik.test/tiger-common@0.17.1?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@0.18.1
+- pkg:maven/de.gematik.test/tiger-common@0.18.1?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@0.3.0
 - pkg:maven/de.gematik.test/tiger-common@0.3.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@0.4.0

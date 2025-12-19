@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/formio__semantic@1.2.3
 - pkg:maven/org.webjars.npm/formio__semantic@1.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/formio__semantic@2.6.0
+- pkg:maven/org.webjars.npm/formio__semantic@2.6.0?classifier=sources

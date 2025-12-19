@@ -8,3 +8,9 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.14.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.15.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.15.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.16.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.16.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.16.1.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.16.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.17.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-events-process-deployment@1.17.0.Final?classifier=sources

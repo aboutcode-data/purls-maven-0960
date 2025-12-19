@@ -884,5 +884,9 @@
 - pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.1.1-jre17?classifier=sources
 - pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.1.2-jre17
 - pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.1.2-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.2.1
+- pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.2.1-jre17
+- pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.2.1-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/cache-annotations-ri-common@1.2.2.1?classifier=sources
 - pkg:maven/com.guicedee.services/cache-annotations-ri-common@62
 - pkg:maven/com.guicedee.services/cache-annotations-ri-common@62?classifier=sources

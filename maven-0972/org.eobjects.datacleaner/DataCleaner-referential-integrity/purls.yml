@@ -100,5 +100,7 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@5.7.0?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@5.7.1
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@5.7.1?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@5.8.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@5.8.1?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@6.0.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-referential-integrity@6.0.0?classifier=sources

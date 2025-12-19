@@ -2,3 +2,7 @@
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.1.0?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.2.0-rc01?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.2.0?classifier=sources
+- pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.3.0-rc01?classifier=sources
+- pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.3.0-rc02?classifier=sources
+- pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.3.0-rc03?classifier=sources
+- pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.3.0?classifier=sources

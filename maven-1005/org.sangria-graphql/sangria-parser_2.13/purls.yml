@@ -1,2 +1,6 @@
+- pkg:maven/org.sangria-graphql/sangria-parser_2.13@3.0.0
 - pkg:maven/org.sangria-graphql/sangria-parser_2.13@3.0.0-RC7
 - pkg:maven/org.sangria-graphql/sangria-parser_2.13@3.0.0-RC7?classifier=sources
+- pkg:maven/org.sangria-graphql/sangria-parser_2.13@3.0.0-RC8
+- pkg:maven/org.sangria-graphql/sangria-parser_2.13@3.0.0-RC8?classifier=sources
+- pkg:maven/org.sangria-graphql/sangria-parser_2.13@3.0.0?classifier=sources

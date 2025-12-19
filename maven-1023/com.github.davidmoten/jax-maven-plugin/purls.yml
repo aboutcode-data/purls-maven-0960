@@ -8,3 +8,5 @@
 - pkg:maven/com.github.davidmoten/jax-maven-plugin@0.1.7?classifier=sources
 - pkg:maven/com.github.davidmoten/jax-maven-plugin@0.1.8
 - pkg:maven/com.github.davidmoten/jax-maven-plugin@0.1.8?classifier=sources
+- pkg:maven/com.github.davidmoten/jax-maven-plugin@0.2
+- pkg:maven/com.github.davidmoten/jax-maven-plugin@0.2?classifier=sources

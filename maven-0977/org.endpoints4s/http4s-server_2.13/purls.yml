@@ -16,3 +16,5 @@
 - pkg:maven/org.endpoints4s/http4s-server_2.13@7.0.0?classifier=sources
 - pkg:maven/org.endpoints4s/http4s-server_2.13@8.0.0
 - pkg:maven/org.endpoints4s/http4s-server_2.13@8.0.0?classifier=sources
+- pkg:maven/org.endpoints4s/http4s-server_2.13@9.0.0
+- pkg:maven/org.endpoints4s/http4s-server_2.13@9.0.0?classifier=sources

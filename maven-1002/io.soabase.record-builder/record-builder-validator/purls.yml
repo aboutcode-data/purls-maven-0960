@@ -18,3 +18,7 @@
 - pkg:maven/io.soabase.record-builder/record-builder-validator@28?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-validator@29
 - pkg:maven/io.soabase.record-builder/record-builder-validator@29?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-validator@31
+- pkg:maven/io.soabase.record-builder/record-builder-validator@31?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-validator@32
+- pkg:maven/io.soabase.record-builder/record-builder-validator@32?classifier=sources

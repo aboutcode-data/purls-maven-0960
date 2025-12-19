@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.lambda/powertools-idempotency@1.11.0
+- pkg:maven/software.amazon.lambda/powertools-idempotency@1.11.0?classifier=sources

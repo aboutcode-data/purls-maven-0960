@@ -479,6 +479,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.78
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.78?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.79
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.79?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@2.0.79?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.web@2.0.8
@@ -644,6 +647,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.web@3.0.57
 - pkg:maven/com.liferay/com.liferay.fragment.web@3.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@3.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@3.0.58
+- pkg:maven/com.liferay/com.liferay.fragment.web@3.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@3.0.58?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.web@3.0.6
@@ -716,6 +722,12 @@
 - pkg:maven/com.liferay/com.liferay.fragment.web@4.0.26
 - pkg:maven/com.liferay/com.liferay.fragment.web@4.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@4.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@4.0.27
+- pkg:maven/com.liferay/com.liferay.fragment.web@4.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@4.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.web@4.0.28
+- pkg:maven/com.liferay/com.liferay.fragment.web@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.web@4.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.web@4.0.3

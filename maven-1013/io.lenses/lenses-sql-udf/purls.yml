@@ -1,2 +1,6 @@
 - pkg:maven/io.lenses/lenses-sql-udf@4.0.0
 - pkg:maven/io.lenses/lenses-sql-udf@4.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-sql-udf@5.0.0
+- pkg:maven/io.lenses/lenses-sql-udf@5.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-sql-udf@5.0.1
+- pkg:maven/io.lenses/lenses-sql-udf@5.0.1?classifier=sources

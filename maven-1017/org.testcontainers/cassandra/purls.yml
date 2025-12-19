@@ -61,6 +61,7 @@
 - pkg:maven/org.testcontainers/cassandra@1.16.0?classifier=sources
 - pkg:maven/org.testcontainers/cassandra@1.16.1?classifier=sources
 - pkg:maven/org.testcontainers/cassandra@1.16.2?classifier=sources
+- pkg:maven/org.testcontainers/cassandra@1.16.3?classifier=sources
 - pkg:maven/org.testcontainers/cassandra@1.8.1
 - pkg:maven/org.testcontainers/cassandra@1.8.1?classifier=sources
 - pkg:maven/org.testcontainers/cassandra@1.8.2

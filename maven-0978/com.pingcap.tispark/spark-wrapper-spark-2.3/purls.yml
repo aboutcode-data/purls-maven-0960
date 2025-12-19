@@ -42,3 +42,5 @@
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.4.0?classifier=sources
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.4.1
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.4.1?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.4.3-scala_2.11
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.3@2.4.3-scala_2.11?classifier=sources

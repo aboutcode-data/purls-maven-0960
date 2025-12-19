@@ -68,3 +68,5 @@
 - pkg:maven/io.jaegertracing/jaeger-micrometer@1.6.0?classifier=sources
 - pkg:maven/io.jaegertracing/jaeger-micrometer@1.7.0
 - pkg:maven/io.jaegertracing/jaeger-micrometer@1.7.0?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-micrometer@1.8.0
+- pkg:maven/io.jaegertracing/jaeger-micrometer@1.8.0?classifier=sources

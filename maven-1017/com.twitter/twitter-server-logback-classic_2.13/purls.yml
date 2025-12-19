@@ -42,3 +42,5 @@
 - pkg:maven/com.twitter/twitter-server-logback-classic_2.13@21.8.0?classifier=sources
 - pkg:maven/com.twitter/twitter-server-logback-classic_2.13@21.9.0
 - pkg:maven/com.twitter/twitter-server-logback-classic_2.13@21.9.0?classifier=sources
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@22.1.0
+- pkg:maven/com.twitter/twitter-server-logback-classic_2.13@22.1.0?classifier=sources

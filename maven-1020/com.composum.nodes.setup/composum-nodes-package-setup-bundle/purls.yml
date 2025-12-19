@@ -24,3 +24,7 @@
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@3.2.0?classifier=sources
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@3.2.1?classifier=sources
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@3.2.2?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@3.3.0?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@3.3.1?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@4.0.0?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-bundle@4.0.1?classifier=sources

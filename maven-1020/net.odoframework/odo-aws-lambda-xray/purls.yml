@@ -8,3 +8,7 @@
 - pkg:maven/net.odoframework/odo-aws-lambda-xray@0.0.8?classifier=sources
 - pkg:maven/net.odoframework/odo-aws-lambda-xray@0.0.9
 - pkg:maven/net.odoframework/odo-aws-lambda-xray@0.0.9?classifier=sources
+- pkg:maven/net.odoframework/odo-aws-lambda-xray@0.1.0
+- pkg:maven/net.odoframework/odo-aws-lambda-xray@0.1.0?classifier=sources
+- pkg:maven/net.odoframework/odo-aws-lambda-xray@0.1.1
+- pkg:maven/net.odoframework/odo-aws-lambda-xray@0.1.1?classifier=sources

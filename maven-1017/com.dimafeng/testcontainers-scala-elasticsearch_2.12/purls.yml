@@ -54,3 +54,7 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.39.8?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.39.9
 - pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.39.9?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.40.0
+- pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.40.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.40.1
+- pkg:maven/com.dimafeng/testcontainers-scala-elasticsearch_2.12@0.40.1?classifier=sources

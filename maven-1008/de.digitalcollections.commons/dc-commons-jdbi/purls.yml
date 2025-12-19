@@ -30,3 +30,5 @@
 - pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@4.1.2?classifier=sources
 - pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@4.2.0
 - pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@4.2.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@4.2.2
+- pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@4.2.2?classifier=sources

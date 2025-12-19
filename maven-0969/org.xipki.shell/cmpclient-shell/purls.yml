@@ -19,6 +19,8 @@
 - pkg:maven/org.xipki.shell/cmpclient-shell@5.3.13?classifier=sources
 - pkg:maven/org.xipki.shell/cmpclient-shell@5.3.14
 - pkg:maven/org.xipki.shell/cmpclient-shell@5.3.14?classifier=sources
+- pkg:maven/org.xipki.shell/cmpclient-shell@5.3.15
+- pkg:maven/org.xipki.shell/cmpclient-shell@5.3.15?classifier=sources
 - pkg:maven/org.xipki.shell/cmpclient-shell@5.3.1?classifier=sources
 - pkg:maven/org.xipki.shell/cmpclient-shell@5.3.2
 - pkg:maven/org.xipki.shell/cmpclient-shell@5.3.2?classifier=sources

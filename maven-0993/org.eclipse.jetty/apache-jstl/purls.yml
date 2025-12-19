@@ -28,6 +28,8 @@
 - pkg:maven/org.eclipse.jetty/apache-jstl@10.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jstl@10.0.7
 - pkg:maven/org.eclipse.jetty/apache-jstl@10.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jstl@10.0.8
+- pkg:maven/org.eclipse.jetty/apache-jstl@10.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jstl@11.0.0
 - pkg:maven/org.eclipse.jetty/apache-jstl@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/apache-jstl@11.0.0-alpha0?classifier=sources
@@ -320,6 +322,8 @@
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.4.43.v20210629?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.4.44.v20210927
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.4.44.v20210927?classifier=sources
+- pkg:maven/org.eclipse.jetty/apache-jstl@9.4.45.v20220203
+- pkg:maven/org.eclipse.jetty/apache-jstl@9.4.45.v20220203?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.4.5.v20170502
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty/apache-jstl@9.4.5.v20180619

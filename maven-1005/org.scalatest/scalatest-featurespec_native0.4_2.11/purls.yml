@@ -1,5 +1,7 @@
 - pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.10
 - pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.10?classifier=sources
+- pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.11
+- pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.11?classifier=sources
 - pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.4
 - pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.4-M1
 - pkg:maven/org.scalatest/scalatest-featurespec_native0.4_2.11@3.2.4-M1?classifier=sources

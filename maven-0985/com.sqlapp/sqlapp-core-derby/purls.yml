@@ -1,3 +1,4 @@
+- pkg:maven/com.sqlapp/sqlapp-core-derby@0.10.0?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.4.20
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.4.20?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-derby@0.8.1

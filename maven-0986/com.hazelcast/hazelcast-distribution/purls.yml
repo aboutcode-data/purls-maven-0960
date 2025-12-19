@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.1-BETA-1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.1-BETA-1?type=zip

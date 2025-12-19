@@ -10,6 +10,14 @@
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.13.2?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.13.3
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.13.3?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.14.0
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.14.0?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.15.0
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.15.0?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.15.1
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.15.1?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.15.3
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.15.3?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.25
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.25?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.26
@@ -18,3 +26,5 @@
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.27?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.28
 - pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.28?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.29
+- pkg:maven/io.gravitee.apim.gateway.security/gravitee-apim-gateway-security-apikey@3.5.29?classifier=sources

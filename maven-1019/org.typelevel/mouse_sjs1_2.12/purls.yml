@@ -6,6 +6,8 @@
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@0.26?classifier=sources
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.0
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.0?classifier=sources
+- pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.10
+- pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.10?classifier=sources
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.2
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.2?classifier=sources
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.3
@@ -20,3 +22,5 @@
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.7?classifier=sources
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.8
 - pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.8?classifier=sources
+- pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.9
+- pkg:maven/org.typelevel/mouse_sjs1_2.12@1.0.9?classifier=sources

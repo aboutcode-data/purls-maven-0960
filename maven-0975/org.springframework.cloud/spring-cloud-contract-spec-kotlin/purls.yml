@@ -29,3 +29,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.0.5
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.0.5?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.1?classifier=sources

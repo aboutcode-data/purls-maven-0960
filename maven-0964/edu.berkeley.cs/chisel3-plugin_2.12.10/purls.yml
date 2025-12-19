@@ -14,7 +14,11 @@
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.4.3?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.4.4
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.4.4?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.0
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.0-RC1
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.0-RC1?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.0-RC2
 - pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.0-RC2?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.0?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.1
+- pkg:maven/edu.berkeley.cs/chisel3-plugin_2.12.10@3.5.1?classifier=sources

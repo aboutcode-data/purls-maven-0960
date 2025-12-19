@@ -1,2 +1,6 @@
 - pkg:maven/br.com.objectos.oss-java11/objectos-core-system@2.0.0
 - pkg:maven/br.com.objectos.oss-java11/objectos-core-system@2.0.0?classifier=sources
+- pkg:maven/br.com.objectos.oss-java11/objectos-core-system@3.0.0
+- pkg:maven/br.com.objectos.oss-java11/objectos-core-system@3.0.0?classifier=sources
+- pkg:maven/br.com.objectos.oss-java11/objectos-core-system@3.1.0
+- pkg:maven/br.com.objectos.oss-java11/objectos-core-system@3.1.0?classifier=sources

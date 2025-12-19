@@ -38,6 +38,8 @@
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.13.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.14.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.14.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.15.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.15.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.2.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.2.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-spring4@3.0.3.RELEASE

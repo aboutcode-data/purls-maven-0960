@@ -884,5 +884,9 @@
 - pkg:maven/com.guicedee.services/javax.jms-api@1.2.1.1-jre17?classifier=sources
 - pkg:maven/com.guicedee.services/javax.jms-api@1.2.1.2-jre17
 - pkg:maven/com.guicedee.services/javax.jms-api@1.2.1.2-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/javax.jms-api@1.2.2.1
+- pkg:maven/com.guicedee.services/javax.jms-api@1.2.2.1-jre17
+- pkg:maven/com.guicedee.services/javax.jms-api@1.2.2.1-jre17?classifier=sources
+- pkg:maven/com.guicedee.services/javax.jms-api@1.2.2.1?classifier=sources
 - pkg:maven/com.guicedee.services/javax.jms-api@62
 - pkg:maven/com.guicedee.services/javax.jms-api@62?classifier=sources

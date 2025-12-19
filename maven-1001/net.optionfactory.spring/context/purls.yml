@@ -48,3 +48,7 @@
 - pkg:maven/net.optionfactory.spring/context@5.9?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@6.0
 - pkg:maven/net.optionfactory.spring/context@6.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/context@6.1
+- pkg:maven/net.optionfactory.spring/context@6.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/context@6.2
+- pkg:maven/net.optionfactory.spring/context@6.2?classifier=sources

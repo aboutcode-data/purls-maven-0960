@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.shardingsphere/shardingsphere-readwrite-splitting-api@5.0.0-beta
 - pkg:maven/org.apache.shardingsphere/shardingsphere-readwrite-splitting-api@5.0.0-beta?classifier=sources
 - pkg:maven/org.apache.shardingsphere/shardingsphere-readwrite-splitting-api@5.0.0?classifier=sources
+- pkg:maven/org.apache.shardingsphere/shardingsphere-readwrite-splitting-api@5.1.0
+- pkg:maven/org.apache.shardingsphere/shardingsphere-readwrite-splitting-api@5.1.0?classifier=sources

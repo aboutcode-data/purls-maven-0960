@@ -24,3 +24,5 @@
 - pkg:maven/org.monarchinitiative.phenol/phenol-cli@1.6.2?classifier=sources
 - pkg:maven/org.monarchinitiative.phenol/phenol-cli@1.6.3
 - pkg:maven/org.monarchinitiative.phenol/phenol-cli@1.6.3?classifier=sources
+- pkg:maven/org.monarchinitiative.phenol/phenol-cli@2.0.0-RC1
+- pkg:maven/org.monarchinitiative.phenol/phenol-cli@2.0.0-RC1?classifier=sources

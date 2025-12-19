@@ -294,3 +294,7 @@
 - pkg:maven/io.airlift/json@211?classifier=sources
 - pkg:maven/io.airlift/json@212
 - pkg:maven/io.airlift/json@212?classifier=sources
+- pkg:maven/io.airlift/json@213
+- pkg:maven/io.airlift/json@213?classifier=sources
+- pkg:maven/io.airlift/json@214
+- pkg:maven/io.airlift/json@214?classifier=sources

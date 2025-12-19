@@ -50,6 +50,12 @@
 - pkg:maven/org.http4k/http4k-format-klaxon@4.17.7.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.17.8.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.17.9.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.18.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.19.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.19.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.19.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.19.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-klaxon@4.19.4.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.2.0.0
 - pkg:maven/org.http4k/http4k-format-klaxon@4.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-klaxon@4.3.0.0

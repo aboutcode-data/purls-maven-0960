@@ -36,3 +36,6 @@
 - pkg:maven/io.kvision/kvision-electron@5.6.1?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.7.0?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.7.1?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@5.7.2?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@5.8.0?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@5.8.1?classifier=sources

@@ -368,3 +368,5 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-pdf-converter@0.62.0?classifier=sources
 - pkg:maven/com.vladsch.flexmark/flexmark-pdf-converter@0.62.2
 - pkg:maven/com.vladsch.flexmark/flexmark-pdf-converter@0.62.2?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-pdf-converter@0.64.0
+- pkg:maven/com.vladsch.flexmark/flexmark-pdf-converter@0.64.0?classifier=sources

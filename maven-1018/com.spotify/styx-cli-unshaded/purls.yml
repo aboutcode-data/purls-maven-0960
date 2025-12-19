@@ -64,6 +64,12 @@
 - pkg:maven/com.spotify/styx-cli-unshaded@2.1.132?classifier=sources
 - pkg:maven/com.spotify/styx-cli-unshaded@2.1.138
 - pkg:maven/com.spotify/styx-cli-unshaded@2.1.138?classifier=sources
+- pkg:maven/com.spotify/styx-cli-unshaded@2.1.139
+- pkg:maven/com.spotify/styx-cli-unshaded@2.1.139?classifier=sources
+- pkg:maven/com.spotify/styx-cli-unshaded@2.1.140
+- pkg:maven/com.spotify/styx-cli-unshaded@2.1.140?classifier=sources
+- pkg:maven/com.spotify/styx-cli-unshaded@2.1.141
+- pkg:maven/com.spotify/styx-cli-unshaded@2.1.141?classifier=sources
 - pkg:maven/com.spotify/styx-cli-unshaded@2.1.45
 - pkg:maven/com.spotify/styx-cli-unshaded@2.1.45?classifier=sources
 - pkg:maven/com.spotify/styx-cli-unshaded@2.1.46

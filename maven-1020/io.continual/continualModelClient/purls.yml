@@ -1,2 +1,4 @@
 - pkg:maven/io.continual/continualModelClient@0.2.28
 - pkg:maven/io.continual/continualModelClient@0.2.28?classifier=sources
+- pkg:maven/io.continual/continualModelClient@0.2.29
+- pkg:maven/io.continual/continualModelClient@0.2.29?classifier=sources

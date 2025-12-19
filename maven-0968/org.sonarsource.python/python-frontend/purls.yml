@@ -30,6 +30,7 @@
 - pkg:maven/org.sonarsource.python/python-frontend@3.0.0.7330?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@3.1.0.7619
 - pkg:maven/org.sonarsource.python/python-frontend@3.1.0.7619?classifier=sources
+- pkg:maven/org.sonarsource.python/python-frontend@3.10.0.9380?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@3.2.0.7856
 - pkg:maven/org.sonarsource.python/python-frontend@3.2.0.7856?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@3.3.0.7945
@@ -41,3 +42,4 @@
 - pkg:maven/org.sonarsource.python/python-frontend@3.6.0.8488?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@3.7.0.8753?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@3.8.0.8883?classifier=sources
+- pkg:maven/org.sonarsource.python/python-frontend@3.9.0.9230?classifier=sources

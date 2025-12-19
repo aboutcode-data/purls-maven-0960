@@ -299,6 +299,10 @@
 - pkg:maven/cn.hutool/hutool-json@5.7.19?classifier=sources
 - pkg:maven/cn.hutool/hutool-json@5.7.1?classifier=sources
 - pkg:maven/cn.hutool/hutool-json@5.7.2
+- pkg:maven/cn.hutool/hutool-json@5.7.20
+- pkg:maven/cn.hutool/hutool-json@5.7.20?classifier=sources
+- pkg:maven/cn.hutool/hutool-json@5.7.21
+- pkg:maven/cn.hutool/hutool-json@5.7.21?classifier=sources
 - pkg:maven/cn.hutool/hutool-json@5.7.2?classifier=sources
 - pkg:maven/cn.hutool/hutool-json@5.7.3
 - pkg:maven/cn.hutool/hutool-json@5.7.3?classifier=sources

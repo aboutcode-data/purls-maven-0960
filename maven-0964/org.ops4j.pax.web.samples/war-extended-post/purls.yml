@@ -180,3 +180,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.4.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.4.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.4.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.4.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-extended-post@7.4.4?type=war

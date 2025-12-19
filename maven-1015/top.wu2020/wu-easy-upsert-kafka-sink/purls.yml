@@ -1,2 +1,6 @@
 - pkg:maven/top.wu2020/wu-easy-upsert-kafka-sink@1.0.5
 - pkg:maven/top.wu2020/wu-easy-upsert-kafka-sink@1.0.5?classifier=sources
+- pkg:maven/top.wu2020/wu-easy-upsert-kafka-sink@1.0.6
+- pkg:maven/top.wu2020/wu-easy-upsert-kafka-sink@1.0.6?classifier=sources
+- pkg:maven/top.wu2020/wu-easy-upsert-kafka-sink@1.0.7-JDK1.8
+- pkg:maven/top.wu2020/wu-easy-upsert-kafka-sink@1.0.7-JDK1.8?classifier=sources

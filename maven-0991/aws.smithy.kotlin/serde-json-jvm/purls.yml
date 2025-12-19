@@ -9,3 +9,5 @@
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.7.3-beta?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.7.4-beta?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.7.5?classifier=sources
+- pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.7.6?classifier=sources
+- pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.7.7?classifier=sources

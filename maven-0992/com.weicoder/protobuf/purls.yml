@@ -94,3 +94,7 @@
 - pkg:maven/com.weicoder/protobuf@3.4.7-jdk8
 - pkg:maven/com.weicoder/protobuf@3.4.7-jdk8?classifier=sources
 - pkg:maven/com.weicoder/protobuf@3.4.7?classifier=sources
+- pkg:maven/com.weicoder/protobuf@3.4.8
+- pkg:maven/com.weicoder/protobuf@3.4.8-jdk8
+- pkg:maven/com.weicoder/protobuf@3.4.8-jdk8?classifier=sources
+- pkg:maven/com.weicoder/protobuf@3.4.8?classifier=sources

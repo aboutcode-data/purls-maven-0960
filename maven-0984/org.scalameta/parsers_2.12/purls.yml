@@ -225,6 +225,12 @@
 - pkg:maven/org.scalameta/parsers_2.12@4.4.31?classifier=sources
 - pkg:maven/org.scalameta/parsers_2.12@4.4.32
 - pkg:maven/org.scalameta/parsers_2.12@4.4.32?classifier=sources
+- pkg:maven/org.scalameta/parsers_2.12@4.4.33
+- pkg:maven/org.scalameta/parsers_2.12@4.4.33?classifier=sources
+- pkg:maven/org.scalameta/parsers_2.12@4.4.34
+- pkg:maven/org.scalameta/parsers_2.12@4.4.34?classifier=sources
+- pkg:maven/org.scalameta/parsers_2.12@4.4.35
+- pkg:maven/org.scalameta/parsers_2.12@4.4.35?classifier=sources
 - pkg:maven/org.scalameta/parsers_2.12@4.4.3?classifier=sources
 - pkg:maven/org.scalameta/parsers_2.12@4.4.4
 - pkg:maven/org.scalameta/parsers_2.12@4.4.4?classifier=sources
@@ -238,3 +244,5 @@
 - pkg:maven/org.scalameta/parsers_2.12@4.4.8?classifier=sources
 - pkg:maven/org.scalameta/parsers_2.12@4.4.9
 - pkg:maven/org.scalameta/parsers_2.12@4.4.9?classifier=sources
+- pkg:maven/org.scalameta/parsers_2.12@4.5.0
+- pkg:maven/org.scalameta/parsers_2.12@4.5.0?classifier=sources
