@@ -8,3 +8,5 @@
 - pkg:maven/com.coreoz/plume-file-storage-database@3.0.0-rc2
 - pkg:maven/com.coreoz/plume-file-storage-database@3.0.0-rc2?classifier=sources
 - pkg:maven/com.coreoz/plume-file-storage-database@3.0.0?classifier=sources
+- pkg:maven/com.coreoz/plume-file-storage-database@3.0.1
+- pkg:maven/com.coreoz/plume-file-storage-database@3.0.1?classifier=sources

@@ -56,6 +56,7 @@
 - pkg:maven/com.azure/azure-messaging-eventhubs@5.15.5?classifier=sources
 - pkg:maven/com.azure/azure-messaging-eventhubs@5.15.6?classifier=sources
 - pkg:maven/com.azure/azure-messaging-eventhubs@5.15.7?classifier=sources
+- pkg:maven/com.azure/azure-messaging-eventhubs@5.15.8?classifier=sources
 - pkg:maven/com.azure/azure-messaging-eventhubs@5.16.0-beta.1?classifier=sources
 - pkg:maven/com.azure/azure-messaging-eventhubs@5.2.0
 - pkg:maven/com.azure/azure-messaging-eventhubs@5.2.0-beta.1

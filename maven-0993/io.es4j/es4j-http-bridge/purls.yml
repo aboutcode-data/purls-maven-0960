@@ -1,3 +1,5 @@
+- pkg:maven/io.es4j/es4j-http-bridge@0.13
+- pkg:maven/io.es4j/es4j-http-bridge@0.13?classifier=sources
 - pkg:maven/io.es4j/es4j-http-bridge@main
 - pkg:maven/io.es4j/es4j-http-bridge@main?classifier=sources
 - pkg:maven/io.es4j/es4j-http-bridge@v0.0.12

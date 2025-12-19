@@ -50,3 +50,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-storage-batch2@6.6.1?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-storage-batch2@6.6.2
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-storage-batch2@6.6.2?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-storage-batch2@6.8.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-storage-batch2@6.8.0?classifier=sources

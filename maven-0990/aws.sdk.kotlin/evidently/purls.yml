@@ -64,4 +64,8 @@
 - pkg:maven/aws.sdk.kotlin/evidently@0.28.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/evidently@0.28.2-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/evidently@0.29.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evidently@0.29.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evidently@0.30.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evidently@0.30.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/evidently@0.31.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/evidently@0.9.5-beta?classifier=sources

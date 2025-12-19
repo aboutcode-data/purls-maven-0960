@@ -25,6 +25,7 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.18
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.2
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.cache@1.0.2?classifier=sources

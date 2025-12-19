@@ -38,3 +38,11 @@
 - pkg:maven/org.kie/kie-drl-compilation-common@8.40.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-drl-compilation-common@8.41.0.Final
 - pkg:maven/org.kie/kie-drl-compilation-common@8.41.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drl-compilation-common@8.42.0.Final
+- pkg:maven/org.kie/kie-drl-compilation-common@8.42.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drl-compilation-common@8.43.0.Final
+- pkg:maven/org.kie/kie-drl-compilation-common@8.43.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drl-compilation-common@9.42.0.Alpha
+- pkg:maven/org.kie/kie-drl-compilation-common@9.42.0.Alpha?classifier=sources
+- pkg:maven/org.kie/kie-drl-compilation-common@9.43.0.Alpha
+- pkg:maven/org.kie/kie-drl-compilation-common@9.43.0.Alpha?classifier=sources

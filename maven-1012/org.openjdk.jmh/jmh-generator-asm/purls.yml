@@ -121,6 +121,8 @@
 - pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.35?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.36
 - pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.36?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.37
+- pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.37?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.3?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.4
 - pkg:maven/org.openjdk.jmh/jmh-generator-asm@1.4.1

@@ -63,6 +63,8 @@
 - pkg:maven/com.squareup/square@30.0.1.20230608?classifier=sources
 - pkg:maven/com.squareup/square@31.0.0.20230720
 - pkg:maven/com.squareup/square@31.0.0.20230720?classifier=sources
+- pkg:maven/com.squareup/square@32.0.0.20230816
+- pkg:maven/com.squareup/square@32.0.0.20230816?classifier=sources
 - pkg:maven/com.squareup/square@4.0.0.20191217
 - pkg:maven/com.squareup/square@4.0.0.20191217?classifier=sources
 - pkg:maven/com.squareup/square@4.1.0.20200122

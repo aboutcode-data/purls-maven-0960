@@ -400,6 +400,14 @@
 - pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@5.20.7.3?classifier=sources
 - pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.103.1
 - pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.103.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.103.2
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.103.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.115.1
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.115.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.115.2
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.115.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.120.1
+- pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.120.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.42.1
 - pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.42.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-lookoutmetrics_2.13@6.20.42.2

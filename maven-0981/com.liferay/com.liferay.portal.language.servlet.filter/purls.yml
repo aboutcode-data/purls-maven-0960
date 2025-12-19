@@ -209,6 +209,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.13
 - pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.14
+- pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.servlet.filter@6.0.2

@@ -32,3 +32,5 @@
 - pkg:maven/org.tomitribe/tomitribe-crest-generator@0.25?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-generator@0.26
 - pkg:maven/org.tomitribe/tomitribe-crest-generator@0.26?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-generator@0.27
+- pkg:maven/org.tomitribe/tomitribe-crest-generator@0.27?classifier=sources

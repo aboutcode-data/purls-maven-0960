@@ -316,6 +316,8 @@
 - pkg:maven/io.sentry/sentry-spring@6.26.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@6.27.0
 - pkg:maven/io.sentry/sentry-spring@6.27.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@6.28.0
+- pkg:maven/io.sentry/sentry-spring@6.28.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@6.3.0
 - pkg:maven/io.sentry/sentry-spring@6.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@6.3.1

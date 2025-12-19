@@ -136,3 +136,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-local@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-local@302
 - pkg:maven/org.alluxio/alluxio-underfs-local@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-local@303
+- pkg:maven/org.alluxio/alluxio-underfs-local@303?classifier=sources

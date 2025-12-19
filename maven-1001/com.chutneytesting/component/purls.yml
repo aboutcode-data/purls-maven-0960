@@ -22,3 +22,5 @@
 - pkg:maven/com.chutneytesting/component@1.7.1?classifier=sources
 - pkg:maven/com.chutneytesting/component@2.0.0
 - pkg:maven/com.chutneytesting/component@2.0.0?classifier=sources
+- pkg:maven/com.chutneytesting/component@2.1.0
+- pkg:maven/com.chutneytesting/component@2.1.0?classifier=sources

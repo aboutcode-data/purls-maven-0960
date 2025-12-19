@@ -34,3 +34,5 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@6.0.0?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@6.0.1
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@6.0.1?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@6.0.2
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-pravega_2.13@6.0.2?classifier=sources

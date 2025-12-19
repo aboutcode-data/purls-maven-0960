@@ -46,3 +46,5 @@
 - pkg:maven/org.openurp.trd/openurp-trd-api@0.33.2?classifier=sources
 - pkg:maven/org.openurp.trd/openurp-trd-api@0.34.0
 - pkg:maven/org.openurp.trd/openurp-trd-api@0.34.0?classifier=sources
+- pkg:maven/org.openurp.trd/openurp-trd-api@0.34.1
+- pkg:maven/org.openurp.trd/openurp-trd-api@0.34.1?classifier=sources

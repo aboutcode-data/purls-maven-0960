@@ -112,5 +112,7 @@
 - pkg:maven/com.sap.scimono/scimono-client@0.0.8?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@0.0.9
 - pkg:maven/com.sap.scimono/scimono-client@0.0.9?classifier=sources
+- pkg:maven/com.sap.scimono/scimono-client@0.1.0
+- pkg:maven/com.sap.scimono/scimono-client@0.1.0?classifier=sources
 - pkg:maven/com.sap.scimono/scimono-client@34.0.0
 - pkg:maven/com.sap.scimono/scimono-client@34.0.0?classifier=sources

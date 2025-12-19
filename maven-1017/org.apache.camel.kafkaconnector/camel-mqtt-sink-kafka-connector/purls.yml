@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt-sink-kafka-connector@3.20.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt-sink-kafka-connector@3.20.3?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt-sink-kafka-connector@3.20.6?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-mqtt-sink-kafka-connector@3.21.0?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.0.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.0.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.1.0?classifier=sources

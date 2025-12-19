@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.websocket.jakarta@0.20.1?classifier=sources
 - pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.websocket.jakarta@0.21.0
 - pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.websocket.jakarta@0.21.0?classifier=sources
+- pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.websocket.jakarta@0.21.1
+- pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.websocket.jakarta@0.21.1?classifier=sources

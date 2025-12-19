@@ -116,6 +116,10 @@
 - pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.40.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.41.0.Final
 - pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.41.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.42.0.Final
+- pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.42.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.43.0.Final
+- pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.43.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.5.0.Final
 - pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.5.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-scenario-simulation@1.6.0.Final

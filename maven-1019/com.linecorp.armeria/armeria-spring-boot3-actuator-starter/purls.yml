@@ -3,3 +3,6 @@
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot3-actuator-starter@1.24.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot3-actuator-starter@1.24.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot3-actuator-starter@1.24.3?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot3-actuator-starter@1.25.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot3-actuator-starter@1.25.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot3-actuator-starter@1.25.2?classifier=sources

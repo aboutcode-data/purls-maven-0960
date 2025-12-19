@@ -464,3 +464,11 @@
 - pkg:maven/org.drools/drools-compiler@8.40.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-compiler@8.41.0.Final
 - pkg:maven/org.drools/drools-compiler@8.41.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-compiler@8.42.0.Final
+- pkg:maven/org.drools/drools-compiler@8.42.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-compiler@8.43.0.Final
+- pkg:maven/org.drools/drools-compiler@8.43.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-compiler@9.42.0.Alpha
+- pkg:maven/org.drools/drools-compiler@9.42.0.Alpha?classifier=sources
+- pkg:maven/org.drools/drools-compiler@9.43.0.Alpha
+- pkg:maven/org.drools/drools-compiler@9.43.0.Alpha?classifier=sources

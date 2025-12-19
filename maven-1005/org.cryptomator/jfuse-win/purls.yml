@@ -16,3 +16,5 @@
 - pkg:maven/org.cryptomator/jfuse-win@0.5.0?classifier=sources
 - pkg:maven/org.cryptomator/jfuse-win@0.5.1
 - pkg:maven/org.cryptomator/jfuse-win@0.5.1?classifier=sources
+- pkg:maven/org.cryptomator/jfuse-win@0.6.0
+- pkg:maven/org.cryptomator/jfuse-win@0.6.0?classifier=sources

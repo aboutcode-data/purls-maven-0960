@@ -63,6 +63,8 @@
 - pkg:maven/com.github.king019/fw_common@fw_v_1.39?classifier=sources
 - pkg:maven/com.github.king019/fw_common@fw_v_1.3?classifier=sources
 - pkg:maven/com.github.king019/fw_common@fw_v_1.4
+- pkg:maven/com.github.king019/fw_common@fw_v_1.40
+- pkg:maven/com.github.king019/fw_common@fw_v_1.40?classifier=sources
 - pkg:maven/com.github.king019/fw_common@fw_v_1.4?classifier=sources
 - pkg:maven/com.github.king019/fw_common@fw_v_1.5
 - pkg:maven/com.github.king019/fw_common@fw_v_1.5?classifier=sources

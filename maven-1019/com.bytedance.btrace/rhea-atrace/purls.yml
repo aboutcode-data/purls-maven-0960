@@ -16,6 +16,8 @@
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.2?type=aar
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-alpha03?classifier=sources
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-alpha03?type=aar
+- pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-alpha04?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-alpha04?type=aar
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc01?classifier=sources
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc01?type=aar
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc02?classifier=sources

@@ -66,3 +66,7 @@
 - pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.1?classifier=sources
 - pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.2
 - pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.2?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.3
+- pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.3?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.4
+- pkg:maven/org.redisson/redisson-quarkus-20-deployment@3.23.4?classifier=sources

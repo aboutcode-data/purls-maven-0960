@@ -262,6 +262,12 @@
 - pkg:maven/software.aws.toolkits/telemetry-generator@1.0.139?classifier=sources
 - pkg:maven/software.aws.toolkits/telemetry-generator@1.0.13?classifier=sources
 - pkg:maven/software.aws.toolkits/telemetry-generator@1.0.14
+- pkg:maven/software.aws.toolkits/telemetry-generator@1.0.140
+- pkg:maven/software.aws.toolkits/telemetry-generator@1.0.140?classifier=sources
+- pkg:maven/software.aws.toolkits/telemetry-generator@1.0.141
+- pkg:maven/software.aws.toolkits/telemetry-generator@1.0.141?classifier=sources
+- pkg:maven/software.aws.toolkits/telemetry-generator@1.0.142
+- pkg:maven/software.aws.toolkits/telemetry-generator@1.0.142?classifier=sources
 - pkg:maven/software.aws.toolkits/telemetry-generator@1.0.14?classifier=sources
 - pkg:maven/software.aws.toolkits/telemetry-generator@1.0.15
 - pkg:maven/software.aws.toolkits/telemetry-generator@1.0.15?classifier=sources

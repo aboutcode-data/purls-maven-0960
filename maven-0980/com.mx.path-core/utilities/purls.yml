@@ -35,3 +35,11 @@
 - pkg:maven/com.mx.path-core/utilities@3.2.2?classifier=sources
 - pkg:maven/com.mx.path-core/utilities@3.3.0?classifier=sources
 - pkg:maven/com.mx.path-core/utilities@3.4.0?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.5.0?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.6.0?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.7.0-rc.1?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.7.0-rc.2?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.7.0?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.8.0-rc.1?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.8.0-rc.2?classifier=sources
+- pkg:maven/com.mx.path-core/utilities@3.8.0-rc.3?classifier=sources

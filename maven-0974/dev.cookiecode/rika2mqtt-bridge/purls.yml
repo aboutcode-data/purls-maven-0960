@@ -1,2 +1,6 @@
 - pkg:maven/dev.cookiecode/rika2mqtt-bridge@0.0.1
 - pkg:maven/dev.cookiecode/rika2mqtt-bridge@0.0.1?classifier=sources
+- pkg:maven/dev.cookiecode/rika2mqtt-bridge@1.1.0
+- pkg:maven/dev.cookiecode/rika2mqtt-bridge@1.1.0?classifier=sources
+- pkg:maven/dev.cookiecode/rika2mqtt-bridge@2.0.0
+- pkg:maven/dev.cookiecode/rika2mqtt-bridge@2.0.0?classifier=sources

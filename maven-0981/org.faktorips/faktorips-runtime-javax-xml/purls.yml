@@ -14,7 +14,11 @@
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@23.6.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@23.6.3.release
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@23.6.3.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@23.6.4.release
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@23.6.4.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@24.1.0.a20230714-01
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@24.1.0.a20230714-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@24.1.0.a20230728-01
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@24.1.0.a20230728-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@24.1.0.a20230828-01
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@24.1.0.a20230828-01?classifier=sources

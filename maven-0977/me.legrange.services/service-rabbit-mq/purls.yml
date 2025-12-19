@@ -90,3 +90,5 @@
 - pkg:maven/me.legrange.services/service-rabbit-mq@4.0.0?classifier=sources
 - pkg:maven/me.legrange.services/service-rabbit-mq@4.1.0
 - pkg:maven/me.legrange.services/service-rabbit-mq@4.1.0?classifier=sources
+- pkg:maven/me.legrange.services/service-rabbit-mq@4.2.0
+- pkg:maven/me.legrange.services/service-rabbit-mq@4.2.0?classifier=sources

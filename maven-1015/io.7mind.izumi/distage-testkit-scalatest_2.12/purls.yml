@@ -120,6 +120,7 @@
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.0.8?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.0.9
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.0.9?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M1
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M10
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M10?classifier=sources
@@ -155,6 +156,10 @@
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M24?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M25
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M25?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M26
+- pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M26?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M27
+- pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M27?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M2?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M3
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M3?classifier=sources
@@ -170,3 +175,4 @@
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M8?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M9
 - pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0-M9?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-testkit-scalatest_2.12@1.1.0?classifier=sources

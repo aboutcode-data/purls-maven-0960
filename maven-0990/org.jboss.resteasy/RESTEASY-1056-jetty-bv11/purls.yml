@@ -258,6 +258,8 @@
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@5.0.6.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@5.0.7.Final
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@5.0.7.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@5.0.8.Final
+- pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@5.0.8.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.0.0.Final
@@ -290,3 +292,5 @@
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.2.3.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.2.4.Final
 - pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.2.4.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.2.5.Final
+- pkg:maven/org.jboss.resteasy/RESTEASY-1056-jetty-bv11@6.2.5.Final?classifier=sources

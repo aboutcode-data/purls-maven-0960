@@ -11,6 +11,8 @@
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.14?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.15
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.15?classifier=sources
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.16
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.16?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.2
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@10.0.2?classifier=sources
@@ -41,6 +43,8 @@
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.14?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.15
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.15?classifier=sources
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.16
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.16?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.2
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.2?classifier=sources
@@ -58,6 +62,7 @@
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.9
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@11.0.9?classifier=sources
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0.alpha0
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0.alpha0?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0.alpha1
@@ -76,3 +81,6 @@
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0.beta3?classifier=sources
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0.beta4
 - pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0.beta4?classifier=sources
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.0?classifier=sources
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.1
+- pkg:maven/org.eclipse.jetty.documentation/jetty-documentation@12.0.1?classifier=sources

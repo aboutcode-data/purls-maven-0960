@@ -1,5 +1,10 @@
 - pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.10?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.11-beta2?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.11-beta3?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.11-beta4?classifier=sources
 - pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.11-beta?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.11?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.12-beta2?classifier=sources
 - pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.1?classifier=sources
 - pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.2?classifier=sources
 - pkg:maven/com.bloxbean.cardano/yaci-store-core@0.0.5?classifier=sources

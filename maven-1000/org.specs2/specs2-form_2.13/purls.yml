@@ -78,6 +78,10 @@
 - pkg:maven/org.specs2/specs2-form_2.13@4.19.2?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.20.0
 - pkg:maven/org.specs2/specs2-form_2.13@4.20.0?classifier=sources
+- pkg:maven/org.specs2/specs2-form_2.13@4.20.1
+- pkg:maven/org.specs2/specs2-form_2.13@4.20.1?classifier=sources
+- pkg:maven/org.specs2/specs2-form_2.13@4.20.2
+- pkg:maven/org.specs2/specs2-form_2.13@4.20.2?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.5.1
 - pkg:maven/org.specs2/specs2-form_2.13@4.5.1?classifier=sources
 - pkg:maven/org.specs2/specs2-form_2.13@4.6.0

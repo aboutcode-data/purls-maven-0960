@@ -2,6 +2,7 @@
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.101.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.102.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.103.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-imports@1.103.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.22.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.23.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.24.0?classifier=sources
@@ -120,3 +121,5 @@
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.98.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.98.2?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@1.99.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-imports@2.0.0
+- pkg:maven/com.walmartlabs.concord/concord-imports@2.0.0?classifier=sources

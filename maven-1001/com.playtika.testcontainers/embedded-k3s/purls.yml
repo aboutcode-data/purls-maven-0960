@@ -1,3 +1,4 @@
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC2
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC2?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC3
@@ -12,3 +13,6 @@
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC7?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC8
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC8?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC9
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0-RC9?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.0.0?classifier=sources

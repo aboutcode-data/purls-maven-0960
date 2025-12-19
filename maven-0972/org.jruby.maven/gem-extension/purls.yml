@@ -1,0 +1,4 @@
+- pkg:maven/org.jruby.maven/gem-extension@3.0.0
+- pkg:maven/org.jruby.maven/gem-extension@3.0.0?classifier=sources
+- pkg:maven/org.jruby.maven/gem-extension@3.0.1
+- pkg:maven/org.jruby.maven/gem-extension@3.0.1?classifier=sources

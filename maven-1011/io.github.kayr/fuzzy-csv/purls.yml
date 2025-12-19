@@ -10,3 +10,5 @@
 - pkg:maven/io.github.kayr/fuzzy-csv@1.8.1-groovy4?classifier=sources
 - pkg:maven/io.github.kayr/fuzzy-csv@1.9.0-groovy3?classifier=sources
 - pkg:maven/io.github.kayr/fuzzy-csv@1.9.0-groovy4?classifier=sources
+- pkg:maven/io.github.kayr/fuzzy-csv@1.9.1-groovy3?classifier=sources
+- pkg:maven/io.github.kayr/fuzzy-csv@1.9.1-groovy4?classifier=sources

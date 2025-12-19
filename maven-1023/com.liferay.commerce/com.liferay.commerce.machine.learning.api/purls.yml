@@ -106,3 +106,5 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.api@7.2.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.api@7.2.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.api@7.2.4?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.api@7.2.5
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.api@7.2.5?classifier=sources

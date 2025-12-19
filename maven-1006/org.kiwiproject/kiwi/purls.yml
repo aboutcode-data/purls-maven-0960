@@ -68,3 +68,7 @@
 - pkg:maven/org.kiwiproject/kiwi@2.5.0?classifier=sources
 - pkg:maven/org.kiwiproject/kiwi@2.6.0
 - pkg:maven/org.kiwiproject/kiwi@2.6.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@2.7.0
+- pkg:maven/org.kiwiproject/kiwi@2.7.0?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi@3.0.0
+- pkg:maven/org.kiwiproject/kiwi@3.0.0?classifier=sources

@@ -1350,3 +1350,7 @@
 - pkg:maven/co.fs2/fs2-core_2.12@3.8-a43eaac?classifier=sources
 - pkg:maven/co.fs2/fs2-core_2.12@3.8-e358dce
 - pkg:maven/co.fs2/fs2-core_2.12@3.8-e358dce?classifier=sources
+- pkg:maven/co.fs2/fs2-core_2.12@3.8.0
+- pkg:maven/co.fs2/fs2-core_2.12@3.8.0?classifier=sources
+- pkg:maven/co.fs2/fs2-core_2.12@3.9.0
+- pkg:maven/co.fs2/fs2-core_2.12@3.9.0?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.1-2021.0.6?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.1-2022.0.1
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.1-2022.0.1?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.10-Hoxton.SR12
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.10-Hoxton.SR12?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2020.0.6
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2020.0.6?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2021.0.6
@@ -70,6 +72,14 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.8-2022.0.1?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.8-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.8-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-2020.0.6
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-2020.0.6?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-2021.0.6
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-2021.0.6?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-2022.0.1
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-2022.0.1?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-Hoxton.SR12
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.9-Hoxton.SR12?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.2.0-2020.0.5
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.2.0-2020.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.2.0-Greenwich

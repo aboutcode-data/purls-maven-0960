@@ -19,6 +19,8 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.0.17?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.0.18
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.0.18?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.0.19
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.0.19?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.0.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.0.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.0.2?classifier=sources
@@ -59,6 +61,8 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.1.13?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.1.14
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.1.14?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.1.15
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.1.15?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.1.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.1.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.1.2?classifier=sources
@@ -91,6 +95,10 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.2.1
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.2.10
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.2.10?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.2.11
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.2.11?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.2.12
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.2.12?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.2.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.2.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.2.2?classifier=sources
@@ -116,3 +124,5 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.0-alpha2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.0-alpha3
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.3.0-alpha4
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.3.0-alpha4?classifier=sources

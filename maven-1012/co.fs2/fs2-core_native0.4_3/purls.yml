@@ -36,3 +36,7 @@
 - pkg:maven/co.fs2/fs2-core_native0.4_3@3.8-a43eaac?classifier=sources
 - pkg:maven/co.fs2/fs2-core_native0.4_3@3.8-e358dce
 - pkg:maven/co.fs2/fs2-core_native0.4_3@3.8-e358dce?classifier=sources
+- pkg:maven/co.fs2/fs2-core_native0.4_3@3.8.0
+- pkg:maven/co.fs2/fs2-core_native0.4_3@3.8.0?classifier=sources
+- pkg:maven/co.fs2/fs2-core_native0.4_3@3.9.0
+- pkg:maven/co.fs2/fs2-core_native0.4_3@3.9.0?classifier=sources

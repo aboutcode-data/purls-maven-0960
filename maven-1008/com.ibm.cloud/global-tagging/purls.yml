@@ -204,8 +204,16 @@
 - pkg:maven/com.ibm.cloud/global-tagging@0.37.0?classifier=sources
 - pkg:maven/com.ibm.cloud/global-tagging@0.37.1
 - pkg:maven/com.ibm.cloud/global-tagging@0.37.1?classifier=sources
+- pkg:maven/com.ibm.cloud/global-tagging@0.38.0
+- pkg:maven/com.ibm.cloud/global-tagging@0.38.0?classifier=sources
+- pkg:maven/com.ibm.cloud/global-tagging@0.39.0
+- pkg:maven/com.ibm.cloud/global-tagging@0.39.0?classifier=sources
+- pkg:maven/com.ibm.cloud/global-tagging@0.39.1
+- pkg:maven/com.ibm.cloud/global-tagging@0.39.1?classifier=sources
 - pkg:maven/com.ibm.cloud/global-tagging@0.4.1
 - pkg:maven/com.ibm.cloud/global-tagging@0.4.1?classifier=sources
+- pkg:maven/com.ibm.cloud/global-tagging@0.40.0
+- pkg:maven/com.ibm.cloud/global-tagging@0.40.0?classifier=sources
 - pkg:maven/com.ibm.cloud/global-tagging@0.6.0
 - pkg:maven/com.ibm.cloud/global-tagging@0.6.0?classifier=sources
 - pkg:maven/com.ibm.cloud/global-tagging@0.7.0

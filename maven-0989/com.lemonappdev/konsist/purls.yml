@@ -1,3 +1,5 @@
+- pkg:maven/com.lemonappdev/konsist@0.10.0?classifier=sources
+- pkg:maven/com.lemonappdev/konsist@0.11.0?classifier=sources
 - pkg:maven/com.lemonappdev/konsist@0.7.10?classifier=sources
 - pkg:maven/com.lemonappdev/konsist@0.7.11?classifier=sources
 - pkg:maven/com.lemonappdev/konsist@0.7.12?classifier=sources
@@ -11,3 +13,4 @@
 - pkg:maven/com.lemonappdev/konsist@0.7.8?classifier=sources
 - pkg:maven/com.lemonappdev/konsist@0.7.9?classifier=sources
 - pkg:maven/com.lemonappdev/konsist@0.8.0?classifier=sources
+- pkg:maven/com.lemonappdev/konsist@0.9.0?classifier=sources

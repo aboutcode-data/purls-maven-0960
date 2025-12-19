@@ -11,3 +11,5 @@
 - pkg:maven/io.openlineage/openlineage-flink@0.28.0?classifier=sources
 - pkg:maven/io.openlineage/openlineage-flink@0.29.2?classifier=sources
 - pkg:maven/io.openlineage/openlineage-flink@0.30.1?classifier=sources
+- pkg:maven/io.openlineage/openlineage-flink@1.0.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-flink@1.1.0?classifier=sources

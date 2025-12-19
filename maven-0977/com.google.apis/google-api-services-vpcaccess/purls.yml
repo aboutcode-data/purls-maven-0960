@@ -4,9 +4,13 @@
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1-rev20230418-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1-rev20230427-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1-rev20230427-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vpcaccess@v1-rev20230810-2.0.0
+- pkg:maven/com.google.apis/google-api-services-vpcaccess@v1-rev20230810-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230309-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230309-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230418-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230418-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230427-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230427-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230810-2.0.0
+- pkg:maven/com.google.apis/google-api-services-vpcaccess@v1beta1-rev20230810-2.0.0?classifier=sources

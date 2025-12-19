@@ -6,6 +6,10 @@
 - pkg:maven/com.increff.commons/commons-gelf@1.14?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.15
 - pkg:maven/com.increff.commons/commons-gelf@1.15?classifier=sources
+- pkg:maven/com.increff.commons/commons-gelf@1.16
+- pkg:maven/com.increff.commons/commons-gelf@1.16?classifier=sources
+- pkg:maven/com.increff.commons/commons-gelf@1.17
+- pkg:maven/com.increff.commons/commons-gelf@1.17?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.2
 - pkg:maven/com.increff.commons/commons-gelf@1.2?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.4

@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.skywalking/apm-webapp@9.4.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-webapp@9.5.0
 - pkg:maven/org.apache.skywalking/apm-webapp@9.5.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-webapp@9.6.0
+- pkg:maven/org.apache.skywalking/apm-webapp@9.6.0?classifier=sources

@@ -154,5 +154,7 @@
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@3.0.1-beta1
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@3.0.1-beta1?classifier=sources
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@3.0.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@3.0.2-beta1
+- pkg:maven/com.fizzgate/fizz-spring-boot-starter@3.0.2-beta1?classifier=sources
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@v2.3.4-beta20220122
 - pkg:maven/com.fizzgate/fizz-spring-boot-starter@v2.3.4-beta20220122?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.ironcorelabs/tenant-security-java@5.0.0?classifier=sources
 - pkg:maven/com.ironcorelabs/tenant-security-java@6.0.0
 - pkg:maven/com.ironcorelabs/tenant-security-java@6.0.0?classifier=sources
+- pkg:maven/com.ironcorelabs/tenant-security-java@7.0.0
+- pkg:maven/com.ironcorelabs/tenant-security-java@7.0.0?classifier=sources

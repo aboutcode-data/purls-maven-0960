@@ -92,3 +92,5 @@
 - pkg:maven/sh.ory.kratos/kratos-client@0.9.0-alpha.2?classifier=sources
 - pkg:maven/sh.ory.kratos/kratos-client@0.9.0-alpha.3
 - pkg:maven/sh.ory.kratos/kratos-client@0.9.0-alpha.3?classifier=sources
+- pkg:maven/sh.ory.kratos/kratos-client@1.0.0
+- pkg:maven/sh.ory.kratos/kratos-client@1.0.0?classifier=sources

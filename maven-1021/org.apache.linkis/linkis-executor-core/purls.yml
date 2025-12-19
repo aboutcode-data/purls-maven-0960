@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.linkis/linkis-executor-core@1.3.1?classifier=sources
 - pkg:maven/org.apache.linkis/linkis-executor-core@1.3.2
 - pkg:maven/org.apache.linkis/linkis-executor-core@1.3.2?classifier=sources
+- pkg:maven/org.apache.linkis/linkis-executor-core@1.4.0
+- pkg:maven/org.apache.linkis/linkis-executor-core@1.4.0?classifier=sources

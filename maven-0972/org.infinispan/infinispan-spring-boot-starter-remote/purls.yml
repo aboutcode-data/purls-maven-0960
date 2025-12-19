@@ -146,6 +146,12 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.13.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.13.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.14.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.14.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.15.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.16.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.2.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-remote@14.0.3.Final

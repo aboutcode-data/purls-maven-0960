@@ -84,6 +84,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.32.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.33.0
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.33.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.34.0
+- pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.34.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-analytics-data-v1beta@0.7.0

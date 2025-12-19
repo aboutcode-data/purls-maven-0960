@@ -116,6 +116,10 @@
 - pkg:maven/com.sap.cds/cds4j-runtime@1.38.2?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-runtime@1.38.3
 - pkg:maven/com.sap.cds/cds4j-runtime@1.38.3?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@1.38.4
+- pkg:maven/com.sap.cds/cds4j-runtime@1.38.4?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@1.38.5
+- pkg:maven/com.sap.cds/cds4j-runtime@1.38.5?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-runtime@1.4.0
 - pkg:maven/com.sap.cds/cds4j-runtime@1.4.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-runtime@1.4.1
@@ -136,3 +140,9 @@
 - pkg:maven/com.sap.cds/cds4j-runtime@2.0.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-runtime@2.0.2
 - pkg:maven/com.sap.cds/cds4j-runtime@2.0.2?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@2.1.0
+- pkg:maven/com.sap.cds/cds4j-runtime@2.1.0?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@2.1.1
+- pkg:maven/com.sap.cds/cds4j-runtime@2.1.1?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@2.2.0
+- pkg:maven/com.sap.cds/cds4j-runtime@2.2.0?classifier=sources

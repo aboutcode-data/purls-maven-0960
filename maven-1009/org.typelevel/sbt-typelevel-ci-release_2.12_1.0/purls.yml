@@ -1,4 +1,11 @@
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC1
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC10
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC10?classifier=sources
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC11
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC11?classifier=sources
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC12
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC12?classifier=sources
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC1?classifier=sources
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC2
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC2?classifier=sources
@@ -16,3 +23,4 @@
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC8?classifier=sources
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC9
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0-RC9?classifier=sources
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.5.0?classifier=sources

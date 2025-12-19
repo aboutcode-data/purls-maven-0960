@@ -9,6 +9,7 @@
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.14?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.15?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.16?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-script@1.17?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.6.1
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.7
 - pkg:maven/org.apache.xmlgraphics/batik-script@1.7?classifier=sources

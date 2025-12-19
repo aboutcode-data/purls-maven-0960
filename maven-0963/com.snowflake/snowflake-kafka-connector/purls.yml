@@ -100,3 +100,7 @@
 - pkg:maven/com.snowflake/snowflake-kafka-connector@1.9.3?classifier=sources
 - pkg:maven/com.snowflake/snowflake-kafka-connector@1.9.4
 - pkg:maven/com.snowflake/snowflake-kafka-connector@1.9.4?classifier=sources
+- pkg:maven/com.snowflake/snowflake-kafka-connector@2.0.0
+- pkg:maven/com.snowflake/snowflake-kafka-connector@2.0.0?classifier=sources
+- pkg:maven/com.snowflake/snowflake-kafka-connector@2.0.1
+- pkg:maven/com.snowflake/snowflake-kafka-connector@2.0.1?classifier=sources

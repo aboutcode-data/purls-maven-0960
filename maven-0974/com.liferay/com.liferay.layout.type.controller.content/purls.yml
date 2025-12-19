@@ -464,6 +464,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.40
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.41
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.content@4.0.5

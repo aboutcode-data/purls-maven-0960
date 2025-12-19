@@ -16,3 +16,7 @@
 - pkg:maven/io.springboot.nacos/nacos-istio@2.2.0?classifier=sources
 - pkg:maven/io.springboot.nacos/nacos-istio@2.2.3
 - pkg:maven/io.springboot.nacos/nacos-istio@2.2.3?classifier=sources
+- pkg:maven/io.springboot.nacos/nacos-istio@2.2.4
+- pkg:maven/io.springboot.nacos/nacos-istio@2.2.4-OEM
+- pkg:maven/io.springboot.nacos/nacos-istio@2.2.4-OEM?classifier=sources
+- pkg:maven/io.springboot.nacos/nacos-istio@2.2.4?classifier=sources

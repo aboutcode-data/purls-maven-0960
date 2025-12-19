@@ -209,6 +209,8 @@
 - pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.39?classifier=sources
 - pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.3?classifier=sources
 - pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.4
+- pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.40
+- pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.40?classifier=sources
 - pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.4?classifier=sources
 - pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.5
 - pkg:maven/it.cnr.si.cool/cool-common-web-js@4.0.5?classifier=sources

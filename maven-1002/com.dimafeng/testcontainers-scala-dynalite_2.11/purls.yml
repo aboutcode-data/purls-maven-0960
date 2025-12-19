@@ -92,3 +92,5 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-dynalite_2.11@0.40.8?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-dynalite_2.11@0.40.9
 - pkg:maven/com.dimafeng/testcontainers-scala-dynalite_2.11@0.40.9?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-dynalite_2.11@0.41.0
+- pkg:maven/com.dimafeng/testcontainers-scala-dynalite_2.11@0.41.0?classifier=sources
