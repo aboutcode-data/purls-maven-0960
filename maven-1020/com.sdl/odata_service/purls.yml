@@ -38,8 +38,16 @@
 - pkg:maven/com.sdl/odata_service@2.10.22?classifier=sources
 - pkg:maven/com.sdl/odata_service@2.10.23
 - pkg:maven/com.sdl/odata_service@2.10.23?classifier=sources
+- pkg:maven/com.sdl/odata_service@2.10.24
+- pkg:maven/com.sdl/odata_service@2.10.24?classifier=sources
+- pkg:maven/com.sdl/odata_service@2.10.25
+- pkg:maven/com.sdl/odata_service@2.10.25?classifier=sources
+- pkg:maven/com.sdl/odata_service@2.10.26
+- pkg:maven/com.sdl/odata_service@2.10.26?classifier=sources
 - pkg:maven/com.sdl/odata_service@2.10.3
 - pkg:maven/com.sdl/odata_service@2.10.3?classifier=sources
+- pkg:maven/com.sdl/odata_service@2.11.1
+- pkg:maven/com.sdl/odata_service@2.11.1?classifier=sources
 - pkg:maven/com.sdl/odata_service@2.2.0
 - pkg:maven/com.sdl/odata_service@2.2.0?classifier=sources
 - pkg:maven/com.sdl/odata_service@2.2.1

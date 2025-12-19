@@ -62,3 +62,5 @@
 - pkg:maven/org.smallmind/claxon-http@4.8.5?classifier=sources
 - pkg:maven/org.smallmind/claxon-http@4.9.0
 - pkg:maven/org.smallmind/claxon-http@4.9.0?classifier=sources
+- pkg:maven/org.smallmind/claxon-http@5.1.0
+- pkg:maven/org.smallmind/claxon-http@5.1.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@3.0.3?classifier=sources
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@3.1.0
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@3.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@3.2.0
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-deployment@3.2.0?classifier=sources

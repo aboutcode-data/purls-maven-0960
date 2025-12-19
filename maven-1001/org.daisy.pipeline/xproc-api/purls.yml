@@ -16,3 +16,5 @@
 - pkg:maven/org.daisy.pipeline/xproc-api@5.0.0?classifier=sources
 - pkg:maven/org.daisy.pipeline/xproc-api@6.0.0
 - pkg:maven/org.daisy.pipeline/xproc-api@6.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline/xproc-api@7.0.0
+- pkg:maven/org.daisy.pipeline/xproc-api@7.0.0?classifier=sources

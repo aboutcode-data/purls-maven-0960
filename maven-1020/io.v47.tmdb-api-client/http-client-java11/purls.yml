@@ -9,3 +9,5 @@
 - pkg:maven/io.v47.tmdb-api-client/http-client-java11@3.4.0?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/http-client-java11@4.0.0?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/http-client-java11@4.1.0?classifier=sources
+- pkg:maven/io.v47.tmdb-api-client/http-client-java11@4.2.0?classifier=sources
+- pkg:maven/io.v47.tmdb-api-client/http-client-java11@4.2.1?classifier=sources

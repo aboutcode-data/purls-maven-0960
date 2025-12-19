@@ -1,2 +1,4 @@
 - pkg:maven/au.net.causal.shoelaces/shoelaces-jersey-common@2.2
 - pkg:maven/au.net.causal.shoelaces/shoelaces-jersey-common@2.2?classifier=sources
+- pkg:maven/au.net.causal.shoelaces/shoelaces-jersey-common@3.0
+- pkg:maven/au.net.causal.shoelaces/shoelaces-jersey-common@3.0?classifier=sources

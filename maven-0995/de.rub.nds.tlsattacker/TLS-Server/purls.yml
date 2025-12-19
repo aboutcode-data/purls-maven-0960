@@ -12,5 +12,9 @@
 - pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.7.3?classifier=sources
 - pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.0
 - pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.0?classifier=sources
+- pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.0B
+- pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.0B.1
+- pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.0B.1?classifier=sources
+- pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.0B?classifier=sources
 - pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.1
 - pkg:maven/de.rub.nds.tlsattacker/TLS-Server@3.8.1?classifier=sources

@@ -1206,3 +1206,7 @@
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.3.99
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.3.99?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.3.9?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.4.3
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.4.3?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.4.6
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_2.13@1.4.6?classifier=sources

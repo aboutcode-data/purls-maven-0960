@@ -24,6 +24,12 @@
 - pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.19-RC3
 - pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.19-RC3?classifier=sources
 - pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.19?classifier=sources
+- pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.20
+- pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.20?classifier=sources
+- pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.21
+- pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.21?classifier=sources
+- pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.22
+- pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.22?classifier=sources
 - pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.5
 - pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.5?classifier=sources
 - pkg:maven/org.http4s/http4s-core_sjs1_3@0.23.6

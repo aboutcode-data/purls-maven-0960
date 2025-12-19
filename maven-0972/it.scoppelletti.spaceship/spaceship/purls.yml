@@ -1,1 +1,2 @@
 - pkg:maven/it.scoppelletti.spaceship/spaceship@1.0.0?type=aar
+- pkg:maven/it.scoppelletti.spaceship/spaceship@1.1.0?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.38.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.39.0
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.39.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.40.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.40.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.41.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.41.0?classifier=sources

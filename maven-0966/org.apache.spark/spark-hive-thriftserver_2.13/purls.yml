@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.spark/spark-hive-thriftserver_2.13@3.3.2?classifier=sources
 - pkg:maven/org.apache.spark/spark-hive-thriftserver_2.13@3.4.0
 - pkg:maven/org.apache.spark/spark-hive-thriftserver_2.13@3.4.0?classifier=sources
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.13@3.4.1
+- pkg:maven/org.apache.spark/spark-hive-thriftserver_2.13@3.4.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon.awscdk/shield@1.203.0
 - pkg:maven/software.amazon.awscdk/shield@1.203.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/shield@1.204.0
+- pkg:maven/software.amazon.awscdk/shield@1.204.0?classifier=sources

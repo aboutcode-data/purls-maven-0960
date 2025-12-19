@@ -1,0 +1,4 @@
+- pkg:maven/com.solacecoe.spring.cloud.stream.binders/spring-cloud-stream-binder-snowflake-jdbc@1.0.0
+- pkg:maven/com.solacecoe.spring.cloud.stream.binders/spring-cloud-stream-binder-snowflake-jdbc@1.0.0?classifier=sources
+- pkg:maven/com.solacecoe.spring.cloud.stream.binders/spring-cloud-stream-binder-snowflake-jdbc@1.0.1
+- pkg:maven/com.solacecoe.spring.cloud.stream.binders/spring-cloud-stream-binder-snowflake-jdbc@1.0.1?classifier=sources

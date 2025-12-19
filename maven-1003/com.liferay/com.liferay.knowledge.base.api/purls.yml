@@ -82,6 +82,12 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.1.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.2.0
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.3.0
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@20.3.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.1.0
@@ -619,6 +625,12 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.5.9
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.5.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.5.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.6.0
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.6.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.0
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@8.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@8.0.0?classifier=sources-commercial

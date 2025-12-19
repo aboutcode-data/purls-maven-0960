@@ -386,6 +386,10 @@
 - pkg:maven/com.google.cloud/google-cloud-logging@3.14.9?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging@3.15.0
 - pkg:maven/com.google.cloud/google-cloud-logging@3.15.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging@3.15.1
+- pkg:maven/com.google.cloud/google-cloud-logging@3.15.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging@3.15.2
+- pkg:maven/com.google.cloud/google-cloud-logging@3.15.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging@3.2.0
 - pkg:maven/com.google.cloud/google-cloud-logging@3.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging@3.3.0

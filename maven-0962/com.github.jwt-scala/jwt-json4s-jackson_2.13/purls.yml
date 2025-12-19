@@ -44,3 +44,5 @@
 - pkg:maven/com.github.jwt-scala/jwt-json4s-jackson_2.13@9.1.2?classifier=sources
 - pkg:maven/com.github.jwt-scala/jwt-json4s-jackson_2.13@9.2.0
 - pkg:maven/com.github.jwt-scala/jwt-json4s-jackson_2.13@9.2.0?classifier=sources
+- pkg:maven/com.github.jwt-scala/jwt-json4s-jackson_2.13@9.3.0
+- pkg:maven/com.github.jwt-scala/jwt-json4s-jackson_2.13@9.3.0?classifier=sources

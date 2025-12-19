@@ -42,3 +42,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.8.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.8.500
 - pkg:maven/org.eclipse.platform/org.eclipse.compare@3.8.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.compare@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.compare@3.9.0?classifier=sources

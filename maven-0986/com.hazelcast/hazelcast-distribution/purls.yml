@@ -1,6 +1,7 @@
 - pkg:maven/com.hazelcast/hazelcast-distribution@4.2.5?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@4.2.6?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@4.2.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@4.2.8?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.0.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.0.3?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.0.4?classifier=sources
@@ -17,6 +18,8 @@
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.1.4?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.1.5?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.1.5?type=zip
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.1.6?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.1.6?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.1?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.2-BETA-1?classifier=sources
@@ -33,3 +36,5 @@
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.3.0-BETA-1?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.3.0-BETA-2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.3.0-BETA-2?type=zip
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.3.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.3.0?type=zip

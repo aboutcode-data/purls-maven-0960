@@ -40,3 +40,7 @@
 - pkg:maven/io.korandoru.hawkeye/hawkeye-core@2.0.0?classifier=sources
 - pkg:maven/io.korandoru.hawkeye/hawkeye-core@2.1.0
 - pkg:maven/io.korandoru.hawkeye/hawkeye-core@2.1.0?classifier=sources
+- pkg:maven/io.korandoru.hawkeye/hawkeye-core@3.0.0
+- pkg:maven/io.korandoru.hawkeye/hawkeye-core@3.0.0?classifier=sources
+- pkg:maven/io.korandoru.hawkeye/hawkeye-core@3.0.1
+- pkg:maven/io.korandoru.hawkeye/hawkeye-core@3.0.1?classifier=sources

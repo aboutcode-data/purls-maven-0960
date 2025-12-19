@@ -13,3 +13,8 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.59.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.60.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.60.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.61.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.62.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.62.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.63.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-persist-tests@0.64.0?classifier=sources

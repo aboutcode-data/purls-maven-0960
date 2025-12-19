@@ -94,3 +94,5 @@
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@1.0.0-BETA
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@1.0.0-BETA?classifier=sources
 - pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@1.0.0?classifier=sources
+- pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@1.0.1
+- pkg:maven/cn.aradin/aradin-cluster-zookeeper-starter@1.0.1?classifier=sources

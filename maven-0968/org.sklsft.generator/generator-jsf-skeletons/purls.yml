@@ -50,3 +50,5 @@
 - pkg:maven/org.sklsft.generator/generator-jsf-skeletons@4.0.0-M4
 - pkg:maven/org.sklsft.generator/generator-jsf-skeletons@4.0.0-M4?classifier=sources
 - pkg:maven/org.sklsft.generator/generator-jsf-skeletons@4.0.0?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-jsf-skeletons@4.1.0-M1
+- pkg:maven/org.sklsft.generator/generator-jsf-skeletons@4.1.0-M1?classifier=sources

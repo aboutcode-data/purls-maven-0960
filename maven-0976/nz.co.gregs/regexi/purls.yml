@@ -71,3 +71,5 @@
 - pkg:maven/nz.co.gregs/regexi@3.8?classifier=sources
 - pkg:maven/nz.co.gregs/regexi@4.0
 - pkg:maven/nz.co.gregs/regexi@4.0?classifier=sources
+- pkg:maven/nz.co.gregs/regexi@4.2
+- pkg:maven/nz.co.gregs/regexi@4.2?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.bouncycastle/bctls-jdk18on@1.71?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-jdk18on@1.72?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-jdk18on@1.73?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk18on@1.74?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk18on@1.75?classifier=sources

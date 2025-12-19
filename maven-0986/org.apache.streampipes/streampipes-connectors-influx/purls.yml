@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.91.0
 - pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.91.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.92.0
+- pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.92.0?classifier=sources

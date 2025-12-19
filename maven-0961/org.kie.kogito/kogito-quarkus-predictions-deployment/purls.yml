@@ -76,6 +76,10 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.4.1.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.4.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.40.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.40.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.40.1.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.40.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.5.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.5.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-deployment@1.6.0.Final

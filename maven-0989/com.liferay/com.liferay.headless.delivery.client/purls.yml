@@ -401,6 +401,15 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.56
 - pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.57
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.58
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.58?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.59
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.59?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.59?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.delivery.client@4.0.6

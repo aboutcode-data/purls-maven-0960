@@ -16,5 +16,7 @@
 - pkg:maven/org.apache.flink/flink-connector-pulsar@1.16.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-pulsar@3.0.0-1.16
 - pkg:maven/org.apache.flink/flink-connector-pulsar@3.0.0-1.16?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-pulsar@3.0.1-1.16
+- pkg:maven/org.apache.flink/flink-connector-pulsar@3.0.1-1.16?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-pulsar@4.0.0-1.17
 - pkg:maven/org.apache.flink/flink-connector-pulsar@4.0.0-1.17?classifier=sources

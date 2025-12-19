@@ -1,5 +1,11 @@
 - pkg:maven/net.onedaybeard.sift.template/template-core@0.10.0
 - pkg:maven/net.onedaybeard.sift.template/template-core@0.10.0?classifier=sources
+- pkg:maven/net.onedaybeard.sift.template/template-core@0.11.0
+- pkg:maven/net.onedaybeard.sift.template/template-core@0.11.0?classifier=sources
+- pkg:maven/net.onedaybeard.sift.template/template-core@0.12.0
+- pkg:maven/net.onedaybeard.sift.template/template-core@0.12.0?classifier=sources
+- pkg:maven/net.onedaybeard.sift.template/template-core@0.13.0
+- pkg:maven/net.onedaybeard.sift.template/template-core@0.13.0?classifier=sources
 - pkg:maven/net.onedaybeard.sift.template/template-core@0.6.0
 - pkg:maven/net.onedaybeard.sift.template/template-core@0.6.0?classifier=sources
 - pkg:maven/net.onedaybeard.sift.template/template-core@0.7.0

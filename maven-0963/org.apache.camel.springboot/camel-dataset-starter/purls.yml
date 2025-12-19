@@ -44,6 +44,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.14.7?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.14.8
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.14.8?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.14.9
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.14.9?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.15.0
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.16.0
@@ -66,6 +68,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.18.6?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.18.7
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.18.7?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.18.8
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.18.8?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.19.0
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.2.0
@@ -82,6 +86,10 @@
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.20.4?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.20.5
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.20.5?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.20.6
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.20.6?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.21.0
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.3.0
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@3.4.0
@@ -128,3 +136,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@4.0.0-M2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@4.0.0-M3
 - pkg:maven/org.apache.camel.springboot/camel-dataset-starter@4.0.0-M3?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@4.0.0-RC1
+- pkg:maven/org.apache.camel.springboot/camel-dataset-starter@4.0.0-RC1?classifier=sources

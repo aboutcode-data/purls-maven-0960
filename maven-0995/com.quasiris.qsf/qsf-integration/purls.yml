@@ -71,6 +71,10 @@
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.10?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.11
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.11?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-integration@5.12
+- pkg:maven/com.quasiris.qsf/qsf-integration@5.12?classifier=sources
+- pkg:maven/com.quasiris.qsf/qsf-integration@5.13
+- pkg:maven/com.quasiris.qsf/qsf-integration@5.13?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.1?classifier=sources
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.2
 - pkg:maven/com.quasiris.qsf/qsf-integration@5.2?classifier=sources

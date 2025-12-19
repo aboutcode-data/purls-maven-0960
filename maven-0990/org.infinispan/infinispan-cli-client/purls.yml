@@ -184,6 +184,10 @@
 - pkg:maven/org.infinispan/infinispan-cli-client@13.0.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@13.0.16.Final
 - pkg:maven/org.infinispan/infinispan-cli-client@13.0.16.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-client@13.0.17.Final
+- pkg:maven/org.infinispan/infinispan-cli-client@13.0.17.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-client@13.0.18.Final
+- pkg:maven/org.infinispan/infinispan-cli-client@13.0.18.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-cli-client@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@13.0.3.Final
@@ -216,6 +220,10 @@
 - pkg:maven/org.infinispan/infinispan-cli-client@14.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@14.0.1.Final
 - pkg:maven/org.infinispan/infinispan-cli-client@14.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-client@14.0.10.Final
+- pkg:maven/org.infinispan/infinispan-cli-client@14.0.10.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-client@14.0.11.Final
+- pkg:maven/org.infinispan/infinispan-cli-client@14.0.11.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@14.0.2.Final
 - pkg:maven/org.infinispan/infinispan-cli-client@14.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@14.0.3.Final

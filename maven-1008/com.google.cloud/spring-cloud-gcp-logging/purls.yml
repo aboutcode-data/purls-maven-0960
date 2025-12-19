@@ -58,6 +58,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.4.9?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.5.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.5.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.5.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.5.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.5.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@3.5.2?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.0.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.1.0
@@ -74,3 +78,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.2.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.3.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.3.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.3.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.4.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-logging@4.4.0?classifier=sources

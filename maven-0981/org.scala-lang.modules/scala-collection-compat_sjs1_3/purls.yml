@@ -1,5 +1,7 @@
 - pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.10.0
 - pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.10.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.11.0
+- pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.11.0?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.4.4
 - pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.4.4?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-collection-compat_sjs1_3@2.5.0

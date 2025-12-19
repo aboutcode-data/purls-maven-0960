@@ -47,3 +47,5 @@
 - pkg:maven/com.apollographql.apollo3/apollo-api-js@3.7.5?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-api-js@3.8.0?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-api-js@3.8.1?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-api-js@3.8.2?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-api-js@4.0.0-alpha.1?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/io.streamnative/circe-checksum@4.14.7.1_attentive?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.14.7.2-arrowstreet?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.15.4.1_arrowstreet?classifier=sources
+- pkg:maven/io.streamnative/circe-checksum@branch-4.14.7.1_d4?classifier=sources

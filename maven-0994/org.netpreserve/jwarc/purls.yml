@@ -54,6 +54,12 @@
 - pkg:maven/org.netpreserve/jwarc@0.21.0?classifier=sources
 - pkg:maven/org.netpreserve/jwarc@0.22.0
 - pkg:maven/org.netpreserve/jwarc@0.22.0?classifier=sources
+- pkg:maven/org.netpreserve/jwarc@0.23.0
+- pkg:maven/org.netpreserve/jwarc@0.23.0?classifier=sources
+- pkg:maven/org.netpreserve/jwarc@0.23.1
+- pkg:maven/org.netpreserve/jwarc@0.23.1?classifier=sources
+- pkg:maven/org.netpreserve/jwarc@0.24.0
+- pkg:maven/org.netpreserve/jwarc@0.24.0?classifier=sources
 - pkg:maven/org.netpreserve/jwarc@0.3.0
 - pkg:maven/org.netpreserve/jwarc@0.3.0?classifier=sources
 - pkg:maven/org.netpreserve/jwarc@0.4.0

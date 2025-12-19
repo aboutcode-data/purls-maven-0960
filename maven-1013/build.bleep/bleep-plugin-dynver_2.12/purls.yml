@@ -1,3 +1,4 @@
+- pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1
 - pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1-M20
 - pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1-M20?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1-M21
@@ -14,3 +15,6 @@
 - pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1-M26?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1-M27
 - pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1-M27?classifier=sources
+- pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.1?classifier=sources
+- pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.2
+- pkg:maven/build.bleep/bleep-plugin-dynver_2.12@0.0.2?classifier=sources

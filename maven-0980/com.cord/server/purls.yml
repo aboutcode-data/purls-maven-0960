@@ -1,4 +1,5 @@
 - pkg:maven/com.cord/server@0.0.10?classifier=sources
 - pkg:maven/com.cord/server@0.0.11?classifier=sources
+- pkg:maven/com.cord/server@0.0.12?classifier=sources
 - pkg:maven/com.cord/server@0.0.8?classifier=sources
 - pkg:maven/com.cord/server@0.0.9?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/com.typesafe.play/play-json_2.13@2.10.0-RC7?classifier=sources
 - pkg:maven/com.typesafe.play/play-json_2.13@2.10.0-RC8
 - pkg:maven/com.typesafe.play/play-json_2.13@2.10.0-RC8?classifier=sources
+- pkg:maven/com.typesafe.play/play-json_2.13@2.10.0-RC9
+- pkg:maven/com.typesafe.play/play-json_2.13@2.10.0-RC9?classifier=sources
 - pkg:maven/com.typesafe.play/play-json_2.13@2.7.4
 - pkg:maven/com.typesafe.play/play-json_2.13@2.7.4?classifier=sources
 - pkg:maven/com.typesafe.play/play-json_2.13@2.8.0

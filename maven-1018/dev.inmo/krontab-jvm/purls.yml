@@ -22,3 +22,6 @@
 - pkg:maven/dev.inmo/krontab-jvm@0.8.5?classifier=sources
 - pkg:maven/dev.inmo/krontab-jvm@0.9.0?classifier=sources
 - pkg:maven/dev.inmo/krontab-jvm@1.0.0?classifier=sources
+- pkg:maven/dev.inmo/krontab-jvm@2.0.0?classifier=sources
+- pkg:maven/dev.inmo/krontab-jvm@2.1.0?classifier=sources
+- pkg:maven/dev.inmo/krontab-jvm@2.1.1?classifier=sources

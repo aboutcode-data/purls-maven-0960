@@ -44,5 +44,9 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@1.0.0?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.0.0-alpha-01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.0.0-alpha-02?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.0.0-beta-01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.0.0-compose-experimental-alpha-01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.0.0-compose-experimental-alpha-02?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.0.0-compose-experimental-beta-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.1.0-alpha-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains@2.1.0-compose-experimental-alpha-01?classifier=sources

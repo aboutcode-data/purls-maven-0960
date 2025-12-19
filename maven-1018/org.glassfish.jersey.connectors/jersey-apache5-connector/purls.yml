@@ -8,6 +8,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.39.1
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.39.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.39?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.40
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.40?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.10
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.5

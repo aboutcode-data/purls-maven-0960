@@ -70,6 +70,8 @@
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.13.1?type=war
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.14.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.14.0?type=war
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.15.0?classifier=sources
+- pkg:maven/org.jasig.portal/uPortal-webapp@5.15.0?type=war
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.2.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.2.0?type=war
 - pkg:maven/org.jasig.portal/uPortal-webapp@5.2.1?classifier=sources

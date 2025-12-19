@@ -110,6 +110,7 @@
 - pkg:maven/com.boxframework/box-server-services_2.13@1.8.4?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.8.5
 - pkg:maven/com.boxframework/box-server-services_2.13@1.8.5?classifier=sources
+- pkg:maven/com.boxframework/box-server-services_2.13@1.9.0
 - pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M1
 - pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M1?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M2
@@ -118,3 +119,8 @@
 - pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M3?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M4
 - pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M4?classifier=sources
+- pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M5
+- pkg:maven/com.boxframework/box-server-services_2.13@1.9.0-M5?classifier=sources
+- pkg:maven/com.boxframework/box-server-services_2.13@1.9.0?classifier=sources
+- pkg:maven/com.boxframework/box-server-services_2.13@1.9.1
+- pkg:maven/com.boxframework/box-server-services_2.13@1.9.1?classifier=sources

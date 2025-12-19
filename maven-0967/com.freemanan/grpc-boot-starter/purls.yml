@@ -1,3 +1,5 @@
 - pkg:maven/com.freemanan/grpc-boot-starter@2.0.0?classifier=sources
 - pkg:maven/com.freemanan/grpc-boot-starter@2.0?classifier=sources
+- pkg:maven/com.freemanan/grpc-boot-starter@2.1.0-RC1?classifier=sources
 - pkg:maven/com.freemanan/grpc-boot-starter@3.0.0?classifier=sources
+- pkg:maven/com.freemanan/grpc-boot-starter@3.1.0-RC1?classifier=sources

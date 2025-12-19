@@ -54,3 +54,17 @@
 - pkg:maven/io.camunda.connector/connector-sns@0.19.0-rc7
 - pkg:maven/io.camunda.connector/connector-sns@0.19.0-rc7?classifier=sources
 - pkg:maven/io.camunda.connector/connector-sns@0.19.0?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.19.1
+- pkg:maven/io.camunda.connector/connector-sns@0.19.1?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.19.2
+- pkg:maven/io.camunda.connector/connector-sns@0.19.2?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0-alpha1
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0-alpha1?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0-alpha2
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0-alpha2?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0-alpha3
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0-alpha3?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.20.0?classifier=sources
+- pkg:maven/io.camunda.connector/connector-sns@0.20.2
+- pkg:maven/io.camunda.connector/connector-sns@0.20.2?classifier=sources

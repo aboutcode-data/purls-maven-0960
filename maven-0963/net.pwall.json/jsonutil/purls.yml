@@ -16,3 +16,5 @@
 - pkg:maven/net.pwall.json/jsonutil@4.2?classifier=sources
 - pkg:maven/net.pwall.json/jsonutil@5.0
 - pkg:maven/net.pwall.json/jsonutil@5.0?classifier=sources
+- pkg:maven/net.pwall.json/jsonutil@5.1
+- pkg:maven/net.pwall.json/jsonutil@5.1?classifier=sources

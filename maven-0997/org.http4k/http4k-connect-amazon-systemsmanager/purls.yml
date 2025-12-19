@@ -169,6 +169,8 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.41.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.42.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.42.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.43.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.43.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.5.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.6.0.0?classifier=sources
@@ -185,3 +187,5 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.8.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.8.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@3.9.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@5.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-systemsmanager@5.0.1.0?classifier=sources

@@ -125,3 +125,5 @@
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.5
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@6.0.0?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@6.0.1?classifier=sources

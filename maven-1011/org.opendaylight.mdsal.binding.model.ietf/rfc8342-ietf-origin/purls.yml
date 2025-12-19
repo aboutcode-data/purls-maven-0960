@@ -55,6 +55,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@10.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.10?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.11?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.2?classifier=sources
@@ -66,6 +67,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.7?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@11.0.9?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@12.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@2.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8342-ietf-origin@2.0.1

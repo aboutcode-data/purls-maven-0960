@@ -786,6 +786,9 @@
 - pkg:maven/com.liferay/com.liferay.chat.service@5.0.47
 - pkg:maven/com.liferay/com.liferay.chat.service@5.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.chat.service@5.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.chat.service@5.0.48
+- pkg:maven/com.liferay/com.liferay.chat.service@5.0.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.chat.service@5.0.48?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.chat.service@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.chat.service@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.chat.service@5.0.5

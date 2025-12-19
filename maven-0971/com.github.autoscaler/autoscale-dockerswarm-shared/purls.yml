@@ -32,3 +32,5 @@
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.9.1-797?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.9.2-833
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.9.2-833?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@2.0.0-914
+- pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@2.0.0-914?classifier=sources

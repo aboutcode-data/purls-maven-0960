@@ -12,6 +12,7 @@
 - pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1679334948%2B754c1a37?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.11.0-alpha.1679405101%2B9868c068?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.11.0?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.11.1?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1679414469%2Bbda144ad?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1679587144%2Bfeb0ea4a?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1680027524%2B03f8e0ec?classifier=sources
@@ -22,5 +23,14 @@
 - pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1683265455%2B8a784015?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1683351667%2B9dc32f0b?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1683610660%2B5fbb30f9?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1683956242%2B711c7714?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1684215491%2B5de9ee2d?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1685166002%2Bdf5d11a4?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1686075645%2B5ffb08a9?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.12.0-alpha.1686177811%2Bd2c5fa53?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.13.0-alpha.1686289207%2Baee96659?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.13.0-alpha.1686635082%2B27b41d1b?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.13.0-alpha.1687055252%2B4360d581?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.13.0-alpha.1687671684%2B5ca255cb?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.9.0-alpha.1661535806%2Bc5d753e3?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.9.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.hop/hop-ui-rap@2.3.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-ui-rap@2.4.0
 - pkg:maven/org.apache.hop/hop-ui-rap@2.4.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-ui-rap@2.5.0
+- pkg:maven/org.apache.hop/hop-ui-rap@2.5.0?classifier=sources

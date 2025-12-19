@@ -1,3 +1,7 @@
+- pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.10-1.12.3
+- pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.10-1.12.3-RC1
+- pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.10-1.12.3-RC1?classifier=sources
+- pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.10-1.12.3?classifier=sources
 - pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.5
 - pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.5?classifier=sources
 - pkg:maven/com.wavesenterprise/we-grpc-protobuf@1.6

@@ -18,6 +18,8 @@
 - pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.16.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.17.0
 - pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.17.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.17.1
+- pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.17.1?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.6.0
 - pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.6.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-itests-cron@1.7.0

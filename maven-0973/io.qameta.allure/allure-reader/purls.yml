@@ -13,3 +13,5 @@
 - pkg:maven/io.qameta.allure/allure-reader@2.21.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-reader@2.22.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-reader@2.22.1?classifier=sources
+- pkg:maven/io.qameta.allure/allure-reader@2.22.2?classifier=sources
+- pkg:maven/io.qameta.allure/allure-reader@2.23.0?classifier=sources

@@ -84,3 +84,5 @@
 - pkg:maven/io.mongock/mongodb-springdata-v3-driver@5.2.4?classifier=sources
 - pkg:maven/io.mongock/mongodb-springdata-v3-driver@5.3.0
 - pkg:maven/io.mongock/mongodb-springdata-v3-driver@5.3.0?classifier=sources
+- pkg:maven/io.mongock/mongodb-springdata-v3-driver@5.3.1
+- pkg:maven/io.mongock/mongodb-springdata-v3-driver@5.3.1?classifier=sources

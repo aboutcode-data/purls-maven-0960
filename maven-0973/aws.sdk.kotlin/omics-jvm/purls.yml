@@ -16,3 +16,7 @@
 - pkg:maven/aws.sdk.kotlin/omics-jvm@0.22.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/omics-jvm@0.22.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/omics-jvm@0.23.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/omics-jvm@0.24.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/omics-jvm@0.25.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/omics-jvm@0.26.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/omics-jvm@0.26.1-beta?classifier=sources

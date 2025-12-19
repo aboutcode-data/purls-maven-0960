@@ -78,6 +78,10 @@
 - pkg:maven/org.opencastproject/opencast-animate-api@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-api@13.6
 - pkg:maven/org.opencastproject/opencast-animate-api@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-animate-api@13.7
+- pkg:maven/org.opencastproject/opencast-animate-api@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-animate-api@14.0
+- pkg:maven/org.opencastproject/opencast-animate-api@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-api@6.6
 - pkg:maven/org.opencastproject/opencast-animate-api@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-animate-api@7.2

@@ -114,3 +114,5 @@
 - pkg:maven/org.sangria-graphql/sangria_2.12@4.0.0-RC5
 - pkg:maven/org.sangria-graphql/sangria_2.12@4.0.0-RC5?classifier=sources
 - pkg:maven/org.sangria-graphql/sangria_2.12@4.0.0?classifier=sources
+- pkg:maven/org.sangria-graphql/sangria_2.12@4.0.1
+- pkg:maven/org.sangria-graphql/sangria_2.12@4.0.1?classifier=sources

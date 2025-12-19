@@ -38,3 +38,5 @@
 - pkg:maven/org.graalvm.truffle/truffle-nfi-libffi@22.3.1?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-nfi-libffi@22.3.2
 - pkg:maven/org.graalvm.truffle/truffle-nfi-libffi@22.3.2?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-nfi-libffi@23.0.0
+- pkg:maven/org.graalvm.truffle/truffle-nfi-libffi@23.0.0?classifier=sources

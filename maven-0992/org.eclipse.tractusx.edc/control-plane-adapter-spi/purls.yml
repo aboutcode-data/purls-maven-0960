@@ -1,1 +1,4 @@
 - pkg:maven/org.eclipse.tractusx.edc/control-plane-adapter-spi@0.4.1?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/control-plane-adapter-spi@0.5.0-rc1?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/control-plane-adapter-spi@0.5.0-rc2?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/control-plane-adapter-spi@0.5.0-rc3?classifier=sources

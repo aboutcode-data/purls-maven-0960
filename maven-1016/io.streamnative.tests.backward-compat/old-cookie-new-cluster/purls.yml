@@ -12,3 +12,5 @@
 - pkg:maven/io.streamnative.tests.backward-compat/old-cookie-new-cluster@4.14.7.2-arrowstreet?classifier=sources
 - pkg:maven/io.streamnative.tests.backward-compat/old-cookie-new-cluster@4.15.4.1_arrowstreet
 - pkg:maven/io.streamnative.tests.backward-compat/old-cookie-new-cluster@4.15.4.1_arrowstreet?classifier=sources
+- pkg:maven/io.streamnative.tests.backward-compat/old-cookie-new-cluster@branch-4.14.7.1_d4
+- pkg:maven/io.streamnative.tests.backward-compat/old-cookie-new-cluster@branch-4.14.7.1_d4?classifier=sources

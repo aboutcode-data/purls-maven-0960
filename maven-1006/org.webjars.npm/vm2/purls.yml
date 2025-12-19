@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vm2@3.9.11
 - pkg:maven/org.webjars.npm/vm2@3.9.11?classifier=sources
+- pkg:maven/org.webjars.npm/vm2@3.9.19
+- pkg:maven/org.webjars.npm/vm2@3.9.19?classifier=sources

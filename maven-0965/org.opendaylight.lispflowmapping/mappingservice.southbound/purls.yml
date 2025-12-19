@@ -84,6 +84,7 @@
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.16.0?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.16.1?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.16.2?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.16.3?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.17.0?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.17.1?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.southbound@1.2.0-Lithium

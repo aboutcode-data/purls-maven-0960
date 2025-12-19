@@ -13,3 +13,8 @@
 - pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.59.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.60.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.60.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.61.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.62.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.62.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.63.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-tool-inttest@0.64.0?classifier=sources

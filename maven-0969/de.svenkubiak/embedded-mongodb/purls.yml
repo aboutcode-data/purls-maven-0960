@@ -120,3 +120,5 @@
 - pkg:maven/de.svenkubiak/embedded-mongodb@7.0.3?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@7.1.0
 - pkg:maven/de.svenkubiak/embedded-mongodb@7.1.0?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@7.1.1
+- pkg:maven/de.svenkubiak/embedded-mongodb@7.1.1?classifier=sources

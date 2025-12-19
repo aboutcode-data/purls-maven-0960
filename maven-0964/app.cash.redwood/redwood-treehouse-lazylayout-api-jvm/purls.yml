@@ -1,3 +1,4 @@
 - pkg:maven/app.cash.redwood/redwood-treehouse-lazylayout-api-jvm@0.1.0?classifier=sources
+- pkg:maven/app.cash.redwood/redwood-treehouse-lazylayout-api-jvm@0.1.1-test-only?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-treehouse-lazylayout-api-jvm@0.2.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-treehouse-lazylayout-api-jvm@0.2.1?classifier=sources

@@ -76,9 +76,13 @@
 - pkg:maven/io.activej/activej-workers@5.4.3
 - pkg:maven/io.activej/activej-workers@5.4.3?classifier=sources
 - pkg:maven/io.activej/activej-workers@5.4?classifier=sources
+- pkg:maven/io.activej/activej-workers@5.5
 - pkg:maven/io.activej/activej-workers@5.5-rc1
 - pkg:maven/io.activej/activej-workers@5.5-rc1?classifier=sources
 - pkg:maven/io.activej/activej-workers@5.5-rc2
 - pkg:maven/io.activej/activej-workers@5.5-rc2?classifier=sources
 - pkg:maven/io.activej/activej-workers@5.5-rc3
 - pkg:maven/io.activej/activej-workers@5.5-rc3?classifier=sources
+- pkg:maven/io.activej/activej-workers@5.5?classifier=sources
+- pkg:maven/io.activej/activej-workers@6.0-beta1
+- pkg:maven/io.activej/activej-workers@6.0-beta1?classifier=sources

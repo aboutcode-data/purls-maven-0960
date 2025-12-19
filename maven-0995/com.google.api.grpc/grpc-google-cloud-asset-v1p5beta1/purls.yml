@@ -82,6 +82,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.119.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.120.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.120.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.121.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.121.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.122.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.122.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.90.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.90.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-asset-v1p5beta1@0.90.1

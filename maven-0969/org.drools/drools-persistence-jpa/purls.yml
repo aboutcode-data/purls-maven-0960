@@ -382,6 +382,8 @@
 - pkg:maven/org.drools/drools-persistence-jpa@7.72.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@7.73.0.Final
 - pkg:maven/org.drools/drools-persistence-jpa@7.73.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-persistence-jpa@7.74.0.Final
+- pkg:maven/org.drools/drools-persistence-jpa@7.74.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@7.8.0.Final
 - pkg:maven/org.drools/drools-persistence-jpa@7.8.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@7.9.0.Final
@@ -450,3 +452,5 @@
 - pkg:maven/org.drools/drools-persistence-jpa@8.38.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-persistence-jpa@8.39.0.Final
 - pkg:maven/org.drools/drools-persistence-jpa@8.39.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-persistence-jpa@8.40.0.Final
+- pkg:maven/org.drools/drools-persistence-jpa@8.40.0.Final?classifier=sources

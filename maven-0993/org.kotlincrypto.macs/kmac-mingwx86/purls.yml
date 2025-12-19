@@ -1,1 +1,5 @@
 - pkg:maven/org.kotlincrypto.macs/kmac-mingwx86@0.2.4?classifier=sources
+- pkg:maven/org.kotlincrypto.macs/kmac-mingwx86@0.2.5?classifier=sources
+- pkg:maven/org.kotlincrypto.macs/kmac-mingwx86@0.2.6?classifier=sources
+- pkg:maven/org.kotlincrypto.macs/kmac-mingwx86@0.2.7?classifier=sources
+- pkg:maven/org.kotlincrypto.macs/kmac-mingwx86@0.3.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.github.zakiis/zakiis-security@0.0.4?classifier=sources
 - pkg:maven/io.github.zakiis/zakiis-security@0.0.5
 - pkg:maven/io.github.zakiis/zakiis-security@0.0.5?classifier=sources
+- pkg:maven/io.github.zakiis/zakiis-security@1.0.0
+- pkg:maven/io.github.zakiis/zakiis-security@1.0.0?classifier=sources

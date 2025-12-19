@@ -32,6 +32,12 @@
 - pkg:maven/io.sentry/sentry-apollo-3@6.20.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apollo-3@6.21.0
 - pkg:maven/io.sentry/sentry-apollo-3@6.21.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apollo-3@6.22.0
+- pkg:maven/io.sentry/sentry-apollo-3@6.22.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apollo-3@6.23.0
+- pkg:maven/io.sentry/sentry-apollo-3@6.23.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apollo-3@6.24.0
+- pkg:maven/io.sentry/sentry-apollo-3@6.24.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apollo-3@6.3.0
 - pkg:maven/io.sentry/sentry-apollo-3@6.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apollo-3@6.3.1

@@ -1,2 +1,6 @@
 - pkg:maven/com.sparrowzoo/sparrow-json@1.0.0-RELEASE
 - pkg:maven/com.sparrowzoo/sparrow-json@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.sparrowzoo/sparrow-json@1.0.3-RELEASE
+- pkg:maven/com.sparrowzoo/sparrow-json@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.sparrowzoo/sparrow-json@1.0.3.1-RELEASE
+- pkg:maven/com.sparrowzoo/sparrow-json@1.0.3.1-RELEASE?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.teragrep/k8s_01@1.0.3
+- pkg:maven/com.teragrep/k8s_01@1.0.3?classifier=sources
+- pkg:maven/com.teragrep/k8s_01@1.0.7
+- pkg:maven/com.teragrep/k8s_01@1.0.7?classifier=sources
+- pkg:maven/com.teragrep/k8s_01@1.1.0
+- pkg:maven/com.teragrep/k8s_01@1.1.0?classifier=sources
+- pkg:maven/com.teragrep/k8s_01@2.0.0
+- pkg:maven/com.teragrep/k8s_01@2.0.0?classifier=sources
+- pkg:maven/com.teragrep/k8s_01@2.0.2
+- pkg:maven/com.teragrep/k8s_01@2.0.2?classifier=sources

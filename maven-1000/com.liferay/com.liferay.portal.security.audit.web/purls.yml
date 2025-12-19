@@ -31,6 +31,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.0?classifier=sources-commercial
@@ -83,6 +86,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.24
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.25
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.26
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.27
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.3

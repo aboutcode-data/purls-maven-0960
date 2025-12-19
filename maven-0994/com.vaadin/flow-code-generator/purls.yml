@@ -23,6 +23,10 @@
 - pkg:maven/com.vaadin/flow-code-generator@1.0.19?classifier=sources
 - pkg:maven/com.vaadin/flow-code-generator@1.0.1?classifier=sources
 - pkg:maven/com.vaadin/flow-code-generator@1.0.2
+- pkg:maven/com.vaadin/flow-code-generator@1.0.20
+- pkg:maven/com.vaadin/flow-code-generator@1.0.20?classifier=sources
+- pkg:maven/com.vaadin/flow-code-generator@1.0.21
+- pkg:maven/com.vaadin/flow-code-generator@1.0.21?classifier=sources
 - pkg:maven/com.vaadin/flow-code-generator@1.0.2?classifier=sources
 - pkg:maven/com.vaadin/flow-code-generator@1.0.3
 - pkg:maven/com.vaadin/flow-code-generator@1.0.3?classifier=sources

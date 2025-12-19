@@ -1,4 +1,6 @@
 - pkg:maven/za.co.absa.jacoco/org.jacoco.agent.rt@0.8.10
 - pkg:maven/za.co.absa.jacoco/org.jacoco.agent.rt@0.8.10?classifier=sources
+- pkg:maven/za.co.absa.jacoco/org.jacoco.agent.rt@0.8.11
+- pkg:maven/za.co.absa.jacoco/org.jacoco.agent.rt@0.8.11?classifier=sources
 - pkg:maven/za.co.absa.jacoco/org.jacoco.agent.rt@0.8.9
 - pkg:maven/za.co.absa.jacoco/org.jacoco.agent.rt@0.8.9?classifier=sources

@@ -195,6 +195,8 @@
 - pkg:maven/org.neo4j/neo4j-ogm-core@3.2.39?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@3.2.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@3.2.4
+- pkg:maven/org.neo4j/neo4j-ogm-core@3.2.40
+- pkg:maven/org.neo4j/neo4j-ogm-core@3.2.40?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@3.2.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@3.2.5
 - pkg:maven/org.neo4j/neo4j-ogm-core@3.2.5?classifier=sources
