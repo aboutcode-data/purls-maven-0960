@@ -1,3 +1,5 @@
+- pkg:maven/us.fatehi/schemacrawler-trino@16.19.10
+- pkg:maven/us.fatehi/schemacrawler-trino@16.19.10?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-trino@16.19.2
 - pkg:maven/us.fatehi/schemacrawler-trino@16.19.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-trino@16.19.3

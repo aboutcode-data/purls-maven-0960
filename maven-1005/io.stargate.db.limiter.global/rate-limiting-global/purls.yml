@@ -124,9 +124,13 @@
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.73
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.73?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.74
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.74.1
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.74.1?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.74?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.75
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.75?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.76
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.76?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.7?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.8
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@1.0.8?classifier=sources
@@ -187,6 +191,12 @@
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.11?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.12
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.12?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.13
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.13?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.14
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.14?classifier=sources
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.15
+- pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.15?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.1?classifier=sources
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.2
 - pkg:maven/io.stargate.db.limiter.global/rate-limiting-global@2.0.2?classifier=sources

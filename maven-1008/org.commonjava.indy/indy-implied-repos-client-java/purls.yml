@@ -204,3 +204,5 @@
 - pkg:maven/org.commonjava.indy/indy-implied-repos-client-java@3.0.2?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-implied-repos-client-java@3.1.0
 - pkg:maven/org.commonjava.indy/indy-implied-repos-client-java@3.1.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-implied-repos-client-java@3.1.1
+- pkg:maven/org.commonjava.indy/indy-implied-repos-client-java@3.1.1?classifier=sources

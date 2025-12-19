@@ -20,3 +20,5 @@
 - pkg:maven/com.espertech/esper-compiler@8.7.0?classifier=sources
 - pkg:maven/com.espertech/esper-compiler@8.8.0
 - pkg:maven/com.espertech/esper-compiler@8.8.0?classifier=sources
+- pkg:maven/com.espertech/esper-compiler@8.9.0
+- pkg:maven/com.espertech/esper-compiler@8.9.0?classifier=sources

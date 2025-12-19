@@ -141,6 +141,14 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.12
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.12?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.14
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.14?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.15
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.15?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.16
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.16?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.17
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.17?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.1.2?classifier=sources

@@ -5,3 +5,7 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.8.2-RC2?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.8.2-RC3?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.8.2-RC4?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.9.0-RC1?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.9.0?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.9.1?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.9.2?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/net.codingwell/scala-guice_3@5.1.1
 - pkg:maven/net.codingwell/scala-guice_3@5.1.1?classifier=sources
+- pkg:maven/net.codingwell/scala-guice_3@6.0.0
+- pkg:maven/net.codingwell/scala-guice_3@6.0.0?classifier=sources
+- pkg:maven/net.codingwell/scala-guice_3@7.0.0
+- pkg:maven/net.codingwell/scala-guice_3@7.0.0?classifier=sources

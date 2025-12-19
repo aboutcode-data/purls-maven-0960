@@ -3,6 +3,7 @@
 - pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.12?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.13?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.14?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.15?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@5.15.5?classifier=sources
@@ -36,3 +37,4 @@
 - pkg:maven/io.qtjambi/qtjambi-serialbus@6.4.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@6.4.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-serialbus@6.5.0?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-serialbus@6.5.1?classifier=sources

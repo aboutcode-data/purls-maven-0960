@@ -224,6 +224,16 @@
 - pkg:maven/software.amazon.awscdk/lambda-nodejs@1.198.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-nodejs@1.198.1
 - pkg:maven/software.amazon.awscdk/lambda-nodejs@1.198.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.199.0
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.199.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.200.0
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.200.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.201.0
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.201.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.202.0
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.202.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.203.0
+- pkg:maven/software.amazon.awscdk/lambda-nodejs@1.203.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-nodejs@1.23.0
 - pkg:maven/software.amazon.awscdk/lambda-nodejs@1.23.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-nodejs@1.24.0

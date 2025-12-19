@@ -51,6 +51,8 @@
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.0
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.1
+- pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.11
+- pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.2
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@12.2?classifier=sources
@@ -74,6 +76,8 @@
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@13.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@13.4
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@13.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-email-template-service-impl@13.6
+- pkg:maven/org.opencastproject/opencast-email-template-service-impl@13.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@6.6
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-email-template-service-impl@7.2

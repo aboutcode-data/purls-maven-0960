@@ -2,7 +2,9 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.13.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.13.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.13.2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.13.3
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.14.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.15.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@2.16.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@3.0.0-M1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-junit5-extension-tests@3.0.0-M2

@@ -5,6 +5,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.06.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.06.3
 - pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.06.3?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.06.4
+- pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.06.4?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.06?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.09
 - pkg:maven/com.oracle.coherence.ce/coherence-helidon-grpc@22.09?classifier=sources

@@ -145,6 +145,9 @@
 - pkg:maven/com.liferay/com.liferay.segments.api@13.0.0
 - pkg:maven/com.liferay/com.liferay.segments.api@13.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.api@13.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.segments.api@14.0.0
+- pkg:maven/com.liferay/com.liferay.segments.api@14.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.api@14.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.segments.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.api@2.0.0?classifier=sources-commercial

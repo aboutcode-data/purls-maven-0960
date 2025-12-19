@@ -19,6 +19,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@4.7.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@5.0.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@5.0.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@5.1.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@6.0.0-beta.2
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@6.0.0-beta.2?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-cosmos@6.0.0-beta.3

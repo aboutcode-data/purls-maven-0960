@@ -112,3 +112,5 @@
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@2.0.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@2.1.0
 - pkg:maven/io.smallrye.reactive/mutiny-test-utils@2.1.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@2.2.0
+- pkg:maven/io.smallrye.reactive/mutiny-test-utils@2.2.0?classifier=sources

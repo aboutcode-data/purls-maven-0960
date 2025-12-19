@@ -30,6 +30,9 @@
 - pkg:maven/io.embrace/embrace-android-volley@5.1.0-beta02?type=aar
 - pkg:maven/io.embrace/embrace-android-volley@5.1.0-beta3?type=aar
 - pkg:maven/io.embrace/embrace-android-volley@5.1.0?type=aar
+- pkg:maven/io.embrace/embrace-android-volley@5.17.1?classifier=sources
+- pkg:maven/io.embrace/embrace-android-volley@5.18.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-volley@5.18.1?classifier=sources
 - pkg:maven/io.embrace/embrace-android-volley@5.2.0-beta01?type=aar
 - pkg:maven/io.embrace/embrace-android-volley@5.2.0-beta02?type=aar
 - pkg:maven/io.embrace/embrace-android-volley@5.2.0?type=aar

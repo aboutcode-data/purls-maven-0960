@@ -12,6 +12,10 @@
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.1.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.10.release
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.10.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.11.release
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.11.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.12.release
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.12.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.2.release
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@22.12.3.release
@@ -39,3 +43,7 @@
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230301-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230310-01
 - pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230310-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230503-01
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230503-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230515-02
+- pkg:maven/org.faktorips/faktorips-abstraction-plainjava@23.6.0.a20230515-02?classifier=sources

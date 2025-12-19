@@ -57,4 +57,8 @@
 - pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-beta2?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-beta3?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-beta?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-rc2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-rc3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-rc4?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-rc5?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korim/korim-linuxx64@4.0.0-rc?classifier=sources

@@ -6,5 +6,9 @@
 - pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.5.1-iterable?classifier=sources
 - pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.7.1-arrowstreet
 - pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.7.1-arrowstreet?classifier=sources
+- pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.7.1_attentive
+- pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.7.1_attentive?classifier=sources
 - pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.7.2-arrowstreet
 - pkg:maven/io.streamnative/stream-storage-java-client-base@4.14.7.2-arrowstreet?classifier=sources
+- pkg:maven/io.streamnative/stream-storage-java-client-base@4.15.4.1_arrowstreet
+- pkg:maven/io.streamnative/stream-storage-java-client-base@4.15.4.1_arrowstreet?classifier=sources

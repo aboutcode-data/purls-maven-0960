@@ -192,3 +192,13 @@
 - pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.7.2?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.8.0
 - pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.8.0?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.8.1
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.8.1?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0-M1
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0-M1?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0-M2
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0-M2?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0-RC3
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0-RC3?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-classpath_2.12@1.9.0?classifier=sources

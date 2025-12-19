@@ -72,8 +72,17 @@
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.0-rc4?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.0?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.1-rc1?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc10?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc11?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc1?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc2?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc3?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc4?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc6?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc7?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc8?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.2-rc9?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.3-rc1?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.3-rc2?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr_2.12@1.0.3-rc3?classifier=sources
 - pkg:maven/com.linkedin.feathr/feathr_2.12@v0.10.3-rc5?classifier=sources

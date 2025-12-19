@@ -1,5 +1,9 @@
 - pkg:maven/software.tnb/system-x-fhir@0.0.10
 - pkg:maven/software.tnb/system-x-fhir@0.0.10?classifier=sources
+- pkg:maven/software.tnb/system-x-fhir@0.0.11
+- pkg:maven/software.tnb/system-x-fhir@0.0.11?classifier=sources
+- pkg:maven/software.tnb/system-x-fhir@0.0.12
+- pkg:maven/software.tnb/system-x-fhir@0.0.12?classifier=sources
 - pkg:maven/software.tnb/system-x-fhir@0.0.3
 - pkg:maven/software.tnb/system-x-fhir@0.0.3?classifier=sources
 - pkg:maven/software.tnb/system-x-fhir@0.0.4

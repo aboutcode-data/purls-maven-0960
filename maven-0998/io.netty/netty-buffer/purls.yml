@@ -368,6 +368,10 @@
 - pkg:maven/io.netty/netty-buffer@4.1.90.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.91.Final
 - pkg:maven/io.netty/netty-buffer@4.1.91.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.92.Final
+- pkg:maven/io.netty/netty-buffer@4.1.92.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.93.Final
+- pkg:maven/io.netty/netty-buffer@4.1.93.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@5.0.0.Alpha1
 - pkg:maven/io.netty/netty-buffer@5.0.0.Alpha1?classifier=sources
 - pkg:maven/io.netty/netty-buffer@5.0.0.Alpha2

@@ -1,4 +1,6 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-deeplearning-dataset-jvm@0.5.0-alpha-2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-deeplearning-dataset-jvm@0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-deeplearning-dataset-jvm@0.5.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-deeplearning-dataset-jvm@0.5.2-alpha-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-deeplearning-dataset-jvm@0.5.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-deeplearning-dataset-jvm@0.6.0-alpha-1?classifier=sources

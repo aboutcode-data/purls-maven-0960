@@ -25,4 +25,6 @@
 - pkg:maven/com.assertthat.plugins/assertthat-bdd-maven-plugin@1.6.7-WF?classifier=sources
 - pkg:maven/com.assertthat.plugins/assertthat-bdd-maven-plugin@1.6.8-WF
 - pkg:maven/com.assertthat.plugins/assertthat-bdd-maven-plugin@1.6.8-WF?classifier=sources
+- pkg:maven/com.assertthat.plugins/assertthat-bdd-maven-plugin@1.6.9
+- pkg:maven/com.assertthat.plugins/assertthat-bdd-maven-plugin@1.6.9?classifier=sources
 - pkg:maven/com.assertthat.plugins/assertthat-bdd-maven-plugin@1.6?classifier=sources

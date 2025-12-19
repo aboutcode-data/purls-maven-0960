@@ -72,3 +72,9 @@
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@291-beta?classifier=sources
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@291-gamma
 - pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@291-gamma?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@294
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@295
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@300
+- pkg:maven/org.alluxio/alluxio-table-server-underdb-glue@300?classifier=sources

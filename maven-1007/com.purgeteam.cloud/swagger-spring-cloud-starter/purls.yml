@@ -1,2 +1,4 @@
 - pkg:maven/com.purgeteam.cloud/swagger-spring-cloud-starter@0.3.11.RELEASE
 - pkg:maven/com.purgeteam.cloud/swagger-spring-cloud-starter@0.3.11.RELEASE?classifier=sources
+- pkg:maven/com.purgeteam.cloud/swagger-spring-cloud-starter@0.4.0.RELEASE
+- pkg:maven/com.purgeteam.cloud/swagger-spring-cloud-starter@0.4.0.RELEASE?classifier=sources

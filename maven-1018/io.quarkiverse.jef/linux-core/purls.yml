@@ -4,3 +4,5 @@
 - pkg:maven/io.quarkiverse.jef/linux-core@0.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.jef/linux-core@3.0.0
 - pkg:maven/io.quarkiverse.jef/linux-core@3.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.jef/linux-core@3.0.1
+- pkg:maven/io.quarkiverse.jef/linux-core@3.0.1?classifier=sources

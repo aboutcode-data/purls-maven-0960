@@ -58,6 +58,8 @@
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.35.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.36.0
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.36.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.37.0
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.37.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.4.0
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.4.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.5.0
@@ -70,3 +72,9 @@
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.8.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.9.0
 - pkg:maven/io.liftwizard/liftwizard-clock-incrementing@0.9.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@1.0.0
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@1.0.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@1.0.1
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@1.0.1?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@2.0.0
+- pkg:maven/io.liftwizard/liftwizard-clock-incrementing@2.0.0?classifier=sources

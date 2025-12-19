@@ -274,6 +274,8 @@
 - pkg:maven/io.quarkus/quarkus-spring-di@2.13.6.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@2.13.7.Final
 - pkg:maven/io.quarkus/quarkus-spring-di@2.13.7.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@2.13.8.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@2.13.8.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@2.14.0.CR1
 - pkg:maven/io.quarkus/quarkus-spring-di@2.14.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@2.14.0.Final
@@ -310,6 +312,8 @@
 - pkg:maven/io.quarkus/quarkus-spring-di@2.16.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@2.16.6.Final
 - pkg:maven/io.quarkus/quarkus-spring-di@2.16.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@2.16.7.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@2.16.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@2.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-spring-di@2.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@2.2.0.Final
@@ -416,3 +420,15 @@
 - pkg:maven/io.quarkus/quarkus-spring-di@3.0.0.CR2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-di@3.0.0.Final
 - pkg:maven/io.quarkus/quarkus-spring-di@3.0.0.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.1.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.2.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.3.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.3.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.4.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@3.0.4.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@3.1.0.CR1
+- pkg:maven/io.quarkus/quarkus-spring-di@3.1.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-di@3.1.0.Final
+- pkg:maven/io.quarkus/quarkus-spring-di@3.1.0.Final?classifier=sources

@@ -70,3 +70,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shop.by.diagram.api@7.4.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shop.by.diagram.api@7.4.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shop.by.diagram.api@7.4.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shop.by.diagram.api@8.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shop.by.diagram.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shop.by.diagram.api@8.0.0?classifier=sources-commercial

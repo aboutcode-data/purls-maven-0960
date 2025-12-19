@@ -10,5 +10,7 @@
 - pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.14.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.15.0
 - pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.15.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.16.0
+- pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.16.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.9.0
 - pkg:maven/org.apache.skywalking/apm-pulsar-2.2-2.7-plugin@8.9.0?classifier=sources

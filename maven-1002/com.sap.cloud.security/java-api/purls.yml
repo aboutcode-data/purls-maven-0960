@@ -126,3 +126,5 @@
 - pkg:maven/com.sap.cloud.security/java-api@2.8.9?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-api@2.9.0
 - pkg:maven/com.sap.cloud.security/java-api@2.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-api@3.0.0
+- pkg:maven/com.sap.cloud.security/java-api@3.0.0?classifier=sources

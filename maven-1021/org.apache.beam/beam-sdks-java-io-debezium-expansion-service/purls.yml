@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-debezium-expansion-service@2.44.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-debezium-expansion-service@2.45.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-debezium-expansion-service@2.46.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-debezium-expansion-service@2.47.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-debezium-expansion-service@2.48.0?classifier=sources

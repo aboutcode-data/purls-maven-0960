@@ -116,6 +116,10 @@
 - pkg:maven/org.casbin/jcasbin@1.32.2?classifier=sources
 - pkg:maven/org.casbin/jcasbin@1.32.3
 - pkg:maven/org.casbin/jcasbin@1.32.3?classifier=sources
+- pkg:maven/org.casbin/jcasbin@1.32.4
+- pkg:maven/org.casbin/jcasbin@1.32.4?classifier=sources
+- pkg:maven/org.casbin/jcasbin@1.33.0
+- pkg:maven/org.casbin/jcasbin@1.33.0?classifier=sources
 - pkg:maven/org.casbin/jcasbin@1.4.0
 - pkg:maven/org.casbin/jcasbin@1.4.0?classifier=sources
 - pkg:maven/org.casbin/jcasbin@1.5.0

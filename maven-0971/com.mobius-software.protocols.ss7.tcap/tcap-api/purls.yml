@@ -25,6 +25,8 @@
 - pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.20?classifier=sources
 - pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.24
 - pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.24?classifier=sources
+- pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.25
+- pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.25?classifier=sources
 - pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.2?classifier=sources
 - pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.3
 - pkg:maven/com.mobius-software.protocols.ss7.tcap/tcap-api@10.0.3?classifier=sources

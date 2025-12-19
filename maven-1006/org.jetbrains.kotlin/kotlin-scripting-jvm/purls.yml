@@ -160,3 +160,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.8.20-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.8.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.8.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.8.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.8.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.9.0-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-jvm@1.9.0-Beta?classifier=sources

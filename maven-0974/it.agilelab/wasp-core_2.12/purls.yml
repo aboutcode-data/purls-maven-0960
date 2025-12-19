@@ -28,3 +28,7 @@
 - pkg:maven/it.agilelab/wasp-core_2.12@2.31.0-emr212
 - pkg:maven/it.agilelab/wasp-core_2.12@2.31.0-emr212?classifier=sources
 - pkg:maven/it.agilelab/wasp-core_2.12@2.31.0?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.31.1
+- pkg:maven/it.agilelab/wasp-core_2.12@2.31.1-emr212
+- pkg:maven/it.agilelab/wasp-core_2.12@2.31.1-emr212?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.31.1?classifier=sources

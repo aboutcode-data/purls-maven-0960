@@ -56,6 +56,7 @@
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.1.RC2
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.1.RC2?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.1?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2.B1
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2.B1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2.M1
@@ -68,3 +69,4 @@
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2.RC1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2.RC2
 - pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2.RC2?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-lifecycle@4.2?classifier=sources

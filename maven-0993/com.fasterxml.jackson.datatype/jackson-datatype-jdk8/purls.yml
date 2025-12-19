@@ -52,9 +52,11 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.14.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.14.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.14.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.14.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.15.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.15.0-rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.15.0-rc3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.15.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.4.3
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.4.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.4.4

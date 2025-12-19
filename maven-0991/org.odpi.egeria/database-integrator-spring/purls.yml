@@ -43,3 +43,4 @@
 - pkg:maven/org.odpi.egeria/database-integrator-spring@3.9
 - pkg:maven/org.odpi.egeria/database-integrator-spring@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/database-integrator-spring@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/database-integrator-spring@4.1?classifier=sources

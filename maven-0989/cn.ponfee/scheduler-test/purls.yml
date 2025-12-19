@@ -1,5 +1,7 @@
 - pkg:maven/cn.ponfee/scheduler-test@1.10
 - pkg:maven/cn.ponfee/scheduler-test@1.10?classifier=sources
+- pkg:maven/cn.ponfee/scheduler-test@1.11
+- pkg:maven/cn.ponfee/scheduler-test@1.11?classifier=sources
 - pkg:maven/cn.ponfee/scheduler-test@1.7
 - pkg:maven/cn.ponfee/scheduler-test@1.7?classifier=sources
 - pkg:maven/cn.ponfee/scheduler-test@1.8

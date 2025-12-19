@@ -135,6 +135,12 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.20?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.21
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.21?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.22
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.22?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.23
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.23?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.24
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.24?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.2?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.3
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.18.3?classifier=sources
@@ -155,6 +161,10 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.10?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.11
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.11?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.12
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.12?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.13
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.13?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.2
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.19.2?classifier=sources
@@ -184,6 +194,12 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.4?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.5
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.5?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.6
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.6?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.7
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.7?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.8
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.20.8?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.5.25
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.5.25?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-policy@3.5.26

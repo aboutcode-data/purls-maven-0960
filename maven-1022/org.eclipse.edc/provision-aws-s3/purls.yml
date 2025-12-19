@@ -1,2 +1,5 @@
+- pkg:maven/org.eclipse.edc/provision-aws-s3@0.0.1-20230220.patch1?classifier=sources
 - pkg:maven/org.eclipse.edc/provision-aws-s3@0.0.1-milestone-7?classifier=sources
 - pkg:maven/org.eclipse.edc/provision-aws-s3@0.0.1-milestone-8?classifier=sources
+- pkg:maven/org.eclipse.edc/provision-aws-s3@0.0.1-milestone-9?classifier=sources
+- pkg:maven/org.eclipse.edc/provision-aws-s3@0.1.0?classifier=sources

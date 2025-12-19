@@ -5,6 +5,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-11?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-12
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-12?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-13
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-13?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-2
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-2?classifier=sources
@@ -65,6 +67,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.3
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.3?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@22.06.4
+- pkg:maven/com.oracle.coherence.ce/coherence@22.06.4?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@22.09
 - pkg:maven/com.oracle.coherence.ce/coherence@22.09?classifier=sources

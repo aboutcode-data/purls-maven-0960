@@ -224,6 +224,16 @@
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.198.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.198.1
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.198.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.199.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.199.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.200.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.200.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.201.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.201.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.202.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.202.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.203.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.203.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.81.0
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.81.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-awscli@1.82.0

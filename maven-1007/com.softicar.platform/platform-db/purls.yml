@@ -32,3 +32,5 @@
 - pkg:maven/com.softicar.platform/platform-db@40.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db@40.0.1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-db@41.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db@41.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-db@42.0.0?classifier=sources

@@ -81,9 +81,13 @@
 - pkg:maven/io.stargate.grpc/grpc@1.0.73
 - pkg:maven/io.stargate.grpc/grpc@1.0.73?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@1.0.74
+- pkg:maven/io.stargate.grpc/grpc@1.0.74.1
+- pkg:maven/io.stargate.grpc/grpc@1.0.74.1?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@1.0.74?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@1.0.75
 - pkg:maven/io.stargate.grpc/grpc@1.0.75?classifier=sources
+- pkg:maven/io.stargate.grpc/grpc@1.0.76
+- pkg:maven/io.stargate.grpc/grpc@1.0.76?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.0.0
 - pkg:maven/io.stargate.grpc/grpc@2.0.0-ALPHA-1
 - pkg:maven/io.stargate.grpc/grpc@2.0.0-ALPHA-10
@@ -139,6 +143,12 @@
 - pkg:maven/io.stargate.grpc/grpc@2.0.11?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.0.12
 - pkg:maven/io.stargate.grpc/grpc@2.0.12?classifier=sources
+- pkg:maven/io.stargate.grpc/grpc@2.0.13
+- pkg:maven/io.stargate.grpc/grpc@2.0.13?classifier=sources
+- pkg:maven/io.stargate.grpc/grpc@2.0.14
+- pkg:maven/io.stargate.grpc/grpc@2.0.14?classifier=sources
+- pkg:maven/io.stargate.grpc/grpc@2.0.15
+- pkg:maven/io.stargate.grpc/grpc@2.0.15?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.0.1?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.0.2
 - pkg:maven/io.stargate.grpc/grpc@2.0.2?classifier=sources

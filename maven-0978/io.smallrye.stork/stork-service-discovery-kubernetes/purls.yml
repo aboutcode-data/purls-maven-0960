@@ -28,3 +28,5 @@
 - pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@2.0.1?classifier=sources
 - pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@2.1.0
 - pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@2.1.0?classifier=sources
+- pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@2.2.0
+- pkg:maven/io.smallrye.stork/stork-service-discovery-kubernetes@2.2.0?classifier=sources

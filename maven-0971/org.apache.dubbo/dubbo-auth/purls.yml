@@ -24,6 +24,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-auth@2.7.21?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@2.7.22
 - pkg:maven/org.apache.dubbo/dubbo-auth@2.7.22?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-auth@2.7.23
+- pkg:maven/org.apache.dubbo/dubbo-auth@2.7.23?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@2.7.6
 - pkg:maven/org.apache.dubbo/dubbo-auth@2.7.6?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@2.7.7
@@ -47,6 +49,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.0.13?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.0.14
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.0.14?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.0.15
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.0.15?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.0.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.0.2
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.0.2.1
@@ -69,6 +73,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.1.0
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.1.0?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.1.1
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.1.10
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.1.10?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.1.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.1.2
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.1.2?classifier=sources
@@ -100,3 +106,7 @@
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.2.0-beta.6
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.2.0-beta.6?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-auth@3.2.0?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.2.1
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.2.1?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.2.2
+- pkg:maven/org.apache.dubbo/dubbo-auth@3.2.2?classifier=sources

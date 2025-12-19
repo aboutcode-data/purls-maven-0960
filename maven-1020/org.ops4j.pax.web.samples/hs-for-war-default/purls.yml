@@ -10,6 +10,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.18?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.19
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.19?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.20
+- pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@8.0.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.4
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.4?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.5
@@ -20,3 +22,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.8
 - pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.9
+- pkg:maven/org.ops4j.pax.web.samples/hs-for-war-default@9.0.9?classifier=sources

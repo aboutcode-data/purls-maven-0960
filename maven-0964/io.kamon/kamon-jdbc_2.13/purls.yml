@@ -100,3 +100,5 @@
 - pkg:maven/io.kamon/kamon-jdbc_2.13@2.5.9?classifier=sources
 - pkg:maven/io.kamon/kamon-jdbc_2.13@2.6.0
 - pkg:maven/io.kamon/kamon-jdbc_2.13@2.6.0?classifier=sources
+- pkg:maven/io.kamon/kamon-jdbc_2.13@2.6.1
+- pkg:maven/io.kamon/kamon-jdbc_2.13@2.6.1?classifier=sources

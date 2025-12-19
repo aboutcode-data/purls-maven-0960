@@ -18,3 +18,5 @@
 - pkg:maven/io.github.lsd-consulting/lsd-cucumber@2.0.3?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-cucumber@2.0.4?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-cucumber@2.1.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-cucumber@3.0.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-cucumber@4.0.0?classifier=sources

@@ -44,6 +44,8 @@
 - pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.0.3?classifier=sources
 - pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.0.4
 - pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.0.4?classifier=sources
+- pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.0.5
+- pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.0.5?classifier=sources
 - pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.03
 - pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@23.0.03?classifier=sources
 - pkg:maven/dev.zio/zio-interop-cats_sjs1_2.13@3.0.2.0

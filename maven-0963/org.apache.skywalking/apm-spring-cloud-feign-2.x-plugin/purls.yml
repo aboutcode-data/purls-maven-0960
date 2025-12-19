@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.14.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.15.0
 - pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.15.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.16.0
+- pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.16.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.2.0
 - pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.2.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-spring-cloud-feign-2.x-plugin@8.3.0

@@ -195,6 +195,8 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.19?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.2
+- pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.20
+- pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@8.0.3?classifier=sources
@@ -228,3 +230,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@9.0.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@9.0.8
 - pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@9.0.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@9.0.9
+- pkg:maven/org.ops4j.pax.web/pax-web-resources-jsf@9.0.9?classifier=sources

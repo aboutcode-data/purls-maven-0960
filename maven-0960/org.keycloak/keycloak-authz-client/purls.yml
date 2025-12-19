@@ -112,6 +112,10 @@
 - pkg:maven/org.keycloak/keycloak-authz-client@21.0.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-authz-client@21.0.2
 - pkg:maven/org.keycloak/keycloak-authz-client@21.0.2?classifier=sources
+- pkg:maven/org.keycloak/keycloak-authz-client@21.1.0
+- pkg:maven/org.keycloak/keycloak-authz-client@21.1.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-authz-client@21.1.1
+- pkg:maven/org.keycloak/keycloak-authz-client@21.1.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-authz-client@3.0.0.CR1
 - pkg:maven/org.keycloak/keycloak-authz-client@3.0.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-authz-client@3.0.0.Final

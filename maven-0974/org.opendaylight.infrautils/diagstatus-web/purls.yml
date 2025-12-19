@@ -116,7 +116,12 @@
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@4.0.4?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@4.0.5
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@4.0.5?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@4.0.6
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@4.0.6?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.0?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.1?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.2?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.3?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.4?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.5
+- pkg:maven/org.opendaylight.infrautils/diagstatus-web@5.0.5?classifier=sources

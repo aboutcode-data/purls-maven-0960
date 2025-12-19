@@ -64,9 +64,13 @@
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@3.3.3?classifier=sources
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0%2C0-M2
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0%2C0-M2?classifier=sources
+- pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0-M1
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0-M1?classifier=sources
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0-M3
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0-M3?classifier=sources
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0-M4
 - pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0-M4?classifier=sources
+- pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.0?classifier=sources
+- pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.1
+- pkg:maven/org.togglz.benchmark/togglz-benchmarks@4.0.1?classifier=sources

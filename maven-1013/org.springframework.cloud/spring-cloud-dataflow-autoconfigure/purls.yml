@@ -18,6 +18,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.10.1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.10.2
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.10.2?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.10.3
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.10.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-autoconfigure@2.2.1.RELEASE

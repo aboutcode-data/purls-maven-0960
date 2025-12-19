@@ -1,2 +1,4 @@
 - pkg:maven/com.lightbend.akka/akka-projection-durable-state_3@1.4.0-M3
 - pkg:maven/com.lightbend.akka/akka-projection-durable-state_3@1.4.0-M3?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-projection-durable-state_3@1.4.0-M4
+- pkg:maven/com.lightbend.akka/akka-projection-durable-state_3@1.4.0-M4?classifier=sources

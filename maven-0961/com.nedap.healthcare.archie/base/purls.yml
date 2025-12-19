@@ -107,3 +107,5 @@
 - pkg:maven/com.nedap.healthcare.archie/base@2.1.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/base@3.0.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/base@3.1.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/base@3.2.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/base@3.3.0?classifier=sources

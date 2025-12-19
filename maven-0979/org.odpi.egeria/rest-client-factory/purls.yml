@@ -73,3 +73,4 @@
 - pkg:maven/org.odpi.egeria/rest-client-factory@3.9
 - pkg:maven/org.odpi.egeria/rest-client-factory@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/rest-client-factory@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/rest-client-factory@4.1?classifier=sources

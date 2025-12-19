@@ -21,6 +21,8 @@
 - pkg:maven/dev.zio/zio-opentelemetry_3@2.0.3
 - pkg:maven/dev.zio/zio-opentelemetry_3@2.0.3?classifier=sources
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC1
+- pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC10
+- pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC10?classifier=sources
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC1?classifier=sources
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC2
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC2?classifier=sources
@@ -32,3 +34,7 @@
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC6?classifier=sources
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC7
 - pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC7?classifier=sources
+- pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC8
+- pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC8?classifier=sources
+- pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC9
+- pkg:maven/dev.zio/zio-opentelemetry_3@3.0.0-RC9?classifier=sources

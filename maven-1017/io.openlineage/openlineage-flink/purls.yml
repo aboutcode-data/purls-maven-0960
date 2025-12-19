@@ -2,3 +2,7 @@
 - pkg:maven/io.openlineage/openlineage-flink@0.20.6?classifier=sources
 - pkg:maven/io.openlineage/openlineage-flink@0.21.1?classifier=sources
 - pkg:maven/io.openlineage/openlineage-flink@0.22.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-flink@0.23.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-flink@0.24.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-flink@0.25.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-flink@0.26.0?classifier=sources

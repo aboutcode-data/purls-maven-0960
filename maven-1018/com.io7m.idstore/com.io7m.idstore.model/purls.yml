@@ -1,4 +1,14 @@
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.1
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.10
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.10?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.11
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.11?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.12
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.12?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.13
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.13?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.14
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.14?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.1?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.2
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@0.0.2?classifier=sources

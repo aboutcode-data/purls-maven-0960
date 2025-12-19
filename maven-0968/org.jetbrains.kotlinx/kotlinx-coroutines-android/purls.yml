@@ -145,3 +145,6 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.6.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.6.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.7.0-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.7.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-android@1.7.1?classifier=sources

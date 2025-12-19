@@ -2,3 +2,5 @@
 - pkg:maven/com.sksamuel.cohort/cohort-mongo@1.7.1?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-mongo@1.7.2?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-mongo@1.7.3?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-mongo@2.0.0?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-mongo@2.0.1?classifier=sources

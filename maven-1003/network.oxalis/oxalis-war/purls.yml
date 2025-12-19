@@ -32,5 +32,7 @@
 - pkg:maven/network.oxalis/oxalis-war@5.5.0?type=war
 - pkg:maven/network.oxalis/oxalis-war@6.0.0-RC2?classifier=sources
 - pkg:maven/network.oxalis/oxalis-war@6.0.0-RC2?type=war
+- pkg:maven/network.oxalis/oxalis-war@6.0.0-RC3?classifier=sources
+- pkg:maven/network.oxalis/oxalis-war@6.0.0-RC3?type=war
 - pkg:maven/network.oxalis/oxalis-war@6.0.0.RC1?classifier=sources
 - pkg:maven/network.oxalis/oxalis-war@6.0.0.RC1?type=war

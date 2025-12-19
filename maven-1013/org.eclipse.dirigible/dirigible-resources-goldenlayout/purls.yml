@@ -308,6 +308,10 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.15
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.15?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.16
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.16.1
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.16.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.16.2
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.16.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.16?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.18
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-goldenlayout@6.3.18?classifier=sources

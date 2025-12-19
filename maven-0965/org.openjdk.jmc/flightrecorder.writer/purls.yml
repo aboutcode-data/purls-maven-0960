@@ -8,3 +8,5 @@
 - pkg:maven/org.openjdk.jmc/flightrecorder.writer@8.2.1?classifier=sources
 - pkg:maven/org.openjdk.jmc/flightrecorder.writer@8.3.0
 - pkg:maven/org.openjdk.jmc/flightrecorder.writer@8.3.0?classifier=sources
+- pkg:maven/org.openjdk.jmc/flightrecorder.writer@8.3.1
+- pkg:maven/org.openjdk.jmc/flightrecorder.writer@8.3.1?classifier=sources

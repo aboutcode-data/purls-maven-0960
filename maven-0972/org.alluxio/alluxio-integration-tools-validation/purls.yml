@@ -74,3 +74,9 @@
 - pkg:maven/org.alluxio/alluxio-integration-tools-validation@291-beta?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-tools-validation@291-gamma
 - pkg:maven/org.alluxio/alluxio-integration-tools-validation@291-gamma?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-tools-validation@294
+- pkg:maven/org.alluxio/alluxio-integration-tools-validation@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-tools-validation@295
+- pkg:maven/org.alluxio/alluxio-integration-tools-validation@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-tools-validation@300
+- pkg:maven/org.alluxio/alluxio-integration-tools-validation@300?classifier=sources

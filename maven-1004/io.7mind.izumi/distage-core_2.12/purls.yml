@@ -243,6 +243,8 @@
 - pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M2
 - pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M20
 - pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M20?classifier=sources
+- pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M21
+- pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M21?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M2?classifier=sources
 - pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M3
 - pkg:maven/io.7mind.izumi/distage-core_2.12@1.1.0-M3?classifier=sources

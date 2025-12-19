@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.edc/identity-hub-client@%24%7BVERSION%7D?classifier=sources
 - pkg:maven/org.eclipse.edc/identity-hub-client@0.0.1-milestone-8?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-client@0.0.1-milestone-9?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-client@0.1.0?classifier=sources

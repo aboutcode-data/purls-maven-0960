@@ -34,6 +34,12 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.1-2021.0.6?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.1-2022.0.1
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.1-2022.0.1?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2020.0.6
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2020.0.6?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2021.0.6
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2021.0.6?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2022.0.1
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.11.2-2022.0.1?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.2.0-2020.0.5
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.2.0-2020.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.2.0-Greenwich
@@ -84,6 +90,8 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.5.3-Greenwich.SR6?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.5.3-Hoxton.SR9
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.5.3-Hoxton.SR9?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.5.4-Greenwich.SR6
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.5.4-Greenwich.SR6?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.6.0-2020.0.5
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.6.0-2020.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.6.0-2021.0.3

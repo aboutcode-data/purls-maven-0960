@@ -14,3 +14,5 @@
 - pkg:maven/org.kitei.internal/kitei-rules@7?classifier=sources
 - pkg:maven/org.kitei.internal/kitei-rules@8
 - pkg:maven/org.kitei.internal/kitei-rules@8?classifier=sources
+- pkg:maven/org.kitei.internal/kitei-rules@9
+- pkg:maven/org.kitei.internal/kitei-rules@9?classifier=sources

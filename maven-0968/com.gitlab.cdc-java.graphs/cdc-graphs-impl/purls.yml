@@ -42,3 +42,5 @@
 - pkg:maven/com.gitlab.cdc-java.graphs/cdc-graphs-impl@0.64.4?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.graphs/cdc-graphs-impl@0.64.5
 - pkg:maven/com.gitlab.cdc-java.graphs/cdc-graphs-impl@0.64.5?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.graphs/cdc-graphs-impl@0.65.0
+- pkg:maven/com.gitlab.cdc-java.graphs/cdc-graphs-impl@0.65.0?classifier=sources

@@ -5,6 +5,7 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.74.5?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.74.6?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.74.7?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.74.8?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.75.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.76.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.76.1?classifier=sources
@@ -12,6 +13,7 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.76.3?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.76.4?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.76.5?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.76.6?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.77.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.78.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.78.1?classifier=sources
@@ -19,6 +21,8 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.78.3?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.78.4?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.78.5?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.78.6?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.79.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.80.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.80.1?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-security@5.80.2?classifier=sources

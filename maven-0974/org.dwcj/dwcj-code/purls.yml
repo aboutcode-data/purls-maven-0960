@@ -1,2 +1,4 @@
 - pkg:maven/org.dwcj/dwcj-code@0.16.0
 - pkg:maven/org.dwcj/dwcj-code@0.16.0?classifier=sources
+- pkg:maven/org.dwcj/dwcj-code@23.00
+- pkg:maven/org.dwcj/dwcj-code@23.00?classifier=sources
