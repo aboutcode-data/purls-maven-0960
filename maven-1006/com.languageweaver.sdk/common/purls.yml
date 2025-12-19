@@ -12,3 +12,5 @@
 - pkg:maven/com.languageweaver.sdk/common@3.0?classifier=sources
 - pkg:maven/com.languageweaver.sdk/common@3.1.0
 - pkg:maven/com.languageweaver.sdk/common@3.1.0?classifier=sources
+- pkg:maven/com.languageweaver.sdk/common@3.1.1
+- pkg:maven/com.languageweaver.sdk/common@3.1.1?classifier=sources

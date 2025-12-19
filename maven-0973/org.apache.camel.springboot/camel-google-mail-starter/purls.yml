@@ -60,6 +60,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.18.4?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.18.5
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.18.5?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.18.6
+- pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.18.6?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.19.0
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.2.0
@@ -70,6 +72,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.20.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.20.2
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.20.2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.20.3
+- pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.20.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.3.0
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-google-mail-starter@3.4.0

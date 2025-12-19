@@ -618,6 +618,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.24_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.24_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.24_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.25_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.25_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.25_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.25_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@5.3.2_1?classifier=src&type=tar.gz
@@ -662,3 +666,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.4_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.4_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.4_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-instrument@6.0.6_1?classifier=src&type=zip

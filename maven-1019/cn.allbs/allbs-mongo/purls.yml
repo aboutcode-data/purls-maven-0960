@@ -24,3 +24,5 @@
 - pkg:maven/cn.allbs/allbs-mongo@1.1.8?classifier=sources
 - pkg:maven/cn.allbs/allbs-mongo@1.1.9
 - pkg:maven/cn.allbs/allbs-mongo@1.1.9?classifier=sources
+- pkg:maven/cn.allbs/allbs-mongo@2.0.0
+- pkg:maven/cn.allbs/allbs-mongo@2.0.0?classifier=sources

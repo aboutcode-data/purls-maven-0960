@@ -8,3 +8,7 @@
 - pkg:maven/cn.aradin/springfox-swagger-common@0.0.4.BETA5?classifier=sources
 - pkg:maven/cn.aradin/springfox-swagger-common@0.0.4.BETA6
 - pkg:maven/cn.aradin/springfox-swagger-common@0.0.4.BETA6?classifier=sources
+- pkg:maven/cn.aradin/springfox-swagger-common@1.0.0
+- pkg:maven/cn.aradin/springfox-swagger-common@1.0.0-BETA
+- pkg:maven/cn.aradin/springfox-swagger-common@1.0.0-BETA?classifier=sources
+- pkg:maven/cn.aradin/springfox-swagger-common@1.0.0?classifier=sources

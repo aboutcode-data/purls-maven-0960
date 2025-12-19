@@ -1,3 +1,7 @@
 - pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.0-Beta-1?classifier=sources
 - pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.0-Beta-2?classifier=sources
 - pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.0-Beta-3?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.0-Beta-4?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.0?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.1?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/username-password-user-authentication-service-core@1.0.2?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.service.catalog.api@4.2.0
 - pkg:maven/org.wso2.am/org.wso2.am.integration.clients.service.catalog.api@4.2.0-beta
 - pkg:maven/org.wso2.am/org.wso2.am.integration.clients.service.catalog.api@4.2.0-beta?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.service.catalog.api@4.2.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.10
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.10?classifier=sources
+- pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.11
+- pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.11?classifier=sources
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.8
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.8?classifier=sources
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.9

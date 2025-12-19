@@ -12,6 +12,7 @@
 - pkg:maven/com.netcetera.girders/girders-logging@5.0.23?classifier=sources
 - pkg:maven/com.netcetera.girders/girders-logging@5.1.0
 - pkg:maven/com.netcetera.girders/girders-logging@5.1.0?classifier=sources
+- pkg:maven/com.netcetera.girders/girders-logging@6.0.0
 - pkg:maven/com.netcetera.girders/girders-logging@6.0.0-M2
 - pkg:maven/com.netcetera.girders/girders-logging@6.0.0-M2?classifier=sources
 - pkg:maven/com.netcetera.girders/girders-logging@6.0.0-M3
@@ -20,3 +21,4 @@
 - pkg:maven/com.netcetera.girders/girders-logging@6.0.0-RC1?classifier=sources
 - pkg:maven/com.netcetera.girders/girders-logging@6.0.0-RC3
 - pkg:maven/com.netcetera.girders/girders-logging@6.0.0-RC3?classifier=sources
+- pkg:maven/com.netcetera.girders/girders-logging@6.0.0?classifier=sources

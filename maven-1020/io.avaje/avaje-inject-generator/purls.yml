@@ -220,5 +220,15 @@
 - pkg:maven/io.avaje/avaje-inject-generator@8.8?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@8.9
 - pkg:maven/io.avaje/avaje-inject-generator@8.9?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@9.0
 - pkg:maven/io.avaje/avaje-inject-generator@9.0-RC1
 - pkg:maven/io.avaje/avaje-inject-generator@9.0-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-RC2
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-RC3
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-RC4
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-javax
+- pkg:maven/io.avaje/avaje-inject-generator@9.0-javax?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@9.0?classifier=sources

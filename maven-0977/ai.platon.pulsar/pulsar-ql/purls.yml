@@ -3,6 +3,8 @@
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.1
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.10
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.10?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.11
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.11?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.1?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.2
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.2?classifier=sources
@@ -65,6 +67,10 @@
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.16?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.17
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.17?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.18
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.18?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.19
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.19?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.1?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.2
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.9.2?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.0-alpha19?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.0?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.1-alpha.10?classifier=sources
+- pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.1-alpha.11?classifier=sources
+- pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.1-alpha.12?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.1-alpha.1?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.1-alpha.2?classifier=sources
 - pkg:maven/com.grab.grazel/grazel-gradle-plugin@0.4.1-alpha.3?classifier=sources

@@ -335,6 +335,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.6
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.7
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@14.2
@@ -395,6 +399,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.1-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.1-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.2-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.2-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@8.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@8.3-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@8.3-milestone-2?classifier=sources

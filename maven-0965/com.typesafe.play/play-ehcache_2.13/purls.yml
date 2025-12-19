@@ -76,3 +76,7 @@
 - pkg:maven/com.typesafe.play/play-ehcache_2.13@2.8.9?classifier=sources
 - pkg:maven/com.typesafe.play/play-ehcache_2.13@2.9.0-M2
 - pkg:maven/com.typesafe.play/play-ehcache_2.13@2.9.0-M2?classifier=sources
+- pkg:maven/com.typesafe.play/play-ehcache_2.13@2.9.0-M3
+- pkg:maven/com.typesafe.play/play-ehcache_2.13@2.9.0-M3?classifier=sources
+- pkg:maven/com.typesafe.play/play-ehcache_2.13@2.9.0-M4
+- pkg:maven/com.typesafe.play/play-ehcache_2.13@2.9.0-M4?classifier=sources

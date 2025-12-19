@@ -62,6 +62,8 @@
 - pkg:maven/io.kubernetes/client-java-api@17.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api@17.0.1
 - pkg:maven/io.kubernetes/client-java-api@17.0.1?classifier=sources
+- pkg:maven/io.kubernetes/client-java-api@17.0.2
+- pkg:maven/io.kubernetes/client-java-api@17.0.2?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api@18.0.0
 - pkg:maven/io.kubernetes/client-java-api@18.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api@2.0.0

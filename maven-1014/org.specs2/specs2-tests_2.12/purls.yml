@@ -216,6 +216,8 @@
 - pkg:maven/org.specs2/specs2-tests_2.12@4.2.0?classifier=sources
 - pkg:maven/org.specs2/specs2-tests_2.12@4.2.1-ca75f1d09-20180530093100
 - pkg:maven/org.specs2/specs2-tests_2.12@4.2.1-ca75f1d09-20180530093100?classifier=sources
+- pkg:maven/org.specs2/specs2-tests_2.12@4.20.0
+- pkg:maven/org.specs2/specs2-tests_2.12@4.20.0?classifier=sources
 - pkg:maven/org.specs2/specs2-tests_2.12@4.3.0
 - pkg:maven/org.specs2/specs2-tests_2.12@4.3.0-9613e1025-20180617171339
 - pkg:maven/org.specs2/specs2-tests_2.12@4.3.0-9613e1025-20180617171339?classifier=sources

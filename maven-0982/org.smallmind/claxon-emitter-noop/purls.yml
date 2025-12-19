@@ -1,5 +1,7 @@
 - pkg:maven/org.smallmind/claxon-emitter-noop@4.10.0
 - pkg:maven/org.smallmind/claxon-emitter-noop@4.10.0?classifier=sources
+- pkg:maven/org.smallmind/claxon-emitter-noop@4.11.0
+- pkg:maven/org.smallmind/claxon-emitter-noop@4.11.0?classifier=sources
 - pkg:maven/org.smallmind/claxon-emitter-noop@4.4.10
 - pkg:maven/org.smallmind/claxon-emitter-noop@4.4.10?classifier=sources
 - pkg:maven/org.smallmind/claxon-emitter-noop@4.4.11

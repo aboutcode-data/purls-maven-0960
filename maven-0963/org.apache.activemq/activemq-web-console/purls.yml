@@ -110,6 +110,10 @@
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.3?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.4?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.18.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.18.0?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.18.1?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.18.1?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.2.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.2.0?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.3.0?classifier=sources

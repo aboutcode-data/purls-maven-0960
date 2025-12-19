@@ -72,3 +72,5 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-accumulo-tools_2.11@3.5.0?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-accumulo-tools_2.11@3.5.1
 - pkg:maven/org.locationtech.geomesa/geomesa-accumulo-tools_2.11@3.5.1?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-accumulo-tools_2.11@3.5.2
+- pkg:maven/org.locationtech.geomesa/geomesa-accumulo-tools_2.11@3.5.2?classifier=sources

@@ -93,6 +93,10 @@
 - pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.1
 - pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.10
 - pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.10?classifier=sources
+- pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.11
+- pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.11?classifier=sources
+- pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.12
+- pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.12?classifier=sources
 - pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.1?classifier=sources
 - pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.2
 - pkg:maven/dev.zio/zio-logging-slf4j_2.12@2.1.2?classifier=sources

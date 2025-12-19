@@ -100,6 +100,7 @@
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.0.8?classifier=sources
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.0.9
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.0.9?classifier=sources
+- pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-M1
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-M1-1
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-M1-1?classifier=sources
@@ -162,3 +163,6 @@
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC5?classifier=sources
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC6
 - pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0-RC6?classifier=sources
+- pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.0?classifier=sources
+- pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.1
+- pkg:maven/io.get-coursier/coursier-jvm_2.12@2.1.1?classifier=sources

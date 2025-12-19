@@ -6,3 +6,5 @@
 - pkg:maven/com.zhonglunnet/opensdk-client@1.2.0-SIM
 - pkg:maven/com.zhonglunnet/opensdk-client@1.2.0-SIM?classifier=sources
 - pkg:maven/com.zhonglunnet/opensdk-client@1.2.0?classifier=sources
+- pkg:maven/com.zhonglunnet/opensdk-client@1.2.6
+- pkg:maven/com.zhonglunnet/opensdk-client@1.2.6?classifier=sources

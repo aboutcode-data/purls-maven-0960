@@ -34,3 +34,5 @@
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.4.3?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.4.4
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.4.4?classifier=sources
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.4.5
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.4.5?classifier=sources

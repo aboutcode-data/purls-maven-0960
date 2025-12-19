@@ -16,3 +16,7 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.1?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.2
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.2?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.3
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.3?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.4
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@6.4.4?classifier=sources

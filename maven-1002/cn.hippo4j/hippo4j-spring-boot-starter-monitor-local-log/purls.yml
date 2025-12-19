@@ -12,3 +12,5 @@
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-monitor-local-log@1.4.3-upgrade.2?classifier=sources
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-monitor-local-log@1.4.3-upgrade?classifier=sources
 - pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-monitor-local-log@1.4.3?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-monitor-local-log@1.5.0
+- pkg:maven/cn.hippo4j/hippo4j-spring-boot-starter-monitor-local-log@1.5.0?classifier=sources

@@ -40,6 +40,7 @@
 - pkg:maven/io.kvision/kvision-electron@5.17.0?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.18.0?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.18.1?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@5.18.2?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.2.0?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.2.1?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@5.3.0?classifier=sources
@@ -73,3 +74,6 @@
 - pkg:maven/io.kvision/kvision-electron@6.2.0?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@6.2.1?classifier=sources
 - pkg:maven/io.kvision/kvision-electron@6.2.2?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@6.2.3?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@6.3.0?classifier=sources
+- pkg:maven/io.kvision/kvision-electron@6.3.1?classifier=sources

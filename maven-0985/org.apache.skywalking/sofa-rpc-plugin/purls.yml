@@ -40,6 +40,8 @@
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.13.0?classifier=sources
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.14.0
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.14.0?classifier=sources
+- pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.15.0
+- pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.15.0?classifier=sources
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.2.0
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.2.0?classifier=sources
 - pkg:maven/org.apache.skywalking/sofa-rpc-plugin@8.3.0

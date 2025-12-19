@@ -12,5 +12,11 @@
 - pkg:maven/de.gematik.idp/idp-crypto@21.0.25?classifier=sources
 - pkg:maven/de.gematik.idp/idp-crypto@21.0.30
 - pkg:maven/de.gematik.idp/idp-crypto@21.0.30?classifier=sources
+- pkg:maven/de.gematik.idp/idp-crypto@21.0.33
+- pkg:maven/de.gematik.idp/idp-crypto@21.0.33?classifier=sources
 - pkg:maven/de.gematik.idp/idp-crypto@21.0.8
 - pkg:maven/de.gematik.idp/idp-crypto@21.0.8?classifier=sources
+- pkg:maven/de.gematik.idp/idp-crypto@22.0.1
+- pkg:maven/de.gematik.idp/idp-crypto@22.0.1?classifier=sources
+- pkg:maven/de.gematik.idp/idp-crypto@22.0.3
+- pkg:maven/de.gematik.idp/idp-crypto@22.0.3?classifier=sources

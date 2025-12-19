@@ -2,3 +2,7 @@
 - pkg:maven/be.atbash.test/integration-testing@1.0.0?classifier=sources
 - pkg:maven/be.atbash.test/integration-testing@1.1.0
 - pkg:maven/be.atbash.test/integration-testing@1.1.0?classifier=sources
+- pkg:maven/be.atbash.test/integration-testing@1.2.0
+- pkg:maven/be.atbash.test/integration-testing@1.2.0?classifier=sources
+- pkg:maven/be.atbash.test/integration-testing@2.2.0
+- pkg:maven/be.atbash.test/integration-testing@2.2.0?classifier=sources

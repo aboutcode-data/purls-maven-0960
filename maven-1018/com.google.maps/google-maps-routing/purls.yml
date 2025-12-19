@@ -2,3 +2,9 @@
 - pkg:maven/com.google.maps/google-maps-routing@0.1.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routing@0.6.0
 - pkg:maven/com.google.maps/google-maps-routing@0.6.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@0.7.0
+- pkg:maven/com.google.maps/google-maps-routing@0.7.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@0.8.0
+- pkg:maven/com.google.maps/google-maps-routing@0.8.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@1.0.0
+- pkg:maven/com.google.maps/google-maps-routing@1.0.0?classifier=sources

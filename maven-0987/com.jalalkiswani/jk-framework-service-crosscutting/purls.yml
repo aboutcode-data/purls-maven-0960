@@ -6,6 +6,8 @@
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@6.2.0?classifier=sources
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@6.3.0
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@6.3.0?classifier=sources
+- pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@6.4.0
+- pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@6.4.0?classifier=sources
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M1
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M1?classifier=sources
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M2
@@ -16,3 +18,7 @@
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M4?classifier=sources
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M5
 - pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M5?classifier=sources
+- pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M6
+- pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M6?classifier=sources
+- pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M7
+- pkg:maven/com.jalalkiswani/jk-framework-service-crosscutting@7.0.0-M7?classifier=sources

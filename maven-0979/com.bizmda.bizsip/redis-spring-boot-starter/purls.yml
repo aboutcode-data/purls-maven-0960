@@ -16,3 +16,5 @@
 - pkg:maven/com.bizmda.bizsip/redis-spring-boot-starter@1.0.0.Beta6?classifier=sources
 - pkg:maven/com.bizmda.bizsip/redis-spring-boot-starter@1.0.0.Beta9
 - pkg:maven/com.bizmda.bizsip/redis-spring-boot-starter@1.0.0.Beta9?classifier=sources
+- pkg:maven/com.bizmda.bizsip/redis-spring-boot-starter@1.0.0.RC4
+- pkg:maven/com.bizmda.bizsip/redis-spring-boot-starter@1.0.0.RC4?classifier=sources

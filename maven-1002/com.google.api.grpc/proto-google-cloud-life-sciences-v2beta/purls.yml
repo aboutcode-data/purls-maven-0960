@@ -12,6 +12,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.13.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.14.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.14.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.15.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.15.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.16.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.17.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.17.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.2.1

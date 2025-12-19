@@ -18,3 +18,7 @@
 - pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.5.2
 - pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.5.2?classifier=sources
 - pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.5?classifier=sources
+- pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.6
+- pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.6.1
+- pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.6.1?classifier=sources
+- pkg:maven/org.opengis.cite.teamengine/teamengine-spi-ctl@5.6?classifier=sources

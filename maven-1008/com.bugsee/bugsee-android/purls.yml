@@ -129,3 +129,6 @@
 - pkg:maven/com.bugsee/bugsee-android@1.8.5?type=aar
 - pkg:maven/com.bugsee/bugsee-android@1.9.0?type=aar
 - pkg:maven/com.bugsee/bugsee-android@1.9.1?type=aar
+- pkg:maven/com.bugsee/bugsee-android@3.5.0?classifier=sources
+- pkg:maven/com.bugsee/bugsee-android@3.6.0?classifier=sources
+- pkg:maven/com.bugsee/bugsee-android@3.6.1?classifier=sources

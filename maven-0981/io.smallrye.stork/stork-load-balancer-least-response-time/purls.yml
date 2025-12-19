@@ -16,3 +16,7 @@
 - pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@1.4.1?classifier=sources
 - pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@1.4.2
 - pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@1.4.2?classifier=sources
+- pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@2.0.1
+- pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@2.0.1?classifier=sources
+- pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@2.1.0
+- pkg:maven/io.smallrye.stork/stork-load-balancer-least-response-time@2.1.0?classifier=sources

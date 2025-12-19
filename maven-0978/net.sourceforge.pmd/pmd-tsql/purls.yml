@@ -1,2 +1,4 @@
 - pkg:maven/net.sourceforge.pmd/pmd-tsql@6.55.0
 - pkg:maven/net.sourceforge.pmd/pmd-tsql@6.55.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-tsql@7.0.0-rc1
+- pkg:maven/net.sourceforge.pmd/pmd-tsql@7.0.0-rc1?classifier=sources

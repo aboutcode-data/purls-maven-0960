@@ -4,6 +4,8 @@
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.1.0-43?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.10.0-869
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.10.0-869?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.10.1-897
+- pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.10.1-897?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.2.0-79
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.2.0-79?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-dockerswarm-shared@1.3.0-158

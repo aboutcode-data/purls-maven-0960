@@ -207,6 +207,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.13?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.14
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.14?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.15
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.15?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.2
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.2?classifier=sources
@@ -374,6 +376,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.5.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.5.9
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.5.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.50.0
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.50.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.6.0
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.6.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.6.1

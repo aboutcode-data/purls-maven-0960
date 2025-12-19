@@ -1,2 +1,6 @@
 - pkg:maven/org.opennms/smoke-test@31.0.4
 - pkg:maven/org.opennms/smoke-test@31.0.4?classifier=sources
+- pkg:maven/org.opennms/smoke-test@31.0.5
+- pkg:maven/org.opennms/smoke-test@31.0.5?classifier=sources
+- pkg:maven/org.opennms/smoke-test@31.0.6
+- pkg:maven/org.opennms/smoke-test@31.0.6?classifier=sources

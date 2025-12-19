@@ -75,6 +75,7 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.16.9?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.0
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.0?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.10?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.2?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.3?classifier=sources
@@ -85,6 +86,7 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.7?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.8?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.17.9?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.18.2?classifier=sources
@@ -96,6 +98,8 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.19.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.19.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.19.2?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.19.3?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.19.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.1-Boron-SR1

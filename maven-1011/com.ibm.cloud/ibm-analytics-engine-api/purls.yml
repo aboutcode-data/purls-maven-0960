@@ -14,3 +14,5 @@
 - pkg:maven/com.ibm.cloud/ibm-analytics-engine-api@0.6.0?classifier=sources
 - pkg:maven/com.ibm.cloud/ibm-analytics-engine-api@1.0.0
 - pkg:maven/com.ibm.cloud/ibm-analytics-engine-api@1.0.0?classifier=sources
+- pkg:maven/com.ibm.cloud/ibm-analytics-engine-api@1.1.1
+- pkg:maven/com.ibm.cloud/ibm-analytics-engine-api@1.1.1?classifier=sources

@@ -336,6 +336,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.24
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.25
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.verify.extender@6.0.3

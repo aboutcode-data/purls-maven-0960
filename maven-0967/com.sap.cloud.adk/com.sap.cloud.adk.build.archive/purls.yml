@@ -34,3 +34,7 @@
 - pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.39.0?classifier=sources
 - pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.41.0
 - pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.41.0?classifier=sources
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.43.0
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@1.43.0?classifier=sources
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@2.1.1
+- pkg:maven/com.sap.cloud.adk/com.sap.cloud.adk.build.archive@2.1.1?classifier=sources

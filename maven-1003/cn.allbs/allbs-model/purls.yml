@@ -62,3 +62,7 @@
 - pkg:maven/cn.allbs/allbs-model@0.5.0?classifier=sources
 - pkg:maven/cn.allbs/allbs-model@0.6.0
 - pkg:maven/cn.allbs/allbs-model@0.6.0?classifier=sources
+- pkg:maven/cn.allbs/allbs-model@0.7.0
+- pkg:maven/cn.allbs/allbs-model@0.7.0?classifier=sources
+- pkg:maven/cn.allbs/allbs-model@0.8.0
+- pkg:maven/cn.allbs/allbs-model@0.8.0?classifier=sources

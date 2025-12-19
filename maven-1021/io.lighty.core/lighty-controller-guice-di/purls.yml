@@ -106,6 +106,8 @@
 - pkg:maven/io.lighty.core/lighty-controller-guice-di@17.1.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-controller-guice-di@17.2.0
 - pkg:maven/io.lighty.core/lighty-controller-guice-di@17.2.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-controller-guice-di@18.0.0
+- pkg:maven/io.lighty.core/lighty-controller-guice-di@18.0.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-controller-guice-di@9.1.2
 - pkg:maven/io.lighty.core/lighty-controller-guice-di@9.1.2?classifier=sources
 - pkg:maven/io.lighty.core/lighty-controller-guice-di@9.1.3

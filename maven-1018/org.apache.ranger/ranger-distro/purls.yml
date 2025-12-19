@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ranger/ranger-distro@2.4.0
+- pkg:maven/org.apache.ranger/ranger-distro@2.4.0?classifier=src&type=tar.gz

@@ -14,6 +14,10 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.16?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.17?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.17?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.18?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.18?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.19?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.19?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.2?classifier=sources
@@ -46,3 +50,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.5?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.6?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.6?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.7?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-security@9.0.8?type=war

@@ -166,6 +166,16 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.54.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.55.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.55.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.56.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.56.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.57.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.57.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.57.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.57.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.58.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.58.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.59.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.59.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@2.7.0
@@ -190,6 +200,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.0.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.1.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.1.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.10.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.10.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.11.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.11.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.2.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.2.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.2.1
@@ -208,3 +222,9 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.7.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.7.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.8.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.8.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.9.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.9.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.9.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-artifacts@3.9.1?classifier=sources

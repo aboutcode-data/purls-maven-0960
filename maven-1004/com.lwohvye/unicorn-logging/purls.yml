@@ -2,3 +2,6 @@
 - pkg:maven/com.lwohvye/unicorn-logging@3.2.0?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-logging@4.0.0-alpha?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-logging@4.0.0-beta?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-logging@4.0.0-delta?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-logging@4.0.0-epsilon?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-logging@4.0.0-gamma?classifier=sources

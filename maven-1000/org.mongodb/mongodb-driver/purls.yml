@@ -57,6 +57,8 @@
 - pkg:maven/org.mongodb/mongodb-driver@3.12.11?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver@3.12.12
 - pkg:maven/org.mongodb/mongodb-driver@3.12.12?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver@3.12.13
+- pkg:maven/org.mongodb/mongodb-driver@3.12.13?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver@3.12.1?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver@3.12.2
 - pkg:maven/org.mongodb/mongodb-driver@3.12.2?classifier=sources

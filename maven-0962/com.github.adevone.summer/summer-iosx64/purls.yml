@@ -1,6 +1,8 @@
 - pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-beta10?classifier=sources
+- pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-beta11-ios-simulator?classifier=sources
 - pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-beta11?classifier=sources
 - pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-beta12?classifier=sources
+- pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-beta13?classifier=sources
 - pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-beta9?classifier=sources
 - pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-sonatype-1?classifier=sources
 - pkg:maven/com.github.adevone.summer/summer-iosx64@1.0.0-sonatype-2?classifier=sources

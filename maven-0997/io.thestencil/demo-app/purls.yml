@@ -152,6 +152,10 @@
 - pkg:maven/io.thestencil/demo-app@1.148.2
 - pkg:maven/io.thestencil/demo-app@1.148.20
 - pkg:maven/io.thestencil/demo-app@1.148.20?classifier=sources
+- pkg:maven/io.thestencil/demo-app@1.148.21
+- pkg:maven/io.thestencil/demo-app@1.148.21?classifier=sources
+- pkg:maven/io.thestencil/demo-app@1.148.22
+- pkg:maven/io.thestencil/demo-app@1.148.22?classifier=sources
 - pkg:maven/io.thestencil/demo-app@1.148.2?classifier=sources
 - pkg:maven/io.thestencil/demo-app@1.148.3
 - pkg:maven/io.thestencil/demo-app@1.148.3?classifier=sources

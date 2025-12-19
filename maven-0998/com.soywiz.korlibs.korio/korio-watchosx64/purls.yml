@@ -1,1 +1,6 @@
 - pkg:maven/com.soywiz.korlibs.korio/korio-watchosx64@4.0.0-alpha-3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-watchosx64@4.0.0-alpha-6?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-watchosx64@4.0.0-beta2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-watchosx64@4.0.0-beta3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-watchosx64@4.0.0-beta?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio-watchosx64@4.0.0-rc?classifier=sources

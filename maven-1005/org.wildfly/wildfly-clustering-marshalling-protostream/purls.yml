@@ -66,3 +66,5 @@
 - pkg:maven/org.wildfly/wildfly-clustering-marshalling-protostream@27.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-marshalling-protostream@27.0.1.Final
 - pkg:maven/org.wildfly/wildfly-clustering-marshalling-protostream@27.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-marshalling-protostream@28.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-clustering-marshalling-protostream@28.0.0.Beta1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.geepawhill/gph-html@0.0.100?classifier=sources
+- pkg:maven/org.geepawhill/gph-html@0.0.101?classifier=sources
 - pkg:maven/org.geepawhill/gph-html@0.0.17?classifier=sources
 - pkg:maven/org.geepawhill/gph-html@0.0.18?classifier=sources
 - pkg:maven/org.geepawhill/gph-html@0.0.19?classifier=sources
@@ -76,4 +78,7 @@
 - pkg:maven/org.geepawhill/gph-html@0.0.94?classifier=sources
 - pkg:maven/org.geepawhill/gph-html@0.0.95?classifier=sources
 - pkg:maven/org.geepawhill/gph-html@0.0.96?classifier=sources
+- pkg:maven/org.geepawhill/gph-html@0.0.97?classifier=sources
+- pkg:maven/org.geepawhill/gph-html@0.0.98?classifier=sources
+- pkg:maven/org.geepawhill/gph-html@0.0.99?classifier=sources
 - pkg:maven/org.geepawhill/gph-html@local?classifier=sources
