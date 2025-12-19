@@ -34,6 +34,8 @@
 - pkg:maven/com.pulumi/sumologic@0.14.1-alpha.1687758062%2B8e389432?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.14.1-alpha.1687903097%2Bf6b36189?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.15.0?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.15.1-alpha.1689316358%2B1aba15e0?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.15.1-alpha.1690264995%2B3590ee77?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.0?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.1-alpha.1660680842%2B1b90b1ad?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.9.0?classifier=sources

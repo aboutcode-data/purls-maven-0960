@@ -14,6 +14,10 @@
 - pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@12.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@13.0.0
 - pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@13.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@14.0.0
+- pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@14.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@15.0.0
+- pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@15.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@3.0.0
 - pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@3.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-scala_2.13@4.0.0

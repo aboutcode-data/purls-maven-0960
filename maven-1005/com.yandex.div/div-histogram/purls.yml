@@ -30,6 +30,11 @@
 - pkg:maven/com.yandex.div/div-histogram@25.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@25.6.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@25.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@26.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@26.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@26.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@26.2.1?classifier=sources
+- pkg:maven/com.yandex.div/div-histogram@27.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-histogram@7.0.0?classifier=sources

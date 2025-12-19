@@ -74,3 +74,7 @@
 - pkg:maven/io.trino/trino-testing-resources@419?classifier=sources
 - pkg:maven/io.trino/trino-testing-resources@420
 - pkg:maven/io.trino/trino-testing-resources@420?classifier=sources
+- pkg:maven/io.trino/trino-testing-resources@421
+- pkg:maven/io.trino/trino-testing-resources@421?classifier=sources
+- pkg:maven/io.trino/trino-testing-resources@422
+- pkg:maven/io.trino/trino-testing-resources@422?classifier=sources

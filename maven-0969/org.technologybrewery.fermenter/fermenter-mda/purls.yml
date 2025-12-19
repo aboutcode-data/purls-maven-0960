@@ -1,2 +1,4 @@
 - pkg:maven/org.technologybrewery.fermenter/fermenter-mda@2.8.0
 - pkg:maven/org.technologybrewery.fermenter/fermenter-mda@2.8.0?classifier=sources
+- pkg:maven/org.technologybrewery.fermenter/fermenter-mda@2.9.0
+- pkg:maven/org.technologybrewery.fermenter/fermenter-mda@2.9.0?classifier=sources

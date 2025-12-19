@@ -20,3 +20,5 @@
 - pkg:maven/io.airlift/openmetrics@233?classifier=sources
 - pkg:maven/io.airlift/openmetrics@234
 - pkg:maven/io.airlift/openmetrics@234?classifier=sources
+- pkg:maven/io.airlift/openmetrics@235
+- pkg:maven/io.airlift/openmetrics@235?classifier=sources

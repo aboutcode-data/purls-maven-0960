@@ -29,5 +29,8 @@
 - pkg:maven/com.izivia/ocpp-2-0-json@0.1.8?classifier=sources
 - pkg:maven/com.izivia/ocpp-2-0-json@0.1.9?classifier=sources
 - pkg:maven/com.izivia/ocpp-2-0-json@0.12.1?classifier=sources
+- pkg:maven/com.izivia/ocpp-2-0-json@1.0.0?classifier=sources
+- pkg:maven/com.izivia/ocpp-2-0-json@1.0.1?classifier=sources
+- pkg:maven/com.izivia/ocpp-2-0-json@1.1.0?classifier=sources
 - pkg:maven/com.izivia/ocpp-2-0-json@20221107-1?classifier=sources
 - pkg:maven/com.izivia/ocpp-2-0-json@20221110-1?classifier=sources

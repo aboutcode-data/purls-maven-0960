@@ -415,6 +415,10 @@
 - pkg:maven/systems.manifold/manifold-js@2023.1.1
 - pkg:maven/systems.manifold/manifold-js@2023.1.10
 - pkg:maven/systems.manifold/manifold-js@2023.1.10?classifier=sources
+- pkg:maven/systems.manifold/manifold-js@2023.1.11
+- pkg:maven/systems.manifold/manifold-js@2023.1.11?classifier=sources
+- pkg:maven/systems.manifold/manifold-js@2023.1.12
+- pkg:maven/systems.manifold/manifold-js@2023.1.12?classifier=sources
 - pkg:maven/systems.manifold/manifold-js@2023.1.1?classifier=sources
 - pkg:maven/systems.manifold/manifold-js@2023.1.2
 - pkg:maven/systems.manifold/manifold-js@2023.1.2?classifier=sources

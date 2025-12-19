@@ -199,6 +199,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.0
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.0?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.1
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.10
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.10?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.2
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.annotation@5.26.2?classifier=sources

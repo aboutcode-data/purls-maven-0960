@@ -56,3 +56,5 @@
 - pkg:maven/io.jooby/jooby-metrics@3.0.0.M9
 - pkg:maven/io.jooby/jooby-metrics@3.0.0.M9?classifier=sources
 - pkg:maven/io.jooby/jooby-metrics@3.0.0?classifier=sources
+- pkg:maven/io.jooby/jooby-metrics@3.0.1
+- pkg:maven/io.jooby/jooby-metrics@3.0.1?classifier=sources

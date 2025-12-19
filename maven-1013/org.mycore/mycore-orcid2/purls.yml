@@ -1,0 +1,4 @@
+- pkg:maven/org.mycore/mycore-orcid2@2022.06.2
+- pkg:maven/org.mycore/mycore-orcid2@2022.06.2?classifier=sources
+- pkg:maven/org.mycore/mycore-orcid2@2023.05
+- pkg:maven/org.mycore/mycore-orcid2@2023.05?classifier=sources

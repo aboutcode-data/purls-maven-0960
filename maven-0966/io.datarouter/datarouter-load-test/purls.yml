@@ -38,6 +38,8 @@
 - pkg:maven/io.datarouter/datarouter-load-test@0.0.119?classifier=sources
 - pkg:maven/io.datarouter/datarouter-load-test@0.0.120
 - pkg:maven/io.datarouter/datarouter-load-test@0.0.120?classifier=sources
+- pkg:maven/io.datarouter/datarouter-load-test@0.0.121
+- pkg:maven/io.datarouter/datarouter-load-test@0.0.121?classifier=sources
 - pkg:maven/io.datarouter/datarouter-load-test@0.0.32
 - pkg:maven/io.datarouter/datarouter-load-test@0.0.32?classifier=sources
 - pkg:maven/io.datarouter/datarouter-load-test@0.0.33

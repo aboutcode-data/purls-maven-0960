@@ -34,6 +34,7 @@
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.0.10.34?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.0.10.35?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.0.10.36?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.0.10.37?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.0.1?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.0.2?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.0.3?type=war
@@ -55,12 +56,15 @@
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.23?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.24?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.25?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.26?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.27?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.5?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.6?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.7?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.8?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.1.10.9?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.0.1?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.0.26?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.0.2?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.0.3?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.0.4?type=war
@@ -79,11 +83,13 @@
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.22?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.23?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.24?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.25?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.5?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.6?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.7?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.8?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.2.10.9?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.0.31?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.10?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.11?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.12?type=war
@@ -106,6 +112,7 @@
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.28?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.29?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.2?type=war
+- pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.30?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.3?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.4?type=war
 - pkg:maven/com.liferay.plugins/social-bookmarks-hook@7.3.10.5?type=war

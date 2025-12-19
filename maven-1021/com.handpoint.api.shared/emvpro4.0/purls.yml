@@ -110,3 +110,5 @@
 - pkg:maven/com.handpoint.api.shared/emvpro4.0@7.1001.3?type=aar
 - pkg:maven/com.handpoint.api.shared/emvpro4.0@7.1001.4?classifier=sources
 - pkg:maven/com.handpoint.api.shared/emvpro4.0@7.1001.4?type=aar
+- pkg:maven/com.handpoint.api.shared/emvpro4.0@7.1002.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emvpro4.0@7.1002.0?type=aar

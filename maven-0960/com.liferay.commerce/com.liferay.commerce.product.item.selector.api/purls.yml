@@ -40,6 +40,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@1.1.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@1.1.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@1.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@1.1.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@1.1.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.0?classifier=sources-commercial
@@ -49,6 +51,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.2
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.3
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@2.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.0?classifier=sources-commercial
@@ -73,6 +77,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@3.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.item.selector.api@4.0.0?classifier=sources-commercial

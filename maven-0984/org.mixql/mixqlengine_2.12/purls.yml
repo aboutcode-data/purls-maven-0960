@@ -1,0 +1,10 @@
+- pkg:maven/org.mixql/mixqlengine_2.12@0.4.1
+- pkg:maven/org.mixql/mixqlengine_2.12@0.4.1?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.0
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.0?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.1.1
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.1.1?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.1.2
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.1.2?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.2
+- pkg:maven/org.mixql/mixqlengine_2.12@0.5.2?classifier=sources

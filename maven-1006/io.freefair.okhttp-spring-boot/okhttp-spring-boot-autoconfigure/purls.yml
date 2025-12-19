@@ -76,6 +76,7 @@
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.11?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.12?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.13?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.14?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.1?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.2?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@2.7.3?classifier=sources
@@ -97,10 +98,13 @@
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.6?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.7?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.8?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.0.9?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.0-m1?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.0-m2?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.0-rc1?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.0?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.1?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.1.2?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@3.2.0-m1?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@unspecified
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp-spring-boot-autoconfigure@unspecified?classifier=sources

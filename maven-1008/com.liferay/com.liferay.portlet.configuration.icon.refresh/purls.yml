@@ -36,6 +36,8 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@3.0.4
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@3.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@3.0.5
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.0
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.0?classifier=sources-commercial
@@ -60,6 +62,8 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.7
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.8
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.0
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.0?classifier=sources-commercial
@@ -87,6 +91,8 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.8
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.9
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.0
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.refresh@6.0.0?classifier=sources-commercial

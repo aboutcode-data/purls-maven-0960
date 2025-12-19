@@ -2,3 +2,7 @@
 - pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@2.1.3-dev-220924
 - pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@2.1.3-dev-220924?classifier=sources
 - pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@2.1.3?classifier=sources
+- pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@2.1.4
+- pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@2.1.4?classifier=sources
+- pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@3.0.0
+- pkg:maven/io.devbench.uibuilder.components/uibuilder-backend-communicator@3.0.0?classifier=sources

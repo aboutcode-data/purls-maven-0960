@@ -110,3 +110,5 @@
 - pkg:maven/org.sakaiproject.edu-services.sections/sections-api@22.2?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.sections/sections-api@22.3
 - pkg:maven/org.sakaiproject.edu-services.sections/sections-api@22.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-api@23.0
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-api@23.0?classifier=sources

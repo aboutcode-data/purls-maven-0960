@@ -52,6 +52,8 @@
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.19.1?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.2.0
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.2.0?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_test_helpers@2.20.0
+- pkg:maven/com.google.errorprone/error_prone_test_helpers@2.20.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.3.0
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.3.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.3.1

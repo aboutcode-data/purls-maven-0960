@@ -1,3 +1,4 @@
+- pkg:maven/org.dominokit/theme-processor@1.0.0
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC1
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC10
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC10?classifier=sources
@@ -36,3 +37,6 @@
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC8?classifier=sources
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC9
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC9?classifier=sources
+- pkg:maven/org.dominokit/theme-processor@1.0.0?classifier=sources
+- pkg:maven/org.dominokit/theme-processor@1.0.1
+- pkg:maven/org.dominokit/theme-processor@1.0.1?classifier=sources

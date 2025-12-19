@@ -283,7 +283,11 @@
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.2%2B12-afb80834?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.2?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.3
+- pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.3%2B9-bc80c2f9
+- pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.3%2B9-bc80c2f9?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.3?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.4
+- pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.14.4?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.2.0
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.2.0%2B1-b13cdc37
 - pkg:maven/io.janstenpickle/trace4cats-kernel_2.13@0.2.0%2B1-b13cdc37?classifier=sources

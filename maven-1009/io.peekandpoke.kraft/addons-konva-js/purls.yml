@@ -72,6 +72,13 @@
 - pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.33.6?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.33.9.4?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.34.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.34.1?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.35.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.35.1?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.36.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.36.1?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.36.2?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.36.3?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.5.6-kotlin170?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.5.7-kotlin170?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-konva-js@0.6.0-kotlin170?classifier=sources

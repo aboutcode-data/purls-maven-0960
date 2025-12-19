@@ -1,5 +1,7 @@
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.10?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.10?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.2?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.2?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.3?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@28.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@29.0.0.Alpha1
 - pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@29.0.0.Alpha1?classifier=sources
+- pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@29.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@29.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@29.0.0.Final
+- pkg:maven/org.wildfly/wildfly-microprofile-telemetry-cdi-provider@29.0.0.Final?classifier=sources

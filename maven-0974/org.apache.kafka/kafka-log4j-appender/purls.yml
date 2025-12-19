@@ -96,3 +96,4 @@
 - pkg:maven/org.apache.kafka/kafka-log4j-appender@3.4.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-log4j-appender@3.4.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-log4j-appender@3.5.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-log4j-appender@3.5.1?classifier=sources

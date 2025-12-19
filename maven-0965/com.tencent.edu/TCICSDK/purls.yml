@@ -288,3 +288,5 @@
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.3.1?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.3.?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK@1.7.3?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.8.0.1?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK@1.8.0.2?classifier=sources

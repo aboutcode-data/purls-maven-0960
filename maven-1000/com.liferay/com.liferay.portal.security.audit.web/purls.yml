@@ -4,6 +4,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@1.0.33
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@1.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@1.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@1.0.34
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@1.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@1.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.13
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.13?classifier=sources-commercial
@@ -13,6 +16,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.17
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.13
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.13?classifier=sources-commercial
@@ -22,6 +30,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.13
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.13?classifier=sources-commercial
@@ -34,6 +47,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.16
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.17
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.web@4.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.web@5.0.0?classifier=sources-commercial

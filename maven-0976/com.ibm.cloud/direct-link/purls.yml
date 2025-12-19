@@ -26,3 +26,5 @@
 - pkg:maven/com.ibm.cloud/direct-link@0.32.0?classifier=sources
 - pkg:maven/com.ibm.cloud/direct-link@0.32.1
 - pkg:maven/com.ibm.cloud/direct-link@0.32.1?classifier=sources
+- pkg:maven/com.ibm.cloud/direct-link@0.33.0
+- pkg:maven/com.ibm.cloud/direct-link@0.33.0?classifier=sources

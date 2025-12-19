@@ -30,5 +30,8 @@
 - pkg:maven/com.izivia/ocpp-wamp@0.1.8?classifier=sources
 - pkg:maven/com.izivia/ocpp-wamp@0.1.9?classifier=sources
 - pkg:maven/com.izivia/ocpp-wamp@0.12.1?classifier=sources
+- pkg:maven/com.izivia/ocpp-wamp@1.0.0?classifier=sources
+- pkg:maven/com.izivia/ocpp-wamp@1.0.1?classifier=sources
+- pkg:maven/com.izivia/ocpp-wamp@1.1.0?classifier=sources
 - pkg:maven/com.izivia/ocpp-wamp@20221107-1?classifier=sources
 - pkg:maven/com.izivia/ocpp-wamp@20221110-1?classifier=sources

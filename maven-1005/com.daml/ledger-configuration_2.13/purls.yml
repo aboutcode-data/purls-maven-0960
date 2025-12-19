@@ -391,6 +391,10 @@
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.12-snapshot.20230421.10127.0.b799c56c
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.12-snapshot.20230421.10127.0.b799c56c?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.12?classifier=sources
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.13
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.13?classifier=sources
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.14
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.14?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.1?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.2
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.2?classifier=sources
@@ -834,6 +838,8 @@
 - pkg:maven/com.daml/ledger-configuration_2.13@2.6.3?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.6.4
 - pkg:maven/com.daml/ledger-configuration_2.13@2.6.4?classifier=sources
+- pkg:maven/com.daml/ledger-configuration_2.13@2.6.5
+- pkg:maven/com.daml/ledger-configuration_2.13@2.6.5?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.7.0-snapshot.20230228.11494.0.510b7e1f
 - pkg:maven/com.daml/ledger-configuration_2.13@2.7.0-snapshot.20230228.11494.0.510b7e1f?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.7.0-snapshot.20230228.11503.0.d8d55ca4

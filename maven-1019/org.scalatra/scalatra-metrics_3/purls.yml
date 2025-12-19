@@ -8,3 +8,7 @@
 - pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M4-jakarta
 - pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M4-jakarta?classifier=sources
 - pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M4?classifier=sources
+- pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M5-jakarta
+- pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M5-jakarta?classifier=sources
+- pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M5-javax
+- pkg:maven/org.scalatra/scalatra-metrics_3@3.0.0-M5-javax?classifier=sources

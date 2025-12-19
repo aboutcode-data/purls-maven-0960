@@ -34,3 +34,5 @@
 - pkg:maven/com.atomgraph/processor@3.13.9?classifier=sources
 - pkg:maven/com.atomgraph/processor@3.14.0?classifier=sources
 - pkg:maven/com.atomgraph/processor@4.0.1?classifier=sources
+- pkg:maven/com.atomgraph/processor@4.1.0?classifier=sources
+- pkg:maven/com.atomgraph/processor@4.1.1?classifier=sources

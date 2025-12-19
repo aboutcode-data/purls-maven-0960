@@ -68,6 +68,8 @@
 - pkg:maven/com.liferay/com.liferay.translation.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.translation.web@1.0.3
+- pkg:maven/com.liferay/com.liferay.translation.web@1.0.30
+- pkg:maven/com.liferay/com.liferay.translation.web@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.translation.web@1.0.4
@@ -332,6 +334,15 @@
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.82
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.82?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.83
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.83?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.83?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.84
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.84?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.85
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.85?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.85?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.9

@@ -57,6 +57,13 @@
 - pkg:maven/aws.sdk.kotlin/datapipeline@0.25.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/datapipeline@0.26.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/datapipeline@0.26.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.27.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.27.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.27.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.28.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.28.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.28.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/datapipeline@0.29.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/datapipeline@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/datapipeline@0.5.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/datapipeline@0.6.0-alpha?classifier=sources

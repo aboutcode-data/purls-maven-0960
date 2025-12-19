@@ -1,4 +1,6 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@1.9.0
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@1.9.0-Beta
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@1.9.0-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@1.9.0-RC
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@1.9.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@1.9.0?classifier=sources

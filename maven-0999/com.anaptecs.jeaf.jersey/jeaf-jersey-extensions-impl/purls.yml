@@ -1,2 +1,4 @@
 - pkg:maven/com.anaptecs.jeaf.jersey/jeaf-jersey-extensions-impl@1.6.0
 - pkg:maven/com.anaptecs.jeaf.jersey/jeaf-jersey-extensions-impl@1.6.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.jersey/jeaf-jersey-extensions-impl@1.8.0
+- pkg:maven/com.anaptecs.jeaf.jersey/jeaf-jersey-extensions-impl@1.8.0?classifier=sources

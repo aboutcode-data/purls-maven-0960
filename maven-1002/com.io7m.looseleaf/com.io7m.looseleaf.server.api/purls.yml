@@ -6,3 +6,7 @@
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@0.0.3?classifier=sources
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@0.0.4
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@0.0.4?classifier=sources
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@1.0.0
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@1.0.0?classifier=sources
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@1.1.0
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.server.api@1.1.0?classifier=sources

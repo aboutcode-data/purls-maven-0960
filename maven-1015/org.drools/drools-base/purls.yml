@@ -1,2 +1,4 @@
 - pkg:maven/org.drools/drools-base@8.40.0.Final
 - pkg:maven/org.drools/drools-base@8.40.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-base@8.41.0.Final
+- pkg:maven/org.drools/drools-base@8.41.0.Final?classifier=sources

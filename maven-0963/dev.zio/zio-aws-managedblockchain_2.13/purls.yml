@@ -398,6 +398,8 @@
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@5.20.7.2?classifier=sources
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@5.20.7.3
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@5.20.7.3?classifier=sources
+- pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.103.1
+- pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.103.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.42.1
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.42.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.42.2
@@ -430,3 +432,7 @@
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.78.3?classifier=sources
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.83.1
 - pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.83.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.83.2
+- pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.83.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.97.2
+- pkg:maven/dev.zio/zio-aws-managedblockchain_2.13@6.20.97.2?classifier=sources

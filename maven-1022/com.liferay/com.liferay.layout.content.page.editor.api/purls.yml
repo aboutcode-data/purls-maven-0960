@@ -13,6 +13,8 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@1.1.2
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@1.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@1.1.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@1.1.3
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@1.1.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.0.0?classifier=sources-commercial
@@ -58,6 +60,8 @@
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.3.8
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.3.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.3.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.3.9
+- pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@2.3.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.content.page.editor.api@3.0.0?classifier=sources-commercial

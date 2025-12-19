@@ -89,6 +89,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.5.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.5.8?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.5.9.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.5.9.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.5.9?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.0-RC2?classifier=sources
@@ -96,6 +97,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.10?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-redis-authentication@6.6.3?classifier=sources

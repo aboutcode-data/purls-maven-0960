@@ -33,6 +33,10 @@
 - pkg:maven/com.tencent.polaris/router-canary@1.12.0
 - pkg:maven/com.tencent.polaris/router-canary@1.12.0?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@1.12.1
+- pkg:maven/com.tencent.polaris/router-canary@1.12.10
+- pkg:maven/com.tencent.polaris/router-canary@1.12.10?classifier=sources
+- pkg:maven/com.tencent.polaris/router-canary@1.12.11
+- pkg:maven/com.tencent.polaris/router-canary@1.12.11?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@1.12.1?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@1.12.2
 - pkg:maven/com.tencent.polaris/router-canary@1.12.2?classifier=sources
@@ -50,6 +54,8 @@
 - pkg:maven/com.tencent.polaris/router-canary@1.12.8?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@1.12.9
 - pkg:maven/com.tencent.polaris/router-canary@1.12.9?classifier=sources
+- pkg:maven/com.tencent.polaris/router-canary@1.13.0
+- pkg:maven/com.tencent.polaris/router-canary@1.13.0?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@1.2.0
 - pkg:maven/com.tencent.polaris/router-canary@1.2.0?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@1.2.1

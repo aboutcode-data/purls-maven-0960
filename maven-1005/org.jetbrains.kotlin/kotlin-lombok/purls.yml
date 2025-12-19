@@ -61,3 +61,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.8.22?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.9.0-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.9.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok@1.9.0?classifier=sources

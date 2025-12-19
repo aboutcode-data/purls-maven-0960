@@ -20,6 +20,8 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.12.2?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.13.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.13.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.14.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.14.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.2.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.2.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.2.1
@@ -48,3 +50,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@1.9.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@2.0.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@2.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@2.1.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-dto-gen@2.1.0?classifier=sources

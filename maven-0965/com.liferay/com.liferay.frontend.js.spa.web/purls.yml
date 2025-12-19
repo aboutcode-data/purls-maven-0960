@@ -248,6 +248,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.96
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.96?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.96?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.97
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.97?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.0?classifier=sources
@@ -391,6 +394,11 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.51
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.52
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.53
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@2.0.6
@@ -565,6 +573,11 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.57
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.58
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.58?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.59
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@3.0.6
@@ -688,6 +701,11 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.41
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.42
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.43
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@4.0.5
@@ -799,6 +817,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.37
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.38
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.spa.web@5.0.4

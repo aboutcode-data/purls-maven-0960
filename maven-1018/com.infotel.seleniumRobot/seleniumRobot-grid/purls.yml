@@ -84,6 +84,10 @@
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.6.0?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.6.1?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@4.6.1?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.10?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.10?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.11?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.11?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.3?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.3?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.4?classifier=sources
@@ -92,3 +96,7 @@
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.5?type=zip
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.7?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.7?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.8?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.8?type=zip
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.9?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-grid@5.0.9?type=zip

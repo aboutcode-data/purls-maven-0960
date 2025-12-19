@@ -1,2 +1,4 @@
 - pkg:maven/com.iteaj/iot-boot-starter@2.6.0
 - pkg:maven/com.iteaj/iot-boot-starter@2.6.0?classifier=sources
+- pkg:maven/com.iteaj/iot-boot-starter@3.0.0
+- pkg:maven/com.iteaj/iot-boot-starter@3.0.0?classifier=sources

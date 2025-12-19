@@ -49,6 +49,8 @@
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.0?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.1-dev01%2Bf8b39929b?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.1-dev02%2B0cd8a1ae6?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.31.10?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.31.11?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.1?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.2?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.3?classifier=sources
@@ -58,4 +60,8 @@
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.5-dev02%2Bb65f8712e?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.5-dev0c%2Bd53549ad7?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.5-dev0f%2B5a2ad7593?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.31.5-dev0m%2B0c07eb350?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-streams@0.31.5?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.31.7?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.31.8?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-streams@0.31.9?classifier=sources

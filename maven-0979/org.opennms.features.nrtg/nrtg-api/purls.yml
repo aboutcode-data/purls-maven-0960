@@ -14,3 +14,5 @@
 - pkg:maven/org.opennms.features.nrtg/nrtg-api@31.0.9?classifier=sources
 - pkg:maven/org.opennms.features.nrtg/nrtg-api@32.0.0
 - pkg:maven/org.opennms.features.nrtg/nrtg-api@32.0.0?classifier=sources
+- pkg:maven/org.opennms.features.nrtg/nrtg-api@32.0.1
+- pkg:maven/org.opennms.features.nrtg/nrtg-api@32.0.1?classifier=sources

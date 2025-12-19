@@ -326,6 +326,14 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.2.8?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.2.9
 - pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.2.9?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.20.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.20.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.21.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.22.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.22.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.23.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.23.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@3.3.1

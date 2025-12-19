@@ -131,6 +131,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC1
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC10
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC10?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC11
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC11?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC1?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC2
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-RC2?classifier=sources
@@ -151,6 +153,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC1
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC10
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC10?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC11
+- pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC11?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC1?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC2
 - pkg:maven/org.reactivemongo/reactivemongo-bson-api_2.13@1.1.0-noshaded-RC2?classifier=sources

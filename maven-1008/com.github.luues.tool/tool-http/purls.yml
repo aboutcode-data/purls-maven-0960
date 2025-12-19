@@ -1,3 +1,4 @@
+- pkg:maven/com.github.luues.tool/tool-http@1
 - pkg:maven/com.github.luues.tool/tool-http@1.0.0.0.RELEASE
 - pkg:maven/com.github.luues.tool/tool-http@1.0.0.0.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.tool/tool-http@1.0.0.1.RELEASE
@@ -66,3 +67,6 @@
 - pkg:maven/com.github.luues.tool/tool-http@1.0.3.4.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.tool/tool-http@1.0.3.5.RELEASE
 - pkg:maven/com.github.luues.tool/tool-http@1.0.3.5.RELEASE?classifier=sources
+- pkg:maven/com.github.luues.tool/tool-http@1.0.3.7.RELEASE
+- pkg:maven/com.github.luues.tool/tool-http@1.0.3.7.RELEASE?classifier=sources
+- pkg:maven/com.github.luues.tool/tool-http@1?classifier=sources

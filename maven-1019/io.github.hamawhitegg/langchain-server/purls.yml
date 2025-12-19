@@ -1,3 +1,4 @@
+- pkg:maven/io.github.hamawhitegg/langchain-server@0.1.10
 - pkg:maven/io.github.hamawhitegg/langchain-server@0.1.3
 - pkg:maven/io.github.hamawhitegg/langchain-server@0.1.3?classifier=sources
 - pkg:maven/io.github.hamawhitegg/langchain-server@0.1.4
@@ -7,3 +8,5 @@
 - pkg:maven/io.github.hamawhitegg/langchain-server@0.1.6
 - pkg:maven/io.github.hamawhitegg/langchain-server@0.1.6?classifier=sources
 - pkg:maven/io.github.hamawhitegg/langchain-server@0.1.7
+- pkg:maven/io.github.hamawhitegg/langchain-server@0.1.8
+- pkg:maven/io.github.hamawhitegg/langchain-server@0.1.9

@@ -25,3 +25,6 @@
 - pkg:maven/org.openrndr.extra/orx-realsense2-natives-linux-x64@0.4.3-alpha8?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-realsense2-natives-linux-x64@0.4.3-alpha9?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-realsense2-natives-linux-x64@0.4.3?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-realsense2-natives-linux-x64@0.4.4-alpha1?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-realsense2-natives-linux-x64@0.4.4-alpha2?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-realsense2-natives-linux-x64@0.4.4-alpha3?classifier=sources

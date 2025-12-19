@@ -220,6 +220,14 @@
 - pkg:maven/com.google.cloud/google-cloud-kms@2.20.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-kms@2.21.0
 - pkg:maven/com.google.cloud/google-cloud-kms@2.21.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-kms@2.22.0
+- pkg:maven/com.google.cloud/google-cloud-kms@2.22.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-kms@2.23.0
+- pkg:maven/com.google.cloud/google-cloud-kms@2.23.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-kms@2.24.0
+- pkg:maven/com.google.cloud/google-cloud-kms@2.24.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-kms@2.25.0
+- pkg:maven/com.google.cloud/google-cloud-kms@2.25.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-kms@2.3.0
 - pkg:maven/com.google.cloud/google-cloud-kms@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-kms@2.3.1

@@ -1,0 +1,4 @@
+- pkg:maven/de.ronnyfriedland.maven/adr-example@1.1.1
+- pkg:maven/de.ronnyfriedland.maven/adr-example@1.1.1?classifier=sources
+- pkg:maven/de.ronnyfriedland.maven/adr-example@1.2.0
+- pkg:maven/de.ronnyfriedland.maven/adr-example@1.2.0?classifier=sources

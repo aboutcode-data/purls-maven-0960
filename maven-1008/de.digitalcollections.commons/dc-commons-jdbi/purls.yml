@@ -38,3 +38,5 @@
 - pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@5.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@6.0.0
 - pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@6.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@7.0.0
+- pkg:maven/de.digitalcollections.commons/dc-commons-jdbi@7.0.0?classifier=sources

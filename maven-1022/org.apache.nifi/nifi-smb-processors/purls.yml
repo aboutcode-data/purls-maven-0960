@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.nifi/nifi-smb-processors@1.21.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-smb-processors@1.22.0
 - pkg:maven/org.apache.nifi/nifi-smb-processors@1.22.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-smb-processors@1.23.0
+- pkg:maven/org.apache.nifi/nifi-smb-processors@1.23.0?classifier=sources

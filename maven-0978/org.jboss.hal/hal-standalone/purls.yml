@@ -30,6 +30,10 @@
 - pkg:maven/org.jboss.hal/hal-standalone@3.6.1.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-standalone@3.6.10.Final
 - pkg:maven/org.jboss.hal/hal-standalone@3.6.10.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-standalone@3.6.11.Final
+- pkg:maven/org.jboss.hal/hal-standalone@3.6.11.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-standalone@3.6.12.Final
+- pkg:maven/org.jboss.hal/hal-standalone@3.6.12.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-standalone@3.6.2.Final
 - pkg:maven/org.jboss.hal/hal-standalone@3.6.2.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-standalone@3.6.3.Final

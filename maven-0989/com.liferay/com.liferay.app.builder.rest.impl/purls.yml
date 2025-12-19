@@ -200,6 +200,11 @@
 - pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.7
+- pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.70
+- pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.70?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.71
+- pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.rest.impl@1.0.8

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.wajda/docker-maven-plugin@0.40.0.0
+- pkg:maven/com.github.wajda/docker-maven-plugin@0.40.0.0?classifier=sources
+- pkg:maven/com.github.wajda/docker-maven-plugin@0.44.0.0
+- pkg:maven/com.github.wajda/docker-maven-plugin@0.44.0.0?classifier=sources

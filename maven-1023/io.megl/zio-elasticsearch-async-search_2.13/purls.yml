@@ -1,2 +1,4 @@
 - pkg:maven/io.megl/zio-elasticsearch-async-search_2.13@2.0.0
 - pkg:maven/io.megl/zio-elasticsearch-async-search_2.13@2.0.0?classifier=sources
+- pkg:maven/io.megl/zio-elasticsearch-async-search_2.13@2.0.1
+- pkg:maven/io.megl/zio-elasticsearch-async-search_2.13@2.0.1?classifier=sources

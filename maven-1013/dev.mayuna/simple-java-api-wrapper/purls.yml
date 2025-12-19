@@ -7,3 +7,6 @@
 - pkg:maven/dev.mayuna/simple-java-api-wrapper@1.0.3
 - pkg:maven/dev.mayuna/simple-java-api-wrapper@1.0.3?classifier=sources
 - pkg:maven/dev.mayuna/simple-java-api-wrapper@1.0?classifier=sources
+- pkg:maven/dev.mayuna/simple-java-api-wrapper@2.0?classifier=sources
+- pkg:maven/dev.mayuna/simple-java-api-wrapper@2.1?classifier=sources
+- pkg:maven/dev.mayuna/simple-java-api-wrapper@2.2?classifier=sources

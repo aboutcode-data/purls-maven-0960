@@ -12,3 +12,5 @@
 - pkg:maven/net.corda/corda-notary-plugin@5.0.0.755-Hawk1.0?classifier=sources
 - pkg:maven/net.corda/corda-notary-plugin@5.0.0.763-Iguana1.0
 - pkg:maven/net.corda/corda-notary-plugin@5.0.0.763-Iguana1.0?classifier=sources
+- pkg:maven/net.corda/corda-notary-plugin@5.0.0.765
+- pkg:maven/net.corda/corda-notary-plugin@5.0.0.765?classifier=sources

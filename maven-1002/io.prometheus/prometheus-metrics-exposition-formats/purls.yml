@@ -1,0 +1,4 @@
+- pkg:maven/io.prometheus/prometheus-metrics-exposition-formats@1.0.0-alpha-1
+- pkg:maven/io.prometheus/prometheus-metrics-exposition-formats@1.0.0-alpha-1?classifier=sources
+- pkg:maven/io.prometheus/prometheus-metrics-exposition-formats@1.0.0-alpha-2
+- pkg:maven/io.prometheus/prometheus-metrics-exposition-formats@1.0.0-alpha-2?classifier=sources

@@ -118,6 +118,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.0.7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.0.8
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.0.8?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.1.0-RC11
+- pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.1.0-RC11?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.1.0-RC2
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.1.0-RC2?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-jmx_2.12@1.1.0-RC3

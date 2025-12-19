@@ -2,6 +2,8 @@
 - pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.10.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.11.0
 - pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.11.0?classifier=sources
+- pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.12.0
+- pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.12.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.6.0
 - pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.6.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-http-cratedb@1.7.0

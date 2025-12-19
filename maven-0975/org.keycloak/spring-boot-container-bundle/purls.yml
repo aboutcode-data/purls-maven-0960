@@ -86,6 +86,10 @@
 - pkg:maven/org.keycloak/spring-boot-container-bundle@21.1.1?classifier=sources
 - pkg:maven/org.keycloak/spring-boot-container-bundle@21.1.2
 - pkg:maven/org.keycloak/spring-boot-container-bundle@21.1.2?classifier=sources
+- pkg:maven/org.keycloak/spring-boot-container-bundle@22.0.0
+- pkg:maven/org.keycloak/spring-boot-container-bundle@22.0.0?classifier=sources
+- pkg:maven/org.keycloak/spring-boot-container-bundle@22.0.1
+- pkg:maven/org.keycloak/spring-boot-container-bundle@22.0.1?classifier=sources
 - pkg:maven/org.keycloak/spring-boot-container-bundle@3.1.0.CR1
 - pkg:maven/org.keycloak/spring-boot-container-bundle@3.1.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/spring-boot-container-bundle@3.1.0.Final

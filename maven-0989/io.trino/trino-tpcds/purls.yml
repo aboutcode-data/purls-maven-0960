@@ -67,3 +67,5 @@
 - pkg:maven/io.trino/trino-tpcds@418?classifier=sources
 - pkg:maven/io.trino/trino-tpcds@419?classifier=sources
 - pkg:maven/io.trino/trino-tpcds@420?classifier=sources
+- pkg:maven/io.trino/trino-tpcds@421?classifier=sources
+- pkg:maven/io.trino/trino-tpcds@422?classifier=sources

@@ -421,3 +421,9 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@7.0.0-RC3?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@7.0.0?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-sql@7.0.1?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@7.0.2?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@7.0.3?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@7.1.0?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@7.2.0?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@7.3.0?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-sql@7.3.1?classifier=sources

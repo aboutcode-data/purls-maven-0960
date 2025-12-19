@@ -201,6 +201,7 @@
 - pkg:maven/io.grpc/grpc-core@1.55.3?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.56.0?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.56.1?classifier=sources
+- pkg:maven/io.grpc/grpc-core@1.57.0?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.6.0
 - pkg:maven/io.grpc/grpc-core@1.6.0?classifier=sources
 - pkg:maven/io.grpc/grpc-core@1.6.1

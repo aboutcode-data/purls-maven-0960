@@ -7,6 +7,7 @@
 - pkg:maven/me.proton.core/data-room@10.2.0?classifier=sources
 - pkg:maven/me.proton.core/data-room@10.2.1?classifier=sources
 - pkg:maven/me.proton.core/data-room@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/data-room@10.3.1?classifier=sources
 - pkg:maven/me.proton.core/data-room@10.4.0?classifier=sources
 - pkg:maven/me.proton.core/data-room@10.5.0?classifier=sources
 - pkg:maven/me.proton.core/data-room@10.6.0?classifier=sources
@@ -14,6 +15,10 @@
 - pkg:maven/me.proton.core/data-room@10.7.1?classifier=sources
 - pkg:maven/me.proton.core/data-room@11.0.0?classifier=sources
 - pkg:maven/me.proton.core/data-room@12.0.0?classifier=sources
+- pkg:maven/me.proton.core/data-room@13.0.0?classifier=sources
+- pkg:maven/me.proton.core/data-room@13.0.1?classifier=sources
+- pkg:maven/me.proton.core/data-room@14.0.0?classifier=sources
+- pkg:maven/me.proton.core/data-room@14.0.1?classifier=sources
 - pkg:maven/me.proton.core/data-room@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/data-room@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/data-room@3.0.0?classifier=sources

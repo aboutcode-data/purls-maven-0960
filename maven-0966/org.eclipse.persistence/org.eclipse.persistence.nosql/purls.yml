@@ -99,6 +99,10 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.12-RC1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.12-RC1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.12?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.13
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.13-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.13-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.13?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.nosql@2.7.2-RC1

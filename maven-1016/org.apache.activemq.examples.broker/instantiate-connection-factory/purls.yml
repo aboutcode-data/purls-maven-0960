@@ -76,6 +76,8 @@
 - pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.29.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.3.0
 - pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.3.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.30.0
+- pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.30.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.4.0
 - pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.4.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/instantiate-connection-factory@2.5.0

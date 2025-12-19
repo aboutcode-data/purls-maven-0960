@@ -48,3 +48,5 @@
 - pkg:maven/com.colisweb/scala-distances-core_2.12@8.0.0-RC9
 - pkg:maven/com.colisweb/scala-distances-core_2.12@8.0.0-RC9?classifier=sources
 - pkg:maven/com.colisweb/scala-distances-core_2.12@8.0.0?classifier=sources
+- pkg:maven/com.colisweb/scala-distances-core_2.12@8.0.1
+- pkg:maven/com.colisweb/scala-distances-core_2.12@8.0.1?classifier=sources
