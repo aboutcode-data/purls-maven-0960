@@ -1,3 +1,4 @@
 - pkg:maven/cn.brk2outside/json@0.0.1?classifier=sources
 - pkg:maven/cn.brk2outside/json@0.1.4-release?classifier=sources
 - pkg:maven/cn.brk2outside/json@0.1.5-release?classifier=sources
+- pkg:maven/cn.brk2outside/json@1.0.2-jdk17-release?classifier=sources

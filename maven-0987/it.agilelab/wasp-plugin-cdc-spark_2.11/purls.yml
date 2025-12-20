@@ -44,3 +44,7 @@
 - pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.1-cdp717
 - pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.1-cdp717?classifier=sources
 - pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.1?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.2
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.2-cdp717
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.2-cdp717?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.31.2?classifier=sources

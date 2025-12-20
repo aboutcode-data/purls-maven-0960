@@ -159,5 +159,11 @@
 - pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.82?classifier=sources
 - pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.83?classifier=sources
 - pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.88?classifier=sources
+- pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.89?classifier=sources
 - pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.8?classifier=sources
+- pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.90?classifier=sources
+- pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.91?classifier=sources
+- pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.92?classifier=sources
+- pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.93?classifier=sources
+- pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.94?classifier=sources
 - pkg:maven/io.mantisrx/mantis-connector-iceberg@2.0.9?classifier=sources

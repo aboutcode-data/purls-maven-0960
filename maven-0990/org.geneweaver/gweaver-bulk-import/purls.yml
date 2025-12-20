@@ -99,6 +99,8 @@
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.0
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.0?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.1
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.10
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.10?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.1?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.2
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.2?classifier=sources
@@ -110,3 +112,9 @@
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.5?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.6
 - pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.6?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.7
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.7?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.8
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.8?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.9
+- pkg:maven/org.geneweaver/gweaver-bulk-import@1.5.9?classifier=sources

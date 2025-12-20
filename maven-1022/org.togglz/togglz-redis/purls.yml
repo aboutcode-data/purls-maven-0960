@@ -70,3 +70,5 @@
 - pkg:maven/org.togglz/togglz-redis@4.2.0?classifier=sources
 - pkg:maven/org.togglz/togglz-redis@4.3.0
 - pkg:maven/org.togglz/togglz-redis@4.3.0?classifier=sources
+- pkg:maven/org.togglz/togglz-redis@4.4.0
+- pkg:maven/org.togglz/togglz-redis@4.4.0?classifier=sources

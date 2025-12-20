@@ -156,5 +156,7 @@
 - pkg:maven/com.github.davidmoten/odata-client-runtime@0.1.9
 - pkg:maven/com.github.davidmoten/odata-client-runtime@0.1.90
 - pkg:maven/com.github.davidmoten/odata-client-runtime@0.1.90?classifier=sources
+- pkg:maven/com.github.davidmoten/odata-client-runtime@0.1.91
+- pkg:maven/com.github.davidmoten/odata-client-runtime@0.1.91?classifier=sources
 - pkg:maven/com.github.davidmoten/odata-client-runtime@0.1.9?classifier=sources
 - pkg:maven/com.github.davidmoten/odata-client-runtime@0.1?classifier=sources

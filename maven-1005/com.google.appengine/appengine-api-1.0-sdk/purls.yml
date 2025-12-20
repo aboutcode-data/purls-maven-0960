@@ -157,8 +157,12 @@
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.16?classifier=sources
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.17
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.17?classifier=sources
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.19
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.19?classifier=sources
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.1?classifier=sources
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.2
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.20
+- pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.20?classifier=sources
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.2?classifier=sources
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.3
 - pkg:maven/com.google.appengine/appengine-api-1.0-sdk@2.0.3?classifier=sources

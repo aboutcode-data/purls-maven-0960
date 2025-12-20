@@ -1,0 +1,5 @@
+- pkg:maven/com.soywiz.korge/korge-tvosx64@5.0.0-RC?classifier=sources
+- pkg:maven/com.soywiz.korge/korge-tvosx64@5.0.0-alpha?classifier=sources
+- pkg:maven/com.soywiz.korge/korge-tvosx64@5.0.0?classifier=sources
+- pkg:maven/com.soywiz.korge/korge-tvosx64@5.0.1?classifier=sources
+- pkg:maven/com.soywiz.korge/korge-tvosx64@5.0.2?classifier=sources

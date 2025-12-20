@@ -3,3 +3,9 @@
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.25.0?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.25.1?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.26.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.27.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.27.1?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.27.2?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.27.3?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.27.4?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-otel-jvm@0.27.5?classifier=sources

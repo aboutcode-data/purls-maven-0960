@@ -156,6 +156,8 @@
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.30?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.31
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.31?classifier=sources
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.32
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.32?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.5
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.5?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@2.5.8
@@ -170,8 +172,12 @@
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.1.2
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.1.2.1
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.1.2.1?classifier=sources
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.1.2.2
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.1.2.2?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.1.2?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.2.0
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.2.0?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.3.0
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.3.0.1
+- pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.3.0.1?classifier=sources
 - pkg:maven/org.apache.struts/struts2-pell-multipart-plugin@6.3.0?classifier=sources

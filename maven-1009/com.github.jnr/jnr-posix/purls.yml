@@ -162,6 +162,8 @@
 - pkg:maven/com.github.jnr/jnr-posix@3.1.16?classifier=sources
 - pkg:maven/com.github.jnr/jnr-posix@3.1.17
 - pkg:maven/com.github.jnr/jnr-posix@3.1.17?classifier=sources
+- pkg:maven/com.github.jnr/jnr-posix@3.1.18
+- pkg:maven/com.github.jnr/jnr-posix@3.1.18?classifier=sources
 - pkg:maven/com.github.jnr/jnr-posix@3.1.1?classifier=sources
 - pkg:maven/com.github.jnr/jnr-posix@3.1.2
 - pkg:maven/com.github.jnr/jnr-posix@3.1.2?classifier=sources

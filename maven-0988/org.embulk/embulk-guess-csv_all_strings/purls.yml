@@ -13,3 +13,6 @@
 - pkg:maven/org.embulk/embulk-guess-csv_all_strings@0.10.41?classifier=sources
 - pkg:maven/org.embulk/embulk-guess-csv_all_strings@0.10.42?classifier=sources
 - pkg:maven/org.embulk/embulk-guess-csv_all_strings@0.11.0?classifier=sources
+- pkg:maven/org.embulk/embulk-guess-csv_all_strings@0.11.1?classifier=sources
+- pkg:maven/org.embulk/embulk-guess-csv_all_strings@0.11.2?classifier=sources
+- pkg:maven/org.embulk/embulk-guess-csv_all_strings@0.11.3?classifier=sources

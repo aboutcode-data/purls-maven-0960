@@ -178,6 +178,8 @@
 - pkg:maven/org.wildfly/wildfly-jdr@29.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jdr@29.0.1.Final
 - pkg:maven/org.wildfly/wildfly-jdr@29.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-jdr@30.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-jdr@30.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jdr@8.0.0.Alpha1
 - pkg:maven/org.wildfly/wildfly-jdr@8.0.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-jdr@8.0.0.Alpha2

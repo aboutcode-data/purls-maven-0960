@@ -1,3 +1,5 @@
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@10.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@10.0.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@2.0.10.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@2.0.10.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@2.0.11.Final
@@ -44,3 +46,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@5.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@6.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@6.0.0.Alpha1?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@8.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@8.0.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@9.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-test-base@9.0.0.Final?classifier=sources

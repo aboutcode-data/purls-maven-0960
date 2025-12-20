@@ -237,6 +237,8 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.14.1-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.14.1-alpha3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.14.1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.14.2-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.14.2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.15.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.15.0-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.15.0-beta1?classifier=sources
@@ -250,6 +252,9 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.16.2-alpha3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.16.2-alpha4?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.16.2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.16.3-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.16.3-alpha2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.16.3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.17.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.2.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.2.1?classifier=sources
@@ -298,3 +303,4 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.9.0-rc1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.9.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@4.9.1-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-shared-preferences@5.0.0-alpha1?classifier=sources

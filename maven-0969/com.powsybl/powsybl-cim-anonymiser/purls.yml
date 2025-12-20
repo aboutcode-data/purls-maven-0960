@@ -156,3 +156,7 @@
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.3.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.3.2
 - pkg:maven/com.powsybl/powsybl-cim-anonymiser@5.3.2?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@6.0.0
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@6.0.0-RC1
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@6.0.0-RC1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cim-anonymiser@6.0.0?classifier=sources

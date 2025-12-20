@@ -43,10 +43,13 @@
 - pkg:maven/uk.co.real-logic/artio-core@0.138?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.139.1?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.139.2?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-core@0.139.3?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.139?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.140?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.141?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.142?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-core@0.143?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-core@0.144?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.19
 - pkg:maven/uk.co.real-logic/artio-core@0.19?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-core@0.20

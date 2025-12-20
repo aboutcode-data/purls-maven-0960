@@ -269,6 +269,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.5.9.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.5.9.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.5.9.3?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.5.9.4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.5.9?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.0-RC2?classifier=sources
@@ -278,6 +279,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.10?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.11?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.12?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@6.6.3?classifier=sources
@@ -294,5 +296,6 @@
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@7.0.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@7.0.0-RC6?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@7.0.0-RC7?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-jdbc@7.0.0-RC8?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-jdbc@v6.4.0-RC6?classifier=sources

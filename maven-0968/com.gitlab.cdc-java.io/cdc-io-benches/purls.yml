@@ -44,3 +44,5 @@
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.26.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.27.0
 - pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.27.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.27.1
+- pkg:maven/com.gitlab.cdc-java.io/cdc-io-benches@0.27.1?classifier=sources

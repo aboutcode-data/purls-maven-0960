@@ -1,4 +1,6 @@
 - pkg:maven/org.codegeny.jakartron/jakartron-mockito@0.0.1
+- pkg:maven/org.codegeny.jakartron/jakartron-mockito@0.0.10
+- pkg:maven/org.codegeny.jakartron/jakartron-mockito@0.0.10?classifier=sources
 - pkg:maven/org.codegeny.jakartron/jakartron-mockito@0.0.1?classifier=sources
 - pkg:maven/org.codegeny.jakartron/jakartron-mockito@0.0.2
 - pkg:maven/org.codegeny.jakartron/jakartron-mockito@0.0.2?classifier=sources

@@ -28,5 +28,7 @@
 - pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@0.6.0-RC2
 - pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@0.6.0-RC2?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@0.6.0?classifier=sources
+- pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@0.6.1
+- pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@0.6.1?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@1.0.0-M1
 - pkg:maven/org.tpolecat/skunk-circe_sjs1_2.13@1.0.0-M1?classifier=sources

@@ -53,6 +53,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.0
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.0?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.1
+- pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.10
+- pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.10?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.2
 - pkg:maven/org.codehaus.cargo/cargo-documentation@1.10.2?classifier=sources

@@ -86,6 +86,10 @@
 - pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.2?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.3
 - pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.3?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.4
+- pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.4?classifier=sources
+- pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.5
+- pkg:maven/org.scala-sbt/zinc-persist-core-assembly@1.9.5?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-persist-core-assembly@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/zinc-persist-core-assembly@2.0.0-alpha1?classifier=sources
 - pkg:maven/org.scala-sbt/zinc-persist-core-assembly@2.0.0-alpha2

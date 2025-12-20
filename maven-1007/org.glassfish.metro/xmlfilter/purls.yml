@@ -175,6 +175,8 @@
 - pkg:maven/org.glassfish.metro/xmlfilter@3.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.metro/xmlfilter@3.0.0?classifier=sources
 - pkg:maven/org.glassfish.metro/xmlfilter@3.0.1
+- pkg:maven/org.glassfish.metro/xmlfilter@3.0.1-b02
+- pkg:maven/org.glassfish.metro/xmlfilter@3.0.1-b02?classifier=sources
 - pkg:maven/org.glassfish.metro/xmlfilter@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.metro/xmlfilter@3.0.2
 - pkg:maven/org.glassfish.metro/xmlfilter@3.0.2?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/top.tangyh.basic/lamp-mq-starter@3.10.0
 - pkg:maven/top.tangyh.basic/lamp-mq-starter@3.10.0?classifier=sources
+- pkg:maven/top.tangyh.basic/lamp-mq-starter@3.11.0-java17
+- pkg:maven/top.tangyh.basic/lamp-mq-starter@3.11.0-java17?classifier=sources
 - pkg:maven/top.tangyh.basic/lamp-mq-starter@3.4.0
 - pkg:maven/top.tangyh.basic/lamp-mq-starter@3.4.0?classifier=sources
 - pkg:maven/top.tangyh.basic/lamp-mq-starter@3.5.0

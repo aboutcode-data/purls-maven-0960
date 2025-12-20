@@ -162,6 +162,12 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.20.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.21.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.21.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.22.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.22.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.23.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.23.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.24.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.24.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.3.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-v4-generator-maven-plugin@4.4.0

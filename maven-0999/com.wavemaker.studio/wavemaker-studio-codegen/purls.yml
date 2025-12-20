@@ -18,6 +18,7 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.14.1?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.14.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.15.0?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.15.10.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.15.1?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.15.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.15.3.ee?classifier=sources
@@ -41,6 +42,7 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.16.5?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.16.6.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.16.6?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.16.7.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.6.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.6.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@10.6.1.ee?classifier=sources
@@ -92,6 +94,7 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.2.4?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.2.5.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.2.5?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.2.6.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.1.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.2.ee?classifier=sources
@@ -102,6 +105,10 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.5?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.6.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.6?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.3.7.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.4.0?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.4.1?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.4.2.ee?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@11.4.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@9.9.9-20201009170109?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-studio-codegen@9.9.9-20201011200802?classifier=sources

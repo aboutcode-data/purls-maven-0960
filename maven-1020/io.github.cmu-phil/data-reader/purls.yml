@@ -23,6 +23,8 @@
 - pkg:maven/io.github.cmu-phil/data-reader@7.4.0
 - pkg:maven/io.github.cmu-phil/data-reader@7.4.0?classifier=sources
 - pkg:maven/io.github.cmu-phil/data-reader@7.5.0
+- pkg:maven/io.github.cmu-phil/data-reader@7.5.0-SHAPSHOT
+- pkg:maven/io.github.cmu-phil/data-reader@7.5.0-SHAPSHOT?classifier=sources
 - pkg:maven/io.github.cmu-phil/data-reader@7.5.0-jdk1.8
 - pkg:maven/io.github.cmu-phil/data-reader@7.5.0-jdk1.8?classifier=sources
 - pkg:maven/io.github.cmu-phil/data-reader@7.5.0?classifier=sources

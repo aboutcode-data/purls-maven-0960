@@ -2,6 +2,10 @@
 - pkg:maven/com.tencent.edu/TEduBoardSdk@0.0.0.4?type=aar
 - pkg:maven/com.tencent.edu/TEduBoardSdk@0.0.0.5?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdk@0.0.0.5?type=aar
+- pkg:maven/com.tencent.edu/TEduBoardSdk@2.5.0.47?classifier=sources
+- pkg:maven/com.tencent.edu/TEduBoardSdk@2.5.0.48?classifier=sources
+- pkg:maven/com.tencent.edu/TEduBoardSdk@2.5.0.49?classifier=sources
+- pkg:maven/com.tencent.edu/TEduBoardSdk@2.5.0.50?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdk@2.5.7.88?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdk@2.6.0.94?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdk@2.6.0.98?classifier=sources
@@ -93,3 +97,4 @@
 - pkg:maven/com.tencent.edu/TEduBoardSdk@2.8.8.244?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdk@2.8.9.245?classifier=sources
 - pkg:maven/com.tencent.edu/TEduBoardSdk@2.8.9.246?classifier=sources
+- pkg:maven/com.tencent.edu/TEduBoardSdk@2.9.1.248?classifier=sources

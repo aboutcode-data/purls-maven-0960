@@ -53,6 +53,8 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.14?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.15
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.15?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.16
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.16?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.1?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.2?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.boofcv/boofcv-types@0.43?classifier=sources
 - pkg:maven/org.boofcv/boofcv-types@0.44?classifier=sources
 - pkg:maven/org.boofcv/boofcv-types@1.0.0?classifier=sources
+- pkg:maven/org.boofcv/boofcv-types@1.1.0?classifier=sources
+- pkg:maven/org.boofcv/boofcv-types@1.1.1?classifier=sources

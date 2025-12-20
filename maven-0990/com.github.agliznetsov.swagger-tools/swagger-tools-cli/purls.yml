@@ -38,3 +38,5 @@
 - pkg:maven/com.github.agliznetsov.swagger-tools/swagger-tools-cli@0.6.0?classifier=sources
 - pkg:maven/com.github.agliznetsov.swagger-tools/swagger-tools-cli@0.7.0
 - pkg:maven/com.github.agliznetsov.swagger-tools/swagger-tools-cli@0.7.0?classifier=sources
+- pkg:maven/com.github.agliznetsov.swagger-tools/swagger-tools-cli@0.8.0
+- pkg:maven/com.github.agliznetsov.swagger-tools/swagger-tools-cli@0.8.0?classifier=sources

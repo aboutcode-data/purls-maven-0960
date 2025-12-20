@@ -1,0 +1,4 @@
+- pkg:maven/org.virtuslab/besom-core_3@0.0.1-beta
+- pkg:maven/org.virtuslab/besom-core_3@0.0.1-beta?classifier=sources
+- pkg:maven/org.virtuslab/besom-core_3@0.1.0
+- pkg:maven/org.virtuslab/besom-core_3@0.1.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@1.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@1.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@1.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@2.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@3.0.0?classifier=sources

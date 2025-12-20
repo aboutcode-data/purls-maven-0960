@@ -40,6 +40,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.24.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.25.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.25.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.26.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.26.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.29.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.29.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-life-sciences-v2beta@0.3.1

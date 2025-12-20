@@ -40,3 +40,5 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@1.7.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.0.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.1.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.1.0?classifier=sources

@@ -34,3 +34,13 @@
 - pkg:maven/com.lihaoyi/mill-dist@0.11.2-7-c0823d
 - pkg:maven/com.lihaoyi/mill-dist@0.11.2-7-c0823d?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.2?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.3
+- pkg:maven/com.lihaoyi/mill-dist@0.11.3?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.4
+- pkg:maven/com.lihaoyi/mill-dist@0.11.4-25-ec6ebe
+- pkg:maven/com.lihaoyi/mill-dist@0.11.4-25-ec6ebe?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.4-40-72f093
+- pkg:maven/com.lihaoyi/mill-dist@0.11.4-40-72f093?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.4?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.5
+- pkg:maven/com.lihaoyi/mill-dist@0.11.5?classifier=sources

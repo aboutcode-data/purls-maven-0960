@@ -86,6 +86,8 @@
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.4.3?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.4.4?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.4.5?classifier=sources
+- pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.4.6?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.5.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.5.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.5.0-alpha03?classifier=sources
+- pkg:maven/org.neo4j.gds/storage-engine-adapter-api@2.5.0-alpha04?classifier=sources

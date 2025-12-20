@@ -298,6 +298,8 @@
 - pkg:maven/org.openl/org.openl.commons@5.26.9.1
 - pkg:maven/org.openl/org.openl.commons@5.26.9.1?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.26.9?classifier=sources
+- pkg:maven/org.openl/org.openl.commons@5.27.0
+- pkg:maven/org.openl/org.openl.commons@5.27.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.0
 - pkg:maven/org.openl/org.openl.commons@5.7.0?classifier=sources
 - pkg:maven/org.openl/org.openl.commons@5.7.1

@@ -8,3 +8,5 @@
 - pkg:maven/cn.raddev/onecode-msg-web@1.0.8
 - pkg:maven/cn.raddev/onecode-msg-web@1.0.8?classifier=sources
 - pkg:maven/cn.raddev/onecode-msg-web@1.0?classifier=sources
+- pkg:maven/cn.raddev/onecode-msg-web@1.1
+- pkg:maven/cn.raddev/onecode-msg-web@1.1?classifier=sources

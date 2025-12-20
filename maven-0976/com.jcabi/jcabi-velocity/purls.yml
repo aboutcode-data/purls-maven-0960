@@ -8,6 +8,8 @@
 - pkg:maven/com.jcabi/jcabi-velocity@0.1.8?classifier=sources
 - pkg:maven/com.jcabi/jcabi-velocity@0.1.9
 - pkg:maven/com.jcabi/jcabi-velocity@0.1.9?classifier=sources
+- pkg:maven/com.jcabi/jcabi-velocity@0.10.0
+- pkg:maven/com.jcabi/jcabi-velocity@0.10.0?classifier=sources
 - pkg:maven/com.jcabi/jcabi-velocity@0.2.0
 - pkg:maven/com.jcabi/jcabi-velocity@0.2.0?classifier=sources
 - pkg:maven/com.jcabi/jcabi-velocity@0.2.1

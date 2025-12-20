@@ -16,3 +16,6 @@
 - pkg:maven/com.liferay/com.liferay.headless.builder.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.headless.builder.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.builder.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.builder.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.builder.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.builder.api@7.1.0?classifier=sources

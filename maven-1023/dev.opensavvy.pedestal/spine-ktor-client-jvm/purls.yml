@@ -1,3 +1,5 @@
+- pkg:maven/dev.opensavvy.pedestal/spine-ktor-client-jvm@2.0.0-rc.12?classifier=sources
 - pkg:maven/dev.opensavvy.pedestal/spine-ktor-client-jvm@2.0.0-rc.6-post.5%2B8c1ce4a95b?classifier=sources
 - pkg:maven/dev.opensavvy.pedestal/spine-ktor-client-jvm@2.0.0-rc.8?classifier=sources
 - pkg:maven/dev.opensavvy.pedestal/spine-ktor-client-jvm@2.0.0-rc.9?classifier=sources
+- pkg:maven/dev.opensavvy.pedestal/spine-ktor-client-jvm@2.0.0?classifier=sources

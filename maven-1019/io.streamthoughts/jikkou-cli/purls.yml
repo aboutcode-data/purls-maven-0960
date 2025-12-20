@@ -13,3 +13,6 @@
 - pkg:maven/io.streamthoughts/jikkou-cli@0.23.0
 - pkg:maven/io.streamthoughts/jikkou-cli@0.23.0?classifier=sources
 - pkg:maven/io.streamthoughts/jikkou-cli@0.24.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-cli@0.26.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-cli@0.27.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-cli@0.29.0?classifier=sources

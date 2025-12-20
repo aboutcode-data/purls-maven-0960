@@ -1,2 +1,6 @@
 - pkg:maven/me.legrange/services-bom@4.2.0
 - pkg:maven/me.legrange/services-bom@4.2.0?classifier=sources
+- pkg:maven/me.legrange/services-bom@4.3.0
+- pkg:maven/me.legrange/services-bom@4.3.0?classifier=sources
+- pkg:maven/me.legrange/services-bom@4.3.1
+- pkg:maven/me.legrange/services-bom@4.3.1?classifier=sources

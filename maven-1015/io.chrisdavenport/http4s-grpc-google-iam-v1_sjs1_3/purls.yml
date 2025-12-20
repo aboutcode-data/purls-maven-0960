@@ -14,6 +14,12 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.15.0%2B0.0.5?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.18.0%2B0.0.5
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.18.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.19.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.19.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.20.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.20.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.20.1%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.20.1%2B0.0.5?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.9.3%2B0.0.1
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.9.3%2B0.0.1?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-iam-v1_sjs1_3@1.9.3%2B0.0.2

@@ -45,6 +45,8 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.2
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.20
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.20?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.21
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.21?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.2?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.3
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@1.13.3?classifier=sources
@@ -81,6 +83,10 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.11?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.12
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.12?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.13
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.13?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.14
+- pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.14?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.1?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.2
 - pkg:maven/org.bidib.jbidib/jbidibc-pi-tools@2.0.2?classifier=sources

@@ -78,6 +78,8 @@
 - pkg:maven/org.apache.activemq.examples.broker/topic@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/topic@2.30.0
 - pkg:maven/org.apache.activemq.examples.broker/topic@2.30.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/topic@2.31.0
+- pkg:maven/org.apache.activemq.examples.broker/topic@2.31.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/topic@2.4.0
 - pkg:maven/org.apache.activemq.examples.broker/topic@2.4.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/topic@2.5.0

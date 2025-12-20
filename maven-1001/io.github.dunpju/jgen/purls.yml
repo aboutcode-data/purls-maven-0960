@@ -35,6 +35,12 @@
 - pkg:maven/io.github.dunpju/jgen@1.0.24?classifier=sources
 - pkg:maven/io.github.dunpju/jgen@1.0.25
 - pkg:maven/io.github.dunpju/jgen@1.0.25?classifier=sources
+- pkg:maven/io.github.dunpju/jgen@1.0.26
+- pkg:maven/io.github.dunpju/jgen@1.0.26?classifier=sources
+- pkg:maven/io.github.dunpju/jgen@1.0.27
+- pkg:maven/io.github.dunpju/jgen@1.0.27?classifier=sources
+- pkg:maven/io.github.dunpju/jgen@1.0.28
+- pkg:maven/io.github.dunpju/jgen@1.0.28?classifier=sources
 - pkg:maven/io.github.dunpju/jgen@1.0.2?classifier=sources
 - pkg:maven/io.github.dunpju/jgen@1.0.3
 - pkg:maven/io.github.dunpju/jgen@1.0.3?classifier=sources

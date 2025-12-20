@@ -107,6 +107,16 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230825
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230903
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230905
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230916
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230917
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230918
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230919
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230920
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230922
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20230927
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20231001
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20231010
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-20231011
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230712
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230718
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230720
@@ -119,3 +129,4 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230818
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230825
 - pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230903
+- pkg:maven/org.anyline/anyline-data-jdbc-couchdb@8.6.5-jdk17-20230917

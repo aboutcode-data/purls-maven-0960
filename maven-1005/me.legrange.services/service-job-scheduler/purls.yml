@@ -92,3 +92,7 @@
 - pkg:maven/me.legrange.services/service-job-scheduler@4.1.0?classifier=sources
 - pkg:maven/me.legrange.services/service-job-scheduler@4.2.0
 - pkg:maven/me.legrange.services/service-job-scheduler@4.2.0?classifier=sources
+- pkg:maven/me.legrange.services/service-job-scheduler@4.3.0
+- pkg:maven/me.legrange.services/service-job-scheduler@4.3.0?classifier=sources
+- pkg:maven/me.legrange.services/service-job-scheduler@4.3.1
+- pkg:maven/me.legrange.services/service-job-scheduler@4.3.1?classifier=sources

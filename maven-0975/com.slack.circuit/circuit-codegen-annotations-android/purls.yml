@@ -6,6 +6,7 @@
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.13.0-beta01?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.14.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.14.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.15.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.3.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.3.1?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-android@0.4.0?classifier=sources

@@ -35,5 +35,7 @@
 - pkg:maven/com.izivia/ocpp-1-6-core@1.1.0?classifier=sources
 - pkg:maven/com.izivia/ocpp-1-6-core@1.1.1-TEST.1?classifier=sources
 - pkg:maven/com.izivia/ocpp-1-6-core@1.1.1-TEST.2?classifier=sources
+- pkg:maven/com.izivia/ocpp-1-6-core@1.1.1?classifier=sources
+- pkg:maven/com.izivia/ocpp-1-6-core@1.2.0?classifier=sources
 - pkg:maven/com.izivia/ocpp-1-6-core@20221107-1?classifier=sources
 - pkg:maven/com.izivia/ocpp-1-6-core@20221110-1?classifier=sources

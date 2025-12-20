@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.10?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.10?type=war

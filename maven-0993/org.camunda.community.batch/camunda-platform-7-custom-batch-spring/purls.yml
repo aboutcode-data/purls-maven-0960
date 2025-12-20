@@ -1,5 +1,9 @@
 - pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.18.1
 - pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.18.1?classifier=sources
+- pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.20.0
+- pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.20.0?classifier=sources
+- pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.20.1
+- pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.20.1?classifier=sources
 - pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.6.0
 - pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@1.6.0?classifier=sources
 - pkg:maven/org.camunda.community.batch/camunda-platform-7-custom-batch-spring@v1.6.0

@@ -54,6 +54,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.22.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.23.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.23.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.24.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.24.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.27.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.27.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-assured-workloads-v1@2.4.0

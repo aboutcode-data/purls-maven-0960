@@ -48,6 +48,8 @@
 - pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.30.RELEASE
 - pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.30.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.31.RELEASE
+- pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.31.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.4.RELEASE
 - pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot.experimental/spring-boot-thin-layout@1.0.5.RELEASE

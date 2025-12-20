@@ -14,5 +14,7 @@
 - pkg:maven/io.camunda.connector/connector-test@0.22.0?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@0.22.1
 - pkg:maven/io.camunda.connector/connector-test@0.22.1?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@0.23.0
 - pkg:maven/io.camunda.connector/connector-test@0.23.0-alpha1-avro
 - pkg:maven/io.camunda.connector/connector-test@0.23.0-alpha1-avro?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@0.23.0?classifier=sources

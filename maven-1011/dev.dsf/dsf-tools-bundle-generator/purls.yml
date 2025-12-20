@@ -4,3 +4,7 @@
 - pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.0.0?classifier=sources
 - pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.1.0
 - pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.1.0?classifier=sources
+- pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.2.0
+- pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.2.0-RC1
+- pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.2.0-RC1?classifier=sources
+- pkg:maven/dev.dsf/dsf-tools-bundle-generator@1.2.0?classifier=sources

@@ -288,3 +288,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@6.6.0.202305301015-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@6.6.1.202309021850-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@6.6.1.202309021850-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@6.7.0.202309050840-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@6.7.0.202309050840-r?classifier=sources
