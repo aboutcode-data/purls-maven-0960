@@ -34,3 +34,5 @@
 - pkg:maven/org.opennms/smoke-test@33.0.3?classifier=sources
 - pkg:maven/org.opennms/smoke-test@33.0.4
 - pkg:maven/org.opennms/smoke-test@33.0.4?classifier=sources
+- pkg:maven/org.opennms/smoke-test@33.0.5
+- pkg:maven/org.opennms/smoke-test@33.0.5?classifier=sources

@@ -74,6 +74,8 @@
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.26.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.27.0
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.27.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-postgresql@4.28.0
+- pkg:maven/org.liquibase.ext/liquibase-postgresql@4.28.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.3.0
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.3.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-postgresql@4.3.2

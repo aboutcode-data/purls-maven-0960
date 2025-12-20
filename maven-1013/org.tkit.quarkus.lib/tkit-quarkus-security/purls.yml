@@ -26,5 +26,9 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.22.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.23.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.23.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.24.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.24.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.25.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.25.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.9.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@2.9.0?classifier=sources

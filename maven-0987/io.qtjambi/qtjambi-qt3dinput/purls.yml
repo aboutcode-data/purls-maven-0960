@@ -48,8 +48,10 @@
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.5.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.5.5?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.5.6?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.5.7?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.6.0?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.6.1?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.6.2?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.6.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.7.0?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-qt3dinput@6.7.1?classifier=sources

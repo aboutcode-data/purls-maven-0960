@@ -1,2 +1,4 @@
 - pkg:maven/org.humanistika.oxygen/tei-authorizer@1.0
 - pkg:maven/org.humanistika.oxygen/tei-authorizer@1.0?classifier=sources
+- pkg:maven/org.humanistika.oxygen/tei-authorizer@1.1.0
+- pkg:maven/org.humanistika.oxygen/tei-authorizer@1.1.0?classifier=sources

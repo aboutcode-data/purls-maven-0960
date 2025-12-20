@@ -1,2 +1,4 @@
 - pkg:maven/org.openidentityplatform.openicf.connectors/ldap-connector@1.6.0
 - pkg:maven/org.openidentityplatform.openicf.connectors/ldap-connector@1.6.0?classifier=sources
+- pkg:maven/org.openidentityplatform.openicf.connectors/ldap-connector@1.6.1
+- pkg:maven/org.openidentityplatform.openicf.connectors/ldap-connector@1.6.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.pipservices/pip-services4-container@0.0.1
 - pkg:maven/org.pipservices/pip-services4-container@0.0.1?classifier=sources
+- pkg:maven/org.pipservices/pip-services4-container@0.0.2
+- pkg:maven/org.pipservices/pip-services4-container@0.0.2?classifier=sources

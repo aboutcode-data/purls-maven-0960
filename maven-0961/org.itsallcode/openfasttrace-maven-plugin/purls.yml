@@ -28,3 +28,5 @@
 - pkg:maven/org.itsallcode/openfasttrace-maven-plugin@1.7.0?classifier=sources
 - pkg:maven/org.itsallcode/openfasttrace-maven-plugin@1.8.0
 - pkg:maven/org.itsallcode/openfasttrace-maven-plugin@1.8.0?classifier=sources
+- pkg:maven/org.itsallcode/openfasttrace-maven-plugin@2.0.0
+- pkg:maven/org.itsallcode/openfasttrace-maven-plugin@2.0.0?classifier=sources

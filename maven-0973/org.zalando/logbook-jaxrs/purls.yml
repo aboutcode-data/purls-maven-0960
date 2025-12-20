@@ -114,3 +114,5 @@
 - pkg:maven/org.zalando/logbook-jaxrs@3.7.2?classifier=sources
 - pkg:maven/org.zalando/logbook-jaxrs@3.8.0
 - pkg:maven/org.zalando/logbook-jaxrs@3.8.0?classifier=sources
+- pkg:maven/org.zalando/logbook-jaxrs@3.9.0
+- pkg:maven/org.zalando/logbook-jaxrs@3.9.0?classifier=sources

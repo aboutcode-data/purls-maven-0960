@@ -1,1 +1,2 @@
 - pkg:maven/com.datastrato.gravitino/filesystem-hadoop3-runtime@0.5.0?classifier=sources
+- pkg:maven/com.datastrato.gravitino/filesystem-hadoop3-runtime@0.5.1?classifier=sources

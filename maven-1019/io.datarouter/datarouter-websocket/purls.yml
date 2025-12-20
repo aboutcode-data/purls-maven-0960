@@ -46,6 +46,8 @@
 - pkg:maven/io.datarouter/datarouter-websocket@0.0.123?classifier=sources
 - pkg:maven/io.datarouter/datarouter-websocket@0.0.124
 - pkg:maven/io.datarouter/datarouter-websocket@0.0.124?classifier=sources
+- pkg:maven/io.datarouter/datarouter-websocket@0.0.125
+- pkg:maven/io.datarouter/datarouter-websocket@0.0.125?classifier=sources
 - pkg:maven/io.datarouter/datarouter-websocket@0.0.25
 - pkg:maven/io.datarouter/datarouter-websocket@0.0.25?classifier=sources
 - pkg:maven/io.datarouter/datarouter-websocket@0.0.26

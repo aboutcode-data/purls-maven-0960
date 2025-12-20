@@ -8,3 +8,7 @@
 - pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.15.2
 - pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.15.2?classifier=sources
 - pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.15?classifier=sources
+- pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.16
+- pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.16.1
+- pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.16.1?classifier=sources
+- pkg:maven/com.gu/play-v28-brotli-filter_2.13@0.16?classifier=sources

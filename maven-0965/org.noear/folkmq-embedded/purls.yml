@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/folkmq-embedded@1.5.2
+- pkg:maven/org.noear/folkmq-embedded@1.5.2?classifier=sources
+- pkg:maven/org.noear/folkmq-embedded@1.6.0
+- pkg:maven/org.noear/folkmq-embedded@1.6.0?classifier=sources

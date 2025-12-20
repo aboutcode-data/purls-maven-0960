@@ -1,4 +1,6 @@
 - pkg:maven/im.dart.boot/dart-boot-spring-service-jpa@1.0.0.0
+- pkg:maven/im.dart.boot/dart-boot-spring-service-jpa@1.0.0.0-JDK1.8
+- pkg:maven/im.dart.boot/dart-boot-spring-service-jpa@1.0.0.0-JDK1.8?classifier=sources
 - pkg:maven/im.dart.boot/dart-boot-spring-service-jpa@1.0.0.0?classifier=sources
 - pkg:maven/im.dart.boot/dart-boot-spring-service-jpa@1.0.0.1
 - pkg:maven/im.dart.boot/dart-boot-spring-service-jpa@1.0.0.1?classifier=sources

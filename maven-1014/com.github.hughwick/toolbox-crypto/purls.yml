@@ -133,6 +133,12 @@
 - pkg:maven/com.github.hughwick/toolbox-crypto@2.7.0
 - pkg:maven/com.github.hughwick/toolbox-crypto@2.7.0?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-crypto@2.7.1
+- pkg:maven/com.github.hughwick/toolbox-crypto@2.7.10
+- pkg:maven/com.github.hughwick/toolbox-crypto@2.7.10?classifier=sources
+- pkg:maven/com.github.hughwick/toolbox-crypto@2.7.11
+- pkg:maven/com.github.hughwick/toolbox-crypto@2.7.11?classifier=sources
+- pkg:maven/com.github.hughwick/toolbox-crypto@2.7.12
+- pkg:maven/com.github.hughwick/toolbox-crypto@2.7.12?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-crypto@2.7.1?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-crypto@2.7.2
 - pkg:maven/com.github.hughwick/toolbox-crypto@2.7.2?classifier=sources

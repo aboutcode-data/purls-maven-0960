@@ -2,6 +2,8 @@
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@5.1.0?classifier=sources
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@5.2.0
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@5.2.0?classifier=sources
+- pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@5.3.0
+- pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@5.3.0?classifier=sources
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.0.0
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.0.0-M2
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.0.0-M2?classifier=sources
@@ -18,5 +20,7 @@
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.2.0?classifier=sources
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.3.0
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.3.0?classifier=sources
+- pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.4.0
+- pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@6.4.0?classifier=sources
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@7.0.0-M1
 - pkg:maven/org.chipsalliance/chisel-plugin_2.13.11@7.0.0-M1?classifier=sources

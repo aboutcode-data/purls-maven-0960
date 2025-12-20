@@ -214,6 +214,8 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.0.99?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.1
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.10
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.100
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.100?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.10?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.11
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.11?classifier=sources
@@ -407,4 +409,8 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.96?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.97
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.97?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.98
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.98?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.99
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.99?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ims@3.1.9?classifier=sources

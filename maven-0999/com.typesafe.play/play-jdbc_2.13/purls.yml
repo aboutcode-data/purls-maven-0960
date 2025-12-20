@@ -59,6 +59,8 @@
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.20?classifier=sources
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.21
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.21?classifier=sources
+- pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.22
+- pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.22?classifier=sources
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.2?classifier=sources
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.3
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.8.3?classifier=sources
@@ -104,3 +106,5 @@
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.9.2?classifier=sources
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.9.3
 - pkg:maven/com.typesafe.play/play-jdbc_2.13@2.9.3?classifier=sources
+- pkg:maven/com.typesafe.play/play-jdbc_2.13@2.9.4-M1
+- pkg:maven/com.typesafe.play/play-jdbc_2.13@2.9.4-M1?classifier=sources

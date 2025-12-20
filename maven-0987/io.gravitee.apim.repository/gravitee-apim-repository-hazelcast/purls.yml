@@ -197,6 +197,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.22?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.23?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.24?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.25?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.26?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.3?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.0.4?classifier=sources
@@ -212,6 +214,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.13?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.14?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.15?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.16?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.17?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.3?classifier=sources
@@ -223,6 +227,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.1.9?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.10?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.11?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.2.3?classifier=sources
@@ -238,3 +244,5 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.3.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.3.3?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.3.4?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.3.5?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-hazelcast@4.3.6?classifier=sources

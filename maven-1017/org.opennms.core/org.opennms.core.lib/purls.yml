@@ -36,3 +36,5 @@
 - pkg:maven/org.opennms.core/org.opennms.core.lib@33.0.3?classifier=sources
 - pkg:maven/org.opennms.core/org.opennms.core.lib@33.0.4
 - pkg:maven/org.opennms.core/org.opennms.core.lib@33.0.4?classifier=sources
+- pkg:maven/org.opennms.core/org.opennms.core.lib@33.0.5
+- pkg:maven/org.opennms.core/org.opennms.core.lib@33.0.5?classifier=sources

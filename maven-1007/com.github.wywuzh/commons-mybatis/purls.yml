@@ -124,6 +124,8 @@
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.0.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.1.RELEASE
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.1.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-mybatis@2.7.10.RELEASE
+- pkg:maven/com.github.wywuzh/commons-mybatis@2.7.10.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.2.RELEASE
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.2.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.3.RELEASE
@@ -134,3 +136,5 @@
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.5.RELEASE?classifier=sources
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.7.RELEASE
 - pkg:maven/com.github.wywuzh/commons-mybatis@2.7.7.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-mybatis@2.7.9.RELEASE
+- pkg:maven/com.github.wywuzh/commons-mybatis@2.7.9.RELEASE?classifier=sources

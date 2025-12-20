@@ -1,3 +1,5 @@
+- pkg:maven/org.scala-sbt/scripted-sbt-redux_3@2.0.0-alpha10
+- pkg:maven/org.scala-sbt/scripted-sbt-redux_3@2.0.0-alpha10?classifier=sources
 - pkg:maven/org.scala-sbt/scripted-sbt-redux_3@2.0.0-alpha6
 - pkg:maven/org.scala-sbt/scripted-sbt-redux_3@2.0.0-alpha6?classifier=sources
 - pkg:maven/org.scala-sbt/scripted-sbt-redux_3@2.0.0-alpha7

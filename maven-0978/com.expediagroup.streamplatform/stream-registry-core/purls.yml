@@ -128,3 +128,5 @@
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-core@2.3.0?classifier=sources
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-core@2.4.0
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-core@2.4.0?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-core@3.0.0
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-core@3.0.0?classifier=sources

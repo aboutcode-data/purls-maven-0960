@@ -1,2 +1,4 @@
 - pkg:maven/org.json4s/json4s-xml_native0.5_2.12@4.0.7
 - pkg:maven/org.json4s/json4s-xml_native0.5_2.12@4.0.7?classifier=sources
+- pkg:maven/org.json4s/json4s-xml_native0.5_2.12@4.1.0-M6
+- pkg:maven/org.json4s/json4s-xml_native0.5_2.12@4.1.0-M6?classifier=sources

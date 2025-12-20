@@ -54,6 +54,9 @@
 - pkg:maven/com.braintreepayments.api/shared-utils@4.43.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/shared-utils@4.44.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/shared-utils@4.45.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/shared-utils@4.45.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/shared-utils@4.46.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/shared-utils@4.47.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/shared-utils@4.5.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/shared-utils@4.6.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/shared-utils@4.7.0?classifier=sources

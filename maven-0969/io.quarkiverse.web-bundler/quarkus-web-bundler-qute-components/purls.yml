@@ -24,6 +24,7 @@
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.4.0.CR3
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.4.0.CR3?classifier=sources
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR1
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR2
@@ -32,3 +33,14 @@
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR3?classifier=sources
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR4
 - pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR4?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR5
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR5?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR6
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0.CR6?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.1
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.1?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.2
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.2?classifier=sources
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.3
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-qute-components@1.5.3?classifier=sources

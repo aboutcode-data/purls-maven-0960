@@ -8,3 +8,7 @@
 - pkg:maven/com.gu/marley_2.13@0.2.19?classifier=sources
 - pkg:maven/com.gu/marley_2.13@0.2.20
 - pkg:maven/com.gu/marley_2.13@0.2.20?classifier=sources
+- pkg:maven/com.gu/marley_2.13@0.3.0
+- pkg:maven/com.gu/marley_2.13@0.3.0-PREVIEW.patch-commons-compress.2024-06-13T1028.08a26ed5
+- pkg:maven/com.gu/marley_2.13@0.3.0-PREVIEW.patch-commons-compress.2024-06-13T1028.08a26ed5?classifier=sources
+- pkg:maven/com.gu/marley_2.13@0.3.0?classifier=sources

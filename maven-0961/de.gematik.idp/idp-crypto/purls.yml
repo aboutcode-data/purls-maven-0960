@@ -54,3 +54,5 @@
 - pkg:maven/de.gematik.idp/idp-crypto@27.0.2?classifier=sources
 - pkg:maven/de.gematik.idp/idp-crypto@27.0.3
 - pkg:maven/de.gematik.idp/idp-crypto@27.0.3?classifier=sources
+- pkg:maven/de.gematik.idp/idp-crypto@28.0.1
+- pkg:maven/de.gematik.idp/idp-crypto@28.0.1?classifier=sources

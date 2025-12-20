@@ -26,3 +26,5 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-common-servlet@2.5.3?classifier=sources
 - pkg:maven/com.navercorp.pinpoint/pinpoint-common-servlet@2.5.4
 - pkg:maven/com.navercorp.pinpoint/pinpoint-common-servlet@2.5.4?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-common-servlet@3.0.0
+- pkg:maven/com.navercorp.pinpoint/pinpoint-common-servlet@3.0.0?classifier=sources

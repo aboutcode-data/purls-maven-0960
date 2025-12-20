@@ -46,6 +46,8 @@
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.31.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.32.0
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.32.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-workstations@0.33.0
+- pkg:maven/com.google.cloud/google-cloud-workstations@0.33.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.5.0

@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-standalone@0.92.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-standalone@0.93.0
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-standalone@0.93.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-wrapper-standalone@0.95.0
+- pkg:maven/org.apache.streampipes/streampipes-wrapper-standalone@0.95.0?classifier=sources

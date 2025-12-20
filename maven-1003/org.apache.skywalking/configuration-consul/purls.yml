@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.skywalking/configuration-consul@10.0.1
+- pkg:maven/org.apache.skywalking/configuration-consul@10.0.1?classifier=sources
 - pkg:maven/org.apache.skywalking/configuration-consul@6.5.0
 - pkg:maven/org.apache.skywalking/configuration-consul@6.6.0
 - pkg:maven/org.apache.skywalking/configuration-consul@7.0.0

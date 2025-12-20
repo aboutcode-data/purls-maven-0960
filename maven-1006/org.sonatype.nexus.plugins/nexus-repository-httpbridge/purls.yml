@@ -275,6 +275,11 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.67.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.68.0-04
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.68.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.68.0-05?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.68.1-02
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.68.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.69.0-02
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.69.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.7.0-04
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.7.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-httpbridge@3.7.1-02

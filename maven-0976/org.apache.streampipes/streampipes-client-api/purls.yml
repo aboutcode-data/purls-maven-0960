@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-client-api@0.93.0
 - pkg:maven/org.apache.streampipes/streampipes-client-api@0.93.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-client-api@0.95.0
+- pkg:maven/org.apache.streampipes/streampipes-client-api@0.95.0?classifier=sources

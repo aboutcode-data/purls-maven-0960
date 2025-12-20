@@ -1,2 +1,4 @@
 - pkg:maven/com.github.pureconfig/pureconfig-pekko_2.12@0.17.6
 - pkg:maven/com.github.pureconfig/pureconfig-pekko_2.12@0.17.6?classifier=sources
+- pkg:maven/com.github.pureconfig/pureconfig-pekko_2.12@0.17.7
+- pkg:maven/com.github.pureconfig/pureconfig-pekko_2.12@0.17.7?classifier=sources

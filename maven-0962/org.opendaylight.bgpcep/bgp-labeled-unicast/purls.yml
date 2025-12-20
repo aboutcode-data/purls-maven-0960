@@ -124,6 +124,8 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.20.6
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.20.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.20.7?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.20.8
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.20.8?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.1
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.1?classifier=sources
@@ -132,6 +134,9 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.5
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.5?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.6
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.6?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.7?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.5.0-Beryllium
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.5.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.5.1-Beryllium-SR1

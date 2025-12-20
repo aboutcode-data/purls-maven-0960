@@ -240,6 +240,8 @@
 - pkg:maven/org.neo4j/annotations@5.19.0?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.2.0
 - pkg:maven/org.neo4j/annotations@5.2.0?classifier=sources
+- pkg:maven/org.neo4j/annotations@5.20.0
+- pkg:maven/org.neo4j/annotations@5.20.0?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.3.0
 - pkg:maven/org.neo4j/annotations@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.4.0

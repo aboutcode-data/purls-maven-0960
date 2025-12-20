@@ -67,6 +67,10 @@
 - pkg:maven/com.lihaoyi/mill-dist@0.11.6-70-8d315d?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.6?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.7
+- pkg:maven/com.lihaoyi/mill-dist@0.11.7-107-9ec9bc
+- pkg:maven/com.lihaoyi/mill-dist@0.11.7-107-9ec9bc?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.7-109-59a5cb
+- pkg:maven/com.lihaoyi/mill-dist@0.11.7-109-59a5cb?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.7-17-17dea9
 - pkg:maven/com.lihaoyi/mill-dist@0.11.7-17-17dea9?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.7-29-f2e220

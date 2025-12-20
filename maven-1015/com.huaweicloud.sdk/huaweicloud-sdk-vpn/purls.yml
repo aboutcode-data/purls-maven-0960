@@ -1,3 +1,5 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.100
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.100?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.65
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.65?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.66
@@ -66,3 +68,7 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.96?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.97
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.97?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.98
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.98?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.99
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-vpn@3.1.99?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.frontegg.sdk/config@0.0.10
+- pkg:maven/com.frontegg.sdk/config@0.0.10?classifier=sources
 - pkg:maven/com.frontegg.sdk/config@0.0.2
 - pkg:maven/com.frontegg.sdk/config@0.0.2?classifier=sources
 - pkg:maven/com.frontegg.sdk/config@0.0.3
@@ -10,3 +12,5 @@
 - pkg:maven/com.frontegg.sdk/config@0.0.6?classifier=sources
 - pkg:maven/com.frontegg.sdk/config@0.0.7
 - pkg:maven/com.frontegg.sdk/config@0.0.7?classifier=sources
+- pkg:maven/com.frontegg.sdk/config@0.0.9
+- pkg:maven/com.frontegg.sdk/config@0.0.9?classifier=sources

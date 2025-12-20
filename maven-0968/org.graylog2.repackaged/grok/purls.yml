@@ -13,4 +13,6 @@
 - pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog-1?classifier=sources
 - pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog-2
 - pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog-2?classifier=sources
+- pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog-3
+- pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog-3?classifier=sources
 - pkg:maven/org.graylog2.repackaged/grok@0.1.9-graylog?classifier=sources

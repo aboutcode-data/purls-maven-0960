@@ -115,6 +115,7 @@
 - pkg:maven/com.pulumi/libvirt@0.4.6-alpha.1714110532%2B240cc724?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.4.6-alpha.1714455892%2Bc8042620?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.4.6-alpha.1714537405%2Bffea6cac?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.4.6?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1714542290%2B093cdd7?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1714563945%2B79a3a85?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1715060803%2B78087a7?classifier=sources
@@ -124,3 +125,13 @@
 - pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1715709193%2B231a5ca?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1715758769%2Bb5e2b83?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1715930075?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1716509922?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1716961499?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1717134411?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1717480058?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1717541779?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1717725180?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1718084907?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1718171238?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1718257600?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.0-alpha.1718343600?classifier=sources

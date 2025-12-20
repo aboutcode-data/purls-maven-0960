@@ -218,3 +218,8 @@
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.5.4?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.5.5?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.5.7?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@3.5.8?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@3.6.0?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@3.6.1?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@3.8.0?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@3.8.1?classifier=sources

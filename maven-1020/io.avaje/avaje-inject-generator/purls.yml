@@ -20,6 +20,12 @@
 - pkg:maven/io.avaje/avaje-inject-generator@10.0-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@10.0-RC4
 - pkg:maven/io.avaje/avaje-inject-generator@10.0-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@10.0-RC5
+- pkg:maven/io.avaje/avaje-inject-generator@10.0-RC5?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@10.0-RC6
+- pkg:maven/io.avaje/avaje-inject-generator@10.0-RC6?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@10.0-RC7
+- pkg:maven/io.avaje/avaje-inject-generator@10.0-RC7?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@2.0
 - pkg:maven/io.avaje/avaje-inject-generator@2.0?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@3.0

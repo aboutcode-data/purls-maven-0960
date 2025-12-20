@@ -82,3 +82,4 @@
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-dbcp@5.5.1?classifier=sources
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-dbcp@5.5.2?classifier=sources
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-dbcp@5.6.0?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-dbcp@5.7.0?classifier=sources

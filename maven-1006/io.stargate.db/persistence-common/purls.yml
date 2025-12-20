@@ -199,6 +199,16 @@
 - pkg:maven/io.stargate.db/persistence-common@1.0.79?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@1.0.7?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@1.0.8
+- pkg:maven/io.stargate.db/persistence-common@1.0.80
+- pkg:maven/io.stargate.db/persistence-common@1.0.80?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@1.0.81
+- pkg:maven/io.stargate.db/persistence-common@1.0.81?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@1.0.82
+- pkg:maven/io.stargate.db/persistence-common@1.0.82?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@1.0.83
+- pkg:maven/io.stargate.db/persistence-common@1.0.83?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@1.0.84
+- pkg:maven/io.stargate.db/persistence-common@1.0.84?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@1.0.8?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@1.0.9
 - pkg:maven/io.stargate.db/persistence-common@1.0.9?classifier=sources
@@ -289,6 +299,8 @@
 - pkg:maven/io.stargate.db/persistence-common@2.0.26?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.27
 - pkg:maven/io.stargate.db/persistence-common@2.0.27?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@2.0.28
+- pkg:maven/io.stargate.db/persistence-common@2.0.28?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.2?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.3
 - pkg:maven/io.stargate.db/persistence-common@2.0.3?classifier=sources

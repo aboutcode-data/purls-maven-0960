@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.hono/hono-adapter-coap@2.5.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-adapter-coap@2.5.1
 - pkg:maven/org.eclipse.hono/hono-adapter-coap@2.5.1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-coap@2.6.0
+- pkg:maven/org.eclipse.hono/hono-adapter-coap@2.6.0?classifier=sources

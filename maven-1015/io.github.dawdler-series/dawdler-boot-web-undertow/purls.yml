@@ -1,0 +1,3 @@
+- pkg:maven/io.github.dawdler-series/dawdler-boot-web-undertow@1.8.2-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-boot-web-undertow@17.2-jdk17-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-boot-web-undertow@21.2-jdk21-RELEASES?classifier=sources

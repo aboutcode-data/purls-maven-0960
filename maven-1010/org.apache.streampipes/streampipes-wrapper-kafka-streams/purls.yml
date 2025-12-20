@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-kafka-streams@0.92.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-kafka-streams@0.93.0
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-kafka-streams@0.93.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-wrapper-kafka-streams@0.95.0
+- pkg:maven/org.apache.streampipes/streampipes-wrapper-kafka-streams@0.95.0?classifier=sources

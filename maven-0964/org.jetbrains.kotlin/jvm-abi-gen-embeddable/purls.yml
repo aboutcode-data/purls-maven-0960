@@ -158,3 +158,4 @@
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@2.0.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@2.0.0-RC3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@2.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/jvm-abi-gen-embeddable@2.0.20-Beta1?classifier=sources

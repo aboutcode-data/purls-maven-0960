@@ -46,3 +46,5 @@
 - pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-core@2.4.8?classifier=sources
 - pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-core@2.4.9
 - pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-core@2.4.9?classifier=sources
+- pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-core@2.5.0
+- pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-core@2.5.0?classifier=sources

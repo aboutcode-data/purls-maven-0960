@@ -12,6 +12,7 @@
 - pkg:maven/se.laz.casual/casual-internal@2.2.28?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@2.2.29?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@2.2.31?classifier=sources
+- pkg:maven/se.laz.casual/casual-internal@2.2.32?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@3.2.20?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@3.2.21?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@3.2.22?classifier=sources
@@ -31,3 +32,4 @@
 - pkg:maven/se.laz.casual/casual-internal@3.2.39?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@3.2.40?classifier=sources
 - pkg:maven/se.laz.casual/casual-internal@3.2.41?classifier=sources
+- pkg:maven/se.laz.casual/casual-internal@3.2.42?classifier=sources

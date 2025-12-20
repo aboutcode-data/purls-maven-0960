@@ -22,3 +22,5 @@
 - pkg:maven/com.typesafe.play/play-server_3@2.9.2?classifier=sources
 - pkg:maven/com.typesafe.play/play-server_3@2.9.3
 - pkg:maven/com.typesafe.play/play-server_3@2.9.3?classifier=sources
+- pkg:maven/com.typesafe.play/play-server_3@2.9.4-M1
+- pkg:maven/com.typesafe.play/play-server_3@2.9.4-M1?classifier=sources

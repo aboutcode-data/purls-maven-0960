@@ -50,6 +50,10 @@
 - pkg:maven/edu.gemini/lucuma-itc_3@0.21.1
 - pkg:maven/edu.gemini/lucuma-itc_3@0.21.10
 - pkg:maven/edu.gemini/lucuma-itc_3@0.21.10?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc_3@0.21.11
+- pkg:maven/edu.gemini/lucuma-itc_3@0.21.11?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc_3@0.21.12
+- pkg:maven/edu.gemini/lucuma-itc_3@0.21.12?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc_3@0.21.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc_3@0.21.2
 - pkg:maven/edu.gemini/lucuma-itc_3@0.21.2?classifier=sources

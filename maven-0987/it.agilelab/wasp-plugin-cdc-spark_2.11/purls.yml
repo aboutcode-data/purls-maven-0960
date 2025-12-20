@@ -60,3 +60,7 @@
 - pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.0-cdp719
 - pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.0-cdp719?classifier=sources
 - pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.0?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.2
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.2-cdp719
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.2-cdp719?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-cdc-spark_2.11@2.33.2?classifier=sources

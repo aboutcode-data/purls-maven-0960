@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.sw360/http-support@17.0.1-m1?classifier=sources
 - pkg:maven/org.eclipse.sw360/http-support@17.0.1-m2
 - pkg:maven/org.eclipse.sw360/http-support@17.0.1-m2?classifier=sources
+- pkg:maven/org.eclipse.sw360/http-support@18.1.0
+- pkg:maven/org.eclipse.sw360/http-support@18.1.0?classifier=sources

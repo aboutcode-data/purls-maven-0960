@@ -1,2 +1,5 @@
 - pkg:maven/com.datasqrl/sqrl-lib-common@0.5.0-RC3?classifier=sources
 - pkg:maven/com.datasqrl/sqrl-lib-common@0.5.0-RC4?classifier=sources
+- pkg:maven/com.datasqrl/sqrl-lib-common@0.5.0?classifier=sources
+- pkg:maven/com.datasqrl/sqrl-lib-common@0.5.1?classifier=sources
+- pkg:maven/com.datasqrl/sqrl-lib-common@0.5.2?classifier=sources

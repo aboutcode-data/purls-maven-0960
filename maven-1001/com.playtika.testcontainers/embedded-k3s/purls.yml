@@ -44,3 +44,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.5?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.6
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.6?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.7
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.7?classifier=sources

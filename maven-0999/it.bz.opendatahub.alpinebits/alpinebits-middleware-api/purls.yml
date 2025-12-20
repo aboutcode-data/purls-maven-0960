@@ -22,3 +22,5 @@
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-middleware-api@2.1.1?classifier=sources
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-middleware-api@2.1.2
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-middleware-api@2.1.2?classifier=sources
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-middleware-api@3.0.0
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-middleware-api@3.0.0?classifier=sources

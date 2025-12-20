@@ -8,3 +8,5 @@
 - pkg:maven/org.jberet.test-apps/cassandraInject@2.2.0.Final?classifier=sources
 - pkg:maven/org.jberet.test-apps/cassandraInject@2.2.1.Final
 - pkg:maven/org.jberet.test-apps/cassandraInject@2.2.1.Final?classifier=sources
+- pkg:maven/org.jberet.test-apps/cassandraInject@3.0.0.Beta1
+- pkg:maven/org.jberet.test-apps/cassandraInject@3.0.0.Beta1?classifier=sources

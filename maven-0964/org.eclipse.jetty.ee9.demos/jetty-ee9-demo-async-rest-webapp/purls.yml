@@ -8,6 +8,7 @@
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.0.beta3?type=war
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.0.beta4?type=war
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.0?type=war
+- pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.10?type=war
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.1?type=war
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.2?type=war
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-async-rest-webapp@12.0.3?type=war

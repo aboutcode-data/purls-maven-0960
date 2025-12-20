@@ -85,6 +85,7 @@
 - pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.42?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.43?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.44?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.45?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.4?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.6?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-transport-netty@0.42.7?classifier=sources

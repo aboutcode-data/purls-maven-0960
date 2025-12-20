@@ -62,3 +62,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.2.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.2.3
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.2.3?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.0
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.0?classifier=sources

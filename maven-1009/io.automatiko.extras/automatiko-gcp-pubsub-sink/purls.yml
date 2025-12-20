@@ -38,6 +38,8 @@
 - pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.32.0?classifier=sources
 - pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.33.0
 - pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.33.0?classifier=sources
+- pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.34.0
+- pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.34.0?classifier=sources
 - pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.6.0
 - pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.6.0?classifier=sources
 - pkg:maven/io.automatiko.extras/automatiko-gcp-pubsub-sink@0.7.0

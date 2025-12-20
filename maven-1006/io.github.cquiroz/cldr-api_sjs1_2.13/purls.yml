@@ -24,6 +24,8 @@
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@0.3.2?classifier=sources
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@0.3.3
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@0.3.3?classifier=sources
+- pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@0.4.5
+- pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@0.4.5?classifier=sources
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@1.0.0
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@1.0.0?classifier=sources
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@1.1.0
@@ -60,3 +62,5 @@
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@4.3.0?classifier=sources
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@4.4.0
 - pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@4.4.0?classifier=sources
+- pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@4.5.0
+- pkg:maven/io.github.cquiroz/cldr-api_sjs1_2.13@4.5.0?classifier=sources
