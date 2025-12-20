@@ -7,6 +7,7 @@
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.0-beta02?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.0-rc01?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.0?classifier=sources
+- pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.10?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.1?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.2?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.3?classifier=sources
@@ -15,3 +16,4 @@
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.6?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.7?classifier=sources
 - pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.8?classifier=sources
+- pkg:maven/moe.tlaster/precompose-viewmodel-android@1.5.9?classifier=sources

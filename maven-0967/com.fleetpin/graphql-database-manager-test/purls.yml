@@ -38,6 +38,8 @@
 - pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.29
 - pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.29?classifier=sources
 - pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.2?classifier=sources
+- pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.31
+- pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.31?classifier=sources
 - pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.7
 - pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.7?classifier=sources
 - pkg:maven/com.fleetpin/graphql-database-manager-test@0.2.8

@@ -7,6 +7,14 @@
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.10.5
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.10.5?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.10.6
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.10.7
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.10.7?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.10.8
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.10.8?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.11.0
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.11.0?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.11.1
+- pkg:maven/io.hyperfoil.tools/horreum-client@0.11.1?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.1?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.2
 - pkg:maven/io.hyperfoil.tools/horreum-client@0.2?classifier=sources

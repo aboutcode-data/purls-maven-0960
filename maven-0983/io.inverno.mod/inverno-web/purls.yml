@@ -24,3 +24,5 @@
 - pkg:maven/io.inverno.mod/inverno-web@1.5.2?classifier=sources
 - pkg:maven/io.inverno.mod/inverno-web@1.5.3
 - pkg:maven/io.inverno.mod/inverno-web@1.5.3?classifier=sources
+- pkg:maven/io.inverno.mod/inverno-web@1.6.0
+- pkg:maven/io.inverno.mod/inverno-web@1.6.0?classifier=sources

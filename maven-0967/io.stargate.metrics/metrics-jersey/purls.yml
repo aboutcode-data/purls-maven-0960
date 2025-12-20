@@ -187,6 +187,8 @@
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.0.21?classifier=sources
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.0.22
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.0.22?classifier=sources
+- pkg:maven/io.stargate.metrics/metrics-jersey@2.0.23
+- pkg:maven/io.stargate.metrics/metrics-jersey@2.0.23?classifier=sources
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.0.2?classifier=sources
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.0.3
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.0.3?classifier=sources
@@ -238,3 +240,5 @@
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.1.0-BETA-6?classifier=sources
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.1.0-BETA-7
 - pkg:maven/io.stargate.metrics/metrics-jersey@2.1.0-BETA-7?classifier=sources
+- pkg:maven/io.stargate.metrics/metrics-jersey@2.1.0-BETA-8
+- pkg:maven/io.stargate.metrics/metrics-jersey@2.1.0-BETA-8?classifier=sources

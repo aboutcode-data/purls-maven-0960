@@ -6,6 +6,8 @@
 - pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.09.22?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.14.24
 - pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.14.24?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.22.04
+- pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.22.04?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.22.13
 - pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.22.13?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/aws-elasticache-spec@2023.23.06

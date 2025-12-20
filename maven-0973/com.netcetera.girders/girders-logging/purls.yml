@@ -30,3 +30,5 @@
 - pkg:maven/com.netcetera.girders/girders-logging@6.2.1?classifier=sources
 - pkg:maven/com.netcetera.girders/girders-logging@6.2.2
 - pkg:maven/com.netcetera.girders/girders-logging@6.2.2?classifier=sources
+- pkg:maven/com.netcetera.girders/girders-logging@6.3.0
+- pkg:maven/com.netcetera.girders/girders-logging@6.3.0?classifier=sources

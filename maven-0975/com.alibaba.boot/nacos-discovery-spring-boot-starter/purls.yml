@@ -50,3 +50,5 @@
 - pkg:maven/com.alibaba.boot/nacos-discovery-spring-boot-starter@0.2.8?classifier=sources
 - pkg:maven/com.alibaba.boot/nacos-discovery-spring-boot-starter@0.2.9
 - pkg:maven/com.alibaba.boot/nacos-discovery-spring-boot-starter@0.2.9?classifier=sources
+- pkg:maven/com.alibaba.boot/nacos-discovery-spring-boot-starter@0.3.0-RC
+- pkg:maven/com.alibaba.boot/nacos-discovery-spring-boot-starter@0.3.0-RC?classifier=sources

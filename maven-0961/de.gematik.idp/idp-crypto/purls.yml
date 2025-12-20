@@ -40,3 +40,7 @@
 - pkg:maven/de.gematik.idp/idp-crypto@25.0.4?classifier=sources
 - pkg:maven/de.gematik.idp/idp-crypto@25.0.5
 - pkg:maven/de.gematik.idp/idp-crypto@25.0.5?classifier=sources
+- pkg:maven/de.gematik.idp/idp-crypto@25.1.0
+- pkg:maven/de.gematik.idp/idp-crypto@25.1.0?classifier=sources
+- pkg:maven/de.gematik.idp/idp-crypto@25.1.1
+- pkg:maven/de.gematik.idp/idp-crypto@25.1.1?classifier=sources

@@ -149,5 +149,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.1-m1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.1-m1?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.1?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.22
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.22?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.3
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.9.3?classifier=sources

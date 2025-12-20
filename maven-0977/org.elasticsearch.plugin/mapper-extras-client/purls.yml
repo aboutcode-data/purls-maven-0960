@@ -61,6 +61,8 @@
 - pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.15?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.16
 - pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.16?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.17
+- pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.17?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.2
 - pkg:maven/org.elasticsearch.plugin/mapper-extras-client@7.17.2?classifier=sources

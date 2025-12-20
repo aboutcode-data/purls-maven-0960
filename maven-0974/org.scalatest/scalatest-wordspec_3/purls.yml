@@ -22,3 +22,5 @@
 - pkg:maven/org.scalatest/scalatest-wordspec_3@3.2.9?classifier=sources
 - pkg:maven/org.scalatest/scalatest-wordspec_3@3.3.0-SNAP4
 - pkg:maven/org.scalatest/scalatest-wordspec_3@3.3.0-SNAP4?classifier=sources
+- pkg:maven/org.scalatest/scalatest-wordspec_3@3.3.0-alpha.1
+- pkg:maven/org.scalatest/scalatest-wordspec_3@3.3.0-alpha.1?classifier=sources

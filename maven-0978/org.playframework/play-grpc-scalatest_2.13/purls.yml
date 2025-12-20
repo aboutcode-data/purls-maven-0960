@@ -1,0 +1,4 @@
+- pkg:maven/org.playframework/play-grpc-scalatest_2.13@0.12.0
+- pkg:maven/org.playframework/play-grpc-scalatest_2.13@0.12.0?classifier=sources
+- pkg:maven/org.playframework/play-grpc-scalatest_2.13@0.12.1
+- pkg:maven/org.playframework/play-grpc-scalatest_2.13@0.12.1?classifier=sources

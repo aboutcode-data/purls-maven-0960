@@ -48,3 +48,7 @@
 - pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.3.0M8?classifier=sources
 - pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.3.0M9
 - pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.3.0M9?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.4.0
+- pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.4.1
+- pkg:maven/org.eclipse.hawkbit/hawkbit-repository-test@0.4.1?classifier=sources

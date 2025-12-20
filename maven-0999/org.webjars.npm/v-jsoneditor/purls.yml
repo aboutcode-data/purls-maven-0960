@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/v-jsoneditor@1.2.3
 - pkg:maven/org.webjars.npm/v-jsoneditor@1.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/v-jsoneditor@1.4.5
+- pkg:maven/org.webjars.npm/v-jsoneditor@1.4.5?classifier=sources

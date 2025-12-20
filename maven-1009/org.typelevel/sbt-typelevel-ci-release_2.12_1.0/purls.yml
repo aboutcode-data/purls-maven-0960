@@ -42,3 +42,7 @@
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.2?classifier=sources
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.3
 - pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.3?classifier=sources
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.4
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.4?classifier=sources
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.5
+- pkg:maven/org.typelevel/sbt-typelevel-ci-release_2.12_1.0@0.6.5?classifier=sources

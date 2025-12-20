@@ -136,6 +136,10 @@
 - pkg:maven/io.ebean/ebean-postgres@13.25.2-jakarta
 - pkg:maven/io.ebean/ebean-postgres@13.25.2-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-postgres@13.25.2?classifier=sources
+- pkg:maven/io.ebean/ebean-postgres@13.26.0
+- pkg:maven/io.ebean/ebean-postgres@13.26.0-jakarta
+- pkg:maven/io.ebean/ebean-postgres@13.26.0-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-postgres@13.26.0?classifier=sources
 - pkg:maven/io.ebean/ebean-postgres@13.3.0
 - pkg:maven/io.ebean/ebean-postgres@13.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-postgres@13.3.1

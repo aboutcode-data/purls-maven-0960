@@ -7,7 +7,9 @@
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@0.15.4?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@0.15.7?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@0.15.8?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-gradle@0.15.9?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@1.0.0?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@1.0.2?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@1.0.3?classifier=sources
 - pkg:maven/com.morpheusdata/morpheus-plugin-gradle@1.0.4?classifier=sources
+- pkg:maven/com.morpheusdata/morpheus-plugin-gradle@1.0.5?classifier=sources

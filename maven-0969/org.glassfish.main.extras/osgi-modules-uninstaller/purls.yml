@@ -20,3 +20,5 @@
 - pkg:maven/org.glassfish.main.extras/osgi-modules-uninstaller@7.0.8?classifier=sources
 - pkg:maven/org.glassfish.main.extras/osgi-modules-uninstaller@7.0.9
 - pkg:maven/org.glassfish.main.extras/osgi-modules-uninstaller@7.0.9?classifier=sources
+- pkg:maven/org.glassfish.main.extras/osgi-modules-uninstaller@8.0.0-M1
+- pkg:maven/org.glassfish.main.extras/osgi-modules-uninstaller@8.0.0-M1?classifier=sources

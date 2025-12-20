@@ -10,3 +10,5 @@
 - pkg:maven/org.camunda.community.migration/process-instance-migration@0.6.3?classifier=sources
 - pkg:maven/org.camunda.community.migration/process-instance-migration@0.7.0
 - pkg:maven/org.camunda.community.migration/process-instance-migration@0.7.0?classifier=sources
+- pkg:maven/org.camunda.community.migration/process-instance-migration@0.8.0
+- pkg:maven/org.camunda.community.migration/process-instance-migration@0.8.0?classifier=sources

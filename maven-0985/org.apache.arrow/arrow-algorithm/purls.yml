@@ -32,6 +32,10 @@
 - pkg:maven/org.apache.arrow/arrow-algorithm@14.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-algorithm@14.0.1
 - pkg:maven/org.apache.arrow/arrow-algorithm@14.0.1?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-algorithm@14.0.2
+- pkg:maven/org.apache.arrow/arrow-algorithm@14.0.2?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-algorithm@15.0.0
+- pkg:maven/org.apache.arrow/arrow-algorithm@15.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-algorithm@2.0.0
 - pkg:maven/org.apache.arrow/arrow-algorithm@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-algorithm@3.0.0

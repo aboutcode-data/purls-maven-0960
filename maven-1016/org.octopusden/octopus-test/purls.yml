@@ -79,6 +79,8 @@
 - pkg:maven/org.octopusden/octopus-test@2.2.23?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@2.2.24?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@2.2.25?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.2.26?classifier=sources
+- pkg:maven/org.octopusden/octopus-test@2.2.27?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@2.2.2?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@2.2.3?classifier=sources
 - pkg:maven/org.octopusden/octopus-test@unspecified?classifier=sources

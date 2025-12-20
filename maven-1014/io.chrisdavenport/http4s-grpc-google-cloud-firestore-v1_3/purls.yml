@@ -36,6 +36,8 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.15.6%2B0.0.6?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.15.7%2B0.0.6
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.15.7%2B0.0.6?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.16.0%2B0.0.6
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.16.0%2B0.0.6?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.9.0%2B0.0.1
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.9.0%2B0.0.1?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-firestore-v1_3@3.9.1%2B0.0.2

@@ -1,2 +1,4 @@
 - pkg:maven/run.mone/docean-plugin-dmesh@1.4.0
 - pkg:maven/run.mone/docean-plugin-dmesh@1.4.0?classifier=sources
+- pkg:maven/run.mone/docean-plugin-dmesh@1.5.0-jdk21
+- pkg:maven/run.mone/docean-plugin-dmesh@1.5.0-jdk21?classifier=sources

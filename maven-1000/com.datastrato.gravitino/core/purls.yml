@@ -1,1 +1,2 @@
 - pkg:maven/com.datastrato.gravitino/core@0.1.8?classifier=sources
+- pkg:maven/com.datastrato.gravitino/core@0.3.0?classifier=sources

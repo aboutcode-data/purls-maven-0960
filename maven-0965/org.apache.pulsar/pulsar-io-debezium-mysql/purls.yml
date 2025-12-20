@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.11.1?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.11.2
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.11.2?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.11.3
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.11.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.4.0
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.4.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@2.4.1
@@ -82,3 +84,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@3.1.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@3.1.1
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@3.1.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@3.1.2
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-mysql@3.1.2?classifier=sources

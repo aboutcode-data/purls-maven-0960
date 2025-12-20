@@ -1,3 +1,7 @@
+- pkg:maven/io.github.awsjavakit/http@0.10.0?classifier=sources
+- pkg:maven/io.github.awsjavakit/http@0.10.2?classifier=sources
+- pkg:maven/io.github.awsjavakit/http@0.10.3?classifier=sources
+- pkg:maven/io.github.awsjavakit/http@0.10.4?classifier=sources
 - pkg:maven/io.github.awsjavakit/http@0.3.12?classifier=sources
 - pkg:maven/io.github.awsjavakit/http@0.3.13?classifier=sources
 - pkg:maven/io.github.awsjavakit/http@0.4.0?classifier=sources

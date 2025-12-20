@@ -107,6 +107,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.14?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.15
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.15?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.16
+- pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.16?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.2
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.25.2?classifier=sources
@@ -133,6 +135,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.11?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.12
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.12?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.13
+- pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.13?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.2
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.26.2?classifier=sources
@@ -158,3 +162,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.27.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.27.2
 - pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.27.2?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.27.3
+- pkg:maven/org.openl.rules/org.openl.rules.repository.git@5.27.3?classifier=sources

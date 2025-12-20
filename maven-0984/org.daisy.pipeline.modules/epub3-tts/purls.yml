@@ -24,3 +24,7 @@
 - pkg:maven/org.daisy.pipeline.modules/epub3-tts@2.4.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/epub3-tts@2.4.1
 - pkg:maven/org.daisy.pipeline.modules/epub3-tts@2.4.1?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub3-tts@3.0.0
+- pkg:maven/org.daisy.pipeline.modules/epub3-tts@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub3-tts@3.1.0
+- pkg:maven/org.daisy.pipeline.modules/epub3-tts@3.1.0?classifier=sources

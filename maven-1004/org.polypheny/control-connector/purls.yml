@@ -5,3 +5,5 @@
 - pkg:maven/org.polypheny/control-connector@2.1.0?classifier=sources
 - pkg:maven/org.polypheny/control-connector@2.1.1?classifier=sources
 - pkg:maven/org.polypheny/control-connector@2.1.2?classifier=sources
+- pkg:maven/org.polypheny/control-connector@2.2.0?classifier=sources
+- pkg:maven/org.polypheny/control-connector@2.2.1?classifier=sources

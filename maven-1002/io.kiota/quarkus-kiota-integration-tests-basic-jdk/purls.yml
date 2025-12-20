@@ -1,2 +1,6 @@
+- pkg:maven/io.kiota/quarkus-kiota-integration-tests-basic-jdk@0.0.10
+- pkg:maven/io.kiota/quarkus-kiota-integration-tests-basic-jdk@0.0.10?classifier=sources
 - pkg:maven/io.kiota/quarkus-kiota-integration-tests-basic-jdk@0.0.8
 - pkg:maven/io.kiota/quarkus-kiota-integration-tests-basic-jdk@0.0.8?classifier=sources
+- pkg:maven/io.kiota/quarkus-kiota-integration-tests-basic-jdk@0.0.9
+- pkg:maven/io.kiota/quarkus-kiota-integration-tests-basic-jdk@0.0.9?classifier=sources

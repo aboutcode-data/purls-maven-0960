@@ -224,6 +224,8 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.13.1.202206130422-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.13.2.202306221912-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.13.2.202306221912-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.13.3.202401111512-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.13.3.202401111512-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.2.0.201812061821-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.2.0.201812061821-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@5.2.1.201812262042-r

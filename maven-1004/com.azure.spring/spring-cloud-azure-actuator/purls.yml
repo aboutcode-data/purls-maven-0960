@@ -10,6 +10,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.11.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.12.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.13.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.14.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.2.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.2.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@4.3.0
@@ -37,6 +38,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@5.5.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@5.6.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@5.7.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-actuator@5.8.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0-beta.1
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0-beta.1?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0-beta.2

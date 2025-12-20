@@ -18,6 +18,10 @@
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.0?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.1
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.10
+- pkg:maven/com.boxframework/box-server-services_2.13@1.11.10-patch-monifrax
+- pkg:maven/com.boxframework/box-server-services_2.13@1.11.10-patch-monifrax2
+- pkg:maven/com.boxframework/box-server-services_2.13@1.11.10-patch-monifrax2?classifier=sources
+- pkg:maven/com.boxframework/box-server-services_2.13@1.11.10-patch-monifrax?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.10?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.1?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.2
@@ -34,6 +38,8 @@
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.8?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.9
 - pkg:maven/com.boxframework/box-server-services_2.13@1.11.9?classifier=sources
+- pkg:maven/com.boxframework/box-server-services_2.13@1.12.0-M1
+- pkg:maven/com.boxframework/box-server-services_2.13@1.12.0-M1?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.5.0
 - pkg:maven/com.boxframework/box-server-services_2.13@1.5.0-M1
 - pkg:maven/com.boxframework/box-server-services_2.13@1.5.0-M1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.2.1?classifier=sources
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.0
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.0?classifier=sources
+- pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.3-preX509b
+- pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.3-preX509b?classifier=sources

@@ -67,3 +67,5 @@
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sqs-annotation-processor@2.1.9-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sqs-annotation-processor@2.1.9-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sqs-annotation-processor@2.1.9-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sqs-annotation-processor@3.0.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sqs-annotation-processor@3.0.1?classifier=sources

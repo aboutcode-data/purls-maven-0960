@@ -186,3 +186,7 @@
 - pkg:maven/com.facebook.presto/presto-spark-base@0.283?classifier=sources
 - pkg:maven/com.facebook.presto/presto-spark-base@0.284
 - pkg:maven/com.facebook.presto/presto-spark-base@0.284?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-base@0.285
+- pkg:maven/com.facebook.presto/presto-spark-base@0.285.1
+- pkg:maven/com.facebook.presto/presto-spark-base@0.285.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-base@0.285?classifier=sources

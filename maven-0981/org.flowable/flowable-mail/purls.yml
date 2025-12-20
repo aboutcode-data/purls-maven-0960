@@ -2,3 +2,5 @@
 - pkg:maven/org.flowable/flowable-mail@7.0.0.M2
 - pkg:maven/org.flowable/flowable-mail@7.0.0.M2?classifier=sources
 - pkg:maven/org.flowable/flowable-mail@7.0.0?classifier=sources
+- pkg:maven/org.flowable/flowable-mail@7.0.1
+- pkg:maven/org.flowable/flowable-mail@7.0.1?classifier=sources

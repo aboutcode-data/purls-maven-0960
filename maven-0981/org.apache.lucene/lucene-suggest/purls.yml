@@ -209,3 +209,4 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@9.7.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@9.8.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@9.9.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@9.9.1?classifier=sources

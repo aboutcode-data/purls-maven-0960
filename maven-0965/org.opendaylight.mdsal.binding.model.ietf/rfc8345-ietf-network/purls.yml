@@ -79,6 +79,8 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@12.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@12.0.3
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@12.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@12.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@13.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@2.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8345-ietf-network@2.0.1

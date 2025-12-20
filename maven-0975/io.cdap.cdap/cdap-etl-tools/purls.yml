@@ -8,6 +8,8 @@
 - pkg:maven/io.cdap.cdap/cdap-etl-tools@6.1.3?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-etl-tools@6.1.4
 - pkg:maven/io.cdap.cdap/cdap-etl-tools@6.1.4?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-etl-tools@6.10.0
+- pkg:maven/io.cdap.cdap/cdap-etl-tools@6.10.0?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-etl-tools@6.2.0
 - pkg:maven/io.cdap.cdap/cdap-etl-tools@6.2.0?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-etl-tools@6.2.1

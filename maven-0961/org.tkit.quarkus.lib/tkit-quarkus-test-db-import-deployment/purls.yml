@@ -28,6 +28,8 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.24.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.25.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.25.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.26.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.26.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.7.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.7.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.8.0
@@ -54,6 +56,10 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.0.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.1.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.10.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.10.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.11.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.11.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.2.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.2.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.3.0
@@ -66,3 +72,7 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.7.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.7.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.8.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.8.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.9.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.9.0?classifier=sources

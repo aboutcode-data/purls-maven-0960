@@ -62,3 +62,5 @@
 - pkg:maven/org.clojure/tools.namespace@1.4.3?classifier=sources
 - pkg:maven/org.clojure/tools.namespace@1.4.4
 - pkg:maven/org.clojure/tools.namespace@1.4.4?classifier=sources
+- pkg:maven/org.clojure/tools.namespace@1.4.5
+- pkg:maven/org.clojure/tools.namespace@1.4.5?classifier=sources

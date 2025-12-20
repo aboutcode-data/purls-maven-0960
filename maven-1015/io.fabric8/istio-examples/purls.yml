@@ -22,6 +22,8 @@
 - pkg:maven/io.fabric8/istio-examples@6.1.0?classifier=sources
 - pkg:maven/io.fabric8/istio-examples@6.1.1
 - pkg:maven/io.fabric8/istio-examples@6.1.1?classifier=sources
+- pkg:maven/io.fabric8/istio-examples@6.10.0
+- pkg:maven/io.fabric8/istio-examples@6.10.0?classifier=sources
 - pkg:maven/io.fabric8/istio-examples@6.2.0
 - pkg:maven/io.fabric8/istio-examples@6.2.0?classifier=sources
 - pkg:maven/io.fabric8/istio-examples@6.3.0

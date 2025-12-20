@@ -86,3 +86,5 @@
 - pkg:maven/org.cometd.java/cometd-java-api-server@7.0.9?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-api-server@8.0.0.beta0
 - pkg:maven/org.cometd.java/cometd-java-api-server@8.0.0.beta0?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-api-server@8.0.0.beta1
+- pkg:maven/org.cometd.java/cometd-java-api-server@8.0.0.beta1?classifier=sources

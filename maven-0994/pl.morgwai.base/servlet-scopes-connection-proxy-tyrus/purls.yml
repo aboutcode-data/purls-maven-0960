@@ -1,0 +1,4 @@
+- pkg:maven/pl.morgwai.base/servlet-scopes-connection-proxy-tyrus@14.0-jakarta
+- pkg:maven/pl.morgwai.base/servlet-scopes-connection-proxy-tyrus@14.0-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes-connection-proxy-tyrus@14.0-javax
+- pkg:maven/pl.morgwai.base/servlet-scopes-connection-proxy-tyrus@14.0-javax?classifier=sources

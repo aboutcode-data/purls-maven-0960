@@ -212,3 +212,5 @@
 - pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.6?classifier=sources
 - pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.7
 - pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.7?classifier=sources
+- pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.8
+- pkg:maven/org.scala-sbt/util-scripted_2.12@1.9.8?classifier=sources

@@ -98,6 +98,9 @@
 - pkg:maven/com.google.android.filament/filamat-android@1.44.0?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.45.0?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.45.1?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.49.0?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.49.1?classifier=sources
+- pkg:maven/com.google.android.filament/filamat-android@1.49.2?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.5.0?classifier=sources
 - pkg:maven/com.google.android.filament/filamat-android@1.5.0?type=aar
 - pkg:maven/com.google.android.filament/filamat-android@1.5.1?classifier=sources

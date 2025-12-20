@@ -98,6 +98,12 @@
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.2?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.3
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.3?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.4
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.4?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.5
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.5?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.6
+- pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@1.5.6?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@ab0d4fca09eda8ca09f73c108260e30e6d0377d0
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@ab0d4fca09eda8ca09f73c108260e30e6d0377d0?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-rest-sqs_2.13@ad7b5d3bdcb330f8efa39294e9a6405b3d286a82

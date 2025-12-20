@@ -8,3 +8,7 @@
 - pkg:maven/org.xipki.example/dummy-crl-server@6.3.0?type=war
 - pkg:maven/org.xipki.example/dummy-crl-server@6.5.1
 - pkg:maven/org.xipki.example/dummy-crl-server@6.5.1?classifier=sources
+- pkg:maven/org.xipki.example/dummy-crl-server@6.5.2
+- pkg:maven/org.xipki.example/dummy-crl-server@6.5.2?classifier=sources
+- pkg:maven/org.xipki.example/dummy-crl-server@6.5.3
+- pkg:maven/org.xipki.example/dummy-crl-server@6.5.3?classifier=sources

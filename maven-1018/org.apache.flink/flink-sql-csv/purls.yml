@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.flink/flink-sql-csv@1.17.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-sql-csv@1.18.0
 - pkg:maven/org.apache.flink/flink-sql-csv@1.18.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-sql-csv@1.18.1
+- pkg:maven/org.apache.flink/flink-sql-csv@1.18.1?classifier=sources

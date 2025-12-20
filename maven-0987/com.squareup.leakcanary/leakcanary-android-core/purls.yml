@@ -19,6 +19,7 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.10?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.11?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.12?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.13?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.1?type=aar
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.2?classifier=sources
@@ -37,3 +38,4 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.8?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.9.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-core@2.9?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-core@3.0-alpha-1?classifier=sources

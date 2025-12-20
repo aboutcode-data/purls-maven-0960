@@ -46,6 +46,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.7?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.8
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.8?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.9
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@3.1.9?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@4.0.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-spec-kotlin@4.0.1

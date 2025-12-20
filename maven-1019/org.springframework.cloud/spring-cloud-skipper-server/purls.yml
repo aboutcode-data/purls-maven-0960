@@ -52,6 +52,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.11.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.11.1
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.11.1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.11.2
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.11.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-server@2.2.1.RELEASE

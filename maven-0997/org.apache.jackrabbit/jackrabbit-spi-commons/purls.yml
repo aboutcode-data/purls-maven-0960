@@ -251,6 +251,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.12?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.13
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.13?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.14
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.14?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.2?classifier=sources
@@ -297,6 +299,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.20?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.21
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.21?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.22
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.22?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.3?classifier=sources

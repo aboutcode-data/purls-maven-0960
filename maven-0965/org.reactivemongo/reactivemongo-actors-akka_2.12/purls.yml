@@ -1,0 +1,4 @@
+- pkg:maven/org.reactivemongo/reactivemongo-actors-akka_2.12@1.1.0-RC12
+- pkg:maven/org.reactivemongo/reactivemongo-actors-akka_2.12@1.1.0-RC12?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-actors-akka_2.12@1.1.0.noshaded-RC12
+- pkg:maven/org.reactivemongo/reactivemongo-actors-akka_2.12@1.1.0.noshaded-RC12?classifier=sources

@@ -252,6 +252,8 @@
 - pkg:maven/org.scala-sbt/sbt@1.9.6?classifier=sources
 - pkg:maven/org.scala-sbt/sbt@1.9.7
 - pkg:maven/org.scala-sbt/sbt@1.9.7?classifier=sources
+- pkg:maven/org.scala-sbt/sbt@1.9.8
+- pkg:maven/org.scala-sbt/sbt@1.9.8?classifier=sources
 - pkg:maven/org.scala-sbt/sbt@2.0.0-alpha6
 - pkg:maven/org.scala-sbt/sbt@2.0.0-alpha6?classifier=sources
 - pkg:maven/org.scala-sbt/sbt@2.0.0-alpha7

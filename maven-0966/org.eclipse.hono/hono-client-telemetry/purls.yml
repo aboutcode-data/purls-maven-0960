@@ -40,3 +40,5 @@
 - pkg:maven/org.eclipse.hono/hono-client-telemetry@2.4.0?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-telemetry@2.4.1
 - pkg:maven/org.eclipse.hono/hono-client-telemetry@2.4.1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-client-telemetry@2.5.0
+- pkg:maven/org.eclipse.hono/hono-client-telemetry@2.5.0?classifier=sources

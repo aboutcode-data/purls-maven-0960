@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.11.1?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.11.2
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.11.2?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.11.3
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.11.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.9.0
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.9.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@2.9.1
@@ -38,3 +40,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.1.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.1.1
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.1.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.1.2
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.1.2?classifier=sources

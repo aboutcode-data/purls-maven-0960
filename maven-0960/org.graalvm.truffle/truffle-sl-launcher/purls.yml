@@ -63,6 +63,8 @@
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.11?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.12
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.12?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.13
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.13?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.1?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.2
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@20.3.2?classifier=sources
@@ -114,6 +116,8 @@
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@21.3.7?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@21.3.8
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@21.3.8?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@21.3.9
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@21.3.9?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@22.0.0
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@22.0.0.2
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@22.0.0.2?classifier=sources
@@ -142,7 +146,11 @@
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.0.1?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.0.2
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.0.2?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.0.3
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.0.3?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.1.0
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.1.0?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.1.1
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.1.1?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.1.2
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@23.1.2?classifier=sources

@@ -12,3 +12,13 @@
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.13.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.20.0
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.20.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.21.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.21.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.22.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.22.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.23.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.23.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.24.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.24.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.25.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.25.0?classifier=sources

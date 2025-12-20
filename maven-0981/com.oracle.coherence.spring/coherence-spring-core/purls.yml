@@ -24,3 +24,5 @@
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@4.0.0?classifier=sources
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@4.1.0
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-core@4.1.0?classifier=sources
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-core@4.1.1
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-core@4.1.1?classifier=sources

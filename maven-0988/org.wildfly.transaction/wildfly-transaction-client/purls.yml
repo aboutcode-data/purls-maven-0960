@@ -126,6 +126,9 @@
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.16.Final
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.16.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.16.Final?classifier=sources
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.17.Final
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.17.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.17.Final?classifier=sources
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.2.Final
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@1.1.2.Final?classifier=sources
@@ -166,3 +169,6 @@
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@3.0.2.Final
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@3.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client@3.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@3.0.3.Final
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@3.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client@3.0.3.Final?classifier=sources

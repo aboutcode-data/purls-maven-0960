@@ -4,3 +4,5 @@
 - pkg:maven/com.khoros.android-brandmessenger-sdk/brandmessengercore@1.14.5.1?type=aar
 - pkg:maven/com.khoros.android-brandmessenger-sdk/brandmessengercore@1.14.5?classifier=sources
 - pkg:maven/com.khoros.android-brandmessenger-sdk/brandmessengercore@1.14.5?type=aar
+- pkg:maven/com.khoros.android-brandmessenger-sdk/brandmessengercore@1.15.0?classifier=sources
+- pkg:maven/com.khoros.android-brandmessenger-sdk/brandmessengercore@1.15.0?type=aar

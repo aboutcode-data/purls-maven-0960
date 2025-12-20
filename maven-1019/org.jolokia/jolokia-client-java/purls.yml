@@ -60,6 +60,7 @@
 - pkg:maven/org.jolokia/jolokia-client-java@1.7.1?classifier=sources
 - pkg:maven/org.jolokia/jolokia-client-java@1.7.2
 - pkg:maven/org.jolokia/jolokia-client-java@1.7.2?classifier=sources
+- pkg:maven/org.jolokia/jolokia-client-java@2.0.0
 - pkg:maven/org.jolokia/jolokia-client-java@2.0.0-M1
 - pkg:maven/org.jolokia/jolokia-client-java@2.0.0-M1?classifier=sources
 - pkg:maven/org.jolokia/jolokia-client-java@2.0.0-M2
@@ -68,3 +69,4 @@
 - pkg:maven/org.jolokia/jolokia-client-java@2.0.0-M3?classifier=sources
 - pkg:maven/org.jolokia/jolokia-client-java@2.0.0-M4
 - pkg:maven/org.jolokia/jolokia-client-java@2.0.0-M4?classifier=sources
+- pkg:maven/org.jolokia/jolokia-client-java@2.0.0?classifier=sources

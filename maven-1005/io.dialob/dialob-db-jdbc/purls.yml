@@ -12,6 +12,10 @@
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.15?classifier=sources
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.16
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.16?classifier=sources
+- pkg:maven/io.dialob/dialob-db-jdbc@2.1.17
+- pkg:maven/io.dialob/dialob-db-jdbc@2.1.17?classifier=sources
+- pkg:maven/io.dialob/dialob-db-jdbc@2.1.18
+- pkg:maven/io.dialob/dialob-db-jdbc@2.1.18?classifier=sources
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.2
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.2?classifier=sources
 - pkg:maven/io.dialob/dialob-db-jdbc@2.1.3

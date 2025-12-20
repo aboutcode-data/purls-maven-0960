@@ -24,3 +24,5 @@
 - pkg:maven/org.ligoj.plugin/plugin-password@1.0.9?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-password@1.1.0
 - pkg:maven/org.ligoj.plugin/plugin-password@1.1.0?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-password@1.1.1
+- pkg:maven/org.ligoj.plugin/plugin-password@1.1.1?classifier=sources

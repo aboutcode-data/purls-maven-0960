@@ -68,6 +68,8 @@
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.1.2?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.10.0
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.10.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.10.1
+- pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.10.1?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.2.0
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.2.0?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.3.0
@@ -82,3 +84,5 @@
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.8.0?classifier=sources
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.9.0
 - pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.9.0?classifier=sources
+- pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.9.1
+- pkg:maven/nl.vpro.poms.api-clients/pages-backend-api-client@7.9.1?classifier=sources

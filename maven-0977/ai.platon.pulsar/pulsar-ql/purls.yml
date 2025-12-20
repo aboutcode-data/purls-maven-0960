@@ -48,6 +48,8 @@
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.8?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.9
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.10.9?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.12.0
+- pkg:maven/ai.platon.pulsar/pulsar-ql@1.12.0?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.6.6
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.6.6.1
 - pkg:maven/ai.platon.pulsar/pulsar-ql@1.6.6.1?classifier=sources

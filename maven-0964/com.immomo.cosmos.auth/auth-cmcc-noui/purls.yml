@@ -12,3 +12,7 @@
 - pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.1?type=aar
 - pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.2?classifier=sources
 - pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.2?type=aar
+- pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.2_tantan?classifier=sources
+- pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.2_tantan?type=aar
+- pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.2_tt600?classifier=sources
+- pkg:maven/com.immomo.cosmos.auth/auth-cmcc-noui@1.4.0.2_tt600?type=aar

@@ -94,8 +94,12 @@
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0-beta-2?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0-beta-3
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0-beta-3?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0.0
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0.0-RC1
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0.0-RC1?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0.0?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0.1
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@3.0.1?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-M1
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-M1?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-M2
@@ -104,3 +108,5 @@
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-M3?classifier=sources
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-M4
 - pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-M4?classifier=sources
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-beta-1
+- pkg:maven/io.hawt.examples/hawtio-example-springboot-keycloak@4.0-beta-1?classifier=sources

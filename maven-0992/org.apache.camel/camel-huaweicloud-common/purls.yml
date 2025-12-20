@@ -76,6 +76,10 @@
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@3.21.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@3.21.2
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@3.21.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-huaweicloud-common@3.21.3
+- pkg:maven/org.apache.camel/camel-huaweicloud-common@3.21.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-huaweicloud-common@3.22.0
+- pkg:maven/org.apache.camel/camel-huaweicloud-common@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@4.0.0
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@4.0.0-M1
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@4.0.0-M1?classifier=sources
@@ -98,3 +102,5 @@
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@4.2.0
 - pkg:maven/org.apache.camel/camel-huaweicloud-common@4.2.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-huaweicloud-common@4.3.0
+- pkg:maven/org.apache.camel/camel-huaweicloud-common@4.3.0?classifier=sources
