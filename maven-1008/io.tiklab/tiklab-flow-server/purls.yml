@@ -1,4 +1,6 @@
+- pkg:maven/io.tiklab/tiklab-flow-server@1.0.0
 - pkg:maven/io.tiklab/tiklab-flow-server@1.0.0.2
 - pkg:maven/io.tiklab/tiklab-flow-server@1.0.0.2?classifier=sources
 - pkg:maven/io.tiklab/tiklab-flow-server@1.0.0.3
 - pkg:maven/io.tiklab/tiklab-flow-server@1.0.0.3?classifier=sources
+- pkg:maven/io.tiklab/tiklab-flow-server@1.0.0?classifier=sources

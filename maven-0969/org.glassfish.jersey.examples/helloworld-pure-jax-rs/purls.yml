@@ -223,6 +223,8 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.4.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.40
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.41
+- pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@2.5
@@ -263,6 +265,8 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.11
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.11?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.12
+- pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-pure-jax-rs@3.0.2

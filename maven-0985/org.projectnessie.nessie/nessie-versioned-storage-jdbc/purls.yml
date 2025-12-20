@@ -31,3 +31,8 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.70.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.71.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.71.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.72.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.72.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.72.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.72.4?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.73.0?classifier=sources

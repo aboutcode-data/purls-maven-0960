@@ -60,6 +60,8 @@
 - pkg:maven/us.ihmc/scs2-simulation@17-0.16.1?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@17-0.16.2?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@17-0.16.3?classifier=sources
+- pkg:maven/us.ihmc/scs2-simulation@17-0.16.4?classifier=sources
+- pkg:maven/us.ihmc/scs2-simulation@17-0.17.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@17-0.5.1?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@17-0.8.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-simulation@17-0.8.1?classifier=sources

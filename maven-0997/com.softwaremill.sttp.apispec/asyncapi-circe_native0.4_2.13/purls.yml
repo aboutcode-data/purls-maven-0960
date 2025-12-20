@@ -22,3 +22,7 @@
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.6.2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.6.3
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.6.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.7.0
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.7.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.7.1
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_native0.4_2.13@0.7.1?classifier=sources

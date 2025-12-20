@@ -30,6 +30,7 @@
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.0-M4?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.10?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.3?classifier=sources

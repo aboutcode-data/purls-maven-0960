@@ -26,3 +26,17 @@
 - pkg:maven/org.mixql/mixqlengine_2.13@0.7.3?classifier=sources
 - pkg:maven/org.mixql/mixqlengine_2.13@0.8.0
 - pkg:maven/org.mixql/mixqlengine_2.13@0.8.0?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.8.1
+- pkg:maven/org.mixql/mixqlengine_2.13@0.8.1.1
+- pkg:maven/org.mixql/mixqlengine_2.13@0.8.1.1?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.8.1.2
+- pkg:maven/org.mixql/mixqlengine_2.13@0.8.1.2?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.8.1?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.0
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.0?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.1
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.1.1
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.1.1?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.1?classifier=sources
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.2
+- pkg:maven/org.mixql/mixqlengine_2.13@0.9.2?classifier=sources

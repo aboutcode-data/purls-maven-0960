@@ -40,3 +40,5 @@
 - pkg:maven/org.ifinalframework/final-dubbo@1.5.3?classifier=sources
 - pkg:maven/org.ifinalframework/final-dubbo@1.5.4
 - pkg:maven/org.ifinalframework/final-dubbo@1.5.4?classifier=sources
+- pkg:maven/org.ifinalframework/final-dubbo@1.5.5-alpha
+- pkg:maven/org.ifinalframework/final-dubbo@1.5.5-alpha?classifier=sources

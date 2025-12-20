@@ -1,5 +1,7 @@
 - pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.10.0
 - pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.10.0?classifier=sources
+- pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.11.0
+- pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.11.0?classifier=sources
 - pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.2.0
 - pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.2.0?classifier=sources
 - pkg:maven/dev.chopsticks/chopsticks-testkit_2.13@3.4.1

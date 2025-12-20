@@ -18,6 +18,12 @@
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.12.3?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.12.5?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.13.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.13.1?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.13.2?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.14.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.15.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.17.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.18.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.2.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.3.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.3.1?classifier=sources

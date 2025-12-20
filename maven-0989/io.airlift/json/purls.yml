@@ -340,3 +340,7 @@
 - pkg:maven/io.airlift/json@234?classifier=sources
 - pkg:maven/io.airlift/json@235
 - pkg:maven/io.airlift/json@235?classifier=sources
+- pkg:maven/io.airlift/json@236
+- pkg:maven/io.airlift/json@236?classifier=sources
+- pkg:maven/io.airlift/json@237
+- pkg:maven/io.airlift/json@237?classifier=sources

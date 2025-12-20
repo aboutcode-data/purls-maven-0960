@@ -14,3 +14,5 @@
 - pkg:maven/com.codacy/codacy-logging-config@0.1.3?classifier=sources
 - pkg:maven/com.codacy/codacy-logging-config@1.0.0
 - pkg:maven/com.codacy/codacy-logging-config@1.0.0?classifier=sources
+- pkg:maven/com.codacy/codacy-logging-config@1.0.1
+- pkg:maven/com.codacy/codacy-logging-config@1.0.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.10.0
 - pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.10.0?classifier=sources
+- pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.10.1
+- pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.10.1?classifier=sources
 - pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.8.9
 - pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.8.9?classifier=sources
 - pkg:maven/com.diffusiondata.diffusion/diffusion-client-with-dependencies@6.9.1

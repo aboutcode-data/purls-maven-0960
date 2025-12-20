@@ -1,0 +1,4 @@
+- pkg:maven/org.jline/jline-terminal-jni@3.24.0
+- pkg:maven/org.jline/jline-terminal-jni@3.24.0?classifier=sources
+- pkg:maven/org.jline/jline-terminal-jni@3.24.1
+- pkg:maven/org.jline/jline-terminal-jni@3.24.1?classifier=sources

@@ -59,6 +59,10 @@
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.27.3?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.27.4?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.27.5?classifier=sources
+- pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.27.6?classifier=sources
+- pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.27.7?classifier=sources
+- pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.28.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.28.1?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.4.1-alpha?classifier=sources
 - pkg:maven/aws.smithy.kotlin/serde-json-jvm@0.5.0-alpha?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-war@1.0.3?type=war
 - pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-war@1.0.4?classifier=sources
 - pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-war@1.0.4?type=war
+- pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-war@1.0.6?classifier=sources
+- pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-war@1.0.6?type=war

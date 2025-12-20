@@ -1,2 +1,4 @@
+- pkg:maven/org.apache.jena/jena-benchmarks-jmh@4.10.0
+- pkg:maven/org.apache.jena/jena-benchmarks-jmh@4.10.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-benchmarks-jmh@4.9.0
 - pkg:maven/org.apache.jena/jena-benchmarks-jmh@4.9.0?classifier=sources

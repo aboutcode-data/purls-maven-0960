@@ -21,8 +21,10 @@
 - pkg:maven/com.sdl/odata_war@2.10.24?type=war
 - pkg:maven/com.sdl/odata_war@2.10.25?type=war
 - pkg:maven/com.sdl/odata_war@2.10.26?type=war
+- pkg:maven/com.sdl/odata_war@2.10.27?type=war
 - pkg:maven/com.sdl/odata_war@2.10.3?type=war
 - pkg:maven/com.sdl/odata_war@2.11.1?type=war
+- pkg:maven/com.sdl/odata_war@2.11.2?type=war
 - pkg:maven/com.sdl/odata_war@2.2.0?type=war
 - pkg:maven/com.sdl/odata_war@2.2.1?type=war
 - pkg:maven/com.sdl/odata_war@2.2.3?type=war
@@ -76,6 +78,7 @@
 - pkg:maven/com.sdl/odata_war@2.7.11?type=war
 - pkg:maven/com.sdl/odata_war@2.7.12?type=war
 - pkg:maven/com.sdl/odata_war@2.7.13?type=war
+- pkg:maven/com.sdl/odata_war@2.7.14?type=war
 - pkg:maven/com.sdl/odata_war@2.7.1?type=war
 - pkg:maven/com.sdl/odata_war@2.7.2?type=war
 - pkg:maven/com.sdl/odata_war@2.7.3?type=war
@@ -90,7 +93,12 @@
 - pkg:maven/com.sdl/odata_war@2.8.11?type=war
 - pkg:maven/com.sdl/odata_war@2.8.12?type=war
 - pkg:maven/com.sdl/odata_war@2.8.13?type=war
+- pkg:maven/com.sdl/odata_war@2.8.17?type=war
+- pkg:maven/com.sdl/odata_war@2.8.18?type=war
+- pkg:maven/com.sdl/odata_war@2.8.19?type=war
 - pkg:maven/com.sdl/odata_war@2.8.1?type=war
+- pkg:maven/com.sdl/odata_war@2.8.20?type=war
+- pkg:maven/com.sdl/odata_war@2.8.21?type=war
 - pkg:maven/com.sdl/odata_war@2.8.2?type=war
 - pkg:maven/com.sdl/odata_war@2.8.3?type=war
 - pkg:maven/com.sdl/odata_war@2.8.4?type=war
@@ -102,6 +110,7 @@
 - pkg:maven/com.sdl/odata_war@2.9.0?type=war
 - pkg:maven/com.sdl/odata_war@2.9.10?type=war
 - pkg:maven/com.sdl/odata_war@2.9.11?type=war
+- pkg:maven/com.sdl/odata_war@2.9.14?type=war
 - pkg:maven/com.sdl/odata_war@2.9.1?type=war
 - pkg:maven/com.sdl/odata_war@2.9.2?type=war
 - pkg:maven/com.sdl/odata_war@2.9.3?type=war

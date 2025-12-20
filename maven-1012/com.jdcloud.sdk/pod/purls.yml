@@ -24,3 +24,5 @@
 - pkg:maven/com.jdcloud.sdk/pod@2.3.3?classifier=sources
 - pkg:maven/com.jdcloud.sdk/pod@2.3.4
 - pkg:maven/com.jdcloud.sdk/pod@2.3.4?classifier=sources
+- pkg:maven/com.jdcloud.sdk/pod@2.5.1
+- pkg:maven/com.jdcloud.sdk/pod@2.5.1?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/io.laserdisc/binlog-stream_2.13@2.0.0?classifier=sources
 - pkg:maven/io.laserdisc/binlog-stream_2.13@2.1.0
 - pkg:maven/io.laserdisc/binlog-stream_2.13@2.1.0?classifier=sources
+- pkg:maven/io.laserdisc/binlog-stream_2.13@3.0.0-RC1
+- pkg:maven/io.laserdisc/binlog-stream_2.13@3.0.0-RC1?classifier=sources

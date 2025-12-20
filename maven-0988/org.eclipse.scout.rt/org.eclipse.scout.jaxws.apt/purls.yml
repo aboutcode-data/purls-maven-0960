@@ -170,6 +170,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.2.4?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.2.5
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.2.5?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.2.9
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@23.2.9?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@5.2.0.M3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@5.2.0.M3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.jaxws.apt@5.2.0.M4

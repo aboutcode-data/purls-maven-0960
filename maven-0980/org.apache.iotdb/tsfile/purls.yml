@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.iotdb/tsfile@1.2.0?classifier=sources
 - pkg:maven/org.apache.iotdb/tsfile@1.2.1
 - pkg:maven/org.apache.iotdb/tsfile@1.2.1?classifier=sources
+- pkg:maven/org.apache.iotdb/tsfile@1.2.2
+- pkg:maven/org.apache.iotdb/tsfile@1.2.2?classifier=sources

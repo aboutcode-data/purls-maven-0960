@@ -69,6 +69,8 @@
 - pkg:maven/org.swisspush/rest-storage@3.0.17?classifier=sources
 - pkg:maven/org.swisspush/rest-storage@3.0.18
 - pkg:maven/org.swisspush/rest-storage@3.0.18?classifier=sources
+- pkg:maven/org.swisspush/rest-storage@3.0.19
+- pkg:maven/org.swisspush/rest-storage@3.0.19?classifier=sources
 - pkg:maven/org.swisspush/rest-storage@3.0.1?classifier=sources
 - pkg:maven/org.swisspush/rest-storage@3.0.2
 - pkg:maven/org.swisspush/rest-storage@3.0.2?classifier=sources

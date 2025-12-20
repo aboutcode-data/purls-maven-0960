@@ -24,6 +24,7 @@
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.0.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.1.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.10.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/discovery-gce@2.11.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.2.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.2.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.3.0?classifier=sources

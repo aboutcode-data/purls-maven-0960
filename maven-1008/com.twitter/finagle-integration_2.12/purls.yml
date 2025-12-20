@@ -114,6 +114,8 @@
 - pkg:maven/com.twitter/finagle-integration_2.12@22.4.0?classifier=sources
 - pkg:maven/com.twitter/finagle-integration_2.12@22.7.0
 - pkg:maven/com.twitter/finagle-integration_2.12@22.7.0?classifier=sources
+- pkg:maven/com.twitter/finagle-integration_2.12@23.11.0
+- pkg:maven/com.twitter/finagle-integration_2.12@23.11.0?classifier=sources
 - pkg:maven/com.twitter/finagle-integration_2.12@6.41.0
 - pkg:maven/com.twitter/finagle-integration_2.12@6.41.0?classifier=sources
 - pkg:maven/com.twitter/finagle-integration_2.12@6.42.0

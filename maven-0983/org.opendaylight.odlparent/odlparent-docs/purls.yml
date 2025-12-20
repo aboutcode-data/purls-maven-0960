@@ -19,7 +19,10 @@
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@11.0.5?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@11.0.6
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@11.0.6?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@11.0.7
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@11.0.7?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.10?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.2?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.3?classifier=sources
@@ -29,6 +32,7 @@
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.7?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.8?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@12.0.9?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.0
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.1?classifier=sources
@@ -36,6 +40,9 @@
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.3?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.4?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.5?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.6?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.7
+- pkg:maven/org.opendaylight.odlparent/odlparent-docs@13.0.7?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@6.0.0
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@6.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odlparent-docs@6.0.1

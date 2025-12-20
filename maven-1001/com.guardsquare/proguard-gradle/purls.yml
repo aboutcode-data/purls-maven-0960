@@ -21,3 +21,4 @@
 - pkg:maven/com.guardsquare/proguard-gradle@7.3.2?classifier=sources
 - pkg:maven/com.guardsquare/proguard-gradle@7.4.0-beta01?classifier=sources
 - pkg:maven/com.guardsquare/proguard-gradle@7.4.0-beta02?classifier=sources
+- pkg:maven/com.guardsquare/proguard-gradle@7.4.0?classifier=sources

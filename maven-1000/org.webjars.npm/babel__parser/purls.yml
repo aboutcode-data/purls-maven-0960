@@ -130,6 +130,8 @@
 - pkg:maven/org.webjars.npm/babel__parser@7.22.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel__parser@7.22.7
 - pkg:maven/org.webjars.npm/babel__parser@7.22.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__parser@7.23.0
+- pkg:maven/org.webjars.npm/babel__parser@7.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__parser@7.3.1
 - pkg:maven/org.webjars.npm/babel__parser@7.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__parser@7.3.4
@@ -168,3 +170,5 @@
 - pkg:maven/org.webjars.npm/babel__parser@8.0.0-alpha.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__parser@8.0.0-alpha.2
 - pkg:maven/org.webjars.npm/babel__parser@8.0.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.npm/babel__parser@8.0.0-alpha.4
+- pkg:maven/org.webjars.npm/babel__parser@8.0.0-alpha.4?classifier=sources

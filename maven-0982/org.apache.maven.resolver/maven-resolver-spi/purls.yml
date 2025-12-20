@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.9.7?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.9.8
 - pkg:maven/org.apache.maven.resolver/maven-resolver-spi@1.9.8?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-spi@2.0.0-alpha-1
+- pkg:maven/org.apache.maven.resolver/maven-resolver-spi@2.0.0-alpha-1?classifier=sources

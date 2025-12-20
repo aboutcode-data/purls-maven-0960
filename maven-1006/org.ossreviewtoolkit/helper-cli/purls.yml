@@ -3,3 +3,8 @@
 - pkg:maven/org.ossreviewtoolkit/helper-cli@1.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@5.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@6.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@6.1.0?classifier=sources

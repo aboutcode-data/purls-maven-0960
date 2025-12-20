@@ -24,3 +24,5 @@
 - pkg:maven/com.mastercard.test.flow/validation-core@0.0.8?classifier=sources
 - pkg:maven/com.mastercard.test.flow/validation-core@0.0.9
 - pkg:maven/com.mastercard.test.flow/validation-core@0.0.9?classifier=sources
+- pkg:maven/com.mastercard.test.flow/validation-core@1.0.0
+- pkg:maven/com.mastercard.test.flow/validation-core@1.0.0?classifier=sources

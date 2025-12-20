@@ -66,3 +66,5 @@
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@22.4.0?classifier=sources
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@22.7.0
 - pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@22.7.0?classifier=sources
+- pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@23.11.0
+- pkg:maven/com.twitter/util-slf4j-jul-bridge_2.13@23.11.0?classifier=sources

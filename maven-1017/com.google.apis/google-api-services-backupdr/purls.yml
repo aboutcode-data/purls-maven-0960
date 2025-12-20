@@ -1,2 +1,6 @@
 - pkg:maven/com.google.apis/google-api-services-backupdr@v1-rev20230919-2.0.0
 - pkg:maven/com.google.apis/google-api-services-backupdr@v1-rev20230919-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-backupdr@v1-rev20231008-2.0.0
+- pkg:maven/com.google.apis/google-api-services-backupdr@v1-rev20231008-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-backupdr@v1-rev20231029-2.0.0
+- pkg:maven/com.google.apis/google-api-services-backupdr@v1-rev20231029-2.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.typelevel/kittens_sjs1_3@3.0.0-M4
 - pkg:maven/org.typelevel/kittens_sjs1_3@3.0.0-M4?classifier=sources
 - pkg:maven/org.typelevel/kittens_sjs1_3@3.0.0?classifier=sources
+- pkg:maven/org.typelevel/kittens_sjs1_3@3.1.0
+- pkg:maven/org.typelevel/kittens_sjs1_3@3.1.0?classifier=sources

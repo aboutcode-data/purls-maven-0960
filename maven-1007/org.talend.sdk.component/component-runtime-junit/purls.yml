@@ -147,6 +147,8 @@
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.10?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.11
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.11?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.12
+- pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.12?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.2
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.38.2?classifier=sources
@@ -278,5 +280,9 @@
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.61.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.61.2
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@1.61.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-junit@1.62.0
+- pkg:maven/org.talend.sdk.component/component-runtime-junit@1.62.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-junit@1.62.1
+- pkg:maven/org.talend.sdk.component/component-runtime-junit@1.62.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@10.57.0
 - pkg:maven/org.talend.sdk.component/component-runtime-junit@10.57.0?classifier=sources

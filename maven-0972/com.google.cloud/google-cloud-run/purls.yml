@@ -40,6 +40,10 @@
 - pkg:maven/com.google.cloud/google-cloud-run@0.24.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.27.0
 - pkg:maven/com.google.cloud/google-cloud-run@0.27.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-run@0.28.0
+- pkg:maven/com.google.cloud/google-cloud-run@0.28.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-run@0.29.0
+- pkg:maven/com.google.cloud/google-cloud-run@0.29.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-run@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.3.1
@@ -50,6 +54,8 @@
 - pkg:maven/com.google.cloud/google-cloud-run@0.3.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.3.5
 - pkg:maven/com.google.cloud/google-cloud-run@0.3.5?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-run@0.30.0
+- pkg:maven/com.google.cloud/google-cloud-run@0.30.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-run@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.5.0

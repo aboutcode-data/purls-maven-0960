@@ -159,6 +159,8 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.3?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.40?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.42?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.43?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.44?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.6?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.7?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-web@6.5.8?classifier=sources

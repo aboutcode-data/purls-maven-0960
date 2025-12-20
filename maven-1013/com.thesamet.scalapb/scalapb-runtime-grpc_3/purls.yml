@@ -8,6 +8,8 @@
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.12?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.13
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.13?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.14
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.14?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.3
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.3?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapb-runtime-grpc_3@0.11.4

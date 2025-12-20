@@ -1,2 +1,4 @@
 - pkg:maven/com.kapeta/sqldb-postgresql@0.0.8
 - pkg:maven/com.kapeta/sqldb-postgresql@0.0.8?classifier=sources
+- pkg:maven/com.kapeta/sqldb-postgresql@0.1.0
+- pkg:maven/com.kapeta/sqldb-postgresql@0.1.0?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.13.7?classifier=sources
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.14.0
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.14.0?classifier=sources
+- pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.14.14
+- pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.14.14?classifier=sources
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.14.5
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.14.5?classifier=sources
 - pkg:maven/com.yandex.ydb/ydb-sdk-auth-iam@1.2.0

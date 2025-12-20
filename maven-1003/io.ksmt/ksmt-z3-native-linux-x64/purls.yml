@@ -1,2 +1,8 @@
+- pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.10?classifier=sources
+- pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.11?classifier=sources
+- pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.12?classifier=sources
+- pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.13?classifier=sources
+- pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.14?classifier=sources
 - pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.8-draft?classifier=sources
 - pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.8?classifier=sources
+- pkg:maven/io.ksmt/ksmt-z3-native-linux-x64@0.5.9?classifier=sources

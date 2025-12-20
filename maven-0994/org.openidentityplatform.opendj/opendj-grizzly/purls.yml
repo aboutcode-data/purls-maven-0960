@@ -36,3 +36,5 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-grizzly@4.5.8?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-grizzly@4.5.9
 - pkg:maven/org.openidentityplatform.opendj/opendj-grizzly@4.5.9?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-grizzly@4.6.1
+- pkg:maven/org.openidentityplatform.opendj/opendj-grizzly@4.6.1?classifier=sources

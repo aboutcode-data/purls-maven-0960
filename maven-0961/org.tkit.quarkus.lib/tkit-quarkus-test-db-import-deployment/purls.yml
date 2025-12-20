@@ -16,6 +16,12 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.18.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.19.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.19.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.20.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.20.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.21.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.21.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.22.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.22.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.7.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.7.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@0.8.0
@@ -42,3 +48,7 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.0.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.1.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.2.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.2.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.3.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-test-db-import-deployment@2.3.0?classifier=sources

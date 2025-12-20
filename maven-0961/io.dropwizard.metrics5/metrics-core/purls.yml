@@ -16,6 +16,8 @@
 - pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc16?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc17
 - pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc17?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc18
+- pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc18?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc1?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc2
 - pkg:maven/io.dropwizard.metrics5/metrics-core@5.0.0-rc2?classifier=sources

@@ -386,6 +386,8 @@
 - pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.43.1?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.44.0
 - pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.44.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.45.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.45.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.5.0
 - pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.5.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaysqs@2.6.0

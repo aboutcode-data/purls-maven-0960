@@ -63,6 +63,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.10?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.11
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.11?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.12
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.12?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.2
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.2?classifier=sources
@@ -84,3 +86,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.26.9?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.0
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.0?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.1
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.1?classifier=sources

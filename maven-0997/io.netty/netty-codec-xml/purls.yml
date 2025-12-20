@@ -30,6 +30,8 @@
 - pkg:maven/io.netty/netty-codec-xml@4.1.10.Final?classifier=sources
 - pkg:maven/io.netty/netty-codec-xml@4.1.100.Final
 - pkg:maven/io.netty/netty-codec-xml@4.1.100.Final?classifier=sources
+- pkg:maven/io.netty/netty-codec-xml@4.1.101.Final
+- pkg:maven/io.netty/netty-codec-xml@4.1.101.Final?classifier=sources
 - pkg:maven/io.netty/netty-codec-xml@4.1.11.Final
 - pkg:maven/io.netty/netty-codec-xml@4.1.11.Final?classifier=sources
 - pkg:maven/io.netty/netty-codec-xml@4.1.12.Final

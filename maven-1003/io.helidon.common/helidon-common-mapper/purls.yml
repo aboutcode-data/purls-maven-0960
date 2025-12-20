@@ -96,6 +96,8 @@
 - pkg:maven/io.helidon.common/helidon-common-mapper@2.6.2?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-mapper@2.6.3
 - pkg:maven/io.helidon.common/helidon-common-mapper@2.6.3?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-mapper@2.6.4
+- pkg:maven/io.helidon.common/helidon-common-mapper@2.6.4?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-mapper@3.0.0
 - pkg:maven/io.helidon.common/helidon-common-mapper@3.0.0-M1
 - pkg:maven/io.helidon.common/helidon-common-mapper@3.0.0-M1?classifier=sources
@@ -122,6 +124,9 @@
 - pkg:maven/io.helidon.common/helidon-common-mapper@3.2.1?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-mapper@3.2.2
 - pkg:maven/io.helidon.common/helidon-common-mapper@3.2.2?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-mapper@3.2.3
+- pkg:maven/io.helidon.common/helidon-common-mapper@3.2.3?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0
 - pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-ALPHA1
 - pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-ALPHA1?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-ALPHA2
@@ -140,3 +145,6 @@
 - pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-M2?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-RC1
 - pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-RC1?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-RC2
+- pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0-RC2?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-mapper@4.0.0?classifier=sources

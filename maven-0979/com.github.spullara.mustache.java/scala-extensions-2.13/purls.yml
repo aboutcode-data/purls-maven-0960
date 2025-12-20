@@ -1,4 +1,6 @@
 - pkg:maven/com.github.spullara.mustache.java/scala-extensions-2.13@0.9.10
 - pkg:maven/com.github.spullara.mustache.java/scala-extensions-2.13@0.9.10?classifier=sources
+- pkg:maven/com.github.spullara.mustache.java/scala-extensions-2.13@0.9.11
+- pkg:maven/com.github.spullara.mustache.java/scala-extensions-2.13@0.9.11?classifier=sources
 - pkg:maven/com.github.spullara.mustache.java/scala-extensions-2.13@0.9.7
 - pkg:maven/com.github.spullara.mustache.java/scala-extensions-2.13@0.9.7?classifier=sources

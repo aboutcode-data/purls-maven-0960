@@ -14,3 +14,5 @@
 - pkg:maven/org.dominokit/domino-jackson-super@1.0.0-beta-2
 - pkg:maven/org.dominokit/domino-jackson-super@1.0.0-beta-2?classifier=sources
 - pkg:maven/org.dominokit/domino-jackson-super@1.0.0?classifier=sources
+- pkg:maven/org.dominokit/domino-jackson-super@1.0.1
+- pkg:maven/org.dominokit/domino-jackson-super@1.0.1?classifier=sources

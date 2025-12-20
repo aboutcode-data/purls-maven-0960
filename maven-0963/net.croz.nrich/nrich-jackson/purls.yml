@@ -19,3 +19,5 @@
 - pkg:maven/net.croz.nrich/nrich-jackson@1.8.3?classifier=sources
 - pkg:maven/net.croz.nrich/nrich-jackson@2.0.0-RC1?classifier=sources
 - pkg:maven/net.croz.nrich/nrich-jackson@2.0.0?classifier=sources
+- pkg:maven/net.croz.nrich/nrich-jackson@2.1.0?classifier=sources
+- pkg:maven/net.croz.nrich/nrich-jackson@2.1.1?classifier=sources

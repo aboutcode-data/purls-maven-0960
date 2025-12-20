@@ -29,6 +29,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.0
 - pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.1
+- pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.10
+- pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.10?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.2
 - pkg:maven/org.apache.camel.springboot/camel-ahc-ws-starter@3.14.2?classifier=sources

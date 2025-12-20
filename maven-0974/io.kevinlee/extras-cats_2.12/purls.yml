@@ -76,6 +76,8 @@
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.42.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.43.0
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.43.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-cats_2.12@0.44.0
+- pkg:maven/io.kevinlee/extras-cats_2.12@0.44.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.5.0
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.5.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-cats_2.12@0.6.0

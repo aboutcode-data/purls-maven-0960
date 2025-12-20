@@ -78,3 +78,5 @@
 - pkg:maven/org.mapstruct/mapstruct@1.5.4.Final?classifier=sources
 - pkg:maven/org.mapstruct/mapstruct@1.5.5.Final
 - pkg:maven/org.mapstruct/mapstruct@1.5.5.Final?classifier=sources
+- pkg:maven/org.mapstruct/mapstruct@1.6.0.Beta1
+- pkg:maven/org.mapstruct/mapstruct@1.6.0.Beta1?classifier=sources

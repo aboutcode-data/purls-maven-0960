@@ -43,4 +43,8 @@
 - pkg:maven/com.lihaoyi/mill-dist@0.11.4-40-72f093?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.4?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.5
+- pkg:maven/com.lihaoyi/mill-dist@0.11.5-15-a3bd10
+- pkg:maven/com.lihaoyi/mill-dist@0.11.5-15-a3bd10?classifier=sources
+- pkg:maven/com.lihaoyi/mill-dist@0.11.5-9-1cd494
+- pkg:maven/com.lihaoyi/mill-dist@0.11.5-9-1cd494?classifier=sources
 - pkg:maven/com.lihaoyi/mill-dist@0.11.5?classifier=sources

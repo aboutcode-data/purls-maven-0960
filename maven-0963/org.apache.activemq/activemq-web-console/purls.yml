@@ -68,6 +68,8 @@
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.14?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.15?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.15?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.15.16?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.15.16?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.1?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.15.2?classifier=sources
@@ -100,6 +102,8 @@
 - pkg:maven/org.apache.activemq/activemq-web-console@5.16.5?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.16.6?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.16.6?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.16.7?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.16.7?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.0?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.1?classifier=sources
@@ -112,12 +116,16 @@
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.4?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.5?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.17.5?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.17.6?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.17.6?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.18.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.18.0?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.18.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.18.1?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.18.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.18.2?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@5.18.3?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@5.18.3?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.2.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@5.2.0?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@5.3.0?classifier=sources

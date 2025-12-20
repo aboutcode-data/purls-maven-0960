@@ -12,3 +12,7 @@
 - pkg:maven/org.neo4j.gds/progress-tracking@2.5.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/progress-tracking@2.5.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/progress-tracking@2.5.0-alpha04?classifier=sources
+- pkg:maven/org.neo4j.gds/progress-tracking@2.5.0?classifier=sources
+- pkg:maven/org.neo4j.gds/progress-tracking@2.5.1?classifier=sources
+- pkg:maven/org.neo4j.gds/progress-tracking@2.5.2?classifier=sources
+- pkg:maven/org.neo4j.gds/progress-tracking@2.5.3?classifier=sources

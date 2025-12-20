@@ -78,6 +78,14 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231010?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231011
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231013
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231013?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231020
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231020?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231021
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231021?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231023
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-20231023?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-jdk17-20230712
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-jdk17-20230712?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-jdk17-20230718
@@ -104,3 +112,11 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-jdk17-20230903?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-jdk17-20230917
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.6.5-jdk17-20230917?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-20231105
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-20231105?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-20231107
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-20231107?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-20231108
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-20231108?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-jdk17-20231108
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.1-jdk17-20231108?classifier=sources

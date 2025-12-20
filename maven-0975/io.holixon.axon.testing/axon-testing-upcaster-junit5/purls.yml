@@ -1,2 +1,6 @@
 - pkg:maven/io.holixon.axon.testing/axon-testing-upcaster-junit5@4.8.0.0
 - pkg:maven/io.holixon.axon.testing/axon-testing-upcaster-junit5@4.8.0.0?classifier=sources
+- pkg:maven/io.holixon.axon.testing/axon-testing-upcaster-junit5@4.8.0.1
+- pkg:maven/io.holixon.axon.testing/axon-testing-upcaster-junit5@4.8.0.1?classifier=sources
+- pkg:maven/io.holixon.axon.testing/axon-testing-upcaster-junit5@4.8.0.2
+- pkg:maven/io.holixon.axon.testing/axon-testing-upcaster-junit5@4.8.0.2?classifier=sources

@@ -410,6 +410,12 @@
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.120.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.149.1
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.149.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.149.2
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.149.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.162.1
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.162.1?classifier=sources
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.162.2
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.162.2?classifier=sources
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.42.1
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.42.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.42.2
@@ -446,3 +452,5 @@
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.83.2?classifier=sources
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.97.2
 - pkg:maven/dev.zio/zio-aws-cloud9_2.12@6.20.97.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@7.21.15.1
+- pkg:maven/dev.zio/zio-aws-cloud9_2.12@7.21.15.1?classifier=sources

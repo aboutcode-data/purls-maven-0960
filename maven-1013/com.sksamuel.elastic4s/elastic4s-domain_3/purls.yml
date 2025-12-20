@@ -1,5 +1,7 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@5.7.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@5.7.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.10.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.10.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.4.4
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.4.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.5.0
@@ -38,3 +40,5 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.9.3?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.9.4
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.9.4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.9.5
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-domain_3@8.9.5?classifier=sources

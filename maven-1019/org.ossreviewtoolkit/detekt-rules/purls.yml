@@ -3,3 +3,8 @@
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@1.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@5.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@6.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@6.1.0?classifier=sources

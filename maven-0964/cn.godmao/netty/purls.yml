@@ -1,5 +1,7 @@
 - pkg:maven/cn.godmao/netty@1.1.5.1.Beat
 - pkg:maven/cn.godmao/netty@1.1.5.1.Beat?classifier=sources
+- pkg:maven/cn.godmao/netty@1.1.5.2.Beat
+- pkg:maven/cn.godmao/netty@1.1.5.2.Beat?classifier=sources
 - pkg:maven/cn.godmao/netty@1.1.5.Beat
 - pkg:maven/cn.godmao/netty@1.1.5.Beat?classifier=sources
 - pkg:maven/cn.godmao/netty@2.3.2.1.Beat
@@ -36,5 +38,7 @@
 - pkg:maven/cn.godmao/netty@2.3.4.5.Beat?classifier=sources
 - pkg:maven/cn.godmao/netty@2.3.4.6.Beat
 - pkg:maven/cn.godmao/netty@2.3.4.6.Beat?classifier=sources
+- pkg:maven/cn.godmao/netty@2.3.4.7.Beat
+- pkg:maven/cn.godmao/netty@2.3.4.7.Beat?classifier=sources
 - pkg:maven/cn.godmao/netty@2.3.4.Beat
 - pkg:maven/cn.godmao/netty@2.3.4.Beat?classifier=sources

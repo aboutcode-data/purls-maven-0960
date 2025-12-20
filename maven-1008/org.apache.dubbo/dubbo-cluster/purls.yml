@@ -136,3 +136,5 @@
 - pkg:maven/org.apache.dubbo/dubbo-cluster@3.2.6?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-cluster@3.2.7
 - pkg:maven/org.apache.dubbo/dubbo-cluster@3.2.7?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-cluster@3.3.0-beta.1
+- pkg:maven/org.apache.dubbo/dubbo-cluster@3.3.0-beta.1?classifier=sources

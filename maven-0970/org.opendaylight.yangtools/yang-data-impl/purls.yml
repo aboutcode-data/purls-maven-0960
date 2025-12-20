@@ -67,6 +67,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.10
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.10?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.11?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.12?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@10.0.2?classifier=sources
@@ -83,6 +85,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@11.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@11.0.3
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@11.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@11.0.4
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@11.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@2.0.1
@@ -340,6 +344,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@8.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.1
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.10
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.3?classifier=sources
@@ -351,3 +357,5 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.7?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.8
 - pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.8?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.9
+- pkg:maven/org.opendaylight.yangtools/yang-data-impl@9.0.9?classifier=sources

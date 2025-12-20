@@ -48,3 +48,6 @@
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.35.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.36.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.37.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-sql@8.38.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-sql@8.39.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-sql@8.40.0?classifier=sources

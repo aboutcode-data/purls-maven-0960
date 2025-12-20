@@ -36,3 +36,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/mongodb-sink-rabbit@3.2.0?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/mongodb-sink-rabbit@3.2.1
 - pkg:maven/org.springframework.cloud.stream.app/mongodb-sink-rabbit@3.2.1?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/mongodb-sink-rabbit@4.0.0
+- pkg:maven/org.springframework.cloud.stream.app/mongodb-sink-rabbit@4.0.0?classifier=sources

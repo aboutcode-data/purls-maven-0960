@@ -18,3 +18,5 @@
 - pkg:maven/io.lippia/core@3.2.3.8?classifier=sources
 - pkg:maven/io.lippia/core@3.3.0.0
 - pkg:maven/io.lippia/core@3.3.0.0?classifier=sources
+- pkg:maven/io.lippia/core@3.3.0.1
+- pkg:maven/io.lippia/core@3.3.0.1?classifier=sources

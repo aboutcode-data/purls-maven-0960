@@ -92,6 +92,8 @@
 - pkg:maven/io.quarkus/quarkus-websockets-client@2.16.10.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-websockets-client@2.16.11.Final
 - pkg:maven/io.quarkus/quarkus-websockets-client@2.16.11.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-websockets-client@2.16.12.Final
+- pkg:maven/io.quarkus/quarkus-websockets-client@2.16.12.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-websockets-client@2.16.2.Final
 - pkg:maven/io.quarkus/quarkus-websockets-client@2.16.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-websockets-client@2.16.3.Final
@@ -248,6 +250,10 @@
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.2.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.2.6.Final
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.2.6.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.2.7.Final
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.2.7.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.2.8.Final
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.2.8.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.3.0
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.3.0.CR1
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.3.0.CR1?classifier=sources
@@ -268,5 +274,9 @@
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.4.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.4.3
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.4.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.5.0
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.5.0.CR1
 - pkg:maven/io.quarkus/quarkus-websockets-client@3.5.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.5.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.5.1
+- pkg:maven/io.quarkus/quarkus-websockets-client@3.5.1?classifier=sources

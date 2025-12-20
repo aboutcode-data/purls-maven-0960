@@ -29,6 +29,7 @@
 - pkg:maven/com.codeborne/selenide-testng@6.17.2?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.18.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.19.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-testng@6.19.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.2.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.2.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.3.0?classifier=sources
@@ -56,3 +57,6 @@
 - pkg:maven/com.codeborne/selenide-testng@6.8.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.8.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@6.9.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-testng@7.0.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-testng@7.0.1?classifier=sources
+- pkg:maven/com.codeborne/selenide-testng@7.0.2?classifier=sources

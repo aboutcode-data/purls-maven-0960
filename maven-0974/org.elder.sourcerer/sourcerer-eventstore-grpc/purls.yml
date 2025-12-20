@@ -6,3 +6,4 @@
 - pkg:maven/org.elder.sourcerer/sourcerer-eventstore-grpc@v7.1.1?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-eventstore-grpc@v8.0.0?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-eventstore-grpc@v9.0.0?classifier=sources
+- pkg:maven/org.elder.sourcerer/sourcerer-eventstore-grpc@v9.0.1?classifier=sources

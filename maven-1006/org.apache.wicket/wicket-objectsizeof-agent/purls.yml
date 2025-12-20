@@ -146,6 +146,8 @@
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@1.5.9?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@10.0.0-M1
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@10.0.0-M1?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@10.0.0-M2
+- pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@10.0.0-M2?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.0.0
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.0.0-beta1
 - pkg:maven/org.apache.wicket/wicket-objectsizeof-agent@6.0.0-beta1?classifier=sources

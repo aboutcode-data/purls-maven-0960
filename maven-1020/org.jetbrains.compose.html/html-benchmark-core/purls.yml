@@ -6,6 +6,9 @@
 - pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.0?classifier=sources
 - pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.10-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.10-beta02?classifier=sources
+- pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.10-rc01?classifier=sources
+- pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.10-rc02?classifier=sources
+- pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.10?classifier=sources
 - pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.1?classifier=sources
 - pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.2?classifier=sources
 - pkg:maven/org.jetbrains.compose.html/html-benchmark-core@1.5.3?classifier=sources

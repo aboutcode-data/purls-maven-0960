@@ -100,3 +100,5 @@
 - pkg:maven/com.walmartlabs.concord.server.plugins/kafka-event-sink@1.99.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins/kafka-event-sink@2.0.0
 - pkg:maven/com.walmartlabs.concord.server.plugins/kafka-event-sink@2.0.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server.plugins/kafka-event-sink@2.1.0
+- pkg:maven/com.walmartlabs.concord.server.plugins/kafka-event-sink@2.1.0?classifier=sources

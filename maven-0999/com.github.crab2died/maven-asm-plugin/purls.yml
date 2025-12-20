@@ -1,2 +1,4 @@
+- pkg:maven/com.github.crab2died/maven-asm-plugin@1.0.0
 - pkg:maven/com.github.crab2died/maven-asm-plugin@1.0.0-Alpha
 - pkg:maven/com.github.crab2died/maven-asm-plugin@1.0.0-Alpha?classifier=sources
+- pkg:maven/com.github.crab2died/maven-asm-plugin@1.0.0?classifier=sources

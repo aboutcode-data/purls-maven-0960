@@ -249,6 +249,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.11?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.12
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.12?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.13
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.13?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.2?classifier=sources
