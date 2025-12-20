@@ -18,3 +18,5 @@
 - pkg:maven/net.corda/corda-application@5.0.0.765?classifier=sources
 - pkg:maven/net.corda/corda-application@5.1.0.39
 - pkg:maven/net.corda/corda-application@5.1.0.39?classifier=sources
+- pkg:maven/net.corda/corda-application@5.2.0.52
+- pkg:maven/net.corda/corda-application@5.2.0.52?classifier=sources

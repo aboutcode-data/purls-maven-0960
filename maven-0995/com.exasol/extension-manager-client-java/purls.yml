@@ -28,3 +28,5 @@
 - pkg:maven/com.exasol/extension-manager-client-java@0.5.7?classifier=sources
 - pkg:maven/com.exasol/extension-manager-client-java@0.5.8
 - pkg:maven/com.exasol/extension-manager-client-java@0.5.8?classifier=sources
+- pkg:maven/com.exasol/extension-manager-client-java@0.5.9
+- pkg:maven/com.exasol/extension-manager-client-java@0.5.9?classifier=sources

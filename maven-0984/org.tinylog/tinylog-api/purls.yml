@@ -94,3 +94,5 @@
 - pkg:maven/org.tinylog/tinylog-api@2.7.0-M3
 - pkg:maven/org.tinylog/tinylog-api@2.7.0-M3?classifier=sources
 - pkg:maven/org.tinylog/tinylog-api@2.7.0?classifier=sources
+- pkg:maven/org.tinylog/tinylog-api@2.8.0-M1
+- pkg:maven/org.tinylog/tinylog-api@2.8.0-M1?classifier=sources

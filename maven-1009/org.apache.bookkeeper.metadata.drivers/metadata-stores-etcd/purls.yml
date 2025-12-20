@@ -50,6 +50,10 @@
 - pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.16.3?classifier=sources
 - pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.16.4
 - pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.16.4?classifier=sources
+- pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.16.5
+- pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.16.5?classifier=sources
+- pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.17.0
+- pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.17.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.9.0
 - pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.9.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper.metadata.drivers/metadata-stores-etcd@4.9.1

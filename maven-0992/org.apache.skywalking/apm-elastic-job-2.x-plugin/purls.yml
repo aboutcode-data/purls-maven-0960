@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.skywalking/apm-elastic-job-2.x-plugin@9.0.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-elastic-job-2.x-plugin@9.1.0
 - pkg:maven/org.apache.skywalking/apm-elastic-job-2.x-plugin@9.1.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-elastic-job-2.x-plugin@9.2.0
+- pkg:maven/org.apache.skywalking/apm-elastic-job-2.x-plugin@9.2.0?classifier=sources

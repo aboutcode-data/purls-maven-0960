@@ -90,6 +90,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.0.0-RC2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.10.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.10.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.2.1
@@ -108,3 +110,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.7.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.8.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.8.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.8.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.9.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jacksonxml@3.9.0?classifier=sources

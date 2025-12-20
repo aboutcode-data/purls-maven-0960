@@ -69,6 +69,9 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.52.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.53.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.54.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.55.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.55.1?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.56.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-file-system@2.7.0

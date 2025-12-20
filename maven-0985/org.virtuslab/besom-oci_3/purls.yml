@@ -1,2 +1,6 @@
 - pkg:maven/org.virtuslab/besom-oci_3@1.20.0-core.0.2
 - pkg:maven/org.virtuslab/besom-oci_3@1.20.0-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-oci_3@1.31.0-core.0.3
+- pkg:maven/org.virtuslab/besom-oci_3@1.31.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-oci_3@1.32.0-core.0.3
+- pkg:maven/org.virtuslab/besom-oci_3@1.32.0-core.0.3?classifier=sources

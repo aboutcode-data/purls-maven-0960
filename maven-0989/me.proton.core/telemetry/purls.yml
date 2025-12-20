@@ -27,3 +27,8 @@
 - pkg:maven/me.proton.core/telemetry@21.0.0?classifier=sources
 - pkg:maven/me.proton.core/telemetry@21.1.0?classifier=sources
 - pkg:maven/me.proton.core/telemetry@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/telemetry@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/telemetry@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/telemetry@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/telemetry@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/telemetry@23.0.0?classifier=sources

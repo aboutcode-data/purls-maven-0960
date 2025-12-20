@@ -67,6 +67,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.0.0-M2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.0.0-RC1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.0.0-RC2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.10.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.2.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.2.2
@@ -76,3 +77,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.7.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.8.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.8.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-retrofit-deployment@3.9.0

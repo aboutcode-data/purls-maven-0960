@@ -90,11 +90,17 @@
 - pkg:maven/io.continual/continualMetrics@0.2.51?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.2.52
 - pkg:maven/io.continual/continualMetrics@0.2.52?classifier=sources
+- pkg:maven/io.continual/continualMetrics@0.2.53
+- pkg:maven/io.continual/continualMetrics@0.2.53?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.2.9
 - pkg:maven/io.continual/continualMetrics@0.2.9?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.3.0
 - pkg:maven/io.continual/continualMetrics@0.3.0?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.3.1
+- pkg:maven/io.continual/continualMetrics@0.3.10
+- pkg:maven/io.continual/continualMetrics@0.3.10?classifier=sources
+- pkg:maven/io.continual/continualMetrics@0.3.11
+- pkg:maven/io.continual/continualMetrics@0.3.11?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.3.1?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.3.2
 - pkg:maven/io.continual/continualMetrics@0.3.2?classifier=sources
@@ -104,3 +110,5 @@
 - pkg:maven/io.continual/continualMetrics@0.3.4?classifier=sources
 - pkg:maven/io.continual/continualMetrics@0.3.8
 - pkg:maven/io.continual/continualMetrics@0.3.8?classifier=sources
+- pkg:maven/io.continual/continualMetrics@0.3.9
+- pkg:maven/io.continual/continualMetrics@0.3.9?classifier=sources

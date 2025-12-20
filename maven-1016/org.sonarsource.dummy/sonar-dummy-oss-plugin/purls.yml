@@ -50,3 +50,5 @@
 - pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.6.0.5434?classifier=sources
 - pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.6.0.5438?classifier=sources
 - pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.6.0.5443?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.6.0.5489?classifier=sources
+- pkg:maven/org.sonarsource.dummy/sonar-dummy-oss-plugin@2.6.0.5499?classifier=sources

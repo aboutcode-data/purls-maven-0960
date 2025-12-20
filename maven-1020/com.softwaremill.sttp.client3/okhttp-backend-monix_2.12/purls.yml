@@ -158,3 +158,5 @@
 - pkg:maven/com.softwaremill.sttp.client3/okhttp-backend-monix_2.12@3.9.3?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/okhttp-backend-monix_2.12@3.9.4
 - pkg:maven/com.softwaremill.sttp.client3/okhttp-backend-monix_2.12@3.9.4?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/okhttp-backend-monix_2.12@3.9.5
+- pkg:maven/com.softwaremill.sttp.client3/okhttp-backend-monix_2.12@3.9.5?classifier=sources

@@ -195,3 +195,7 @@
 - pkg:maven/com.vonage.rtc/clientcore-android@1.5.1-beta.1?classifier=sources
 - pkg:maven/com.vonage.rtc/clientcore-android@1.5.1-rc.0?classifier=sources
 - pkg:maven/com.vonage.rtc/clientcore-android@1.5.1?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-android@1.5.2-beta.0?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-android@1.5.2-beta.1?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-android@1.5.2-beta.2?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-android@1.5.2-rc.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/ai.timefold.solver/timefold-solver-quarkus-deployment@1.6.0?classifier=sources
 - pkg:maven/ai.timefold.solver/timefold-solver-quarkus-deployment@1.7.0?classifier=sources
 - pkg:maven/ai.timefold.solver/timefold-solver-quarkus-deployment@1.8.0?classifier=sources
+- pkg:maven/ai.timefold.solver/timefold-solver-quarkus-deployment@1.8.1?classifier=sources
+- pkg:maven/ai.timefold.solver/timefold-solver-quarkus-deployment@1.9.0?classifier=sources

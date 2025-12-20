@@ -74,3 +74,7 @@
 - pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.0-RC2
 - pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.0-RC2?classifier=sources
 - pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.0?classifier=sources
+- pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.1
+- pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.1?classifier=sources
+- pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.2
+- pkg:maven/com.sdl.dxa.modules/dxa-module-context-expressions@2.3.2?classifier=sources

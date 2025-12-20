@@ -1,3 +1,4 @@
 - pkg:maven/org.opensearch.client/opensearch-spark-20_2.11@1.0.0?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-spark-20_2.11@1.0.1?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-spark-20_2.11@1.1.0?classifier=sources
+- pkg:maven/org.opensearch.client/opensearch-spark-20_2.11@1.2.0?classifier=sources

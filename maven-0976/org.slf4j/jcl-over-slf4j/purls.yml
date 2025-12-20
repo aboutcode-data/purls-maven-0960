@@ -153,6 +153,8 @@
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.11?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.12
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.12?classifier=sources
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.13
+- pkg:maven/org.slf4j/jcl-over-slf4j@2.0.13?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.1?classifier=sources
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.2
 - pkg:maven/org.slf4j/jcl-over-slf4j@2.0.2?classifier=sources

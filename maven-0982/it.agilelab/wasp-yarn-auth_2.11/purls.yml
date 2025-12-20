@@ -60,3 +60,7 @@
 - pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.32.1-cdp717
 - pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.32.1-cdp717?classifier=sources
 - pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.32.1?classifier=sources
+- pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.33.0
+- pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.33.0-cdp719
+- pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.33.0-cdp719?classifier=sources
+- pkg:maven/it.agilelab/wasp-yarn-auth_2.11@2.33.0?classifier=sources

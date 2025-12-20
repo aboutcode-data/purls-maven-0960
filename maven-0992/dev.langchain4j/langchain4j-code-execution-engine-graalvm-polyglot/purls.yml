@@ -10,3 +10,7 @@
 - pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.27.1?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.28.0
 - pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.28.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.29.0
+- pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.29.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.29.1
+- pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.29.1?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@6.2.0?classifier=sources
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@7.0.1
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@7.0.1?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@7.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-client-rabbitmq@7.1.0?classifier=sources

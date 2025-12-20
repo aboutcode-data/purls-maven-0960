@@ -152,12 +152,16 @@
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.4.0-RC1
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.4.0-RC1?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.4.0?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.4.1
+- pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.4.1?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.0
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.0-RC1
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.0-RC1?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.0?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.1
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.1?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.2
+- pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@4.5.2?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M1
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M1?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M2
@@ -168,3 +172,5 @@
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M4?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M5
 - pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M5?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M6
+- pkg:maven/com.github.j-mie6/parsley_sjs1_2.12@5.0.0-M6?classifier=sources

@@ -52,6 +52,8 @@
 - pkg:maven/com.vaadin/vaadin-dialog-flow@14.11.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-dialog-flow@14.11.6
 - pkg:maven/com.vaadin/vaadin-dialog-flow@14.11.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-dialog-flow@14.11.7
+- pkg:maven/com.vaadin/vaadin-dialog-flow@14.11.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-dialog-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-dialog-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-dialog-flow@14.5.1
@@ -622,6 +624,10 @@
 - pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.7
 - pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.8
+- pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.9
+- pkg:maven/com.vaadin/vaadin-dialog-flow@24.3.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-dialog-flow@3.0.0
 - pkg:maven/com.vaadin/vaadin-dialog-flow@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-dialog-flow@3.1.0

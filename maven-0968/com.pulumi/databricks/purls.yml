@@ -160,6 +160,15 @@
 - pkg:maven/com.pulumi/databricks@1.34.0-alpha.1709638239%2B56dd6122?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.34.0?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.35.0-alpha.1710156332%2Be2b80eb4?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.35.0-alpha.1710915250%2Baefe06c4?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.35.0-alpha.1710994703%2B5fd1b66e?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.35.0-alpha.1711027132%2Bb8ac0477?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.35.0-alpha.1711517316%2B14fd00e2?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.35.0-alpha.1711715202%2B5a5b6cd1?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.35.0?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.36.0-alpha.1712399546%2B3bb28ecb?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.36.0-alpha.1712467481%2B588d1345?classifier=sources
+- pkg:maven/com.pulumi/databricks@1.36.0-alpha.1712726878%2B5428ab47?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.4.0-alpha.1666160804%2B302512dc?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.4.0-alpha.1666727919%2B78bd613f?classifier=sources
 - pkg:maven/com.pulumi/databricks@1.4.0?classifier=sources

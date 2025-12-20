@@ -58,5 +58,7 @@
 - pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.3.5?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.3.6
 - pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.3.6?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.3.7
+- pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.3.7?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.4.0-BETA-2
 - pkg:maven/com.hazelcast/hazelcast-archunit-rules@5.4.0-BETA-2?classifier=sources

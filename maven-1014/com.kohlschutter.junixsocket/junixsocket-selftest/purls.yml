@@ -38,3 +38,5 @@
 - pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest@2.8.3?classifier=sources
 - pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest@2.9.0
 - pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest@2.9.0?classifier=sources
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest@2.9.1
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest@2.9.1?classifier=sources

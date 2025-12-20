@@ -18,3 +18,5 @@
 - pkg:maven/org.ff4j/ff4j-security-shiro@1.9?classifier=sources
 - pkg:maven/org.ff4j/ff4j-security-shiro@2.0.0
 - pkg:maven/org.ff4j/ff4j-security-shiro@2.0.0?classifier=sources
+- pkg:maven/org.ff4j/ff4j-security-shiro@2.1
+- pkg:maven/org.ff4j/ff4j-security-shiro@2.1?classifier=sources

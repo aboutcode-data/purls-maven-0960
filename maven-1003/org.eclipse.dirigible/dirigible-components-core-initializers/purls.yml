@@ -21,6 +21,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.1
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.10
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.10?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.2
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.2?classifier=sources
@@ -36,6 +38,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.7?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.8
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.8?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.9
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.2.9?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@10.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@6.3.27
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@6.3.27?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-initializers@6.3.28

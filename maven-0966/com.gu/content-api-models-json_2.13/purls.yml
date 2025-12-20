@@ -178,3 +178,9 @@
 - pkg:maven/com.gu/content-api-models-json_2.13@21.0.0?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@22.0.0
 - pkg:maven/com.gu/content-api-models-json_2.13@22.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@23.0.0
+- pkg:maven/com.gu/content-api-models-json_2.13@23.0.0-PREVIEW.dbbump-and-test-content-entity-version.2024-03-27T0934.cbc6ec49
+- pkg:maven/com.gu/content-api-models-json_2.13@23.0.0-PREVIEW.dbbump-and-test-content-entity-version.2024-03-27T0934.cbc6ec49?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@23.0.0-PREVIEW.timeline-model.2024-03-26T1038.17f5ef3f
+- pkg:maven/com.gu/content-api-models-json_2.13@23.0.0-PREVIEW.timeline-model.2024-03-26T1038.17f5ef3f?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@23.0.0?classifier=sources

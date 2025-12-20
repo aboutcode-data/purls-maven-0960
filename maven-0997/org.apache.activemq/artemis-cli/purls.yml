@@ -88,6 +88,8 @@
 - pkg:maven/org.apache.activemq/artemis-cli@2.31.2?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-cli@2.32.0
 - pkg:maven/org.apache.activemq/artemis-cli@2.32.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-cli@2.33.0
+- pkg:maven/org.apache.activemq/artemis-cli@2.33.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-cli@2.4.0
 - pkg:maven/org.apache.activemq/artemis-cli@2.4.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-cli@2.5.0

@@ -96,3 +96,5 @@
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.0-RC2
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.0-RC2?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.0?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.1
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.1?classifier=sources

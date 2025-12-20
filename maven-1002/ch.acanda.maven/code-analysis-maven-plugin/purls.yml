@@ -44,3 +44,7 @@
 - pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.4.0?classifier=sources
 - pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.5.0
 - pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.6.0
+- pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.6.0?classifier=sources
+- pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.6.1
+- pkg:maven/ch.acanda.maven/code-analysis-maven-plugin@1.6.1?classifier=sources

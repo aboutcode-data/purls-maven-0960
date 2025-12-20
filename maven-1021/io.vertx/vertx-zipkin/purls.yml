@@ -106,6 +106,8 @@
 - pkg:maven/io.vertx/vertx-zipkin@4.4.7?classifier=sources
 - pkg:maven/io.vertx/vertx-zipkin@4.4.8
 - pkg:maven/io.vertx/vertx-zipkin@4.4.8?classifier=sources
+- pkg:maven/io.vertx/vertx-zipkin@4.4.9
+- pkg:maven/io.vertx/vertx-zipkin@4.4.9?classifier=sources
 - pkg:maven/io.vertx/vertx-zipkin@4.5.0
 - pkg:maven/io.vertx/vertx-zipkin@4.5.0?classifier=sources
 - pkg:maven/io.vertx/vertx-zipkin@4.5.1
@@ -118,3 +120,7 @@
 - pkg:maven/io.vertx/vertx-zipkin@4.5.4?classifier=sources
 - pkg:maven/io.vertx/vertx-zipkin@4.5.5
 - pkg:maven/io.vertx/vertx-zipkin@4.5.5?classifier=sources
+- pkg:maven/io.vertx/vertx-zipkin@4.5.6
+- pkg:maven/io.vertx/vertx-zipkin@4.5.6?classifier=sources
+- pkg:maven/io.vertx/vertx-zipkin@4.5.7
+- pkg:maven/io.vertx/vertx-zipkin@4.5.7?classifier=sources

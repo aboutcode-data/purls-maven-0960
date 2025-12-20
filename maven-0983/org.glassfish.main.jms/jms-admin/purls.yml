@@ -46,6 +46,8 @@
 - pkg:maven/org.glassfish.main.jms/jms-admin@7.0.7?classifier=sources
 - pkg:maven/org.glassfish.main.jms/jms-admin@7.0.8?classifier=sources
 - pkg:maven/org.glassfish.main.jms/jms-admin@7.0.9?classifier=sources
+- pkg:maven/org.glassfish.main.jms/jms-admin@8.0.0-JDK17-M5?classifier=sources
 - pkg:maven/org.glassfish.main.jms/jms-admin@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main.jms/jms-admin@8.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.main.jms/jms-admin@8.0.0-M3?classifier=sources
+- pkg:maven/org.glassfish.main.jms/jms-admin@8.0.0-M5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.s3.accessgrants/aws-s3-accessgrants-java-sdk-v1-plugin@1.0
+- pkg:maven/software.amazon.s3.accessgrants/aws-s3-accessgrants-java-sdk-v1-plugin@1.0.1
+- pkg:maven/software.amazon.s3.accessgrants/aws-s3-accessgrants-java-sdk-v1-plugin@1.0.1?classifier=sources
+- pkg:maven/software.amazon.s3.accessgrants/aws-s3-accessgrants-java-sdk-v1-plugin@1.0?classifier=sources

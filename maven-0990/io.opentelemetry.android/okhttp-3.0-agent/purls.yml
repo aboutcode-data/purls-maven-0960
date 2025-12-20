@@ -1,3 +1,4 @@
 - pkg:maven/io.opentelemetry.android/okhttp-3.0-agent@0.2.0?classifier=sources
 - pkg:maven/io.opentelemetry.android/okhttp-3.0-agent@0.3.0?classifier=sources
 - pkg:maven/io.opentelemetry.android/okhttp-3.0-agent@0.4.0?classifier=sources
+- pkg:maven/io.opentelemetry.android/okhttp-3.0-agent@0.5.0-alpha?classifier=sources

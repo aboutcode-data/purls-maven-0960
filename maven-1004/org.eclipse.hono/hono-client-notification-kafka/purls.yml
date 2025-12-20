@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.hono/hono-client-notification-kafka@2.4.1?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-client-notification-kafka@2.5.0
 - pkg:maven/org.eclipse.hono/hono-client-notification-kafka@2.5.0?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-client-notification-kafka@2.5.1
+- pkg:maven/org.eclipse.hono/hono-client-notification-kafka@2.5.1?classifier=sources

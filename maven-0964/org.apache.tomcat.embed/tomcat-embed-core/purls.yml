@@ -63,6 +63,8 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.18?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.19?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.1?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.20?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.23?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.2?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.4?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@10.1.5?classifier=sources
@@ -79,6 +81,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M16?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M17?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M18?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M19?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M1?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@11.0.0-M4?classifier=sources
@@ -328,6 +331,7 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.0.9?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.0
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.0?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.100?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.11
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.11?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@8.5.12
@@ -599,4 +603,5 @@
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.85?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.86?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.87?classifier=sources
+- pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.88?classifier=sources
 - pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.8?classifier=sources

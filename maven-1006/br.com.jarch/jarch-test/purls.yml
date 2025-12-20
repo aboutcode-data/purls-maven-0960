@@ -36,3 +36,5 @@
 - pkg:maven/br.com.jarch/jarch-test@2.23.5?classifier=sources
 - pkg:maven/br.com.jarch/jarch-test@20.2.0
 - pkg:maven/br.com.jarch/jarch-test@20.2.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-test@24.2.0
+- pkg:maven/br.com.jarch/jarch-test@24.2.0?classifier=sources

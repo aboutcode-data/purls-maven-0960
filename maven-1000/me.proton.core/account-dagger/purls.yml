@@ -47,6 +47,11 @@
 - pkg:maven/me.proton.core/account-dagger@21.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-dagger@21.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-dagger@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/account-dagger@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/account-dagger@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-dagger@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-dagger@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/account-dagger@23.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-dagger@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-dagger@9.0.1?classifier=sources
 - pkg:maven/me.proton.core/account-dagger@9.0.2?classifier=sources

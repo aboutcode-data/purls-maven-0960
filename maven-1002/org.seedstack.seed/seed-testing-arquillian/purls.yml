@@ -10,6 +10,8 @@
 - pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.13.0?classifier=sources
 - pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.14.0
 - pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.14.0?classifier=sources
+- pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.15.0
+- pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.15.0?classifier=sources
 - pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.5.0
 - pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.5.0?classifier=sources
 - pkg:maven/org.seedstack.seed/seed-testing-arquillian@3.5.1

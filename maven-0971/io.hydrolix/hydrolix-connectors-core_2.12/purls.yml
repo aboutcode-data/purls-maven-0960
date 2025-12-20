@@ -1,2 +1,6 @@
 - pkg:maven/io.hydrolix/hydrolix-connectors-core_2.12@1.0.3
 - pkg:maven/io.hydrolix/hydrolix-connectors-core_2.12@1.0.3?classifier=sources
+- pkg:maven/io.hydrolix/hydrolix-connectors-core_2.12@1.5.0
+- pkg:maven/io.hydrolix/hydrolix-connectors-core_2.12@1.5.0?classifier=sources
+- pkg:maven/io.hydrolix/hydrolix-connectors-core_2.12@1.5.1
+- pkg:maven/io.hydrolix/hydrolix-connectors-core_2.12@1.5.1?classifier=sources

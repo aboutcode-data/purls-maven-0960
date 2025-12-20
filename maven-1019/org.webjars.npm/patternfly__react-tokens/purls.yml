@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/patternfly__react-tokens@4.94.7
+- pkg:maven/org.webjars.npm/patternfly__react-tokens@4.94.7?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly__react-tokens@5.0.0-prerelease.9
 - pkg:maven/org.webjars.npm/patternfly__react-tokens@5.0.0-prerelease.9?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly__react-tokens@5.1.0

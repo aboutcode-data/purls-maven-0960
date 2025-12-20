@@ -16,3 +16,5 @@
 - pkg:maven/org.ff4j/ff4j-config-yaml@1.9?classifier=sources
 - pkg:maven/org.ff4j/ff4j-config-yaml@2.0.0
 - pkg:maven/org.ff4j/ff4j-config-yaml@2.0.0?classifier=sources
+- pkg:maven/org.ff4j/ff4j-config-yaml@2.1
+- pkg:maven/org.ff4j/ff4j-config-yaml@2.1?classifier=sources

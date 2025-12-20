@@ -89,3 +89,7 @@
 - pkg:maven/io.trino/trino-tpcds@440?classifier=sources
 - pkg:maven/io.trino/trino-tpcds@441?classifier=sources
 - pkg:maven/io.trino/trino-tpcds@442?classifier=sources
+- pkg:maven/io.trino/trino-tpcds@443?classifier=sources
+- pkg:maven/io.trino/trino-tpcds@444?classifier=sources
+- pkg:maven/io.trino/trino-tpcds@445?classifier=sources
+- pkg:maven/io.trino/trino-tpcds@446?classifier=sources

@@ -62,5 +62,8 @@
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.45.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.47.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.48.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@8.48.1?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@8.48.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.49.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.50.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@8.51.0?classifier=sources

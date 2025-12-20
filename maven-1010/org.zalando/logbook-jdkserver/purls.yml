@@ -28,3 +28,5 @@
 - pkg:maven/org.zalando/logbook-jdkserver@3.7.1?classifier=sources
 - pkg:maven/org.zalando/logbook-jdkserver@3.7.2
 - pkg:maven/org.zalando/logbook-jdkserver@3.7.2?classifier=sources
+- pkg:maven/org.zalando/logbook-jdkserver@3.8.0
+- pkg:maven/org.zalando/logbook-jdkserver@3.8.0?classifier=sources

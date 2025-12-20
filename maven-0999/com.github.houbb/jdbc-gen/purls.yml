@@ -18,3 +18,13 @@
 - pkg:maven/com.github.houbb/jdbc-gen@0.1.0?classifier=sources
 - pkg:maven/com.github.houbb/jdbc-gen@0.3.0
 - pkg:maven/com.github.houbb/jdbc-gen@0.3.0?classifier=sources
+- pkg:maven/com.github.houbb/jdbc-gen@0.5.0
+- pkg:maven/com.github.houbb/jdbc-gen@0.5.0?classifier=sources
+- pkg:maven/com.github.houbb/jdbc-gen@0.6.0
+- pkg:maven/com.github.houbb/jdbc-gen@0.6.0?classifier=sources
+- pkg:maven/com.github.houbb/jdbc-gen@0.7.0
+- pkg:maven/com.github.houbb/jdbc-gen@0.7.0?classifier=sources
+- pkg:maven/com.github.houbb/jdbc-gen@0.7.1
+- pkg:maven/com.github.houbb/jdbc-gen@0.7.1?classifier=sources
+- pkg:maven/com.github.houbb/jdbc-gen@0.8.0
+- pkg:maven/com.github.houbb/jdbc-gen@0.8.0?classifier=sources

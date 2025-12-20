@@ -27,6 +27,8 @@
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.10?classifier=sources
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.11
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.11?classifier=sources
+- pkg:maven/com.mastercard.developer/client-encryption@1.7.12
+- pkg:maven/com.mastercard.developer/client-encryption@1.7.12?classifier=sources
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.1?classifier=sources
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.2
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.2?classifier=sources
@@ -44,3 +46,5 @@
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.8?classifier=sources
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.9
 - pkg:maven/com.mastercard.developer/client-encryption@1.7.9?classifier=sources
+- pkg:maven/com.mastercard.developer/client-encryption@1.8.0
+- pkg:maven/com.mastercard.developer/client-encryption@1.8.0?classifier=sources

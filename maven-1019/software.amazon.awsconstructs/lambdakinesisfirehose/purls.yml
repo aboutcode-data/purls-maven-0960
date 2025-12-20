@@ -54,3 +54,7 @@
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.54.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.54.1
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.54.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.55.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.55.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.56.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisfirehose@2.56.0?classifier=sources

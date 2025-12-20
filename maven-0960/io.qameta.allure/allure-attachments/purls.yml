@@ -77,6 +77,8 @@
 - pkg:maven/io.qameta.allure/allure-attachments@2.23.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-attachments@2.24.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-attachments@2.25.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-attachments@2.26.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-attachments@2.27.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-attachments@2.6.0
 - pkg:maven/io.qameta.allure/allure-attachments@2.6.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-attachments@2.7.0

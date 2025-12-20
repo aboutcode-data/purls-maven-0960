@@ -214,3 +214,11 @@
 - pkg:maven/com.gu/content-api-client-default_2.12@24.0.0?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.12@25.0.0
 - pkg:maven/com.gu/content-api-client-default_2.12@25.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@25.0.1
+- pkg:maven/com.gu/content-api-client-default_2.12@25.0.1?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@26.0.0
+- pkg:maven/com.gu/content-api-client-default_2.12@26.0.0-PREVIEW.dbtest-content-api-model-preview-version.2024-03-27T1001.fa502f80
+- pkg:maven/com.gu/content-api-client-default_2.12@26.0.0-PREVIEW.dbtest-content-api-model-preview-version.2024-03-27T1001.fa502f80?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@26.0.0-PREVIEW.timeline-model.2024-03-26T1100.5c88d136
+- pkg:maven/com.gu/content-api-client-default_2.12@26.0.0-PREVIEW.timeline-model.2024-03-26T1100.5c88d136?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@26.0.0?classifier=sources

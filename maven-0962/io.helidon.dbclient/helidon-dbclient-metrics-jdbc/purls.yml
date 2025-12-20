@@ -68,6 +68,8 @@
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@2.6.5?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@2.6.6
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@2.6.6?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@2.6.7
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@2.6.7?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.0.0
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.0.0-M1
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.0.0-M1?classifier=sources
@@ -102,5 +104,9 @@
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.5?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.6
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.6?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.7
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.7?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.8
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@3.2.8?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@4.0.0-M1
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-jdbc@4.0.0-M1?classifier=sources

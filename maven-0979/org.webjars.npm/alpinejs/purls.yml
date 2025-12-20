@@ -23,6 +23,8 @@
 - pkg:maven/org.webjars.npm/alpinejs@3.13.0
 - pkg:maven/org.webjars.npm/alpinejs@3.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs@3.13.1
+- pkg:maven/org.webjars.npm/alpinejs@3.13.10
+- pkg:maven/org.webjars.npm/alpinejs@3.13.10?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs@3.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs@3.13.2
 - pkg:maven/org.webjars.npm/alpinejs@3.13.2?classifier=sources
@@ -32,5 +34,7 @@
 - pkg:maven/org.webjars.npm/alpinejs@3.13.4?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs@3.13.5
 - pkg:maven/org.webjars.npm/alpinejs@3.13.5?classifier=sources
+- pkg:maven/org.webjars.npm/alpinejs@3.13.8
+- pkg:maven/org.webjars.npm/alpinejs@3.13.8?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs@3.9.1
 - pkg:maven/org.webjars.npm/alpinejs@3.9.1?classifier=sources

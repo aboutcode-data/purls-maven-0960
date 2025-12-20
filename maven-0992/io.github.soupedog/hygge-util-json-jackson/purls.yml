@@ -6,6 +6,10 @@
 - pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.12?classifier=sources
 - pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.13
 - pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.13?classifier=sources
+- pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.14
+- pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.14-SNAPSHOT-1
+- pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.14-SNAPSHOT-1?classifier=sources
+- pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.14?classifier=sources
 - pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.5
 - pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.5?classifier=sources
 - pkg:maven/io.github.soupedog/hygge-util-json-jackson@0.0.6

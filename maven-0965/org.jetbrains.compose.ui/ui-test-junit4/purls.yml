@@ -45,4 +45,8 @@
 - pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.0-rc02?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.0-rc03?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.10-beta01?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.10-beta02?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.10-beta03?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-test-junit4@1.6.2?classifier=sources

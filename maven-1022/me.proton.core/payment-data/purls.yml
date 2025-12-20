@@ -72,6 +72,11 @@
 - pkg:maven/me.proton.core/payment-data@21.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-data@21.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment-data@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/payment-data@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/payment-data@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment-data@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/payment-data@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/payment-data@23.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-data@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-data@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-data@4.1.0?classifier=sources

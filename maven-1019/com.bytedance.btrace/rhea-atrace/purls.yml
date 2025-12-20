@@ -22,3 +22,5 @@
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc01?type=aar
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc02?classifier=sources
 - pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc02?type=aar
+- pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc03?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-atrace@2.0.3-rc03?type=aar

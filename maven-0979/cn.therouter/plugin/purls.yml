@@ -94,6 +94,7 @@
 - pkg:maven/cn.therouter/plugin@1.2.0?classifier=sources
 - pkg:maven/cn.therouter/plugin@1.2.1
 - pkg:maven/cn.therouter/plugin@1.2.1?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.2.2
 - pkg:maven/cn.therouter/plugin@1.2.2-rc1
 - pkg:maven/cn.therouter/plugin@1.2.2-rc1?classifier=sources
 - pkg:maven/cn.therouter/plugin@1.2.2-rc2
@@ -112,3 +113,4 @@
 - pkg:maven/cn.therouter/plugin@1.2.2-rc8?classifier=sources
 - pkg:maven/cn.therouter/plugin@1.2.2-rc9
 - pkg:maven/cn.therouter/plugin@1.2.2-rc9?classifier=sources
+- pkg:maven/cn.therouter/plugin@1.2.2?classifier=sources

@@ -322,6 +322,10 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.1.4?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.10.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.10.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.10.3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.10.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.10.4
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.10.4?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.2.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.2.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.12@1.2.1

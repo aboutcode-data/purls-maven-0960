@@ -4,3 +4,7 @@
 - pkg:maven/com.powsybl/open-rao-crac-io-api@5.1.0?classifier=sources
 - pkg:maven/com.powsybl/open-rao-crac-io-api@5.2.0
 - pkg:maven/com.powsybl/open-rao-crac-io-api@5.2.0?classifier=sources
+- pkg:maven/com.powsybl/open-rao-crac-io-api@5.3.0
+- pkg:maven/com.powsybl/open-rao-crac-io-api@5.3.0?classifier=sources
+- pkg:maven/com.powsybl/open-rao-crac-io-api@5.4.0
+- pkg:maven/com.powsybl/open-rao-crac-io-api@5.4.0?classifier=sources

@@ -112,3 +112,7 @@
 - pkg:maven/net.pincette/pincette-common@2.3.5
 - pkg:maven/net.pincette/pincette-common@2.3.5?classifier=sources
 - pkg:maven/net.pincette/pincette-common@2.3?classifier=sources
+- pkg:maven/net.pincette/pincette-common@2.4.0
+- pkg:maven/net.pincette/pincette-common@2.4.0?classifier=sources
+- pkg:maven/net.pincette/pincette-common@2.4.1
+- pkg:maven/net.pincette/pincette-common@2.4.1?classifier=sources

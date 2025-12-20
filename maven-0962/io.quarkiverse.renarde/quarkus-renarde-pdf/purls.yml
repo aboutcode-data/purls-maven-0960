@@ -1,3 +1,9 @@
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.10
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.10?classifier=sources
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.11
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.11?classifier=sources
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.12
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.12?classifier=sources
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.3
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.3?classifier=sources
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-pdf@3.0.4

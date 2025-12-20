@@ -1,0 +1,4 @@
+- pkg:maven/org.beangle.data/beangle-model@5.8.10
+- pkg:maven/org.beangle.data/beangle-model@5.8.10?classifier=sources
+- pkg:maven/org.beangle.data/beangle-model@5.8.9
+- pkg:maven/org.beangle.data/beangle-model@5.8.9?classifier=sources

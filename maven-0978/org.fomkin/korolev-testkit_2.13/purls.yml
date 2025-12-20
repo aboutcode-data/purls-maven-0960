@@ -69,4 +69,6 @@
 - pkg:maven/org.fomkin/korolev-testkit_2.13@1.6.0-M9?classifier=sources
 - pkg:maven/org.fomkin/korolev-testkit_2.13@1.6.0?classifier=sources
 - pkg:maven/org.fomkin/korolev-testkit_2.13@1.7.0-M1
+- pkg:maven/org.fomkin/korolev-testkit_2.13@1.7.0-M1.4
+- pkg:maven/org.fomkin/korolev-testkit_2.13@1.7.0-M1.4?classifier=sources
 - pkg:maven/org.fomkin/korolev-testkit_2.13@1.7.0-M1?classifier=sources
