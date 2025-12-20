@@ -31,4 +31,6 @@
 - pkg:maven/org.apache.tika/tika-parser-microsoft-module@2.9.2
 - pkg:maven/org.apache.tika/tika-parser-microsoft-module@2.9.2?classifier=sources
 - pkg:maven/org.apache.tika/tika-parser-microsoft-module@3.0.0-BETA
+- pkg:maven/org.apache.tika/tika-parser-microsoft-module@3.0.0-BETA2
+- pkg:maven/org.apache.tika/tika-parser-microsoft-module@3.0.0-BETA2?classifier=sources
 - pkg:maven/org.apache.tika/tika-parser-microsoft-module@3.0.0-BETA?classifier=sources

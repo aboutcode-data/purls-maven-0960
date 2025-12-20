@@ -245,6 +245,8 @@
 - pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-12?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-13
 - pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-13?classifier=sources
+- pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-14
+- pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-14?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-1?classifier=sources
 - pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-2
 - pkg:maven/io.stargate.grpc/grpc@2.1.0-BETA-2?classifier=sources

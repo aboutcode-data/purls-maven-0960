@@ -142,6 +142,10 @@
 - pkg:maven/ch.exense.step/step-functions-client@3.25.1?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-client@3.25.2
 - pkg:maven/ch.exense.step/step-functions-client@3.25.2?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-client@3.25.3
+- pkg:maven/ch.exense.step/step-functions-client@3.25.3?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-client@3.25.4
+- pkg:maven/ch.exense.step/step-functions-client@3.25.4?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-client@3.9.0
 - pkg:maven/ch.exense.step/step-functions-client@3.9.0?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-client@3.9.1

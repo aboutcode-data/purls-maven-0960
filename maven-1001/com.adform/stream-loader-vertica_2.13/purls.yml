@@ -50,3 +50,7 @@
 - pkg:maven/com.adform/stream-loader-vertica_2.13@0.2.9?classifier=sources
 - pkg:maven/com.adform/stream-loader-vertica_2.13@0.3.0
 - pkg:maven/com.adform/stream-loader-vertica_2.13@0.3.0?classifier=sources
+- pkg:maven/com.adform/stream-loader-vertica_2.13@0.3.1
+- pkg:maven/com.adform/stream-loader-vertica_2.13@0.3.1-alpha
+- pkg:maven/com.adform/stream-loader-vertica_2.13@0.3.1-alpha?classifier=sources
+- pkg:maven/com.adform/stream-loader-vertica_2.13@0.3.1?classifier=sources

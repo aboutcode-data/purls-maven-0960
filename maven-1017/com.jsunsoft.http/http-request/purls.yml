@@ -50,6 +50,8 @@
 - pkg:maven/com.jsunsoft.http/http-request@2.3.3?classifier=sources
 - pkg:maven/com.jsunsoft.http/http-request@2.3.4
 - pkg:maven/com.jsunsoft.http/http-request@2.3.4?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@2.3.5
+- pkg:maven/com.jsunsoft.http/http-request@2.3.5?classifier=sources
 - pkg:maven/com.jsunsoft.http/http-request@3.0.0
 - pkg:maven/com.jsunsoft.http/http-request@3.0.0-beta1
 - pkg:maven/com.jsunsoft.http/http-request@3.0.0-beta1?classifier=sources
@@ -64,5 +66,11 @@
 - pkg:maven/com.jsunsoft.http/http-request@3.2.0?classifier=sources
 - pkg:maven/com.jsunsoft.http/http-request@3.2.1
 - pkg:maven/com.jsunsoft.http/http-request@3.2.1?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@3.3.0
 - pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc1
 - pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc1?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc2
+- pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc2?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc3
+- pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc3?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@3.3.0?classifier=sources

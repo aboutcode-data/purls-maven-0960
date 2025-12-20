@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.nls@24.1.6?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.nls@24.2.0-beta.0
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.nls@24.2.0-beta.0?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.nls@24.2.0-beta.2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.nls@24.2.0-beta.2?classifier=sources

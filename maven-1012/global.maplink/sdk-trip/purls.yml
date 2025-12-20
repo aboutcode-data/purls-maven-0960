@@ -29,6 +29,10 @@
 - pkg:maven/global.maplink/sdk-trip@1.4.9
 - pkg:maven/global.maplink/sdk-trip@1.4.9?classifier=sources
 - pkg:maven/global.maplink/sdk-trip@1.5.1
+- pkg:maven/global.maplink/sdk-trip@1.5.10
+- pkg:maven/global.maplink/sdk-trip@1.5.10?classifier=sources
+- pkg:maven/global.maplink/sdk-trip@1.5.11
+- pkg:maven/global.maplink/sdk-trip@1.5.11?classifier=sources
 - pkg:maven/global.maplink/sdk-trip@1.5.1?classifier=sources
 - pkg:maven/global.maplink/sdk-trip@1.5.2
 - pkg:maven/global.maplink/sdk-trip@1.5.2?classifier=sources

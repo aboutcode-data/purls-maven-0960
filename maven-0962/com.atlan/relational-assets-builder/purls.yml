@@ -20,9 +20,14 @@
 - pkg:maven/com.atlan/relational-assets-builder@1.11.4?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.11.5?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.0?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@1.12.10?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.1?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.2?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.3?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.4?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.5?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@1.12.6?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@1.12.7?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@1.12.8?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@1.12.9?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@1.13.0?classifier=sources

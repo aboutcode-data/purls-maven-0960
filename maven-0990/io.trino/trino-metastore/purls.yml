@@ -1,0 +1,4 @@
+- pkg:maven/io.trino/trino-metastore@453
+- pkg:maven/io.trino/trino-metastore@453?classifier=sources
+- pkg:maven/io.trino/trino-metastore@454
+- pkg:maven/io.trino/trino-metastore@454?classifier=sources

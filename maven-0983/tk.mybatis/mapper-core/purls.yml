@@ -40,3 +40,7 @@
 - pkg:maven/tk.mybatis/mapper-core@4.2.3?classifier=sources
 - pkg:maven/tk.mybatis/mapper-core@4.3.0
 - pkg:maven/tk.mybatis/mapper-core@4.3.0?classifier=sources
+- pkg:maven/tk.mybatis/mapper-core@5.0.0-rc1
+- pkg:maven/tk.mybatis/mapper-core@5.0.0-rc1?classifier=sources
+- pkg:maven/tk.mybatis/mapper-core@5.0.0-rc2
+- pkg:maven/tk.mybatis/mapper-core@5.0.0-rc2?classifier=sources

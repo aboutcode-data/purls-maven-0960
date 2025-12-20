@@ -137,3 +137,4 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.21.6
 - pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.21.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.21.7?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-route-target@0.22.0?classifier=sources

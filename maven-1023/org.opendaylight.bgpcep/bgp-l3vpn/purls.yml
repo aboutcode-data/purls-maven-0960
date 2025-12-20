@@ -137,6 +137,7 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.21.6
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.21.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.21.7?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.22.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-l3vpn@0.6.1-Boron-SR1

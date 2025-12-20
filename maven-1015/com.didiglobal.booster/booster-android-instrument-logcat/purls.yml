@@ -209,6 +209,7 @@
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.2-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.2-alpha3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.2-alpha4?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.2-patch1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.3-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.16.3-alpha2?classifier=sources
@@ -261,9 +262,15 @@
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.9.0-rc1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.9.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@4.9.1-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha10?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha11?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha12?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha13?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha14?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha3?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-alpha9?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta3?classifier=sources
@@ -271,4 +278,9 @@
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta5?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta6?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta7?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-beta8?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-rc1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-rc2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-rc3?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0-rc4?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-instrument-logcat@5.0.0?classifier=sources

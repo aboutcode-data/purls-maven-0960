@@ -40,3 +40,7 @@
 - pkg:maven/com.bigossp/max-mediation-spec@4.7.4.0?type=aar
 - pkg:maven/com.bigossp/max-mediation-spec@4.8.0.0?classifier=sources
 - pkg:maven/com.bigossp/max-mediation-spec@4.8.0.0?type=aar
+- pkg:maven/com.bigossp/max-mediation-spec@4.8.2.0?classifier=sources
+- pkg:maven/com.bigossp/max-mediation-spec@4.8.2.0?type=aar
+- pkg:maven/com.bigossp/max-mediation-spec@4.9.0.0?classifier=sources
+- pkg:maven/com.bigossp/max-mediation-spec@4.9.0.0?type=aar

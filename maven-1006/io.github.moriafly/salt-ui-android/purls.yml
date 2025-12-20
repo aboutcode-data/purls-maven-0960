@@ -1,3 +1,4 @@
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-alpha01?classifier=sources
 - pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-dev04?classifier=sources
 - pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-dev05?classifier=sources
 - pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-dev06?classifier=sources
@@ -6,3 +7,10 @@
 - pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-dev09?classifier=sources
 - pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-dev11?classifier=sources
 - pkg:maven/io.github.moriafly/salt-ui-android@2.0.0-dev12?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.0?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.1?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.2?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.3?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.4?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.5?classifier=sources
+- pkg:maven/io.github.moriafly/salt-ui-android@2.0.6?classifier=sources

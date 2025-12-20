@@ -2,4 +2,5 @@
 - pkg:maven/com.facebook.presto/redis-hbo-provider@0.285.1?classifier=sources
 - pkg:maven/com.facebook.presto/redis-hbo-provider@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/redis-hbo-provider@0.287?classifier=sources
+- pkg:maven/com.facebook.presto/redis-hbo-provider@0.288.1?classifier=sources
 - pkg:maven/com.facebook.presto/redis-hbo-provider@0.288?classifier=sources

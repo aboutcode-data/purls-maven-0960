@@ -28,3 +28,5 @@
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-checks@0.59.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-checks@0.59.1
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-checks@0.59.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-checks@0.60.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-checks@0.60.0?classifier=sources

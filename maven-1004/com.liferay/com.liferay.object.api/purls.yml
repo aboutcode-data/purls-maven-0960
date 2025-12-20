@@ -385,3 +385,7 @@
 - pkg:maven/com.liferay/com.liferay.object.api@91.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@91.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@91.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@92.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@92.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@92.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@92.2.1?classifier=sources

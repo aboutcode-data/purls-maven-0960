@@ -54,3 +54,5 @@
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.7?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.8
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.8?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-client@4.5.9
+- pkg:maven/io.vertx/vertx-grpc-client@4.5.9?classifier=sources

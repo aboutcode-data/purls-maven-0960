@@ -7,8 +7,11 @@
 - pkg:maven/io.streamnative/circe-checksum@4.14.8.1?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.15.4.1_arrowstreet?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.15.5.1?classifier=sources
+- pkg:maven/io.streamnative/circe-checksum@4.15.5.2?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.16.4.1?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.16.5.1?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.16.5.2?classifier=sources
+- pkg:maven/io.streamnative/circe-checksum@4.16.6.1?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@4.17.0.1?classifier=sources
+- pkg:maven/io.streamnative/circe-checksum@4.17.1.1?classifier=sources
 - pkg:maven/io.streamnative/circe-checksum@branch-4.14.7.1_d4?classifier=sources

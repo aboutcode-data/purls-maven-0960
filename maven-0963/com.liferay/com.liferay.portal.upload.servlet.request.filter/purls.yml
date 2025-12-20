@@ -42,6 +42,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.12
 - pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.upload.servlet.request.filter@2.0.2

@@ -21,4 +21,6 @@
 - pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.4.6?classifier=sources
 - pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.4.7
 - pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.4.7?classifier=sources
+- pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.4.8
+- pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.4.8?classifier=sources
 - pkg:maven/de.m3y.prometheus.exporter.fsimage/fsimage-exporter@1.4?classifier=sources

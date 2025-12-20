@@ -2,6 +2,10 @@
 - pkg:maven/com.cometbackup/comet-sdk@v.1.0?classifier=sources
 - pkg:maven/com.cometbackup/comet-sdk@v0.0.0
 - pkg:maven/com.cometbackup/comet-sdk@v0.0.0?classifier=sources
+- pkg:maven/com.cometbackup/comet-sdk@v0.10.0
+- pkg:maven/com.cometbackup/comet-sdk@v0.10.0?classifier=sources
+- pkg:maven/com.cometbackup/comet-sdk@v0.11.0
+- pkg:maven/com.cometbackup/comet-sdk@v0.11.0?classifier=sources
 - pkg:maven/com.cometbackup/comet-sdk@v0.2.0
 - pkg:maven/com.cometbackup/comet-sdk@v0.2.0?classifier=sources
 - pkg:maven/com.cometbackup/comet-sdk@v0.3.0

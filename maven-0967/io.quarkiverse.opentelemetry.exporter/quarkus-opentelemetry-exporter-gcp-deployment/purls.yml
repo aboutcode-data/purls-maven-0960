@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-gcp-deployment@3.5.3.Final?classifier=sources
 - pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-gcp-deployment@3.8.3.0
 - pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-gcp-deployment@3.8.3.0?classifier=sources
+- pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-gcp-deployment@3.8.3.1
+- pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-gcp-deployment@3.8.3.1?classifier=sources

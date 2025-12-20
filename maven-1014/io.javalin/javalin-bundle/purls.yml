@@ -166,3 +166,5 @@
 - pkg:maven/io.javalin/javalin-bundle@6.1.4?classifier=sources
 - pkg:maven/io.javalin/javalin-bundle@6.1.6
 - pkg:maven/io.javalin/javalin-bundle@6.1.6?classifier=sources
+- pkg:maven/io.javalin/javalin-bundle@6.2.0
+- pkg:maven/io.javalin/javalin-bundle@6.2.0?classifier=sources

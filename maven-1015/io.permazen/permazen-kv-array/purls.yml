@@ -28,3 +28,5 @@
 - pkg:maven/io.permazen/permazen-kv-array@4.1.9?classifier=sources
 - pkg:maven/io.permazen/permazen-kv-array@4.2.0
 - pkg:maven/io.permazen/permazen-kv-array@4.2.0?classifier=sources
+- pkg:maven/io.permazen/permazen-kv-array@5.0.0
+- pkg:maven/io.permazen/permazen-kv-array@5.0.0?classifier=sources

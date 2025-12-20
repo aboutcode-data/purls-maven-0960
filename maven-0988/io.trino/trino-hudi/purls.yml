@@ -52,3 +52,5 @@
 - pkg:maven/io.trino/trino-hudi@450?classifier=sources
 - pkg:maven/io.trino/trino-hudi@451?classifier=sources
 - pkg:maven/io.trino/trino-hudi@452?classifier=sources
+- pkg:maven/io.trino/trino-hudi@453?classifier=sources
+- pkg:maven/io.trino/trino-hudi@454?classifier=sources

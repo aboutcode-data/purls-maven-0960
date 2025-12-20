@@ -24,6 +24,8 @@
 - pkg:maven/com.increff.commons/commons-gelf@1.30?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.31
 - pkg:maven/com.increff.commons/commons-gelf@1.31?classifier=sources
+- pkg:maven/com.increff.commons/commons-gelf@1.32
+- pkg:maven/com.increff.commons/commons-gelf@1.32?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.4
 - pkg:maven/com.increff.commons/commons-gelf@1.4?classifier=sources
 - pkg:maven/com.increff.commons/commons-gelf@1.5

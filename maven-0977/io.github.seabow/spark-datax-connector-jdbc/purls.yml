@@ -22,3 +22,5 @@
 - pkg:maven/io.github.seabow/spark-datax-connector-jdbc@0.3.7?classifier=sources
 - pkg:maven/io.github.seabow/spark-datax-connector-jdbc@0.3.8
 - pkg:maven/io.github.seabow/spark-datax-connector-jdbc@0.3.8?classifier=sources
+- pkg:maven/io.github.seabow/spark-datax-connector-jdbc@0.3.9
+- pkg:maven/io.github.seabow/spark-datax-connector-jdbc@0.3.9?classifier=sources

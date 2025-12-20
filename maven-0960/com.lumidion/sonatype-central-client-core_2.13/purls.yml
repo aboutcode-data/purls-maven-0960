@@ -2,3 +2,5 @@
 - pkg:maven/com.lumidion/sonatype-central-client-core_2.13@0.1.0?classifier=sources
 - pkg:maven/com.lumidion/sonatype-central-client-core_2.13@0.2.0
 - pkg:maven/com.lumidion/sonatype-central-client-core_2.13@0.2.0?classifier=sources
+- pkg:maven/com.lumidion/sonatype-central-client-core_2.13@0.3.0
+- pkg:maven/com.lumidion/sonatype-central-client-core_2.13@0.3.0?classifier=sources

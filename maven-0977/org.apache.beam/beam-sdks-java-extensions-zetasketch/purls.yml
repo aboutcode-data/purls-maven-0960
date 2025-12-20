@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-zetasketch@2.55.1?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-zetasketch@2.56.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-zetasketch@2.57.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-zetasketch@2.58.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-zetasketch@2.58.1?classifier=sources

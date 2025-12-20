@@ -1,3 +1,5 @@
+- pkg:maven/eu.mulk.jgvariant/jgvariant-ostree@0.1.10
+- pkg:maven/eu.mulk.jgvariant/jgvariant-ostree@0.1.10?classifier=sources
 - pkg:maven/eu.mulk.jgvariant/jgvariant-ostree@0.1.4
 - pkg:maven/eu.mulk.jgvariant/jgvariant-ostree@0.1.4?classifier=sources
 - pkg:maven/eu.mulk.jgvariant/jgvariant-ostree@0.1.5

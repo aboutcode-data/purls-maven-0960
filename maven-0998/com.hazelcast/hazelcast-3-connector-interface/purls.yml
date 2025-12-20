@@ -64,3 +64,5 @@
 - pkg:maven/com.hazelcast/hazelcast-3-connector-interface@5.3.6?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-3-connector-interface@5.3.7
 - pkg:maven/com.hazelcast/hazelcast-3-connector-interface@5.3.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-3-connector-interface@5.3.8
+- pkg:maven/com.hazelcast/hazelcast-3-connector-interface@5.3.8?classifier=sources

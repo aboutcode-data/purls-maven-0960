@@ -108,6 +108,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.12.6?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.12.7?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.12.8?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.12.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.2.0
 - pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.2.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-cloudwatch@1.2.1

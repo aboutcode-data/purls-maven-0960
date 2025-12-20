@@ -57,3 +57,4 @@
 - pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-iceberg-inttest@0.94.2?classifier=sources
 - pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-iceberg-inttest@0.94.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-iceberg-inttest@0.94.4?classifier=sources
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-gc-iceberg-inttest@0.95.0?classifier=sources

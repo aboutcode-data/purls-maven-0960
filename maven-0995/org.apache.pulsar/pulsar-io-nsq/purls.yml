@@ -68,6 +68,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.0.4?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.0.5
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.0.5?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.0.6
+- pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.0.6?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.1.0
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.1.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.1.1
@@ -84,5 +86,9 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.2.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.2.3
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.2.3?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.2.4
+- pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.2.4?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.3.0
 - pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.3.0?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.3.1
+- pkg:maven/org.apache.pulsar/pulsar-io-nsq@3.3.1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/com.braintreepayments.api/sepa-direct-debit@4.47.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/sepa-direct-debit@4.48.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/sepa-direct-debit@4.49.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/sepa-direct-debit@4.49.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/sepa-direct-debit@5.0.0-beta1?classifier=sources

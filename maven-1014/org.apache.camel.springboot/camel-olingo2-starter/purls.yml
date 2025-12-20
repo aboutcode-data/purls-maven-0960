@@ -176,6 +176,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.0.4?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.0.5
 - pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.0.5?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.0.6
+- pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.0.6?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.1.0
 - pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-olingo2-starter@4.2.0

@@ -71,11 +71,15 @@
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.17.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.17.1.1?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.18.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.19.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.19.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.19.0.2?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.2.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.2.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.2.4.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.2.5.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.20.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-amazon-instancemetadata-fake@5.5.0.0?classifier=sources

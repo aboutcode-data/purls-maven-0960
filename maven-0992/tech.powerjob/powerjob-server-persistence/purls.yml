@@ -20,3 +20,5 @@
 - pkg:maven/tech.powerjob/powerjob-server-persistence@5.0.0-beta?classifier=sources
 - pkg:maven/tech.powerjob/powerjob-server-persistence@5.0.1-beta
 - pkg:maven/tech.powerjob/powerjob-server-persistence@5.0.1-beta?classifier=sources
+- pkg:maven/tech.powerjob/powerjob-server-persistence@5.1.0
+- pkg:maven/tech.powerjob/powerjob-server-persistence@5.1.0?classifier=sources

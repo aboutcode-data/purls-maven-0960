@@ -471,6 +471,12 @@
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.69?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.6?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.7
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.70-beta1
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.70-beta1?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.70-rc1
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.70-rc1?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.70-rc2
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.70-rc2?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.7?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.8
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.8?classifier=sources
@@ -480,6 +486,10 @@
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.9-beta2
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.9-beta2?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.4.9?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.5.0
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.5.0?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.6.0
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@1.6.0?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@2.0.0-alpha1
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@2.0.0-alpha1?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-cli@2.0.0-alpha2

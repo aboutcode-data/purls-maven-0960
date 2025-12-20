@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.directory.api/apache-ldap-api@2.1.5?classifier=src&type=zip
 - pkg:maven/org.apache.directory.api/apache-ldap-api@2.1.6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.directory.api/apache-ldap-api@2.1.6?classifier=src&type=zip
+- pkg:maven/org.apache.directory.api/apache-ldap-api@2.1.7?classifier=src&type=tar.gz
+- pkg:maven/org.apache.directory.api/apache-ldap-api@2.1.7?classifier=src&type=zip

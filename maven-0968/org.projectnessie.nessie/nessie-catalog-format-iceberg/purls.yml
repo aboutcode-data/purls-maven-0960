@@ -13,3 +13,4 @@
 - pkg:maven/org.projectnessie.nessie/nessie-catalog-format-iceberg@0.94.2?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-catalog-format-iceberg@0.94.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-catalog-format-iceberg@0.94.4?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-catalog-format-iceberg@0.95.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.nordstrom.ui-tools/htmlunit-remote@4.22.0
 - pkg:maven/com.nordstrom.ui-tools/htmlunit-remote@4.22.0?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/htmlunit-remote@4.23.0
+- pkg:maven/com.nordstrom.ui-tools/htmlunit-remote@4.23.0?classifier=sources

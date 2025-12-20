@@ -1,6 +1,13 @@
 - pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.2-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.2-jdk17-RELEASES?classifier=sources
 - pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.2-jdk21-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.4-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.6-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.6-jdk17-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.6-jdk21-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.7-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.7-jdk17-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-db-core@1.0.7-jdk21-RELEASES?classifier=sources
 - pkg:maven/io.github.dawdler-series/dawdler-db-core@1.8.2-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/io.github.dawdler-series/dawdler-db-core@1.8.4-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/io.github.dawdler-series/dawdler-db-core@17.2-jdk17-RELEASES?classifier=sources

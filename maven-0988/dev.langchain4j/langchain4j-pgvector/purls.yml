@@ -22,3 +22,5 @@
 - pkg:maven/dev.langchain4j/langchain4j-pgvector@0.31.0?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-pgvector@0.32.0
 - pkg:maven/dev.langchain4j/langchain4j-pgvector@0.32.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-pgvector@0.33.0
+- pkg:maven/dev.langchain4j/langchain4j-pgvector@0.33.0?classifier=sources

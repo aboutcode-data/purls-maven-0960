@@ -15,6 +15,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@1.9.22?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@1.9.23?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@1.9.24?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@1.9.25?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.0-Beta1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.0-Beta2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.0-Beta3?classifier=sources
@@ -24,6 +25,10 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.0-RC3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.10-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.20-Beta1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.20-Beta2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.20-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-allopen-compiler-plugin-embeddable@2.0.20-RC?classifier=sources

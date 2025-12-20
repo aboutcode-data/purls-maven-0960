@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.9.0?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.9.1
 - pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.9.1?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.9.2
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-common_2.12@1.9.2?classifier=sources

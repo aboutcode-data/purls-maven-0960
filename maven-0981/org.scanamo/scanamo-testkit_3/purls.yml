@@ -32,3 +32,5 @@
 - pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0-PREVIEW.updates-for-latest-gha-scala-library-release-workflow-settings.2024-06-26T1628.115671d7
 - pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0-PREVIEW.updates-for-latest-gha-scala-library-release-workflow-settings.2024-06-26T1628.115671d7?classifier=sources
 - pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@3.0.0-PREVIEW.add-transact-to-expose-TransactionCanceledException.2024-08-10T0658.6eeb6522
+- pkg:maven/org.scanamo/scanamo-testkit_3@3.0.0-PREVIEW.add-transact-to-expose-TransactionCanceledException.2024-08-10T0658.6eeb6522?classifier=sources

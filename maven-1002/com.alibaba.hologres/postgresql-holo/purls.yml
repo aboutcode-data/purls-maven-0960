@@ -13,4 +13,5 @@
 - pkg:maven/com.alibaba.hologres/postgresql-holo@42.2.18.7?classifier=sources
 - pkg:maven/com.alibaba.hologres/postgresql-holo@42.2.18.8?classifier=sources
 - pkg:maven/com.alibaba.hologres/postgresql-holo@42.2.18.9?classifier=sources
+- pkg:maven/com.alibaba.hologres/postgresql-holo@42.2.25.3?classifier=sources
 - pkg:maven/com.alibaba.hologres/postgresql-holo@42.2.26.1?classifier=sources

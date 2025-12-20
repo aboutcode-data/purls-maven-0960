@@ -2,3 +2,6 @@
 - pkg:maven/com.boozallen.aissemble/aissemble-extensions-data-delivery-spark-py@1.7.0-rc3?classifier=sources
 - pkg:maven/com.boozallen.aissemble/aissemble-extensions-data-delivery-spark-py@1.7.0-rc4?classifier=sources
 - pkg:maven/com.boozallen.aissemble/aissemble-extensions-data-delivery-spark-py@1.7.0?classifier=sources
+- pkg:maven/com.boozallen.aissemble/aissemble-extensions-data-delivery-spark-py@1.8.0-rc6?classifier=sources
+- pkg:maven/com.boozallen.aissemble/aissemble-extensions-data-delivery-spark-py@1.8.0-rc8?classifier=sources
+- pkg:maven/com.boozallen.aissemble/aissemble-extensions-data-delivery-spark-py@1.8.0?classifier=sources

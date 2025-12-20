@@ -317,6 +317,12 @@
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.12.0.CR1
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.12.1
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.12.2
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.12.3
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.13.0
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.13.0.CR1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.13.1
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.13.2
+- pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.14.0.CR1
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.2.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-resteasy-reactive@3.2.0.Final

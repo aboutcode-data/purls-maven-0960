@@ -25,6 +25,12 @@
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.12.0.CR1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.12.1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.12.2
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.12.3
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.13.0
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.13.0.CR1
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.13.1
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.13.2
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.14.0.CR1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.2.0.CR1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.2.0.Final
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.2.1.Final

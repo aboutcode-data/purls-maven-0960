@@ -138,5 +138,9 @@
 - pkg:maven/com.gu.etag-caching/core_2.12@3.0.8?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@3.0.9
 - pkg:maven/com.gu.etag-caching/core_2.12@3.0.9?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@4.0.0
 - pkg:maven/com.gu.etag-caching/core_2.12@4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a
 - pkg:maven/com.gu.etag-caching/core_2.12@4.0.0-PREVIEW.suppress-caffeine-exceptions-by-allowing-fetch-results-to-indicate-missing-keys.2024-07-09T1701.cbc4304a?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@4.0.0?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@4.0.1
+- pkg:maven/com.gu.etag-caching/core_2.12@4.0.1?classifier=sources

@@ -250,6 +250,8 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.16
 - pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.160
 - pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.160?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.161
+- pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.161?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.16?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.17
 - pkg:maven/com.bazaarvoice.emodb/emodb-quality@6.5.17?classifier=sources

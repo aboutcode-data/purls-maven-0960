@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.spark/spark-avro_2.12@3.5.0?classifier=sources
 - pkg:maven/org.apache.spark/spark-avro_2.12@3.5.1
 - pkg:maven/org.apache.spark/spark-avro_2.12@3.5.1?classifier=sources
+- pkg:maven/org.apache.spark/spark-avro_2.12@3.5.2
+- pkg:maven/org.apache.spark/spark-avro_2.12@3.5.2?classifier=sources

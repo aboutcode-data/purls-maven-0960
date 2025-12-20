@@ -16,6 +16,8 @@
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.5.4?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.5.5
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.5.5?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.5.6
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.5.6?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha1
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha1-rc1?classifier=sources
@@ -36,3 +38,9 @@
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha3-rc3
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha3-rc3?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha4
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha4-rc1
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha4-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha4-rc2
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha4-rc2?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.6.0-alpha4?classifier=sources

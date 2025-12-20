@@ -58,7 +58,11 @@
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.3.6?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.3.7?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.3.7?type=zip
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.3.8?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.3.8?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.4.0-BETA-2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.4.0-BETA-2?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.4.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.4.0?type=zip
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.5.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.5.0?type=zip

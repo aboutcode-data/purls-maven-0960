@@ -761,6 +761,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.7
+- pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.lang@4.0.8

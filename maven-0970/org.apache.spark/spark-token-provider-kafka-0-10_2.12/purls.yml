@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.5.0?classifier=sources
 - pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.5.1
 - pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.5.1?classifier=sources
+- pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.5.2
+- pkg:maven/org.apache.spark/spark-token-provider-kafka-0-10_2.12@3.5.2?classifier=sources

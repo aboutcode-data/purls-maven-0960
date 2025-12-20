@@ -314,3 +314,7 @@
 - pkg:maven/org.sejda/sejda-core@5.0.8?classifier=sources
 - pkg:maven/org.sejda/sejda-core@5.0.9
 - pkg:maven/org.sejda/sejda-core@5.0.9?classifier=sources
+- pkg:maven/org.sejda/sejda-core@5.1.0
+- pkg:maven/org.sejda/sejda-core@5.1.0?classifier=sources
+- pkg:maven/org.sejda/sejda-core@5.1.1
+- pkg:maven/org.sejda/sejda-core@5.1.1?classifier=sources
