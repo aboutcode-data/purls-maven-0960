@@ -54,6 +54,7 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.33.3-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.33.4-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.33.5-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.33.6-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@1.5.0-alpha?classifier=sources
@@ -78,3 +79,4 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@2.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@2.7.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-mongo-async-3.3@2.8.0-alpha?classifier=sources

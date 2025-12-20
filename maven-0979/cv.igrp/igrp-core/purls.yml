@@ -25,6 +25,12 @@
 - pkg:maven/cv.igrp/igrp-core@1.8.2.240713?classifier=sources
 - pkg:maven/cv.igrp/igrp-core@1.8.2.240803
 - pkg:maven/cv.igrp/igrp-core@1.8.2.240803?classifier=sources
+- pkg:maven/cv.igrp/igrp-core@1.8.3.240902
+- pkg:maven/cv.igrp/igrp-core@1.8.3.240902?classifier=sources
+- pkg:maven/cv.igrp/igrp-core@1.8.3.240912
+- pkg:maven/cv.igrp/igrp-core@1.8.3.240912?classifier=sources
+- pkg:maven/cv.igrp/igrp-core@1.8.3.240913
+- pkg:maven/cv.igrp/igrp-core@1.8.3.240913?classifier=sources
 - pkg:maven/cv.igrp/igrp-core@2.0.0.230625-alpha
 - pkg:maven/cv.igrp/igrp-core@2.0.0.230625-alpha?classifier=sources
 - pkg:maven/cv.igrp/igrp-core@2.0.0.230627-alpha?classifier=sources
@@ -68,3 +74,9 @@
 - pkg:maven/cv.igrp/igrp-core@2.0.0.240713-RCM?classifier=sources
 - pkg:maven/cv.igrp/igrp-core@2.0.0.240802-RCM
 - pkg:maven/cv.igrp/igrp-core@2.0.0.240802-RCM?classifier=sources
+- pkg:maven/cv.igrp/igrp-core@2.0.0.240902-RCM
+- pkg:maven/cv.igrp/igrp-core@2.0.0.240902-RCM?classifier=sources
+- pkg:maven/cv.igrp/igrp-core@2.0.0.240904-RCM
+- pkg:maven/cv.igrp/igrp-core@2.0.0.240904-RCM?classifier=sources
+- pkg:maven/cv.igrp/igrp-core@2.0.0.240912-RCM
+- pkg:maven/cv.igrp/igrp-core@2.0.0.240912-RCM?classifier=sources

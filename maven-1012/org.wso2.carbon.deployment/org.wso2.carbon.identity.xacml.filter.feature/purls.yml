@@ -8,6 +8,8 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.10.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.10.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.11.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.11.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.11.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.11.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.11.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.11.5?classifier=source-release&type=zip
@@ -22,6 +24,7 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.20?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.21?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.25?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.28?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.identity.xacml.filter.feature@4.12.4?classifier=source-release&type=zip

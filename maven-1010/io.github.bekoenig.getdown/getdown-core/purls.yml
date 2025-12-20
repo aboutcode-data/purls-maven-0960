@@ -1,3 +1,4 @@
+- pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0
 - pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc1
 - pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc1?classifier=sources
 - pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc2
@@ -14,3 +15,6 @@
 - pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc7?classifier=sources
 - pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc8
 - pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc8?classifier=sources
+- pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc9
+- pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0-rc9?classifier=sources
+- pkg:maven/io.github.bekoenig.getdown/getdown-core@2.0.0?classifier=sources

@@ -33,6 +33,8 @@
 - pkg:maven/com.ritense.valtimo/contract@12.0.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/contract@12.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/contract@12.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/contract@12.1.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/contract@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/contract@9.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/contract@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/contract@9.10.0.RELEASE?classifier=sources

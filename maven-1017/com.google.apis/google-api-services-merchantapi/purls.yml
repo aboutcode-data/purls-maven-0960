@@ -10,6 +10,8 @@
 - pkg:maven/com.google.apis/google-api-services-merchantapi@accounts_v1beta-rev20240729-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@accounts_v1beta-rev20240806-2.0.0
 - pkg:maven/com.google.apis/google-api-services-merchantapi@accounts_v1beta-rev20240806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-merchantapi@accounts_v1beta-rev20240821-2.0.0
+- pkg:maven/com.google.apis/google-api-services-merchantapi@accounts_v1beta-rev20240821-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@conversions_v1beta-rev20240611-2.0.0
 - pkg:maven/com.google.apis/google-api-services-merchantapi@conversions_v1beta-rev20240611-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@datasources_v1beta-rev20240611-2.0.0

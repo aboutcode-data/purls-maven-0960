@@ -878,7 +878,11 @@
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.11-1-066ea7?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.11-12-5c8c67
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.11-12-5c8c67?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.11-13-a710aa
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.11-13-a710aa?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.11?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.12
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.12?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.1?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.2
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.2-7-c0823d
@@ -958,6 +962,10 @@
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.8?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.9
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.11.9?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.12.0-M0-31-92d3a2
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.12.0-M0-31-92d3a2?classifier=sources
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.12.0-M0-44-a34932
+- pkg:maven/com.lihaoyi/mill-bsp_2.13@0.12.0-M0-44-a34932?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.8.0-16-2f9b63
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.8.0-16-2f9b63?classifier=sources
 - pkg:maven/com.lihaoyi/mill-bsp_2.13@0.8.0-17-81ae1d

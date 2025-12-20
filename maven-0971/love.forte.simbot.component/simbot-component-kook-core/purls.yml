@@ -22,3 +22,6 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-kook-core@4.0.0-dev1?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-kook-core@4.0.0-dev2?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-kook-core@4.0.0-dev3?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-kook-core@4.0.0?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-kook-core@4.0.1?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-kook-core@4.0.2?classifier=sources

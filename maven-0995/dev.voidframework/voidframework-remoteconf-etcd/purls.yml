@@ -14,6 +14,8 @@
 - pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.14.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.15.0
 - pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.15.0?classifier=sources
+- pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.16.0
+- pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.16.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.2.0
 - pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.2.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-remoteconf-etcd@1.2.1

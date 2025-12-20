@@ -1,6 +1,7 @@
 - pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.10.0?classifier=sources
 - pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.10.1?classifier=sources
 - pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.10.2?classifier=sources
+- pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.10.3?classifier=sources
 - pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.9.13?classifier=sources
 - pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.9.14?classifier=sources
 - pkg:maven/org.graalvm.buildtools/graalvm-reachability-metadata@0.9.15?classifier=sources

@@ -287,6 +287,8 @@
 - pkg:maven/io.camunda/zeebe-client-java@8.2.3
 - pkg:maven/io.camunda/zeebe-client-java@8.2.30
 - pkg:maven/io.camunda/zeebe-client-java@8.2.30?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.2.31
+- pkg:maven/io.camunda/zeebe-client-java@8.2.31?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.2.3?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.2.4
 - pkg:maven/io.camunda/zeebe-client-java@8.2.4?classifier=sources
@@ -331,6 +333,8 @@
 - pkg:maven/io.camunda/zeebe-client-java@8.3.13?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.3.14
 - pkg:maven/io.camunda/zeebe-client-java@8.3.14?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.3.15
+- pkg:maven/io.camunda/zeebe-client-java@8.3.15?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.3.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.3.2
 - pkg:maven/io.camunda/zeebe-client-java@8.3.2?classifier=sources
@@ -357,6 +361,8 @@
 - pkg:maven/io.camunda/zeebe-client-java@8.4.1
 - pkg:maven/io.camunda/zeebe-client-java@8.4.10
 - pkg:maven/io.camunda/zeebe-client-java@8.4.10?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.4.11
+- pkg:maven/io.camunda/zeebe-client-java@8.4.11?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.4.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.4.2
 - pkg:maven/io.camunda/zeebe-client-java@8.4.2?classifier=sources
@@ -396,6 +402,8 @@
 - pkg:maven/io.camunda/zeebe-client-java@8.5.5?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.5.6
 - pkg:maven/io.camunda/zeebe-client-java@8.5.6?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.5.7
+- pkg:maven/io.camunda/zeebe-client-java@8.5.7?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha1
 - pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha1-rc1?classifier=sources
@@ -422,3 +430,9 @@
 - pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha4-rc2
 - pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha4-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha4?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha5
+- pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha5-rc1
+- pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha5-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha5-rc2
+- pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha5-rc2?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-java@8.6.0-alpha5?classifier=sources

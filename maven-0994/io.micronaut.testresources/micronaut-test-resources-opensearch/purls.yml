@@ -3,3 +3,5 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-opensearch@2.5.2?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-opensearch@2.5.3?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-opensearch@2.5.4?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-opensearch@2.6.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-opensearch@2.6.1?classifier=sources

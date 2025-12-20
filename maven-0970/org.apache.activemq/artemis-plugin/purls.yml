@@ -66,6 +66,8 @@
 - pkg:maven/org.apache.activemq/artemis-plugin@2.35.0?type=war
 - pkg:maven/org.apache.activemq/artemis-plugin@2.36.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-plugin@2.36.0?type=war
+- pkg:maven/org.apache.activemq/artemis-plugin@2.37.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-plugin@2.37.0?type=war
 - pkg:maven/org.apache.activemq/artemis-plugin@2.4.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-plugin@2.4.0?type=war
 - pkg:maven/org.apache.activemq/artemis-plugin@2.5.0?classifier=sources

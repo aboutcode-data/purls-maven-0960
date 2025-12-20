@@ -40,8 +40,12 @@
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.117.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.118.0
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.118.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-kernel@0.119.0
+- pkg:maven/org.metaeffekt.core/ae-common-kernel@0.119.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.12.0
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.12.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-kernel@0.120.0
+- pkg:maven/org.metaeffekt.core/ae-common-kernel@0.120.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.13.0
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.13.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-kernel@0.14.0

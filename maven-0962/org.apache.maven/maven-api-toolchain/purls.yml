@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.maven/maven-api-toolchain@4.0.0-alpha-9?classifier=sources
 - pkg:maven/org.apache.maven/maven-api-toolchain@4.0.0-beta-3
 - pkg:maven/org.apache.maven/maven-api-toolchain@4.0.0-beta-3?classifier=sources
+- pkg:maven/org.apache.maven/maven-api-toolchain@4.0.0-beta-4
+- pkg:maven/org.apache.maven/maven-api-toolchain@4.0.0-beta-4?classifier=sources

@@ -73,6 +73,7 @@
 - pkg:maven/org.sonarsource.python/python-frontend@4.19.0.15616?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@4.2.0.11487?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@4.20.0.16410?classifier=sources
+- pkg:maven/org.sonarsource.python/python-frontend@4.21.0.16473?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@4.3.0.11660?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@4.4.0.11907?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@4.5.0.11949?classifier=sources

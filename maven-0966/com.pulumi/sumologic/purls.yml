@@ -165,6 +165,8 @@
 - pkg:maven/com.pulumi/sumologic@0.23.2?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1722064119?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1723010472?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1724479397?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1724911737?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.0?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.1-alpha.1660680842%2B1b90b1ad?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.9.0?classifier=sources

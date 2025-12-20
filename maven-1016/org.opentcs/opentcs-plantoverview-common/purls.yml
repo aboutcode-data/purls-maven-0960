@@ -21,3 +21,6 @@
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.8.2?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@5.9.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-common@6.0.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-common@6.1.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-common@6.1.1?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-common@6.1.2?classifier=sources

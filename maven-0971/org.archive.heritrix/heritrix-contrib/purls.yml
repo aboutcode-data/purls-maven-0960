@@ -22,3 +22,5 @@
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20210923?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20220727
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20220727?classifier=sources
+- pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20240909
+- pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20240909?classifier=sources

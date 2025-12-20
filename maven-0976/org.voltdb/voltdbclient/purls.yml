@@ -54,6 +54,10 @@
 - pkg:maven/org.voltdb/voltdbclient@13.2.2?classifier=sources
 - pkg:maven/org.voltdb/voltdbclient@13.2.4
 - pkg:maven/org.voltdb/voltdbclient@13.2.4?classifier=sources
+- pkg:maven/org.voltdb/voltdbclient@13.3.2
+- pkg:maven/org.voltdb/voltdbclient@13.3.2-preview1
+- pkg:maven/org.voltdb/voltdbclient@13.3.2-preview1?classifier=sources
+- pkg:maven/org.voltdb/voltdbclient@13.3.2?classifier=sources
 - pkg:maven/org.voltdb/voltdbclient@5.0
 - pkg:maven/org.voltdb/voltdbclient@5.0.2
 - pkg:maven/org.voltdb/voltdbclient@5.0.2?classifier=sources

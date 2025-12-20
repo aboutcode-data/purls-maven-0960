@@ -9,3 +9,5 @@
 - pkg:maven/fr.acinq.lightning/lightning-kmp-macosarm64@1.7.1?classifier=sources
 - pkg:maven/fr.acinq.lightning/lightning-kmp-macosarm64@1.7.2-FEECREDIT-10?classifier=sources
 - pkg:maven/fr.acinq.lightning/lightning-kmp-macosarm64@1.7.2?classifier=sources
+- pkg:maven/fr.acinq.lightning/lightning-kmp-macosarm64@1.7.3-FEECREDIT-11?classifier=sources
+- pkg:maven/fr.acinq.lightning/lightning-kmp-macosarm64@1.7.3?classifier=sources

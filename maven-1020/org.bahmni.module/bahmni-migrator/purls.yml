@@ -6,3 +6,5 @@
 - pkg:maven/org.bahmni.module/bahmni-migrator@0.94.2?classifier=sources
 - pkg:maven/org.bahmni.module/bahmni-migrator@0.94.3
 - pkg:maven/org.bahmni.module/bahmni-migrator@0.94.3?classifier=sources
+- pkg:maven/org.bahmni.module/bahmni-migrator@1.0.0
+- pkg:maven/org.bahmni.module/bahmni-migrator@1.0.0?classifier=sources

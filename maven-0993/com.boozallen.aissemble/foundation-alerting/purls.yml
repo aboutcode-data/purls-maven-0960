@@ -12,3 +12,5 @@
 - pkg:maven/com.boozallen.aissemble/foundation-alerting@1.8.0-rc8
 - pkg:maven/com.boozallen.aissemble/foundation-alerting@1.8.0-rc8?classifier=sources
 - pkg:maven/com.boozallen.aissemble/foundation-alerting@1.8.0?classifier=sources
+- pkg:maven/com.boozallen.aissemble/foundation-alerting@1.8.1-rc2
+- pkg:maven/com.boozallen.aissemble/foundation-alerting@1.8.1-rc2?classifier=sources

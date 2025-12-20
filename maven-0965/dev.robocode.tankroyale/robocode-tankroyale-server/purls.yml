@@ -13,3 +13,6 @@
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-server@0.23.2?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-server@0.24.0?classifier=sources
 - pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-server@0.24.1?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-server@0.24.2?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-server@0.24.3?classifier=sources
+- pkg:maven/dev.robocode.tankroyale/robocode-tankroyale-server@0.24.4?classifier=sources

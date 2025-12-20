@@ -7,6 +7,8 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.10.15
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.10.15?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.10.2
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.10.21
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.10.21?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.10.2?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.4.19
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.core.commons.stub@4.4.20

@@ -30,3 +30,5 @@
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-hikari@4.0.9?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-hikari@4.1.0
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-hikari@4.1.0?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-hikari@4.1.1
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-metrics-hikari@4.1.1?classifier=sources

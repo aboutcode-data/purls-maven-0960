@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.jnosql.mapping/jnosql-graph-connections@1.1.1-RC1
 - pkg:maven/org.eclipse.jnosql.mapping/jnosql-graph-connections@1.1.1-RC1?classifier=sources
 - pkg:maven/org.eclipse.jnosql.mapping/jnosql-graph-connections@1.1.1?classifier=sources
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-graph-connections@1.1.2
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-graph-connections@1.1.2?classifier=sources

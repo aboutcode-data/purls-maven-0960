@@ -43,6 +43,10 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.22
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.23
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.23?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.24
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.3
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@10.0.3?classifier=sources
@@ -97,6 +101,10 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.22
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.23
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.23?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.24
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.3
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@11.0.3?classifier=sources
@@ -668,6 +676,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.54.v20240208?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.55.v20240627
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.55.v20240627?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.56.v20240826
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.56.v20240826?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.6.v20170531
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.6.v20170531?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-boot@9.4.6.v20180619

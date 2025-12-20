@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lengors/maven-lombok-template@1.0.0-alpha.1?classifier=sources
+- pkg:maven/io.github.lengors/maven-lombok-template@1.0.0-beta.1?classifier=sources
+- pkg:maven/io.github.lengors/maven-lombok-template@1.0.0-dev.1?classifier=sources
+- pkg:maven/io.github.lengors/maven-lombok-template@1.0.0?classifier=sources

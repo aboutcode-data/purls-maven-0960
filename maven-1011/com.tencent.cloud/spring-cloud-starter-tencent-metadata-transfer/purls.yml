@@ -292,3 +292,5 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.9.1-2021.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.9.1-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.9.1-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC1
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC1?classifier=sources

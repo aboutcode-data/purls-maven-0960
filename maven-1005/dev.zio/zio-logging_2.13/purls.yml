@@ -132,3 +132,5 @@
 - pkg:maven/dev.zio/zio-logging_2.13@2.2.4?classifier=sources
 - pkg:maven/dev.zio/zio-logging_2.13@2.3.0
 - pkg:maven/dev.zio/zio-logging_2.13@2.3.0?classifier=sources
+- pkg:maven/dev.zio/zio-logging_2.13@2.3.1
+- pkg:maven/dev.zio/zio-logging_2.13@2.3.1?classifier=sources

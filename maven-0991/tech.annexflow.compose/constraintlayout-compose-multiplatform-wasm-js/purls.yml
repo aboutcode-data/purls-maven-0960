@@ -4,3 +4,6 @@
 - pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-wasm-js@0.3.1?classifier=sources
 - pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-wasm-js@0.4.0?classifier=sources
 - pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-wasm-js@0.5.0-alpha01?classifier=sources
+- pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-wasm-js@0.5.0-alpha03-shaded-core?classifier=sources
+- pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-wasm-js@0.5.0-alpha03-shaded?classifier=sources
+- pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-wasm-js@0.5.0-alpha03?classifier=sources

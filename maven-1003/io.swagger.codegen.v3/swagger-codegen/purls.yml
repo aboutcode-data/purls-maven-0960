@@ -115,6 +115,8 @@
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.60?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.61
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.61?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.62
+- pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.62?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.6?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.7
 - pkg:maven/io.swagger.codegen.v3/swagger-codegen@3.0.7?classifier=sources

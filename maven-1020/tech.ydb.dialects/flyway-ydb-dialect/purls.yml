@@ -1,2 +1,4 @@
+- pkg:maven/tech.ydb.dialects/flyway-ydb-dialect@1.0.0
 - pkg:maven/tech.ydb.dialects/flyway-ydb-dialect@1.0.0-RC0
 - pkg:maven/tech.ydb.dialects/flyway-ydb-dialect@1.0.0-RC0?classifier=sources
+- pkg:maven/tech.ydb.dialects/flyway-ydb-dialect@1.0.0?classifier=sources

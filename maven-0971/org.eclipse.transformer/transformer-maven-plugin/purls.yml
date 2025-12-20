@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.transformer/transformer-maven-plugin@0.4.0?classifier=sources
 - pkg:maven/org.eclipse.transformer/transformer-maven-plugin@0.5.0
 - pkg:maven/org.eclipse.transformer/transformer-maven-plugin@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.transformer/transformer-maven-plugin@1.0.0
+- pkg:maven/org.eclipse.transformer/transformer-maven-plugin@1.0.0?classifier=sources

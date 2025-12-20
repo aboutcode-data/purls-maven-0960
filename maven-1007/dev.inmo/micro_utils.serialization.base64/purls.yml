@@ -141,6 +141,9 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.base64@0.21.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64@0.21.5?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64@0.22.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.base64@0.22.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.base64@0.22.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.base64@0.22.3?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64@0.4.24?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64@0.4.25?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.base64@0.4.26?classifier=sources

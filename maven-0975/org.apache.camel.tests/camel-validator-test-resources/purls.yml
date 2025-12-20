@@ -228,3 +228,5 @@
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@4.7.0
 - pkg:maven/org.apache.camel.tests/camel-validator-test-resources@4.7.0?classifier=sources
+- pkg:maven/org.apache.camel.tests/camel-validator-test-resources@4.8.0
+- pkg:maven/org.apache.camel.tests/camel-validator-test-resources@4.8.0?classifier=sources

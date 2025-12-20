@@ -113,6 +113,8 @@
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.14?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.15
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.15?classifier=sources
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.16
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.16?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.2
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.3.2?classifier=sources
@@ -139,6 +141,8 @@
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.1
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.10
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.10?classifier=sources
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.11
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.11?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.2
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.4.2?classifier=sources
@@ -172,6 +176,10 @@
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.4?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.5
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.5?classifier=sources
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.6
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.6?classifier=sources
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.7
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.5.7?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha1
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha2
@@ -184,3 +192,5 @@
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha3?classifier=sources
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha4
 - pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha4?classifier=sources
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha5
+- pkg:maven/io.camunda.connector/connector-aws-lambda@8.6.0-alpha5?classifier=sources

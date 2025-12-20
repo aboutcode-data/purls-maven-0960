@@ -32,3 +32,5 @@
 - pkg:maven/dev.gitlive/firebase-functions-iosarm64@1.8.1?classifier=sources
 - pkg:maven/dev.gitlive/firebase-functions-iosarm64@1.8.2?classifier=sources
 - pkg:maven/dev.gitlive/firebase-functions-iosarm64@1.9.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-functions-iosarm64@2.0.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-functions-iosarm64@2.1.0?classifier=sources

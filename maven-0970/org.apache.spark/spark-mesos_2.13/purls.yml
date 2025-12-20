@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.spark/spark-mesos_2.13@3.5.1?classifier=sources
 - pkg:maven/org.apache.spark/spark-mesos_2.13@3.5.2
 - pkg:maven/org.apache.spark/spark-mesos_2.13@3.5.2?classifier=sources
+- pkg:maven/org.apache.spark/spark-mesos_2.13@3.5.3
+- pkg:maven/org.apache.spark/spark-mesos_2.13@3.5.3?classifier=sources

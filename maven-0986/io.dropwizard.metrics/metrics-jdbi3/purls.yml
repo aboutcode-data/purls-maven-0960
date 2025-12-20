@@ -153,6 +153,8 @@
 - pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.25?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.26
 - pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.26?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.27
+- pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.27?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.2?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.3
 - pkg:maven/io.dropwizard.metrics/metrics-jdbi3@4.2.3?classifier=sources

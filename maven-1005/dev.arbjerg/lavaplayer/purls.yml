@@ -3,6 +3,8 @@
 - pkg:maven/dev.arbjerg/lavaplayer@1.5.2?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@1.5.3?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@1.5.4?classifier=sources
+- pkg:maven/dev.arbjerg/lavaplayer@1.5.5?classifier=sources
+- pkg:maven/dev.arbjerg/lavaplayer@1.5.6?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@2.0.0?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@2.0.1?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@2.0.2?classifier=sources
@@ -13,3 +15,4 @@
 - pkg:maven/dev.arbjerg/lavaplayer@2.1.2?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@2.2.0?classifier=sources
 - pkg:maven/dev.arbjerg/lavaplayer@2.2.1?classifier=sources
+- pkg:maven/dev.arbjerg/lavaplayer@2.2.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.tpolecat/doobie-log4cats_2.12@1.0.0-RC5
 - pkg:maven/org.tpolecat/doobie-log4cats_2.12@1.0.0-RC5?classifier=sources
+- pkg:maven/org.tpolecat/doobie-log4cats_2.12@1.0.0-RC6
+- pkg:maven/org.tpolecat/doobie-log4cats_2.12@1.0.0-RC6?classifier=sources

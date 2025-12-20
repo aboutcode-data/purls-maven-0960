@@ -11,3 +11,6 @@
 - pkg:maven/com.strumenta/antlr-kotlin-runtime-tvosx64@1.0.0-RC2?classifier=sources
 - pkg:maven/com.strumenta/antlr-kotlin-runtime-tvosx64@1.0.0-RC3?classifier=sources
 - pkg:maven/com.strumenta/antlr-kotlin-runtime-tvosx64@1.0.0-RC4?classifier=sources
+- pkg:maven/com.strumenta/antlr-kotlin-runtime-tvosx64@1.0.0-RC5?classifier=sources
+- pkg:maven/com.strumenta/antlr-kotlin-runtime-tvosx64@1.0.0?classifier=sources
+- pkg:maven/com.strumenta/antlr-kotlin-runtime-tvosx64@1.0.1?classifier=sources

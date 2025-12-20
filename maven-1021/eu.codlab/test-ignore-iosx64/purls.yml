@@ -1,0 +1,3 @@
+- pkg:maven/eu.codlab/test-ignore-iosx64@0.10.0?classifier=sources
+- pkg:maven/eu.codlab/test-ignore-iosx64@0.12.0?classifier=sources
+- pkg:maven/eu.codlab/test-ignore-iosx64@0.13.0?classifier=sources

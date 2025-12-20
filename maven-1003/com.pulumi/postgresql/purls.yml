@@ -111,6 +111,8 @@
 - pkg:maven/com.pulumi/postgresql@3.12.0-alpha.1722061599?classifier=sources
 - pkg:maven/com.pulumi/postgresql@3.12.0-alpha.1723010022?classifier=sources
 - pkg:maven/com.pulumi/postgresql@3.12.0-alpha.1723038149?classifier=sources
+- pkg:maven/com.pulumi/postgresql@3.12.0-alpha.1724478866?classifier=sources
+- pkg:maven/com.pulumi/postgresql@3.12.0-alpha.1724911138?classifier=sources
 - pkg:maven/com.pulumi/postgresql@3.6.0-alpha.1661293361%2B3b92a88b?classifier=sources
 - pkg:maven/com.pulumi/postgresql@3.6.0?classifier=sources
 - pkg:maven/com.pulumi/postgresql@3.7.0-alpha.1668658332%2B40dec38c?classifier=sources

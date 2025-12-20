@@ -98,6 +98,8 @@
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.1.0-snapshot.20240719.13191.0.v97bd32cc?classifier=sources
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.1.0-snapshot.20240721.13192.0.vc0ac0d46
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.1.0-snapshot.20240721.13192.0.vc0ac0d46?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-adhoc.20240826.13247.0.v8d88a081
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-adhoc.20240826.13247.0.v8d88a081?classifier=sources
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240722.13195.0.vd24c87ab
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240722.13195.0.vd24c87ab?classifier=sources
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240723.13199.0.v2d43b886
@@ -126,3 +128,15 @@
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240813.13227.0.v36158334?classifier=sources
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240814.13230.0.vc62dc41c
 - pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240814.13230.0.vc62dc41c?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240819.13232.0.vee0b4864
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240819.13232.0.vee0b4864?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240820.13236.0.v0a04bc86
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240820.13236.0.v0a04bc86?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240821.13240.0.v921076df
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240821.13240.0.v921076df?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240823.13245.0.v94a3b038
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240823.13245.0.v94a3b038?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240826.13246.0.v731c2169
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240826.13246.0.v731c2169?classifier=sources
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240828.13250.0.va2f696f1
+- pkg:maven/com.daml/daml-lf-archive-encoder_2.13@3.2.0-snapshot.20240828.13250.0.va2f696f1?classifier=sources

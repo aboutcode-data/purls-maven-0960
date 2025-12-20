@@ -72,6 +72,9 @@
 - pkg:maven/me.proton.core/auth-dagger@26.0.1?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@26.0.2?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@27.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@27.1.0?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@27.2.0?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@27.2.1?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@9.0.1?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@9.0.2?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.2.RC2
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.2.RC2?classifier=sources
 - pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@4.2?classifier=sources
+- pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@5.0-M1
+- pkg:maven/org.apache.cayenne.modeler/cayenne-modeler-generic@5.0-M1?classifier=sources

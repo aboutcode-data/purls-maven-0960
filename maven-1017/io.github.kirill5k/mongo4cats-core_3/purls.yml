@@ -93,6 +93,8 @@
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.0
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.0?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.1
+- pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.10
+- pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.10?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.1?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.2
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.2?classifier=sources
@@ -106,3 +108,5 @@
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.7?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.8
 - pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.8?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.9
+- pkg:maven/io.github.kirill5k/mongo4cats-core_3@0.7.9?classifier=sources

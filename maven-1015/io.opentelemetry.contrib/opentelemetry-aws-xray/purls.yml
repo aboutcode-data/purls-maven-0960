@@ -29,6 +29,8 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.35.0?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.36.0?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.37.0?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.38.0?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.39.0?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.4.0?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.5.0?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-aws-xray@1.6.0?classifier=sources

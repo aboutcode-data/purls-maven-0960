@@ -1,3 +1,5 @@
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments@0.10.0?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments@0.10.1?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments@0.9.10?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments@0.9.15?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments@0.9.18?classifier=sources

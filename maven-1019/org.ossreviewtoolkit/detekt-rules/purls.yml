@@ -37,7 +37,14 @@
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@26.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@27.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@28.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@29.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@29.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@30.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@31.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@32.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@32.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@5.1.0?classifier=sources

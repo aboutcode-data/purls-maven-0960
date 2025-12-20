@@ -106,6 +106,10 @@
 - pkg:maven/com.vaadin/vaadin-osgi-integration@8.25.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-osgi-integration@8.26.0
 - pkg:maven/com.vaadin/vaadin-osgi-integration@8.26.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-osgi-integration@8.27.0
+- pkg:maven/com.vaadin/vaadin-osgi-integration@8.27.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-osgi-integration@8.27.1
+- pkg:maven/com.vaadin/vaadin-osgi-integration@8.27.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-osgi-integration@8.3.0
 - pkg:maven/com.vaadin/vaadin-osgi-integration@8.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-osgi-integration@8.3.1

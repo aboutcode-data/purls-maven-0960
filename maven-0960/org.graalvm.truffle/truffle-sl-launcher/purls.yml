@@ -178,3 +178,5 @@
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@24.0.1?classifier=sources
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@24.0.2
 - pkg:maven/org.graalvm.truffle/truffle-sl-launcher@24.0.2?classifier=sources
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@24.1.0
+- pkg:maven/org.graalvm.truffle/truffle-sl-launcher@24.1.0?classifier=sources

@@ -190,3 +190,5 @@
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@4.7.0
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@4.7.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-azure-storage-queue@4.8.0
+- pkg:maven/org.apache.camel/camel-azure-storage-queue@4.8.0?classifier=sources

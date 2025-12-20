@@ -42,6 +42,8 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.30.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.31.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.31.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.32.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.32.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.6.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context@2.7.0

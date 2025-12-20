@@ -1,0 +1,4 @@
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@31.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@32.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@32.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@33.0.0?classifier=sources
