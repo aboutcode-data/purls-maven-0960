@@ -46,3 +46,6 @@
 - pkg:maven/house.inksoftware/system-test-framework@8?classifier=sources
 - pkg:maven/house.inksoftware/system-test-framework@9.0.0
 - pkg:maven/house.inksoftware/system-test-framework@9.0.0?classifier=sources
+- pkg:maven/house.inksoftware/system-test-framework@java-21-0.0.1?classifier=sources
+- pkg:maven/house.inksoftware/system-test-framework@java-21-0.0.2?classifier=sources
+- pkg:maven/house.inksoftware/system-test-framework@java-21-0.0.3?classifier=sources

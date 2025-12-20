@@ -122,6 +122,8 @@
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@2.6.4?classifier=sources
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@2.6.5
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@2.6.5?classifier=sources
+- pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@2.6.6
+- pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@2.6.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@3.0.0
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@3.0.0-M1
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@3.0.0-M1?classifier=sources
@@ -188,3 +190,5 @@
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@4.0.4?classifier=sources
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@4.0.5
 - pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@4.0.5?classifier=sources
+- pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@4.0.6
+- pkg:maven/io.helidon.microprofile.tracing/helidon-microprofile-tracing@4.0.6?classifier=sources

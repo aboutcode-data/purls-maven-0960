@@ -16,6 +16,7 @@
 - pkg:maven/me.proton.core/configuration@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/configuration@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/configuration@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/configuration@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/configuration@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/configuration@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/configuration@18.4.1?classifier=sources
@@ -23,3 +24,6 @@
 - pkg:maven/me.proton.core/configuration@19.0.0?classifier=sources
 - pkg:maven/me.proton.core/configuration@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/configuration@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/configuration@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/configuration@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/configuration@21.2.0?classifier=sources

@@ -22,5 +22,9 @@
 - pkg:maven/org.mycore/mycore-ocfl@2023.05?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2023.06.0
 - pkg:maven/org.mycore/mycore-ocfl@2023.06.0?classifier=sources
+- pkg:maven/org.mycore/mycore-ocfl@2023.06.1
+- pkg:maven/org.mycore/mycore-ocfl@2023.06.1?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2023.11
 - pkg:maven/org.mycore/mycore-ocfl@2023.11?classifier=sources
+- pkg:maven/org.mycore/mycore-ocfl@2024.02
+- pkg:maven/org.mycore/mycore-ocfl@2024.02?classifier=sources

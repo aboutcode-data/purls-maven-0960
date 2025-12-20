@@ -1,1 +1,4 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.remote.config.mgt.feature@4.10.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.remote.config.mgt.feature@4.9.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.remote.config.mgt.feature@4.9.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.remote.config.mgt.feature@4.9.7?classifier=source-release&type=zip

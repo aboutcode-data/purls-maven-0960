@@ -117,3 +117,5 @@
 - pkg:maven/se.bjurr.violations/violations-git-lib@1.9
 - pkg:maven/se.bjurr.violations/violations-git-lib@1.9?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-git-lib@2.0.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@2.1.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-git-lib@2.1.1?classifier=sources

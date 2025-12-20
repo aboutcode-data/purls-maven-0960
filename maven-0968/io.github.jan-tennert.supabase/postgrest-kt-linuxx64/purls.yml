@@ -65,6 +65,12 @@
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.1.4-dev?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.1.4?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.1.5?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.1.6-dev?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.1.6?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.0-alpha-1?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.0-alpha-2?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.0-coil3-dev1?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.0-rc-1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/postgrest-kt-linuxx64@2.2.2?classifier=sources

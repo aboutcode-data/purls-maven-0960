@@ -120,3 +120,7 @@
 - pkg:maven/io.sentry/sentry-apollo-3@7.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-apollo-3@7.4.0
 - pkg:maven/io.sentry/sentry-apollo-3@7.4.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apollo-3@7.5.0
+- pkg:maven/io.sentry/sentry-apollo-3@7.5.0?classifier=sources
+- pkg:maven/io.sentry/sentry-apollo-3@7.6.0
+- pkg:maven/io.sentry/sentry-apollo-3@7.6.0?classifier=sources

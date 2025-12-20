@@ -156,6 +156,10 @@
 - pkg:maven/com.google.cloud/google-cloud-accessapproval@2.35.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-accessapproval@2.36.0
 - pkg:maven/com.google.cloud/google-cloud-accessapproval@2.36.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-accessapproval@2.37.0
+- pkg:maven/com.google.cloud/google-cloud-accessapproval@2.37.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-accessapproval@2.38.0
+- pkg:maven/com.google.cloud/google-cloud-accessapproval@2.38.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-accessapproval@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-accessapproval@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-accessapproval@2.4.1

@@ -172,3 +172,9 @@
 - pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.4-macos
 - pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.4-macos?classifier=sources
 - pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.4?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.5
+- pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.5-allinone
+- pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.5-allinone?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.5-macos
+- pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.5-macos?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/hybridse-native@0.8.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.hubspot/basepom-policy@11.0
+- pkg:maven/com.hubspot/basepom-policy@11.0?classifier=sources
+- pkg:maven/com.hubspot/basepom-policy@11.1
+- pkg:maven/com.hubspot/basepom-policy@11.1?classifier=sources

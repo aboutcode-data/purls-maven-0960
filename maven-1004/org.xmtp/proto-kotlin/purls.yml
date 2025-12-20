@@ -48,3 +48,6 @@
 - pkg:maven/org.xmtp/proto-kotlin@3.43.1?classifier=sources
 - pkg:maven/org.xmtp/proto-kotlin@3.43.2?classifier=sources
 - pkg:maven/org.xmtp/proto-kotlin@3.44.0?classifier=sources
+- pkg:maven/org.xmtp/proto-kotlin@3.45.0?classifier=sources
+- pkg:maven/org.xmtp/proto-kotlin@3.46.0?classifier=sources
+- pkg:maven/org.xmtp/proto-kotlin@3.47.0?classifier=sources

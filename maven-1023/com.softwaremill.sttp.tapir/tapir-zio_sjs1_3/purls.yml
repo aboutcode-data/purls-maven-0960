@@ -1,3 +1,5 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.10.0
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.10.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.2.10
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.2.10?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.2.11
@@ -69,6 +71,10 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.11?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.2
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-zio_sjs1_3@1.9.2?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-redpanda_2.13@0.41.1?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-redpanda_2.13@0.41.2
 - pkg:maven/com.dimafeng/testcontainers-scala-redpanda_2.13@0.41.2?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-redpanda_2.13@0.41.3
+- pkg:maven/com.dimafeng/testcontainers-scala-redpanda_2.13@0.41.3?classifier=sources

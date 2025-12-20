@@ -2,3 +2,5 @@
 - pkg:maven/de.rub.nds.tlsscanner/Scanner-Core@4.2.0?classifier=sources
 - pkg:maven/de.rub.nds.tlsscanner/Scanner-Core@4.2.3
 - pkg:maven/de.rub.nds.tlsscanner/Scanner-Core@4.2.3?classifier=sources
+- pkg:maven/de.rub.nds.tlsscanner/Scanner-Core@4.3.0-timing
+- pkg:maven/de.rub.nds.tlsscanner/Scanner-Core@4.3.0-timing?classifier=sources

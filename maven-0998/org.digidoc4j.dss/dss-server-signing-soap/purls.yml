@@ -32,3 +32,5 @@
 - pkg:maven/org.digidoc4j.dss/dss-server-signing-soap@5.8.d4j.1?classifier=sources
 - pkg:maven/org.digidoc4j.dss/dss-server-signing-soap@5.9.d4j.1
 - pkg:maven/org.digidoc4j.dss/dss-server-signing-soap@5.9.d4j.1?classifier=sources
+- pkg:maven/org.digidoc4j.dss/dss-server-signing-soap@6.0.d4j.1
+- pkg:maven/org.digidoc4j.dss/dss-server-signing-soap@6.0.d4j.1?classifier=sources

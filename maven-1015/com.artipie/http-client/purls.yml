@@ -28,6 +28,12 @@
 - pkg:maven/com.artipie/http-client@0.4.2?classifier=sources
 - pkg:maven/com.artipie/http-client@0.4.3
 - pkg:maven/com.artipie/http-client@0.4.3?classifier=sources
+- pkg:maven/com.artipie/http-client@v0.30.13
+- pkg:maven/com.artipie/http-client@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/http-client@v0.30.14
+- pkg:maven/com.artipie/http-client@v0.30.14?classifier=sources
+- pkg:maven/com.artipie/http-client@v1.17.10
+- pkg:maven/com.artipie/http-client@v1.17.10?classifier=sources
 - pkg:maven/com.artipie/http-client@v1.17.2
 - pkg:maven/com.artipie/http-client@v1.17.2?classifier=sources
 - pkg:maven/com.artipie/http-client@v1.17.3

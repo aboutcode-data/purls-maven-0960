@@ -4,3 +4,5 @@
 - pkg:maven/com.whisk/docker-testkit-samples_3@0.11.0-beta2
 - pkg:maven/com.whisk/docker-testkit-samples_3@0.11.0-beta2?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-samples_3@0.11.0?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-samples_3@0.12.0
+- pkg:maven/com.whisk/docker-testkit-samples_3@0.12.0?classifier=sources

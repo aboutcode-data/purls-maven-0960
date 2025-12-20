@@ -43,6 +43,7 @@
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0-prerel?classifier=sources
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0-rc1
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0-rc1?classifier=sources
+- pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B1
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B1?classifier=sources
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B2
@@ -51,4 +52,7 @@
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B3?classifier=sources
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B5
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B5?classifier=sources
+- pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B6
+- pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1-B6?classifier=sources
+- pkg:maven/io.mosip.authentication/authentication-core@1.2.0.1?classifier=sources
 - pkg:maven/io.mosip.authentication/authentication-core@1.2.0?classifier=sources

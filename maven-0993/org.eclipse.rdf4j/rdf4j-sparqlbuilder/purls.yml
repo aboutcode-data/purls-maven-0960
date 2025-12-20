@@ -175,6 +175,10 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.0-M3?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.0?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.1
+- pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.10
+- pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.10?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.11
+- pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.11?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.1?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.2
 - pkg:maven/org.eclipse.rdf4j/rdf4j-sparqlbuilder@4.3.2?classifier=sources

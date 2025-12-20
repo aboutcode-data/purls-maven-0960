@@ -69,6 +69,10 @@
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.26.12?classifier=sources
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.26.13
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.26.13?classifier=sources
+- pkg:maven/org.openl.rules/openl-openapi-parser@5.26.14
+- pkg:maven/org.openl.rules/openl-openapi-parser@5.26.14?classifier=sources
+- pkg:maven/org.openl.rules/openl-openapi-parser@5.26.15
+- pkg:maven/org.openl.rules/openl-openapi-parser@5.26.15?classifier=sources
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.26.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.26.2
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.26.2?classifier=sources
@@ -98,3 +102,5 @@
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.27.3?classifier=sources
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.27.4
 - pkg:maven/org.openl.rules/openl-openapi-parser@5.27.4?classifier=sources
+- pkg:maven/org.openl.rules/openl-openapi-parser@5.27.5
+- pkg:maven/org.openl.rules/openl-openapi-parser@5.27.5?classifier=sources

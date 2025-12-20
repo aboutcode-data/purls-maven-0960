@@ -224,5 +224,8 @@
 - pkg:maven/org.opendaylight.controller/sal-distributed-datastore@8.0.3
 - pkg:maven/org.opendaylight.controller/sal-distributed-datastore@8.0.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-distributed-datastore@8.0.4?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-distributed-datastore@8.0.5?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-distributed-datastore@9.0.0
 - pkg:maven/org.opendaylight.controller/sal-distributed-datastore@9.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-distributed-datastore@9.0.1?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-distributed-datastore@9.0.2?classifier=sources

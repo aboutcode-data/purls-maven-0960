@@ -6,3 +6,5 @@
 - pkg:maven/de.jplag/language-api@4.2.0?classifier=sources
 - pkg:maven/de.jplag/language-api@4.3.0
 - pkg:maven/de.jplag/language-api@4.3.0?classifier=sources
+- pkg:maven/de.jplag/language-api@5.0.0
+- pkg:maven/de.jplag/language-api@5.0.0?classifier=sources

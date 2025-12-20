@@ -61,3 +61,6 @@
 - pkg:maven/org.wildfly.discovery/wildfly-discovery-client@1.2.1.Final
 - pkg:maven/org.wildfly.discovery/wildfly-discovery-client@1.2.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.discovery/wildfly-discovery-client@1.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly.discovery/wildfly-discovery-client@1.2.2.Final
+- pkg:maven/org.wildfly.discovery/wildfly-discovery-client@1.2.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.discovery/wildfly-discovery-client@1.2.2.Final?classifier=sources

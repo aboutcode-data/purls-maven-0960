@@ -1,2 +1,4 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.77.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.77.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.78.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.79.0?classifier=sources

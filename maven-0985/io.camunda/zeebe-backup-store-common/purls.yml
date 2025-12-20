@@ -1,0 +1,4 @@
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.5.0-RC1
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.5.0-RC1?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.5.0-alpha2
+- pkg:maven/io.camunda/zeebe-backup-store-common@8.5.0-alpha2?classifier=sources

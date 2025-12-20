@@ -26,3 +26,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.db.partition.test.util@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.db.partition.test.util@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.db.partition.test.util@3.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.db.partition.test.util@3.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.db.partition.test.util@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.db.partition.test.util@4.1.0?classifier=sources

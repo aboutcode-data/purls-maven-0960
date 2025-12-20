@@ -1,3 +1,5 @@
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.13@0.0.100
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.13@0.0.100?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.13@0.0.24
 - pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.13@0.0.24?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.13@0.0.25

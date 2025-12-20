@@ -143,6 +143,8 @@
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-10?classifier=sources
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-12
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-12?classifier=sources
+- pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-13
+- pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-13?classifier=sources
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-2
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-2?classifier=sources
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-alpha-3

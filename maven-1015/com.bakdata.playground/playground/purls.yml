@@ -1,1 +1,4 @@
+- pkg:maven/com.bakdata.playground/playground@1.0.13?classifier=sources
 - pkg:maven/com.bakdata.playground/playground@1.0.9?classifier=sources
+- pkg:maven/com.bakdata.playground/playground@1.1.0?classifier=sources
+- pkg:maven/com.bakdata.playground/playground@1.1.1?classifier=sources

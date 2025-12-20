@@ -6,3 +6,5 @@
 - pkg:maven/com.senzhikong/depend-module@1.0.5?classifier=sources
 - pkg:maven/com.senzhikong/depend-module@1.1.0
 - pkg:maven/com.senzhikong/depend-module@1.1.0?classifier=sources
+- pkg:maven/com.senzhikong/depend-module@1.1.1
+- pkg:maven/com.senzhikong/depend-module@1.1.1?classifier=sources

@@ -8,6 +8,14 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@15.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@15.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@18.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@19.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@19.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@20.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@20.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/maven-package-manager@7.0.0?classifier=sources

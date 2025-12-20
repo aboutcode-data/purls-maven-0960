@@ -4,6 +4,9 @@
 - pkg:maven/com.steamstreet/awskt-lambda-api-gateway@1.0.24?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-api-gateway@1.0.25?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.0?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.10?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.11?classifier=sources
+- pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.12?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.1?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.2?classifier=sources
 - pkg:maven/com.steamstreet/awskt-lambda-api-gateway@2.0.3?classifier=sources

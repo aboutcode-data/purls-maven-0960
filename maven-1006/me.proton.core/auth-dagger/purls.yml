@@ -36,6 +36,7 @@
 - pkg:maven/me.proton.core/auth-dagger@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@18.4.1?classifier=sources
@@ -43,6 +44,9 @@
 - pkg:maven/me.proton.core/auth-dagger@19.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/auth-dagger@21.2.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@9.0.1?classifier=sources
 - pkg:maven/me.proton.core/auth-dagger@9.0.2?classifier=sources

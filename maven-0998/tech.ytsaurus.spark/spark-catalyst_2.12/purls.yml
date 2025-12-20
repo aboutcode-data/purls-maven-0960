@@ -8,3 +8,5 @@
 - pkg:maven/tech.ytsaurus.spark/spark-catalyst_2.12@1.74.0?classifier=sources
 - pkg:maven/tech.ytsaurus.spark/spark-catalyst_2.12@1.75.0
 - pkg:maven/tech.ytsaurus.spark/spark-catalyst_2.12@1.75.0?classifier=sources
+- pkg:maven/tech.ytsaurus.spark/spark-catalyst_2.12@1.77.0
+- pkg:maven/tech.ytsaurus.spark/spark-catalyst_2.12@1.77.0?classifier=sources

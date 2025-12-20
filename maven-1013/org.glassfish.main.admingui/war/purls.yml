@@ -70,6 +70,10 @@
 - pkg:maven/org.glassfish.main.admingui/war@7.0.11?type=war
 - pkg:maven/org.glassfish.main.admingui/war@7.0.12?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@7.0.12?type=war
+- pkg:maven/org.glassfish.main.admingui/war@7.0.13?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@7.0.13?type=war
+- pkg:maven/org.glassfish.main.admingui/war@7.0.14?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@7.0.14?type=war
 - pkg:maven/org.glassfish.main.admingui/war@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@7.0.1?type=war
 - pkg:maven/org.glassfish.main.admingui/war@7.0.2?classifier=sources
@@ -92,3 +96,5 @@
 - pkg:maven/org.glassfish.main.admingui/war@8.0.0-M1?type=war
 - pkg:maven/org.glassfish.main.admingui/war@8.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@8.0.0-M2?type=war
+- pkg:maven/org.glassfish.main.admingui/war@8.0.0-M3?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@8.0.0-M3?type=war

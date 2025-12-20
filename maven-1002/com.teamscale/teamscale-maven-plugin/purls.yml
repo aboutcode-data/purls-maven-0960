@@ -60,3 +60,9 @@
 - pkg:maven/com.teamscale/teamscale-maven-plugin@32.6.3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-maven-plugin@33.0.0
 - pkg:maven/com.teamscale/teamscale-maven-plugin@33.0.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-maven-plugin@33.1.0
+- pkg:maven/com.teamscale/teamscale-maven-plugin@33.1.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-maven-plugin@33.1.1
+- pkg:maven/com.teamscale/teamscale-maven-plugin@33.1.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-maven-plugin@33.1.2
+- pkg:maven/com.teamscale/teamscale-maven-plugin@33.1.2?classifier=sources

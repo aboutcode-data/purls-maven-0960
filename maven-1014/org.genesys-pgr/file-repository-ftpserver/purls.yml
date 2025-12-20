@@ -21,3 +21,4 @@
 - pkg:maven/org.genesys-pgr/file-repository-ftpserver@5.1
 - pkg:maven/org.genesys-pgr/file-repository-ftpserver@5.1?classifier=sources
 - pkg:maven/org.genesys-pgr/file-repository-ftpserver@5.2?classifier=sources
+- pkg:maven/org.genesys-pgr/file-repository-ftpserver@5.3?classifier=sources

@@ -397,6 +397,8 @@
 - pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.1.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.10.Final
 - pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.10.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.11.Final
+- pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.11.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.2.Final
 - pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-container-image-s2i-deployment@3.2.3.Final

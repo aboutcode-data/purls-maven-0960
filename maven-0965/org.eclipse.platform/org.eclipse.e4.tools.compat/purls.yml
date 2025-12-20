@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.compat@4.9.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.compat@4.9.200
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.compat@4.9.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.compat@4.9.300
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.compat@4.9.300?classifier=sources

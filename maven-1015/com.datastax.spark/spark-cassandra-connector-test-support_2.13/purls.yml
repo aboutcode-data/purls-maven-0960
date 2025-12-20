@@ -1,2 +1,4 @@
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.13@3.4.1
 - pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.13@3.4.1?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.13@3.5.0
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.13@3.5.0?classifier=sources

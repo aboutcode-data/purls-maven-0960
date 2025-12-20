@@ -55,6 +55,8 @@
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.0
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.0?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.1
+- pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.10
+- pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.10?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.1?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.2
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.1.2?classifier=sources
@@ -78,3 +80,5 @@
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.2.1?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.2.2
 - pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.2.2?classifier=sources
+- pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.2.3
+- pkg:maven/org.springframework.shell/spring-shell-autoconfigure@3.2.3?classifier=sources

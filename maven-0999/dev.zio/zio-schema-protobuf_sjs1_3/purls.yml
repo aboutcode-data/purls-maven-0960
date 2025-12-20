@@ -36,3 +36,7 @@
 - pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@0.4.8?classifier=sources
 - pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@0.4.9
 - pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@0.4.9?classifier=sources
+- pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@1.0.0
+- pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@1.0.0?classifier=sources
+- pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@1.0.1
+- pkg:maven/dev.zio/zio-schema-protobuf_sjs1_3@1.0.1?classifier=sources

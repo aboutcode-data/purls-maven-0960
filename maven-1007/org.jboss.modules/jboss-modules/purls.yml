@@ -111,6 +111,8 @@
 - pkg:maven/org.jboss.modules/jboss-modules@1.12.1.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.12.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.modules/jboss-modules@1.12.2.Final?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@1.12.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@1.12.3.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.2.0.CR1
 - pkg:maven/org.jboss.modules/jboss-modules@1.2.0.CR1?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@1.2.0.CR2
@@ -349,3 +351,5 @@
 - pkg:maven/org.jboss.modules/jboss-modules@2.1.2.Final?classifier=sources
 - pkg:maven/org.jboss.modules/jboss-modules@2.1.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.modules/jboss-modules@2.1.3.Final?classifier=sources
+- pkg:maven/org.jboss.modules/jboss-modules@2.1.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.modules/jboss-modules@2.1.4.Final?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.typelevel/otel4s-sdk_3@0.5.0
+- pkg:maven/org.typelevel/otel4s-sdk_3@0.5.0-RC2
+- pkg:maven/org.typelevel/otel4s-sdk_3@0.5.0-RC2?classifier=sources
+- pkg:maven/org.typelevel/otel4s-sdk_3@0.5.0-RC3
+- pkg:maven/org.typelevel/otel4s-sdk_3@0.5.0-RC3?classifier=sources
+- pkg:maven/org.typelevel/otel4s-sdk_3@0.5.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.inverno.mod/inverno-web-server@1.7.0
 - pkg:maven/io.inverno.mod/inverno-web-server@1.7.0?classifier=sources
+- pkg:maven/io.inverno.mod/inverno-web-server@1.7.1
+- pkg:maven/io.inverno.mod/inverno-web-server@1.7.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jqassistant.plugin/jqassistant-docker-plugin@2.0.0
 - pkg:maven/org.jqassistant.plugin/jqassistant-docker-plugin@2.0.0?classifier=sources
+- pkg:maven/org.jqassistant.plugin/jqassistant-docker-plugin@2.1.0
+- pkg:maven/org.jqassistant.plugin/jqassistant-docker-plugin@2.1.0?classifier=sources

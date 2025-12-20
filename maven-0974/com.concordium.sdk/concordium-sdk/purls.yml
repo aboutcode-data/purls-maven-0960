@@ -1,2 +1,4 @@
 - pkg:maven/com.concordium.sdk/concordium-sdk@6.1.0
 - pkg:maven/com.concordium.sdk/concordium-sdk@6.1.0?classifier=sources
+- pkg:maven/com.concordium.sdk/concordium-sdk@7.0.0
+- pkg:maven/com.concordium.sdk/concordium-sdk@7.0.0?classifier=sources

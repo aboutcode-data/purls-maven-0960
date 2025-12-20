@@ -30,8 +30,14 @@
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.27?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.28?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.28?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.29?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.29?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.2?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.2?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.31?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.31?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.32?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.32?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.3?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.3?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core-selenium4@5.0.4?classifier=sources

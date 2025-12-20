@@ -453,6 +453,10 @@
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@6.20.97.2
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@6.20.97.2?classifier=sources
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.1
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.10
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.10?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.11
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.11?classifier=sources
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.2
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.2?classifier=sources
@@ -462,3 +466,9 @@
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.4?classifier=sources
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.5
 - pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.5?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.7
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.7?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.8
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.8?classifier=sources
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.9
+- pkg:maven/dev.zio/zio-aws-kinesisvideomedia_3@7.21.15.9?classifier=sources

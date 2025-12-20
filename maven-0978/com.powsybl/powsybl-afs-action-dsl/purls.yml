@@ -28,3 +28,5 @@
 - pkg:maven/com.powsybl/powsybl-afs-action-dsl@5.0.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-action-dsl@5.1.0
 - pkg:maven/com.powsybl/powsybl-afs-action-dsl@5.1.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-action-dsl@6.0.0-RC2
+- pkg:maven/com.powsybl/powsybl-afs-action-dsl@6.0.0-RC2?classifier=sources

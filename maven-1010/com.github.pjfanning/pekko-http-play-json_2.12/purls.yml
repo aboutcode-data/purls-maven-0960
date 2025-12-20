@@ -16,3 +16,5 @@
 - pkg:maven/com.github.pjfanning/pekko-http-play-json_2.12@2.3.3?classifier=sources
 - pkg:maven/com.github.pjfanning/pekko-http-play-json_2.12@2.3.4
 - pkg:maven/com.github.pjfanning/pekko-http-play-json_2.12@2.3.4?classifier=sources
+- pkg:maven/com.github.pjfanning/pekko-http-play-json_2.12@2.4.0
+- pkg:maven/com.github.pjfanning/pekko-http-play-json_2.12@2.4.0?classifier=sources

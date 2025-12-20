@@ -38,3 +38,5 @@
 - pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2023.10.1?classifier=sources
 - pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2023.11.1
 - pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2023.11.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2024.03.1
+- pkg:maven/com.google.zetasql/zetasql-jni-channel-linux@2024.03.1?classifier=sources

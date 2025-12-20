@@ -97,6 +97,9 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@22.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.1.0
@@ -401,6 +404,7 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@5.3.1
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@5.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@5.3.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@5.3.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.0.0?classifier=sources-commercial
@@ -533,6 +537,7 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.3.1
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.3.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@6.3.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.0.0?classifier=sources-commercial
@@ -661,6 +666,7 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@7.7.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@8.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@8.0.0?classifier=sources-commercial

@@ -20,6 +20,8 @@
 - pkg:maven/dev.voidframework/voidframework-migration-flyway@1.11.2?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-migration-flyway@1.12.0
 - pkg:maven/dev.voidframework/voidframework-migration-flyway@1.12.0?classifier=sources
+- pkg:maven/dev.voidframework/voidframework-migration-flyway@1.13.0
+- pkg:maven/dev.voidframework/voidframework-migration-flyway@1.13.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-migration-flyway@1.2.0
 - pkg:maven/dev.voidframework/voidframework-migration-flyway@1.2.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-migration-flyway@1.2.1

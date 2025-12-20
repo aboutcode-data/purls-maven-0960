@@ -99,6 +99,8 @@
 - pkg:maven/org.apereo.cas/cas-server-support-themes-core@7.0.0-RC9?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-themes-core@7.0.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-themes-core@7.0.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-themes-core@7.0.2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-themes-core@7.1.0-RC1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-themes-core@7.1.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-themes-core@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-themes-core@v6.4.0-RC6?classifier=sources

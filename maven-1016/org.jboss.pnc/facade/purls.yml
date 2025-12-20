@@ -38,3 +38,7 @@
 - pkg:maven/org.jboss.pnc/facade@2.5.1?classifier=sources
 - pkg:maven/org.jboss.pnc/facade@2.6.10
 - pkg:maven/org.jboss.pnc/facade@2.6.10?classifier=sources
+- pkg:maven/org.jboss.pnc/facade@2.7.3
+- pkg:maven/org.jboss.pnc/facade@2.7.3?classifier=sources
+- pkg:maven/org.jboss.pnc/facade@2.7.4
+- pkg:maven/org.jboss.pnc/facade@2.7.4?classifier=sources

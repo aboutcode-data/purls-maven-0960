@@ -30,3 +30,5 @@
 - pkg:maven/org.opennms.features.graph/org.opennms.features.graph.api@33.0.0?classifier=sources
 - pkg:maven/org.opennms.features.graph/org.opennms.features.graph.api@33.0.1
 - pkg:maven/org.opennms.features.graph/org.opennms.features.graph.api@33.0.1?classifier=sources
+- pkg:maven/org.opennms.features.graph/org.opennms.features.graph.api@33.0.2
+- pkg:maven/org.opennms.features.graph/org.opennms.features.graph.api@33.0.2?classifier=sources

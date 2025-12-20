@@ -192,6 +192,8 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.40?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.41?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.42?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.42?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@2.4?type=war
@@ -234,6 +236,8 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.11?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.12?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.13?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.13?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.0.1?type=war
@@ -280,3 +284,7 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.1.4?type=war
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.1.5?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.1.5?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.1.6?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@3.1.6?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@4.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-webapp@4.0.0-M1?type=war

@@ -40,3 +40,5 @@
 - pkg:maven/org.openidentityplatform.openam.auth.modules/uricall@14.8.2.3?type=war
 - pkg:maven/org.openidentityplatform.openam.auth.modules/uricall@14.8.3.1?classifier=sources
 - pkg:maven/org.openidentityplatform.openam.auth.modules/uricall@14.8.3.1?type=war
+- pkg:maven/org.openidentityplatform.openam.auth.modules/uricall@14.8.4.1?classifier=sources
+- pkg:maven/org.openidentityplatform.openam.auth.modules/uricall@14.8.4.1?type=war

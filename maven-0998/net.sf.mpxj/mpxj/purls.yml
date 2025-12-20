@@ -102,6 +102,10 @@
 - pkg:maven/net.sf.mpxj/mpxj@12.6.0?classifier=sources
 - pkg:maven/net.sf.mpxj/mpxj@12.7.0
 - pkg:maven/net.sf.mpxj/mpxj@12.7.0?classifier=sources
+- pkg:maven/net.sf.mpxj/mpxj@12.8.0
+- pkg:maven/net.sf.mpxj/mpxj@12.8.0?classifier=sources
+- pkg:maven/net.sf.mpxj/mpxj@12.8.1
+- pkg:maven/net.sf.mpxj/mpxj@12.8.1?classifier=sources
 - pkg:maven/net.sf.mpxj/mpxj@4.7.1
 - pkg:maven/net.sf.mpxj/mpxj@4.7.1?classifier=sources
 - pkg:maven/net.sf.mpxj/mpxj@4.7.2

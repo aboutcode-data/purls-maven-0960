@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.reconciler.dropins@1.5.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.reconciler.dropins@1.5.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.reconciler.dropins@1.5.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.reconciler.dropins@1.5.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.reconciler.dropins@1.5.300?classifier=sources

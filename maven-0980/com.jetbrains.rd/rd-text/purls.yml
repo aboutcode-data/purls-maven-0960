@@ -28,3 +28,5 @@
 - pkg:maven/com.jetbrains.rd/rd-text@2023.2.3?classifier=sources
 - pkg:maven/com.jetbrains.rd/rd-text@2023.3.0?classifier=sources
 - pkg:maven/com.jetbrains.rd/rd-text@2023.3.2?classifier=sources
+- pkg:maven/com.jetbrains.rd/rd-text@2024.1.0?classifier=sources
+- pkg:maven/com.jetbrains.rd/rd-text@2024.1.1?classifier=sources

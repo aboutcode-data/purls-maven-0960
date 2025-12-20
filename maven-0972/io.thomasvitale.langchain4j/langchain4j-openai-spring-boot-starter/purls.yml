@@ -8,3 +8,5 @@
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-openai-spring-boot-starter@0.6.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-openai-spring-boot-starter@0.6.1?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-openai-spring-boot-starter@0.7.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-openai-spring-boot-starter@0.8.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-openai-spring-boot-starter@0.9.0?classifier=sources

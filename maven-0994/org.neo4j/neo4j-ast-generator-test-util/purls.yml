@@ -2,3 +2,7 @@
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.16.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.17.0
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.17.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.18.0
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.18.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.18.1
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.18.1?classifier=sources

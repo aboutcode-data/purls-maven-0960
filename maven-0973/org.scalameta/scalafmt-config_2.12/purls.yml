@@ -86,3 +86,5 @@
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.9?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.8.0
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.8.0?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-config_2.12@3.8.1
+- pkg:maven/org.scalameta/scalafmt-config_2.12@3.8.1?classifier=sources

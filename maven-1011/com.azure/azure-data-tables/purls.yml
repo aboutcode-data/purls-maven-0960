@@ -43,7 +43,9 @@
 - pkg:maven/com.azure/azure-data-tables@12.3.16?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.17?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.18?classifier=sources
+- pkg:maven/com.azure/azure-data-tables@12.3.19?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.1?classifier=sources
+- pkg:maven/com.azure/azure-data-tables@12.3.20?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.2?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.3?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.4?classifier=sources
@@ -52,3 +54,4 @@
 - pkg:maven/com.azure/azure-data-tables@12.3.7?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.8?classifier=sources
 - pkg:maven/com.azure/azure-data-tables@12.3.9?classifier=sources
+- pkg:maven/com.azure/azure-data-tables@12.4.0-beta.1?classifier=sources

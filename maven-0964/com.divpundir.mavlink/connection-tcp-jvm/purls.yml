@@ -2,3 +2,5 @@
 - pkg:maven/com.divpundir.mavlink/connection-tcp-jvm@1.2.0-dev.3?classifier=sources
 - pkg:maven/com.divpundir.mavlink/connection-tcp-jvm@1.2.0?classifier=sources
 - pkg:maven/com.divpundir.mavlink/connection-tcp-jvm@1.2.1-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/connection-tcp-jvm@1.2.2?classifier=sources
+- pkg:maven/com.divpundir.mavlink/connection-tcp-jvm@1.2.3?classifier=sources

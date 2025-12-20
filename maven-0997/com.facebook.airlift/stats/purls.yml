@@ -46,3 +46,5 @@
 - pkg:maven/com.facebook.airlift/stats@0.206?classifier=sources
 - pkg:maven/com.facebook.airlift/stats@0.207
 - pkg:maven/com.facebook.airlift/stats@0.207?classifier=sources
+- pkg:maven/com.facebook.airlift/stats@0.209
+- pkg:maven/com.facebook.airlift/stats@0.209?classifier=sources

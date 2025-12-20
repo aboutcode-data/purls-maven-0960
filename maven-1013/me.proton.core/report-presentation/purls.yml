@@ -36,6 +36,7 @@
 - pkg:maven/me.proton.core/report-presentation@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@18.4.1?classifier=sources
@@ -43,6 +44,9 @@
 - pkg:maven/me.proton.core/report-presentation@19.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/report-presentation@21.2.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@5.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-presentation@5.0.1?classifier=sources

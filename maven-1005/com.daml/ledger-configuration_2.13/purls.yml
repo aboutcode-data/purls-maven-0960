@@ -403,6 +403,10 @@
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.16?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.17
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.17?classifier=sources
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.18
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.18-snapshot.20240312.10137.0.v850738ed
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.18-snapshot.20240312.10137.0.v850738ed?classifier=sources
+- pkg:maven/com.daml/ledger-configuration_2.13@2.3.18?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.1?classifier=sources
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.2
 - pkg:maven/com.daml/ledger-configuration_2.13@2.3.2?classifier=sources

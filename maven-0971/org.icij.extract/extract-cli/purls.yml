@@ -132,3 +132,5 @@
 - pkg:maven/org.icij.extract/extract-cli@6.5.3?classifier=sources
 - pkg:maven/org.icij.extract/extract-cli@6.6.0
 - pkg:maven/org.icij.extract/extract-cli@6.6.0?classifier=sources
+- pkg:maven/org.icij.extract/extract-cli@6.7.1
+- pkg:maven/org.icij.extract/extract-cli@6.7.1?classifier=sources

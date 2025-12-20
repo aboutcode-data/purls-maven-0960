@@ -1,3 +1,7 @@
 - pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.0-alpha.5?classifier=sources
 - pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.0?classifier=sources
 - pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.1-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.1?classifier=sources
+- pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.2-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.2?classifier=sources
+- pkg:maven/com.divpundir.mavlink/serialization-watchosarm32@1.2.3?classifier=sources

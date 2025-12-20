@@ -1,2 +1,4 @@
 - pkg:maven/org.frankframework/frankframework-console-backend@8.0.0
 - pkg:maven/org.frankframework/frankframework-console-backend@8.0.0?classifier=sources
+- pkg:maven/org.frankframework/frankframework-console-backend@8.1.0-RC1
+- pkg:maven/org.frankframework/frankframework-console-backend@8.1.0-RC1?classifier=sources

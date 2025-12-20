@@ -25,6 +25,8 @@
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.17?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.18
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.18?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.19
+- pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.19?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.2
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.0.2?classifier=sources
@@ -45,6 +47,8 @@
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.0
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.0?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.1
+- pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.10
+- pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.10?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.2
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.1.2?classifier=sources
@@ -72,3 +76,5 @@
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.2.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.2.3
 - pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.2.3?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.2.4
+- pkg:maven/io.gravitee.apim.plugin.reactor/gravitee-apim-plugin-reactor-handler@4.2.4?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/ch.epfl.scala/spec@2.2.0-M1.alpha
 - pkg:maven/ch.epfl.scala/spec@2.2.0-M1.alpha?classifier=sources
 - pkg:maven/ch.epfl.scala/spec@2.2.0-M1?classifier=sources
+- pkg:maven/ch.epfl.scala/spec@2.2.0-M2
+- pkg:maven/ch.epfl.scala/spec@2.2.0-M2?classifier=sources

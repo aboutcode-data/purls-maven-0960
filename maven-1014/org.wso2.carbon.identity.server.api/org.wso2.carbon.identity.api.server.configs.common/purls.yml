@@ -436,6 +436,10 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.172?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.17?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.18
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.181
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.181?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.182
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.182?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.18?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.19
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.configs.common@1.2.19?classifier=sources
