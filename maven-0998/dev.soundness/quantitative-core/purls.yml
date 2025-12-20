@@ -18,5 +18,9 @@
 - pkg:maven/dev.soundness/quantitative-core@0.23.0?classifier=sources
 - pkg:maven/dev.soundness/quantitative-core@0.24.0
 - pkg:maven/dev.soundness/quantitative-core@0.24.0?classifier=sources
+- pkg:maven/dev.soundness/quantitative-core@0.25.0
+- pkg:maven/dev.soundness/quantitative-core@0.25.0?classifier=sources
+- pkg:maven/dev.soundness/quantitative-core@0.26.0
+- pkg:maven/dev.soundness/quantitative-core@0.26.0?classifier=sources
 - pkg:maven/dev.soundness/quantitative-core@0.3.0
 - pkg:maven/dev.soundness/quantitative-core@0.3.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.typelevel/cats-kernel_native0.5_2.12@2.12.0
 - pkg:maven/org.typelevel/cats-kernel_native0.5_2.12@2.12.0?classifier=sources
+- pkg:maven/org.typelevel/cats-kernel_native0.5_2.12@2.13.0
+- pkg:maven/org.typelevel/cats-kernel_native0.5_2.12@2.13.0?classifier=sources

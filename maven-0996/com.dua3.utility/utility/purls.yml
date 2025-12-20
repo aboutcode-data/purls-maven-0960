@@ -123,7 +123,10 @@
 - pkg:maven/com.dua3.utility/utility@15.0.0?classifier=sources
 - pkg:maven/com.dua3.utility/utility@15.0.1?classifier=sources
 - pkg:maven/com.dua3.utility/utility@15.0.2?classifier=sources
+- pkg:maven/com.dua3.utility/utility@15.1.0-rc2?classifier=sources
 - pkg:maven/com.dua3.utility/utility@15.1.0-rc?classifier=sources
+- pkg:maven/com.dua3.utility/utility@15.1.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility@15.1.1?classifier=sources
 - pkg:maven/com.dua3.utility/utility@9-beta10?classifier=sources
 - pkg:maven/com.dua3.utility/utility@9-beta11?classifier=sources
 - pkg:maven/com.dua3.utility/utility@9-beta13?classifier=sources

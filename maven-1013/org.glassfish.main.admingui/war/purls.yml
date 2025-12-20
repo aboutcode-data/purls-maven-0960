@@ -90,6 +90,8 @@
 - pkg:maven/org.glassfish.main.admingui/war@7.0.20?type=war
 - pkg:maven/org.glassfish.main.admingui/war@7.0.21?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@7.0.21?type=war
+- pkg:maven/org.glassfish.main.admingui/war@7.0.22?classifier=sources
+- pkg:maven/org.glassfish.main.admingui/war@7.0.22?type=war
 - pkg:maven/org.glassfish.main.admingui/war@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.admingui/war@7.0.2?type=war
 - pkg:maven/org.glassfish.main.admingui/war@7.0.3?classifier=sources

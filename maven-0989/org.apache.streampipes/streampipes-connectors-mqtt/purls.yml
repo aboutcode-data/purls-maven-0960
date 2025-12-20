@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-connectors-mqtt@0.95.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-connectors-mqtt@0.95.1
 - pkg:maven/org.apache.streampipes/streampipes-connectors-mqtt@0.95.1?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-connectors-mqtt@0.97.0
+- pkg:maven/org.apache.streampipes/streampipes-connectors-mqtt@0.97.0?classifier=sources

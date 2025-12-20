@@ -863,7 +863,17 @@
 - pkg:maven/com.yahoo.vespa/service-monitor@8.456.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/service-monitor@8.457.32?classifier=sources
 - pkg:maven/com.yahoo.vespa/service-monitor@8.458.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.459.67?classifier=sources
 - pkg:maven/com.yahoo.vespa/service-monitor@8.46.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.460.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.461.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.463.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.464.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.465.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.466.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.467.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.468.7?classifier=sources
+- pkg:maven/com.yahoo.vespa/service-monitor@8.469.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/service-monitor@8.47.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/service-monitor@8.48.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/service-monitor@8.51.18?classifier=sources

@@ -19,6 +19,8 @@
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.13_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.14_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.17_cloud?classifier=sources
+- pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.18_cloud?classifier=sources
+- pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.19_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.2_cloud?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.2_onprem_test?classifier=sources
 - pkg:maven/com.testsigma/testsigma-addon-archetype@1.2.3_cloud?classifier=sources

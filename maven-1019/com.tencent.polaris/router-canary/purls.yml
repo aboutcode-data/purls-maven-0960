@@ -158,3 +158,5 @@
 - pkg:maven/com.tencent.polaris/router-canary@2.0.0.0-RC5
 - pkg:maven/com.tencent.polaris/router-canary@2.0.0.0-RC5?classifier=sources
 - pkg:maven/com.tencent.polaris/router-canary@2.0.0.0?classifier=sources
+- pkg:maven/com.tencent.polaris/router-canary@2.0.0.1
+- pkg:maven/com.tencent.polaris/router-canary@2.0.0.1?classifier=sources

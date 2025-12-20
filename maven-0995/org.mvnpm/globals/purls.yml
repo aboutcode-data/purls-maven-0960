@@ -11,6 +11,7 @@
 - pkg:maven/org.mvnpm/globals@15.12.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.13.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.14.0?classifier=sources
+- pkg:maven/org.mvnpm/globals@15.15.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.2.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.3.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.4.0?classifier=sources
@@ -19,3 +20,5 @@
 - pkg:maven/org.mvnpm/globals@15.7.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.8.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.9.0?classifier=sources
+- pkg:maven/org.mvnpm/globals@16.0.0?classifier=sources
+- pkg:maven/org.mvnpm/globals@9.18.0?classifier=sources

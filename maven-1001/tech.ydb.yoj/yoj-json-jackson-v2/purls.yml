@@ -73,6 +73,10 @@
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.11?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.12
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.12?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.13
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.13?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.14
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.14?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.1?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.2
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.5.2?classifier=sources
@@ -102,3 +106,9 @@
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.4?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.5
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.5?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.6
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.6?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.7
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.7?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.8
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.8?classifier=sources

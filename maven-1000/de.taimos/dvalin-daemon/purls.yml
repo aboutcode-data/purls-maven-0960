@@ -57,6 +57,10 @@
 - pkg:maven/de.taimos/dvalin-daemon@1.34?classifier=sources
 - pkg:maven/de.taimos/dvalin-daemon@1.35
 - pkg:maven/de.taimos/dvalin-daemon@1.35?classifier=sources
+- pkg:maven/de.taimos/dvalin-daemon@1.36
+- pkg:maven/de.taimos/dvalin-daemon@1.36?classifier=sources
+- pkg:maven/de.taimos/dvalin-daemon@1.37
+- pkg:maven/de.taimos/dvalin-daemon@1.37?classifier=sources
 - pkg:maven/de.taimos/dvalin-daemon@1.3?classifier=sources
 - pkg:maven/de.taimos/dvalin-daemon@1.4
 - pkg:maven/de.taimos/dvalin-daemon@1.4?classifier=sources

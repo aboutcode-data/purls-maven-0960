@@ -14,3 +14,5 @@
 - pkg:maven/com.gu/pekko-stream-brotli_2.13@0.16?classifier=sources
 - pkg:maven/com.gu/pekko-stream-brotli_2.13@0.17.0
 - pkg:maven/com.gu/pekko-stream-brotli_2.13@0.17.0?classifier=sources
+- pkg:maven/com.gu/pekko-stream-brotli_2.13@0.18.0
+- pkg:maven/com.gu/pekko-stream-brotli_2.13@0.18.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.concordium.sdk/concordium-sdk@7.2.0?classifier=sources
 - pkg:maven/com.concordium.sdk/concordium-sdk@8.0.0
 - pkg:maven/com.concordium.sdk/concordium-sdk@8.0.0?classifier=sources
+- pkg:maven/com.concordium.sdk/concordium-sdk@9.0.0
+- pkg:maven/com.concordium.sdk/concordium-sdk@9.0.0?classifier=sources

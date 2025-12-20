@@ -45,6 +45,7 @@
 - pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.20?classifier=sources
 - pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.21?classifier=sources
+- pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.22?classifier=sources
 - pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.3?classifier=sources
 - pkg:maven/org.glassfish.main.cluster/cluster-admin@7.0.4?classifier=sources

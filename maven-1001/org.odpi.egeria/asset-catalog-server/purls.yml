@@ -84,4 +84,5 @@
 - pkg:maven/org.odpi.egeria/asset-catalog-server@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@5.0?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@5.1?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-catalog-server@5.2.1?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-catalog-server@5.2?classifier=sources

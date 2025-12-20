@@ -204,3 +204,5 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@3.1.9?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@4.0.0-M1
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@4.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@4.0.0-M2
+- pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@4.0.0-M2?classifier=sources

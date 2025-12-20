@@ -111,7 +111,11 @@
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.34.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.35.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.36.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.37.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.38.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.39.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.4.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.40.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.6.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-processor@8.7.0?classifier=sources

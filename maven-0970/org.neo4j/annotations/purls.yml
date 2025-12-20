@@ -1,3 +1,5 @@
+- pkg:maven/org.neo4j/annotations@2025.01.0
+- pkg:maven/org.neo4j/annotations@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.0.0
 - pkg:maven/org.neo4j/annotations@4.0.0-rc01
 - pkg:maven/org.neo4j/annotations@4.0.0-rc01?classifier=sources
@@ -215,6 +217,8 @@
 - pkg:maven/org.neo4j/annotations@4.4.4
 - pkg:maven/org.neo4j/annotations@4.4.40
 - pkg:maven/org.neo4j/annotations@4.4.40?classifier=sources
+- pkg:maven/org.neo4j/annotations@4.4.41
+- pkg:maven/org.neo4j/annotations@4.4.41?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/annotations@4.4.5
 - pkg:maven/org.neo4j/annotations@4.4.5?classifier=sources
@@ -272,6 +276,10 @@
 - pkg:maven/org.neo4j/annotations@5.25.1?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.26.0
 - pkg:maven/org.neo4j/annotations@5.26.0?classifier=sources
+- pkg:maven/org.neo4j/annotations@5.26.1
+- pkg:maven/org.neo4j/annotations@5.26.1?classifier=sources
+- pkg:maven/org.neo4j/annotations@5.26.2
+- pkg:maven/org.neo4j/annotations@5.26.2?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.3.0
 - pkg:maven/org.neo4j/annotations@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.4.0

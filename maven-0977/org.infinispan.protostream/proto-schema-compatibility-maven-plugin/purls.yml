@@ -1,9 +1,13 @@
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@15.0.13.Final
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@15.0.13.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.10.Final
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.10.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.11.Final
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.11.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.12.Final
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.12.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.13.Final
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.13.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.7.Final
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.8.Final
@@ -12,3 +16,9 @@
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@5.0.9.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev01
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev02
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev03
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev04
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev04?classifier=sources

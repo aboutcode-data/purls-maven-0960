@@ -133,3 +133,4 @@
 - pkg:maven/org.agrona/agrona@1.8.0?classifier=sources
 - pkg:maven/org.agrona/agrona@1.9.0?classifier=sources
 - pkg:maven/org.agrona/agrona@2.0.0?classifier=sources
+- pkg:maven/org.agrona/agrona@2.0.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.playframework/play-ebean_3@8.2.0?classifier=sources
 - pkg:maven/org.playframework/play-ebean_3@8.3.0
 - pkg:maven/org.playframework/play-ebean_3@8.3.0?classifier=sources
+- pkg:maven/org.playframework/play-ebean_3@9.0.0-M1
+- pkg:maven/org.playframework/play-ebean_3@9.0.0-M1?classifier=sources

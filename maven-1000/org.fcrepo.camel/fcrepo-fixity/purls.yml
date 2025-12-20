@@ -28,3 +28,9 @@
 - pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.0.0?classifier=sources
 - pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.1.0
 - pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.1.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.2.0
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.2.0-RC
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.2.0-RC?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.2.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.2.1
+- pkg:maven/org.fcrepo.camel/fcrepo-fixity@6.2.1?classifier=sources

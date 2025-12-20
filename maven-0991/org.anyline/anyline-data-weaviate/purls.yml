@@ -70,6 +70,8 @@
 - pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-20250108?classifier=sources
 - pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-20250109
 - pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-20250109?classifier=sources
+- pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-20250110
+- pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-20250110?classifier=sources
 - pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-weaviate@8.7.2-jdk11-20240819

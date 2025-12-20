@@ -286,3 +286,7 @@
 - pkg:maven/io.debezium/debezium-server-pubsub@3.0.5.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-server-pubsub@3.0.6.Final
 - pkg:maven/io.debezium/debezium-server-pubsub@3.0.6.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-pubsub@3.0.7.Final
+- pkg:maven/io.debezium/debezium-server-pubsub@3.0.7.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-server-pubsub@3.1.0.Alpha1
+- pkg:maven/io.debezium/debezium-server-pubsub@3.1.0.Alpha1?classifier=sources

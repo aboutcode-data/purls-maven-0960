@@ -2,3 +2,5 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.2.0.105762?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.3.0.106239?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.4.0.108396?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.5.0.109200?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.6.0.109712?classifier=sources

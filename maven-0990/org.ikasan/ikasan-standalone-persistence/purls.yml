@@ -50,6 +50,8 @@
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@3.3.5?classifier=sources
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@3.3.6
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@3.3.6?classifier=sources
+- pkg:maven/org.ikasan/ikasan-standalone-persistence@3.3.7
+- pkg:maven/org.ikasan/ikasan-standalone-persistence@3.3.7?classifier=sources
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@4.0.0
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@4.0.0?classifier=sources
 - pkg:maven/org.ikasan/ikasan-standalone-persistence@4.0.1

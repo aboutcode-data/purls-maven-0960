@@ -6,3 +6,4 @@
 - pkg:maven/org.mongodb.spark/mongo-spark-connector_2.13@10.2.3?classifier=sources
 - pkg:maven/org.mongodb.spark/mongo-spark-connector_2.13@10.3.0?classifier=sources
 - pkg:maven/org.mongodb.spark/mongo-spark-connector_2.13@10.4.0?classifier=sources
+- pkg:maven/org.mongodb.spark/mongo-spark-connector_2.13@10.4.1?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/org.jpmml/pmml-rexp@1.6.4?classifier=sources
 - pkg:maven/org.jpmml/pmml-rexp@1.6.5
 - pkg:maven/org.jpmml/pmml-rexp@1.6.5?classifier=sources
+- pkg:maven/org.jpmml/pmml-rexp@1.6.6
+- pkg:maven/org.jpmml/pmml-rexp@1.6.6?classifier=sources
+- pkg:maven/org.jpmml/pmml-rexp@1.7.0
+- pkg:maven/org.jpmml/pmml-rexp@1.7.0?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/io.castle/castle-java@2.4.2?classifier=sources
 - pkg:maven/io.castle/castle-java@2.4.3
 - pkg:maven/io.castle/castle-java@2.4.3?classifier=sources
+- pkg:maven/io.castle/castle-java@2.4.4
+- pkg:maven/io.castle/castle-java@2.4.4?classifier=sources

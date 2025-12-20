@@ -28,3 +28,4 @@
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.8.0-rc5?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.8.0-rc6?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.8.1?classifier=sources

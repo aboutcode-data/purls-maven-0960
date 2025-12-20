@@ -218,3 +218,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector@3.4.2?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector@3.4.3
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector@3.4.3?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector@3.4.4
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector@3.4.4?classifier=sources

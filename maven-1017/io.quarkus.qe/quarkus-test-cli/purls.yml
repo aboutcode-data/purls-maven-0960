@@ -251,6 +251,8 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta9?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.1
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.10
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.10?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.1?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.2
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.2?classifier=sources

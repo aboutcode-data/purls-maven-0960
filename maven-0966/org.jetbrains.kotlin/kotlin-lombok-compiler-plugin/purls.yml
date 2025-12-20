@@ -40,5 +40,9 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.10-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.20-Beta1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.20-Beta2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-lombok-compiler-plugin@2.1.20-RC?classifier=sources

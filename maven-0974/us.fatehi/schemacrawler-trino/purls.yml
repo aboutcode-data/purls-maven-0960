@@ -60,3 +60,5 @@
 - pkg:maven/us.fatehi/schemacrawler-trino@16.24.3?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-trino@16.25.1
 - pkg:maven/us.fatehi/schemacrawler-trino@16.25.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-trino@16.25.2
+- pkg:maven/us.fatehi/schemacrawler-trino@16.25.2?classifier=sources

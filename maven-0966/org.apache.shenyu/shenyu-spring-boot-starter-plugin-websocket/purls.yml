@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-websocket@2.6.0?classifier=sources
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-websocket@2.6.1
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-websocket@2.6.1?classifier=sources
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-websocket@2.7.0
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-websocket@2.7.0?classifier=sources

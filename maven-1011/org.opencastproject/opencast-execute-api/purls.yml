@@ -162,6 +162,10 @@
 - pkg:maven/org.opencastproject/opencast-execute-api@16.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-execute-api@16.7
 - pkg:maven/org.opencastproject/opencast-execute-api@16.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-execute-api@16.8
+- pkg:maven/org.opencastproject/opencast-execute-api@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-execute-api@16.9
+- pkg:maven/org.opencastproject/opencast-execute-api@16.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-execute-api@6.6
 - pkg:maven/org.opencastproject/opencast-execute-api@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-execute-api@7.2

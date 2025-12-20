@@ -37,6 +37,8 @@
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.1
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.10
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.10?classifier=sources
+- pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.11
+- pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.11?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.1?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.2
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.2?classifier=sources
@@ -54,3 +56,7 @@
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.8?classifier=sources
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.9
 - pkg:maven/org.jpmml/pmml-evaluator-testing@1.6.9?classifier=sources
+- pkg:maven/org.jpmml/pmml-evaluator-testing@1.7.0
+- pkg:maven/org.jpmml/pmml-evaluator-testing@1.7.0?classifier=sources
+- pkg:maven/org.jpmml/pmml-evaluator-testing@1.7.1
+- pkg:maven/org.jpmml/pmml-evaluator-testing@1.7.1?classifier=sources

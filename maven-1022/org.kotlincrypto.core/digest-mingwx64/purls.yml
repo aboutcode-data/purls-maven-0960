@@ -14,3 +14,5 @@
 - pkg:maven/org.kotlincrypto.core/digest-mingwx64@0.5.3?classifier=sources
 - pkg:maven/org.kotlincrypto.core/digest-mingwx64@0.5.4?classifier=sources
 - pkg:maven/org.kotlincrypto.core/digest-mingwx64@0.5.5?classifier=sources
+- pkg:maven/org.kotlincrypto.core/digest-mingwx64@0.6.0?classifier=sources
+- pkg:maven/org.kotlincrypto.core/digest-mingwx64@0.6.1?classifier=sources

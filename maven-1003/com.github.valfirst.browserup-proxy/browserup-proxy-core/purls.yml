@@ -46,3 +46,5 @@
 - pkg:maven/com.github.valfirst.browserup-proxy/browserup-proxy-core@2.2.9?classifier=sources
 - pkg:maven/com.github.valfirst.browserup-proxy/browserup-proxy-core@3.0.0
 - pkg:maven/com.github.valfirst.browserup-proxy/browserup-proxy-core@3.0.0?classifier=sources
+- pkg:maven/com.github.valfirst.browserup-proxy/browserup-proxy-core@3.0.1
+- pkg:maven/com.github.valfirst.browserup-proxy/browserup-proxy-core@3.0.1?classifier=sources

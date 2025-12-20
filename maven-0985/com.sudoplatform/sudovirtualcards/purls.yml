@@ -64,6 +64,8 @@
 - pkg:maven/com.sudoplatform/sudovirtualcards@17.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudovirtualcards@17.1.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudovirtualcards@17.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudovirtualcards@17.2.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudovirtualcards@17.2.0?type=aar
 - pkg:maven/com.sudoplatform/sudovirtualcards@2.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudovirtualcards@2.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudovirtualcards@2.1.0?classifier=sources

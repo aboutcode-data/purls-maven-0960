@@ -58,3 +58,5 @@
 - pkg:maven/uk.gov.nationalarchives/droid-export@6.8.0-RC4
 - pkg:maven/uk.gov.nationalarchives/droid-export@6.8.0-RC4?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/droid-export@6.8.0?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/droid-export@6.8.1
+- pkg:maven/uk.gov.nationalarchives/droid-export@6.8.1?classifier=sources

@@ -101,6 +101,8 @@
 - pkg:maven/org.opendaylight.yangtools/util@13.0.6?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@13.0.7?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@13.0.8?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/util@13.0.9
+- pkg:maven/org.opendaylight.yangtools/util@13.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@14.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@14.0.1
 - pkg:maven/org.opendaylight.yangtools/util@14.0.1?classifier=sources
@@ -110,6 +112,10 @@
 - pkg:maven/org.opendaylight.yangtools/util@14.0.5?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@14.0.6
 - pkg:maven/org.opendaylight.yangtools/util@14.0.6?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/util@14.0.7
+- pkg:maven/org.opendaylight.yangtools/util@14.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/util@14.0.8?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/util@14.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@2.0.0
 - pkg:maven/org.opendaylight.yangtools/util@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/util@2.0.1

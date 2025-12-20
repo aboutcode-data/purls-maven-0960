@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.storm/storm-jms@2.7.0?classifier=sources
 - pkg:maven/org.apache.storm/storm-jms@2.7.1
 - pkg:maven/org.apache.storm/storm-jms@2.7.1?classifier=sources
+- pkg:maven/org.apache.storm/storm-jms@2.8.0
+- pkg:maven/org.apache.storm/storm-jms@2.8.0?classifier=sources

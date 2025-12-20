@@ -42,6 +42,10 @@
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.15.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.16.0
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.16.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.17.0
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.17.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.18.0
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.18.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.2.0
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.2.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-spring@3.3.0

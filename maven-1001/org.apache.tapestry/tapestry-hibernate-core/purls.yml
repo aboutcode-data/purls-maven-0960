@@ -101,3 +101,4 @@
 - pkg:maven/org.apache.tapestry/tapestry-hibernate-core@5.8.7?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-hibernate-core@5.9.0-preview-2?classifier=sources
 - pkg:maven/org.apache.tapestry/tapestry-hibernate-core@5.9.0-preview?classifier=sources
+- pkg:maven/org.apache.tapestry/tapestry-hibernate-core@5.9.0?classifier=sources

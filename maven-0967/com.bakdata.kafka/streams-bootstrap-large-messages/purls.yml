@@ -23,3 +23,8 @@
 - pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.0.3?classifier=sources
 - pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.0.4?classifier=sources
 - pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.1.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.2.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.3.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.4.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.5.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages@3.5.1?classifier=sources

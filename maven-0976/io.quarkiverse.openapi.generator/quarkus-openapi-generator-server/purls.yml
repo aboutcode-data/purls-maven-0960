@@ -14,3 +14,5 @@
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.7.0?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.7.1-lts?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.7.1?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.8.0-lts?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.8.0?classifier=sources

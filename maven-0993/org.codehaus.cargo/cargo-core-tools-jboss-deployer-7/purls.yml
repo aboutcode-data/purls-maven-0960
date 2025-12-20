@@ -21,6 +21,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.15?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.16
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.16?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.17
+- pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.17?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.2
 - pkg:maven/org.codehaus.cargo/cargo-core-tools-jboss-deployer-7@1.10.2?classifier=sources

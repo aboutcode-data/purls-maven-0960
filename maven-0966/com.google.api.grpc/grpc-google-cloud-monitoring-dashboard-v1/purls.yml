@@ -178,6 +178,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.57.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.57.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.58.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.58.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-dashboard-v1@2.7.0

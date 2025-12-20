@@ -48,3 +48,7 @@
 - pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@4.0.1?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@5.0.0
 - pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@5.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@5.0.1
+- pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@5.0.1?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@5.1.0
+- pkg:maven/org.springframework.cloud.stream.app/bridge-processor-rabbit@5.1.0?classifier=sources

@@ -272,6 +272,8 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.17.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.18.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.18.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.19.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.19.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.2.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@1.5.3.Final
@@ -302,6 +304,12 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.10.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.10.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.11.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.11.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.12.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.12.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.13.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.13.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-core-impl@3.0.2.SP1

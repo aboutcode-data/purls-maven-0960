@@ -9,6 +9,8 @@
 - pkg:maven/io.v47.tmdb-api-client/standalone@3.4.0?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/standalone@4.0.0?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/standalone@4.1.0?classifier=sources
+- pkg:maven/io.v47.tmdb-api-client/standalone@4.10.0?classifier=sources
+- pkg:maven/io.v47.tmdb-api-client/standalone@4.10.1?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/standalone@4.2.0?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/standalone@4.2.1?classifier=sources
 - pkg:maven/io.v47.tmdb-api-client/standalone@4.3.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.opencrx/opencrx-buildSrc@6.0.0
+- pkg:maven/org.opencrx/opencrx-buildSrc@6.0.0?classifier=sources
+- pkg:maven/org.opencrx/opencrx-buildSrc@6.0.1
+- pkg:maven/org.opencrx/opencrx-buildSrc@6.0.1?classifier=sources

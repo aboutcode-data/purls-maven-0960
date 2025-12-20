@@ -1,0 +1,4 @@
+- pkg:maven/me.gulya.sqldelight/runtime-tvosarm64@2.0.2-wasm-web-worker-1?classifier=sources
+- pkg:maven/me.gulya.sqldelight/runtime-tvosarm64@2.0.2-wasm-web-worker-2?classifier=sources
+- pkg:maven/me.gulya.sqldelight/runtime-tvosarm64@2.0.2-wasm-web-worker-3?classifier=sources
+- pkg:maven/me.gulya.sqldelight/runtime-tvosarm64@2.1.0-wasm?classifier=sources

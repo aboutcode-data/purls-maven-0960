@@ -51,3 +51,5 @@
 - pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.7.1?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.7.3?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.8.0-alpha01?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.8.0-alpha02?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.8.0-alpha03?classifier=sources

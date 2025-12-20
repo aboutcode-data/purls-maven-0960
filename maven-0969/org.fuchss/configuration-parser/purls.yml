@@ -8,6 +8,8 @@
 - pkg:maven/org.fuchss/configuration-parser@1.12.2?classifier=sources
 - pkg:maven/org.fuchss/configuration-parser@1.12.4
 - pkg:maven/org.fuchss/configuration-parser@1.12.4?classifier=sources
+- pkg:maven/org.fuchss/configuration-parser@1.12.5
+- pkg:maven/org.fuchss/configuration-parser@1.12.5?classifier=sources
 - pkg:maven/org.fuchss/configuration-parser@1.6
 - pkg:maven/org.fuchss/configuration-parser@1.6.1
 - pkg:maven/org.fuchss/configuration-parser@1.6.1?classifier=sources

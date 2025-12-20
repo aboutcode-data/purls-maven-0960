@@ -1,3 +1,5 @@
+- pkg:maven/org.neo4j/test-proxy@2025.01.0
+- pkg:maven/org.neo4j/test-proxy@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/test-proxy@5.1.0
 - pkg:maven/org.neo4j/test-proxy@5.1.0?classifier=sources
 - pkg:maven/org.neo4j/test-proxy@5.10.0
@@ -44,6 +46,10 @@
 - pkg:maven/org.neo4j/test-proxy@5.25.1?classifier=sources
 - pkg:maven/org.neo4j/test-proxy@5.26.0
 - pkg:maven/org.neo4j/test-proxy@5.26.0?classifier=sources
+- pkg:maven/org.neo4j/test-proxy@5.26.1
+- pkg:maven/org.neo4j/test-proxy@5.26.1?classifier=sources
+- pkg:maven/org.neo4j/test-proxy@5.26.2
+- pkg:maven/org.neo4j/test-proxy@5.26.2?classifier=sources
 - pkg:maven/org.neo4j/test-proxy@5.3.0
 - pkg:maven/org.neo4j/test-proxy@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/test-proxy@5.4.0

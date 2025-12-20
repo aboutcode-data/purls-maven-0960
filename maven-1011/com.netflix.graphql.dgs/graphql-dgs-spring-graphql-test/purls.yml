@@ -1,5 +1,7 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@10.0.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@10.0.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@10.0.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@10.0.3?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@8.5.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@8.5.2?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-graphql-test@8.5.3?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.10?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.11
 - pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.11?classifier=sources
+- pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.12
+- pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.12?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.8
 - pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.8?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-scalafix_2.13@0.0.9

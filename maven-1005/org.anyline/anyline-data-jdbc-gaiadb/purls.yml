@@ -472,6 +472,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-20250107?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-20250108
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-20250108?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-20250110
+- pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-20250110?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-gaiadb@8.7.2-jdk11-20240826

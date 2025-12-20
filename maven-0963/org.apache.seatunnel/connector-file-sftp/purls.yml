@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.seatunnel/connector-file-sftp@2.3.7?classifier=sources
 - pkg:maven/org.apache.seatunnel/connector-file-sftp@2.3.8
 - pkg:maven/org.apache.seatunnel/connector-file-sftp@2.3.8?classifier=sources
+- pkg:maven/org.apache.seatunnel/connector-file-sftp@2.3.9
+- pkg:maven/org.apache.seatunnel/connector-file-sftp@2.3.9?classifier=sources

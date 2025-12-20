@@ -26,5 +26,8 @@
 - pkg:maven/si.inova.kotlinova/core-jvm@3.2.0?classifier=sources
 - pkg:maven/si.inova.kotlinova/core-jvm@3.2.1?classifier=sources
 - pkg:maven/si.inova.kotlinova/core-jvm@3.3.0?classifier=sources
+- pkg:maven/si.inova.kotlinova/core-jvm@3.4.0?classifier=sources
 - pkg:maven/si.inova.kotlinova/core-jvm@4.0.0-alpha01?classifier=sources
 - pkg:maven/si.inova.kotlinova/core-jvm@4.0.0-alpha02?classifier=sources
+- pkg:maven/si.inova.kotlinova/core-jvm@4.0.0-alpha03?classifier=sources
+- pkg:maven/si.inova.kotlinova/core-jvm@4.0.0-alpha04?classifier=sources

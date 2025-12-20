@@ -1,0 +1,4 @@
+- pkg:maven/org.openrefine/core@3.9-beta1
+- pkg:maven/org.openrefine/core@3.9-beta1?classifier=sources
+- pkg:maven/org.openrefine/core@3.9.0
+- pkg:maven/org.openrefine/core@3.9.0?classifier=sources

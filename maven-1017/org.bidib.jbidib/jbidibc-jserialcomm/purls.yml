@@ -119,6 +119,8 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.29?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.2?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.3
+- pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.30
+- pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.30?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.3?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.4
 - pkg:maven/org.bidib.jbidib/jbidibc-jserialcomm@2.0.4?classifier=sources

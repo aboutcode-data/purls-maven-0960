@@ -60,3 +60,7 @@
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.40.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.41.0
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.41.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.42.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.42.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.43.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-transform@0.43.0?classifier=sources

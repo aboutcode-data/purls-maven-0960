@@ -12,3 +12,5 @@
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.6?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.7
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.7?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.8
+- pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.8?classifier=sources

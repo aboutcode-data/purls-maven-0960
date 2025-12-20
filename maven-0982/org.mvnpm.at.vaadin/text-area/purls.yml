@@ -7,6 +7,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/text-area@23.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@23.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@23.5.11?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/text-area@23.5.12?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@24.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@24.0.5?classifier=sources
@@ -61,3 +62,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.0-alpha7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.2?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.4?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/text-area@24.6.5?classifier=sources

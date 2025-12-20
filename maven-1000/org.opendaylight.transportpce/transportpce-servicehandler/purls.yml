@@ -40,6 +40,8 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@10.0.1
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@10.1.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@10.2.0
+- pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@10.2.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.0.0
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-servicehandler@2.1.0

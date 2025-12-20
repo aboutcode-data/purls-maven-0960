@@ -63,8 +63,16 @@
 - pkg:maven/org.ossreviewtoolkit/helper-cli@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/helper-cli@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/helper-cli@6.1.1?classifier=sources

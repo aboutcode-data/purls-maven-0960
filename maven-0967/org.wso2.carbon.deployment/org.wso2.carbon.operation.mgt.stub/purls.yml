@@ -86,6 +86,9 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.2?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.3
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.31
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.31?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.31?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.3?classifier=sources
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.operation.mgt.stub@4.12.4

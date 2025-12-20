@@ -1,2 +1,4 @@
 - pkg:maven/de.gematik.bbriccs/raw-http-brick@0.1.10
 - pkg:maven/de.gematik.bbriccs/raw-http-brick@0.1.10?classifier=sources
+- pkg:maven/de.gematik.bbriccs/raw-http-brick@0.2.0
+- pkg:maven/de.gematik.bbriccs/raw-http-brick@0.2.0?classifier=sources

@@ -155,6 +155,7 @@
 - pkg:maven/com.pulumi/libvirt@0.5.2?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.3-alpha.1729802308?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.5.3?classifier=sources
+- pkg:maven/com.pulumi/libvirt@0.5.4?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.6.0-alpha.1727280169?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.6.0-alpha.1727847567?classifier=sources
 - pkg:maven/com.pulumi/libvirt@0.6.0-alpha.1727879333?classifier=sources

@@ -55,6 +55,8 @@
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.22.0-EFLUID
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.22.0-EFLUID?classifier=sources
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.22.0?classifier=sources
+- pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.22.1
+- pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.22.1?classifier=sources
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.7.1
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.8.0
 - pkg:maven/org.ow2.joram/joram-mom-extensions-mail@5.8.1

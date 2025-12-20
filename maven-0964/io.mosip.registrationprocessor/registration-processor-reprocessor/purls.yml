@@ -7,6 +7,8 @@
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.2.0.1-B3
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.2.0.1-B3?classifier=sources
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.2.0.1?classifier=sources
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.2.0.2
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.2.0.2?classifier=sources
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.2.0?classifier=sources
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.3.0-beta.1
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-reprocessor@1.3.0-beta.1?classifier=sources

@@ -318,3 +318,5 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@3.1.9?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@4.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@4.0.0-M1?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@4.0.0-M2?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@4.0.0-M2?type=war

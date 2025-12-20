@@ -160,6 +160,9 @@
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.2?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.30?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.31?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@1.3.32?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@1.3.33?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@1.3.34?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.3?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.4?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.5?classifier=sources
@@ -167,3 +170,5 @@
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.7?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.8?classifier=sources
 - pkg:maven/aws.smithy.kotlin/smithy-test@1.3.9?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@1.4.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/smithy-test@1.4.1?classifier=sources

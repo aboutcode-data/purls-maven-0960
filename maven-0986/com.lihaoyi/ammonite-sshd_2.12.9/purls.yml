@@ -582,3 +582,5 @@
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.9@3.0.0-M2-9-88291dd8?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.9@3.0.0-M2?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.12.9@3.0.0?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.12.9@dev-0-c7a1191
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.12.9@dev-0-c7a1191?classifier=sources

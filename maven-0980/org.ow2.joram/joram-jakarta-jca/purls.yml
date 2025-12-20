@@ -12,3 +12,5 @@
 - pkg:maven/org.ow2.joram/joram-jakarta-jca@5.22.0-EFLUID
 - pkg:maven/org.ow2.joram/joram-jakarta-jca@5.22.0-EFLUID?classifier=sources
 - pkg:maven/org.ow2.joram/joram-jakarta-jca@5.22.0?classifier=sources
+- pkg:maven/org.ow2.joram/joram-jakarta-jca@5.22.1
+- pkg:maven/org.ow2.joram/joram-jakarta-jca@5.22.1?classifier=sources
