@@ -29,3 +29,6 @@
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.30.4?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.31.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.32.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-test-utils@0.32.1?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-test-utils@0.33.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-test-utils@0.33.1?classifier=sources

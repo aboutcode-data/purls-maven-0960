@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-msg-conv-0-8-to-0-10@9.0.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-msg-conv-0-8-to-0-10@9.1.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-msg-conv-0-8-to-0-10@9.1.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-msg-conv-0-8-to-0-10@9.2.0
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-msg-conv-0-8-to-0-10@9.2.0?classifier=sources

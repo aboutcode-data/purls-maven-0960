@@ -11,4 +11,5 @@
 - pkg:maven/com.optimizely.ab/android-sdk@4.0.0-beta2?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk@4.0.0-beta3?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk@4.0.0-beta?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk@4.0.0?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk@MC-TEST-1?classifier=sources

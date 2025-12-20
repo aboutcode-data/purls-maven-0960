@@ -58,3 +58,5 @@
 - pkg:maven/io.continual/continualJsonHttpClient@0.3.3?classifier=sources
 - pkg:maven/io.continual/continualJsonHttpClient@0.3.4
 - pkg:maven/io.continual/continualJsonHttpClient@0.3.4?classifier=sources
+- pkg:maven/io.continual/continualJsonHttpClient@0.3.8
+- pkg:maven/io.continual/continualJsonHttpClient@0.3.8?classifier=sources

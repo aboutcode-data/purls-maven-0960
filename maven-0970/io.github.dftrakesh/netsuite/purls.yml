@@ -25,6 +25,8 @@
 - pkg:maven/io.github.dftrakesh/netsuite@0.20?classifier=sources
 - pkg:maven/io.github.dftrakesh/netsuite@0.21
 - pkg:maven/io.github.dftrakesh/netsuite@0.21?classifier=sources
+- pkg:maven/io.github.dftrakesh/netsuite@0.23
+- pkg:maven/io.github.dftrakesh/netsuite@0.23?classifier=sources
 - pkg:maven/io.github.dftrakesh/netsuite@0.2?classifier=sources
 - pkg:maven/io.github.dftrakesh/netsuite@0.3
 - pkg:maven/io.github.dftrakesh/netsuite@0.3?classifier=sources

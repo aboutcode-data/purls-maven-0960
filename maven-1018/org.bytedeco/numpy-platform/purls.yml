@@ -18,3 +18,5 @@
 - pkg:maven/org.bytedeco/numpy-platform@1.23.4-1.5.8?classifier=sources
 - pkg:maven/org.bytedeco/numpy-platform@1.24.3-1.5.9
 - pkg:maven/org.bytedeco/numpy-platform@1.24.3-1.5.9?classifier=sources
+- pkg:maven/org.bytedeco/numpy-platform@1.26.3-1.5.10
+- pkg:maven/org.bytedeco/numpy-platform@1.26.3-1.5.10?classifier=sources

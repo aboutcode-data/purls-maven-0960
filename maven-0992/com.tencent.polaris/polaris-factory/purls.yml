@@ -66,6 +66,8 @@
 - pkg:maven/com.tencent.polaris/polaris-factory@1.14.2?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-factory@1.14.3
 - pkg:maven/com.tencent.polaris/polaris-factory@1.14.3?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-factory@1.15.0
+- pkg:maven/com.tencent.polaris/polaris-factory@1.15.0?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-factory@1.2.0
 - pkg:maven/com.tencent.polaris/polaris-factory@1.2.0?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-factory@1.2.1

@@ -46,3 +46,5 @@
 - pkg:maven/io.smallrye.common/smallrye-common-classloader@2.1.2?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-classloader@2.2.0
 - pkg:maven/io.smallrye.common/smallrye-common-classloader@2.2.0?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@2.3.0
+- pkg:maven/io.smallrye.common/smallrye-common-classloader@2.3.0?classifier=sources

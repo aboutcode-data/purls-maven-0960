@@ -88,6 +88,8 @@
 - pkg:maven/org.scala-lang/scala-partest@2.12.18-M2
 - pkg:maven/org.scala-lang/scala-partest@2.12.18-M2?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.12.18?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.12.19
+- pkg:maven/org.scala-lang/scala-partest@2.12.19?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.0
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4?classifier=sources
@@ -117,6 +119,8 @@
 - pkg:maven/org.scala-lang/scala-partest@2.13.11?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.12
 - pkg:maven/org.scala-lang/scala-partest@2.13.12?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.13.13
+- pkg:maven/org.scala-lang/scala-partest@2.13.13?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.1?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.2
 - pkg:maven/org.scala-lang/scala-partest@2.13.2?classifier=sources

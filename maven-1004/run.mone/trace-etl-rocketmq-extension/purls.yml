@@ -1,2 +1,4 @@
 - pkg:maven/run.mone/trace-etl-rocketmq-extension@1.0.0-jdk21
 - pkg:maven/run.mone/trace-etl-rocketmq-extension@1.0.0-jdk21?classifier=sources
+- pkg:maven/run.mone/trace-etl-rocketmq-extension@1.0.1-jdk21
+- pkg:maven/run.mone/trace-etl-rocketmq-extension@1.0.1-jdk21?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.5.1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.5.2?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.5.3?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.5.4?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.6.0-rc1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.6.0-rc2?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/edc-controlplane-postgresql-azure-vault@0.6.0?classifier=sources

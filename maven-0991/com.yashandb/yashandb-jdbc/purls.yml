@@ -1,0 +1,4 @@
+- pkg:maven/com.yashandb/yashandb-jdbc@1.4.0?classifier=sources
+- pkg:maven/com.yashandb/yashandb-jdbc@1.6.0?classifier=sources
+- pkg:maven/com.yashandb/yashandb-jdbc@1.6.1
+- pkg:maven/com.yashandb/yashandb-jdbc@1.6.1?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.10.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.11.0
 - pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.11.0?classifier=sources
+- pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.12.0
+- pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.12.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.8.0
 - pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.8.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4x-protocols-ads@0.9.0

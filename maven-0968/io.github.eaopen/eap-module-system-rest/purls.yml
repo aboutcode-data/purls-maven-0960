@@ -1,2 +1,4 @@
 - pkg:maven/io.github.eaopen/eap-module-system-rest@2.2.0
 - pkg:maven/io.github.eaopen/eap-module-system-rest@2.2.0?classifier=sources
+- pkg:maven/io.github.eaopen/eap-module-system-rest@2.5.0
+- pkg:maven/io.github.eaopen/eap-module-system-rest@2.5.0?classifier=sources

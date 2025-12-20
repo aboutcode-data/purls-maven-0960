@@ -140,6 +140,12 @@
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.26.0-jakarta
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.26.0-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.26.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-nuodb@13.26.1
+- pkg:maven/io.ebean/ebean-platform-nuodb@13.26.1-jakarta
+- pkg:maven/io.ebean/ebean-platform-nuodb@13.26.1-jakarta-rc1
+- pkg:maven/io.ebean/ebean-platform-nuodb@13.26.1-jakarta-rc1?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-nuodb@13.26.1-jakarta?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-nuodb@13.26.1?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.3.0
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.3.1
@@ -178,3 +184,9 @@
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.9.2?classifier=sources
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.9.3
 - pkg:maven/io.ebean/ebean-platform-nuodb@13.9.3?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-nuodb@14.0.0
+- pkg:maven/io.ebean/ebean-platform-nuodb@14.0.0-javax
+- pkg:maven/io.ebean/ebean-platform-nuodb@14.0.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-nuodb@14.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-nuodb@15.0.0-RC
+- pkg:maven/io.ebean/ebean-platform-nuodb@15.0.0-RC?classifier=sources

@@ -98,6 +98,8 @@
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@3.2.4?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@3.2.5
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@3.2.5?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@3.2.6
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@3.2.6?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.0
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.0-M1
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.0-M1?classifier=sources
@@ -114,3 +116,7 @@
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.2?classifier=sources
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.3
 - pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.3?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.4
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.4?classifier=sources
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.5
+- pkg:maven/io.helidon.dbclient/helidon-dbclient-jsonp@4.0.5?classifier=sources

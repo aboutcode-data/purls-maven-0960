@@ -381,6 +381,8 @@
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.1.Final
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.10.Final
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.10.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.2.Final
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.2.3.Final
@@ -445,5 +447,16 @@
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.6?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.7
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.7?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.8
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.8?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.9
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.6.9?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.7.0
 - pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.7.0.CR1
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.7.1
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.7.2
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.7.3
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.7.4
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.8.0
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.8.0.CR1
+- pkg:maven/io.quarkus/quarkus-rest-client-jaxb@3.8.1

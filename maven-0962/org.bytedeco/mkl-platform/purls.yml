@@ -18,3 +18,5 @@
 - pkg:maven/org.bytedeco/mkl-platform@2022.2-1.5.8?classifier=sources
 - pkg:maven/org.bytedeco/mkl-platform@2023.1-1.5.9
 - pkg:maven/org.bytedeco/mkl-platform@2023.1-1.5.9?classifier=sources
+- pkg:maven/org.bytedeco/mkl-platform@2024.0-1.5.10
+- pkg:maven/org.bytedeco/mkl-platform@2024.0-1.5.10?classifier=sources

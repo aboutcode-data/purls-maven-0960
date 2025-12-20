@@ -13,3 +13,8 @@
 - pkg:maven/media.kamel/kamel-image-macosarm64@0.8.3?classifier=sources
 - pkg:maven/media.kamel/kamel-image-macosarm64@0.9.0?classifier=sources
 - pkg:maven/media.kamel/kamel-image-macosarm64@0.9.1?classifier=sources
+- pkg:maven/media.kamel/kamel-image-macosarm64@0.9.2-wasm?classifier=sources
+- pkg:maven/media.kamel/kamel-image-macosarm64@0.9.2?classifier=sources
+- pkg:maven/media.kamel/kamel-image-macosarm64@0.9.3-wasm?classifier=sources
+- pkg:maven/media.kamel/kamel-image-macosarm64@0.9.3?classifier=sources
+- pkg:maven/media.kamel/kamel-image-macosarm64@1.0.0-beta.1?classifier=sources

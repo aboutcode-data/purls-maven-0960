@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.logging.log4j/log4j-api-scala_3@13.0.0
 - pkg:maven/org.apache.logging.log4j/log4j-api-scala_3@13.0.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-api-scala_3@13.1.0
+- pkg:maven/org.apache.logging.log4j/log4j-api-scala_3@13.1.0?classifier=sources

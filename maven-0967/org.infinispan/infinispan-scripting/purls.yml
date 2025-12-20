@@ -262,6 +262,12 @@
 - pkg:maven/org.infinispan/infinispan-scripting@14.0.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@14.0.22.Final
 - pkg:maven/org.infinispan/infinispan-scripting@14.0.22.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@14.0.23.Final
+- pkg:maven/org.infinispan/infinispan-scripting@14.0.23.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@14.0.24.Final
+- pkg:maven/org.infinispan/infinispan-scripting@14.0.24.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@14.0.25.Final
+- pkg:maven/org.infinispan/infinispan-scripting@14.0.25.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@14.0.3.Final
 - pkg:maven/org.infinispan/infinispan-scripting@14.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@14.0.4.Final
@@ -290,6 +296,12 @@
 - pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev06?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev07
 - pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev07?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev08
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev08?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev09
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev09?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev10
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.0.Dev10?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@7.2.0.Beta1
 - pkg:maven/org.infinispan/infinispan-scripting@7.2.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@7.2.0.Beta2

@@ -3,6 +3,8 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.1
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk17?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk21
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk21?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.1?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.2
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.2?classifier=sources

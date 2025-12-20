@@ -177,8 +177,12 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.16?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.18
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.18?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.19
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.19?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.2
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.20
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.20?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.2?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.3
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.20.3?classifier=sources
@@ -209,6 +213,10 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.12?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.15
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.15?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.17
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.17?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.18
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.18?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.2?classifier=sources
@@ -222,6 +230,10 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@3.21.9?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.0
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.10
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.10?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.11
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.11?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.0.3
@@ -245,6 +257,12 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.10?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.11
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.11?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.12
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.12?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.13
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.13?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.14
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.14?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.1.2?classifier=sources
@@ -270,3 +288,7 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.2?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.3
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.3?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.4
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-deviceidentifier@4.2.4?classifier=sources

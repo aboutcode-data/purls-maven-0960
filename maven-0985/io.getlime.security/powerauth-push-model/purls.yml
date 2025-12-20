@@ -44,6 +44,8 @@
 - pkg:maven/io.getlime.security/powerauth-push-model@1.4.2?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-push-model@1.4.3
 - pkg:maven/io.getlime.security/powerauth-push-model@1.4.3?classifier=sources
+- pkg:maven/io.getlime.security/powerauth-push-model@1.4.4
+- pkg:maven/io.getlime.security/powerauth-push-model@1.4.4?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-push-model@1.5.0
 - pkg:maven/io.getlime.security/powerauth-push-model@1.5.0?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-push-model@1.6.0

@@ -57,6 +57,8 @@
 - pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.1
 - pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.10
 - pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.10?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.11
+- pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.11?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.1?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.2
 - pkg:maven/com.blazebit/blaze-persistence-archetype-java-ee-sample@1.6.2?classifier=sources

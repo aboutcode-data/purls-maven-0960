@@ -30,3 +30,11 @@
 - pkg:maven/it.agilelab/wasp-aws_2.12@2.31.2-emr212
 - pkg:maven/it.agilelab/wasp-aws_2.12@2.31.2-emr212?classifier=sources
 - pkg:maven/it.agilelab/wasp-aws_2.12@2.31.2?classifier=sources
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.0
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.0-emr212
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.0-emr212?classifier=sources
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.0?classifier=sources
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.1
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.1-emr212
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.1-emr212?classifier=sources
+- pkg:maven/it.agilelab/wasp-aws_2.12@2.32.1?classifier=sources

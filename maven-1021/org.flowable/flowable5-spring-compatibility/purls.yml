@@ -36,6 +36,8 @@
 - pkg:maven/org.flowable/flowable5-spring-compatibility@6.7.2?classifier=sources
 - pkg:maven/org.flowable/flowable5-spring-compatibility@6.8.0
 - pkg:maven/org.flowable/flowable5-spring-compatibility@6.8.0?classifier=sources
+- pkg:maven/org.flowable/flowable5-spring-compatibility@6.8.1
+- pkg:maven/org.flowable/flowable5-spring-compatibility@6.8.1?classifier=sources
 - pkg:maven/org.flowable/flowable5-spring-compatibility@7.0.0
 - pkg:maven/org.flowable/flowable5-spring-compatibility@7.0.0.M1
 - pkg:maven/org.flowable/flowable5-spring-compatibility@7.0.0.M1?classifier=sources

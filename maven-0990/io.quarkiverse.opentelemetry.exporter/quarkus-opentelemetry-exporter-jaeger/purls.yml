@@ -6,3 +6,5 @@
 - pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-jaeger@1.1.1.Final?classifier=sources
 - pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-jaeger@2.0.0.Final
 - pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-jaeger@2.0.0.Final?classifier=sources
+- pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-jaeger@3.5.0.Final
+- pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-jaeger@3.5.0.Final?classifier=sources

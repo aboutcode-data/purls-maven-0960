@@ -64,6 +64,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.51.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.52.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.53.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.54.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql@2.7.0

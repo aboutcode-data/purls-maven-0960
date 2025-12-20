@@ -7,6 +7,7 @@
 - pkg:maven/io.qtjambi/qtjambi-nfc@5.15.16?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@5.15.17?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@5.15.18?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-nfc@5.15.19?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@5.15.5?classifier=sources
@@ -44,5 +45,7 @@
 - pkg:maven/io.qtjambi/qtjambi-nfc@6.5.2?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@6.5.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@6.5.4?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-nfc@6.5.5?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@6.6.0?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-nfc@6.6.1?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-nfc@6.6.2?classifier=sources

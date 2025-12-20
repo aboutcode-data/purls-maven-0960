@@ -72,3 +72,5 @@
 - pkg:maven/org.gridkit.lab/zerormi@0.8.8?classifier=sources
 - pkg:maven/org.gridkit.lab/zerormi@0.8.9
 - pkg:maven/org.gridkit.lab/zerormi@0.8.9?classifier=sources
+- pkg:maven/org.gridkit.lab/zerormi@1.0.0-beta
+- pkg:maven/org.gridkit.lab/zerormi@1.0.0-beta?classifier=sources

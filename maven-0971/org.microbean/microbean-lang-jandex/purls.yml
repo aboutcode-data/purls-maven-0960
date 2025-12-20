@@ -1,3 +1,7 @@
+- pkg:maven/org.microbean/microbean-lang-jandex@0.0.10
+- pkg:maven/org.microbean/microbean-lang-jandex@0.0.10?classifier=sources
+- pkg:maven/org.microbean/microbean-lang-jandex@0.0.12
+- pkg:maven/org.microbean/microbean-lang-jandex@0.0.12?classifier=sources
 - pkg:maven/org.microbean/microbean-lang-jandex@0.0.7
 - pkg:maven/org.microbean/microbean-lang-jandex@0.0.7?classifier=sources
 - pkg:maven/org.microbean/microbean-lang-jandex@0.0.8

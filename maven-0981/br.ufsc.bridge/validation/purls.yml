@@ -18,3 +18,7 @@
 - pkg:maven/br.ufsc.bridge/validation@1.4.8?classifier=sources
 - pkg:maven/br.ufsc.bridge/validation@1.4.9
 - pkg:maven/br.ufsc.bridge/validation@1.4.9?classifier=sources
+- pkg:maven/br.ufsc.bridge/validation@2.0.0
+- pkg:maven/br.ufsc.bridge/validation@2.0.0?classifier=sources
+- pkg:maven/br.ufsc.bridge/validation@2.0.1
+- pkg:maven/br.ufsc.bridge/validation@2.0.1?classifier=sources

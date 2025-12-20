@@ -1,0 +1,7 @@
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.3.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.3.1?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.4.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.5.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.6.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.6.1?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-docker-compose@0.7.0?classifier=sources

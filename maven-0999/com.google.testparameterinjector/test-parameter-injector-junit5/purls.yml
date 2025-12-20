@@ -8,6 +8,8 @@
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.13?classifier=sources
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.14
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.14?classifier=sources
+- pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.15
+- pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.15?classifier=sources
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.8
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.8?classifier=sources
 - pkg:maven/com.google.testparameterinjector/test-parameter-injector-junit5@1.9

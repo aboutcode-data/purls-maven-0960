@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.spark/spark-unsafe_2.12@3.4.2?classifier=sources
 - pkg:maven/org.apache.spark/spark-unsafe_2.12@3.5.0
 - pkg:maven/org.apache.spark/spark-unsafe_2.12@3.5.0?classifier=sources
+- pkg:maven/org.apache.spark/spark-unsafe_2.12@3.5.1
+- pkg:maven/org.apache.spark/spark-unsafe_2.12@3.5.1?classifier=sources

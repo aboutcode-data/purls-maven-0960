@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.6.0?classifier=sources
+- pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.7.0?classifier=sources

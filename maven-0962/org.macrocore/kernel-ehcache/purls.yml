@@ -1,5 +1,9 @@
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.0-RELEASE
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.0-RELEASE?classifier=sources
+- pkg:maven/org.macrocore/kernel-ehcache@1.1.10-RELEASE
+- pkg:maven/org.macrocore/kernel-ehcache@1.1.10-RELEASE?classifier=sources
+- pkg:maven/org.macrocore/kernel-ehcache@1.1.11-RELEASE
+- pkg:maven/org.macrocore/kernel-ehcache@1.1.11-RELEASE?classifier=sources
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.2-RELEASE
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.2-RELEASE?classifier=sources
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.3-RELEASE
@@ -14,3 +18,5 @@
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.7-RELEASE?classifier=sources
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.9-RELEASE
 - pkg:maven/org.macrocore/kernel-ehcache@1.1.9-RELEASE?classifier=sources
+- pkg:maven/org.macrocore/kernel-ehcache@2.0.1-RELEASE
+- pkg:maven/org.macrocore/kernel-ehcache@2.0.1-RELEASE?classifier=sources

@@ -82,3 +82,7 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-5?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-6
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-6?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-7
+- pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-7?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-8
+- pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.0-alpha-8?classifier=sources

@@ -18,9 +18,15 @@
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.3?classifier=sources
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.4
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.4?classifier=sources
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.5
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.5?classifier=sources
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.6
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-session@3.3.6?classifier=sources
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.0.0
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.0.0?classifier=sources
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.1.0
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.1.0?classifier=sources
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.1.1
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.1.1?classifier=sources
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.1.2
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-session@4.1.2?classifier=sources

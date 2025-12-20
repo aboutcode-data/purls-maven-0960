@@ -333,6 +333,9 @@
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.1.5?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.1.6?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.1.7?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.10.0?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.10.1?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.10.2?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.2.0?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.2.10?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.2.1?classifier=sources
@@ -366,3 +369,5 @@
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.6.7?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.7.0?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.8.0?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.8.1?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-zenoadapter@7.9.0?classifier=sources

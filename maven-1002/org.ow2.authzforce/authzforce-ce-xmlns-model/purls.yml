@@ -68,3 +68,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xmlns-model@8.5.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xmlns-model@9.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xmlns-model@9.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-xmlns-model@9.1.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-xmlns-model@9.1.0?classifier=sources

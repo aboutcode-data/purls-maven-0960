@@ -6,3 +6,5 @@
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow-jandex@23.4.0-alpha2?classifier=sources
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow-jandex@23.4.0-alpha3?classifier=sources
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow-jandex@23.4.0-beta1?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow-jandex@23.4.0?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow-jandex@24.3.0-alpha1?classifier=sources

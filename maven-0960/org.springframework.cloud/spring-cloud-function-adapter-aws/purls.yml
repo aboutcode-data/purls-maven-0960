@@ -98,5 +98,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.0.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.0.5
 - pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.0.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.0.6
+- pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.0.6?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.1.0
 - pkg:maven/org.springframework.cloud/spring-cloud-function-adapter-aws@4.1.0?classifier=sources

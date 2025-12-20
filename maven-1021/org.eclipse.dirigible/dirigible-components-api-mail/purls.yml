@@ -1,3 +1,9 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@10.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@10.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@10.0.1
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@10.0.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@10.0.2
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@7.7.7
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@7.7.7?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@8.0.0
@@ -138,3 +144,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.1.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.1.1
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.1.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.2.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.2.1
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.2.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.2.2
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-mail@9.2.2?classifier=sources

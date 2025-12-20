@@ -36,3 +36,13 @@
 - pkg:maven/com.ibeetl/sql-firewall@3.27.3-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-firewall@3.27.4-RELEASE
 - pkg:maven/com.ibeetl/sql-firewall@3.27.4-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-firewall@3.27.5-RELEASE
+- pkg:maven/com.ibeetl/sql-firewall@3.27.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-firewall@3.28.0-RELEASE
+- pkg:maven/com.ibeetl/sql-firewall@3.28.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-firewall@3.28.1-RELEASE
+- pkg:maven/com.ibeetl/sql-firewall@3.28.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-firewall@3.29.0-RELEASE
+- pkg:maven/com.ibeetl/sql-firewall@3.29.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-firewall@3.30.0-RELEASE
+- pkg:maven/com.ibeetl/sql-firewall@3.30.0-RELEASE?classifier=sources

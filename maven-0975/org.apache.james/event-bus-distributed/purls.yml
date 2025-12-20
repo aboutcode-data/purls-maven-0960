@@ -12,5 +12,9 @@
 - pkg:maven/org.apache.james/event-bus-distributed@3.7.3?classifier=sources
 - pkg:maven/org.apache.james/event-bus-distributed@3.7.4
 - pkg:maven/org.apache.james/event-bus-distributed@3.7.4?classifier=sources
+- pkg:maven/org.apache.james/event-bus-distributed@3.7.5
+- pkg:maven/org.apache.james/event-bus-distributed@3.7.5?classifier=sources
 - pkg:maven/org.apache.james/event-bus-distributed@3.8.0
 - pkg:maven/org.apache.james/event-bus-distributed@3.8.0?classifier=sources
+- pkg:maven/org.apache.james/event-bus-distributed@3.8.1
+- pkg:maven/org.apache.james/event-bus-distributed@3.8.1?classifier=sources

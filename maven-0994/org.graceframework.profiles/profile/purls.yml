@@ -1,3 +1,6 @@
 - pkg:maven/org.graceframework.profiles/profile@2022.0.0?classifier=sources
 - pkg:maven/org.graceframework.profiles/profile@2022.0.1?classifier=sources
 - pkg:maven/org.graceframework.profiles/profile@2022.0.2?classifier=sources
+- pkg:maven/org.graceframework.profiles/profile@2022.1.0?classifier=sources
+- pkg:maven/org.graceframework.profiles/profile@2022.1.1?classifier=sources
+- pkg:maven/org.graceframework.profiles/profile@2022.1.2?classifier=sources

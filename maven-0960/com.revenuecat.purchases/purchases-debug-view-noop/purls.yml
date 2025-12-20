@@ -2,6 +2,7 @@
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@6.9.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@6.9.4?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@6.9.5?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@6.9.6?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.0.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.0.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.1.0-beta.1?classifier=sources
@@ -24,3 +25,8 @@
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.3.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.3.4?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.3.5?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.3.6?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.4.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.4.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.5.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop@7.5.1?classifier=sources

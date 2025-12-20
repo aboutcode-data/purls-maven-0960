@@ -1,2 +1,4 @@
 - pkg:maven/io.github.jvm-build-service-test-data.maven-version-from-parent-enforce-version/maven-version-from-parent-enforce-version@1.0
 - pkg:maven/io.github.jvm-build-service-test-data.maven-version-from-parent-enforce-version/maven-version-from-parent-enforce-version@1.0?classifier=sources
+- pkg:maven/io.github.jvm-build-service-test-data.maven-version-from-parent-enforce-version/maven-version-from-parent-enforce-version@1.1
+- pkg:maven/io.github.jvm-build-service-test-data.maven-version-from-parent-enforce-version/maven-version-from-parent-enforce-version@1.1?classifier=sources

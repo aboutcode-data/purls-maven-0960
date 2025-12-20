@@ -84,6 +84,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.4?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.5
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.5?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.6
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.6?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.7
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@3.7.7?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.0.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.1.0
@@ -128,5 +132,13 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.8.4?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.9.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.9.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.9.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.9.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.9.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@4.9.2?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@5.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-kms@5.0.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@5.0.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@5.0.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@5.0.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-kms@5.0.2?classifier=sources

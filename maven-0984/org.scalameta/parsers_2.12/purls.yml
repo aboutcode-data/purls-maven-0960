@@ -324,3 +324,5 @@
 - pkg:maven/org.scalameta/parsers_2.12@4.8.8?classifier=sources
 - pkg:maven/org.scalameta/parsers_2.12@4.8.9
 - pkg:maven/org.scalameta/parsers_2.12@4.8.9?classifier=sources
+- pkg:maven/org.scalameta/parsers_2.12@4.9.0
+- pkg:maven/org.scalameta/parsers_2.12@4.9.0?classifier=sources

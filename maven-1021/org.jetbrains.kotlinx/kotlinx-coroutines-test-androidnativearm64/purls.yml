@@ -6,3 +6,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test-androidnativearm64@1.7.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test-androidnativearm64@1.8.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test-androidnativearm64@1.8.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-test-androidnativearm64@1.8.0?classifier=sources

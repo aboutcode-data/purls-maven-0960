@@ -496,3 +496,7 @@
 - pkg:maven/com.proofpoint.platform/stats@3.07?classifier=sources
 - pkg:maven/com.proofpoint.platform/stats@3.08
 - pkg:maven/com.proofpoint.platform/stats@3.08?classifier=sources
+- pkg:maven/com.proofpoint.platform/stats@3.09
+- pkg:maven/com.proofpoint.platform/stats@3.09?classifier=sources
+- pkg:maven/com.proofpoint.platform/stats@3.12
+- pkg:maven/com.proofpoint.platform/stats@3.12?classifier=sources

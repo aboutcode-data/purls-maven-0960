@@ -154,6 +154,8 @@
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@3.2.4?classifier=sources
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@3.2.5
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@3.2.5?classifier=sources
+- pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@3.2.6
+- pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@3.2.6?classifier=sources
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.0
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.0-ALPHA1
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.0-ALPHA1?classifier=sources
@@ -182,3 +184,7 @@
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.2?classifier=sources
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.3
 - pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.3?classifier=sources
+- pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.4
+- pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.4?classifier=sources
+- pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.5
+- pkg:maven/io.helidon.metrics/helidon-metrics-prometheus@4.0.5?classifier=sources

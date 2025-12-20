@@ -42,5 +42,11 @@
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.8.4-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.9.0-preview
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.9.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.9.1-preview
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.9.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.9.2-preview
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.9.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.0.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.0.2-preview
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.0.2-preview?classifier=sources

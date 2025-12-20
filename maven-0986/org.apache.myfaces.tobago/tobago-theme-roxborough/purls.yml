@@ -38,6 +38,10 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.0.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.1.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.1.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.10.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.10.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.11.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.11.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.2.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@5.3.0
@@ -66,3 +70,7 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.0.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.1.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.1.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.2.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.2.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.3.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-roxborough@6.3.0?classifier=sources

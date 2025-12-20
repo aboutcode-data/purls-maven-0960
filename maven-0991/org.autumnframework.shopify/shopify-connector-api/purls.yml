@@ -8,3 +8,7 @@
 - pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.4.0?classifier=sources
 - pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.5.0
 - pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.5.0?classifier=sources
+- pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.6.0
+- pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.6.0?classifier=sources
+- pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.7.0
+- pkg:maven/org.autumnframework.shopify/shopify-connector-api@0.7.0?classifier=sources

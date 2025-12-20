@@ -30,6 +30,10 @@
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC5
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC5?classifier=sources
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC6
+- pkg:maven/org.dominokit/theme-processor@1.0.0-RC6.1
+- pkg:maven/org.dominokit/theme-processor@1.0.0-RC6.1?classifier=sources
+- pkg:maven/org.dominokit/theme-processor@1.0.0-RC6.2
+- pkg:maven/org.dominokit/theme-processor@1.0.0-RC6.2?classifier=sources
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC6?classifier=sources
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC7
 - pkg:maven/org.dominokit/theme-processor@1.0.0-RC7?classifier=sources

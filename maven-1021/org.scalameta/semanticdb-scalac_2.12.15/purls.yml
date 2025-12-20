@@ -94,3 +94,5 @@
 - pkg:maven/org.scalameta/semanticdb-scalac_2.12.15@4.8.8?classifier=sources
 - pkg:maven/org.scalameta/semanticdb-scalac_2.12.15@4.8.9
 - pkg:maven/org.scalameta/semanticdb-scalac_2.12.15@4.8.9?classifier=sources
+- pkg:maven/org.scalameta/semanticdb-scalac_2.12.15@4.9.0
+- pkg:maven/org.scalameta/semanticdb-scalac_2.12.15@4.9.0?classifier=sources

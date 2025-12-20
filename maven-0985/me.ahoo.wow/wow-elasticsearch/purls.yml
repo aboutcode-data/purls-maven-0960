@@ -78,6 +78,12 @@
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@2.14.1?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@2.14.2?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@2.14.3?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@2.15.0?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@2.15.1?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@2.15.2?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@2.15.3?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@2.15.4?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@2.15.5?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@2.2.0?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@2.2.1?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@2.3.0?classifier=sources

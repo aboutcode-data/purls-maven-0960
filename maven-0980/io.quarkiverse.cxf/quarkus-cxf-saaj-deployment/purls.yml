@@ -12,6 +12,8 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.15?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.16
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.16?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.17
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.17?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.2
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.2?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@1.5.3
@@ -82,6 +84,8 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.2.5?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.2.6
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.2.6?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.2.7
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.2.7?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.3.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.3.1
@@ -96,7 +100,13 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.6.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.6.1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.6.1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.0.CR1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.0.CR2
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@2.7.1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@3.8.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-saaj-deployment@3.8.0?classifier=sources

@@ -1,6 +1,7 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.10.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.10.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.10.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.10.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.5.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.5.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.soaptracer.ui.feature@4.5.12?classifier=source-release&type=zip

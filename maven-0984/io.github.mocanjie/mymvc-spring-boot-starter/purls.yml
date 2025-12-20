@@ -15,6 +15,8 @@
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.10?classifier=sources
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.11
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.11?classifier=sources
+- pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.12
+- pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.12?classifier=sources
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.1?classifier=sources
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.2
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.2?classifier=sources
@@ -30,3 +32,5 @@
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.8?classifier=sources
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.9
 - pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2.0.9?classifier=sources
+- pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2401
+- pkg:maven/io.github.mocanjie/mymvc-spring-boot-starter@2401?classifier=sources

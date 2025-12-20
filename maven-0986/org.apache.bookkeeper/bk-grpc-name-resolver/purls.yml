@@ -48,6 +48,8 @@
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.16.2?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.16.3
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.16.3?classifier=sources
+- pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.16.4
+- pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.16.4?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.9.0
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.9.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bk-grpc-name-resolver@4.9.1

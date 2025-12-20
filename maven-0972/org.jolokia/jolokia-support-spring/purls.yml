@@ -6,3 +6,5 @@
 - pkg:maven/org.jolokia/jolokia-support-spring@2.0.0-M3
 - pkg:maven/org.jolokia/jolokia-support-spring@2.0.0-M3?classifier=sources
 - pkg:maven/org.jolokia/jolokia-support-spring@2.0.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-support-spring@2.0.1
+- pkg:maven/org.jolokia/jolokia-support-spring@2.0.1?classifier=sources

@@ -122,3 +122,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.5.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.6.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.7.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.7.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.8.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.8.0?classifier=sources

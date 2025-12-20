@@ -32,6 +32,12 @@
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.22.Final
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.22.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.23.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.23.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.24.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.24.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.25.Final
+- pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.25.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.3.Final
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-hotrod-jakarta@14.0.4.Final

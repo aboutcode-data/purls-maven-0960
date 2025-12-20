@@ -1,5 +1,9 @@
 - pkg:maven/org.snf4j/snf4j-websocket@1.10.0
 - pkg:maven/org.snf4j/snf4j-websocket@1.10.0?classifier=sources
+- pkg:maven/org.snf4j/snf4j-websocket@1.11.0
+- pkg:maven/org.snf4j/snf4j-websocket@1.11.0?classifier=sources
+- pkg:maven/org.snf4j/snf4j-websocket@1.11.1
+- pkg:maven/org.snf4j/snf4j-websocket@1.11.1?classifier=sources
 - pkg:maven/org.snf4j/snf4j-websocket@1.8.0
 - pkg:maven/org.snf4j/snf4j-websocket@1.8.0?classifier=sources
 - pkg:maven/org.snf4j/snf4j-websocket@1.9.0

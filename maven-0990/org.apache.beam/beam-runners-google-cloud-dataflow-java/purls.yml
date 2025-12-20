@@ -80,6 +80,7 @@
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.51.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.52.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.53.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.54.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.6.0
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java@2.7.0
