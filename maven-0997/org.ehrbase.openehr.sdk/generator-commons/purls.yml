@@ -20,8 +20,12 @@
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.17.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.18.0
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.18.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.19.0
+- pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.19.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.2.0
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.2.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.20.0
+- pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.20.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.3.0
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.3.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/generator-commons@2.4.0

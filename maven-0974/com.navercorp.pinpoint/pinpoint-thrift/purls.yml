@@ -28,3 +28,5 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-thrift@2.5.4?classifier=sources
 - pkg:maven/com.navercorp.pinpoint/pinpoint-thrift@3.0.0
 - pkg:maven/com.navercorp.pinpoint/pinpoint-thrift@3.0.0?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-thrift@3.0.1
+- pkg:maven/com.navercorp.pinpoint/pinpoint-thrift@3.0.1?classifier=sources

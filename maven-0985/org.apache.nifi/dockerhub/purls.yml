@@ -66,6 +66,8 @@
 - pkg:maven/org.apache.nifi/dockerhub@1.26.0?classifier=sources
 - pkg:maven/org.apache.nifi/dockerhub@1.27.0
 - pkg:maven/org.apache.nifi/dockerhub@1.27.0?classifier=sources
+- pkg:maven/org.apache.nifi/dockerhub@1.28.0
+- pkg:maven/org.apache.nifi/dockerhub@1.28.0?classifier=sources
 - pkg:maven/org.apache.nifi/dockerhub@1.7.0
 - pkg:maven/org.apache.nifi/dockerhub@1.7.0?classifier=sources
 - pkg:maven/org.apache.nifi/dockerhub@1.7.1
@@ -86,3 +88,4 @@
 - pkg:maven/org.apache.nifi/dockerhub@2.0.0-M3?classifier=sources
 - pkg:maven/org.apache.nifi/dockerhub@2.0.0-M4
 - pkg:maven/org.apache.nifi/dockerhub@2.0.0-M4?classifier=sources
+- pkg:maven/org.apache.nifi/dockerhub@2.0.0?classifier=sources

@@ -192,6 +192,8 @@
 - pkg:maven/com.gu/content-api-models-json_2.13@25.0.0?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@25.1.0
 - pkg:maven/com.gu/content-api-models-json_2.13@25.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@25.1.1
+- pkg:maven/com.gu/content-api-models-json_2.13@25.1.1?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.agupdate-thrift.2024-07-03T1304.2437e540
 - pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.agupdate-thrift.2024-07-03T1304.2437e540?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.agupdate-thrift.2024-07-04T1149.9b369b30
@@ -200,3 +202,5 @@
 - pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.agupdate-thrift.2024-07-04T1251.0144ace4?classifier=sources
 - pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.fpanatom-data-field.2024-08-30T1523.f4dd8170
 - pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.fpanatom-data-field.2024-08-30T1523.f4dd8170?classifier=sources
+- pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.model-contributors-as-strings-not-tags.2024-10-30T1748.f4d37308
+- pkg:maven/com.gu/content-api-models-json_2.13@26.0.0-PREVIEW.model-contributors-as-strings-not-tags.2024-10-30T1748.f4d37308?classifier=sources

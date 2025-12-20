@@ -19,3 +19,7 @@
 - pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.0.0-beta02?classifier=sources
 - pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.0.0-beta03?classifier=sources
 - pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.0.0-beta04?classifier=sources
+- pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.0.0-rc01?classifier=sources
+- pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.0.0-rc02?classifier=sources
+- pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.1.0-alpha01?classifier=sources
+- pkg:maven/org.drewcarlson/qbittorrent-client-jvm@1.1.0-alpha02?classifier=sources

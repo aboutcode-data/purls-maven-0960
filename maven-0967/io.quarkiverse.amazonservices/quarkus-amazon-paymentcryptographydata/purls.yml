@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-paymentcryptographydata@2.19.0.alpha2?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-paymentcryptographydata@2.19.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-paymentcryptographydata@3.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-paymentcryptographydata@3.0.1?classifier=sources

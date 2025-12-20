@@ -112,3 +112,5 @@
 - pkg:maven/io.mongock/mongock-springboot@5.4.3?classifier=sources
 - pkg:maven/io.mongock/mongock-springboot@5.4.4
 - pkg:maven/io.mongock/mongock-springboot@5.4.4?classifier=sources
+- pkg:maven/io.mongock/mongock-springboot@5.5.0
+- pkg:maven/io.mongock/mongock-springboot@5.5.0?classifier=sources

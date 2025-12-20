@@ -5,3 +5,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@33.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@39.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.tomee/jax-rs-signature-test@10.0.0-M2
 - pkg:maven/org.apache.tomee/jax-rs-signature-test@10.0.0-M2?classifier=sources
+- pkg:maven/org.apache.tomee/jax-rs-signature-test@10.0.0-M3
+- pkg:maven/org.apache.tomee/jax-rs-signature-test@10.0.0-M3?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@12.1?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@12.2
 - pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@12.2?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@13.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@13.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@8.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@8.0.1
 - pkg:maven/it.uniroma2.art.semanticturkey/st-zthes-serializing-exporter@8.0.1?classifier=sources

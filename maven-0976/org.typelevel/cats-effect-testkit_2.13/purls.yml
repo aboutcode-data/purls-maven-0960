@@ -252,6 +252,8 @@
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.5.3?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.5.4
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.5.4?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.5.5
+- pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.5.5?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-0142603
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-0142603?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-02a43a6
@@ -272,3 +274,5 @@
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-e1b1d37?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-e9aeb8c
 - pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-e9aeb8c?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-ecf93db
+- pkg:maven/org.typelevel/cats-effect-testkit_2.13@3.6-ecf93db?classifier=sources

@@ -6,6 +6,7 @@
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@7.0.16?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@7.0.17?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@7.0.18?classifier=sources
+- pkg:maven/org.glassfish.main.docs/ha-administration-guide@7.0.19?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-JDK17-M5?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-JDK17-M6?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-JDK17-M7?classifier=sources
@@ -15,3 +16,4 @@
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-M5?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-M6?classifier=sources
 - pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-M7?classifier=sources
+- pkg:maven/org.glassfish.main.docs/ha-administration-guide@8.0.0-M8?classifier=sources

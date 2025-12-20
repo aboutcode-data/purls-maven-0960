@@ -96,3 +96,5 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.3.0?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.3.1
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.3.1?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.3.2
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-maven-plugin@3.3.2?classifier=sources

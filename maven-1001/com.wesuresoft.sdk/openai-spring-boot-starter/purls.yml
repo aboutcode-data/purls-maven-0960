@@ -8,3 +8,5 @@
 - pkg:maven/com.wesuresoft.sdk/openai-spring-boot-starter@1.1.2?classifier=sources
 - pkg:maven/com.wesuresoft.sdk/openai-spring-boot-starter@1.2.0
 - pkg:maven/com.wesuresoft.sdk/openai-spring-boot-starter@1.2.0?classifier=sources
+- pkg:maven/com.wesuresoft.sdk/openai-spring-boot-starter@2.0.0
+- pkg:maven/com.wesuresoft.sdk/openai-spring-boot-starter@2.0.0?classifier=sources

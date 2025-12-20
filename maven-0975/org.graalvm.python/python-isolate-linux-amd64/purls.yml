@@ -1,2 +1,4 @@
 - pkg:maven/org.graalvm.python/python-isolate-linux-amd64@24.1.0
 - pkg:maven/org.graalvm.python/python-isolate-linux-amd64@24.1.0?classifier=sources
+- pkg:maven/org.graalvm.python/python-isolate-linux-amd64@24.1.1
+- pkg:maven/org.graalvm.python/python-isolate-linux-amd64@24.1.1?classifier=sources

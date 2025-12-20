@@ -32,6 +32,7 @@
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@1.9.23-1.6.1?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@1.9.23-1.7.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@1.9.24-1.7.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@1.9.25-1.7.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.0.0-Beta1?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.0.0-Beta2?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.0.0-Beta3?classifier=sources
@@ -42,3 +43,4 @@
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.2.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.3.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.4.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-runtime-linuxarm64@2.5.0?classifier=sources

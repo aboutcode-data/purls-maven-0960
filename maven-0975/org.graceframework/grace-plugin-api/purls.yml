@@ -42,4 +42,7 @@
 - pkg:maven/org.graceframework/grace-plugin-api@2023.0.0?classifier=sources
 - pkg:maven/org.graceframework/grace-plugin-api@2023.0.1?classifier=sources
 - pkg:maven/org.graceframework/grace-plugin-api@2023.0.2?classifier=sources
+- pkg:maven/org.graceframework/grace-plugin-api@2023.0.3?classifier=sources
 - pkg:maven/org.graceframework/grace-plugin-api@2023.1.0-M1?classifier=sources
+- pkg:maven/org.graceframework/grace-plugin-api@2023.1.0-M2?classifier=sources
+- pkg:maven/org.graceframework/grace-plugin-api@2023.1.0-M3?classifier=sources

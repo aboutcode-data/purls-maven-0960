@@ -100,6 +100,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@13.0.6
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@13.0.6?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@13.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@13.0.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@14.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@14.0.1
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-gson@14.0.1?classifier=sources

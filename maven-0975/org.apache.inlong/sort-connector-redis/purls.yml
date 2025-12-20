@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.inlong/sort-connector-redis@1.7.0?classifier=sources
 - pkg:maven/org.apache.inlong/sort-connector-redis@1.9.0
 - pkg:maven/org.apache.inlong/sort-connector-redis@1.9.0?classifier=sources
+- pkg:maven/org.apache.inlong/sort-connector-redis@2.0.0
+- pkg:maven/org.apache.inlong/sort-connector-redis@2.0.0?classifier=sources

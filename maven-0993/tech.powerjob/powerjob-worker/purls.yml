@@ -41,4 +41,6 @@
 - pkg:maven/tech.powerjob/powerjob-worker@5.0.1-beta
 - pkg:maven/tech.powerjob/powerjob-worker@5.0.1-beta?classifier=sources
 - pkg:maven/tech.powerjob/powerjob-worker@5.1.0
+- pkg:maven/tech.powerjob/powerjob-worker@5.1.0-bugfix
+- pkg:maven/tech.powerjob/powerjob-worker@5.1.0-bugfix?classifier=sources
 - pkg:maven/tech.powerjob/powerjob-worker@5.1.0?classifier=sources

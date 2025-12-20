@@ -158,6 +158,8 @@
 - pkg:maven/com.facebook.flipper/flipper@0.267.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.268.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.269.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.270.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper@0.271.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.54.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper@0.54.0?type=aar
 - pkg:maven/com.facebook.flipper/flipper@0.75.0?classifier=sources

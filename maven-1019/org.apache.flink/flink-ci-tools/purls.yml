@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.flink/flink-ci-tools@1.19.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-ci-tools@1.20.0
 - pkg:maven/org.apache.flink/flink-ci-tools@1.20.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-ci-tools@2.0-preview1
+- pkg:maven/org.apache.flink/flink-ci-tools@2.0-preview1?classifier=sources

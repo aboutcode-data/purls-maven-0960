@@ -12,3 +12,5 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-spring-data-r2dbc-plugin@2.5.4?classifier=sources
 - pkg:maven/com.navercorp.pinpoint/pinpoint-spring-data-r2dbc-plugin@3.0.0
 - pkg:maven/com.navercorp.pinpoint/pinpoint-spring-data-r2dbc-plugin@3.0.0?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-spring-data-r2dbc-plugin@3.0.1
+- pkg:maven/com.navercorp.pinpoint/pinpoint-spring-data-r2dbc-plugin@3.0.1?classifier=sources

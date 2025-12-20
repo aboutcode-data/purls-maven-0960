@@ -34,5 +34,7 @@
 - pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0?classifier=sources
 - pkg:maven/org.scanamo/scanamo-testkit_3@2.0.1-PREVIEW.put-item-request-uses-dynamo-object-rather-than-value.2024-09-25T0945.b66fd571
 - pkg:maven/org.scanamo/scanamo-testkit_3@2.0.1-PREVIEW.put-item-request-uses-dynamo-object-rather-than-value.2024-09-25T0945.b66fd571?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@3.0.0
 - pkg:maven/org.scanamo/scanamo-testkit_3@3.0.0-PREVIEW.add-transact-to-expose-TransactionCanceledException.2024-08-10T0658.6eeb6522
 - pkg:maven/org.scanamo/scanamo-testkit_3@3.0.0-PREVIEW.add-transact-to-expose-TransactionCanceledException.2024-08-10T0658.6eeb6522?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@3.0.0?classifier=sources

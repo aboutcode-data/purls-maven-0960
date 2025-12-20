@@ -252,3 +252,5 @@
 - pkg:maven/io.vertx/vertx-lang-groovy@4.5.8?classifier=sources
 - pkg:maven/io.vertx/vertx-lang-groovy@4.5.9
 - pkg:maven/io.vertx/vertx-lang-groovy@4.5.9?classifier=sources
+- pkg:maven/io.vertx/vertx-lang-groovy@5.0.0.CR1
+- pkg:maven/io.vertx/vertx-lang-groovy@5.0.0.CR1?classifier=sources

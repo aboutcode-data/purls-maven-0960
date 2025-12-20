@@ -50,3 +50,7 @@
 - pkg:maven/org.logging4s/logging4s-json4s_3@0.3.3?classifier=sources
 - pkg:maven/org.logging4s/logging4s-json4s_3@0.4.0
 - pkg:maven/org.logging4s/logging4s-json4s_3@0.4.0?classifier=sources
+- pkg:maven/org.logging4s/logging4s-json4s_3@0.4.1
+- pkg:maven/org.logging4s/logging4s-json4s_3@0.4.1?classifier=sources
+- pkg:maven/org.logging4s/logging4s-json4s_3@0.4.2
+- pkg:maven/org.logging4s/logging4s-json4s_3@0.4.2?classifier=sources

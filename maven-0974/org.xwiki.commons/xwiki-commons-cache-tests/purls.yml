@@ -434,6 +434,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.11?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.12
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.12?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.13
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.13?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@15.10.2?classifier=sources
@@ -525,6 +527,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.4.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.4.4
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.4.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.4.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.5.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.5.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.5.0-rc-1?classifier=sources
@@ -541,6 +545,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.8.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.8.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.8.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.9.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.9.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.9.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@16.9.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@8.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@8.3-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests@8.3-milestone-2?classifier=sources

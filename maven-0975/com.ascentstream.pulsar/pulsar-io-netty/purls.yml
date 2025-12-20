@@ -20,3 +20,5 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-netty@2.10.7.4?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-netty@3.0.7.0-SNAPSHOT-a030c50
 - pkg:maven/com.ascentstream.pulsar/pulsar-io-netty@3.0.7.0-SNAPSHOT-a030c50?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-io-netty@3.0.8.0-SNAPSHOT-16a7bcc
+- pkg:maven/com.ascentstream.pulsar/pulsar-io-netty@3.0.8.0-SNAPSHOT-16a7bcc?classifier=sources

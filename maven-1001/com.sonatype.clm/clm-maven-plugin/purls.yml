@@ -94,6 +94,8 @@
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.48.1-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.48.2-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.48.3-01
+- pkg:maven/com.sonatype.clm/clm-maven-plugin@2.48.4-07?classifier=sources
+- pkg:maven/com.sonatype.clm/clm-maven-plugin@2.48.5-01?classifier=sources
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.5.0-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.5.1-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.5.2-01

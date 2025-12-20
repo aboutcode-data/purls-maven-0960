@@ -61,3 +61,4 @@
 - pkg:maven/org.jetbrains.compose/compose-gradle-plugin@1.7.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose/compose-gradle-plugin@1.7.0-beta02?classifier=sources
 - pkg:maven/org.jetbrains.compose/compose-gradle-plugin@1.7.0-rc01?classifier=sources
+- pkg:maven/org.jetbrains.compose/compose-gradle-plugin@1.7.0?classifier=sources

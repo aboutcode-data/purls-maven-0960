@@ -107,6 +107,8 @@
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.2.4
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.2.40
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.2.40?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-common-api@2.2.41
+- pkg:maven/com.sdl.dxa/dxa-common-api@2.2.41?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.2.4?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.2.5
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.2.5?classifier=sources
@@ -128,3 +130,5 @@
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.3.2?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.3.3
 - pkg:maven/com.sdl.dxa/dxa-common-api@2.3.3?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-common-api@2.3.4
+- pkg:maven/com.sdl.dxa/dxa-common-api@2.3.4?classifier=sources

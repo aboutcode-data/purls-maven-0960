@@ -36,6 +36,8 @@
 - pkg:maven/com.google.apis/google-api-services-transcoder@v1-rev20240207-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-transcoder@v1-rev20240626-2.0.0
 - pkg:maven/com.google.apis/google-api-services-transcoder@v1-rev20240626-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-transcoder@v1-rev20241009-2.0.0
+- pkg:maven/com.google.apis/google-api-services-transcoder@v1-rev20241009-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-transcoder@v1beta1-rev20201111-1.30.10
 - pkg:maven/com.google.apis/google-api-services-transcoder@v1beta1-rev20201111-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-transcoder@v1beta1-rev20201111-1.31.0

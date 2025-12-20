@@ -54,10 +54,16 @@
 - pkg:maven/org.javalite/activeweb-testing@3.0-j11
 - pkg:maven/org.javalite/activeweb-testing@3.0-j11?classifier=sources
 - pkg:maven/org.javalite/activeweb-testing@3.0?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@3.1
 - pkg:maven/org.javalite/activeweb-testing@3.1-j11
 - pkg:maven/org.javalite/activeweb-testing@3.1-j11?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@3.1?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@3.2
+- pkg:maven/org.javalite/activeweb-testing@3.2?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@3.3
 - pkg:maven/org.javalite/activeweb-testing@3.3-j11
 - pkg:maven/org.javalite/activeweb-testing@3.3-j11?classifier=sources
+- pkg:maven/org.javalite/activeweb-testing@3.3?classifier=sources
 - pkg:maven/org.javalite/activeweb-testing@3.4-j11
 - pkg:maven/org.javalite/activeweb-testing@3.4-j11?classifier=sources
 - pkg:maven/org.javalite/activeweb-testing@3.5-j11

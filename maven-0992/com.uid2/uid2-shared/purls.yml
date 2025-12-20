@@ -260,6 +260,12 @@
 - pkg:maven/com.uid2/uid2-shared@7.19.0?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.2.0-41efc58fbf
 - pkg:maven/com.uid2/uid2-shared@7.2.0-41efc58fbf?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.20.0
+- pkg:maven/com.uid2/uid2-shared@7.20.0?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.20.4
+- pkg:maven/com.uid2/uid2-shared@7.20.4?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.21.0
+- pkg:maven/com.uid2/uid2-shared@7.21.0?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.3.0-0c9c5b24fe
 - pkg:maven/com.uid2/uid2-shared@7.3.0-0c9c5b24fe?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.4.0-5dea4369e6

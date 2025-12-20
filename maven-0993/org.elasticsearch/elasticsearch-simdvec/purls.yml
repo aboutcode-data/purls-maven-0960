@@ -4,3 +4,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.2
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.3
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.3?classifier=sources

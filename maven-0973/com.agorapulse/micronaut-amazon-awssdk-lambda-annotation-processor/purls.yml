@@ -88,3 +88,5 @@
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-lambda-annotation-processor@3.1.9?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-lambda-annotation-processor@3.2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-lambda-annotation-processor@3.3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-lambda-annotation-processor@3.3.2?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-lambda-annotation-processor@3.3.3?classifier=sources

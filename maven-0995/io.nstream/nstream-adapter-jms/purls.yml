@@ -2,6 +2,7 @@
 - pkg:maven/io.nstream/nstream-adapter-jms@4.11.19?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-jms@4.12.20?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-jms@4.13.21?classifier=sources
+- pkg:maven/io.nstream/nstream-adapter-jms@4.14.22?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-jms@4.2.0.4?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-jms@4.2.0.5?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-jms@4.3.6?classifier=sources

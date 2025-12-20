@@ -178,6 +178,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.0.5_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.0.5_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.0.5_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.12_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.12_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.12_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.12_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.1_1?classifier=src&type=tar.gz
@@ -194,6 +198,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.5_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.5_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.1.5_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.10_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.10_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.10_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.10_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.1_1?classifier=src&type=tar.gz
@@ -206,3 +214,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.5_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.5_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.2.5_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.3.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.3.4_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.3.4_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-data-keyvalue@3.3.4_1?classifier=src&type=zip

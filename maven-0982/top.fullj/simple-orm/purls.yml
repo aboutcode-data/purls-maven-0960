@@ -2,3 +2,5 @@
 - pkg:maven/top.fullj/simple-orm@0.1.0?type=aar
 - pkg:maven/top.fullj/simple-orm@0.2.0?classifier=sources
 - pkg:maven/top.fullj/simple-orm@0.2.0?type=aar
+- pkg:maven/top.fullj/simple-orm@0.3.0?classifier=sources
+- pkg:maven/top.fullj/simple-orm@0.3.0?type=aar

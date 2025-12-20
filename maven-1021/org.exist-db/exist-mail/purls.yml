@@ -20,6 +20,8 @@
 - pkg:maven/org.exist-db/exist-mail@5.5.0?classifier=sources
 - pkg:maven/org.exist-db/exist-mail@5.5.1
 - pkg:maven/org.exist-db/exist-mail@5.5.1?classifier=sources
+- pkg:maven/org.exist-db/exist-mail@5.5.2
+- pkg:maven/org.exist-db/exist-mail@5.5.2?classifier=sources
 - pkg:maven/org.exist-db/exist-mail@6.0.0
 - pkg:maven/org.exist-db/exist-mail@6.0.0?classifier=sources
 - pkg:maven/org.exist-db/exist-mail@6.0.1
@@ -28,3 +30,5 @@
 - pkg:maven/org.exist-db/exist-mail@6.1.0?classifier=sources
 - pkg:maven/org.exist-db/exist-mail@6.2.0
 - pkg:maven/org.exist-db/exist-mail@6.2.0?classifier=sources
+- pkg:maven/org.exist-db/exist-mail@6.3.0
+- pkg:maven/org.exist-db/exist-mail@6.3.0?classifier=sources

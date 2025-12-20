@@ -154,6 +154,8 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.13.3-2021.0.9?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.13.3-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.13.3-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.13.4-Hoxton.SR12
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.13.4-Hoxton.SR12?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.14.0-2022.0.5-RC2
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.14.0-2022.0.5-RC2?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.14.0-2022.0.5.RC1
@@ -292,5 +294,11 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.9.1-2021.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.9.1-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@1.9.1-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2021.0.9-RC1
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2021.0.9-RC1?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC1
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC1?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC2
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC2?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC3
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-metadata-transfer@2.0.0.0-2022.0.5-RC3?classifier=sources

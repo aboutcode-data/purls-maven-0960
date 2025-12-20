@@ -10,6 +10,10 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.15.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.15.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.15.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.15.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.16.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.16.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-opensearch-deployment@3.8.1

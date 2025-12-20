@@ -168,6 +168,8 @@
 - pkg:maven/de.svenkubiak/embedded-mongodb@8.2.12?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@8.2.13
 - pkg:maven/de.svenkubiak/embedded-mongodb@8.2.13?classifier=sources
+- pkg:maven/de.svenkubiak/embedded-mongodb@8.2.14
+- pkg:maven/de.svenkubiak/embedded-mongodb@8.2.14?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@8.2.5
 - pkg:maven/de.svenkubiak/embedded-mongodb@8.2.5?classifier=sources
 - pkg:maven/de.svenkubiak/embedded-mongodb@8.2.6

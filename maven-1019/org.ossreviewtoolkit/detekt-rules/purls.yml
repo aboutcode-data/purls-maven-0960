@@ -48,6 +48,10 @@
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@33.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/detekt-rules@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/detekt-rules@5.1.0?classifier=sources

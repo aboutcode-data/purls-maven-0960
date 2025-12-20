@@ -50,5 +50,7 @@
 - pkg:maven/ru.playa.keycloak/keycloak-russian-providers@25.0.2.rsp-2
 - pkg:maven/ru.playa.keycloak/keycloak-russian-providers@25.0.2.rsp-2?classifier=sources
 - pkg:maven/ru.playa.keycloak/keycloak-russian-providers@25.0.2.rsp?classifier=sources
+- pkg:maven/ru.playa.keycloak/keycloak-russian-providers@26.0.0.rsp
+- pkg:maven/ru.playa.keycloak/keycloak-russian-providers@26.0.0.rsp?classifier=sources
 - pkg:maven/ru.playa.keycloak/keycloak-russian-providers@t1.0.15
 - pkg:maven/ru.playa.keycloak/keycloak-russian-providers@t1.0.15?classifier=sources

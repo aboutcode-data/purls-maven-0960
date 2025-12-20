@@ -34,3 +34,5 @@
 - pkg:maven/org.into-cps.maestro/maestro-webapi@2.4.0?classifier=sources
 - pkg:maven/org.into-cps.maestro/maestro-webapi@2.4.1
 - pkg:maven/org.into-cps.maestro/maestro-webapi@2.4.1?classifier=sources
+- pkg:maven/org.into-cps.maestro/maestro-webapi@3.0.0
+- pkg:maven/org.into-cps.maestro/maestro-webapi@3.0.0?classifier=sources

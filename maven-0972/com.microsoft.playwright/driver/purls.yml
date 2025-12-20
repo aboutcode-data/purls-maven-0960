@@ -137,6 +137,8 @@
 - pkg:maven/com.microsoft.playwright/driver@1.46.0?classifier=sources
 - pkg:maven/com.microsoft.playwright/driver@1.47.0
 - pkg:maven/com.microsoft.playwright/driver@1.47.0?classifier=sources
+- pkg:maven/com.microsoft.playwright/driver@1.48.0
+- pkg:maven/com.microsoft.playwright/driver@1.48.0?classifier=sources
 - pkg:maven/com.microsoft.playwright/driver@1.9.0-alpha-0
 - pkg:maven/com.microsoft.playwright/driver@1.9.0-alpha-0?classifier=sources
 - pkg:maven/com.microsoft.playwright/driver@1.9.1-alpha-0

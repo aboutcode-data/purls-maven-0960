@@ -124,3 +124,7 @@
 - pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.3.2?classifier=sources
 - pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.4.0
 - pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.4.0?classifier=sources
+- pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.5.0
+- pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.5.0?classifier=sources
+- pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.5.1
+- pkg:maven/com.sportradar.unifiedodds.sdk/unified-feed-sdk@3.5.1?classifier=sources

@@ -434,6 +434,8 @@
 - pkg:maven/io.streamnative.tests/integration@2.10.5.3-a41ecf
 - pkg:maven/io.streamnative.tests/integration@2.10.5.3-a41ecf-2
 - pkg:maven/io.streamnative.tests/integration@2.10.5.3-a41ecf-2?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@2.10.5.3-a41ecf-3
+- pkg:maven/io.streamnative.tests/integration@2.10.5.3-a41ecf-3?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@2.10.5.3-a41ecf?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@2.10.5.3?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@2.10.5.4
@@ -1392,6 +1394,10 @@
 - pkg:maven/io.streamnative.tests/integration@3.0.6.7?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@3.0.6.8
 - pkg:maven/io.streamnative.tests/integration@3.0.6.8?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@3.0.7.1
+- pkg:maven/io.streamnative.tests/integration@3.0.7.1?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@3.0.7.2
+- pkg:maven/io.streamnative.tests/integration@3.0.7.2?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@3.1.0.1
 - pkg:maven/io.streamnative.tests/integration@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@3.1.0.2
@@ -1484,6 +1490,14 @@
 - pkg:maven/io.streamnative.tests/integration@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@4.0.0-SNAPSHOT.ursa
 - pkg:maven/io.streamnative.tests/integration@4.0.0-SNAPSHOT.ursa?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@4.0.0.0
+- pkg:maven/io.streamnative.tests/integration@4.0.0.0?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@4.0.0.1
+- pkg:maven/io.streamnative.tests/integration@4.0.0.1?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@4.0.0.2
+- pkg:maven/io.streamnative.tests/integration@4.0.0.2?classifier=sources
+- pkg:maven/io.streamnative.tests/integration@4.0.0.3
+- pkg:maven/io.streamnative.tests/integration@4.0.0.3?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@master-rc-daily
 - pkg:maven/io.streamnative.tests/integration@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative.tests/integration@v2.8.0-rc-202106091140

@@ -199,6 +199,8 @@
 - pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.27?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.28
 - pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.28?classifier=sources
+- pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.29
+- pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.29?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.2?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.3
 - pkg:maven/org.http4s/http4s-ember-core_2.13@0.23.3?classifier=sources
@@ -327,6 +329,8 @@
 - pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M41?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M42
 - pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M42?classifier=sources
+- pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M43
+- pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M43?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M4?classifier=sources
 - pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M5
 - pkg:maven/org.http4s/http4s-ember-core_2.13@1.0.0-M5?classifier=sources

@@ -169,6 +169,9 @@
 - pkg:maven/com.pulumi/sumologic@0.23.4?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.23.5-alpha.1728307267?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.23.5?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.23.6?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.23.7-alpha.1729802900?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.23.7?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1722064119?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1723010472?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1724479397?classifier=sources
@@ -186,6 +189,12 @@
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1727888052?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1728108605?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1728367776?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1729059047?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1729836050?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1730181720?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1730527310?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1730873141?classifier=sources
+- pkg:maven/com.pulumi/sumologic@0.24.0-alpha.1731133942?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.0?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.8.1-alpha.1660680842%2B1b90b1ad?classifier=sources
 - pkg:maven/com.pulumi/sumologic@0.9.0?classifier=sources

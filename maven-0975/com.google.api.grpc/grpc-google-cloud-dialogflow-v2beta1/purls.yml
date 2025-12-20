@@ -180,6 +180,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.155.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.156.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.156.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.157.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.157.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.16.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.16.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-v2beta1@0.17.0

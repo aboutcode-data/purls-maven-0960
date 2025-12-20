@@ -146,6 +146,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.14_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.14_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.14_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.14_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@5.8.1_1?classifier=src&type=tar.gz
@@ -206,6 +210,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.5_2?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.5_2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.5_2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.9_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.9_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.9_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.1.9_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.0_1?classifier=src&type=tar.gz
@@ -218,3 +226,11 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.4_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.4_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.4_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.2.6_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.3.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.3.3_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.3.3_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-aspects@6.3.3_1?classifier=src&type=zip

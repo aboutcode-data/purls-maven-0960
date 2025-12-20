@@ -2,3 +2,5 @@
 - pkg:maven/com.paypal.sdk/paypal-server-sdk@0.5.1?classifier=sources
 - pkg:maven/com.paypal.sdk/paypal-server-sdk@0.5.2
 - pkg:maven/com.paypal.sdk/paypal-server-sdk@0.5.2?classifier=sources
+- pkg:maven/com.paypal.sdk/paypal-server-sdk@0.6.0
+- pkg:maven/com.paypal.sdk/paypal-server-sdk@0.6.0?classifier=sources

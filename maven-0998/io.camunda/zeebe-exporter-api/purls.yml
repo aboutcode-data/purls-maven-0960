@@ -339,6 +339,8 @@
 - pkg:maven/io.camunda/zeebe-exporter-api@8.3.15?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.3.16
 - pkg:maven/io.camunda/zeebe-exporter-api@8.3.16?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.3.17
+- pkg:maven/io.camunda/zeebe-exporter-api@8.3.17?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.3.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.3.2
 - pkg:maven/io.camunda/zeebe-exporter-api@8.3.2?classifier=sources
@@ -369,6 +371,8 @@
 - pkg:maven/io.camunda/zeebe-exporter-api@8.4.11?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.4.12
 - pkg:maven/io.camunda/zeebe-exporter-api@8.4.12?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.4.13
+- pkg:maven/io.camunda/zeebe-exporter-api@8.4.13?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.4.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.4.2
 - pkg:maven/io.camunda/zeebe-exporter-api@8.4.2?classifier=sources
@@ -412,6 +416,8 @@
 - pkg:maven/io.camunda/zeebe-exporter-api@8.5.7?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.5.8
 - pkg:maven/io.camunda/zeebe-exporter-api@8.5.8?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.5.9
+- pkg:maven/io.camunda/zeebe-exporter-api@8.5.9?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.0
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.0-alpha1
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.0-alpha1-rc1
@@ -458,3 +464,13 @@
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.3
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.3?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.4
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.4?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.5
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.5-rc1
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.5-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.5?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1
+- pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1-rc1
+- pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1?classifier=sources

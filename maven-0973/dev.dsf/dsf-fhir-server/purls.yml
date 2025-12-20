@@ -22,3 +22,5 @@
 - pkg:maven/dev.dsf/dsf-fhir-server@1.5.1?classifier=sources
 - pkg:maven/dev.dsf/dsf-fhir-server@1.5.2
 - pkg:maven/dev.dsf/dsf-fhir-server@1.5.2?classifier=sources
+- pkg:maven/dev.dsf/dsf-fhir-server@1.6.0
+- pkg:maven/dev.dsf/dsf-fhir-server@1.6.0?classifier=sources

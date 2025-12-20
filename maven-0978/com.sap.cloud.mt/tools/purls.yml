@@ -128,3 +128,5 @@
 - pkg:maven/com.sap.cloud.mt/tools@3.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.mt/tools@3.3.0
 - pkg:maven/com.sap.cloud.mt/tools@3.3.0?classifier=sources
+- pkg:maven/com.sap.cloud.mt/tools@3.3.1
+- pkg:maven/com.sap.cloud.mt/tools@3.3.1?classifier=sources

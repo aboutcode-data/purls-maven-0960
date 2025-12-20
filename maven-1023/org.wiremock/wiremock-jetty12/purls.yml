@@ -8,3 +8,4 @@
 - pkg:maven/org.wiremock/wiremock-jetty12@3.8.0?classifier=sources
 - pkg:maven/org.wiremock/wiremock-jetty12@3.9.0?classifier=sources
 - pkg:maven/org.wiremock/wiremock-jetty12@3.9.1?classifier=sources
+- pkg:maven/org.wiremock/wiremock-jetty12@3.9.2?classifier=sources

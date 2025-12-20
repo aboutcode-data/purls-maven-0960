@@ -60,3 +60,7 @@
 - pkg:maven/org.redisson/redisson-spring-data-31@3.36.0?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-31@3.37.0
 - pkg:maven/org.redisson/redisson-spring-data-31@3.37.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-31@3.38.0
+- pkg:maven/org.redisson/redisson-spring-data-31@3.38.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-31@3.38.1
+- pkg:maven/org.redisson/redisson-spring-data-31@3.38.1?classifier=sources

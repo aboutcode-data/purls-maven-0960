@@ -26,3 +26,5 @@
 - pkg:maven/tech.ydb/ydb-proto-api@1.6.2?classifier=sources
 - pkg:maven/tech.ydb/ydb-proto-api@1.6.4
 - pkg:maven/tech.ydb/ydb-proto-api@1.6.4?classifier=sources
+- pkg:maven/tech.ydb/ydb-proto-api@1.7.0
+- pkg:maven/tech.ydb/ydb-proto-api@1.7.0?classifier=sources

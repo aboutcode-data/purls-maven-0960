@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.pnc.build.finder/build-finder@2.4.1?classifier=sources
 - pkg:maven/org.jboss.pnc.build.finder/build-finder@2.4.2
 - pkg:maven/org.jboss.pnc.build.finder/build-finder@2.4.2?classifier=sources
+- pkg:maven/org.jboss.pnc.build.finder/build-finder@2.5.0
+- pkg:maven/org.jboss.pnc.build.finder/build-finder@2.5.0?classifier=sources

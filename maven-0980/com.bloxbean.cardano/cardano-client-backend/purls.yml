@@ -22,3 +22,5 @@
 - pkg:maven/com.bloxbean.cardano/cardano-client-backend@0.6.0-preview1?classifier=sources
 - pkg:maven/com.bloxbean.cardano/cardano-client-backend@0.6.0-preview2?classifier=sources
 - pkg:maven/com.bloxbean.cardano/cardano-client-backend@0.6.0?classifier=sources
+- pkg:maven/com.bloxbean.cardano/cardano-client-backend@0.6.1?classifier=sources
+- pkg:maven/com.bloxbean.cardano/cardano-client-backend@0.6.2?classifier=sources

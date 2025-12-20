@@ -20,6 +20,8 @@
 - pkg:maven/io.mats3/mats-impl-jms@0.19.18-2024-04-19?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.19.19-2024-04-30?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.19.2-2023-01-18?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@0.19.20-2024-11-05?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@0.19.21-2024-11-07?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.19.3-2023-02-06?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.19.4-2023-02-10?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@0.19.5-2023-03-26?classifier=sources
@@ -36,6 +38,10 @@
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC0-2024-10-03?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC1-2024-10-04?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC2-2024-10-06?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC3-2024-10-14?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC4-2024-10-18?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC5-2024-10-21?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC6-2024-10-24?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.18.5-2022-02-22?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.19.0-2022-11-04?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.19.12-2023-10-27?classifier=sources
