@@ -388,6 +388,10 @@
 - pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.44.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.45.0
 - pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.45.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.46.0
+- pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.46.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.47.0
+- pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.47.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.5.0
 - pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.5.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotlambdadynamodb@2.6.0

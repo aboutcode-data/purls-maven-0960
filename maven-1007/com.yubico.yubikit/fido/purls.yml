@@ -11,3 +11,4 @@
 - pkg:maven/com.yubico.yubikit/fido@1.0.0-beta05?classifier=sources
 - pkg:maven/com.yubico.yubikit/fido@1.0.0-beta05?type=aar
 - pkg:maven/com.yubico.yubikit/fido@2.4.0-beta01?classifier=sources
+- pkg:maven/com.yubico.yubikit/fido@2.4.0?classifier=sources

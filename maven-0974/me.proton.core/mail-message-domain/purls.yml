@@ -37,6 +37,15 @@
 - pkg:maven/me.proton.core/mail-message-domain@17.2.1?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@17.3.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@18.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.1.1?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.2.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.2.1?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.2.2?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.2.3?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.3.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message-domain@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message-domain@3.0.0?classifier=sources

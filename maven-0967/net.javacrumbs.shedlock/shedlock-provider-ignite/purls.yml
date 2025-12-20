@@ -52,6 +52,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.1.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.10.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.10.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.10.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.10.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.10.2
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.10.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-ignite@5.3.0

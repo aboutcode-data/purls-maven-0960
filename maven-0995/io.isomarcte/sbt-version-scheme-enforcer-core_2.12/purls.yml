@@ -28,3 +28,7 @@
 - pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.1.0.2?classifier=sources
 - pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.1.0.3
 - pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.1.0.3?classifier=sources
+- pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.2.0.0
+- pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.2.0.0?classifier=sources
+- pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.2.1.0
+- pkg:maven/io.isomarcte/sbt-version-scheme-enforcer-core_2.12@2.2.1.0?classifier=sources

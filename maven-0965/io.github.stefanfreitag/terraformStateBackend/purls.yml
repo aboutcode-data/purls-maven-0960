@@ -51,6 +51,10 @@
 - pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.33?classifier=sources
 - pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.34
 - pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.34?classifier=sources
+- pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.35
+- pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.35?classifier=sources
+- pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.36
+- pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.36?classifier=sources
 - pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.3?classifier=sources
 - pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.4
 - pkg:maven/io.github.stefanfreitag/terraformStateBackend@0.0.4?classifier=sources

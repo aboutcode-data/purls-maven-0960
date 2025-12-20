@@ -6,3 +6,5 @@
 - pkg:maven/de.westemeyer/artifact-version-service@1.0.2?classifier=sources
 - pkg:maven/de.westemeyer/artifact-version-service@1.1.0
 - pkg:maven/de.westemeyer/artifact-version-service@1.1.0?classifier=sources
+- pkg:maven/de.westemeyer/artifact-version-service@1.1.1
+- pkg:maven/de.westemeyer/artifact-version-service@1.1.1?classifier=sources

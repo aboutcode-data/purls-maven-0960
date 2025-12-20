@@ -1,6 +1,10 @@
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.beta-01
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.beta-01?classifier=sources
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.beta-02
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.beta-02?classifier=sources
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.rc-01
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.rc-01?classifier=sources
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0?classifier=sources
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.1
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.quarkiverse.sshd/quarkus-sshd-deployment@1.0.0
 - pkg:maven/io.quarkiverse.sshd/quarkus-sshd-deployment@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.sshd/quarkus-sshd-deployment@1.1.0
+- pkg:maven/io.quarkiverse.sshd/quarkus-sshd-deployment@1.1.0?classifier=sources

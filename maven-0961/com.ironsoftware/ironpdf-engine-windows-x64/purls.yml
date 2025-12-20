@@ -8,6 +8,8 @@
 - pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.10.2?classifier=sources
 - pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.11.1
 - pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.11.1?classifier=sources
+- pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.12.1
+- pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.12.1?classifier=sources
 - pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.3.2
 - pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.3.2?classifier=sources
 - pkg:maven/com.ironsoftware/ironpdf-engine-windows-x64@2023.4.4

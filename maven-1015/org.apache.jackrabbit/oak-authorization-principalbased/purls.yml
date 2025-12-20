@@ -25,6 +25,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.16?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.17
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.17?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.18
+- pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.18?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.2
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.22.2?classifier=sources
@@ -76,3 +78,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.56.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.58.0
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.58.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.60.0
+- pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.60.0?classifier=sources

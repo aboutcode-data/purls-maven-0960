@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/rollup__pluginutils@3.1.0
+- pkg:maven/org.webjars.npm/rollup__pluginutils@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/rollup__pluginutils@4.0.0
 - pkg:maven/org.webjars.npm/rollup__pluginutils@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/rollup__pluginutils@5.0.2

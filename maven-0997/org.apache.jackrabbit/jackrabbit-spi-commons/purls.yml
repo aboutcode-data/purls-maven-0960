@@ -295,6 +295,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.20
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.20?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.21
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.21?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.3?classifier=sources

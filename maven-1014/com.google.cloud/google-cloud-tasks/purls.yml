@@ -286,6 +286,10 @@
 - pkg:maven/com.google.cloud/google-cloud-tasks@2.3.9?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tasks@2.30.0
 - pkg:maven/com.google.cloud/google-cloud-tasks@2.30.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tasks@2.31.0
+- pkg:maven/com.google.cloud/google-cloud-tasks@2.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tasks@2.32.0
+- pkg:maven/com.google.cloud/google-cloud-tasks@2.32.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tasks@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-tasks@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tasks@2.5.0

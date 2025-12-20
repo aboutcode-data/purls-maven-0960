@@ -57,6 +57,8 @@
 - pkg:maven/dev.crashteam/payment-proto@0.0.35?classifier=sources
 - pkg:maven/dev.crashteam/payment-proto@0.0.37
 - pkg:maven/dev.crashteam/payment-proto@0.0.37?classifier=sources
+- pkg:maven/dev.crashteam/payment-proto@0.0.38
+- pkg:maven/dev.crashteam/payment-proto@0.0.38?classifier=sources
 - pkg:maven/dev.crashteam/payment-proto@0.0.3?classifier=sources
 - pkg:maven/dev.crashteam/payment-proto@0.0.4
 - pkg:maven/dev.crashteam/payment-proto@0.0.4?classifier=sources

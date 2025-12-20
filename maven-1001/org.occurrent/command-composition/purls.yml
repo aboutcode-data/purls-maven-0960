@@ -37,6 +37,8 @@
 - pkg:maven/org.occurrent/command-composition@0.16.1
 - pkg:maven/org.occurrent/command-composition@0.16.10
 - pkg:maven/org.occurrent/command-composition@0.16.10?classifier=sources
+- pkg:maven/org.occurrent/command-composition@0.16.11
+- pkg:maven/org.occurrent/command-composition@0.16.11?classifier=sources
 - pkg:maven/org.occurrent/command-composition@0.16.1?classifier=sources
 - pkg:maven/org.occurrent/command-composition@0.16.2
 - pkg:maven/org.occurrent/command-composition@0.16.2?classifier=sources

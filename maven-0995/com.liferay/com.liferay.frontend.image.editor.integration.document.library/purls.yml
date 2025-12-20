@@ -113,6 +113,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.45
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.5
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@1.0.5?classifier=sources
@@ -181,6 +182,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.26
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@2.0.3
@@ -258,6 +260,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.25
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.integration.document.library@3.0.3

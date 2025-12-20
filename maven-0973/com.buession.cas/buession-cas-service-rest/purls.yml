@@ -1,2 +1,4 @@
 - pkg:maven/com.buession.cas/buession-cas-service-rest@2.3.0
 - pkg:maven/com.buession.cas/buession-cas-service-rest@2.3.0?classifier=sources
+- pkg:maven/com.buession.cas/buession-cas-service-rest@2.3.1
+- pkg:maven/com.buession.cas/buession-cas-service-rest@2.3.1?classifier=sources

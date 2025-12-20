@@ -1,6 +1,9 @@
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.0.1?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.0.2?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.1.0?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-health-connect@0.10.0?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-health-connect@0.11.0?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-health-connect@0.11.1?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.3.0?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.3.1?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.3.2?classifier=sources
@@ -27,3 +30,4 @@
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.9.3?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.9.4?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-health-connect@0.9.5?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-health-connect@0.9.6?classifier=sources

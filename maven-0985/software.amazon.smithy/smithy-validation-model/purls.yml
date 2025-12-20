@@ -46,5 +46,8 @@
 - pkg:maven/software.amazon.smithy/smithy-validation-model@1.39.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-validation-model@1.39.1?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-validation-model@1.40.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-validation-model@1.41.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-validation-model@1.41.1?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-validation-model@1.42.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-validation-model@1.9.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-validation-model@1.9.1?classifier=sources

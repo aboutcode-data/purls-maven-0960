@@ -55,6 +55,8 @@
 - pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.22?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.23
 - pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.23?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.25
+- pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.25?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.2?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.3
 - pkg:maven/ru.i-novus.components/versioned-data-storage-pg-impl@3.3?classifier=sources

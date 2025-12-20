@@ -70,6 +70,8 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@12.3.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@13.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@13.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@13.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@13.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.0.1
@@ -254,6 +256,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.50
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.6
 - pkg:maven/com.liferay/com.liferay.frontend.taglib@2.2.6?classifier=sources

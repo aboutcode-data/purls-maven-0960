@@ -1,3 +1,4 @@
+- pkg:maven/org.talend.esb/ds-service-h2@%24%257Brevision%257D
 - pkg:maven/org.talend.esb/ds-service-h2@5.1.0
 - pkg:maven/org.talend.esb/ds-service-h2@5.1.0?classifier=sources
 - pkg:maven/org.talend.esb/ds-service-h2@5.1.1
@@ -77,4 +78,5 @@
 - pkg:maven/org.talend.esb/ds-service-h2@7.3.1
 - pkg:maven/org.talend.esb/ds-service-h2@7.3.1?classifier=sources
 - pkg:maven/org.talend.esb/ds-service-h2@8.0.1
+- pkg:maven/org.talend.esb/ds-service-h2@8.0.1.R2023-10-RT
 - pkg:maven/org.talend.esb/ds-service-h2@8.0.1?classifier=sources

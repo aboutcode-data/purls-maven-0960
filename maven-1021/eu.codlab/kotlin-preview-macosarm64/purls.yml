@@ -1,2 +1,6 @@
 - pkg:maven/eu.codlab/kotlin-preview-macosarm64@1.1.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-preview-macosarm64@1.1.3?classifier=sources
+- pkg:maven/eu.codlab/kotlin-preview-macosarm64@1.12.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-preview-macosarm64@1.13.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-preview-macosarm64@1.13.3?classifier=sources
+- pkg:maven/eu.codlab/kotlin-preview-macosarm64@1.14.0?classifier=sources

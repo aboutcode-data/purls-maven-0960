@@ -263,6 +263,10 @@
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.219?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.21?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.22
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.220
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.220?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.221
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.221?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.22?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.23
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@2.23?classifier=sources

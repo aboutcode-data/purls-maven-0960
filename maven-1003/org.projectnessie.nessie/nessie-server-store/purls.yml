@@ -37,3 +37,4 @@
 - pkg:maven/org.projectnessie.nessie/nessie-server-store@0.72.2?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-server-store@0.72.4?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-server-store@0.73.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-server-store@0.74.0?classifier=sources

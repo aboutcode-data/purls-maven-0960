@@ -96,6 +96,8 @@
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.56?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.58
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.58?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.60
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.60?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.7
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.7?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.10.8
@@ -189,6 +191,10 @@
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.45?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.46
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.46?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.47
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.47?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.48
+- pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.48?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.4?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.5
 - pkg:maven/com.yahoo.athenz/athenz-client-common@1.11.5?classifier=sources

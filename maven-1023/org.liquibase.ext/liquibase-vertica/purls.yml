@@ -44,3 +44,5 @@
 - pkg:maven/org.liquibase.ext/liquibase-vertica@4.23.2?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-vertica@4.24.0
 - pkg:maven/org.liquibase.ext/liquibase-vertica@4.24.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-vertica@4.25.0
+- pkg:maven/org.liquibase.ext/liquibase-vertica@4.25.0?classifier=sources

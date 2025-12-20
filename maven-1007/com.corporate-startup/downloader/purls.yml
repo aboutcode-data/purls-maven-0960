@@ -1,0 +1,3 @@
+- pkg:maven/com.corporate-startup/downloader@1.0.0?classifier=sources
+- pkg:maven/com.corporate-startup/downloader@1.1.0?classifier=sources
+- pkg:maven/com.corporate-startup/downloader@1.2.0?classifier=sources

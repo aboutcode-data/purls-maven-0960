@@ -83,6 +83,8 @@
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.11?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.12
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.12?classifier=sources
+- pkg:maven/org.apache.servicecomb/registry-service-center@2.8.13
+- pkg:maven/org.apache.servicecomb/registry-service-center@2.8.13?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.2
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.2?classifier=sources
@@ -100,3 +102,5 @@
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.8?classifier=sources
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.9
 - pkg:maven/org.apache.servicecomb/registry-service-center@2.8.9?classifier=sources
+- pkg:maven/org.apache.servicecomb/registry-service-center@3.0.0
+- pkg:maven/org.apache.servicecomb/registry-service-center@3.0.0?classifier=sources

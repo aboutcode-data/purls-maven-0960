@@ -50,6 +50,10 @@
 - pkg:maven/com.outr/scarango-core_3@3.16.0?classifier=sources
 - pkg:maven/com.outr/scarango-core_3@3.17.0
 - pkg:maven/com.outr/scarango-core_3@3.17.0?classifier=sources
+- pkg:maven/com.outr/scarango-core_3@3.18.0
+- pkg:maven/com.outr/scarango-core_3@3.18.0?classifier=sources
+- pkg:maven/com.outr/scarango-core_3@3.18.1
+- pkg:maven/com.outr/scarango-core_3@3.18.1?classifier=sources
 - pkg:maven/com.outr/scarango-core_3@3.2.0
 - pkg:maven/com.outr/scarango-core_3@3.2.0?classifier=sources
 - pkg:maven/com.outr/scarango-core_3@3.3.0

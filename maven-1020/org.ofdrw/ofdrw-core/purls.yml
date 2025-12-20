@@ -212,3 +212,7 @@
 - pkg:maven/org.ofdrw/ofdrw-core@2.0.9?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-core@2.1.0
 - pkg:maven/org.ofdrw/ofdrw-core@2.1.0?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-core@2.2.1
+- pkg:maven/org.ofdrw/ofdrw-core@2.2.1?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-core@2.2.2
+- pkg:maven/org.ofdrw/ofdrw-core@2.2.2?classifier=sources

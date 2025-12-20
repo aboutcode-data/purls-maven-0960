@@ -55,6 +55,10 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.15?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.16
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.16?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.17
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.17?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.18
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.18?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.1?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.2?classifier=sources
@@ -70,3 +74,7 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@1.9.8?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@2.0.0-alpha-1
 - pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@2.0.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@2.0.0-alpha-2
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@2.0.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@2.0.0-alpha-3
+- pkg:maven/org.apache.maven.resolver/maven-resolver-connector-basic@2.0.0-alpha-3?classifier=sources

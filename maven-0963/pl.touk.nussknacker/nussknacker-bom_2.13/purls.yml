@@ -11,6 +11,8 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.12.1?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.12.2?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.12.3?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.12.4?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.12.5?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.8.0-RC1?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.8.0?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-bom_2.13@1.8.1?classifier=sources

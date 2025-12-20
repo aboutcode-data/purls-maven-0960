@@ -124,3 +124,5 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@2.0.9?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@4.0.0
 - pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@4.0.0?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@4.0.1
+- pkg:maven/org.apache.openwebbeans/openwebbeans-jsf@4.0.1?classifier=sources

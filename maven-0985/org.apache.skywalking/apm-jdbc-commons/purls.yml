@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@8.9.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@9.0.0
 - pkg:maven/org.apache.skywalking/apm-jdbc-commons@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@9.1.0
+- pkg:maven/org.apache.skywalking/apm-jdbc-commons@9.1.0?classifier=sources

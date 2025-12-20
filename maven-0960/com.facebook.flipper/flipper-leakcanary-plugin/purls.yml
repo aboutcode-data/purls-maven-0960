@@ -134,6 +134,7 @@
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.235.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.236.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.237.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.238.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.75.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.75.1?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-leakcanary-plugin@0.76.0?classifier=sources

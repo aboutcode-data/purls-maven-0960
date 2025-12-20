@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.skywalking/apm-rocketmq-client-java-5.x-plugin@9.0.0
 - pkg:maven/org.apache.skywalking/apm-rocketmq-client-java-5.x-plugin@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-rocketmq-client-java-5.x-plugin@9.1.0
+- pkg:maven/org.apache.skywalking/apm-rocketmq-client-java-5.x-plugin@9.1.0?classifier=sources

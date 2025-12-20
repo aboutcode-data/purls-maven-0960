@@ -4,6 +4,8 @@
 - pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.11.0-991?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.11.1-1033
 - pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.11.1-1033?classifier=sources
+- pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.11.2-1080
+- pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.11.2-1080?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.3.0-280
 - pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.3.0-280?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-binding-elasticsearch@3.4.0-380

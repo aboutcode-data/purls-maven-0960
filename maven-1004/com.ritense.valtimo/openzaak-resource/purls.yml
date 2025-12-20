@@ -10,6 +10,8 @@
 - pkg:maven/com.ritense.valtimo/openzaak-resource@10.5.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@10.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@10.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-resource@10.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-resource@11.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@9.11.0.RELEASE?classifier=sources

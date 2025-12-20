@@ -112,3 +112,7 @@
 - pkg:maven/org.alluxio/alluxio-job-client@304?classifier=sources
 - pkg:maven/org.alluxio/alluxio-job-client@305
 - pkg:maven/org.alluxio/alluxio-job-client@305?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-client@306
+- pkg:maven/org.alluxio/alluxio-job-client@306?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-client@307
+- pkg:maven/org.alluxio/alluxio-job-client@307?classifier=sources

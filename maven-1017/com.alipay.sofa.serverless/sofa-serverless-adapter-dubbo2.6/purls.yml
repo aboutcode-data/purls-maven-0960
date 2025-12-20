@@ -1,0 +1,6 @@
+- pkg:maven/com.alipay.sofa.serverless/sofa-serverless-adapter-dubbo2.6@0.5.3
+- pkg:maven/com.alipay.sofa.serverless/sofa-serverless-adapter-dubbo2.6@0.5.3-jdk17
+- pkg:maven/com.alipay.sofa.serverless/sofa-serverless-adapter-dubbo2.6@0.5.3-jdk17?classifier=sources
+- pkg:maven/com.alipay.sofa.serverless/sofa-serverless-adapter-dubbo2.6@0.5.3?classifier=sources
+- pkg:maven/com.alipay.sofa.serverless/sofa-serverless-adapter-dubbo2.6@0.5.5-jdk17
+- pkg:maven/com.alipay.sofa.serverless/sofa-serverless-adapter-dubbo2.6@0.5.5-jdk17?classifier=sources

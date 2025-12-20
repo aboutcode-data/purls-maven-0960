@@ -84,3 +84,5 @@
 - pkg:maven/org.ninjaframework/ninja-metrics@6.8.1?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-metrics@6.9.0
 - pkg:maven/org.ninjaframework/ninja-metrics@6.9.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-metrics@7.0.0
+- pkg:maven/org.ninjaframework/ninja-metrics@7.0.0?classifier=sources

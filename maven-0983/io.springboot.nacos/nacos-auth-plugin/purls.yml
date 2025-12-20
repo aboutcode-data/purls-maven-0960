@@ -13,4 +13,6 @@
 - pkg:maven/io.springboot.nacos/nacos-auth-plugin@2.2.4
 - pkg:maven/io.springboot.nacos/nacos-auth-plugin@2.2.4-OEM
 - pkg:maven/io.springboot.nacos/nacos-auth-plugin@2.2.4-OEM?classifier=sources
+- pkg:maven/io.springboot.nacos/nacos-auth-plugin@2.2.4-x86
+- pkg:maven/io.springboot.nacos/nacos-auth-plugin@2.2.4-x86?classifier=sources
 - pkg:maven/io.springboot.nacos/nacos-auth-plugin@2.2.4?classifier=sources

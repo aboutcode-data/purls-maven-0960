@@ -32,3 +32,7 @@
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.44.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.45.0
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.45.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.46.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.46.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.47.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.47.0?classifier=sources

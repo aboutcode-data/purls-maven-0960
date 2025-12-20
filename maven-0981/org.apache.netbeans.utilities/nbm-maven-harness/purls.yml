@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@13.0
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@13.0?classifier=sources
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@14.0
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-harness@14.0?classifier=sources

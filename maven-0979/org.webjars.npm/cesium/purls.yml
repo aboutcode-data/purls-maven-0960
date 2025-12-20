@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/cesium@1.106.1?classifier=sources
 - pkg:maven/org.webjars.npm/cesium@1.107.2
 - pkg:maven/org.webjars.npm/cesium@1.107.2?classifier=sources
+- pkg:maven/org.webjars.npm/cesium@1.111.0
+- pkg:maven/org.webjars.npm/cesium@1.111.0?classifier=sources
 - pkg:maven/org.webjars.npm/cesium@1.17.0
 - pkg:maven/org.webjars.npm/cesium@1.17.0?classifier=sources
 - pkg:maven/org.webjars.npm/cesium@1.21.0

@@ -1,2 +1,6 @@
 - pkg:maven/io.github.lyoubo/refactoring-extractor@1.1.0
 - pkg:maven/io.github.lyoubo/refactoring-extractor@1.1.0?classifier=sources
+- pkg:maven/io.github.lyoubo/refactoring-extractor@1.2.0
+- pkg:maven/io.github.lyoubo/refactoring-extractor@1.2.0?classifier=sources
+- pkg:maven/io.github.lyoubo/refactoring-extractor@2.0.0
+- pkg:maven/io.github.lyoubo/refactoring-extractor@2.0.0?classifier=sources

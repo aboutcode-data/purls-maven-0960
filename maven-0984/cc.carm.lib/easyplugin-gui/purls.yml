@@ -1,5 +1,7 @@
 - pkg:maven/cc.carm.lib/easyplugin-gui@1.5.10
 - pkg:maven/cc.carm.lib/easyplugin-gui@1.5.10?classifier=sources
+- pkg:maven/cc.carm.lib/easyplugin-gui@1.5.11
+- pkg:maven/cc.carm.lib/easyplugin-gui@1.5.11?classifier=sources
 - pkg:maven/cc.carm.lib/easyplugin-gui@1.5.2
 - pkg:maven/cc.carm.lib/easyplugin-gui@1.5.2?classifier=sources
 - pkg:maven/cc.carm.lib/easyplugin-gui@1.5.3

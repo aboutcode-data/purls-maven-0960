@@ -3,3 +3,5 @@
 - pkg:maven/com.garmin/fit@21.120.1
 - pkg:maven/com.garmin/fit@21.120.1?classifier=sources
 - pkg:maven/com.garmin/fit@21.120.2?classifier=sources
+- pkg:maven/com.garmin/fit@21.126.0
+- pkg:maven/com.garmin/fit@21.126.0?classifier=sources

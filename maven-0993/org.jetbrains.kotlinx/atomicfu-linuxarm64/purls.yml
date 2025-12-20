@@ -3,3 +3,5 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm64@0.20.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm64@0.21.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm64@0.22.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm64@0.23.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm64@0.23.1?classifier=sources

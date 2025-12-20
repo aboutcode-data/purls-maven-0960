@@ -1,2 +1,4 @@
 - pkg:maven/org.chobit.commons/common-validator@0.1
+- pkg:maven/org.chobit.commons/common-validator@0.1.1
+- pkg:maven/org.chobit.commons/common-validator@0.1.1?classifier=sources
 - pkg:maven/org.chobit.commons/common-validator@0.1?classifier=sources

@@ -220,6 +220,8 @@
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.30.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.31.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.32.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.33.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.34.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.4.Final
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.4.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-gradle-plugin@5.3.5.Final

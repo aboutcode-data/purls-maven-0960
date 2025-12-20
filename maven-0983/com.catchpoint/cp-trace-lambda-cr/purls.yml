@@ -12,6 +12,10 @@
 - pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.15?classifier=sources
 - pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.16
 - pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.16?classifier=sources
+- pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.17
+- pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.17?classifier=sources
+- pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.18
+- pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.18?classifier=sources
 - pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.7
 - pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.7?classifier=sources
 - pkg:maven/com.catchpoint/cp-trace-lambda-cr@0.0.8

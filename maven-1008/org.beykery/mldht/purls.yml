@@ -4,3 +4,7 @@
 - pkg:maven/org.beykery/mldht@0.0.2?classifier=sources
 - pkg:maven/org.beykery/mldht@0.0.3
 - pkg:maven/org.beykery/mldht@0.0.3?classifier=sources
+- pkg:maven/org.beykery/mldht@0.0.5-RELEASE
+- pkg:maven/org.beykery/mldht@0.0.5-RELEASE?classifier=sources
+- pkg:maven/org.beykery/mldht@0.0.6-RELEASE
+- pkg:maven/org.beykery/mldht@0.0.6-RELEASE?classifier=sources

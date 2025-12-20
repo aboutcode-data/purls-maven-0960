@@ -65,3 +65,6 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@2.0.4.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@2.0.5.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@2.0.6.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@2.0.7.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@2.1.0.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@2.2.0.Final?classifier=sources

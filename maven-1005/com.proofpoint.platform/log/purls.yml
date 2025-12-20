@@ -494,3 +494,5 @@
 - pkg:maven/com.proofpoint.platform/log@3.06?classifier=sources
 - pkg:maven/com.proofpoint.platform/log@3.07
 - pkg:maven/com.proofpoint.platform/log@3.07?classifier=sources
+- pkg:maven/com.proofpoint.platform/log@3.08
+- pkg:maven/com.proofpoint.platform/log@3.08?classifier=sources

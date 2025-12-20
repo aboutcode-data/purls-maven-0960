@@ -32,5 +32,9 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.29.0%2B0.0.6?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.30.0%2B0.0.6
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.30.0%2B0.0.6?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.31.0%2B0.0.6
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.31.0%2B0.0.6?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.32.0%2B0.0.6
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.32.0%2B0.0.6?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.9.0%2B0.0.2
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-trace-v2_3@2.9.0%2B0.0.2?classifier=sources

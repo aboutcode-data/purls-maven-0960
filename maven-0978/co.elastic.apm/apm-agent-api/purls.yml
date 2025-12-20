@@ -122,6 +122,8 @@
 - pkg:maven/co.elastic.apm/apm-agent-api@1.42.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-api@1.43.0
 - pkg:maven/co.elastic.apm/apm-agent-api@1.43.0?classifier=sources
+- pkg:maven/co.elastic.apm/apm-agent-api@1.44.0
+- pkg:maven/co.elastic.apm/apm-agent-api@1.44.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-api@1.5.0
 - pkg:maven/co.elastic.apm/apm-agent-api@1.5.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-api@1.6.0

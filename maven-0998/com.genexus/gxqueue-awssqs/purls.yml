@@ -20,6 +20,8 @@
 - pkg:maven/com.genexus/gxqueue-awssqs@4.1.0?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.1.1
 - pkg:maven/com.genexus/gxqueue-awssqs@4.1.1?classifier=sources
+- pkg:maven/com.genexus/gxqueue-awssqs@4.1.2
+- pkg:maven/com.genexus/gxqueue-awssqs@4.1.2?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.2.1
 - pkg:maven/com.genexus/gxqueue-awssqs@4.2.1?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.2.2

@@ -1,2 +1,4 @@
 - pkg:maven/org.openmole.gridscale/example-oar_3@2.50
 - pkg:maven/org.openmole.gridscale/example-oar_3@2.50?classifier=sources
+- pkg:maven/org.openmole.gridscale/example-oar_3@2.51
+- pkg:maven/org.openmole.gridscale/example-oar_3@2.51?classifier=sources

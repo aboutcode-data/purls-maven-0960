@@ -1,0 +1,4 @@
+- pkg:maven/org.xipki.gateway/cmp-core@6.5.0
+- pkg:maven/org.xipki.gateway/cmp-core@6.5.0?classifier=sources
+- pkg:maven/org.xipki.gateway/cmp-core@6.5.1
+- pkg:maven/org.xipki.gateway/cmp-core@6.5.1?classifier=sources

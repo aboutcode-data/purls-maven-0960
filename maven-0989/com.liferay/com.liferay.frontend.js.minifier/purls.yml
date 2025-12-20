@@ -316,6 +316,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@5.0.4
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.minifier@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.0?classifier=sources-commercial
@@ -337,6 +338,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.6
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.minifier@6.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.0?classifier=sources-commercial
@@ -358,6 +360,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.6
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.minifier@7.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.0?classifier=sources-commercial
@@ -382,6 +385,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.7
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.minifier@8.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@9.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@9.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.minifier@9.0.0?classifier=sources-commercial

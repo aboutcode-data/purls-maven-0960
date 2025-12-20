@@ -122,6 +122,7 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.6.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.8.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.13.9.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.14.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.14.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@2.14.1.Final?classifier=sources
@@ -218,6 +219,7 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.2.6.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.2.7.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.2.8.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.2.9.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.3.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.3.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.3.1?classifier=sources
@@ -231,3 +233,10 @@
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.5.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.5.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.5.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.5.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.5.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.6.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.6.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.6.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.6.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-amazon-lambda-archetype@3.6.3?classifier=sources

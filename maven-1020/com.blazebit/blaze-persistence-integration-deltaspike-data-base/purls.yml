@@ -53,6 +53,8 @@
 - pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.0-Alpha2?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.0?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.1
+- pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.10
+- pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.10?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.1?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.2
 - pkg:maven/com.blazebit/blaze-persistence-integration-deltaspike-data-base@1.6.2?classifier=sources

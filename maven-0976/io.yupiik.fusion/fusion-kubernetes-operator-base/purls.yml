@@ -2,6 +2,8 @@
 - pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.10?classifier=sources
 - pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.11
 - pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.11?classifier=sources
+- pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.12
+- pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.12?classifier=sources
 - pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.8
 - pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.8?classifier=sources
 - pkg:maven/io.yupiik.fusion/fusion-kubernetes-operator-base@1.0.9

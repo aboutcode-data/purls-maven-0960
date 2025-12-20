@@ -11,6 +11,8 @@
 - pkg:maven/org.jetbrains.compose.components/library-android@1.5.10-rc01?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/library-android@1.5.10-rc02?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/library-android@1.5.10?classifier=sources
+- pkg:maven/org.jetbrains.compose.components/library-android@1.5.11?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/library-android@1.5.1?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/library-android@1.5.2?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/library-android@1.5.3?classifier=sources
+- pkg:maven/org.jetbrains.compose.components/library-android@1.6.0-alpha01?classifier=sources

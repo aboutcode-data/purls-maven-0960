@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.56.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.58.0
 - pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.58.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.60.0
+- pkg:maven/org.apache.jackrabbit/oak-segment-aws@1.60.0?classifier=sources

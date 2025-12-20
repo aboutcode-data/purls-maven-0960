@@ -114,3 +114,5 @@
 - pkg:maven/io.docops/docops-extension-server@2023.43?classifier=sources
 - pkg:maven/io.docops/docops-extension-server@2023.45
 - pkg:maven/io.docops/docops-extension-server@2023.45?classifier=sources
+- pkg:maven/io.docops/docops-extension-server@2023.46
+- pkg:maven/io.docops/docops-extension-server@2023.46?classifier=sources

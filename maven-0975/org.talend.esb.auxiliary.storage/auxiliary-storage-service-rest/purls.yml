@@ -43,4 +43,6 @@
 - pkg:maven/org.talend.esb.auxiliary.storage/auxiliary-storage-service-rest@7.3.1
 - pkg:maven/org.talend.esb.auxiliary.storage/auxiliary-storage-service-rest@7.3.1?classifier=sources
 - pkg:maven/org.talend.esb.auxiliary.storage/auxiliary-storage-service-rest@8.0.1
+- pkg:maven/org.talend.esb.auxiliary.storage/auxiliary-storage-service-rest@8.0.1.R2023-08-RT
+- pkg:maven/org.talend.esb.auxiliary.storage/auxiliary-storage-service-rest@8.0.1.R2023-10-RT
 - pkg:maven/org.talend.esb.auxiliary.storage/auxiliary-storage-service-rest@8.0.1?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.2?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.3
 - pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.3?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.4
+- pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.4?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.5
+- pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.12.5?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.8.0
 - pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.8.0-RC1
 - pkg:maven/pl.touk.nussknacker/nussknacker-kafka-test-utils_2.13@1.8.0-RC1?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.22.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.23.0
 - pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.23.0?classifier=sources
+- pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.24.0
+- pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.24.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.7.0
 - pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.7.0?classifier=sources
 - pkg:maven/org.apache.calcite.avatica/avatica-noop-driver@1.7.1

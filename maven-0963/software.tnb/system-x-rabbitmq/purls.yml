@@ -1,2 +1,4 @@
 - pkg:maven/software.tnb/system-x-rabbitmq@0.0.13
 - pkg:maven/software.tnb/system-x-rabbitmq@0.0.13?classifier=sources
+- pkg:maven/software.tnb/system-x-rabbitmq@0.0.14
+- pkg:maven/software.tnb/system-x-rabbitmq@0.0.14?classifier=sources

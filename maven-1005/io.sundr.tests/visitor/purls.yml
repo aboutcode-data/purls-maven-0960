@@ -1,2 +1,6 @@
 - pkg:maven/io.sundr.tests/visitor@0.101.3
 - pkg:maven/io.sundr.tests/visitor@0.101.3?classifier=sources
+- pkg:maven/io.sundr.tests/visitor@0.103.0
+- pkg:maven/io.sundr.tests/visitor@0.103.0?classifier=sources
+- pkg:maven/io.sundr.tests/visitor@0.103.1
+- pkg:maven/io.sundr.tests/visitor@0.103.1?classifier=sources

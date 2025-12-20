@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@8.9.0?classifier=sources
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@9.0.0
 - pkg:maven/org.apache.skywalking/druid-1.x-plugin@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/druid-1.x-plugin@9.1.0
+- pkg:maven/org.apache.skywalking/druid-1.x-plugin@9.1.0?classifier=sources

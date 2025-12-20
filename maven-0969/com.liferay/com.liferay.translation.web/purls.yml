@@ -351,5 +351,7 @@
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.9
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.translation.web@2.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.translation.web@2.0.9?classifier=sources-commercial

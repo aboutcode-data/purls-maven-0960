@@ -5,3 +5,4 @@
 - pkg:maven/com.google.cloud.opentelemetry/propagators-gcp@0.25.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/propagators-gcp@0.25.1-alpha?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/propagators-gcp@0.25.2-alpha?classifier=sources
+- pkg:maven/com.google.cloud.opentelemetry/propagators-gcp@0.26.0-alpha?classifier=sources

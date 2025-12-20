@@ -86,3 +86,5 @@
 - pkg:maven/com.hp.autonomy.frontend/aci-types@0.8.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend/aci-types@0.9.0
 - pkg:maven/com.hp.autonomy.frontend/aci-types@0.9.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend/aci-types@1.0.0
+- pkg:maven/com.hp.autonomy.frontend/aci-types@1.0.0?classifier=sources

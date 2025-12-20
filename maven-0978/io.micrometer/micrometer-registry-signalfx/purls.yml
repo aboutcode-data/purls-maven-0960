@@ -70,6 +70,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.10?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.11?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.12?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.13?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.10.3?classifier=sources
@@ -85,6 +86,10 @@
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.11.3?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.11.4?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.11.5?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.11.6?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.11.7?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.12.0?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.12.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.2.0
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.2.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.2.1
@@ -221,6 +226,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.14?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.15?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.16?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.17?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-signalfx@1.9.3?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/org.http4s/http4s-jawn_native0.4_3@0.23.22?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_native0.4_3@0.23.23
 - pkg:maven/org.http4s/http4s-jawn_native0.4_3@0.23.23?classifier=sources
+- pkg:maven/org.http4s/http4s-jawn_native0.4_3@0.23.24
+- pkg:maven/org.http4s/http4s-jawn_native0.4_3@0.23.24?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_native0.4_3@1.0.0-M37
 - pkg:maven/org.http4s/http4s-jawn_native0.4_3@1.0.0-M37?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_native0.4_3@1.0.0-M38

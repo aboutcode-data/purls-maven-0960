@@ -10,6 +10,7 @@
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@2.0.3
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.user.groups.admin.api@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@3.0.0?classifier=sources-commercial
@@ -75,3 +76,4 @@
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@6.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.user.groups.admin.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.user.groups.admin.api@7.0.1?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@1.1.2?classifier=sources
 - pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@1.1.3
 - pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@1.1.3?classifier=sources
+- pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@2.0.0
+- pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@2.0.0?classifier=sources
+- pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@2.1.0
+- pkg:maven/org.lfenergy.shapeshifter/shapeshifter-api@2.1.0?classifier=sources

@@ -179,3 +179,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.9.20-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.9.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.9.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@1.9.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-compiler@2.0.0-Beta1?classifier=sources

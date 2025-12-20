@@ -63,6 +63,10 @@
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.14?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.15
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.15?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.16
+- pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.16?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.17
+- pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.17?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.1?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.2
 - pkg:maven/org.scalameta/scalafmt-config_2.12@3.7.2?classifier=sources
