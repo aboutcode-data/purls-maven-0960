@@ -21,3 +21,7 @@
 - pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.14.8?classifier=sources
 - pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.14.9?classifier=sources
 - pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.15.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.15.1?classifier=sources
+- pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.15.2?classifier=sources
+- pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.16.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-logging-cloudwatch@2.16.1?classifier=sources

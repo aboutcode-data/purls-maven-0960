@@ -284,6 +284,11 @@
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.18?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.19?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.1?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.20?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.21?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.22?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.23?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.24?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.2?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.3?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.4?classifier=sources
@@ -292,3 +297,5 @@
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.7?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.8?classifier=sources
 - pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.3.9?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.4.0?classifier=sources
+- pkg:maven/org.sdase.commons.spring.boot/sda-commons-web-testing@4.4.1?classifier=sources

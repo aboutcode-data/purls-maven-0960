@@ -43,6 +43,9 @@
 - pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.22.0?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.22.1?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.22.2?classifier=sources
+- pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.23.0?classifier=sources
+- pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.24.0?classifier=sources
+- pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.25.0?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.9.10?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.9.11?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-ktor@0.9.12?classifier=sources

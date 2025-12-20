@@ -18,6 +18,8 @@
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@3.24.0?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@3.25.0
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@3.25.0?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@3.26.0
+- pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@3.26.0?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC1
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC1?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC2
@@ -30,3 +32,5 @@
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC5?classifier=sources
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC6
 - pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC6?classifier=sources
+- pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC7
+- pkg:maven/org.jetbrains/sbt-declarative-core_2.12_1.0@4.0.0-RC7?classifier=sources

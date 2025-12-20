@@ -17,3 +17,12 @@
 - pkg:maven/com.github.loki4j/loki-protobuf@0.0.1_pb3.24.0-m1?classifier=sources
 - pkg:maven/com.github.loki4j/loki-protobuf@0.0.1_pb3.24.0-m2?classifier=sources
 - pkg:maven/com.github.loki4j/loki-protobuf@0.0.1_pb3.24.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.20.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.21.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.22.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.23.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.24.0-m1?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.24.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.25.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.26.0-m1?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.26.0?classifier=sources

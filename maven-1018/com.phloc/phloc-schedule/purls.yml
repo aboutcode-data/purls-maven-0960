@@ -6,3 +6,5 @@
 - pkg:maven/com.phloc/phloc-schedule@1.6.1?classifier=sources
 - pkg:maven/com.phloc/phloc-schedule@1.6.7
 - pkg:maven/com.phloc/phloc-schedule@1.6.7?classifier=sources
+- pkg:maven/com.phloc/phloc-schedule@2.0.0
+- pkg:maven/com.phloc/phloc-schedule@2.0.0?classifier=sources

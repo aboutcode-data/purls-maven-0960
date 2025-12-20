@@ -69,3 +69,5 @@
 - pkg:maven/com.codeborne/selenide-testng@7.2.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@7.2.2?classifier=sources
 - pkg:maven/com.codeborne/selenide-testng@7.2.3?classifier=sources
+- pkg:maven/com.codeborne/selenide-testng@7.3.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-testng@7.3.1?classifier=sources

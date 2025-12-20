@@ -1,3 +1,5 @@
 - pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-ui@0.1.0-beta14?classifier=sources
 - pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-ui@0.1.0-rc01?classifier=sources
 - pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-ui@0.1.0-rc02?classifier=sources
+- pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-ui@0.1.0?classifier=sources
+- pkg:maven/dev.patrickgold.jetpref/jetpref-datastore-ui@0.2.0-beta01?classifier=sources

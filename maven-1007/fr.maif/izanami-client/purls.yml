@@ -1,2 +1,4 @@
 - pkg:maven/fr.maif/izanami-client@2.0.0
 - pkg:maven/fr.maif/izanami-client@2.0.0?classifier=sources
+- pkg:maven/fr.maif/izanami-client@2.1.0
+- pkg:maven/fr.maif/izanami-client@2.1.0?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/com.ritense.valtimo/outbox@11.2.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@11.2.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@11.2.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@11.3.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@11.3.1.RELEASE?classifier=sources

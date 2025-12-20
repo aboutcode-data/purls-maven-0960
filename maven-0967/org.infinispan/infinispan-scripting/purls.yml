@@ -320,6 +320,10 @@
 - pkg:maven/org.infinispan/infinispan-scripting@15.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-scripting@15.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.3.Final
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.4.Final
+- pkg:maven/org.infinispan/infinispan-scripting@15.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@7.2.0.Beta1
 - pkg:maven/org.infinispan/infinispan-scripting@7.2.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-scripting@7.2.0.Beta2

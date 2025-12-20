@@ -1,2 +1,4 @@
 - pkg:maven/int.esa.ccsds.mo/api-mps@10.0
 - pkg:maven/int.esa.ccsds.mo/api-mps@10.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/api-mps@10.1
+- pkg:maven/int.esa.ccsds.mo/api-mps@10.1?classifier=sources

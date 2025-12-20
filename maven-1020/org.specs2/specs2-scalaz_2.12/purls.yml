@@ -220,6 +220,8 @@
 - pkg:maven/org.specs2/specs2-scalaz_2.12@4.20.4?classifier=sources
 - pkg:maven/org.specs2/specs2-scalaz_2.12@4.20.5
 - pkg:maven/org.specs2/specs2-scalaz_2.12@4.20.5?classifier=sources
+- pkg:maven/org.specs2/specs2-scalaz_2.12@4.20.6
+- pkg:maven/org.specs2/specs2-scalaz_2.12@4.20.6?classifier=sources
 - pkg:maven/org.specs2/specs2-scalaz_2.12@4.3.0
 - pkg:maven/org.specs2/specs2-scalaz_2.12@4.3.0-9613e1025-20180617171339
 - pkg:maven/org.specs2/specs2-scalaz_2.12@4.3.0-9613e1025-20180617171339?classifier=sources

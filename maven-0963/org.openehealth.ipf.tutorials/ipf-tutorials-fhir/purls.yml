@@ -126,3 +126,5 @@
 - pkg:maven/org.openehealth.ipf.tutorials/ipf-tutorials-fhir@4.8-m8?classifier=sources
 - pkg:maven/org.openehealth.ipf.tutorials/ipf-tutorials-fhir@4.8.0
 - pkg:maven/org.openehealth.ipf.tutorials/ipf-tutorials-fhir@4.8.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.tutorials/ipf-tutorials-fhir@5.0-m1
+- pkg:maven/org.openehealth.ipf.tutorials/ipf-tutorials-fhir@5.0-m1?classifier=sources

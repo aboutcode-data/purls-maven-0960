@@ -267,6 +267,7 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp@6.6.12?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@6.6.13?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@6.6.14?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp@6.6.15.1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@6.6.15?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@6.6.1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@6.6.2?type=war
@@ -290,6 +291,7 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.0.1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.0.2?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.0.3?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp@7.0.4.1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.0.4?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.1.0-RC1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.1.0-RC2?type=war

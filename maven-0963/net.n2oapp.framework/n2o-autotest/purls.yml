@@ -321,6 +321,8 @@
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.47?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.48
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.48?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.49
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.49?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.4?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.5
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.20.5?classifier=sources
@@ -554,9 +556,15 @@
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.26.3?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.26.4
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.26.4?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.26.5
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.26.5?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.0
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.0?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.1
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.10
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.10?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.11
+- pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.11?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.1?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.2
 - pkg:maven/net.n2oapp.framework/n2o-autotest@7.27.2?classifier=sources

@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.maven.shared/maven-script-interpreter@1.5
 - pkg:maven/org.apache.maven.shared/maven-script-interpreter@1.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.shared/maven-script-interpreter@1.5?classifier=sources
+- pkg:maven/org.apache.maven.shared/maven-script-interpreter@1.6
+- pkg:maven/org.apache.maven.shared/maven-script-interpreter@1.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-script-interpreter@1.6?classifier=sources

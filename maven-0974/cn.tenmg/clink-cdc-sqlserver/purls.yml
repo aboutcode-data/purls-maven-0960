@@ -1,2 +1,4 @@
 - pkg:maven/cn.tenmg/clink-cdc-sqlserver@1.6.0
 - pkg:maven/cn.tenmg/clink-cdc-sqlserver@1.6.0?classifier=sources
+- pkg:maven/cn.tenmg/clink-cdc-sqlserver@1.6.1
+- pkg:maven/cn.tenmg/clink-cdc-sqlserver@1.6.1?classifier=sources

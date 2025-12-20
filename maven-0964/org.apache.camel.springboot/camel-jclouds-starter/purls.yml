@@ -110,6 +110,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.22.1
 - pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.22.1?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.22.2
+- pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.22.2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.3.0
 - pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-jclouds-starter@3.4.0

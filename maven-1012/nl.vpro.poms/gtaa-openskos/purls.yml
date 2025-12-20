@@ -190,6 +190,10 @@
 - pkg:maven/nl.vpro.poms/gtaa-openskos@7.11.0?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@7.11.1
 - pkg:maven/nl.vpro.poms/gtaa-openskos@7.11.1?classifier=sources
+- pkg:maven/nl.vpro.poms/gtaa-openskos@7.11.2
+- pkg:maven/nl.vpro.poms/gtaa-openskos@7.11.2?classifier=sources
+- pkg:maven/nl.vpro.poms/gtaa-openskos@7.12.0
+- pkg:maven/nl.vpro.poms/gtaa-openskos@7.12.0?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@7.2.0
 - pkg:maven/nl.vpro.poms/gtaa-openskos@7.2.0?classifier=sources
 - pkg:maven/nl.vpro.poms/gtaa-openskos@7.2.1

@@ -118,3 +118,5 @@
 - pkg:maven/org.cyclonedx/cyclonedx-core-java@8.0.2?classifier=sources
 - pkg:maven/org.cyclonedx/cyclonedx-core-java@8.0.3
 - pkg:maven/org.cyclonedx/cyclonedx-core-java@8.0.3?classifier=sources
+- pkg:maven/org.cyclonedx/cyclonedx-core-java@9.0.0
+- pkg:maven/org.cyclonedx/cyclonedx-core-java@9.0.0?classifier=sources

@@ -138,3 +138,5 @@
 - pkg:maven/com.bertramlabs.plugins/karman-grails@2.0.8?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-grails@2.0.9?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-grails@2.1.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-grails@2.1.1?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-grails@2.1.2?classifier=sources

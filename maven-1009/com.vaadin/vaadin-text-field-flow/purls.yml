@@ -47,6 +47,8 @@
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.0
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.1
+- pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.10
+- pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.2
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.2?classifier=sources
@@ -60,6 +62,10 @@
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.7
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.8
+- pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.9
+- pkg:maven/com.vaadin/vaadin-text-field-flow@14.11.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@14.5.1
@@ -527,6 +533,10 @@
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.32?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.33
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.33?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.34
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.34?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.35
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.35?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.4
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.4?classifier=sources
@@ -542,6 +552,12 @@
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.3.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.4.0
 - pkg:maven/com.vaadin/vaadin-text-field-flow@23.4.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.4.1
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.4.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.5.0
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.5.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.5.1
+- pkg:maven/com.vaadin/vaadin-text-field-flow@23.5.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.0.0
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.0.1
@@ -635,6 +651,12 @@
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.0
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.1
+- pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.10
+- pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.11
+- pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.12
+- pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.2
 - pkg:maven/com.vaadin/vaadin-text-field-flow@24.3.2?classifier=sources

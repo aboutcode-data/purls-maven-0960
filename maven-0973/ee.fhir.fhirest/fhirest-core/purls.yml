@@ -1,0 +1,4 @@
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.0.0
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.0.0?classifier=sources
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.0.2
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.0.2?classifier=sources

@@ -62,6 +62,10 @@
 - pkg:maven/io.anserini/anserini@0.3.0?classifier=sources
 - pkg:maven/io.anserini/anserini@0.35.0
 - pkg:maven/io.anserini/anserini@0.35.0?classifier=sources
+- pkg:maven/io.anserini/anserini@0.35.1
+- pkg:maven/io.anserini/anserini@0.35.1?classifier=sources
+- pkg:maven/io.anserini/anserini@0.36.0
+- pkg:maven/io.anserini/anserini@0.36.0?classifier=sources
 - pkg:maven/io.anserini/anserini@0.4.0
 - pkg:maven/io.anserini/anserini@0.4.0?classifier=sources
 - pkg:maven/io.anserini/anserini@0.5.0

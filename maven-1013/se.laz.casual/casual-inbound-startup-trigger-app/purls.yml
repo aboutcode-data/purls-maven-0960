@@ -11,6 +11,7 @@
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@2.2.27?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@2.2.28?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@2.2.29?classifier=sources
+- pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@2.2.31?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.20?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.21?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.22?classifier=sources
@@ -26,3 +27,7 @@
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.34?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.35?classifier=sources
 - pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.36?classifier=sources
+- pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.38?classifier=sources
+- pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.39?classifier=sources
+- pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.40?classifier=sources
+- pkg:maven/se.laz.casual/casual-inbound-startup-trigger-app@3.2.41?classifier=sources

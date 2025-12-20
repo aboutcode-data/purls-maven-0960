@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.seltzer/com.io7m.seltzer.tests@1.0.0
 - pkg:maven/com.io7m.seltzer/com.io7m.seltzer.tests@1.0.0-beta0001
+- pkg:maven/com.io7m.seltzer/com.io7m.seltzer.tests@1.0.1
+- pkg:maven/com.io7m.seltzer/com.io7m.seltzer.tests@1.0.1?classifier=sources

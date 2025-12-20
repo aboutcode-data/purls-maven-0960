@@ -30,3 +30,5 @@
 - pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.api@1.1.0?classifier=sources
 - pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.api@1.2.0
 - pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.api@1.2.0?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.api@2.0.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.api@2.0.0?classifier=sources

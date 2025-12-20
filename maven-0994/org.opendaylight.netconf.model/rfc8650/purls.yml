@@ -4,3 +4,5 @@
 - pkg:maven/org.opendaylight.netconf.model/rfc8650@7.0.2?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc8650@7.0.3?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc8650@7.0.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf.model/rfc8650@7.0.5
+- pkg:maven/org.opendaylight.netconf.model/rfc8650@7.0.5?classifier=sources

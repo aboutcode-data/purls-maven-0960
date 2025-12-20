@@ -234,6 +234,10 @@
 - pkg:maven/com.uid2/uid2-shared@7.0.0-b264db84a3?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.1.0-8e67b3a537
 - pkg:maven/com.uid2/uid2-shared@7.1.0-8e67b3a537?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.10.0
+- pkg:maven/com.uid2/uid2-shared@7.10.0?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.10.6
+- pkg:maven/com.uid2/uid2-shared@7.10.6?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.2.0-41efc58fbf
 - pkg:maven/com.uid2/uid2-shared@7.2.0-41efc58fbf?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.3.0-0c9c5b24fe
@@ -242,3 +246,13 @@
 - pkg:maven/com.uid2/uid2-shared@7.4.0-5dea4369e6?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@7.5.0-ad06501882
 - pkg:maven/com.uid2/uid2-shared@7.5.0-ad06501882?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.7.0-d0165f077e
+- pkg:maven/com.uid2/uid2-shared@7.7.0-d0165f077e?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.7.2-b98db28f18
+- pkg:maven/com.uid2/uid2-shared@7.7.2-b98db28f18?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.7.6-1e644a0ded
+- pkg:maven/com.uid2/uid2-shared@7.7.6-1e644a0ded?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.8.0-35dfded760
+- pkg:maven/com.uid2/uid2-shared@7.8.0-35dfded760?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@7.9.0
+- pkg:maven/com.uid2/uid2-shared@7.9.0?classifier=sources

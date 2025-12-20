@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.paimon/paimon-flink-1.16@0.6.1-incubating?classifier=sources
 - pkg:maven/org.apache.paimon/paimon-flink-1.16@0.7.0-incubating
 - pkg:maven/org.apache.paimon/paimon-flink-1.16@0.7.0-incubating?classifier=sources
+- pkg:maven/org.apache.paimon/paimon-flink-1.16@0.8.0
+- pkg:maven/org.apache.paimon/paimon-flink-1.16@0.8.0?classifier=sources

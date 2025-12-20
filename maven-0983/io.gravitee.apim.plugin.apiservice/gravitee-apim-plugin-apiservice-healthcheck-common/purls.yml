@@ -37,6 +37,8 @@
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.22?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.23
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.23?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.24
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.24?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.3
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.0.3?classifier=sources
@@ -65,6 +67,8 @@
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.13?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.14
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.14?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.15
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.15?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.2
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.1.2?classifier=sources
@@ -102,6 +106,8 @@
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.2.7?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.2.8
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.2.8?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.2.9
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.2.9?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.0
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.0-alpha.2
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.0-alpha.2?classifier=sources
@@ -112,3 +118,5 @@
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.3
 - pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.3?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.4
+- pkg:maven/io.gravitee.apim.plugin.apiservice/gravitee-apim-plugin-apiservice-healthcheck-common@4.3.4?classifier=sources

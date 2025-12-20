@@ -20,5 +20,7 @@
 - pkg:maven/io.cequence/openai-scala-client_2.12@0.4.1?classifier=sources
 - pkg:maven/io.cequence/openai-scala-client_2.12@0.5.0
 - pkg:maven/io.cequence/openai-scala-client_2.12@0.5.0?classifier=sources
+- pkg:maven/io.cequence/openai-scala-client_2.12@1.0.0
 - pkg:maven/io.cequence/openai-scala-client_2.12@1.0.0.RC.1
 - pkg:maven/io.cequence/openai-scala-client_2.12@1.0.0.RC.1?classifier=sources
+- pkg:maven/io.cequence/openai-scala-client_2.12@1.0.0?classifier=sources

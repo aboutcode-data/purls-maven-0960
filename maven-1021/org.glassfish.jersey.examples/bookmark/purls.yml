@@ -214,6 +214,8 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.41?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.42?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.42?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark@2.43?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark@2.43?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark@2.4?type=war

@@ -1,3 +1,5 @@
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.10.0
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.10.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.3.0
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.3.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.3.1
@@ -34,3 +36,5 @@
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.7.4?classifier=sources
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.8.0
 - pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.8.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.9.0
+- pkg:maven/com.softwaremill.sttp.apispec/asyncapi-circe_sjs1_2.13@0.9.0?classifier=sources

@@ -54,6 +54,12 @@
 - pkg:maven/com.google.cloud/google-iam-policy@1.38.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-policy@1.39.0
 - pkg:maven/com.google.cloud/google-iam-policy@1.39.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-policy@1.40.0
+- pkg:maven/com.google.cloud/google-iam-policy@1.40.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-policy@1.41.0
+- pkg:maven/com.google.cloud/google-iam-policy@1.41.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-policy@1.42.0
+- pkg:maven/com.google.cloud/google-iam-policy@1.42.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-policy@1.5.0
 - pkg:maven/com.google.cloud/google-iam-policy@1.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-policy@1.5.1

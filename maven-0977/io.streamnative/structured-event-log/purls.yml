@@ -876,6 +876,10 @@
 - pkg:maven/io.streamnative/structured-event-log@3.0.4.3?classifier=sources
 - pkg:maven/io.streamnative/structured-event-log@3.0.4.4
 - pkg:maven/io.streamnative/structured-event-log@3.0.4.4?classifier=sources
+- pkg:maven/io.streamnative/structured-event-log@3.0.4.5
+- pkg:maven/io.streamnative/structured-event-log@3.0.4.5?classifier=sources
+- pkg:maven/io.streamnative/structured-event-log@3.0.4.6
+- pkg:maven/io.streamnative/structured-event-log@3.0.4.6?classifier=sources
 - pkg:maven/io.streamnative/structured-event-log@3.1.0.1
 - pkg:maven/io.streamnative/structured-event-log@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/structured-event-log@3.1.0.2
@@ -916,5 +920,13 @@
 - pkg:maven/io.streamnative/structured-event-log@3.2.2.2?classifier=sources
 - pkg:maven/io.streamnative/structured-event-log@3.2.2.3
 - pkg:maven/io.streamnative/structured-event-log@3.2.2.3?classifier=sources
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.4
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.4?classifier=sources
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.5
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.5?classifier=sources
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.6
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.6?classifier=sources
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.7
+- pkg:maven/io.streamnative/structured-event-log@3.2.2.7?classifier=sources
 - pkg:maven/io.streamnative/structured-event-log@master-rc-daily
 - pkg:maven/io.streamnative/structured-event-log@master-rc-daily?classifier=sources

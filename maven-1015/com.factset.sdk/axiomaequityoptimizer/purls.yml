@@ -1,6 +1,7 @@
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.20.0?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.0?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.10?classifier=sources
+- pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.11?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.1?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.2?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.3?classifier=sources
@@ -10,11 +11,13 @@
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.7?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.8?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.21.9?classifier=sources
+- pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.22.0?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.0?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.10?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.11?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.12?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.13?classifier=sources
+- pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.14?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.1?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.2?classifier=sources
 - pkg:maven/com.factset.sdk/axiomaequityoptimizer@0.8.3?classifier=sources

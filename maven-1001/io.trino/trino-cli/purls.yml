@@ -188,3 +188,7 @@
 - pkg:maven/io.trino/trino-cli@445?classifier=sources
 - pkg:maven/io.trino/trino-cli@446
 - pkg:maven/io.trino/trino-cli@446?classifier=sources
+- pkg:maven/io.trino/trino-cli@447
+- pkg:maven/io.trino/trino-cli@447?classifier=sources
+- pkg:maven/io.trino/trino-cli@448
+- pkg:maven/io.trino/trino-cli@448?classifier=sources

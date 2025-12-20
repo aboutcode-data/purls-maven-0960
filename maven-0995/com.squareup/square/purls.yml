@@ -79,10 +79,14 @@
 - pkg:maven/com.squareup/square@38.0.0.20240222?classifier=sources
 - pkg:maven/com.squareup/square@38.1.0.20240320
 - pkg:maven/com.squareup/square@38.1.0.20240320?classifier=sources
+- pkg:maven/com.squareup/square@39.0.0.20240417
+- pkg:maven/com.squareup/square@39.0.0.20240417?classifier=sources
 - pkg:maven/com.squareup/square@4.0.0.20191217
 - pkg:maven/com.squareup/square@4.0.0.20191217?classifier=sources
 - pkg:maven/com.squareup/square@4.1.0.20200122
 - pkg:maven/com.squareup/square@4.1.0.20200122?classifier=sources
+- pkg:maven/com.squareup/square@40.0.0.20240515
+- pkg:maven/com.squareup/square@40.0.0.20240515?classifier=sources
 - pkg:maven/com.squareup/square@5.0.0.20200226
 - pkg:maven/com.squareup/square@5.0.0.20200226?classifier=sources
 - pkg:maven/com.squareup/square@5.1.0.20200325

@@ -34,3 +34,5 @@
 - pkg:maven/org.openidentityplatform.openam/openam-common-auth-ui@14.8.3?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-common-auth-ui@14.8.4
 - pkg:maven/org.openidentityplatform.openam/openam-common-auth-ui@14.8.4?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-common-auth-ui@15.0.0
+- pkg:maven/org.openidentityplatform.openam/openam-common-auth-ui@15.0.0?classifier=sources

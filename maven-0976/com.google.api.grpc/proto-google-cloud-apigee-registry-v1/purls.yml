@@ -74,6 +74,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.40.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.41.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.41.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.42.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.42.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.43.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.43.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.44.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.44.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apigee-registry-v1@0.6.0

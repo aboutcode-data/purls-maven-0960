@@ -100,6 +100,8 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@23.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@24.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.api@25.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.api@3.1.0

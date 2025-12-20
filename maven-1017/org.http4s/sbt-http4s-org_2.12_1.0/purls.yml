@@ -24,3 +24,5 @@
 - pkg:maven/org.http4s/sbt-http4s-org_2.12_1.0@0.16.3?classifier=sources
 - pkg:maven/org.http4s/sbt-http4s-org_2.12_1.0@0.17.0
 - pkg:maven/org.http4s/sbt-http4s-org_2.12_1.0@0.17.0?classifier=sources
+- pkg:maven/org.http4s/sbt-http4s-org_2.12_1.0@0.17.1
+- pkg:maven/org.http4s/sbt-http4s-org_2.12_1.0@0.17.1?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.17.0?classifier=sources
 - pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.18.0
 - pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.18.0?classifier=sources
+- pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.18.1
+- pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.18.1?classifier=sources
+- pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.18.2
+- pkg:maven/no.nrk.bigquery/bigquery-codegen_3@0.18.2?classifier=sources

@@ -4,5 +4,7 @@
 - pkg:maven/io.github.givimad/piper-jni@1.2.0-38917ff-0
 - pkg:maven/io.github.givimad/piper-jni@1.2.0-38917ff-0?classifier=sources
 - pkg:maven/io.github.givimad/piper-jni@1.2.0-38917ff?classifier=sources
+- pkg:maven/io.github.givimad/piper-jni@1.2.0-a0f09cd
+- pkg:maven/io.github.givimad/piper-jni@1.2.0-a0f09cd?classifier=sources
 - pkg:maven/io.github.givimad/piper-jni@1.2.0-e5cb84c
 - pkg:maven/io.github.givimad/piper-jni@1.2.0-e5cb84c?classifier=sources

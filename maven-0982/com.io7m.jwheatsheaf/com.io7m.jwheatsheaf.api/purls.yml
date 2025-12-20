@@ -18,5 +18,7 @@
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@2.0.1?classifier=sources
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@3.0.0
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@4.0.0
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@4.0.0-beta0001
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@4.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.api@4.0.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/io.gitlab.labaz/transpropify@1.0.0
 - pkg:maven/io.gitlab.labaz/transpropify@1.0.0?classifier=sources
+- pkg:maven/io.gitlab.labaz/transpropify@1.1.0
+- pkg:maven/io.gitlab.labaz/transpropify@1.1.0?classifier=sources
+- pkg:maven/io.gitlab.labaz/transpropify@1.1.1
+- pkg:maven/io.gitlab.labaz/transpropify@1.1.1?classifier=sources

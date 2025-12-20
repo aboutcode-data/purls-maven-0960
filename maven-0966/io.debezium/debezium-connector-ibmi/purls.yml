@@ -4,3 +4,9 @@
 - pkg:maven/io.debezium/debezium-connector-ibmi@2.6.0.CR1?classifier=sources
 - pkg:maven/io.debezium/debezium-connector-ibmi@2.6.0.Final
 - pkg:maven/io.debezium/debezium-connector-ibmi@2.6.0.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-ibmi@2.6.1.Final
+- pkg:maven/io.debezium/debezium-connector-ibmi@2.6.1.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-ibmi@2.7.0.Alpha1
+- pkg:maven/io.debezium/debezium-connector-ibmi@2.7.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-ibmi@2.7.0.Alpha2
+- pkg:maven/io.debezium/debezium-connector-ibmi@2.7.0.Alpha2?classifier=sources

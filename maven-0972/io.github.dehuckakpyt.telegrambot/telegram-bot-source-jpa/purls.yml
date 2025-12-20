@@ -5,6 +5,8 @@
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.13?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.13a?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.13b?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.14?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.14a?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.1?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.2?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.3?classifier=sources
@@ -13,3 +15,7 @@
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.7?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.8?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.7.9?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.8.0?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.8.1?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.8.1a?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-jpa@0.8.2?classifier=sources

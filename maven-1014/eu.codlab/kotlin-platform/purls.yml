@@ -1,3 +1,4 @@
+- pkg:maven/eu.codlab/kotlin-platform@%5B1.16.0%5D?classifier=sources
 - pkg:maven/eu.codlab/kotlin-platform@1.10.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-platform@1.11.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-platform@1.11.1?classifier=sources
@@ -7,3 +8,4 @@
 - pkg:maven/eu.codlab/kotlin-platform@1.14.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-platform@1.14.1?classifier=sources
 - pkg:maven/eu.codlab/kotlin-platform@1.14.2?classifier=sources
+- pkg:maven/eu.codlab/kotlin-platform@1.16.0?classifier=sources

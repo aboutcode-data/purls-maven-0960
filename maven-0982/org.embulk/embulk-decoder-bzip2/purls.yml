@@ -13,3 +13,4 @@
 - pkg:maven/org.embulk/embulk-decoder-bzip2@0.10.41?classifier=sources
 - pkg:maven/org.embulk/embulk-decoder-bzip2@0.10.42?classifier=sources
 - pkg:maven/org.embulk/embulk-decoder-bzip2@0.11.0?classifier=sources
+- pkg:maven/org.embulk/embulk-decoder-bzip2@0.11.1?classifier=sources

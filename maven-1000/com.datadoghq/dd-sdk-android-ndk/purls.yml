@@ -53,3 +53,4 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-ndk@2.7.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-ndk@2.7.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-ndk@2.8.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-ndk@2.9.0?classifier=sources

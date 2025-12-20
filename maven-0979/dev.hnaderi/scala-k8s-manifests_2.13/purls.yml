@@ -34,6 +34,12 @@
 - pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.16.2?classifier=sources
 - pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.16.3
 - pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.16.3?classifier=sources
+- pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.16.4
+- pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.16.4?classifier=sources
+- pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.17.0
+- pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.17.0?classifier=sources
+- pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.18.0
+- pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.18.0?classifier=sources
 - pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.2.0
 - pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.2.0?classifier=sources
 - pkg:maven/dev.hnaderi/scala-k8s-manifests_2.13@0.3.0

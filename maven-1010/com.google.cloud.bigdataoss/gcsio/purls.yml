@@ -145,6 +145,8 @@
 - pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.20?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.21
 - pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.21?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.22
+- pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.22?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.2?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.3
 - pkg:maven/com.google.cloud.bigdataoss/gcsio@2.2.3?classifier=sources

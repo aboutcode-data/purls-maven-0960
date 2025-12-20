@@ -72,3 +72,4 @@
 - pkg:maven/com.facebook.presto/presto-oracle@0.285.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-oracle@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/presto-oracle@0.286?classifier=sources
+- pkg:maven/com.facebook.presto/presto-oracle@0.287?classifier=sources

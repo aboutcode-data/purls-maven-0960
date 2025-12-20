@@ -62,6 +62,8 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.13.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.14.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.14.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.15.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.15.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.2.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-cognito-user-pools-deployment@2.3.0

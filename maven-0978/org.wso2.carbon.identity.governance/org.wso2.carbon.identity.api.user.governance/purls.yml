@@ -216,6 +216,14 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.8.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.11
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.11?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.12
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.13
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.13?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.14
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.14?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.15
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@1.9.15?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@2.0.0
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.api.user.governance@2.0.1

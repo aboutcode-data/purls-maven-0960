@@ -49,6 +49,10 @@
 - pkg:maven/io.avaje/avaje-config@3.12?classifier=sources
 - pkg:maven/io.avaje/avaje-config@3.13
 - pkg:maven/io.avaje/avaje-config@3.13?classifier=sources
+- pkg:maven/io.avaje/avaje-config@3.14
+- pkg:maven/io.avaje/avaje-config@3.14?classifier=sources
+- pkg:maven/io.avaje/avaje-config@3.15-RC1
+- pkg:maven/io.avaje/avaje-config@3.15-RC1?classifier=sources
 - pkg:maven/io.avaje/avaje-config@3.1?classifier=sources
 - pkg:maven/io.avaje/avaje-config@3.2
 - pkg:maven/io.avaje/avaje-config@3.2?classifier=sources
@@ -66,3 +70,5 @@
 - pkg:maven/io.avaje/avaje-config@3.8?classifier=sources
 - pkg:maven/io.avaje/avaje-config@3.9
 - pkg:maven/io.avaje/avaje-config@3.9?classifier=sources
+- pkg:maven/io.avaje/avaje-config@4.0-RC1
+- pkg:maven/io.avaje/avaje-config@4.0-RC1?classifier=sources

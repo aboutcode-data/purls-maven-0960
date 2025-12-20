@@ -1,2 +1,4 @@
 - pkg:maven/io.cdap.cdap/cdap-messaging-spi@6.10.0
 - pkg:maven/io.cdap.cdap/cdap-messaging-spi@6.10.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-messaging-spi@6.10.1
+- pkg:maven/io.cdap.cdap/cdap-messaging-spi@6.10.1?classifier=sources

@@ -116,6 +116,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.0.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.0.4
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.0.4?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-broker@3.0.5
+- pkg:maven/org.apache.pulsar/pulsar-broker@3.0.5?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.1.0
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.1.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.1.1
@@ -130,3 +132,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.2.1?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.2.2
 - pkg:maven/org.apache.pulsar/pulsar-broker@3.2.2?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-broker@3.2.3
+- pkg:maven/org.apache.pulsar/pulsar-broker@3.2.3?classifier=sources

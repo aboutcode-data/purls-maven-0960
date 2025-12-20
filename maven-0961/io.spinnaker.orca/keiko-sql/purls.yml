@@ -24,6 +24,7 @@
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.24.6?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.24.7?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.24.8?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-sql@8.24.9?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.25.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.26.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.27.0?classifier=sources
@@ -67,3 +68,4 @@
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.49.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.50.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-sql@8.51.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-sql@8.52.0?classifier=sources

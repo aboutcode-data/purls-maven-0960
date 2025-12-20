@@ -102,6 +102,8 @@
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@3.22.1
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@3.22.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-azure-storage-queue@3.22.2
+- pkg:maven/org.apache.camel/camel-azure-storage-queue@3.22.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@3.3.0
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@3.4.0
@@ -178,3 +180,5 @@
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@4.4.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@4.5.0
 - pkg:maven/org.apache.camel/camel-azure-storage-queue@4.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-azure-storage-queue@4.6.0
+- pkg:maven/org.apache.camel/camel-azure-storage-queue@4.6.0?classifier=sources

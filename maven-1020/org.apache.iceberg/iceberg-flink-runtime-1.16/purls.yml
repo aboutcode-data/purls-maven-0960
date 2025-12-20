@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.16@1.4.3?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.16@1.5.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.16@1.5.1?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.16@1.5.2?classifier=sources

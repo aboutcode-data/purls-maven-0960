@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.logging.log4j/log4j-tools-internal-freemarker-util@0.8.0
 - pkg:maven/org.apache.logging.log4j/log4j-tools-internal-freemarker-util@0.8.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-tools-internal-freemarker-util@0.9.0
+- pkg:maven/org.apache.logging.log4j/log4j-tools-internal-freemarker-util@0.9.0?classifier=sources

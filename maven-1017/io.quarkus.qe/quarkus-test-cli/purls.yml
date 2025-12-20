@@ -200,7 +200,13 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.4.2.Beta9?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.4.4
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.4.4?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.4.5
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.4.5?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta1
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta1?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta2
 - pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta2?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta3
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta3?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta4
+- pkg:maven/io.quarkus.qe/quarkus-test-cli@1.5.0.Beta4?classifier=sources

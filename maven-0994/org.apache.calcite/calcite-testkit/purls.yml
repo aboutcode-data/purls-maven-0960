@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.calcite/calcite-testkit@1.35.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-testkit@1.36.0
 - pkg:maven/org.apache.calcite/calcite-testkit@1.36.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-testkit@1.37.0
+- pkg:maven/org.apache.calcite/calcite-testkit@1.37.0?classifier=sources

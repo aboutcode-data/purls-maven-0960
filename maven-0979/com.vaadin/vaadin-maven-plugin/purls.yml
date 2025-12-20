@@ -104,12 +104,15 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.10.9
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.1
+- pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.10
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.3
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.4
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.5
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.6
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.7
+- pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.8
+- pkg:maven/com.vaadin/vaadin-maven-plugin@14.11.9
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.2.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.2.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@14.2.2
@@ -369,6 +372,8 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.31
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.32
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.33
+- pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.34
+- pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.35
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.4
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.5
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.6
@@ -376,6 +381,9 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.8
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.3.9
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.4.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@23.4.1
+- pkg:maven/com.vaadin/vaadin-maven-plugin@23.5.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@23.5.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.0.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.0.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.0.10
@@ -423,6 +431,9 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.2.9
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.1
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.10
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.11
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.12
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.3
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.3.4
@@ -582,6 +593,7 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.40
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.41
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.42
+- pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.43
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.5
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.6
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.7.7
@@ -645,6 +657,9 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.22.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.23.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.24.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.25.0
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.25.1
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.25.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.2

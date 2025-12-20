@@ -51,3 +51,5 @@
 - pkg:maven/com.corsano.sdk/ble@0.9.4?classifier=sources
 - pkg:maven/com.corsano.sdk/ble@0.9.5?classifier=sources
 - pkg:maven/com.corsano.sdk/ble@0.9.7?classifier=sources
+- pkg:maven/com.corsano.sdk/ble@0.9.8?classifier=sources
+- pkg:maven/com.corsano.sdk/ble@0.9.9?classifier=sources

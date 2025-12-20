@@ -78,3 +78,9 @@
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@1.2.0?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@1.2.1
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.model@1.2.1?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@2.0.0
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@2.0.0-beta0001
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@2.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@2.0.0?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@2.0.1
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.model@2.0.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/app.cash.redwood/redwood-treehouse-host-jvm@0.10.0?classifier=sources
+- pkg:maven/app.cash.redwood/redwood-treehouse-host-jvm@0.11.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-treehouse-host-jvm@0.3.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-treehouse-host-jvm@0.4.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-treehouse-host-jvm@0.5.0?classifier=sources

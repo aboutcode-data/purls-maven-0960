@@ -18,6 +18,7 @@
 - pkg:maven/org.graceframework/grace-util@2022.1.5?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2022.1.6?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2022.1.7?classifier=sources
+- pkg:maven/org.graceframework/grace-util@2022.1.8?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2022.2.0?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2022.2.1?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2022.2.2?classifier=sources
@@ -28,3 +29,4 @@
 - pkg:maven/org.graceframework/grace-util@2023.0.0-M3?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2023.0.0-M4?classifier=sources
 - pkg:maven/org.graceframework/grace-util@2023.0.0-M5?classifier=sources
+- pkg:maven/org.graceframework/grace-util@2023.0.0-M6?classifier=sources

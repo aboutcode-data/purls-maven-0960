@@ -1,0 +1,4 @@
+- pkg:maven/dev.mauch.spark.dfio/serde-spark-3.3_2.12@0.0.2
+- pkg:maven/dev.mauch.spark.dfio/serde-spark-3.3_2.12@0.0.2?classifier=sources
+- pkg:maven/dev.mauch.spark.dfio/serde-spark-3.3_2.12@0.0.3
+- pkg:maven/dev.mauch.spark.dfio/serde-spark-3.3_2.12@0.0.3?classifier=sources
