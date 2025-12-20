@@ -293,8 +293,12 @@
 - pkg:maven/org.sejda/sejda-core@5.0.17?classifier=sources
 - pkg:maven/org.sejda/sejda-core@5.0.18
 - pkg:maven/org.sejda/sejda-core@5.0.18?classifier=sources
+- pkg:maven/org.sejda/sejda-core@5.0.19
+- pkg:maven/org.sejda/sejda-core@5.0.19?classifier=sources
 - pkg:maven/org.sejda/sejda-core@5.0.1?classifier=sources
 - pkg:maven/org.sejda/sejda-core@5.0.2
+- pkg:maven/org.sejda/sejda-core@5.0.20
+- pkg:maven/org.sejda/sejda-core@5.0.20?classifier=sources
 - pkg:maven/org.sejda/sejda-core@5.0.2?classifier=sources
 - pkg:maven/org.sejda/sejda-core@5.0.3
 - pkg:maven/org.sejda/sejda-core@5.0.3?classifier=sources

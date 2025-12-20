@@ -124,6 +124,9 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.0.6?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.0.6?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.0.6?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.0.7?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.0.7?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.0.7?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.1.0-M1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.1.0-M1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-https@2.1.0-M1?type=war

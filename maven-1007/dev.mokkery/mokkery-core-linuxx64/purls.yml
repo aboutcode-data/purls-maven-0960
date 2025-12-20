@@ -37,3 +37,5 @@
 - pkg:maven/dev.mokkery/mokkery-core-linuxx64@2.0.0-Beta3?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-core-linuxx64@2.0.0-RC1?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-core-linuxx64@2.0.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-core-linuxx64@2.1.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-core-linuxx64@2.1.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.github.invince/workerpool@1.0.6?classifier=sources
 - pkg:maven/io.github.invince/workerpool@1.0.7
 - pkg:maven/io.github.invince/workerpool@1.0.7?classifier=sources
+- pkg:maven/io.github.invince/workerpool@1.0.9
+- pkg:maven/io.github.invince/workerpool@1.0.9?classifier=sources

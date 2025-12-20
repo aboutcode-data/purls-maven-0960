@@ -1,3 +1,4 @@
+- pkg:maven/com.pulumi/aws@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/aws@5.11.0-alpha.1658177944%2B701e8ea2?classifier=sources
 - pkg:maven/com.pulumi/aws@5.11.0-alpha.1658776797%2Be45bda97?classifier=sources
 - pkg:maven/com.pulumi/aws@5.11.0-alpha.1660773157%2B9ea281b0?classifier=sources
@@ -365,6 +366,13 @@
 - pkg:maven/com.pulumi/aws@6.41.0-alpha.1718210315?classifier=sources
 - pkg:maven/com.pulumi/aws@6.41.0-alpha.1718260603?classifier=sources
 - pkg:maven/com.pulumi/aws@6.41.0-alpha.1718287302?classifier=sources
+- pkg:maven/com.pulumi/aws@6.41.0-alpha.1718389022?classifier=sources
+- pkg:maven/com.pulumi/aws@6.41.0-alpha.1718395916?classifier=sources
+- pkg:maven/com.pulumi/aws@6.41.0-alpha.1718437310?classifier=sources
+- pkg:maven/com.pulumi/aws@6.41.0-alpha.1718652049?classifier=sources
+- pkg:maven/com.pulumi/aws@6.41.0-alpha.1718712658?classifier=sources
+- pkg:maven/com.pulumi/aws@6.41.0?classifier=sources
+- pkg:maven/com.pulumi/aws@6.42.0-alpha.1718749934?classifier=sources
 - pkg:maven/com.pulumi/aws@6.5.0-alpha.1696559290%2B02d32d42?classifier=sources
 - pkg:maven/com.pulumi/aws@6.5.0-alpha.1696608032%2B0b33b020?classifier=sources
 - pkg:maven/com.pulumi/aws@6.5.0-alpha.1696862389%2Bd1c71728?classifier=sources

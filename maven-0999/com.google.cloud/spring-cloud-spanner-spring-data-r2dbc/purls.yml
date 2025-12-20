@@ -36,6 +36,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.4
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.4?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.5
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.5?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.6
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@3.8.6?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.0
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.1
@@ -46,6 +50,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.4
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.4?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.5
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.5?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.6
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.10.6?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.7.0
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.7.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@4.7.1
@@ -96,3 +104,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.4.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.4.1
 - pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.4.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.4.3
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.4.3?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.5.0
+- pkg:maven/com.google.cloud/spring-cloud-spanner-spring-data-r2dbc@5.5.0?classifier=sources

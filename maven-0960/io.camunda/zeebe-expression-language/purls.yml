@@ -283,6 +283,8 @@
 - pkg:maven/io.camunda/zeebe-expression-language@8.2.27?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.2.28
 - pkg:maven/io.camunda/zeebe-expression-language@8.2.28?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.2.29
+- pkg:maven/io.camunda/zeebe-expression-language@8.2.29?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.2.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.2.3
 - pkg:maven/io.camunda/zeebe-expression-language@8.2.3?classifier=sources
@@ -325,6 +327,8 @@
 - pkg:maven/io.camunda/zeebe-expression-language@8.3.11?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.3.12
 - pkg:maven/io.camunda/zeebe-expression-language@8.3.12?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.3.13
+- pkg:maven/io.camunda/zeebe-expression-language@8.3.13?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.3.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.3.2
 - pkg:maven/io.camunda/zeebe-expression-language@8.3.2?classifier=sources
@@ -364,6 +368,8 @@
 - pkg:maven/io.camunda/zeebe-expression-language@8.4.7?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.4.8
 - pkg:maven/io.camunda/zeebe-expression-language@8.4.8?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.4.9
+- pkg:maven/io.camunda/zeebe-expression-language@8.4.9?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.5.0
 - pkg:maven/io.camunda/zeebe-expression-language@8.5.0-RC1
 - pkg:maven/io.camunda/zeebe-expression-language@8.5.0-RC1?classifier=sources
@@ -380,6 +386,10 @@
 - pkg:maven/io.camunda/zeebe-expression-language@8.5.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.5.3
 - pkg:maven/io.camunda/zeebe-expression-language@8.5.3?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.5.4
+- pkg:maven/io.camunda/zeebe-expression-language@8.5.4?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.5.5
+- pkg:maven/io.camunda/zeebe-expression-language@8.5.5?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha1
 - pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha1-rc1?classifier=sources
@@ -396,3 +406,7 @@
 - pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha2-rc4
 - pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha2-rc4?classifier=sources
 - pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha2?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha3
+- pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha3-rc3
+- pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha3-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-expression-language@8.6.0-alpha3?classifier=sources

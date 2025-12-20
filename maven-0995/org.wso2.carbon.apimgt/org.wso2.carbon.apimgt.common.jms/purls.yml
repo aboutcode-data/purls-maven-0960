@@ -1687,6 +1687,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.15
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.15?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.16
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.161
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.161?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.16?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.17
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.common.jms@9.29.17?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.25.0?classifier=sources
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.27.0
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.27.0?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.28.0
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.28.0.1
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.28.0.1?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.sample.datasource.receiver@4.28.0?classifier=sources

@@ -135,6 +135,17 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1101.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1103.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1104.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1105.0-rc1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1105.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1106.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1107.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1109.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1110.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1111.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1112.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1113.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1114.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.1115.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.311.6?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.311.7?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-cli@0.312.2-rc2?classifier=sources

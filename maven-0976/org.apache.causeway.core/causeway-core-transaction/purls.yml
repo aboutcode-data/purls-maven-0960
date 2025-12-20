@@ -8,5 +8,9 @@
 - pkg:maven/org.apache.causeway.core/causeway-core-transaction@2.0.0-RC4
 - pkg:maven/org.apache.causeway.core/causeway-core-transaction@2.0.0-RC4?classifier=sources
 - pkg:maven/org.apache.causeway.core/causeway-core-transaction@2.0.0?classifier=sources
+- pkg:maven/org.apache.causeway.core/causeway-core-transaction@2.1.0
+- pkg:maven/org.apache.causeway.core/causeway-core-transaction@2.1.0?classifier=sources
 - pkg:maven/org.apache.causeway.core/causeway-core-transaction@3.0.0
 - pkg:maven/org.apache.causeway.core/causeway-core-transaction@3.0.0?classifier=sources
+- pkg:maven/org.apache.causeway.core/causeway-core-transaction@3.1.0
+- pkg:maven/org.apache.causeway.core/causeway-core-transaction@3.1.0?classifier=sources

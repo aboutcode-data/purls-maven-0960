@@ -218,6 +218,8 @@
 - pkg:maven/com.xebia/xef-core@0.0.4-alpha.99?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.4-alpha.9?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.4?classifier=sources
+- pkg:maven/com.xebia/xef-core@0.0.5-alpha.100?classifier=sources
+- pkg:maven/com.xebia/xef-core@0.0.5-alpha.101?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.10?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.11?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.12?classifier=sources
@@ -311,4 +313,7 @@
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.93?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.94?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.95?classifier=sources
+- pkg:maven/com.xebia/xef-core@0.0.5-alpha.97?classifier=sources
+- pkg:maven/com.xebia/xef-core@0.0.5-alpha.98?classifier=sources
+- pkg:maven/com.xebia/xef-core@0.0.5-alpha.99?classifier=sources
 - pkg:maven/com.xebia/xef-core@0.0.5-alpha.9?classifier=sources

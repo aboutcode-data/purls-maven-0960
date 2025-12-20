@@ -4745,6 +4745,10 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.2
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.3
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.34
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.34?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.35
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.35?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.4
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.security.mgt.ui@7.3.4?classifier=sources

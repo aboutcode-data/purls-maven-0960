@@ -12,3 +12,5 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-spark-core_2.13@4.0.5?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-spark-core_2.13@5.0.0
 - pkg:maven/org.locationtech.geomesa/geomesa-spark-core_2.13@5.0.0?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-spark-core_2.13@5.0.1
+- pkg:maven/org.locationtech.geomesa/geomesa-spark-core_2.13@5.0.1?classifier=sources

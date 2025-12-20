@@ -37,3 +37,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.0
 - pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.2
+- pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.4
+- pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.models.api@1.5.4?classifier=sources

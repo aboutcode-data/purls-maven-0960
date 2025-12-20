@@ -36,3 +36,5 @@
 - pkg:maven/ai.djl.pytorch/pytorch-native-cpu@2.2.2?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-native-cpu@2.3.0
 - pkg:maven/ai.djl.pytorch/pytorch-native-cpu@2.3.0?classifier=sources
+- pkg:maven/ai.djl.pytorch/pytorch-native-cpu@2.3.1
+- pkg:maven/ai.djl.pytorch/pytorch-native-cpu@2.3.1?classifier=sources

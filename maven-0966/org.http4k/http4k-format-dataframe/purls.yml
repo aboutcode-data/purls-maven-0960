@@ -1,3 +1,6 @@
 - pkg:maven/org.http4k/http4k-format-dataframe@5.21.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-dataframe@5.22.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-dataframe@5.23.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-dataframe@5.24.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-dataframe@5.24.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-dataframe@5.25.0.0?classifier=sources

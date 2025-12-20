@@ -118,3 +118,5 @@
 - pkg:maven/edu.berkeley.cs/chisel3_2.12@3.6.0-RC3
 - pkg:maven/edu.berkeley.cs/chisel3_2.12@3.6.0-RC3?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel3_2.12@3.6.0?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel3_2.12@3.6.1
+- pkg:maven/edu.berkeley.cs/chisel3_2.12@3.6.1?classifier=sources

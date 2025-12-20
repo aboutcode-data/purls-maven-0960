@@ -38,3 +38,5 @@
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.db@33.0.4?classifier=sources
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.db@33.0.5
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.db@33.0.5?classifier=sources
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.db@33.0.6
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.db@33.0.6?classifier=sources

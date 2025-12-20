@@ -220,7 +220,12 @@
 - pkg:maven/io.grpc/grpc-netty@1.62.2?classifier=sources
 - pkg:maven/io.grpc/grpc-netty@1.63.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty@1.63.1?classifier=sources
+- pkg:maven/io.grpc/grpc-netty@1.63.2?classifier=sources
 - pkg:maven/io.grpc/grpc-netty@1.64.0?classifier=sources
+- pkg:maven/io.grpc/grpc-netty@1.64.1?classifier=sources
+- pkg:maven/io.grpc/grpc-netty@1.64.2?classifier=sources
+- pkg:maven/io.grpc/grpc-netty@1.65.0?classifier=sources
+- pkg:maven/io.grpc/grpc-netty@1.65.1?classifier=sources
 - pkg:maven/io.grpc/grpc-netty@1.7.0
 - pkg:maven/io.grpc/grpc-netty@1.7.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty@1.7.1

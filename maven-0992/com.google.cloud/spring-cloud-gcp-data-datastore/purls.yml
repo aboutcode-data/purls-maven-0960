@@ -106,6 +106,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.4?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.5
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.5?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.6
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@3.8.6?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.0.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.1.0
@@ -128,6 +132,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.4?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.5
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.5?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.6
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.10.6?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.2.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@4.3.0
@@ -192,3 +200,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.4.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.4.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.4.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.4.3
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.4.3?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.5.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-data-datastore@5.5.0?classifier=sources

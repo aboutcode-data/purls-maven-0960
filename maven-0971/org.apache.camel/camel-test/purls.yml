@@ -371,6 +371,8 @@
 - pkg:maven/org.apache.camel/camel-test@3.21.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.21.4
 - pkg:maven/org.apache.camel/camel-test@3.21.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-test@3.21.5
+- pkg:maven/org.apache.camel/camel-test@3.21.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.22.0
 - pkg:maven/org.apache.camel/camel-test@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test@3.22.1

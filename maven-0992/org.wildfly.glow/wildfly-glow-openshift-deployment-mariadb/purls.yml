@@ -20,3 +20,5 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.0.5.Final?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.0.6.Final
 - pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.0.6.Final?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.1.0.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.1.0.Final?classifier=sources

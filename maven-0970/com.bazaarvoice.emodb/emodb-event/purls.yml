@@ -360,6 +360,8 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.15
 - pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.15?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.16
+- pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.160
+- pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.160?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.16?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.17
 - pkg:maven/com.bazaarvoice.emodb/emodb-event@6.5.17?classifier=sources

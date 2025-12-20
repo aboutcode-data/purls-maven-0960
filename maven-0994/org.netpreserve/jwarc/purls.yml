@@ -88,6 +88,8 @@
 - pkg:maven/org.netpreserve/jwarc@0.29.0?classifier=sources
 - pkg:maven/org.netpreserve/jwarc@0.3.0
 - pkg:maven/org.netpreserve/jwarc@0.3.0?classifier=sources
+- pkg:maven/org.netpreserve/jwarc@0.30.0
+- pkg:maven/org.netpreserve/jwarc@0.30.0?classifier=sources
 - pkg:maven/org.netpreserve/jwarc@0.4.0
 - pkg:maven/org.netpreserve/jwarc@0.4.0?classifier=sources
 - pkg:maven/org.netpreserve/jwarc@0.5.0

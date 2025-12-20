@@ -161,3 +161,6 @@
 - pkg:maven/org.opendaylight.infrautils/ready-api@6.0.7?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-api@6.0.8?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-api@6.0.9?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/ready-api@7.0.0?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/ready-api@7.0.1?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/ready-api@7.0.2?classifier=sources

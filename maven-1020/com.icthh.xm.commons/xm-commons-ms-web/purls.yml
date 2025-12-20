@@ -281,6 +281,12 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.19?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.2
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.21
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.21?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.22
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.22?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.23
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.23?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.3
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@2.3.3?classifier=sources
@@ -315,5 +321,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@3.2.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@3.2.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@3.2.3?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@3.2.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@4.0.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-ms-web@4.0.4?classifier=sources

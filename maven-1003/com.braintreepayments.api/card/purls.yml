@@ -57,6 +57,8 @@
 - pkg:maven/com.braintreepayments.api/card@4.45.1?classifier=sources
 - pkg:maven/com.braintreepayments.api/card@4.46.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/card@4.47.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/card@4.48.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/card@4.49.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/card@4.5.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/card@4.6.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/card@4.7.0?classifier=sources

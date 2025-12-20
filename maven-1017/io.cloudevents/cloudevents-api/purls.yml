@@ -58,3 +58,7 @@
 - pkg:maven/io.cloudevents/cloudevents-api@2.5.0?classifier=sources
 - pkg:maven/io.cloudevents/cloudevents-api@3.0.0
 - pkg:maven/io.cloudevents/cloudevents-api@3.0.0?classifier=sources
+- pkg:maven/io.cloudevents/cloudevents-api@4.0.0
+- pkg:maven/io.cloudevents/cloudevents-api@4.0.0?classifier=sources
+- pkg:maven/io.cloudevents/cloudevents-api@4.0.1
+- pkg:maven/io.cloudevents/cloudevents-api@4.0.1?classifier=sources

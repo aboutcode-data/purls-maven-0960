@@ -175,6 +175,8 @@
 - pkg:maven/com.opengamma.strata/strata-report@2.12.39?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-report@2.12.3?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-report@2.12.4
+- pkg:maven/com.opengamma.strata/strata-report@2.12.40
+- pkg:maven/com.opengamma.strata/strata-report@2.12.40?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-report@2.12.4?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-report@2.12.5
 - pkg:maven/com.opengamma.strata/strata-report@2.12.5?classifier=sources

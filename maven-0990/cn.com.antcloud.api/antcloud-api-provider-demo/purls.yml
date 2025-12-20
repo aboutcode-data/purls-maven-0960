@@ -29,6 +29,8 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.28
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.28?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.3
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.308
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.308?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.34
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.34?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.3?classifier=sources
@@ -58,3 +60,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.94
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.94?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.0.9?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.1.0
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-demo@1.1.0?classifier=sources

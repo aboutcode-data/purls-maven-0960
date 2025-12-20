@@ -70,3 +70,6 @@
 - pkg:maven/dev.inmo/micro_utils.repos.generator.test-jvm@0.20.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.repos.generator.test-jvm@0.20.8?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.repos.generator.test-jvm@0.20.9?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.repos.generator.test-jvm@0.21.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.repos.generator.test-jvm@0.21.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.repos.generator.test-jvm@0.21.2?classifier=sources

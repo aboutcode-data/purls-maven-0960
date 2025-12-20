@@ -36,5 +36,9 @@
 - pkg:maven/org.sosy-lab/common@0.3000-568-gb81232a9?classifier=sources
 - pkg:maven/org.sosy-lab/common@0.3000-569-g89796f98
 - pkg:maven/org.sosy-lab/common@0.3000-569-g89796f98?classifier=sources
+- pkg:maven/org.sosy-lab/common@0.3000-585-g7a5f95c
+- pkg:maven/org.sosy-lab/common@0.3000-585-g7a5f95c1
+- pkg:maven/org.sosy-lab/common@0.3000-585-g7a5f95c1?classifier=sources
+- pkg:maven/org.sosy-lab/common@0.3000-585-g7a5f95c?classifier=sources
 - pkg:maven/org.sosy-lab/common@common-0.3000-568-gb81232a9
 - pkg:maven/org.sosy-lab/common@common-0.3000-568-gb81232a9?classifier=sources

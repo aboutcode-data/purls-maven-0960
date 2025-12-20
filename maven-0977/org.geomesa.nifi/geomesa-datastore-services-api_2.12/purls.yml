@@ -12,3 +12,5 @@
 - pkg:maven/org.geomesa.nifi/geomesa-datastore-services-api_2.12@4.0.5?classifier=sources
 - pkg:maven/org.geomesa.nifi/geomesa-datastore-services-api_2.12@5.0.0
 - pkg:maven/org.geomesa.nifi/geomesa-datastore-services-api_2.12@5.0.0?classifier=sources
+- pkg:maven/org.geomesa.nifi/geomesa-datastore-services-api_2.12@5.0.1
+- pkg:maven/org.geomesa.nifi/geomesa-datastore-services-api_2.12@5.0.1?classifier=sources

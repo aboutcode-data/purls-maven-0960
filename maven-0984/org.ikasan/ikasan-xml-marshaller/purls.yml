@@ -124,3 +124,7 @@
 - pkg:maven/org.ikasan/ikasan-xml-marshaller@3.3.3?classifier=sources
 - pkg:maven/org.ikasan/ikasan-xml-marshaller@3.3.4
 - pkg:maven/org.ikasan/ikasan-xml-marshaller@3.3.4?classifier=sources
+- pkg:maven/org.ikasan/ikasan-xml-marshaller@4.0.0
+- pkg:maven/org.ikasan/ikasan-xml-marshaller@4.0.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-xml-marshaller@4.0.1
+- pkg:maven/org.ikasan/ikasan-xml-marshaller@4.0.1?classifier=sources

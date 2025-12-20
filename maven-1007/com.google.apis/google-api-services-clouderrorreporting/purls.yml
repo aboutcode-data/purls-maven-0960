@@ -184,6 +184,10 @@
 - pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240313-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240322-2.0.0
 - pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240322-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240702-2.0.0
+- pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240702-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240705-2.0.0
+- pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev20240705-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-clouderrorreporting@v1beta1-rev21-1.20.0

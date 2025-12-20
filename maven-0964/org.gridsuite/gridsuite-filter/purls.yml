@@ -1,6 +1,8 @@
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.0
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.1
+- pkg:maven/org.gridsuite/gridsuite-filter@1.0.10
+- pkg:maven/org.gridsuite/gridsuite-filter@1.0.10?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.1?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.2
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.2?classifier=sources
@@ -16,3 +18,5 @@
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.7?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.8
 - pkg:maven/org.gridsuite/gridsuite-filter@1.0.8?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-filter@1.0.9
+- pkg:maven/org.gridsuite/gridsuite-filter@1.0.9?classifier=sources

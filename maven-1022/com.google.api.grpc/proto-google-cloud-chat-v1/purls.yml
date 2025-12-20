@@ -1,5 +1,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.1.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.1.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.10.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.10.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-chat-v1@0.3.0

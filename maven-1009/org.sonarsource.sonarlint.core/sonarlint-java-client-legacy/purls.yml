@@ -1,2 +1,6 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-legacy@10.1.0.77731?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-legacy@10.2.0.78029?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-legacy@10.3.0.78427?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-legacy@10.3.1.78456?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-legacy@10.3.2.78498?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-legacy@10.4.0.78811?classifier=sources

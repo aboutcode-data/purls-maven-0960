@@ -318,5 +318,7 @@
 - pkg:maven/org.talend.sdk.component/component-runtime-beam@1.65.0M2?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-beam@1.65.0M3
 - pkg:maven/org.talend.sdk.component/component-runtime-beam@1.65.0M3?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-runtime-beam@1.65.0M5
+- pkg:maven/org.talend.sdk.component/component-runtime-beam@1.65.0M5?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-runtime-beam@10.57.0
 - pkg:maven/org.talend.sdk.component/component-runtime-beam@10.57.0?classifier=sources

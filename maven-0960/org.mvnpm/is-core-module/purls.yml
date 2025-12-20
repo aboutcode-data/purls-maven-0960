@@ -6,6 +6,8 @@
 - pkg:maven/org.mvnpm/is-core-module@2.12.1?classifier=sources
 - pkg:maven/org.mvnpm/is-core-module@2.13.0?classifier=sources
 - pkg:maven/org.mvnpm/is-core-module@2.13.1?classifier=sources
+- pkg:maven/org.mvnpm/is-core-module@2.14.0?classifier=sources
+- pkg:maven/org.mvnpm/is-core-module@2.15.0?classifier=sources
 - pkg:maven/org.mvnpm/is-core-module@2.2.0?classifier=sources
 - pkg:maven/org.mvnpm/is-core-module@2.3.0?classifier=sources
 - pkg:maven/org.mvnpm/is-core-module@2.4.0?classifier=sources

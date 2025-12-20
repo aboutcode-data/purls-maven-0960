@@ -157,6 +157,12 @@
 - pkg:maven/io.mateu/jpa@2.4.8
 - pkg:maven/io.mateu/jpa@2.4.8?classifier=sources
 - pkg:maven/io.mateu/jpa@2.4.9
+- pkg:maven/io.mateu/jpa@2.4.91
+- pkg:maven/io.mateu/jpa@2.4.91?classifier=sources
+- pkg:maven/io.mateu/jpa@2.4.92
+- pkg:maven/io.mateu/jpa@2.4.92?classifier=sources
+- pkg:maven/io.mateu/jpa@2.4.93
+- pkg:maven/io.mateu/jpa@2.4.93?classifier=sources
 - pkg:maven/io.mateu/jpa@2.4.9?classifier=sources
 - pkg:maven/io.mateu/jpa@master
 - pkg:maven/io.mateu/jpa@master?classifier=sources

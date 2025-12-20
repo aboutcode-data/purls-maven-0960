@@ -22,6 +22,8 @@
 - pkg:maven/com.github.codemonstur/simplexml@2.1.0?classifier=sources
 - pkg:maven/com.github.codemonstur/simplexml@2.10.0
 - pkg:maven/com.github.codemonstur/simplexml@2.10.0?classifier=sources
+- pkg:maven/com.github.codemonstur/simplexml@2.10.1
+- pkg:maven/com.github.codemonstur/simplexml@2.10.1?classifier=sources
 - pkg:maven/com.github.codemonstur/simplexml@2.2.0
 - pkg:maven/com.github.codemonstur/simplexml@2.2.0?classifier=sources
 - pkg:maven/com.github.codemonstur/simplexml@2.3.0
@@ -50,3 +52,7 @@
 - pkg:maven/com.github.codemonstur/simplexml@3.1.0?classifier=sources
 - pkg:maven/com.github.codemonstur/simplexml@3.1.1
 - pkg:maven/com.github.codemonstur/simplexml@3.1.1?classifier=sources
+- pkg:maven/com.github.codemonstur/simplexml@3.1.2
+- pkg:maven/com.github.codemonstur/simplexml@3.1.2?classifier=sources
+- pkg:maven/com.github.codemonstur/simplexml@3.2.0
+- pkg:maven/com.github.codemonstur/simplexml@3.2.0?classifier=sources

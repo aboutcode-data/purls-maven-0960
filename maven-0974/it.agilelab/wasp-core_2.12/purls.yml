@@ -52,3 +52,15 @@
 - pkg:maven/it.agilelab/wasp-core_2.12@2.33.2-emr212
 - pkg:maven/it.agilelab/wasp-core_2.12@2.33.2-emr212?classifier=sources
 - pkg:maven/it.agilelab/wasp-core_2.12@2.33.2?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.34.0
+- pkg:maven/it.agilelab/wasp-core_2.12@2.34.0-emr212
+- pkg:maven/it.agilelab/wasp-core_2.12@2.34.0-emr212?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.34.0-emr613
+- pkg:maven/it.agilelab/wasp-core_2.12@2.34.0-emr613?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.34.0?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.35.0
+- pkg:maven/it.agilelab/wasp-core_2.12@2.35.0-emr212
+- pkg:maven/it.agilelab/wasp-core_2.12@2.35.0-emr212?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.35.0-emr613
+- pkg:maven/it.agilelab/wasp-core_2.12@2.35.0-emr613?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@2.35.0?classifier=sources

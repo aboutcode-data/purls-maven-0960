@@ -103,6 +103,8 @@
 - pkg:maven/io.camunda.connector/connector-google-drive@8.3.11?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.3.12
 - pkg:maven/io.camunda.connector/connector-google-drive@8.3.12?classifier=sources
+- pkg:maven/io.camunda.connector/connector-google-drive@8.3.13
+- pkg:maven/io.camunda.connector/connector-google-drive@8.3.13?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.3.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.3.2
 - pkg:maven/io.camunda.connector/connector-google-drive@8.3.2?classifier=sources
@@ -142,6 +144,8 @@
 - pkg:maven/io.camunda.connector/connector-google-drive@8.4.7?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.4.8
 - pkg:maven/io.camunda.connector/connector-google-drive@8.4.8?classifier=sources
+- pkg:maven/io.camunda.connector/connector-google-drive@8.4.9
+- pkg:maven/io.camunda.connector/connector-google-drive@8.4.9?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.5.0
 - pkg:maven/io.camunda.connector/connector-google-drive@8.5.0-alpha1
 - pkg:maven/io.camunda.connector/connector-google-drive@8.5.0-alpha1?classifier=sources
@@ -154,9 +158,15 @@
 - pkg:maven/io.camunda.connector/connector-google-drive@8.5.2?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.5.3
 - pkg:maven/io.camunda.connector/connector-google-drive@8.5.3?classifier=sources
+- pkg:maven/io.camunda.connector/connector-google-drive@8.5.4
+- pkg:maven/io.camunda.connector/connector-google-drive@8.5.4?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha1
 - pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha2
 - pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha2.1
 - pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha2.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha2?classifier=sources
+- pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha3
+- pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha3.1
+- pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha3.1?classifier=sources
+- pkg:maven/io.camunda.connector/connector-google-drive@8.6.0-alpha3?classifier=sources

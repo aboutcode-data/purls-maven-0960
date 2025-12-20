@@ -86,6 +86,8 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.145?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.147
 - pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.147?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.160
+- pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.160?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.28
 - pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.28?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-queue-client-jersey2@6.5.29

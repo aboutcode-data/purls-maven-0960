@@ -12,3 +12,15 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.90.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.90.2?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.90.4?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.91.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.91.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.91.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.91.3?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.92.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.92.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.93.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.94.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.94.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.94.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.94.3?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.94.4?classifier=sources

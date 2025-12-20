@@ -6,6 +6,10 @@
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.12?classifier=sources
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.13
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.13?classifier=sources
+- pkg:maven/it.netgrid/bauer-ffmq@0.0.14
+- pkg:maven/it.netgrid/bauer-ffmq@0.0.14?classifier=sources
+- pkg:maven/it.netgrid/bauer-ffmq@0.0.15
+- pkg:maven/it.netgrid/bauer-ffmq@0.0.15?classifier=sources
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.2
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.2?classifier=sources
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.3
@@ -22,3 +26,5 @@
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.8?classifier=sources
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.9
 - pkg:maven/it.netgrid/bauer-ffmq@0.0.9?classifier=sources
+- pkg:maven/it.netgrid/bauer-ffmq@1.0.0
+- pkg:maven/it.netgrid/bauer-ffmq@1.0.0?classifier=sources

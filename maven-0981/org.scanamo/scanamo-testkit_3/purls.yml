@@ -26,3 +26,9 @@
 - pkg:maven/org.scanamo/scanamo-testkit_3@1.1.0?classifier=sources
 - pkg:maven/org.scanamo/scanamo-testkit_3@1.1.1
 - pkg:maven/org.scanamo/scanamo-testkit_3@1.1.1?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0
+- pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0-PREVIEW.updates-for-latest-gha-scala-library-release-workflow-settings.2024-06-26T1611.115671d7
+- pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0-PREVIEW.updates-for-latest-gha-scala-library-release-workflow-settings.2024-06-26T1611.115671d7?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0-PREVIEW.updates-for-latest-gha-scala-library-release-workflow-settings.2024-06-26T1628.115671d7
+- pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0-PREVIEW.updates-for-latest-gha-scala-library-release-workflow-settings.2024-06-26T1628.115671d7?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@2.0.0?classifier=sources

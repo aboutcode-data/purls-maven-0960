@@ -3,6 +3,8 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.6.9
 - pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.6.9?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.7.1
+- pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.7.1-SNAPSHOT-3c76893
+- pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.7.1-SNAPSHOT-3c76893?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.7.1-SNAPSHOT-4670905
 - pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.7.1-SNAPSHOT-4670905?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-functions-local-runner@2.10.7.1-SNAPSHOT-8da4484

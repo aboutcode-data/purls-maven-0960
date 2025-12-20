@@ -6,3 +6,7 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.2?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.3
 - pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.3?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.4
+- pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.4?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.5
+- pkg:maven/io.github.openfeign.querydsl/querydsl-r2dbc@6.5?classifier=sources

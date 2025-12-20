@@ -18,6 +18,8 @@
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@10.1.0?classifier=sources
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@10.2.0.alpha-01
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@10.2.0.alpha-01?classifier=sources
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@10.2.0.beta-01
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@10.2.0.beta-01?classifier=sources
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.beta-01
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.0.beta-01?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.3?classifier=sources
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.4
 - pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.4?classifier=sources
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.5
+- pkg:maven/org.bonitasoft/bonita-project-assemblies@9.0.5?classifier=sources

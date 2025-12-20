@@ -383,3 +383,5 @@
 - pkg:maven/com.liferay/com.liferay.object.api@9.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.api@90.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@91.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@91.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@91.2.0?classifier=sources

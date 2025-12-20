@@ -35,7 +35,9 @@
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.33.2?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.33.3?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.33.4?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-test-utils@0.33.5?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.34.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.34.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.34.2?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-test-utils@0.34.3?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-test-utils@0.35.0?classifier=sources

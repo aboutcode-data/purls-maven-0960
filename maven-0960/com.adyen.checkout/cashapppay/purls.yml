@@ -6,6 +6,7 @@
 - pkg:maven/com.adyen.checkout/cashapppay@4.13.3?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@4.13.4?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@4.13.5?classifier=sources
+- pkg:maven/com.adyen.checkout/cashapppay@4.13.6?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@5.0.0-alpha02?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@5.0.0-beta01?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@5.0.0?classifier=sources
@@ -15,3 +16,5 @@
 - pkg:maven/com.adyen.checkout/cashapppay@5.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@5.3.1?classifier=sources
 - pkg:maven/com.adyen.checkout/cashapppay@5.4.0?classifier=sources
+- pkg:maven/com.adyen.checkout/cashapppay@5.5.0?classifier=sources
+- pkg:maven/com.adyen.checkout/cashapppay@5.6.0?classifier=sources

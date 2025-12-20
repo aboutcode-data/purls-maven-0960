@@ -69,6 +69,10 @@
 - pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.24?classifier=sources
 - pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.25
 - pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.25?classifier=sources
+- pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.27
+- pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.27?classifier=sources
+- pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.28
+- pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.28?classifier=sources
 - pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.2?classifier=sources
 - pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.3
 - pkg:maven/de.adorsys.sts/keycloak-storage-provider@1.1.3?classifier=sources

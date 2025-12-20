@@ -8,3 +8,5 @@
 - pkg:maven/org.aesh/terminal-ssh@2.3?classifier=sources
 - pkg:maven/org.aesh/terminal-ssh@2.4
 - pkg:maven/org.aesh/terminal-ssh@2.4?classifier=sources
+- pkg:maven/org.aesh/terminal-ssh@2.6
+- pkg:maven/org.aesh/terminal-ssh@2.6?classifier=sources

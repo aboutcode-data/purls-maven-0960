@@ -21,3 +21,5 @@
 - pkg:maven/org.neo4j.gds/opengds-extension@2.7.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/opengds-extension@2.7.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/opengds-extension@2.7.0-alpha03?classifier=sources
+- pkg:maven/org.neo4j.gds/opengds-extension@2.7.0?classifier=sources
+- pkg:maven/org.neo4j.gds/opengds-extension@2.8.0?classifier=sources

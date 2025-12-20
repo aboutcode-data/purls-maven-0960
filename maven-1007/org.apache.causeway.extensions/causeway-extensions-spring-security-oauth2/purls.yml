@@ -8,5 +8,9 @@
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@2.0.0-RC4
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@2.0.0-RC4?classifier=sources
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@2.0.0?classifier=sources
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@2.1.0
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@2.1.0?classifier=sources
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@3.0.0
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@3.0.0?classifier=sources
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@3.1.0
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-spring-security-oauth2@3.1.0?classifier=sources

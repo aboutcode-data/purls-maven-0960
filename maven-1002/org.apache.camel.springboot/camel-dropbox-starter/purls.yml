@@ -106,6 +106,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.21.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.21.4
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.21.4?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.21.5
+- pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.21.5?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.22.0
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@3.22.1
@@ -186,7 +188,11 @@
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.4.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.4.2
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.4.2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.4.3
+- pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.4.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.5.0
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.6.0
 - pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.6.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.7.0
+- pkg:maven/org.apache.camel.springboot/camel-dropbox-starter@4.7.0?classifier=sources

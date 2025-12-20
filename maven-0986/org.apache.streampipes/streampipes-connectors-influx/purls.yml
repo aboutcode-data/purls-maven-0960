@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.93.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.95.0
 - pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.95.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.95.1
+- pkg:maven/org.apache.streampipes/streampipes-connectors-influx@0.95.1?classifier=sources

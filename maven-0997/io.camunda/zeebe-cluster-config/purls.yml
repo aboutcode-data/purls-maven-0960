@@ -4,3 +4,7 @@
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha2-rc4
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha2-rc4?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha2?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha3
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha3-rc3
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha3-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.0-alpha3?classifier=sources

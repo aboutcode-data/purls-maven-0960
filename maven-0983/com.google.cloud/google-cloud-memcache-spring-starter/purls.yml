@@ -20,6 +20,10 @@
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.4-preview
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.4-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.5-preview
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.5-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.6-preview
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.10.6-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@4.3.0-preview
@@ -82,3 +86,7 @@
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.4.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.4.1-preview
 - pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.4.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.4.3-preview
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.4.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.5.0-preview
+- pkg:maven/com.google.cloud/google-cloud-memcache-spring-starter@5.5.0-preview?classifier=sources

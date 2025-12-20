@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.drill.contrib/drill-storage-http@1.21.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-storage-http@1.21.1
 - pkg:maven/org.apache.drill.contrib/drill-storage-http@1.21.1?classifier=sources
+- pkg:maven/org.apache.drill.contrib/drill-storage-http@1.21.2
+- pkg:maven/org.apache.drill.contrib/drill-storage-http@1.21.2?classifier=sources

@@ -88,6 +88,8 @@
 - pkg:maven/com.google.cloud/google-cloud-run@0.44.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.45.0
 - pkg:maven/com.google.cloud/google-cloud-run@0.45.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-run@0.46.0
+- pkg:maven/com.google.cloud/google-cloud-run@0.46.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.5.0
 - pkg:maven/com.google.cloud/google-cloud-run@0.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-run@0.6.0

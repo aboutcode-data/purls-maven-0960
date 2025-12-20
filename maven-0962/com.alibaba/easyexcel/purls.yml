@@ -138,3 +138,7 @@
 - pkg:maven/com.alibaba/easyexcel@3.3.3?classifier=sources
 - pkg:maven/com.alibaba/easyexcel@3.3.4
 - pkg:maven/com.alibaba/easyexcel@3.3.4?classifier=sources
+- pkg:maven/com.alibaba/easyexcel@4.0.0
+- pkg:maven/com.alibaba/easyexcel@4.0.0?classifier=sources
+- pkg:maven/com.alibaba/easyexcel@4.0.1
+- pkg:maven/com.alibaba/easyexcel@4.0.1?classifier=sources

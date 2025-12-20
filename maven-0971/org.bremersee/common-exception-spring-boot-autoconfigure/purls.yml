@@ -1,2 +1,6 @@
 - pkg:maven/org.bremersee/common-exception-spring-boot-autoconfigure@0.0.1
 - pkg:maven/org.bremersee/common-exception-spring-boot-autoconfigure@0.0.1?classifier=sources
+- pkg:maven/org.bremersee/common-exception-spring-boot-autoconfigure@1.0.0
+- pkg:maven/org.bremersee/common-exception-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/org.bremersee/common-exception-spring-boot-autoconfigure@1.0.1
+- pkg:maven/org.bremersee/common-exception-spring-boot-autoconfigure@1.0.1?classifier=sources
