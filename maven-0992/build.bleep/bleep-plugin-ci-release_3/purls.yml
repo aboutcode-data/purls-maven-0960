@@ -18,3 +18,7 @@
 - pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.7-RC2
 - pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.7-RC2?classifier=sources
 - pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.7?classifier=sources
+- pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.8
+- pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.8?classifier=sources
+- pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.9
+- pkg:maven/build.bleep/bleep-plugin-ci-release_3@0.0.9?classifier=sources

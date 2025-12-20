@@ -36,6 +36,8 @@
 - pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.14.7?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.15.3
 - pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.15.3?classifier=sources
+- pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.16.0
+- pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.16.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.2.0
 - pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.2.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-datamodel@0.3.0

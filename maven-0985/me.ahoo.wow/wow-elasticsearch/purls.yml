@@ -206,6 +206,7 @@
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.11.7?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.12.0?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.12.10?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@3.12.11?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.12.2?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.12.3?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@3.12.5?classifier=sources

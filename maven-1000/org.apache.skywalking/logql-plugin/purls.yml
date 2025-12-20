@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.skywalking/logql-plugin@10.0.1
 - pkg:maven/org.apache.skywalking/logql-plugin@10.0.1?classifier=sources
+- pkg:maven/org.apache.skywalking/logql-plugin@10.1.0
 - pkg:maven/org.apache.skywalking/logql-plugin@9.6.0
 - pkg:maven/org.apache.skywalking/logql-plugin@9.6.0?classifier=sources
 - pkg:maven/org.apache.skywalking/logql-plugin@9.7.0

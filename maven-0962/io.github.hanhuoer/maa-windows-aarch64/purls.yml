@@ -1,2 +1,4 @@
 - pkg:maven/io.github.hanhuoer/maa-windows-aarch64@1.8.8?classifier=sources
 - pkg:maven/io.github.hanhuoer/maa-windows-aarch64@1.8.9?classifier=sources
+- pkg:maven/io.github.hanhuoer/maa-windows-aarch64@2.0.3
+- pkg:maven/io.github.hanhuoer/maa-windows-aarch64@2.0.3?classifier=sources

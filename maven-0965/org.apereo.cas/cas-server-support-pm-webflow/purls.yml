@@ -246,6 +246,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.0.6?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.0.7?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.0.8?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.0.9?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.0-RC3?classifier=sources
@@ -253,5 +254,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.0-RC6?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.1.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@7.2.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-pm-webflow@v6.4.0-RC6?classifier=sources

@@ -28,6 +28,11 @@
 - pkg:maven/com.mx.path-mdx-model/realtime@13.3.0?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/realtime@14.0.0?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/realtime@14.0.1?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/realtime@14.1.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/realtime@14.2.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/realtime@14.2.1?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/realtime@14.2.2?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/realtime@15.0.0?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/realtime@2.0.0-alpha.1?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/realtime@2.0.0-alpha.2?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/realtime@2.0.0-alpha.3?classifier=sources

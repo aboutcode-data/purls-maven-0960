@@ -76,3 +76,5 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.96.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.97.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.97.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.98.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc@0.99.0?classifier=sources

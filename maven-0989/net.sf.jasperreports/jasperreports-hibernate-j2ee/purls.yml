@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-hibernate-j2ee@7.0.0
 - pkg:maven/net.sf.jasperreports/jasperreports-hibernate-j2ee@7.0.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-hibernate-j2ee@7.0.1
+- pkg:maven/net.sf.jasperreports/jasperreports-hibernate-j2ee@7.0.1?classifier=sources

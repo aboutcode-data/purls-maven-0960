@@ -1,0 +1,4 @@
+- pkg:maven/com.scylladb/spark-scylladb-connector-test-support_2.12@4.0.0
+- pkg:maven/com.scylladb/spark-scylladb-connector-test-support_2.12@4.0.0-RC1
+- pkg:maven/com.scylladb/spark-scylladb-connector-test-support_2.12@4.0.0-RC1?classifier=sources
+- pkg:maven/com.scylladb/spark-scylladb-connector-test-support_2.12@4.0.0?classifier=sources

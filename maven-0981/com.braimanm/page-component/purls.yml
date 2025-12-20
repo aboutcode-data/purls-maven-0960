@@ -1,2 +1,6 @@
 - pkg:maven/com.braimanm/page-component@1.6.1
 - pkg:maven/com.braimanm/page-component@1.6.1?classifier=sources
+- pkg:maven/com.braimanm/page-component@3.0.0
+- pkg:maven/com.braimanm/page-component@3.0.0?classifier=sources
+- pkg:maven/com.braimanm/page-component@3.1.0
+- pkg:maven/com.braimanm/page-component@3.1.0?classifier=sources

@@ -70,3 +70,7 @@
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.7.1?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.7.2
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.7.2?classifier=sources
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.7.3
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.7.3?classifier=sources
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.7.4
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.7.4?classifier=sources

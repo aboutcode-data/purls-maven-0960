@@ -74,3 +74,5 @@
 - pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc3
 - pkg:maven/com.jsunsoft.http/http-request@3.3.0-rc3?classifier=sources
 - pkg:maven/com.jsunsoft.http/http-request@3.3.0?classifier=sources
+- pkg:maven/com.jsunsoft.http/http-request@3.3.1
+- pkg:maven/com.jsunsoft.http/http-request@3.3.1?classifier=sources

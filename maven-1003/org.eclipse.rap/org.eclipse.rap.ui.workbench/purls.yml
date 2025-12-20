@@ -40,3 +40,5 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.29.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.9.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@3.9.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@4.0.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.ui.workbench@4.0.0?classifier=sources

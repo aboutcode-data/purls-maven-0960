@@ -20,3 +20,5 @@
 - pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@2.4.0?classifier=sources
 - pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@3.0.0
 - pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@3.0.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@3.0.1
+- pkg:maven/com.amazonaws/amazon-neptune-sigv4-signer@3.0.1?classifier=sources

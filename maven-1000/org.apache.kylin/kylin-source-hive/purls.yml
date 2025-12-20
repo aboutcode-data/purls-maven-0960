@@ -82,7 +82,9 @@
 - pkg:maven/org.apache.kylin/kylin-source-hive@4.0.3?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-source-hive@4.0.4
 - pkg:maven/org.apache.kylin/kylin-source-hive@4.0.4?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-source-hive@5.0.0
 - pkg:maven/org.apache.kylin/kylin-source-hive@5.0.0-alpha
 - pkg:maven/org.apache.kylin/kylin-source-hive@5.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-source-hive@5.0.0-beta
 - pkg:maven/org.apache.kylin/kylin-source-hive@5.0.0-beta?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-source-hive@5.0.0?classifier=sources

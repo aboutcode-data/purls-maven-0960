@@ -189,3 +189,5 @@
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@3.97.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@3.98.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@3.99.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@4.0.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@4.1.0?classifier=sources

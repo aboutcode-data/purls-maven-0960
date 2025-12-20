@@ -52,3 +52,5 @@
 - pkg:maven/io.kcache/kcache-rocksdb@4.0.9?classifier=sources
 - pkg:maven/io.kcache/kcache-rocksdb@5.0.0
 - pkg:maven/io.kcache/kcache-rocksdb@5.0.0?classifier=sources
+- pkg:maven/io.kcache/kcache-rocksdb@5.1.0
+- pkg:maven/io.kcache/kcache-rocksdb@5.1.0?classifier=sources

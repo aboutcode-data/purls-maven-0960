@@ -1,3 +1,4 @@
 - pkg:maven/name.remal.gradle-plugins.jacoco-to-cobertura/jacoco-to-cobertura-bom@1.0.0-rc-1?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.jacoco-to-cobertura/jacoco-to-cobertura-bom@1.0.0-rc-2?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.jacoco-to-cobertura/jacoco-to-cobertura-bom@1.0.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.jacoco-to-cobertura/jacoco-to-cobertura-bom@1.0.1?classifier=sources

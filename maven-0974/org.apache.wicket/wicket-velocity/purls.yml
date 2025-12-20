@@ -152,6 +152,8 @@
 - pkg:maven/org.apache.wicket/wicket-velocity@10.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@10.1.0
 - pkg:maven/org.apache.wicket/wicket-velocity@10.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-velocity@10.2.0
+- pkg:maven/org.apache.wicket/wicket-velocity@10.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-velocity@6.0.0
 - pkg:maven/org.apache.wicket/wicket-velocity@6.0.0-beta1
 - pkg:maven/org.apache.wicket/wicket-velocity@6.0.0-beta1?classifier=sources

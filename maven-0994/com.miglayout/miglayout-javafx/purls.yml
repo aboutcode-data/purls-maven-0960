@@ -4,6 +4,8 @@
 - pkg:maven/com.miglayout/miglayout-javafx@11.1?classifier=sources
 - pkg:maven/com.miglayout/miglayout-javafx@11.2?classifier=sources
 - pkg:maven/com.miglayout/miglayout-javafx@11.3?classifier=sources
+- pkg:maven/com.miglayout/miglayout-javafx@11.4.1?classifier=sources
+- pkg:maven/com.miglayout/miglayout-javafx@11.4.2?classifier=sources
 - pkg:maven/com.miglayout/miglayout-javafx@11.4?classifier=sources
 - pkg:maven/com.miglayout/miglayout-javafx@4.2
 - pkg:maven/com.miglayout/miglayout-javafx@4.2?classifier=sources

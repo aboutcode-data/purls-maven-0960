@@ -79,8 +79,14 @@
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.36?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.37
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.37?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.38
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.38?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.39
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.39?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.3?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.4
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.40
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.40?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.4?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.5
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.2.5?classifier=sources
@@ -100,3 +106,5 @@
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.1?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.2
 - pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.2?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.3
+- pkg:maven/com.sdl.dxa/dxa-tridion-common@2.3.3?classifier=sources

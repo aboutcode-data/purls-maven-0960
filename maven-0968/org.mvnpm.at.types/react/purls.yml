@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm.at.types/react@17.0.18?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.2.0?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.2.21?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.2.22?classifier=sources
@@ -7,6 +8,8 @@
 - pkg:maven/org.mvnpm.at.types/react@18.2.57?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.2.71?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.2.79?classifier=sources
+- pkg:maven/org.mvnpm.at.types/react@18.3.10?classifier=sources
+- pkg:maven/org.mvnpm.at.types/react@18.3.11?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.3.1?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.3.3?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react@18.3.4?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.15.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.15.1
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.15.1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.15.2
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.15.2?classifier=sources

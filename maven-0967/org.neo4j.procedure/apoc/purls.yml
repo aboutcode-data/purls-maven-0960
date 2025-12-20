@@ -168,6 +168,7 @@
 - pkg:maven/org.neo4j.procedure/apoc@4.4.0.2?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc@4.4.0.30?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc@4.4.0.31?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc@4.4.0.32?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc@4.4.0.3?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc@4.4.0.4?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc@4.4.0.5?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.apache.openjpa/openjpa-lib@3.2.2?classifier=sources
 - pkg:maven/org.apache.openjpa/openjpa-lib@4.0.0
 - pkg:maven/org.apache.openjpa/openjpa-lib@4.0.0?classifier=sources
+- pkg:maven/org.apache.openjpa/openjpa-lib@4.0.1
+- pkg:maven/org.apache.openjpa/openjpa-lib@4.0.1?classifier=sources

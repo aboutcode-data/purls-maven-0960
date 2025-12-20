@@ -2,3 +2,11 @@
 - pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.0.0.RELEASE
 - pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.3.x.20240823.RELEASE
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.3.x.20240823.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.7.x.20240823.RELEASE
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.7.x.20240823.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.7.x.20240824.RELEASE
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@2.7.x.20240824.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@3.3.x.20240823.RELEASE
+- pkg:maven/com.github.hiwepy/sigar-spring-boot-starter@3.3.x.20240823.RELEASE?classifier=sources

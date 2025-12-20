@@ -1088,6 +1088,8 @@
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.0.1-20240913-070624.c957689?classifier=sources
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.0.1-20240917-072843.4cec993
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.0.1-20240917-072843.4cec993?classifier=sources
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.0.1-20240927-183331.c6107eb
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.0.1-20240927-183331.c6107eb?classifier=sources
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20231025-183335.6232a7c
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20231025-183335.6232a7c?classifier=sources
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20231027-015303.09d49b2
@@ -1462,3 +1464,5 @@
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20240912-094806.0374c06?classifier=sources
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20240913-070941.4a576f6
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20240913-070941.4a576f6?classifier=sources
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20240927-111508.73232fe
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.1.0-20240927-111508.73232fe?classifier=sources

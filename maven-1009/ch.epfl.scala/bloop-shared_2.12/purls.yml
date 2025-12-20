@@ -990,3 +990,9 @@
 - pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.0-RC1
 - pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.0-RC1?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.1
+- pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.1?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.2
+- pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.2?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.3
+- pkg:maven/ch.epfl.scala/bloop-shared_2.12@2.0.3?classifier=sources

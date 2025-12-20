@@ -4,3 +4,5 @@
 - pkg:maven/org.beangle.web/beangle-web@0.4.12?classifier=sources
 - pkg:maven/org.beangle.web/beangle-web@0.5.0
 - pkg:maven/org.beangle.web/beangle-web@0.5.0?classifier=sources
+- pkg:maven/org.beangle.web/beangle-web@0.5.1
+- pkg:maven/org.beangle.web/beangle-web@0.5.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.13?type=war
 - pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.14?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.14?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.15?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-jetty-6-deployer@1.10.15?type=war

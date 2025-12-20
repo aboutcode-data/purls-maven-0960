@@ -1050,6 +1050,8 @@
 - pkg:maven/software.constructs/constructs@10.2.9?classifier=sources
 - pkg:maven/software.constructs/constructs@10.3.0
 - pkg:maven/software.constructs/constructs@10.3.0?classifier=sources
+- pkg:maven/software.constructs/constructs@10.3.1
+- pkg:maven/software.constructs/constructs@10.3.1?classifier=sources
 - pkg:maven/software.constructs/constructs@2.0.0
 - pkg:maven/software.constructs/constructs@2.0.0?classifier=sources
 - pkg:maven/software.constructs/constructs@2.0.1

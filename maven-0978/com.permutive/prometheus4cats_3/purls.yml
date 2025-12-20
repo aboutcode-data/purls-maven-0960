@@ -18,3 +18,5 @@
 - pkg:maven/com.permutive/prometheus4cats_3@2.0.0-RC2
 - pkg:maven/com.permutive/prometheus4cats_3@2.0.0-RC2?classifier=sources
 - pkg:maven/com.permutive/prometheus4cats_3@2.0.0?classifier=sources
+- pkg:maven/com.permutive/prometheus4cats_3@3.0.0
+- pkg:maven/com.permutive/prometheus4cats_3@3.0.0?classifier=sources

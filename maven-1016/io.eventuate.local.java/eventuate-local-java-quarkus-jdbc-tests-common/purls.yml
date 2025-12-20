@@ -7,3 +7,4 @@
 - pkg:maven/io.eventuate.local.java/eventuate-local-java-quarkus-jdbc-tests-common@0.6.1.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.local.java/eventuate-local-java-quarkus-jdbc-tests-common@0.7.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.local.java/eventuate-local-java-quarkus-jdbc-tests-common@0.8.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.local.java/eventuate-local-java-quarkus-jdbc-tests-common@0.9.0.RELEASE?classifier=sources

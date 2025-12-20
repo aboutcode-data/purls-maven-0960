@@ -1,2 +1,4 @@
 - pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-maven-plugin@0.4.0
 - pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-maven-plugin@0.4.0?classifier=sources
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-maven-plugin@0.5.0
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-maven-plugin@0.5.0?classifier=sources

@@ -124,8 +124,14 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.45.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.46.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.46.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.47.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.47.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.49.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.5.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.50.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.50.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-managed-identities-v1@1.7.0

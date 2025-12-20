@@ -98,3 +98,7 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta3?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta4
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta4?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta5
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta5?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta6
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-domain-remote@5.1.0.Beta6?classifier=sources

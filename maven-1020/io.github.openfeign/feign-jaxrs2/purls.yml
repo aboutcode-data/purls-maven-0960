@@ -88,5 +88,7 @@
 - pkg:maven/io.github.openfeign/feign-jaxrs2@13.3?classifier=sources
 - pkg:maven/io.github.openfeign/feign-jaxrs2@13.4
 - pkg:maven/io.github.openfeign/feign-jaxrs2@13.4?classifier=sources
+- pkg:maven/io.github.openfeign/feign-jaxrs2@13.5
+- pkg:maven/io.github.openfeign/feign-jaxrs2@13.5?classifier=sources
 - pkg:maven/io.github.openfeign/feign-jaxrs2@9.7.0
 - pkg:maven/io.github.openfeign/feign-jaxrs2@9.7.0?classifier=sources

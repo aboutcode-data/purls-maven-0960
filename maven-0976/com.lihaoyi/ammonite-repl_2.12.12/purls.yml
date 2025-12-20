@@ -236,6 +236,9 @@
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@2.5.9-3-feb1f0c6
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@2.5.9-3-feb1f0c6?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@2.5.9?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0
+- pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-2-6342755f
+- pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-2-6342755f?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M0
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M0-1-beb96bfb
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M0-1-beb96bfb?classifier=sources
@@ -435,6 +438,8 @@
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-2-741e5dbb?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-3-b5eb4787
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-3-b5eb4787?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-30-486378af
+- pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-30-486378af?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-4-c3312916
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-4-c3312916?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-5-1c823fef
@@ -448,3 +453,4 @@
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-9-88291dd8
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2-9-88291dd8?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0-M2?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-repl_2.12.12@3.0.0?classifier=sources

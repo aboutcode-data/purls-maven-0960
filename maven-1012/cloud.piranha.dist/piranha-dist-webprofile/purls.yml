@@ -28,6 +28,8 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@23.9.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.1.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.1.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.10.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.10.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.2.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.2.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.3.0
@@ -42,3 +44,5 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.7.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.8.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.8.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.9.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-webprofile@24.9.0?classifier=sources

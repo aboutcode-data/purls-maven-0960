@@ -12,3 +12,7 @@
 - pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.19.1?classifier=sources
 - pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.20.0
 - pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.20.0?classifier=sources
+- pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.20.1
+- pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.20.1?classifier=sources
+- pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.21.0
+- pkg:maven/com.google.cloud/cloud-sql-connector-r2dbc-mariadb@1.21.0?classifier=sources

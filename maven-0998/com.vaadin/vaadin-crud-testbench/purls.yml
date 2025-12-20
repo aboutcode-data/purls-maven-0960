@@ -554,6 +554,8 @@
 - pkg:maven/com.vaadin/vaadin-crud-testbench@23.5.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-crud-testbench@23.5.6
 - pkg:maven/com.vaadin/vaadin-crud-testbench@23.5.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-crud-testbench@23.5.7
+- pkg:maven/com.vaadin/vaadin-crud-testbench@23.5.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.0.0
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.0.1
@@ -691,6 +693,8 @@
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.11?classifier=sources
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.12
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.12?classifier=sources
+- pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.13
+- pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.2
 - pkg:maven/com.vaadin/vaadin-crud-testbench@24.4.2?classifier=sources

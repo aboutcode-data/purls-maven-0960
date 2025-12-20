@@ -1,2 +1,4 @@
+- pkg:maven/cn.xphsc.boot/docker-spring-boot-starer@1.0.0
 - pkg:maven/cn.xphsc.boot/docker-spring-boot-starer@1.0.0-RC
 - pkg:maven/cn.xphsc.boot/docker-spring-boot-starer@1.0.0-RC?classifier=sources
+- pkg:maven/cn.xphsc.boot/docker-spring-boot-starer@1.0.0?classifier=sources

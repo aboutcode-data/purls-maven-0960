@@ -392,6 +392,7 @@
 - pkg:maven/io.sentry/sentry-spring@7.13.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@7.14.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@7.15.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-spring@7.15.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@7.2.0
 - pkg:maven/io.sentry/sentry-spring@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring@7.3.0

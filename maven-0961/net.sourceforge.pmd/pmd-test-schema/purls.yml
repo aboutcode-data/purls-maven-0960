@@ -34,3 +34,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-test-schema@7.4.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-test-schema@7.5.0
 - pkg:maven/net.sourceforge.pmd/pmd-test-schema@7.5.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-test-schema@7.6.0
+- pkg:maven/net.sourceforge.pmd/pmd-test-schema@7.6.0?classifier=sources

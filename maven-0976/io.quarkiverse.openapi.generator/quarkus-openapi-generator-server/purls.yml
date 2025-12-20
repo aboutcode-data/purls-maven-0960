@@ -6,3 +6,5 @@
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.4.6?classifier=sources
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.4.7
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.4.7?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.5.0
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-server@2.5.0?classifier=sources

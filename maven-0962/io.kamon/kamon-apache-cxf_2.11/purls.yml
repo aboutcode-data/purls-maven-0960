@@ -1,2 +1,6 @@
 - pkg:maven/io.kamon/kamon-apache-cxf_2.11@2.7.3
 - pkg:maven/io.kamon/kamon-apache-cxf_2.11@2.7.3?classifier=sources
+- pkg:maven/io.kamon/kamon-apache-cxf_2.11@2.7.4
+- pkg:maven/io.kamon/kamon-apache-cxf_2.11@2.7.4?classifier=sources
+- pkg:maven/io.kamon/kamon-apache-cxf_2.11@2.7.5
+- pkg:maven/io.kamon/kamon-apache-cxf_2.11@2.7.5?classifier=sources

@@ -25,3 +25,5 @@
 - pkg:maven/org.projectnessie.nessie/nessie-minio-testcontainer@0.96.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-minio-testcontainer@0.97.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-minio-testcontainer@0.97.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-minio-testcontainer@0.98.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-minio-testcontainer@0.99.0?classifier=sources

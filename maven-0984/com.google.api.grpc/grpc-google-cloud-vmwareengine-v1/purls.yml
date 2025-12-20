@@ -68,6 +68,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.41.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.42.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.42.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.43.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.43.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.45.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.45.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.46.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vmwareengine-v1@0.6.0

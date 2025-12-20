@@ -388,6 +388,14 @@
 - pkg:maven/io.ebean/ebean-agent@14.5.2?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@14.6.0
 - pkg:maven/io.ebean/ebean-agent@14.6.0?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@14.6.1
+- pkg:maven/io.ebean/ebean-agent@14.6.1-RC1
+- pkg:maven/io.ebean/ebean-agent@14.6.1-RC1?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@14.6.1-RC2
+- pkg:maven/io.ebean/ebean-agent@14.6.1-RC2?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@14.6.1?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@14.7.0
+- pkg:maven/io.ebean/ebean-agent@14.7.0?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@15.0.1
 - pkg:maven/io.ebean/ebean-agent@15.0.1?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@15.1.0
@@ -408,3 +416,5 @@
 - pkg:maven/io.ebean/ebean-agent@15.5.2?classifier=sources
 - pkg:maven/io.ebean/ebean-agent@15.6.0
 - pkg:maven/io.ebean/ebean-agent@15.6.0?classifier=sources
+- pkg:maven/io.ebean/ebean-agent@15.7.0
+- pkg:maven/io.ebean/ebean-agent@15.7.0?classifier=sources

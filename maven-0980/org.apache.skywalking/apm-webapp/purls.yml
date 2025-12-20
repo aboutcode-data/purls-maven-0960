@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.skywalking/apm-webapp@10.0.1
 - pkg:maven/org.apache.skywalking/apm-webapp@10.0.1?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-webapp@10.1.0
 - pkg:maven/org.apache.skywalking/apm-webapp@5.0.0-GA
 - pkg:maven/org.apache.skywalking/apm-webapp@5.0.0-RC2
 - pkg:maven/org.apache.skywalking/apm-webapp@5.0.0-alpha

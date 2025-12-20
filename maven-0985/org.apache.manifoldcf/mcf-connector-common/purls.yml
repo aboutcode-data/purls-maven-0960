@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.manifoldcf/mcf-connector-common@2.26
 - pkg:maven/org.apache.manifoldcf/mcf-connector-common@2.26?classifier=sources
+- pkg:maven/org.apache.manifoldcf/mcf-connector-common@2.27
+- pkg:maven/org.apache.manifoldcf/mcf-connector-common@2.27?classifier=sources

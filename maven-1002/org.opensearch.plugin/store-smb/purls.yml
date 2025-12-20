@@ -38,6 +38,7 @@
 - pkg:maven/org.opensearch.plugin/store-smb@2.15.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/store-smb@2.16.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/store-smb@2.17.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/store-smb@2.17.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/store-smb@2.2.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/store-smb@2.2.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/store-smb@2.3.0?classifier=sources

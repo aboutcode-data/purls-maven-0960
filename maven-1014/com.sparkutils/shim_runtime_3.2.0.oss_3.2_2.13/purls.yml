@@ -1,3 +1,4 @@
+- pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1
 - pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1-RC1
 - pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1-RC1?classifier=sources
 - pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1-RC2
@@ -6,3 +7,4 @@
 - pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1-RC3?classifier=sources
 - pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1-RC4
 - pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1-RC4?classifier=sources
+- pkg:maven/com.sparkutils/shim_runtime_3.2.0.oss_3.2_2.13@0.0.1?classifier=sources

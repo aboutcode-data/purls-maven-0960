@@ -100,6 +100,12 @@
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.5.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.50.0
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.50.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.51.0
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.51.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.53.0
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.53.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.54.0
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.54.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.7.0

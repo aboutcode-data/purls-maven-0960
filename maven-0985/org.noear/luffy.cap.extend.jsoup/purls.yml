@@ -110,3 +110,7 @@
 - pkg:maven/org.noear/luffy.cap.extend.jsoup@1.8.0-M1
 - pkg:maven/org.noear/luffy.cap.extend.jsoup@1.8.0-M1?classifier=sources
 - pkg:maven/org.noear/luffy.cap.extend.jsoup@1.8.0?classifier=sources
+- pkg:maven/org.noear/luffy.cap.extend.jsoup@1.8.1
+- pkg:maven/org.noear/luffy.cap.extend.jsoup@1.8.1?classifier=sources
+- pkg:maven/org.noear/luffy.cap.extend.jsoup@1.9.0
+- pkg:maven/org.noear/luffy.cap.extend.jsoup@1.9.0?classifier=sources

@@ -110,6 +110,8 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.13.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.13.1
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.13.1?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.13.2
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.13.2?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.2.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.2.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus-deployment@2.2.1

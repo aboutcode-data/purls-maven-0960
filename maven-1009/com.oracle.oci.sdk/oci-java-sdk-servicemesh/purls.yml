@@ -264,8 +264,16 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.47.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.48.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.48.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.49.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.49.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.5.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.50.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.50.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.50.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.50.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.50.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.50.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-servicemesh@3.7.0

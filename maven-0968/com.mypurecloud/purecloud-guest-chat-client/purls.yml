@@ -36,6 +36,8 @@
 - pkg:maven/com.mypurecloud/purecloud-guest-chat-client@13.7.0?classifier=sources
 - pkg:maven/com.mypurecloud/purecloud-guest-chat-client@14.0.0
 - pkg:maven/com.mypurecloud/purecloud-guest-chat-client@14.0.0?classifier=sources
+- pkg:maven/com.mypurecloud/purecloud-guest-chat-client@14.1.0
+- pkg:maven/com.mypurecloud/purecloud-guest-chat-client@14.1.0?classifier=sources
 - pkg:maven/com.mypurecloud/purecloud-guest-chat-client@2.0.0
 - pkg:maven/com.mypurecloud/purecloud-guest-chat-client@2.0.0?classifier=sources
 - pkg:maven/com.mypurecloud/purecloud-guest-chat-client@3.0.0

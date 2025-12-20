@@ -102,6 +102,7 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.20.8?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.21.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.21.1
+- pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.21.10?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.21.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.21.2?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.21.3?classifier=sources
@@ -117,3 +118,5 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.22.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.22.2
 - pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.22.2?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.22.3?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-server-api@0.22.4?classifier=sources

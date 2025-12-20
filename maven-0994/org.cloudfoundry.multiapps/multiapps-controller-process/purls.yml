@@ -235,5 +235,7 @@
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.175.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.176.0
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.176.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.177.0
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.177.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.73.35
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-process@1.73.35?classifier=sources

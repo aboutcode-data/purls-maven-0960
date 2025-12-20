@@ -248,3 +248,7 @@
 - pkg:maven/com.gu/content-api-client-default_2.12@31.0.3?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.12@31.1.0
 - pkg:maven/com.gu/content-api-client-default_2.12@31.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@32.0.0
+- pkg:maven/com.gu/content-api-client-default_2.12@32.0.0-PREVIEW.remove-print-shop.2024-09-02T1039.d37d7fe1
+- pkg:maven/com.gu/content-api-client-default_2.12@32.0.0-PREVIEW.remove-print-shop.2024-09-02T1039.d37d7fe1?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@32.0.0?classifier=sources

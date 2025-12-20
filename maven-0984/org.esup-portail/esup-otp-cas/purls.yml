@@ -7,3 +7,5 @@
 - pkg:maven/org.esup-portail/esup-otp-cas@v1.2.0-cas_v6.6.x
 - pkg:maven/org.esup-portail/esup-otp-cas@v1.2.0-cas_v6.6.x?classifier=sources
 - pkg:maven/org.esup-portail/esup-otp-cas@v1.2.0-cas_v7.0.x?classifier=sources
+- pkg:maven/org.esup-portail/esup-otp-cas@v1.2.1-cas_v7.1.x?classifier=sources
+- pkg:maven/org.esup-portail/esup-otp-cas@v1.2.2-cas_v7.1.x?classifier=sources

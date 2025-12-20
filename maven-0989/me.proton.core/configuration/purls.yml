@@ -55,3 +55,6 @@
 - pkg:maven/me.proton.core/configuration@27.1.0?classifier=sources
 - pkg:maven/me.proton.core/configuration@27.2.0?classifier=sources
 - pkg:maven/me.proton.core/configuration@27.2.1?classifier=sources
+- pkg:maven/me.proton.core/configuration@27.2.2?classifier=sources
+- pkg:maven/me.proton.core/configuration@28.0.0?classifier=sources
+- pkg:maven/me.proton.core/configuration@28.1.0?classifier=sources

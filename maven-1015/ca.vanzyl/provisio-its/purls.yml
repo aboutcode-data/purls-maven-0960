@@ -16,6 +16,7 @@
 - pkg:maven/ca.vanzyl/provisio-its@1.0.23?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.24?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.25?classifier=sources
+- pkg:maven/ca.vanzyl/provisio-its@1.0.26?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.2?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.3?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.4?classifier=sources
@@ -24,3 +25,5 @@
 - pkg:maven/ca.vanzyl/provisio-its@1.0.7?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.8?classifier=sources
 - pkg:maven/ca.vanzyl/provisio-its@1.0.9?classifier=sources
+- pkg:maven/ca.vanzyl/provisio-its@1.1.0?classifier=sources
+- pkg:maven/ca.vanzyl/provisio-its@1.1.1?classifier=sources

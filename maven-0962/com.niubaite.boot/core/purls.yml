@@ -1,6 +1,11 @@
+- pkg:maven/com.niubaite.boot/core@1.0.1-boot3?classifier=sources
 - pkg:maven/com.niubaite.boot/core@1.0.1-boot?classifier=sources
+- pkg:maven/com.niubaite.boot/core@1.0.2-boot3?classifier=sources
 - pkg:maven/com.niubaite.boot/core@1.1.11-2024?classifier=sources
 - pkg:maven/com.niubaite.boot/core@1.1.12-2024?classifier=sources
 - pkg:maven/com.niubaite.boot/core@1.1.13-2024?classifier=sources
 - pkg:maven/com.niubaite.boot/core@1.1.14-2024?classifier=sources
 - pkg:maven/com.niubaite.boot/core@1.1.16-2024?classifier=sources
+- pkg:maven/com.niubaite.boot/core@1.1.17-2024?classifier=sources
+- pkg:maven/com.niubaite.boot/core@1.1.18-2024?classifier=sources
+- pkg:maven/com.niubaite.boot/core@1.1.19-2024?classifier=sources

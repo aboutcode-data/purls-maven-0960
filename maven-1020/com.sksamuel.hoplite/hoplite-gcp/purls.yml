@@ -13,3 +13,6 @@
 - pkg:maven/com.sksamuel.hoplite/hoplite-gcp@2.8.0.RC1?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-gcp@2.8.0.RC2?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-gcp@2.8.0.RC3?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-gcp@2.8.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-gcp@2.8.1?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-gcp@2.8.2?classifier=sources
