@@ -126,6 +126,12 @@
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.2
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.2?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.3
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.4
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.5
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.0.7.5?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.1.0.1
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.1.0.2
@@ -214,6 +220,12 @@
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.1.8?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.1.9
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.1.9?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.2.2
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.2.2?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.2.3
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.2.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.2.4
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@3.3.2.4?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.0
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.0?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.1
@@ -222,3 +234,11 @@
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.2?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.3
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.4
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.5
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.5?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.6
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.6?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.7
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-proxy@4.0.0.7?classifier=sources

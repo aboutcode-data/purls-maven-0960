@@ -11,3 +11,5 @@
 - pkg:maven/com.javiersc.kotlin/kotlin-compiler-extensions@0.4.2%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-compiler-extensions@0.4.3%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kotlin-compiler-extensions@0.4.4%2B2.0.21?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kotlin-compiler-extensions@0.5.0%2B2.1.0?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kotlin-compiler-extensions@0.5.1%2B2.1.0?classifier=sources

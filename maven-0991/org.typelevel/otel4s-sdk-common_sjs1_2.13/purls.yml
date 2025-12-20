@@ -2,6 +2,10 @@
 - pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.10.0?classifier=sources
 - pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.11.0
 - pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.11.0?classifier=sources
+- pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.11.1
+- pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.11.1?classifier=sources
+- pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.11.2
+- pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.11.2?classifier=sources
 - pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.5.0
 - pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.5.0-RC2
 - pkg:maven/org.typelevel/otel4s-sdk-common_sjs1_2.13@0.5.0-RC2?classifier=sources

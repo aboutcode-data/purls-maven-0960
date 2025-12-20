@@ -305,6 +305,8 @@
 - pkg:maven/org.neo4j.community/consistency-it@4.4.37?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.4.38
 - pkg:maven/org.neo4j.community/consistency-it@4.4.38?classifier=sources
+- pkg:maven/org.neo4j.community/consistency-it@4.4.39
+- pkg:maven/org.neo4j.community/consistency-it@4.4.39?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.4.3?classifier=sources
 - pkg:maven/org.neo4j.community/consistency-it@4.4.4
 - pkg:maven/org.neo4j.community/consistency-it@4.4.4?classifier=sources

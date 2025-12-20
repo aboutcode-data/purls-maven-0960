@@ -48,3 +48,5 @@
 - pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.7.0-beta02?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.7.0-rc01?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.7.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.7.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-unit-js@1.8.0-alpha01?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/org.telegram/telegrambots-client@7.0.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-client@7.10.0
 - pkg:maven/org.telegram/telegrambots-client@7.10.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-client@7.11.0
+- pkg:maven/org.telegram/telegrambots-client@7.11.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-client@7.2.0
 - pkg:maven/org.telegram/telegrambots-client@7.2.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-client@7.2.1
@@ -36,3 +38,5 @@
 - pkg:maven/org.telegram/telegrambots-client@7.9.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-client@7.9.1
 - pkg:maven/org.telegram/telegrambots-client@7.9.1?classifier=sources
+- pkg:maven/org.telegram/telegrambots-client@8.0.0
+- pkg:maven/org.telegram/telegrambots-client@8.0.0?classifier=sources

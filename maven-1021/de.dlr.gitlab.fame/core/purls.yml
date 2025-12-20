@@ -16,3 +16,7 @@
 - pkg:maven/de.dlr.gitlab.fame/core@1.6.0?classifier=sources
 - pkg:maven/de.dlr.gitlab.fame/core@1.7.0
 - pkg:maven/de.dlr.gitlab.fame/core@1.7.0?classifier=sources
+- pkg:maven/de.dlr.gitlab.fame/core@2.0.0
+- pkg:maven/de.dlr.gitlab.fame/core@2.0.0?classifier=sources
+- pkg:maven/de.dlr.gitlab.fame/core@2.0.1
+- pkg:maven/de.dlr.gitlab.fame/core@2.0.1?classifier=sources

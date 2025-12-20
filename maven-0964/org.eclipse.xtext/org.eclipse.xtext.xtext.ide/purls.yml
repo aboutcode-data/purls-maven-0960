@@ -179,3 +179,5 @@
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.36.0?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.37.0.M0?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.37.0.M1?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.37.0.M2?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext.ide@2.37.0?classifier=sources

@@ -156,3 +156,5 @@
 - pkg:maven/org.jboss.galleon/galleon-cli@5.2.2.Final?classifier=sources
 - pkg:maven/org.jboss.galleon/galleon-cli@6.0.3.Final
 - pkg:maven/org.jboss.galleon/galleon-cli@6.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.galleon/galleon-cli@6.0.4.Final
+- pkg:maven/org.jboss.galleon/galleon-cli@6.0.4.Final?classifier=sources

@@ -300,3 +300,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@6.9.0.202403050737-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@7.0.0.202409031743-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@7.0.0.202409031743-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@7.1.0.202411261347-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.archive@7.1.0.202411261347-r?classifier=sources

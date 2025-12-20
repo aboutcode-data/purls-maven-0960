@@ -1,2 +1,4 @@
 - pkg:maven/com.webforj/webforj-toolbar@24.12
 - pkg:maven/com.webforj/webforj-toolbar@24.12?classifier=sources
+- pkg:maven/com.webforj/webforj-toolbar@24.20
+- pkg:maven/com.webforj/webforj-toolbar@24.20?classifier=sources

@@ -53,6 +53,8 @@
 - pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.2
 - pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.20
 - pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.20?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.21
+- pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.21?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.2?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.3
 - pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-static@2.4.3?classifier=sources

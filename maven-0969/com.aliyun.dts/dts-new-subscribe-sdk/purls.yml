@@ -41,4 +41,6 @@
 - pkg:maven/com.aliyun.dts/dts-new-subscribe-sdk@2.1.2-shaded?classifier=sources
 - pkg:maven/com.aliyun.dts/dts-new-subscribe-sdk@2.1.2?classifier=sources
 - pkg:maven/com.aliyun.dts/dts-new-subscribe-sdk@2.1.4
+- pkg:maven/com.aliyun.dts/dts-new-subscribe-sdk@2.1.4-shaded
+- pkg:maven/com.aliyun.dts/dts-new-subscribe-sdk@2.1.4-shaded?classifier=sources
 - pkg:maven/com.aliyun.dts/dts-new-subscribe-sdk@2.1.4?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.10.0
+- pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.10.0-rc2
+- pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.10.0-rc2?classifier=sources
+- pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.10.0?classifier=sources
 - pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.7.0
 - pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.7.0-rc2
 - pkg:maven/com.boozallen.aissemble/foundation-upgrade@1.7.0-rc2?classifier=sources

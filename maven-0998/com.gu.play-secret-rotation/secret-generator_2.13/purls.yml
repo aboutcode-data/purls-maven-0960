@@ -34,6 +34,10 @@
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@11.3.7?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@11.3.8
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@11.3.8?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@12.0.0
+- pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@12.0.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@13.0.0
+- pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@13.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@2.0.0
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@2.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@3.0.0

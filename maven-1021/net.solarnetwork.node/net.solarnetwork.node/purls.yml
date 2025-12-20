@@ -36,6 +36,10 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.2.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.2.2
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.2.2?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.20.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.20.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.21.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.21.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.3.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.3.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node@3.5.0

@@ -6,3 +6,11 @@
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.3
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.4
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.5
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.15.5?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.16.0
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.16.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.16.1
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.16.1?classifier=sources

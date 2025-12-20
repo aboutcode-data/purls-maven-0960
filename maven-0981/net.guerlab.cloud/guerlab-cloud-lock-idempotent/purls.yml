@@ -18,6 +18,10 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.10.8?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.10.9
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.10.9?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.11.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.11.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.11.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.11.1?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.2.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.2.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-lock-idempotent@2024.3.0

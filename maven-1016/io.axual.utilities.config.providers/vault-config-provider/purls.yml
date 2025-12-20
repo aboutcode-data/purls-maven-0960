@@ -16,3 +16,7 @@
 - pkg:maven/io.axual.utilities.config.providers/vault-config-provider@0.0.9?classifier=sources
 - pkg:maven/io.axual.utilities.config.providers/vault-config-provider@1.0.0
 - pkg:maven/io.axual.utilities.config.providers/vault-config-provider@1.0.0?classifier=sources
+- pkg:maven/io.axual.utilities.config.providers/vault-config-provider@1.1.0
+- pkg:maven/io.axual.utilities.config.providers/vault-config-provider@1.1.0-RC1
+- pkg:maven/io.axual.utilities.config.providers/vault-config-provider@1.1.0-RC1?classifier=sources
+- pkg:maven/io.axual.utilities.config.providers/vault-config-provider@1.1.0?classifier=sources

@@ -66,6 +66,8 @@
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.42.1?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.43.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.44.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.44.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.45.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.5.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.6.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-testing@1.7.0?classifier=sources

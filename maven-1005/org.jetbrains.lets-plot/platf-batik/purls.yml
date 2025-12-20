@@ -21,3 +21,5 @@
 - pkg:maven/org.jetbrains.lets-plot/platf-batik@4.5.0-rc2?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/platf-batik@4.5.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/platf-batik@4.5.1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/platf-batik@4.5.2-alpha1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/platf-batik@4.5.2-alpha2?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.32.100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.33.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.33.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.33.200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui@3.33.200?classifier=sources

@@ -33,3 +33,7 @@
 - pkg:maven/dev.schlaubi.lavakord/kord-js@7.0.3?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/kord-js@7.1.0?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/kord-js@8.0.1?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/kord-js@8.1.0?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/kord-js@9.0.0?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/kord-js@9.0.1?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/kord-js@9.1.0?classifier=sources

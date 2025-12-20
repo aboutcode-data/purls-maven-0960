@@ -105,6 +105,10 @@
 - pkg:maven/com.iohao.game/common-validation@21.19?classifier=sources
 - pkg:maven/com.iohao.game/common-validation@21.1?classifier=sources
 - pkg:maven/com.iohao.game/common-validation@21.2
+- pkg:maven/com.iohao.game/common-validation@21.20
+- pkg:maven/com.iohao.game/common-validation@21.20?classifier=sources
+- pkg:maven/com.iohao.game/common-validation@21.21
+- pkg:maven/com.iohao.game/common-validation@21.21?classifier=sources
 - pkg:maven/com.iohao.game/common-validation@21.2?classifier=sources
 - pkg:maven/com.iohao.game/common-validation@21.3
 - pkg:maven/com.iohao.game/common-validation@21.3?classifier=sources

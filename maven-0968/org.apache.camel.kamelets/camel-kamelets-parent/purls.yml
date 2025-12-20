@@ -39,3 +39,5 @@
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.8.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.9.0?classifier=source-release&type=zip

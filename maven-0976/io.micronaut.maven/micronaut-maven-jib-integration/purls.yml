@@ -64,3 +64,5 @@
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.6.3?classifier=sources
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.7.0
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.7.0?classifier=sources
+- pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.7.1
+- pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.7.1?classifier=sources

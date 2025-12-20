@@ -1,3 +1,4 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-javalin-5.0@2.10.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-javalin-5.0@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-javalin-5.0@2.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-javalin-5.0@2.8.0-alpha?classifier=sources

@@ -104,5 +104,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.8.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.8.3
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.8.3?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.8.4
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.8.4?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.9.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-aws2@3.9.0?classifier=sources

@@ -1,3 +1,6 @@
+- pkg:maven/io.dock2dock/settings-ui@0.2.10?classifier=sources
+- pkg:maven/io.dock2dock/settings-ui@0.2.11?classifier=sources
+- pkg:maven/io.dock2dock/settings-ui@0.2.12?classifier=sources
 - pkg:maven/io.dock2dock/settings-ui@0.2.5-alpha?classifier=sources
 - pkg:maven/io.dock2dock/settings-ui@0.2.6-alpha?classifier=sources
 - pkg:maven/io.dock2dock/settings-ui@0.2.7-alpha?classifier=sources

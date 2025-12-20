@@ -118,10 +118,14 @@
 - pkg:maven/com.easemob.im/im-sdk-core@0.8.54?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-core@0.8.55
 - pkg:maven/com.easemob.im/im-sdk-core@0.8.55?classifier=sources
+- pkg:maven/com.easemob.im/im-sdk-core@0.8.56
+- pkg:maven/com.easemob.im/im-sdk-core@0.8.56?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.0
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.0?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.10
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.10?classifier=sources
+- pkg:maven/com.easemob.im/im-sdk-core@1.0.11
+- pkg:maven/com.easemob.im/im-sdk-core@1.0.11?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.2
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.2?classifier=sources
 - pkg:maven/com.easemob.im/im-sdk-core@1.0.3

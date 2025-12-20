@@ -4,3 +4,5 @@
 - pkg:maven/com.qualcomm.qti/qnn-runtime@2.27.0?type=aar
 - pkg:maven/com.qualcomm.qti/qnn-runtime@2.28.0?classifier=sources
 - pkg:maven/com.qualcomm.qti/qnn-runtime@2.28.0?type=aar
+- pkg:maven/com.qualcomm.qti/qnn-runtime@2.28.2?classifier=sources
+- pkg:maven/com.qualcomm.qti/qnn-runtime@2.28.2?type=aar

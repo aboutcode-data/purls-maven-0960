@@ -16,3 +16,7 @@
 - pkg:maven/com.clickhouse/client-v2@0.6.5?classifier=sources
 - pkg:maven/com.clickhouse/client-v2@0.7.0
 - pkg:maven/com.clickhouse/client-v2@0.7.0?classifier=sources
+- pkg:maven/com.clickhouse/client-v2@0.7.1
+- pkg:maven/com.clickhouse/client-v2@0.7.1-patch1
+- pkg:maven/com.clickhouse/client-v2@0.7.1-patch1?classifier=sources
+- pkg:maven/com.clickhouse/client-v2@0.7.1?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/de.gematik.bbriccs/konnektor-ws-api-brick@0.1.10
+- pkg:maven/de.gematik.bbriccs/konnektor-ws-api-brick@0.1.10?classifier=sources
 - pkg:maven/de.gematik.bbriccs/konnektor-ws-api-brick@0.1.9
 - pkg:maven/de.gematik.bbriccs/konnektor-ws-api-brick@0.1.9?classifier=sources

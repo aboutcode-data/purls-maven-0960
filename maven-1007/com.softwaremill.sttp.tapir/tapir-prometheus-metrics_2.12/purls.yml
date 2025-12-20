@@ -159,6 +159,8 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.10?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.2
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.2?classifier=sources
@@ -174,6 +176,8 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.7?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.8
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.8?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.9
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.11.9?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.2.0
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.2.0?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-prometheus-metrics_2.12@1.2.1

@@ -8,6 +8,8 @@
 - pkg:maven/org.mvnpm/globals@15.1.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.10.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.11.0?classifier=sources
+- pkg:maven/org.mvnpm/globals@15.12.0?classifier=sources
+- pkg:maven/org.mvnpm/globals@15.13.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.2.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.3.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@15.4.0?classifier=sources

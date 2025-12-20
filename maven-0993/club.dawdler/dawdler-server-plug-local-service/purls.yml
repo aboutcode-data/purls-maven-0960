@@ -7,3 +7,6 @@
 - pkg:maven/club.dawdler/dawdler-server-plug-local-service@0.0.3-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-server-plug-local-service@0.0.3-jdk17-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-server-plug-local-service@0.0.3-jdk21-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-server-plug-local-service@0.0.4-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-server-plug-local-service@0.0.4-jdk17-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-server-plug-local-service@0.0.4-jdk21-RELEASES?classifier=sources

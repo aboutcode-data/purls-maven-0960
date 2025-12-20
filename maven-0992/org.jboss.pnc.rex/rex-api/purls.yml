@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.pnc.rex/rex-api@1.0.0
 - pkg:maven/org.jboss.pnc.rex/rex-api@1.0.0?classifier=sources
+- pkg:maven/org.jboss.pnc.rex/rex-api@1.0.1
+- pkg:maven/org.jboss.pnc.rex/rex-api@1.0.1?classifier=sources

@@ -155,6 +155,8 @@
 - pkg:maven/com.walmartlabs.concord/concord-imports@2.19.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@2.2.0
 - pkg:maven/com.walmartlabs.concord/concord-imports@2.2.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-imports@2.20.0
+- pkg:maven/com.walmartlabs.concord/concord-imports@2.20.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@2.3.0
 - pkg:maven/com.walmartlabs.concord/concord-imports@2.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-imports@2.4.0

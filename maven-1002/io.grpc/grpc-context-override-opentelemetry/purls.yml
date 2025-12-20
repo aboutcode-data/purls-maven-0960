@@ -1,1 +1,2 @@
 - pkg:maven/io.grpc/grpc-context-override-opentelemetry@1.68.1?classifier=sources
+- pkg:maven/io.grpc/grpc-context-override-opentelemetry@1.68.2?classifier=sources

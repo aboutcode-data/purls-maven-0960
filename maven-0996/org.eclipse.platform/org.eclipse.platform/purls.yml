@@ -46,6 +46,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.32.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.33.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.33.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.platform@4.34.0
+- pkg:maven/org.eclipse.platform/org.eclipse.platform@4.34.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.6.2
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.6.2?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.platform@4.6.3

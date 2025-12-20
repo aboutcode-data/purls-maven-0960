@@ -38,3 +38,7 @@
 - pkg:maven/io.appform.ranger/ranger-zookeeper@1.0-dw3-RC17?classifier=sources
 - pkg:maven/io.appform.ranger/ranger-zookeeper@1.1-RC1
 - pkg:maven/io.appform.ranger/ranger-zookeeper@1.1-RC1?classifier=sources
+- pkg:maven/io.appform.ranger/ranger-zookeeper@1.1-RC2
+- pkg:maven/io.appform.ranger/ranger-zookeeper@1.1-RC2?classifier=sources
+- pkg:maven/io.appform.ranger/ranger-zookeeper@1.1-RC3
+- pkg:maven/io.appform.ranger/ranger-zookeeper@1.1-RC3?classifier=sources

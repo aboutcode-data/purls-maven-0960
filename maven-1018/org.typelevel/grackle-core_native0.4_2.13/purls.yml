@@ -24,3 +24,5 @@
 - pkg:maven/org.typelevel/grackle-core_native0.4_2.13@0.21.0?classifier=sources
 - pkg:maven/org.typelevel/grackle-core_native0.4_2.13@0.22.0
 - pkg:maven/org.typelevel/grackle-core_native0.4_2.13@0.22.0?classifier=sources
+- pkg:maven/org.typelevel/grackle-core_native0.4_2.13@0.23.0
+- pkg:maven/org.typelevel/grackle-core_native0.4_2.13@0.23.0?classifier=sources

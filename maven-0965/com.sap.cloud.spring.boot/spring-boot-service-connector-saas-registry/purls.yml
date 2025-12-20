@@ -116,6 +116,8 @@
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.10.3?classifier=sources
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.10.4
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.10.4?classifier=sources
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.10.5
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.10.5?classifier=sources
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.2.0
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@2.3.0
@@ -162,3 +164,5 @@
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@3.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@3.3.1
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@3.3.1?classifier=sources
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@3.3.2
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-saas-registry@3.3.2?classifier=sources

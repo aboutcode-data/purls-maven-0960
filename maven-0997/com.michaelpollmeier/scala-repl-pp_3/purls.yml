@@ -80,6 +80,10 @@
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.0.9?classifier=sources
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.1
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.10
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.100
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.100?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.101
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.101?classifier=sources
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.10?classifier=sources
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.11
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.11?classifier=sources
@@ -235,4 +239,14 @@
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.97?classifier=sources
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.98
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.98?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.99
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.99?classifier=sources
 - pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.1.9?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.2.1
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.2.1?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.2.2
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.2.2?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.3.1
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.3.1?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.3.2
+- pkg:maven/com.michaelpollmeier/scala-repl-pp_3@0.3.2?classifier=sources

@@ -21,3 +21,9 @@
 - pkg:maven/com.superwall.sdk/superwall-android@1.4.0-beta.1?classifier=sources
 - pkg:maven/com.superwall.sdk/superwall-android@1.4.0-beta.2?classifier=sources
 - pkg:maven/com.superwall.sdk/superwall-android@1.4.0-beta.3?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@1.4.0?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@1.4.1?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@1.5.0-beta.1?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@1.5.0-beta.2-alt?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@1.5.0-beta.2?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@1.5.0?classifier=sources

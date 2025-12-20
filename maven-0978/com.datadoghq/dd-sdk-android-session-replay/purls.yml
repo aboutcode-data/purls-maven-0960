@@ -26,6 +26,8 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.13.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.14.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.15.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.15.1?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.16.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.2.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.3.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-session-replay@2.4.0?classifier=sources

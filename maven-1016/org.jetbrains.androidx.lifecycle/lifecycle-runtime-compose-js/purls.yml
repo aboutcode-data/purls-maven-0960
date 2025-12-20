@@ -9,3 +9,5 @@
 - pkg:maven/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-js@2.8.2?classifier=sources
 - pkg:maven/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-js@2.8.3-rc01?classifier=sources
 - pkg:maven/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-js@2.8.3?classifier=sources
+- pkg:maven/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-js@2.8.4?classifier=sources
+- pkg:maven/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-js@2.9.0-alpha01?classifier=sources

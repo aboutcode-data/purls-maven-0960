@@ -16,3 +16,5 @@
 - pkg:maven/com.codoid.products/fillo@1.21?classifier=sources
 - pkg:maven/com.codoid.products/fillo@1.22
 - pkg:maven/com.codoid.products/fillo@1.22?classifier=sources
+- pkg:maven/com.codoid.products/fillo@1.23-alpha
+- pkg:maven/com.codoid.products/fillo@1.23-alpha?classifier=sources

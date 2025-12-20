@@ -222,6 +222,8 @@
 - pkg:maven/io.netty/netty-buffer@4.1.113.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.114.Final
 - pkg:maven/io.netty/netty-buffer@4.1.114.Final?classifier=sources
+- pkg:maven/io.netty/netty-buffer@4.1.115.Final
+- pkg:maven/io.netty/netty-buffer@4.1.115.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.12.Final
 - pkg:maven/io.netty/netty-buffer@4.1.12.Final?classifier=sources
 - pkg:maven/io.netty/netty-buffer@4.1.13.Final

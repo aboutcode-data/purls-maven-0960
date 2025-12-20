@@ -227,3 +227,5 @@
 - pkg:maven/org.apache.camel/camel-spring-security@4.7.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-security@4.8.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@4.8.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-security@4.9.0?classifier=sources

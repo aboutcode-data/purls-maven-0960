@@ -4,3 +4,7 @@
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.0.3?classifier=sources
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.0.4
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.0.4?classifier=sources
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.0.5
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.0.5?classifier=sources
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.1.0
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-jsonschema-models@3.1.0?classifier=sources

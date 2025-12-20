@@ -192,6 +192,8 @@
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.35.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.35.1
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.35.1?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_annotation@2.36.0
+- pkg:maven/com.google.errorprone/error_prone_annotation@2.36.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.4.0
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.4.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_annotation@2.5.0

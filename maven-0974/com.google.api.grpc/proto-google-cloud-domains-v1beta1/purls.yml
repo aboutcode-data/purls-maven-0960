@@ -124,6 +124,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.57.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.58.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.58.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.59.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.59.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-domains-v1beta1@0.6.1

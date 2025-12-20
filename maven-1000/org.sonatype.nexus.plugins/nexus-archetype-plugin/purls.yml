@@ -64,6 +64,7 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.14.9-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.15.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.15.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.15.2-03?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.16.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.1?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-archetype-plugin@2.2-01?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafapi.util.dropwizard/caf-substitutor-dropwizard@1.0.0-7
 - pkg:maven/com.github.cafapi.util.dropwizard/caf-substitutor-dropwizard@1.0.0-7?classifier=sources
+- pkg:maven/com.github.cafapi.util.dropwizard/caf-substitutor-dropwizard@1.1.0-13
+- pkg:maven/com.github.cafapi.util.dropwizard/caf-substitutor-dropwizard@1.1.0-13?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.appform.ranger/ranger-server@1.1-RC2
+- pkg:maven/io.appform.ranger/ranger-server@1.1-RC2?classifier=sources
+- pkg:maven/io.appform.ranger/ranger-server@1.1-RC3
+- pkg:maven/io.appform.ranger/ranger-server@1.1-RC3?classifier=sources

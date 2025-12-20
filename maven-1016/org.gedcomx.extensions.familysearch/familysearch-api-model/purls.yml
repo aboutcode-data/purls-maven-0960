@@ -342,6 +342,12 @@
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.175.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.176.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.176.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.177.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.177.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.178.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.178.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.179.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.179.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.18.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.18.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@2.19.0
@@ -560,8 +566,14 @@
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.36.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.37.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.37.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.38.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.38.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.39.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.39.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.4.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.4.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.40.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.40.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.5.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.5.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-model@3.6.0

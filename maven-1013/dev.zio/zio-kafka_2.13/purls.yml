@@ -114,3 +114,5 @@
 - pkg:maven/dev.zio/zio-kafka_2.13@2.8.2?classifier=sources
 - pkg:maven/dev.zio/zio-kafka_2.13@2.8.3
 - pkg:maven/dev.zio/zio-kafka_2.13@2.8.3?classifier=sources
+- pkg:maven/dev.zio/zio-kafka_2.13@2.9.0
+- pkg:maven/dev.zio/zio-kafka_2.13@2.9.0?classifier=sources

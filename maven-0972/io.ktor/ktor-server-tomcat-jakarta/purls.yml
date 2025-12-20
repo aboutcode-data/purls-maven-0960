@@ -2,6 +2,7 @@
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.10?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.11?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.12?classifier=sources
+- pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.13?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.1?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.2?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@2.3.3?classifier=sources
@@ -17,3 +18,4 @@
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@3.0.0-rc-2?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@3.0.0?classifier=sources
 - pkg:maven/io.ktor/ktor-server-tomcat-jakarta@3.0.1?classifier=sources
+- pkg:maven/io.ktor/ktor-server-tomcat-jakarta@3.0.2?classifier=sources

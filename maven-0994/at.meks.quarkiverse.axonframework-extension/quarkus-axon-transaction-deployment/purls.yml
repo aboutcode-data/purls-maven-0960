@@ -1,0 +1,4 @@
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC2
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC2?classifier=sources
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-quarkus-3.15-RC2
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-quarkus-3.15-RC2?classifier=sources

@@ -62,6 +62,8 @@
 - pkg:maven/com.google.apis/google-api-services-merchantapi@inventories_v1beta-rev20241022-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@inventories_v1beta-rev20241101-2.0.0
 - pkg:maven/com.google.apis/google-api-services-merchantapi@inventories_v1beta-rev20241101-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-merchantapi@inventories_v1beta-rev20241109-2.0.0
+- pkg:maven/com.google.apis/google-api-services-merchantapi@inventories_v1beta-rev20241109-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@lfp_v1beta-rev20240611-2.0.0
 - pkg:maven/com.google.apis/google-api-services-merchantapi@lfp_v1beta-rev20240611-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@lfp_v1beta-rev20240827-2.0.0
@@ -110,6 +112,8 @@
 - pkg:maven/com.google.apis/google-api-services-merchantapi@quota_v1beta-rev20241022-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@quota_v1beta-rev20241101-2.0.0
 - pkg:maven/com.google.apis/google-api-services-merchantapi@quota_v1beta-rev20241101-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-merchantapi@quota_v1beta-rev20241109-2.0.0
+- pkg:maven/com.google.apis/google-api-services-merchantapi@quota_v1beta-rev20241109-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@reports_v1beta-rev20240611-2.0.0
 - pkg:maven/com.google.apis/google-api-services-merchantapi@reports_v1beta-rev20240611-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-merchantapi@reports_v1beta-rev20240827-2.0.0

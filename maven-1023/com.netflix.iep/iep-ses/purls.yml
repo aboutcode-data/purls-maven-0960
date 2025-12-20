@@ -115,6 +115,8 @@
 - pkg:maven/com.netflix.iep/iep-ses@5.0.26?classifier=sources
 - pkg:maven/com.netflix.iep/iep-ses@5.0.27
 - pkg:maven/com.netflix.iep/iep-ses@5.0.27?classifier=sources
+- pkg:maven/com.netflix.iep/iep-ses@5.0.28
+- pkg:maven/com.netflix.iep/iep-ses@5.0.28?classifier=sources
 - pkg:maven/com.netflix.iep/iep-ses@5.0.2?classifier=sources
 - pkg:maven/com.netflix.iep/iep-ses@5.0.3
 - pkg:maven/com.netflix.iep/iep-ses@5.0.3?classifier=sources

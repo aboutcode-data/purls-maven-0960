@@ -158,6 +158,8 @@
 - pkg:maven/com.gu.etag-caching/core_2.12@5.0.1-PREVIEW.updatenonaws.2024-11-07T1201.13e4cb02
 - pkg:maven/com.gu.etag-caching/core_2.12@5.0.1-PREVIEW.updatenonaws.2024-11-07T1201.13e4cb02?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@5.0.1?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@6.0.0-PREVIEW.try-out-attestations.2024-11-27T1453.faaf3f54
+- pkg:maven/com.gu.etag-caching/core_2.12@6.0.0-PREVIEW.try-out-attestations.2024-11-27T1453.faaf3f54?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@6.0.0-PREVIEW.updateaws.2024-11-07T1201.0ffde07b
 - pkg:maven/com.gu.etag-caching/core_2.12@6.0.0-PREVIEW.updateaws.2024-11-07T1201.0ffde07b?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@6.0.0-PREVIEW.updateaws.2024-11-07T1407.0ffde07b

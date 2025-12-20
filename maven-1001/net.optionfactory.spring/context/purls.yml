@@ -63,6 +63,8 @@
 - pkg:maven/net.optionfactory.spring/context@19.10?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@19.11
 - pkg:maven/net.optionfactory.spring/context@19.11?classifier=sources
+- pkg:maven/net.optionfactory.spring/context@19.12
+- pkg:maven/net.optionfactory.spring/context@19.12?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@19.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@19.2
 - pkg:maven/net.optionfactory.spring/context@19.2?classifier=sources
@@ -78,6 +80,12 @@
 - pkg:maven/net.optionfactory.spring/context@19.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@19.9
 - pkg:maven/net.optionfactory.spring/context@19.9?classifier=sources
+- pkg:maven/net.optionfactory.spring/context@20.0
+- pkg:maven/net.optionfactory.spring/context@20.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/context@20.1
+- pkg:maven/net.optionfactory.spring/context@20.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/context@20.2
+- pkg:maven/net.optionfactory.spring/context@20.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@3.0
 - pkg:maven/net.optionfactory.spring/context@3.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/context@4.0
