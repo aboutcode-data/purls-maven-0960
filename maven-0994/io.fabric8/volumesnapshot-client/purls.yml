@@ -158,3 +158,5 @@
 - pkg:maven/io.fabric8/volumesnapshot-client@6.9.2?classifier=sources
 - pkg:maven/io.fabric8/volumesnapshot-client@7.0.0
 - pkg:maven/io.fabric8/volumesnapshot-client@7.0.0?classifier=sources
+- pkg:maven/io.fabric8/volumesnapshot-client@7.0.1
+- pkg:maven/io.fabric8/volumesnapshot-client@7.0.1?classifier=sources

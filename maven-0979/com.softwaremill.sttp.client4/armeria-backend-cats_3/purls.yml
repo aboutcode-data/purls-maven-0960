@@ -21,6 +21,12 @@
 - pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M19?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M2
+- pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M20
+- pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M20?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M21
+- pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M21?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M22
+- pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M22?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M3
 - pkg:maven/com.softwaremill.sttp.client4/armeria-backend-cats_3@4.0.0-M3?classifier=sources

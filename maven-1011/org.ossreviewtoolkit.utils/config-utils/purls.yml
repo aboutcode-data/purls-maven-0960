@@ -14,3 +14,8 @@
 - pkg:maven/org.ossreviewtoolkit.utils/config-utils@41.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/config-utils@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/config-utils@42.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@43.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@43.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@43.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@44.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@45.0.0?classifier=sources

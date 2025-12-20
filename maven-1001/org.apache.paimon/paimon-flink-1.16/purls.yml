@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.paimon/paimon-flink-1.16@0.8.2?classifier=sources
 - pkg:maven/org.apache.paimon/paimon-flink-1.16@0.9.0
 - pkg:maven/org.apache.paimon/paimon-flink-1.16@0.9.0?classifier=sources
+- pkg:maven/org.apache.paimon/paimon-flink-1.16@1.0.0
+- pkg:maven/org.apache.paimon/paimon-flink-1.16@1.0.0?classifier=sources

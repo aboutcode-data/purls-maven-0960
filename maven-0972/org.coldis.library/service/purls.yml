@@ -47,6 +47,8 @@
 - pkg:maven/org.coldis.library/service@1.0.9
 - pkg:maven/org.coldis.library/service@1.0.9?classifier=sources
 - pkg:maven/org.coldis.library/service@2.0.10
+- pkg:maven/org.coldis.library/service@2.0.100
+- pkg:maven/org.coldis.library/service@2.0.100?classifier=sources
 - pkg:maven/org.coldis.library/service@2.0.10?classifier=sources
 - pkg:maven/org.coldis.library/service@2.0.11
 - pkg:maven/org.coldis.library/service@2.0.11?classifier=sources
@@ -211,4 +213,8 @@
 - pkg:maven/org.coldis.library/service@2.0.96?classifier=sources
 - pkg:maven/org.coldis.library/service@2.0.97
 - pkg:maven/org.coldis.library/service@2.0.97?classifier=sources
+- pkg:maven/org.coldis.library/service@2.0.98
+- pkg:maven/org.coldis.library/service@2.0.98?classifier=sources
+- pkg:maven/org.coldis.library/service@2.0.99
+- pkg:maven/org.coldis.library/service@2.0.99?classifier=sources
 - pkg:maven/org.coldis.library/service@2.0.9?classifier=sources

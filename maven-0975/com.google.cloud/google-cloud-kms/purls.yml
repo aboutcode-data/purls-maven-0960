@@ -308,6 +308,8 @@
 - pkg:maven/com.google.cloud/google-cloud-kms@2.56.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-kms@2.57.0
 - pkg:maven/com.google.cloud/google-cloud-kms@2.57.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-kms@2.58.0
+- pkg:maven/com.google.cloud/google-cloud-kms@2.58.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-kms@2.6.0
 - pkg:maven/com.google.cloud/google-cloud-kms@2.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-kms@2.6.2

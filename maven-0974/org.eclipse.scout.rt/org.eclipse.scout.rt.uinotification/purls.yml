@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.uinotification@24.2.2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.uinotification@24.2.7
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.uinotification@24.2.7?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.uinotification@25.1.0-beta.0
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.uinotification@25.1.0-beta.0?classifier=sources

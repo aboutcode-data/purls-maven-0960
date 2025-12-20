@@ -553,6 +553,8 @@
 - pkg:maven/org.neo4j/neo4j-bolt@4.4.39?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bolt@4.4.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bolt@4.4.4
+- pkg:maven/org.neo4j/neo4j-bolt@4.4.40
+- pkg:maven/org.neo4j/neo4j-bolt@4.4.40?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bolt@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-bolt@4.4.5
 - pkg:maven/org.neo4j/neo4j-bolt@4.4.5?classifier=sources

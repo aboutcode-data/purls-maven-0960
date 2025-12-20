@@ -130,6 +130,8 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.1
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.10?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.11
+- pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.11?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.1?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.2?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-labeled-unicast@0.21.3?classifier=sources

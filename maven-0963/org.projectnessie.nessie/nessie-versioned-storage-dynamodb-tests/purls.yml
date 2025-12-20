@@ -3,6 +3,9 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.100.2?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.100.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.101.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.101.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.101.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.101.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.77.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.77.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-dynamodb-tests@0.78.0?classifier=sources

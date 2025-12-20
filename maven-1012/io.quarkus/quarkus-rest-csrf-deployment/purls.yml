@@ -78,6 +78,10 @@
 - pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.3
 - pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.4
+- pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.4?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.5
+- pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.17.5?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.9.0
 - pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-csrf-deployment@3.9.0.CR1?classifier=sources

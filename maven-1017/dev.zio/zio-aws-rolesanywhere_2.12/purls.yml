@@ -201,6 +201,12 @@
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.26.1
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.26.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.1
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.10
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.10?classifier=sources
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.11
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.11?classifier=sources
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.12
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.12?classifier=sources
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.2
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.2?classifier=sources
@@ -216,3 +222,5 @@
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.7?classifier=sources
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.8
 - pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.8?classifier=sources
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.9
+- pkg:maven/dev.zio/zio-aws-rolesanywhere_2.12@7.28.29.9?classifier=sources

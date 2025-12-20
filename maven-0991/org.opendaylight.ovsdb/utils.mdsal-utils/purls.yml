@@ -46,6 +46,7 @@
 - pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.18.0?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.18.1?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.18.2?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.18.3?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.19.0?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.19.1?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.mdsal-utils@1.2.1-Beryllium

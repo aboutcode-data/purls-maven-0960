@@ -32,3 +32,5 @@
 - pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.36.1?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.36.2
 - pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@0.36.2?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@1.0.0-alpha1
+- pkg:maven/dev.langchain4j/langchain4j-code-execution-engine-graalvm-polyglot@1.0.0-alpha1?classifier=sources

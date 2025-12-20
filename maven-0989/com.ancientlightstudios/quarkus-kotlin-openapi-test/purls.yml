@@ -66,3 +66,5 @@
 - pkg:maven/com.ancientlightstudios/quarkus-kotlin-openapi-test@0.4.8?classifier=sources
 - pkg:maven/com.ancientlightstudios/quarkus-kotlin-openapi-test@0.4.9
 - pkg:maven/com.ancientlightstudios/quarkus-kotlin-openapi-test@0.4.9?classifier=sources
+- pkg:maven/com.ancientlightstudios/quarkus-kotlin-openapi-test@0.5.0
+- pkg:maven/com.ancientlightstudios/quarkus-kotlin-openapi-test@0.5.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.gu/simple-configuration-ssm_3@4.0.0-PREVIEW.update-aws-sdk-to-fix-netty-vulnerability.2024-11-21T1120.d36e433e
 - pkg:maven/com.gu/simple-configuration-ssm_3@4.0.0-PREVIEW.update-aws-sdk-to-fix-netty-vulnerability.2024-11-21T1120.d36e433e?classifier=sources
 - pkg:maven/com.gu/simple-configuration-ssm_3@4.0.0?classifier=sources
+- pkg:maven/com.gu/simple-configuration-ssm_3@4.0.1
+- pkg:maven/com.gu/simple-configuration-ssm_3@4.0.1?classifier=sources

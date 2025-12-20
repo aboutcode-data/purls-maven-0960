@@ -48,6 +48,7 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.8.6?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.8.7?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.8.8?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@4.8.9?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.0.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.0.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.0.2?classifier=sources
@@ -55,6 +56,7 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.10.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.11.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.12.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.12.10?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.12.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.12.2?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.12.3?classifier=sources
@@ -98,6 +100,7 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.8.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.9.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@5.9.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.0.10?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.0.2?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.0.3?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.0.4?classifier=sources
@@ -119,8 +122,17 @@
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.5.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.6.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.7.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@6.8.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.10?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.11?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.12?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.13?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.6?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.7?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.8?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0-alpha.9?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-cluster-plugin-hazelcast@7.0.0?classifier=sources

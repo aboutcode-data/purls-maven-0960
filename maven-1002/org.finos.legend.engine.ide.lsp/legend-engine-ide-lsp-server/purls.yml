@@ -30,6 +30,10 @@
 - pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.13.0?classifier=sources
 - pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.14.0
 - pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.14.0?classifier=sources
+- pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.15.0
+- pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.15.0?classifier=sources
+- pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.15.1
+- pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.15.1?classifier=sources
 - pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.2.1
 - pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.2.1?classifier=sources
 - pkg:maven/org.finos.legend.engine.ide.lsp/legend-engine-ide-lsp-server@0.2.2

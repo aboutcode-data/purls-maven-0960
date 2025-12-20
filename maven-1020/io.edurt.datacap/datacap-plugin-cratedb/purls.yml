@@ -1,2 +1,4 @@
 - pkg:maven/io.edurt.datacap/datacap-plugin-cratedb@2024.4.0
 - pkg:maven/io.edurt.datacap/datacap-plugin-cratedb@2024.4.0?classifier=sources
+- pkg:maven/io.edurt.datacap/datacap-plugin-cratedb@2024.4.1
+- pkg:maven/io.edurt.datacap/datacap-plugin-cratedb@2024.4.1?classifier=sources

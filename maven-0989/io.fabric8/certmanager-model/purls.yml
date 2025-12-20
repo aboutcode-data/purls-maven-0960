@@ -1,2 +1,4 @@
 - pkg:maven/io.fabric8/certmanager-model@7.0.0
 - pkg:maven/io.fabric8/certmanager-model@7.0.0?classifier=sources
+- pkg:maven/io.fabric8/certmanager-model@7.0.1
+- pkg:maven/io.fabric8/certmanager-model@7.0.1?classifier=sources

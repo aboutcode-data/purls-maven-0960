@@ -228,6 +228,10 @@
 - pkg:maven/org.l2x6.cq/cq-common@4.15.1?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-common@4.15.2
 - pkg:maven/org.l2x6.cq/cq-common@4.15.2?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-common@4.16.0
+- pkg:maven/org.l2x6.cq/cq-common@4.16.0?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-common@4.16.1
+- pkg:maven/org.l2x6.cq/cq-common@4.16.1?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-common@4.2.0
 - pkg:maven/org.l2x6.cq/cq-common@4.2.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-common@4.3.0

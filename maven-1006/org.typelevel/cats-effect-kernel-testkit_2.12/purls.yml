@@ -228,3 +228,5 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.6-e9aeb8c?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.6-ecf93db
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.6-ecf93db?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.6.0-RC1
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_2.12@3.6.0-RC1?classifier=sources

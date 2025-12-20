@@ -11,6 +11,8 @@
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.17?classifier=sources
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.18
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.18?classifier=sources
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.19
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.19?classifier=sources
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.1?classifier=sources
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.2
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.4.2?classifier=sources
@@ -44,3 +46,9 @@
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.6?classifier=sources
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.7
 - pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.7?classifier=sources
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.8
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.8?classifier=sources
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.9
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.5.9?classifier=sources
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.6.0
+- pkg:maven/com.vaadin/hilla-parser-jvm-test-utils@24.6.0?classifier=sources

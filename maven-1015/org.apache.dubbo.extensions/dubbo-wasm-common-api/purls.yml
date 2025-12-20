@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.dubbo.extensions/dubbo-wasm-common-api@3.3.0
 - pkg:maven/org.apache.dubbo.extensions/dubbo-wasm-common-api@3.3.0?classifier=sources
+- pkg:maven/org.apache.dubbo.extensions/dubbo-wasm-common-api@3.3.1
+- pkg:maven/org.apache.dubbo.extensions/dubbo-wasm-common-api@3.3.1?classifier=sources

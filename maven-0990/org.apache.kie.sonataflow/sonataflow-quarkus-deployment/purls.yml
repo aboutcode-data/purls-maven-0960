@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kie.sonataflow/sonataflow-quarkus-deployment@10.0.0
+- pkg:maven/org.apache.kie.sonataflow/sonataflow-quarkus-deployment@10.0.0?classifier=sources

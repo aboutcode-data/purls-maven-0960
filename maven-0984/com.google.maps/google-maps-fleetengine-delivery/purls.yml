@@ -1,2 +1,4 @@
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.1.0
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.1.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.2.0
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.2.0?classifier=sources

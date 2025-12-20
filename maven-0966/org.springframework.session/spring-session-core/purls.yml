@@ -127,8 +127,12 @@
 - pkg:maven/org.springframework.session/spring-session-core@3.2.4?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.2.5?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.2.6?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-core@3.2.7?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.3.0?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.3.1?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.3.2?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.3.3?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-core@3.3.4?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-core@3.3.5?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-core@3.4.0?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-core@3.4.1?classifier=sources

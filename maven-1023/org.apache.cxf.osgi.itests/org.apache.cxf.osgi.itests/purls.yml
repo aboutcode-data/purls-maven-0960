@@ -155,6 +155,8 @@
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.0
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.0?classifier=sources
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.1
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.10
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.10?classifier=sources
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.1?classifier=sources
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.2
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.5.2?classifier=sources
@@ -182,3 +184,5 @@
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.6.3?classifier=sources
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.6.4
 - pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.6.4?classifier=sources
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.6.5
+- pkg:maven/org.apache.cxf.osgi.itests/org.apache.cxf.osgi.itests@3.6.5?classifier=sources

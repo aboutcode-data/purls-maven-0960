@@ -327,6 +327,12 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.10
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.10?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.11
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.11?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.12
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.12?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.2
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.2?classifier=sources
@@ -336,6 +342,12 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.4?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.5
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.5?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.7
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.7?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.8
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.8?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.9
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.67.9?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.7.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.7.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-postgres-server@4.7.1

@@ -124,6 +124,7 @@
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.22.2?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.22.3?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.22.4?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.22.5?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.8.1
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.8.10
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-tests@0.8.10?classifier=sources

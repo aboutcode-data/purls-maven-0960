@@ -78,3 +78,7 @@
 - pkg:maven/com.fizzed/blaze-lite@1.6.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-lite@1.6.1
 - pkg:maven/com.fizzed/blaze-lite@1.6.1?classifier=sources
+- pkg:maven/com.fizzed/blaze-lite@1.7.0
+- pkg:maven/com.fizzed/blaze-lite@1.7.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-lite@1.8.0
+- pkg:maven/com.fizzed/blaze-lite@1.8.0?classifier=sources

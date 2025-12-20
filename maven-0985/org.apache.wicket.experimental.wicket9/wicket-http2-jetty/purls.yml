@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.28?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.29
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.29?classifier=sources
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.30
+- pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.30?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.6
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.6?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket9/wicket-http2-jetty@0.7

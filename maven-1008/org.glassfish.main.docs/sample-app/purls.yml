@@ -10,9 +10,15 @@
 - pkg:maven/org.glassfish.main.docs/sample-app@7.0.19?type=war
 - pkg:maven/org.glassfish.main.docs/sample-app@7.0.20?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@7.0.20?type=war
+- pkg:maven/org.glassfish.main.docs/sample-app@7.0.21?classifier=sources
+- pkg:maven/org.glassfish.main.docs/sample-app@7.0.21?type=war
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-JDK17-M7?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-JDK17-M7?type=war
+- pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-JDK17-M9?classifier=sources
+- pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-JDK17-M9?type=war
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M7?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M7?type=war
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M8?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M8?type=war
+- pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M9?classifier=sources
+- pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M9?type=war

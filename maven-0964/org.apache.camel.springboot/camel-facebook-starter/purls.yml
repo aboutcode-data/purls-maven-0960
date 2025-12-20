@@ -114,6 +114,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.22.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.22.2
 - pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.22.2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.22.3
+- pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.22.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.3.0
 - pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-facebook-starter@3.4.0

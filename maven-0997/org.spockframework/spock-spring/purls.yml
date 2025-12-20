@@ -129,3 +129,6 @@
 - pkg:maven/org.spockframework/spock-spring@2.4-M4-groovy-2.5?classifier=sources
 - pkg:maven/org.spockframework/spock-spring@2.4-M4-groovy-3.0?classifier=sources
 - pkg:maven/org.spockframework/spock-spring@2.4-M4-groovy-4.0?classifier=sources
+- pkg:maven/org.spockframework/spock-spring@2.4-M5-groovy-2.5?classifier=sources
+- pkg:maven/org.spockframework/spock-spring@2.4-M5-groovy-3.0?classifier=sources
+- pkg:maven/org.spockframework/spock-spring@2.4-M5-groovy-4.0?classifier=sources

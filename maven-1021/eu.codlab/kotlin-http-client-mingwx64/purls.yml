@@ -1,1 +1,5 @@
 - pkg:maven/eu.codlab/kotlin-http-client-mingwx64@1.15.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-mingwx64@1.16.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-mingwx64@1.17.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-mingwx64@1.18.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-http-client-mingwx64@1.18.1?classifier=sources

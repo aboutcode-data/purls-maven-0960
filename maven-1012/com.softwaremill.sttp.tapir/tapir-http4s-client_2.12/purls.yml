@@ -163,6 +163,8 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.1
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.10
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.11?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.1?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.2
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-http4s-client_2.12@1.11.2?classifier=sources

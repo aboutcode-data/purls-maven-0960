@@ -51,6 +51,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.10
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.11
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.12
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.13
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@3.8.4
@@ -70,6 +72,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.10
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.11
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.12
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.13
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.14
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@4.10.4
@@ -117,3 +121,4 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@5.6.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@5.7.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@5.8.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-trace@5.9.0

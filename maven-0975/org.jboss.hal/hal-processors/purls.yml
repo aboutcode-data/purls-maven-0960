@@ -52,6 +52,8 @@
 - pkg:maven/org.jboss.hal/hal-processors@3.6.2.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-processors@3.6.20.Final
 - pkg:maven/org.jboss.hal/hal-processors@3.6.20.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-processors@3.6.21.Final
+- pkg:maven/org.jboss.hal/hal-processors@3.6.21.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-processors@3.6.3.Final
 - pkg:maven/org.jboss.hal/hal-processors@3.6.3.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-processors@3.6.4.Final
@@ -72,3 +74,7 @@
 - pkg:maven/org.jboss.hal/hal-processors@3.7.4.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-processors@3.7.5.Final
 - pkg:maven/org.jboss.hal/hal-processors@3.7.5.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-processors@3.7.6.Final
+- pkg:maven/org.jboss.hal/hal-processors@3.7.6.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-processors@3.7.7.Final
+- pkg:maven/org.jboss.hal/hal-processors@3.7.7.Final?classifier=sources

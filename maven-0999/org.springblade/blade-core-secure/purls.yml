@@ -122,3 +122,7 @@
 - pkg:maven/org.springblade/blade-core-secure@4.2.1?classifier=sources
 - pkg:maven/org.springblade/blade-core-secure@4.3.0
 - pkg:maven/org.springblade/blade-core-secure@4.3.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-secure@4.4.0
+- pkg:maven/org.springblade/blade-core-secure@4.4.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-secure@4.4.1
+- pkg:maven/org.springblade/blade-core-secure@4.4.1?classifier=sources

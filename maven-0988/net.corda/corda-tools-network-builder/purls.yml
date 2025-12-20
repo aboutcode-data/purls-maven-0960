@@ -1,11 +1,13 @@
 - pkg:maven/net.corda/corda-tools-network-builder@4.10.3?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.10.4?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.10.5?classifier=sources
+- pkg:maven/net.corda/corda-tools-network-builder@4.10.6?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.10?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.11.1?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.11.2?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.11.3?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.11.4?classifier=sources
+- pkg:maven/net.corda/corda-tools-network-builder@4.11.5?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.11?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.5?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.6?classifier=sources
@@ -13,6 +15,7 @@
 - pkg:maven/net.corda/corda-tools-network-builder@4.8.12?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.8?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.9.10?classifier=sources
+- pkg:maven/net.corda/corda-tools-network-builder@4.9.11?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.9.1?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.9.2?classifier=sources
 - pkg:maven/net.corda/corda-tools-network-builder@4.9.3?classifier=sources

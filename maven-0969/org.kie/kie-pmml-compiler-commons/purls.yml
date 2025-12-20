@@ -1,3 +1,5 @@
+- pkg:maven/org.kie/kie-pmml-compiler-commons@10.0.0
+- pkg:maven/org.kie/kie-pmml-compiler-commons@10.0.0?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.40.0.20200703
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.40.0.20200703?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-commons@7.40.0.Final

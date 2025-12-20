@@ -5,6 +5,14 @@
 - pkg:maven/io.github.sparql-anything/sparql-anything-rdf@0.9.0-alpha-1?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-rdf@0.9.0?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.1
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.10
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.10?classifier=sources
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.11
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.11?classifier=sources
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.12
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.12?classifier=sources
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.13
+- pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.13?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.1?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.3
 - pkg:maven/io.github.sparql-anything/sparql-anything-rdf@v1.0-DEV.3?classifier=sources

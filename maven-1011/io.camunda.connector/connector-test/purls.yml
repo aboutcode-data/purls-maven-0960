@@ -132,3 +132,5 @@
 - pkg:maven/io.camunda.connector/connector-test@8.6.2?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.6.5
 - pkg:maven/io.camunda.connector/connector-test@8.6.5?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.7.0-alpha2.1
+- pkg:maven/io.camunda.connector/connector-test@8.7.0-alpha2.1?classifier=sources

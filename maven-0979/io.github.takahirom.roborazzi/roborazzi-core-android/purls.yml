@@ -31,6 +31,9 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.33.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.34.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.35.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.36.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.37.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.38.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.6.0-alpha-1?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.6.0-alpha-2?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core-android@1.6.0-alpha-3?classifier=sources

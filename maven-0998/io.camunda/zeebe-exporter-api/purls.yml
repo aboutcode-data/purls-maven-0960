@@ -478,6 +478,8 @@
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.5?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.6
 - pkg:maven/io.camunda/zeebe-exporter-api@8.6.6?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.7-rc1
+- pkg:maven/io.camunda/zeebe-exporter-api@8.6.7-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1
 - pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha1-rc1?classifier=sources
@@ -486,3 +488,5 @@
 - pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha2-rc1
 - pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha2-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha2?classifier=sources
+- pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha3-rc1
+- pkg:maven/io.camunda/zeebe-exporter-api@8.7.0-alpha3-rc1?classifier=sources

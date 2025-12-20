@@ -1,3 +1,5 @@
+- pkg:maven/org.drools/drools-compiler@10.0.0
+- pkg:maven/org.drools/drools-compiler@10.0.0?classifier=sources
 - pkg:maven/org.drools/drools-compiler@5.0.0.CR1
 - pkg:maven/org.drools/drools-compiler@5.0.0.CR1?classifier=sources
 - pkg:maven/org.drools/drools-compiler@5.0.0.M3

@@ -38,3 +38,7 @@
 - pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.67-javax
 - pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.67-javax?classifier=sources
 - pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.67?classifier=sources
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.68
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.68?classifier=sources
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.69
+- pkg:maven/org.iworkz/genesis-vertx-mutiny-sql-test@1.0.69?classifier=sources

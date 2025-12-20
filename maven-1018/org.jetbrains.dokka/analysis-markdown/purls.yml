@@ -2,3 +2,4 @@
 - pkg:maven/org.jetbrains.dokka/analysis-markdown@1.9.10?classifier=sources
 - pkg:maven/org.jetbrains.dokka/analysis-markdown@1.9.20?classifier=sources
 - pkg:maven/org.jetbrains.dokka/analysis-markdown@2.0.0-Beta?classifier=sources
+- pkg:maven/org.jetbrains.dokka/analysis-markdown@2.0.0?classifier=sources

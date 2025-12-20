@@ -58,3 +58,5 @@
 - pkg:maven/network.oxalis/oxalis-war@7.0.0-alpha?type=war
 - pkg:maven/network.oxalis/oxalis-war@7.0.0-beta?classifier=sources
 - pkg:maven/network.oxalis/oxalis-war@7.0.0-beta?type=war
+- pkg:maven/network.oxalis/oxalis-war@7.0.0?classifier=sources
+- pkg:maven/network.oxalis/oxalis-war@7.0.0?type=war

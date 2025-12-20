@@ -31,3 +31,4 @@
 - pkg:maven/io.telereso.kmp/processor@0.2.1?classifier=sources
 - pkg:maven/io.telereso.kmp/processor@0.3.0-wasm.1?classifier=sources
 - pkg:maven/io.telereso.kmp/processor@0.3.0?classifier=sources
+- pkg:maven/io.telereso.kmp/processor@0.4.0-wasm.1?classifier=sources

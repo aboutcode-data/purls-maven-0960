@@ -1,3 +1,5 @@
+- pkg:maven/org.kie/kie-pmml-evaluator-utils@10.0.0
+- pkg:maven/org.kie/kie-pmml-evaluator-utils@10.0.0?classifier=sources
 - pkg:maven/org.kie/kie-pmml-evaluator-utils@8.27.0.Beta
 - pkg:maven/org.kie/kie-pmml-evaluator-utils@8.27.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-evaluator-utils@8.28.0.Beta

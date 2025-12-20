@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.hop/hop-transform-fileexists@2.10.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-transform-fileexists@2.10.0?type=zip
+- pkg:maven/org.apache.hop/hop-transform-fileexists@2.11.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-transform-fileexists@2.11.0?type=zip
 - pkg:maven/org.apache.hop/hop-transform-fileexists@2.2.0
 - pkg:maven/org.apache.hop/hop-transform-fileexists@2.2.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-transform-fileexists@2.3.0

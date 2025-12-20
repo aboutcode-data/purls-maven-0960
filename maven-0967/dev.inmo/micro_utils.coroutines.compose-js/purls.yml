@@ -154,6 +154,8 @@
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.22.9?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.23.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.23.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.23.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.24.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.9.11?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.9.12?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.coroutines.compose-js@0.9.13?classifier=sources

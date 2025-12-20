@@ -10,3 +10,6 @@
 - pkg:maven/club.dawdler/dawdler-es-core@0.0.4-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-es-core@0.0.4-jdk17-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-es-core@0.0.4-jdk21-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-es-core@0.0.5-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-es-core@0.0.5-jdk17-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-es-core@0.0.5-jdk21-RELEASES?classifier=sources

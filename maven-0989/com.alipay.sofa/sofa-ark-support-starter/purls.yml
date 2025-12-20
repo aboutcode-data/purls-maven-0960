@@ -69,6 +69,8 @@
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.14?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.15
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.15?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.16
+- pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.16?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.1?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.2
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@2.2.2?classifier=sources
@@ -120,3 +122,7 @@
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.7?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.8
 - pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.8?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.9
+- pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.9.rpa
+- pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.9.rpa?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-ark-support-starter@3.1.9?classifier=sources

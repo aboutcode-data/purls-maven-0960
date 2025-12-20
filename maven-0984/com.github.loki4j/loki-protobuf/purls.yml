@@ -26,3 +26,6 @@
 - pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb3.25.0?classifier=sources
 - pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.26.0-m1?classifier=sources
 - pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.26.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.27.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.28.0?classifier=sources
+- pkg:maven/com.github.loki4j/loki-protobuf@0.0.2_pb4.29.0?classifier=sources

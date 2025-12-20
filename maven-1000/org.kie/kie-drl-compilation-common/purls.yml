@@ -1,3 +1,5 @@
+- pkg:maven/org.kie/kie-drl-compilation-common@10.0.0
+- pkg:maven/org.kie/kie-drl-compilation-common@10.0.0?classifier=sources
 - pkg:maven/org.kie/kie-drl-compilation-common@8.24.0.Beta
 - pkg:maven/org.kie/kie-drl-compilation-common@8.24.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-drl-compilation-common@8.24.1.Beta

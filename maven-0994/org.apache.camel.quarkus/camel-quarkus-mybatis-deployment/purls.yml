@@ -92,6 +92,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.15.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.16.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.16.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.17.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.2.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mybatis-deployment@3.2.1

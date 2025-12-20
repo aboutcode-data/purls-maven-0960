@@ -3,6 +3,8 @@
 - pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.1
 - pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.10
 - pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.10?classifier=sources
+- pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.11
+- pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.11?classifier=sources
 - pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.1?classifier=sources
 - pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.2
 - pkg:maven/org.mycore.pica2mods/pica2mods-xslt@2.2?classifier=sources

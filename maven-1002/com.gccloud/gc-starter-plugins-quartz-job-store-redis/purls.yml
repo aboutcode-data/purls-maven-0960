@@ -20,3 +20,5 @@
 - pkg:maven/com.gccloud/gc-starter-plugins-quartz-job-store-redis@1.2.4.2024062001.RELEASE?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-plugins-quartz-job-store-redis@1.2.5.RELEASE
 - pkg:maven/com.gccloud/gc-starter-plugins-quartz-job-store-redis@1.2.5.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-quartz-job-store-redis@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-quartz-job-store-redis@2.3.5.RELEASE?classifier=sources

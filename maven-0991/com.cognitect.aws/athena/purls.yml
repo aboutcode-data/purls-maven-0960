@@ -64,3 +64,5 @@
 - pkg:maven/com.cognitect.aws/athena@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/athena@869.2.1687.0
 - pkg:maven/com.cognitect.aws/athena@869.2.1687.0?classifier=sources
+- pkg:maven/com.cognitect.aws/athena@871.2.29.35
+- pkg:maven/com.cognitect.aws/athena@871.2.29.35?classifier=sources

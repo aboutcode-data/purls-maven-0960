@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.0.0-M4
 - pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.0.0-M4?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.0.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.1.0
+- pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.1.0?classifier=sources

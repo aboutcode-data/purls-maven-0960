@@ -416,3 +416,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@2.1.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@2.1.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@2.1.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin@2.1.20-Beta1?classifier=sources

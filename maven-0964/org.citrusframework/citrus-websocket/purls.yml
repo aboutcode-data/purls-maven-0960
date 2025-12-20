@@ -26,3 +26,5 @@
 - pkg:maven/org.citrusframework/citrus-websocket@4.3.3?classifier=sources
 - pkg:maven/org.citrusframework/citrus-websocket@4.4.0
 - pkg:maven/org.citrusframework/citrus-websocket@4.4.0?classifier=sources
+- pkg:maven/org.citrusframework/citrus-websocket@4.5.0
+- pkg:maven/org.citrusframework/citrus-websocket@4.5.0?classifier=sources

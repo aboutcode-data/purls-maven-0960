@@ -20,6 +20,10 @@
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.11-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.12-preview
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.12-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.13-preview
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.13-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.14-preview
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.14-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.2-preview
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@4.10.3-preview
@@ -112,3 +116,5 @@
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.7.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.8.0-preview
 - pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.8.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.9.0-preview
+- pkg:maven/com.google.cloud/google-cloud-ids-spring-starter@5.9.0-preview?classifier=sources

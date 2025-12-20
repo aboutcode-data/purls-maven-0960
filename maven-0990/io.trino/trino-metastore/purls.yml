@@ -28,3 +28,5 @@
 - pkg:maven/io.trino/trino-metastore@466?classifier=sources
 - pkg:maven/io.trino/trino-metastore@467
 - pkg:maven/io.trino/trino-metastore@467?classifier=sources
+- pkg:maven/io.trino/trino-metastore@468
+- pkg:maven/io.trino/trino-metastore@468?classifier=sources

@@ -106,6 +106,8 @@
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.0.7.4?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.0.7.5
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.0.7.5?classifier=sources
+- pkg:maven/io.streamnative.tests/java-test-plugins@3.0.8.1
+- pkg:maven/io.streamnative.tests/java-test-plugins@3.0.8.1?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.1.0.1
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.1.0.2
@@ -200,6 +202,10 @@
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.3?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.4
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.4?classifier=sources
+- pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.5
+- pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.5?classifier=sources
+- pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.6
+- pkg:maven/io.streamnative.tests/java-test-plugins@3.3.2.6?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative.tests/java-test-plugins@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0-SNAPSHOT.ursa
@@ -207,6 +213,8 @@
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.0
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.0?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.1
+- pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.10
+- pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.10?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.1?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.2
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.2?classifier=sources
@@ -220,5 +228,9 @@
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.6?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.7
 - pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.7?classifier=sources
+- pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.8
+- pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.8?classifier=sources
+- pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.9
+- pkg:maven/io.streamnative.tests/java-test-plugins@4.0.0.9?classifier=sources
 - pkg:maven/io.streamnative.tests/java-test-plugins@master-rc-daily
 - pkg:maven/io.streamnative.tests/java-test-plugins@master-rc-daily?classifier=sources

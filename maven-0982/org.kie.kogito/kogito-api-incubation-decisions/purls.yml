@@ -82,5 +82,7 @@
 - pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@1.44.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@1.44.1.Final
 - pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@1.44.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@10.0.0
+- pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@10.0.0?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@2.44.0.Alpha
 - pkg:maven/org.kie.kogito/kogito-api-incubation-decisions@2.44.0.Alpha?classifier=sources
