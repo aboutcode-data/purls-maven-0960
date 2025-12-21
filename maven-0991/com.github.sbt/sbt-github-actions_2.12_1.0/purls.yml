@@ -22,3 +22,7 @@
 - pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.24.0?classifier=sources
 - pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.25.0
 - pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.25.0?classifier=sources
+- pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.26.0
+- pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.26.0?classifier=sources
+- pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.27.0
+- pkg:maven/com.github.sbt/sbt-github-actions_2.12_1.0@0.27.0?classifier=sources

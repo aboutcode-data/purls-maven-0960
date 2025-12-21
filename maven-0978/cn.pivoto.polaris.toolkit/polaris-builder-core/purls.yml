@@ -97,6 +97,7 @@
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.12?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.13?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.14?classifier=sources
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.15?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.1?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.2?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.3?classifier=sources
@@ -106,3 +107,5 @@
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.7?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.8?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.3.9?classifier=sources
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.4.1?classifier=sources
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-core@3.4.2?classifier=sources

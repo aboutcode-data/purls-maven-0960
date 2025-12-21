@@ -19,3 +19,7 @@
 - pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.4.0.PL.RC1?classifier=sources
 - pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.4.0.PL.RC2?classifier=sources
 - pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.4.0.PL.RC3?classifier=sources
+- pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.4.0.PL.RC4?classifier=sources
+- pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.4.0.PL.RC5?classifier=sources
+- pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.4.0.PL?classifier=sources
+- pkg:maven/io.exoquery/exoquery-engine-linuxarm64@2.2.0-1.5.0.PL?classifier=sources

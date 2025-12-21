@@ -30,6 +30,7 @@
 - pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.25
 - pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.25?classifier=sources
+- pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.26?classifier=sources
 - pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.8
 - pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty.http3/http3-common@10.0.9
@@ -66,6 +67,7 @@
 - pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.25
 - pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.25?classifier=sources
+- pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.26?classifier=sources
 - pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.8
 - pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty.http3/http3-common@11.0.9

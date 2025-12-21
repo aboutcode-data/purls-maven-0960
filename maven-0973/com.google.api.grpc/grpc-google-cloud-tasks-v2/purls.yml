@@ -300,6 +300,14 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.68.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.7.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.70.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.70.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.71.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.71.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.72.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.72.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.73.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.73.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.8.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.8.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tasks-v2@2.9.0

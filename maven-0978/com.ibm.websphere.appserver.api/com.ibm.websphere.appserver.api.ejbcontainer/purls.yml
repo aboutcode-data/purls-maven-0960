@@ -1,5 +1,6 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.ejbcontainer@1.0.10
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.ejbcontainer@1.0.103?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.ejbcontainer@1.0.104?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.ejbcontainer@1.0.11
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.ejbcontainer@1.0.12
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.ejbcontainer@1.0.13

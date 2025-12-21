@@ -1,3 +1,7 @@
+- pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.10.0
+- pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.10.0?classifier=sources
+- pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.11.0
+- pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.11.0?classifier=sources
 - pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.4.0
 - pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.4.0?classifier=sources
 - pkg:maven/io.hotmoka/io-hotmoka-node-remote@1.4.1

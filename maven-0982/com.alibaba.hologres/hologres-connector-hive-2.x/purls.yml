@@ -24,3 +24,4 @@
 - pkg:maven/com.alibaba.hologres/hologres-connector-hive-2.x@1.4.3?classifier=sources
 - pkg:maven/com.alibaba.hologres/hologres-connector-hive-2.x@1.5.0
 - pkg:maven/com.alibaba.hologres/hologres-connector-hive-2.x@1.5.0?classifier=sources
+- pkg:maven/com.alibaba.hologres/hologres-connector-hive-2.x@1.5.6?classifier=sources

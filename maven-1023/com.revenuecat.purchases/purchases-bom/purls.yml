@@ -12,3 +12,7 @@
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.1.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.1.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.1.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.2.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.3.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.3.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.3.2?classifier=sources

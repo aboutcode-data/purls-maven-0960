@@ -15,6 +15,8 @@
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC2
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC20?classifier=sources
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC21?classifier=sources
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC22?classifier=sources
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC23?classifier=sources
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC2?classifier=sources
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC3
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-transaction-deployment@0.1.0-RC3?classifier=sources

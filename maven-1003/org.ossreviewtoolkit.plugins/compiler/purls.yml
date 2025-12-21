@@ -58,3 +58,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@64.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@64.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@65.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@66.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@66.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@66.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@66.0.3?classifier=sources

@@ -1562,3 +1562,6 @@
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.2.0-20250607-200526.4379014?classifier=sources
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.2.0-20250608-090535.869f248
 - pkg:maven/org.janusgraph/janusgraph-lucene@1.2.0-20250608-090535.869f248?classifier=sources
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.2.0-20250812-175142.fb306b650?classifier=sources
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.2.0-20250812-182757.f621a1c?classifier=sources
+- pkg:maven/org.janusgraph/janusgraph-lucene@1.2.0-20250815-215833.1b92960?classifier=sources

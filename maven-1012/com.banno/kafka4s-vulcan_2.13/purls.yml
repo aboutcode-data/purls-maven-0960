@@ -50,5 +50,7 @@
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@6.1.0?classifier=sources
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@6.2.0
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@6.2.0?classifier=sources
+- pkg:maven/com.banno/kafka4s-vulcan_2.13@6.3.0
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@6.3.0-RC1
 - pkg:maven/com.banno/kafka4s-vulcan_2.13@6.3.0-RC1?classifier=sources
+- pkg:maven/com.banno/kafka4s-vulcan_2.13@6.3.0?classifier=sources

@@ -23,6 +23,9 @@
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@8.6.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.0.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.1.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.10.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.10.1?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.11.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.2.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.3.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.3.1?classifier=sources
@@ -36,3 +39,5 @@
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.7.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.7.1?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.8.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.9.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-messaging-api-client@9.9.1?classifier=sources

@@ -97,6 +97,10 @@
 - pkg:maven/com.outr/spice-core_3@0.10.0
 - pkg:maven/com.outr/spice-core_3@0.10.0?classifier=sources
 - pkg:maven/com.outr/spice-core_3@0.10.1
+- pkg:maven/com.outr/spice-core_3@0.10.10
+- pkg:maven/com.outr/spice-core_3@0.10.10?classifier=sources
+- pkg:maven/com.outr/spice-core_3@0.10.11
+- pkg:maven/com.outr/spice-core_3@0.10.11?classifier=sources
 - pkg:maven/com.outr/spice-core_3@0.10.1?classifier=sources
 - pkg:maven/com.outr/spice-core_3@0.10.2
 - pkg:maven/com.outr/spice-core_3@0.10.2?classifier=sources
@@ -106,6 +110,14 @@
 - pkg:maven/com.outr/spice-core_3@0.10.4?classifier=sources
 - pkg:maven/com.outr/spice-core_3@0.10.5
 - pkg:maven/com.outr/spice-core_3@0.10.5?classifier=sources
+- pkg:maven/com.outr/spice-core_3@0.10.6
+- pkg:maven/com.outr/spice-core_3@0.10.6?classifier=sources
+- pkg:maven/com.outr/spice-core_3@0.10.7
+- pkg:maven/com.outr/spice-core_3@0.10.7?classifier=sources
+- pkg:maven/com.outr/spice-core_3@0.10.8
+- pkg:maven/com.outr/spice-core_3@0.10.8?classifier=sources
+- pkg:maven/com.outr/spice-core_3@0.10.9
+- pkg:maven/com.outr/spice-core_3@0.10.9?classifier=sources
 - pkg:maven/com.outr/spice-core_3@0.2.0
 - pkg:maven/com.outr/spice-core_3@0.2.0?classifier=sources
 - pkg:maven/com.outr/spice-core_3@0.3.0

@@ -251,6 +251,8 @@
 - pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.17.7?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.17.8?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.17.9?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.18.0?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.19.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.2.0
 - pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.2.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-prod-maven-plugin@4.3.0

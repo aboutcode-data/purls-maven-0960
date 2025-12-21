@@ -5,3 +5,5 @@
 - pkg:maven/com.sonatype.central.testing.amazon/acm@3.6.2?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/acm@3.6.3?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/acm@3.6.4?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/acm@9.9.10?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/acm@9.9.9?classifier=sources

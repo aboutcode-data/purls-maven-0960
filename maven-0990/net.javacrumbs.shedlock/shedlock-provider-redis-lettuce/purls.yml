@@ -1,3 +1,4 @@
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-lettuce@6.10.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-lettuce@6.6.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-lettuce@6.6.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-lettuce@6.6.1?classifier=sources

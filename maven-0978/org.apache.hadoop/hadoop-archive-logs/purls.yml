@@ -62,3 +62,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-archive-logs@3.4.0?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-archive-logs@3.4.1
 - pkg:maven/org.apache.hadoop/hadoop-archive-logs@3.4.1?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-archive-logs@3.4.2
+- pkg:maven/org.apache.hadoop/hadoop-archive-logs@3.4.2?classifier=sources

@@ -31,6 +31,7 @@
 - pkg:maven/cloud.mindbox/mindbox-huawei@2.13.5-rc?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-huawei@2.13.5?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-huawei@2.14.0-rc?classifier=sources
+- pkg:maven/cloud.mindbox/mindbox-huawei@2.14.0?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-huawei@2.2.0?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-huawei@2.2.1?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-huawei@2.2.2?classifier=sources

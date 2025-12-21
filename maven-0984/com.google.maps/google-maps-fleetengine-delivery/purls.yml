@@ -10,8 +10,16 @@
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.14.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.15.0
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.15.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.17.0
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.17.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.18.0
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.18.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.19.0
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.19.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.2.0
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.2.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.20.0
+- pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.20.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.3.0
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.3.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-fleetengine-delivery@0.4.0

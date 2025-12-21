@@ -212,6 +212,10 @@
 - pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M15?classifier=sources
 - pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M16
 - pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M16?classifier=sources
+- pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M17
+- pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M17?classifier=sources
+- pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M18
+- pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M18?classifier=sources
 - pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M1?classifier=sources
 - pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M2
 - pkg:maven/io.get-coursier/coursier-env_2.13@2.1.25-M2?classifier=sources

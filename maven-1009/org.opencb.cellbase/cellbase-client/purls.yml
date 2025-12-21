@@ -140,5 +140,6 @@
 - pkg:maven/org.opencb.cellbase/cellbase-client@6.4.0?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-client@6.5.0
 - pkg:maven/org.opencb.cellbase/cellbase-client@6.5.0?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-client@6.6.0?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-client@7.0.0
 - pkg:maven/org.opencb.cellbase/cellbase-client@7.0.0?classifier=sources

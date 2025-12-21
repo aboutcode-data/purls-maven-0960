@@ -29,6 +29,11 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.20.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.21.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.22.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.23.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.26.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.4.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/database@0.5.0?classifier=sources

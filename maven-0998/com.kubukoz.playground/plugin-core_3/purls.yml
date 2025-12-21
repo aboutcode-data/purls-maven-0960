@@ -1,2 +1,10 @@
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.0
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.0-RC1
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.0-RC1?classifier=sources
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.0?classifier=sources
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.1
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.1?classifier=sources
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.2
+- pkg:maven/com.kubukoz.playground/plugin-core_3@0.10.2?classifier=sources
 - pkg:maven/com.kubukoz.playground/plugin-core_3@0.8.0
 - pkg:maven/com.kubukoz.playground/plugin-core_3@0.8.0?classifier=sources

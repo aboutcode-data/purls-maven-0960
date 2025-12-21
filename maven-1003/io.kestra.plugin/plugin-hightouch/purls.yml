@@ -13,3 +13,5 @@
 - pkg:maven/io.kestra.plugin/plugin-hightouch@0.21.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-hightouch@0.22.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-hightouch@0.23.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-hightouch@0.24.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-hightouch@0.24.1?classifier=sources

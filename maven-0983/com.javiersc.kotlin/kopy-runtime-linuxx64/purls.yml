@@ -7,6 +7,8 @@
 - pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.15.0%2B2.1.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.16.0%2B2.1.21?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.16.3%2B2.1.21?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.17.0%2B2.2.0?classifier=sources
+- pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.18.0%2B2.2.10?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.6.0%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.7.0%2B2.0.20?classifier=sources
 - pkg:maven/com.javiersc.kotlin/kopy-runtime-linuxx64@0.8.0%2B2.0.20?classifier=sources

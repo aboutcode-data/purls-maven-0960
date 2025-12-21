@@ -4,6 +4,10 @@
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.0.4?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.10.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.10.1?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.100.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.101.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.102.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.102.1?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.11.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.11.1?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.11.2?classifier=sources
@@ -130,3 +134,4 @@
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.97.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.97.1?classifier=sources
 - pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.98.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-java-client-okhttp@0.99.0?classifier=sources

@@ -31,6 +31,7 @@
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.1.5?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.2.0?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.0?classifier=sources
+- pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.10?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.1?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.2?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.3?classifier=sources
@@ -39,3 +40,4 @@
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.7?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.8?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.3.9?classifier=sources
+- pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-grpc@4.4.0?classifier=sources

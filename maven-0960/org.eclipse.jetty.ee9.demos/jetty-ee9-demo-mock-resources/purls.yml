@@ -47,6 +47,8 @@
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.22?classifier=sources
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.23?classifier=sources
+- pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.24?classifier=sources
+- pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.25?classifier=sources
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.3
 - pkg:maven/org.eclipse.jetty.ee9.demos/jetty-ee9-demo-mock-resources@12.0.3?classifier=sources

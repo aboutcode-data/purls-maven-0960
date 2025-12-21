@@ -20,6 +20,7 @@
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.1.8?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.1.9?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.0?classifier=sources
+- pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.10?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.1?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.2?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.3?classifier=sources
@@ -28,3 +29,4 @@
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.6?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.7?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.8?classifier=sources
+- pkg:maven/dev.kdriver/cdp-watchosarm32@0.2.9?classifier=sources

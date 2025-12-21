@@ -1,2 +1,4 @@
 - pkg:maven/com.sonatype.central.testing.amazon/ssoadmin@3.5.7?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/ssoadmin@3.6.2?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/ssoadmin@9.9.10?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/ssoadmin@9.9.9?classifier=sources

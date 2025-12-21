@@ -37,3 +37,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.servlet-helpers@1.4.6
 - pkg:maven/org.apache.sling/org.apache.sling.servlet-helpers@1.4.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.servlet-helpers@1.4.6?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.servlet-helpers@2.0.0
+- pkg:maven/org.apache.sling/org.apache.sling.servlet-helpers@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.servlet-helpers@2.0.0?classifier=sources

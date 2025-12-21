@@ -304,6 +304,8 @@
 - pkg:maven/org.apache.camel/camel-influxdb@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-influxdb@4.13.0
 - pkg:maven/org.apache.camel/camel-influxdb@4.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-influxdb@4.14.0
+- pkg:maven/org.apache.camel/camel-influxdb@4.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-influxdb@4.2.0
 - pkg:maven/org.apache.camel/camel-influxdb@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-influxdb@4.3.0

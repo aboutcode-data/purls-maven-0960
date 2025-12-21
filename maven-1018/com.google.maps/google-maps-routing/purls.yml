@@ -92,6 +92,14 @@
 - pkg:maven/com.google.maps/google-maps-routing@1.52.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routing@1.53.0
 - pkg:maven/com.google.maps/google-maps-routing@1.53.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@1.55.0
+- pkg:maven/com.google.maps/google-maps-routing@1.55.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@1.56.0
+- pkg:maven/com.google.maps/google-maps-routing@1.56.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@1.57.0
+- pkg:maven/com.google.maps/google-maps-routing@1.57.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routing@1.58.0
+- pkg:maven/com.google.maps/google-maps-routing@1.58.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routing@1.6.0
 - pkg:maven/com.google.maps/google-maps-routing@1.6.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routing@1.7.0

@@ -57,6 +57,7 @@
 - pkg:maven/org.codehaus.cargo/classpath-war@1.10.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.10.1?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.10.20?classifier=sources
+- pkg:maven/org.codehaus.cargo/classpath-war@1.10.21?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.10.2?classifier=sources
 - pkg:maven/org.codehaus.cargo/classpath-war@1.10.2?type=war
 - pkg:maven/org.codehaus.cargo/classpath-war@1.10.3?classifier=sources

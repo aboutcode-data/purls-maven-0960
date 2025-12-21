@@ -1,3 +1,5 @@
+- pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.10?classifier=sources
+- pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.11?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.2-beta.1?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.2-beta.2?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.2?classifier=sources
@@ -19,3 +21,4 @@
 - pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.7?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.8?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.9-beta.0?classifier=sources
+- pkg:maven/com.epam.drill.integration/drill-maven-plugin@0.1.9?classifier=sources

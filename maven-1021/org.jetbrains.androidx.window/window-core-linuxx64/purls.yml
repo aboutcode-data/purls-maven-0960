@@ -11,3 +11,5 @@
 - pkg:maven/org.jetbrains.androidx.window/window-core-linuxx64@1.4.0-alpha06?classifier=sources
 - pkg:maven/org.jetbrains.androidx.window/window-core-linuxx64@1.4.0-alpha08?classifier=sources
 - pkg:maven/org.jetbrains.androidx.window/window-core-linuxx64@1.4.0-alpha09?classifier=sources
+- pkg:maven/org.jetbrains.androidx.window/window-core-linuxx64@1.4.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.androidx.window/window-core-linuxx64@1.4.0-rc01?classifier=sources

@@ -114,6 +114,10 @@
 - pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.15
 - pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.150
 - pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.150?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.151
+- pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.151?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.152
+- pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.152?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.15?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.16
 - pkg:maven/io.github.cdklabs/cdk-stacksets@0.0.16?classifier=sources

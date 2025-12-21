@@ -160,6 +160,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.24.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.25.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.25.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.26.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.26.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-salesforce-deployment@3.5.0

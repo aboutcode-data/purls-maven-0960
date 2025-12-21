@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.beam/beam-it-elasticsearch@2.64.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-it-elasticsearch@2.65.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-it-elasticsearch@2.66.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-it-elasticsearch@2.67.0?classifier=sources

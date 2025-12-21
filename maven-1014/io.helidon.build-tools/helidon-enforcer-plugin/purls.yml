@@ -89,6 +89,8 @@
 - pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.2
 - pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.20
 - pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.20?classifier=sources
+- pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.21
+- pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.21?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.2?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.3
 - pkg:maven/io.helidon.build-tools/helidon-enforcer-plugin@4.0.3?classifier=sources

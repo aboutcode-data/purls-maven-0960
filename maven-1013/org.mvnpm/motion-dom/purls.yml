@@ -23,6 +23,8 @@
 - pkg:maven/org.mvnpm/motion-dom@12.22.0
 - pkg:maven/org.mvnpm/motion-dom@12.22.0?classifier=sources
 - pkg:maven/org.mvnpm/motion-dom@12.23.1
+- pkg:maven/org.mvnpm/motion-dom@12.23.12
+- pkg:maven/org.mvnpm/motion-dom@12.23.12?classifier=sources
 - pkg:maven/org.mvnpm/motion-dom@12.23.1?classifier=sources
 - pkg:maven/org.mvnpm/motion-dom@12.23.2
 - pkg:maven/org.mvnpm/motion-dom@12.23.2?classifier=sources

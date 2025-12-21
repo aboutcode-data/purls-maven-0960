@@ -1280,6 +1280,8 @@
 - pkg:maven/com.daml/ledger-api-errors_2.13@2.9.6?classifier=sources
 - pkg:maven/com.daml/ledger-api-errors_2.13@2.9.7
 - pkg:maven/com.daml/ledger-api-errors_2.13@2.9.7?classifier=sources
+- pkg:maven/com.daml/ledger-api-errors_2.13@2.9.8-snapshot.20250805.12904.0.vbd3c5a32
+- pkg:maven/com.daml/ledger-api-errors_2.13@2.9.8-snapshot.20250805.12904.0.vbd3c5a32?classifier=sources
 - pkg:maven/com.daml/ledger-api-errors_2.13@3.0.0-adhoc.20240212.12749.0.v6b06ef19
 - pkg:maven/com.daml/ledger-api-errors_2.13@3.0.0-adhoc.20240212.12749.0.v6b06ef19?classifier=sources
 - pkg:maven/com.daml/ledger-api-errors_2.13@3.0.0-adhoc.20240228.12829.0.ve76206ef

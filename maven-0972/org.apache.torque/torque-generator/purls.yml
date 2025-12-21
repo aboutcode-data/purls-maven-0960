@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.torque/torque-generator@5.1?classifier=sources
 - pkg:maven/org.apache.torque/torque-generator@6.0
 - pkg:maven/org.apache.torque/torque-generator@6.0?classifier=sources
+- pkg:maven/org.apache.torque/torque-generator@7.0
+- pkg:maven/org.apache.torque/torque-generator@7.0?classifier=sources

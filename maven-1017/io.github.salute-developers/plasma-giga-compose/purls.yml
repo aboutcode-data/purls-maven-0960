@@ -1,4 +1,6 @@
 - pkg:maven/io.github.salute-developers/plasma-giga-compose@0.1.0?classifier=sources
+- pkg:maven/io.github.salute-developers/plasma-giga-compose@0.10.0?classifier=sources
+- pkg:maven/io.github.salute-developers/plasma-giga-compose@0.11.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-giga-compose@0.2.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-giga-compose@0.3.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-giga-compose@0.4.0?classifier=sources

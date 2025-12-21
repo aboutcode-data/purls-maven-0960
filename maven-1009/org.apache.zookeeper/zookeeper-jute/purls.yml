@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.9.2?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.9.3
 - pkg:maven/org.apache.zookeeper/zookeeper-jute@3.9.3?classifier=sources
+- pkg:maven/org.apache.zookeeper/zookeeper-jute@3.9.4
+- pkg:maven/org.apache.zookeeper/zookeeper-jute@3.9.4?classifier=sources

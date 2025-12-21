@@ -152,3 +152,5 @@
 - pkg:maven/org.apache.karaf.service/org.apache.karaf.service.guard@4.4.6?classifier=sources
 - pkg:maven/org.apache.karaf.service/org.apache.karaf.service.guard@4.4.7
 - pkg:maven/org.apache.karaf.service/org.apache.karaf.service.guard@4.4.7?classifier=sources
+- pkg:maven/org.apache.karaf.service/org.apache.karaf.service.guard@4.4.8
+- pkg:maven/org.apache.karaf.service/org.apache.karaf.service.guard@4.4.8?classifier=sources

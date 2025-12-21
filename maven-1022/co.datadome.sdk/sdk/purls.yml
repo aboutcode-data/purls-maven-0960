@@ -19,3 +19,4 @@
 - pkg:maven/co.datadome.sdk/sdk@1.9.1?type=aar
 - pkg:maven/co.datadome.sdk/sdk@1.9.2?type=aar
 - pkg:maven/co.datadome.sdk/sdk@3.0.3?classifier=sources
+- pkg:maven/co.datadome.sdk/sdk@3.0.4?classifier=sources

@@ -4,9 +4,17 @@
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC14?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC15
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC15?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC16
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC16?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC17
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-RC17?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC13
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC13?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC14
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC14?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC15
 - pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC15?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC16
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC16?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC17
+- pkg:maven/org.reactivemongo/reactivemongo-actors-pekko_3@1.1.0-noshaded.RC17?classifier=sources

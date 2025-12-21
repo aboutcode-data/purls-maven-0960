@@ -1,6 +1,13 @@
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@5.9.0?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@5.9.1?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M10?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M11?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M12?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M13?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M14?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M15?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M16?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M17?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M1?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M2?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M3?classifier=sources
@@ -9,3 +16,5 @@
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M6?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M8?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0.M9?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.0?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-shared-androidnativearm32@6.0.1?classifier=sources

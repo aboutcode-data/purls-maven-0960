@@ -22,4 +22,8 @@
 - pkg:maven/org.mvnpm/vue@3.5.17?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.18
 - pkg:maven/org.mvnpm/vue@3.5.18?classifier=sources
+- pkg:maven/org.mvnpm/vue@3.5.19
+- pkg:maven/org.mvnpm/vue@3.5.19?classifier=sources
+- pkg:maven/org.mvnpm/vue@3.5.20
+- pkg:maven/org.mvnpm/vue@3.5.20?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.8?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.javastro.ivoa/ivoa-schema@0.9.10?classifier=sources
 - pkg:maven/org.javastro.ivoa/ivoa-schema@0.9.5
 - pkg:maven/org.javastro.ivoa/ivoa-schema@0.9.5?classifier=sources
 - pkg:maven/org.javastro.ivoa/ivoa-schema@0.9.6

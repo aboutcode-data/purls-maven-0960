@@ -33,6 +33,7 @@
 - pkg:maven/io.streamnative/bookkeeper-common@4.16.6.4
 - pkg:maven/io.streamnative/bookkeeper-common@4.16.6.4?classifier=sources
 - pkg:maven/io.streamnative/bookkeeper-common@4.16.7.1?classifier=sources
+- pkg:maven/io.streamnative/bookkeeper-common@4.16.7.2?classifier=sources
 - pkg:maven/io.streamnative/bookkeeper-common@4.17.0.1
 - pkg:maven/io.streamnative/bookkeeper-common@4.17.0.1?classifier=sources
 - pkg:maven/io.streamnative/bookkeeper-common@4.17.1.1
@@ -44,5 +45,6 @@
 - pkg:maven/io.streamnative/bookkeeper-common@4.17.1.4
 - pkg:maven/io.streamnative/bookkeeper-common@4.17.1.4?classifier=sources
 - pkg:maven/io.streamnative/bookkeeper-common@4.17.2.1?classifier=sources
+- pkg:maven/io.streamnative/bookkeeper-common@4.17.2.2?classifier=sources
 - pkg:maven/io.streamnative/bookkeeper-common@branch-4.14.7.1_d4
 - pkg:maven/io.streamnative/bookkeeper-common@branch-4.14.7.1_d4?classifier=sources

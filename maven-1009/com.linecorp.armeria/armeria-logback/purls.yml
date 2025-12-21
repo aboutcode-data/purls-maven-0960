@@ -270,6 +270,8 @@
 - pkg:maven/com.linecorp.armeria/armeria-logback@1.32.3?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@1.32.4?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@1.32.5?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@1.33.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback@1.33.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@1.4.0
 - pkg:maven/com.linecorp.armeria/armeria-logback@1.4.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback@1.5.0

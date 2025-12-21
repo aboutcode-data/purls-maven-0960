@@ -1,2 +1,3 @@
 - pkg:maven/org.cibseven.bpm.javaee/cibseven-ejb-client-jakarta@1.1.0?classifier=sources
 - pkg:maven/org.cibseven.bpm.javaee/cibseven-ejb-client-jakarta@2.0.0?classifier=sources
+- pkg:maven/org.cibseven.bpm.javaee/cibseven-ejb-client-jakarta@2.1.0-alpha?classifier=sources

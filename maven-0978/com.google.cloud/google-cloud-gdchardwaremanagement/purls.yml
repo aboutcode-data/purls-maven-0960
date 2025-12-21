@@ -28,6 +28,14 @@
 - pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.22.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.23.0
 - pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.23.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.25.0
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.25.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.26.0
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.26.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.27.0
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.27.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.28.0
+- pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.28.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gdchardwaremanagement@0.4.0

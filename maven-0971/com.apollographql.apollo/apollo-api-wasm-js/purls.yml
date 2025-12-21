@@ -8,5 +8,7 @@
 - pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@4.3.0?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@4.3.1?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@4.3.2?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@4.3.3?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@5.0.0-alpha.0?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@5.0.0-alpha.1?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-api-wasm-js@5.0.0-alpha.2?classifier=sources

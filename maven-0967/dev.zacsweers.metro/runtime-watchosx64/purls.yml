@@ -30,3 +30,7 @@
 - pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.0-2.2.20-Beta1-alpha01?classifier=sources
 - pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.0-2.2.20-Beta2-alpha02?classifier=sources
 - pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.0-2.2.20-Beta2-alpha03?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.0?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.1?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.2?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-watchosx64@0.6.3?classifier=sources

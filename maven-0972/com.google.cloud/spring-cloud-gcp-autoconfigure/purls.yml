@@ -148,6 +148,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.5?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.6
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.6?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.7
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.7?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.8
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@3.9.8?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@4.0.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@4.1.0
@@ -282,6 +286,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.12.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.13.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.13.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.13.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.13.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.13.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.13.2?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.2.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@5.2.1
@@ -326,5 +334,13 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.2.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.3.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.3.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.3.1?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.3.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@6.3.2?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@7.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@7.0.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@7.1.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@7.1.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@7.2.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-autoconfigure@7.2.0?classifier=sources

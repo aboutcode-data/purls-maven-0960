@@ -33,10 +33,13 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.60
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.62
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.64
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.64-datePicker002
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.64-datePicker004
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.66
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.66-todayDateB002
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.68
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.70
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@1.1.72
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@2.0.15-cf
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@2.0.18
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@2.0.26
@@ -99,6 +102,7 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.112
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.114
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.116
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.118
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.12
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.14
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.16

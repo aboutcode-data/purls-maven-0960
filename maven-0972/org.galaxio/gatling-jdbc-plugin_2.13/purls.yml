@@ -8,3 +8,7 @@
 - pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.13.0-latest
 - pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.13.0-latest?classifier=sources
 - pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.13.0?classifier=sources
+- pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.14.0
+- pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.14.0?classifier=sources
+- pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.14.1
+- pkg:maven/org.galaxio/gatling-jdbc-plugin_2.13@0.14.1?classifier=sources

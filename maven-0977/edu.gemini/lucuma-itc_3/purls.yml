@@ -199,6 +199,10 @@
 - pkg:maven/edu.gemini/lucuma-itc_3@0.42.3?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc_3@0.42.4
 - pkg:maven/edu.gemini/lucuma-itc_3@0.42.4?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc_3@0.42.5
+- pkg:maven/edu.gemini/lucuma-itc_3@0.42.5?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc_3@0.43.0
+- pkg:maven/edu.gemini/lucuma-itc_3@0.43.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc_3@0.4?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc_3@0.5.0
 - pkg:maven/edu.gemini/lucuma-itc_3@0.5.0?classifier=sources

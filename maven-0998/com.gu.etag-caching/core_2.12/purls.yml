@@ -44,6 +44,8 @@
 - pkg:maven/com.gu.etag-caching/core_2.12@1.0.8?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@1.0.9
 - pkg:maven/com.gu.etag-caching/core_2.12@1.0.9?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@10.0.0
+- pkg:maven/com.gu.etag-caching/core_2.12@10.0.0?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@2.0.0
 - pkg:maven/com.gu.etag-caching/core_2.12@2.0.0?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@2.0.1
@@ -282,7 +284,11 @@
 - pkg:maven/com.gu.etag-caching/core_2.12@8.1.8?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@8.1.9
 - pkg:maven/com.gu.etag-caching/core_2.12@8.1.9?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@8.2.0
 - pkg:maven/com.gu.etag-caching/core_2.12@8.2.0-PREVIEW.support-logging-on-changed-values.2025-07-24T1438.0364f6f3
 - pkg:maven/com.gu.etag-caching/core_2.12@8.2.0-PREVIEW.support-logging-on-changed-values.2025-07-24T1438.0364f6f3?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@8.2.0-PREVIEW.support-logging-on-changed-values.2025-07-25T1842.a02f3b6f
 - pkg:maven/com.gu.etag-caching/core_2.12@8.2.0-PREVIEW.support-logging-on-changed-values.2025-07-25T1842.a02f3b6f?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@8.2.0?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@9.0.0
+- pkg:maven/com.gu.etag-caching/core_2.12@9.0.0?classifier=sources

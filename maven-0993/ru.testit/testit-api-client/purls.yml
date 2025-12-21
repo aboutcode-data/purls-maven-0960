@@ -28,3 +28,5 @@
 - pkg:maven/ru.testit/testit-api-client@2.1.2-TMS-CLOUD?classifier=sources
 - pkg:maven/ru.testit/testit-api-client@2.2.0-TMS-CLOUD?classifier=sources
 - pkg:maven/ru.testit/testit-api-client@2.2.1-TMS-5.4?classifier=sources
+- pkg:maven/ru.testit/testit-api-client@2.2.2-TMS-5.4.1?classifier=sources
+- pkg:maven/ru.testit/testit-api-client@2.2.3-TMS-5.4.1?classifier=sources

@@ -154,3 +154,5 @@
 - pkg:maven/org.restheart/restheart-mongoclient-provider@8.5.0?classifier=sources
 - pkg:maven/org.restheart/restheart-mongoclient-provider@8.6.0?classifier=sources
 - pkg:maven/org.restheart/restheart-mongoclient-provider@8.6.1?classifier=sources
+- pkg:maven/org.restheart/restheart-mongoclient-provider@8.7.0?classifier=sources
+- pkg:maven/org.restheart/restheart-mongoclient-provider@8.8.0?classifier=sources

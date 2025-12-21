@@ -9,6 +9,7 @@
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.1
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.1-RC1
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.1-RC1?classifier=sources
+- pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.10?classifier=sources
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.1?classifier=sources
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.2
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-processor@1.1.2?classifier=sources
