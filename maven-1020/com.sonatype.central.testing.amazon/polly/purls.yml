@@ -1,3 +1,6 @@
+- pkg:maven/com.sonatype.central.testing.amazon/polly@1.5.45?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/polly@1.5.46?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/polly@1.5.47?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/polly@12.12.12?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/polly@12.12.13?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/polly@12.12.14?classifier=sources

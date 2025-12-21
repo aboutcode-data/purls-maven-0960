@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-solr-sink-kafka-connector@3.20.6?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-solr-sink-kafka-connector@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-solr-sink-kafka-connector@4.11.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-solr-sink-kafka-connector@4.14.0?classifier=sources

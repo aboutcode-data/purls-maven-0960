@@ -1,5 +1,7 @@
 - pkg:maven/com.github.gv2011/tools-m2t@0.12
 - pkg:maven/com.github.gv2011/tools-m2t@0.12?classifier=sources
+- pkg:maven/com.github.gv2011/tools-m2t@0.17?classifier=sources
+- pkg:maven/com.github.gv2011/tools-m2t@0.25?classifier=sources
 - pkg:maven/com.github.gv2011/tools-m2t@0.7
 - pkg:maven/com.github.gv2011/tools-m2t@0.7?classifier=sources
 - pkg:maven/com.github.gv2011/tools-m2t@0.8

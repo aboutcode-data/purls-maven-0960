@@ -2,6 +2,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@2.0.0-RC2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@3.4.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@3.9.10
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@3.9.11
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@3.9.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@3.9.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@3.9.4
@@ -19,3 +20,4 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@5.13.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@5.13.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@5.13.4
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-config@5.13.5

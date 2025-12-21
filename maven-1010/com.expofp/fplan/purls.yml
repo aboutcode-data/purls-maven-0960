@@ -30,7 +30,16 @@
 - pkg:maven/com.expofp/fplan@2.11.1?classifier=sources
 - pkg:maven/com.expofp/fplan@2.11.20?classifier=sources
 - pkg:maven/com.expofp/fplan@2.11.21?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.22?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.23?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.24?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.25?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.26?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.27?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.28?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.29?classifier=sources
 - pkg:maven/com.expofp/fplan@2.11.2?classifier=sources
+- pkg:maven/com.expofp/fplan@2.11.30?classifier=sources
 - pkg:maven/com.expofp/fplan@2.11.3?classifier=sources
 - pkg:maven/com.expofp/fplan@2.11.4?classifier=sources
 - pkg:maven/com.expofp/fplan@2.11.5?classifier=sources
@@ -107,3 +116,4 @@
 - pkg:maven/com.expofp/fplan@4.9.5?classifier=sources
 - pkg:maven/com.expofp/fplan@4.9.6?classifier=sources
 - pkg:maven/com.expofp/fplan@5.0.0?classifier=sources
+- pkg:maven/com.expofp/fplan@5.1.0?classifier=sources

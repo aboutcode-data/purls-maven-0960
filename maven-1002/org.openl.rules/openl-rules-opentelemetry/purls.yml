@@ -13,6 +13,8 @@
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.13-jakarta
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.13-jakarta?classifier=sources
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.13?classifier=sources
+- pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.14
+- pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.14?classifier=sources
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.2
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.2?classifier=sources
@@ -32,3 +34,5 @@
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.8?classifier=sources
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.9
 - pkg:maven/org.openl.rules/openl-rules-opentelemetry@5.27.9?classifier=sources
+- pkg:maven/org.openl.rules/openl-rules-opentelemetry@6.0.0-beta
+- pkg:maven/org.openl.rules/openl-rules-opentelemetry@6.0.0-beta?classifier=sources

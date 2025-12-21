@@ -685,6 +685,11 @@
 - pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.579.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.582.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.583.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.584.45?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.585.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.586.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.587.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.588.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.61.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespa-osgi-testrunner@8.63.8?classifier=sources

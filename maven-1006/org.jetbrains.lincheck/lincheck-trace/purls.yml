@@ -1,3 +1,5 @@
 - pkg:maven/org.jetbrains.lincheck/lincheck-trace@3.1.1?classifier=sources
 - pkg:maven/org.jetbrains.lincheck/lincheck-trace@3.1?classifier=sources
 - pkg:maven/org.jetbrains.lincheck/lincheck-trace@3.2?classifier=sources
+- pkg:maven/org.jetbrains.lincheck/lincheck-trace@3.3.2?classifier=sources
+- pkg:maven/org.jetbrains.lincheck/lincheck-trace@3.3?classifier=sources

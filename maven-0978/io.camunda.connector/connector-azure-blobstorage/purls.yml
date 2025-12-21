@@ -1,4 +1,6 @@
+- pkg:maven/io.camunda.connector/connector-azure-blobstorage@8.8.0
 - pkg:maven/io.camunda.connector/connector-azure-blobstorage@8.8.0-alpha7
 - pkg:maven/io.camunda.connector/connector-azure-blobstorage@8.8.0-alpha7?classifier=sources
 - pkg:maven/io.camunda.connector/connector-azure-blobstorage@8.8.0-alpha8
 - pkg:maven/io.camunda.connector/connector-azure-blobstorage@8.8.0-alpha8?classifier=sources
+- pkg:maven/io.camunda.connector/connector-azure-blobstorage@8.8.0?classifier=sources

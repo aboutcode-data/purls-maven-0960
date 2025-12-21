@@ -72,3 +72,4 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0-beta.3?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0-beta.4
 - pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0-beta.4?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-actuator@6.0.0?classifier=sources

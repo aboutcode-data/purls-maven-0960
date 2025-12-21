@@ -24,3 +24,4 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-kafka-confluent_2.13@5.2.2?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-kafka-confluent_2.13@5.3.0
 - pkg:maven/org.locationtech.geomesa/geomesa-kafka-confluent_2.13@5.3.0?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-kafka-confluent_2.13@5.4.0?classifier=sources

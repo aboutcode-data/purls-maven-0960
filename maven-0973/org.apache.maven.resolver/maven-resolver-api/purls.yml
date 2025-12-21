@@ -109,6 +109,8 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.10?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.11
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.11?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.13
+- pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.13?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.1?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-api@2.0.2?classifier=sources

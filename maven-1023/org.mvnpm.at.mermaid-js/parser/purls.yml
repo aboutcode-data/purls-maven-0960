@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.mermaid-js/parser@0.4.0
 - pkg:maven/org.mvnpm.at.mermaid-js/parser@0.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.mermaid-js/parser@0.6.2
+- pkg:maven/org.mvnpm.at.mermaid-js/parser@0.6.2?classifier=sources

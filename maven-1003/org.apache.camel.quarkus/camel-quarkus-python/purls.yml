@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-python@3.25.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-python@3.26.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-python@3.26.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-python@3.27.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-python@3.27.0?classifier=sources

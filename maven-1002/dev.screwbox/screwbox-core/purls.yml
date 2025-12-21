@@ -1,5 +1,6 @@
 - pkg:maven/dev.screwbox/screwbox-core@3.0.0?classifier=sources
 - pkg:maven/dev.screwbox/screwbox-core@3.1.0?classifier=sources
+- pkg:maven/dev.screwbox/screwbox-core@3.10.0?classifier=sources
 - pkg:maven/dev.screwbox/screwbox-core@3.2.0?classifier=sources
 - pkg:maven/dev.screwbox/screwbox-core@3.3.0?classifier=sources
 - pkg:maven/dev.screwbox/screwbox-core@3.4.0?classifier=sources
@@ -9,3 +10,4 @@
 - pkg:maven/dev.screwbox/screwbox-core@3.7.0?classifier=sources
 - pkg:maven/dev.screwbox/screwbox-core@3.8.0?classifier=sources
 - pkg:maven/dev.screwbox/screwbox-core@3.8.1?classifier=sources
+- pkg:maven/dev.screwbox/screwbox-core@3.9.0?classifier=sources

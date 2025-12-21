@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@10.1.0?classifier=sources
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@10.1.1
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@10.1.1?classifier=sources
+- pkg:maven/org.apache.tomee/microprofile-jwt-itests@10.1.2
+- pkg:maven/org.apache.tomee/microprofile-jwt-itests@10.1.2?classifier=sources
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.0
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.0-M3
 - pkg:maven/org.apache.tomee/microprofile-jwt-itests@8.0.0-M3?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/io.minio/minio-admin@8.5.7?classifier=sources
 - pkg:maven/io.minio/minio-admin@8.5.8?classifier=sources
 - pkg:maven/io.minio/minio-admin@8.5.9?classifier=sources
+- pkg:maven/io.minio/minio-admin@8.6.0?classifier=sources

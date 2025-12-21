@@ -64,3 +64,4 @@
 - pkg:maven/us.springett/alpine-executable-war@3.1.2?classifier=sources
 - pkg:maven/us.springett/alpine-executable-war@3.2.0
 - pkg:maven/us.springett/alpine-executable-war@3.2.0?classifier=sources
+- pkg:maven/us.springett/alpine-executable-war@3.3.0?classifier=sources

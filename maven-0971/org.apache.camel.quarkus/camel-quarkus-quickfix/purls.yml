@@ -128,6 +128,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.25.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.26.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.26.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.27.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.27.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-quickfix@3.5.0

@@ -15,6 +15,7 @@
 - pkg:maven/org.cs124.questioner/plugin@2024.9.2?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2024.9.3?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2025.1.0?classifier=sources
+- pkg:maven/org.cs124.questioner/plugin@2025.10.0?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2025.3.0?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2025.3.4?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2025.4.0?classifier=sources
@@ -22,3 +23,4 @@
 - pkg:maven/org.cs124.questioner/plugin@2025.8.0?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2025.8.1?classifier=sources
 - pkg:maven/org.cs124.questioner/plugin@2025.8.3?classifier=sources
+- pkg:maven/org.cs124.questioner/plugin@2025.9.0?classifier=sources

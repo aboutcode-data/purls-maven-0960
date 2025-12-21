@@ -6,3 +6,4 @@
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-status-endpoint_2.12@5.2.2?classifier=sources
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-status-endpoint_2.12@5.3.0
 - pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-status-endpoint_2.12@5.3.0?classifier=sources
+- pkg:maven/org.geomesa.geoserver/geomesa-gs-kafka-status-endpoint_2.12@5.4.0?classifier=sources

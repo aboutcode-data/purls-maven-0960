@@ -29,3 +29,5 @@
 - pkg:maven/org.openmdx/openmdx-system@4.19.3?classifier=sources
 - pkg:maven/org.openmdx/openmdx-system@4.19.6
 - pkg:maven/org.openmdx/openmdx-system@4.19.6?classifier=sources
+- pkg:maven/org.openmdx/openmdx-system@4.21.0
+- pkg:maven/org.openmdx/openmdx-system@4.21.0?classifier=sources

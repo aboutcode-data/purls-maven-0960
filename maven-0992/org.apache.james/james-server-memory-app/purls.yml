@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.james/james-server-memory-app@3.8.1?type=zip
 - pkg:maven/org.apache.james/james-server-memory-app@3.8.2?classifier=sources
 - pkg:maven/org.apache.james/james-server-memory-app@3.8.2?type=zip
+- pkg:maven/org.apache.james/james-server-memory-app@3.9.0?classifier=sources
+- pkg:maven/org.apache.james/james-server-memory-app@3.9.0?type=zip

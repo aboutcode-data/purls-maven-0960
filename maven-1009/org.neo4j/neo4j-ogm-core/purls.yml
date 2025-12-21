@@ -259,6 +259,8 @@
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.2
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.20
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.20?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-core@4.0.21
+- pkg:maven/org.neo4j/neo4j-ogm-core@4.0.21?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.3
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.3?classifier=sources
@@ -274,5 +276,7 @@
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.9
 - pkg:maven/org.neo4j/neo4j-ogm-core@4.0.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-core@5.0.0
+- pkg:maven/org.neo4j/neo4j-ogm-core@5.0.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-core@v3.2.13
 - pkg:maven/org.neo4j/neo4j-ogm-core@v3.2.13?classifier=sources

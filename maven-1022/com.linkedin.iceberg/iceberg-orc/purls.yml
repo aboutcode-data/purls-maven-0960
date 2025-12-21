@@ -66,3 +66,7 @@
 - pkg:maven/com.linkedin.iceberg/iceberg-orc@1.0.0.7?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-orc@1.0.0.8?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-orc@1.2.0.0-rc2?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-orc@1.2.0.1?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-orc@1.2.0.4?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-orc@v1.2.0.1-1-gadc43b8?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-orc@vv1.2.0.1-1-gadc43b8-1-gf5bc75b?classifier=sources

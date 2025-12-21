@@ -7,6 +7,9 @@
 - pkg:maven/app.cash.burst/burst-watchosarm32@0.7.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-watchosarm32@2.0.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-watchosarm32@2.1.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm32@2.10.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm32@2.10.1?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm32@2.10.2?classifier=sources
 - pkg:maven/app.cash.burst/burst-watchosarm32@2.2.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-watchosarm32@2.3.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-watchosarm32@2.4.0?classifier=sources

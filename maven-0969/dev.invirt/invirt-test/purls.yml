@@ -31,3 +31,6 @@
 - pkg:maven/dev.invirt/invirt-test@2.2.1?classifier=sources
 - pkg:maven/dev.invirt/invirt-test@2.2.2?classifier=sources
 - pkg:maven/dev.invirt/invirt-test@3.0.0?classifier=sources
+- pkg:maven/dev.invirt/invirt-test@3.0.1?classifier=sources
+- pkg:maven/dev.invirt/invirt-test@3.1.0?classifier=sources
+- pkg:maven/dev.invirt/invirt-test@3.2.1?classifier=sources

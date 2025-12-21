@@ -729,6 +729,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.1.7?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.1.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.1.9?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.4?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.5?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.10.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.2.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.2.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.2.11?classifier=sources
@@ -855,6 +862,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.8.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.8.9?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.11?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.4?classifier=sources
@@ -862,3 +871,4 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.7?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-css@2025.9.9?classifier=sources

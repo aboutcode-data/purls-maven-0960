@@ -1,2 +1,3 @@
 - pkg:maven/com.vertispan.recipes/gwt-compatible-recipes@1.0
 - pkg:maven/com.vertispan.recipes/gwt-compatible-recipes@1.0?classifier=sources
+- pkg:maven/com.vertispan.recipes/gwt-compatible-recipes@2.0?classifier=sources

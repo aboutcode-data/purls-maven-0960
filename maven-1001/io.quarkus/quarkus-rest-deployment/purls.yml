@@ -187,6 +187,9 @@
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.27.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.28.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.28.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.28.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.28.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.28.3?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0.CR1?classifier=sources

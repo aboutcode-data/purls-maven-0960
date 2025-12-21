@@ -162,6 +162,8 @@
 - pkg:maven/org.specs2/specs2-fp_2.12@4.20.9?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_2.12@4.21.0
 - pkg:maven/org.specs2/specs2-fp_2.12@4.21.0?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_2.12@4.22.0
+- pkg:maven/org.specs2/specs2-fp_2.12@4.22.0?classifier=sources
 - pkg:maven/org.specs2/specs2-fp_2.12@4.3.0
 - pkg:maven/org.specs2/specs2-fp_2.12@4.3.0-9613e1025-20180617171339
 - pkg:maven/org.specs2/specs2-fp_2.12@4.3.0-9613e1025-20180617171339?classifier=sources

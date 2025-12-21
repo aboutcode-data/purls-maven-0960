@@ -23,3 +23,4 @@
 - pkg:maven/org.apache.james/james-project@3.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.james/james-project@3.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.james/james-project@3.8.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.james/james-project@3.9.0?classifier=source-release&type=zip

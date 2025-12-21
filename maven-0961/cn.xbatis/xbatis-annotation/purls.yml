@@ -29,6 +29,8 @@
 - pkg:maven/cn.xbatis/xbatis-annotation@1.8.9-M3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.8.9?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.0?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M10?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M11?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M1?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M2?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M3?classifier=sources
@@ -36,3 +38,4 @@
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M6?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M7?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M8?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-annotation@1.9.1-M9?classifier=sources

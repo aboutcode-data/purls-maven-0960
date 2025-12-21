@@ -36,10 +36,12 @@
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.10.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.10.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.10.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.10.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.12.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.14.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.14.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-parent@4.4.0?classifier=source-release&type=zip

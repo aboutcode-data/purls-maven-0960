@@ -235,6 +235,7 @@
 - pkg:maven/io.cucumber/cucumber-spring@7.28.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.28.1?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.28.2?classifier=sources
+- pkg:maven/io.cucumber/cucumber-spring@7.29.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.3.0
 - pkg:maven/io.cucumber/cucumber-spring@7.3.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.3.1
@@ -245,6 +246,7 @@
 - pkg:maven/io.cucumber/cucumber-spring@7.3.3?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.3.4
 - pkg:maven/io.cucumber/cucumber-spring@7.3.4?classifier=sources
+- pkg:maven/io.cucumber/cucumber-spring@7.30.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.4.0
 - pkg:maven/io.cucumber/cucumber-spring@7.4.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.4.1

@@ -34,3 +34,5 @@
 - pkg:maven/com.unboundid.product.scim2/scim2-sdk-common@3.1.0?classifier=sources
 - pkg:maven/com.unboundid.product.scim2/scim2-sdk-common@3.2.0?classifier=sources
 - pkg:maven/com.unboundid.product.scim2/scim2-sdk-common@4.0.0?classifier=sources
+- pkg:maven/com.unboundid.product.scim2/scim2-sdk-common@4.1.0
+- pkg:maven/com.unboundid.product.scim2/scim2-sdk-common@4.1.0?classifier=sources

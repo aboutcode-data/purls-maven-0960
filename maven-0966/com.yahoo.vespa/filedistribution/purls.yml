@@ -1374,6 +1374,16 @@
 - pkg:maven/com.yahoo.vespa/filedistribution@8.582.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.583.10
 - pkg:maven/com.yahoo.vespa/filedistribution@8.583.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.584.45
+- pkg:maven/com.yahoo.vespa/filedistribution@8.584.45?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.585.41
+- pkg:maven/com.yahoo.vespa/filedistribution@8.585.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.586.25
+- pkg:maven/com.yahoo.vespa/filedistribution@8.586.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.587.11
+- pkg:maven/com.yahoo.vespa/filedistribution@8.587.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/filedistribution@8.588.8
+- pkg:maven/com.yahoo.vespa/filedistribution@8.588.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.61.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/filedistribution@8.63.8?classifier=sources

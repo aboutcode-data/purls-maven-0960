@@ -1,3 +1,7 @@
 - pkg:maven/io.flamingock/flamingock-auditstore-couchbase@0.0.38-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-auditstore-couchbase@0.0.39-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-auditstore-couchbase@0.0.40-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-auditstore-couchbase@0.0.42-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-auditstore-couchbase@0.0.43-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-auditstore-couchbase@0.0.44-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-auditstore-couchbase@1.0.0-beta.1?classifier=sources

@@ -418,6 +418,7 @@
 - pkg:maven/us.fatehi/schemacrawler-lint@16.28.1?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-lint@16.28.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-lint@16.28.3?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-lint@16.29.1?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-lint@16.3.0
 - pkg:maven/us.fatehi/schemacrawler-lint@16.3.0?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-lint@16.3.1
@@ -452,3 +453,4 @@
 - pkg:maven/us.fatehi/schemacrawler-lint@16.9.4?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-lint@16.9.5
 - pkg:maven/us.fatehi/schemacrawler-lint@16.9.5?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-lint@17.1.1?classifier=sources

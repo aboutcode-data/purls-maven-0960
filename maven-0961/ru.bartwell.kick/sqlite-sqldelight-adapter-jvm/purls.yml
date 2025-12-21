@@ -1,3 +1,6 @@
 - pkg:maven/ru.bartwell.kick/sqlite-sqldelight-adapter-jvm@1.0.0?classifier=sources
 - pkg:maven/ru.bartwell.kick/sqlite-sqldelight-adapter-jvm@1.1.0?classifier=sources
 - pkg:maven/ru.bartwell.kick/sqlite-sqldelight-adapter-jvm@1.2.0?classifier=sources
+- pkg:maven/ru.bartwell.kick/sqlite-sqldelight-adapter-jvm@2.0.0?classifier=sources
+- pkg:maven/ru.bartwell.kick/sqlite-sqldelight-adapter-jvm@2.1.0?classifier=sources
+- pkg:maven/ru.bartwell.kick/sqlite-sqldelight-adapter-jvm@2.1.1?classifier=sources

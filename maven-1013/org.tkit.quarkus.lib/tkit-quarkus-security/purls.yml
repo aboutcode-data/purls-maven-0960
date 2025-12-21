@@ -71,3 +71,5 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@3.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@3.6.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security@4.1.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/tools.jackson.dataformat/jackson-dataformat-protobuf@3.0.0-rc7?classifier=sources
 - pkg:maven/tools.jackson.dataformat/jackson-dataformat-protobuf@3.0.0-rc8?classifier=sources
 - pkg:maven/tools.jackson.dataformat/jackson-dataformat-protobuf@3.0.0-rc9?classifier=sources
+- pkg:maven/tools.jackson.dataformat/jackson-dataformat-protobuf@3.0.0?classifier=sources

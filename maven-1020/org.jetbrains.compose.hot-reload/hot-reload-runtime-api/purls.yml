@@ -8,3 +8,8 @@
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-beta05?classifier=sources
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-beta06?classifier=sources
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-beta07?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-beta08?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-beta09?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-rc01%2Bembeddable?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-rc01?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-runtime-api@1.0.0-rc02?classifier=sources

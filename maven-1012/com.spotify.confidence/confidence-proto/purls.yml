@@ -11,3 +11,7 @@
 - pkg:maven/com.spotify.confidence/confidence-proto@0.2.7?classifier=sources
 - pkg:maven/com.spotify.confidence/confidence-proto@0.3.0?classifier=sources
 - pkg:maven/com.spotify.confidence/confidence-proto@0.3.1?classifier=sources
+- pkg:maven/com.spotify.confidence/confidence-proto@0.4.0?classifier=sources
+- pkg:maven/com.spotify.confidence/confidence-proto@0.5.0?classifier=sources
+- pkg:maven/com.spotify.confidence/confidence-proto@0.5.1?classifier=sources
+- pkg:maven/com.spotify.confidence/confidence-proto@0.5.2?classifier=sources

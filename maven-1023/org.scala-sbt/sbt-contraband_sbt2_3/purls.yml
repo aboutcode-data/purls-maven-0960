@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-sbt/sbt-contraband_sbt2_3@0.7.0
 - pkg:maven/org.scala-sbt/sbt-contraband_sbt2_3@0.7.0?classifier=sources
+- pkg:maven/org.scala-sbt/sbt-contraband_sbt2_3@0.8.0
+- pkg:maven/org.scala-sbt/sbt-contraband_sbt2_3@0.8.0?classifier=sources

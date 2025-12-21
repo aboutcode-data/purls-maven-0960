@@ -70,3 +70,7 @@
 - pkg:maven/org.liquibase.ext/liquibase-vertica@4.32.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-vertica@4.33.0
 - pkg:maven/org.liquibase.ext/liquibase-vertica@4.33.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-vertica@5.0.0
+- pkg:maven/org.liquibase.ext/liquibase-vertica@5.0.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-vertica@5.0.1
+- pkg:maven/org.liquibase.ext/liquibase-vertica@5.0.1?classifier=sources

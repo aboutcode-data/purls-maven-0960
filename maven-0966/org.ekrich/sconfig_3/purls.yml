@@ -2,6 +2,8 @@
 - pkg:maven/org.ekrich/sconfig_3@1.10.0?classifier=sources
 - pkg:maven/org.ekrich/sconfig_3@1.11.0
 - pkg:maven/org.ekrich/sconfig_3@1.11.0?classifier=sources
+- pkg:maven/org.ekrich/sconfig_3@1.12.0
+- pkg:maven/org.ekrich/sconfig_3@1.12.0?classifier=sources
 - pkg:maven/org.ekrich/sconfig_3@1.4.4
 - pkg:maven/org.ekrich/sconfig_3@1.4.4?classifier=sources
 - pkg:maven/org.ekrich/sconfig_3@1.4.5

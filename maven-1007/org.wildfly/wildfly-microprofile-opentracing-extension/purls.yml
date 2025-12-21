@@ -173,3 +173,4 @@
 - pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@37.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@37.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@37.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-microprofile-opentracing-extension@38.0.0.Beta1?classifier=sources

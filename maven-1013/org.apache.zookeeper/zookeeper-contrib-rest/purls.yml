@@ -24,6 +24,8 @@
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.8.3?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.8.4
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.8.4?classifier=sources
+- pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.8.5
+- pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.8.5?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.9.0
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.9.0?classifier=sources
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-rest@3.9.1

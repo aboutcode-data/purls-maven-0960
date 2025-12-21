@@ -197,6 +197,8 @@
 - pkg:maven/org.neo4j/cypher-ast-factory@4.4.44?classifier=sources
 - pkg:maven/org.neo4j/cypher-ast-factory@4.4.45
 - pkg:maven/org.neo4j/cypher-ast-factory@4.4.45?classifier=sources
+- pkg:maven/org.neo4j/cypher-ast-factory@4.4.46
+- pkg:maven/org.neo4j/cypher-ast-factory@4.4.46?classifier=sources
 - pkg:maven/org.neo4j/cypher-ast-factory@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/cypher-ast-factory@4.4.5
 - pkg:maven/org.neo4j/cypher-ast-factory@4.4.5?classifier=sources
@@ -261,6 +263,8 @@
 - pkg:maven/org.neo4j/cypher-ast-factory@5.26.11?classifier=sources
 - pkg:maven/org.neo4j/cypher-ast-factory@5.26.12
 - pkg:maven/org.neo4j/cypher-ast-factory@5.26.12?classifier=sources
+- pkg:maven/org.neo4j/cypher-ast-factory@5.26.13
+- pkg:maven/org.neo4j/cypher-ast-factory@5.26.13?classifier=sources
 - pkg:maven/org.neo4j/cypher-ast-factory@5.26.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-ast-factory@5.26.2
 - pkg:maven/org.neo4j/cypher-ast-factory@5.26.2?classifier=sources

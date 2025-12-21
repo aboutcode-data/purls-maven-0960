@@ -2,3 +2,6 @@
 - pkg:maven/io.github.fletchmckee.liquid/liquid@0.1.0-alpha?classifier=sources
 - pkg:maven/io.github.fletchmckee.liquid/liquid@0.1.0-rc1?classifier=sources
 - pkg:maven/io.github.fletchmckee.liquid/liquid@0.1.0?classifier=sources
+- pkg:maven/io.github.fletchmckee.liquid/liquid@0.2.0?classifier=sources
+- pkg:maven/io.github.fletchmckee.liquid/liquid@0.3.0?classifier=sources
+- pkg:maven/io.github.fletchmckee.liquid/liquid@0.3.1?classifier=sources

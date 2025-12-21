@@ -215,6 +215,7 @@
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.22?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.23?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.24?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.25?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.3
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.5.3?classifier=sources
@@ -313,6 +314,8 @@
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.25?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.26?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.27?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.28?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.29?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.3
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.6.3?classifier=sources
@@ -385,6 +388,8 @@
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.11?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.12?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.13?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.14?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.15?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.2
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.2-rc1
@@ -407,6 +412,7 @@
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.7?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.8?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.7.9?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-alpha1
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-alpha1-rc1?classifier=sources
@@ -449,3 +455,12 @@
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-alpha8-rc3
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-alpha8-rc3?classifier=sources
 - pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-alpha8?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc1
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc2
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc2?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc3
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc4
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0-rc4?classifier=sources
+- pkg:maven/io.camunda/zeebe-opensearch-exporter@8.8.0?classifier=sources

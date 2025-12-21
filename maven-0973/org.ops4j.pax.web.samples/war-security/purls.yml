@@ -52,6 +52,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.31?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.33?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.34?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-security@8.0.4?classifier=sources

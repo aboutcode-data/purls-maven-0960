@@ -315,6 +315,7 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.1.4?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.1.5?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.1.6.1?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp@7.1.6.2?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.1.6?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.2.0-RC1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp@7.2.0-RC2?type=war

@@ -1,6 +1,7 @@
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.10.0?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.10.1?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.10.2?classifier=sources
+- pkg:maven/org.archive.heritrix/heritrix-contrib@3.11.0?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20190205
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20190205?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.4.0-20190207

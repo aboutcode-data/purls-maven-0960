@@ -44,6 +44,10 @@
 - pkg:maven/com.google.cloud/google-cloud-managedkafka@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-managedkafka@0.30.0
 - pkg:maven/com.google.cloud/google-cloud-managedkafka@0.30.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-managedkafka@0.31.0
+- pkg:maven/com.google.cloud/google-cloud-managedkafka@0.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-managedkafka@0.32.0
+- pkg:maven/com.google.cloud/google-cloud-managedkafka@0.32.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-managedkafka@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-managedkafka@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-managedkafka@0.5.0
