@@ -1,5 +1,7 @@
 - pkg:maven/org.drools/drools-impact-analysis-model@10.0.0
 - pkg:maven/org.drools/drools-impact-analysis-model@10.0.0?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-model@10.1.0
+- pkg:maven/org.drools/drools-impact-analysis-model@10.1.0?classifier=sources
 - pkg:maven/org.drools/drools-impact-analysis-model@7.54.0.Beta1
 - pkg:maven/org.drools/drools-impact-analysis-model@7.54.0.Beta1?classifier=sources
 - pkg:maven/org.drools/drools-impact-analysis-model@7.54.0.Final

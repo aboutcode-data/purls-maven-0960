@@ -24,3 +24,4 @@
 - pkg:maven/io.quarkiverse.antora/quarkus-antora-dev-mode-test@2.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.antora/quarkus-antora-dev-mode-test@2.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.antora/quarkus-antora-dev-mode-test@2.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.antora/quarkus-antora-dev-mode-test@2.3.0.CR1?classifier=sources

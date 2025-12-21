@@ -1,0 +1,4 @@
+- pkg:maven/org.opendaylight.l2switch/main-impl@1.0.0
+- pkg:maven/org.opendaylight.l2switch/main-impl@1.0.0?classifier=sources
+- pkg:maven/org.opendaylight.l2switch/main-impl@2.0.0
+- pkg:maven/org.opendaylight.l2switch/main-impl@2.0.0?classifier=sources

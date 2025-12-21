@@ -43,6 +43,9 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-hibernate@1.9.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.0.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.1.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.10.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.10.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.10.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-hibernate@2.4.0?classifier=sources

@@ -87,3 +87,6 @@
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-studio@1.6.0-beta5
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-studio@1.6.0-beta5?classifier=sources
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-studio@1.6.0-beta6?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-studio@1.6.0-rc1?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-studio@1.6.0-rc2?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-studio@1.6.0-rc3?classifier=sources

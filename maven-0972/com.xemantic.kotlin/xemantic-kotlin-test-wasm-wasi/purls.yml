@@ -1,5 +1,6 @@
 - pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-wasm-wasi@0.1.1?classifier=sources
 - pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-wasm-wasi@1.0?classifier=sources
+- pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-wasm-wasi@1.10.0?classifier=sources
 - pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-wasm-wasi@1.1?classifier=sources
 - pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-wasm-wasi@1.2?classifier=sources
 - pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-wasm-wasi@1.3?classifier=sources

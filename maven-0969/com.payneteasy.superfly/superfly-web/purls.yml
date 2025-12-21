@@ -138,3 +138,4 @@
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-7?type=war
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-8?classifier=sources
 - pkg:maven/com.payneteasy.superfly/superfly-web@1.7-8?type=war
+- pkg:maven/com.payneteasy.superfly/superfly-web@2.0-2?classifier=sources

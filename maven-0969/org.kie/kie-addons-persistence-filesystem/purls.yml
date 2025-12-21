@@ -1,2 +1,4 @@
 - pkg:maven/org.kie/kie-addons-persistence-filesystem@10.0.0
 - pkg:maven/org.kie/kie-addons-persistence-filesystem@10.0.0?classifier=sources
+- pkg:maven/org.kie/kie-addons-persistence-filesystem@10.1.0
+- pkg:maven/org.kie/kie-addons-persistence-filesystem@10.1.0?classifier=sources

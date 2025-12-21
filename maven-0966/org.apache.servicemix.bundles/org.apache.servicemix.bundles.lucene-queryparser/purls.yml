@@ -6,6 +6,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.2_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.2_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@10.2.2_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@4.0.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@4.0.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.lucene-queryparser@4.0.0_1?classifier=src&type=tar.gz

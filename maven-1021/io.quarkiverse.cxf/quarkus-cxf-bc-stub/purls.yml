@@ -41,6 +41,7 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.22.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.23.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.23.1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.25.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.8.1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.8.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-bc-stub@3.8.2

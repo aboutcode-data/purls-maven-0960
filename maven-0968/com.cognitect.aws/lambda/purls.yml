@@ -102,3 +102,5 @@
 - pkg:maven/com.cognitect.aws/lambda@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/lambda@871.2.31.23
 - pkg:maven/com.cognitect.aws/lambda@871.2.31.23?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@871.2.32.10?classifier=sources
+- pkg:maven/com.cognitect.aws/lambda@871.2.32.2?classifier=sources

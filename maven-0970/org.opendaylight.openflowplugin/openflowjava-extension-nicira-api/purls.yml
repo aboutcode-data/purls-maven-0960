@@ -76,6 +76,8 @@
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.2.3-Beryllium-SR3?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.2.4-Beryllium-SR4
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.2.4-Beryllium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.20.0
+- pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.3.0-Boron
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.3.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowjava-extension-nicira-api@0.3.1-Boron-SR1

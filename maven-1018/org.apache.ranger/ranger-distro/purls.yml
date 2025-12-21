@@ -5,3 +5,6 @@
 - pkg:maven/org.apache.ranger/ranger-distro@2.6.0
 - pkg:maven/org.apache.ranger/ranger-distro@2.6.0?classifier=sources
 - pkg:maven/org.apache.ranger/ranger-distro@2.6.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.ranger/ranger-distro@2.7.0
+- pkg:maven/org.apache.ranger/ranger-distro@2.7.0?classifier=sources
+- pkg:maven/org.apache.ranger/ranger-distro@2.7.0?classifier=src&type=tar.gz

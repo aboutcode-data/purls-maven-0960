@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.19@1.8.1?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.19@1.9.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.19@1.9.1?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-flink-runtime-1.19@1.9.2?classifier=sources

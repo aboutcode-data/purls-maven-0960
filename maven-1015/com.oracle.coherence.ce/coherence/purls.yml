@@ -25,6 +25,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-20?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-21
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-21?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-22
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-22?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-3
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.1-0-3?classifier=sources
@@ -46,6 +48,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.2-0-1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.2-0-2
 - pkg:maven/com.oracle.coherence.ce/coherence@14.1.2-0-2?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.2-0-3
+- pkg:maven/com.oracle.coherence.ce/coherence@14.1.2-0-3?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06.1
 - pkg:maven/com.oracle.coherence.ce/coherence@20.06.1?classifier=sources
@@ -90,6 +94,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.11?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.12
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.12?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@22.06.13
+- pkg:maven/com.oracle.coherence.ce/coherence@22.06.13?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.2
 - pkg:maven/com.oracle.coherence.ce/coherence@22.06.2?classifier=sources
@@ -135,4 +141,6 @@
 - pkg:maven/com.oracle.coherence.ce/coherence@25.03
 - pkg:maven/com.oracle.coherence.ce/coherence@25.03.1
 - pkg:maven/com.oracle.coherence.ce/coherence@25.03.1?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence@25.03.2
+- pkg:maven/com.oracle.coherence.ce/coherence@25.03.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence@25.03?classifier=sources

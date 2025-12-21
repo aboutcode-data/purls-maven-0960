@@ -36,9 +36,13 @@
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.18.1?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.18.2
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.18.2?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.19.0
+- pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.19.0?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0-RC1
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0-RC1?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0-RC2
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0-RC2?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.1.0
+- pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.1.0?classifier=sources

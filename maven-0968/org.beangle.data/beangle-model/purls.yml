@@ -30,3 +30,5 @@
 - pkg:maven/org.beangle.data/beangle-model@5.8.24?classifier=sources
 - pkg:maven/org.beangle.data/beangle-model@5.8.9
 - pkg:maven/org.beangle.data/beangle-model@5.8.9?classifier=sources
+- pkg:maven/org.beangle.data/beangle-model@5.9.0
+- pkg:maven/org.beangle.data/beangle-model@5.9.0?classifier=sources

@@ -100,6 +100,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@61.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@62.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@62.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@62.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@63.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@63.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@63.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@64.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@64.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@65.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/unmanaged-package-manager@8.0.0?classifier=sources

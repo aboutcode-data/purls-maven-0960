@@ -44,3 +44,5 @@
 - pkg:maven/tf.tofu/tofu-zio-core_2.13@0.13.7.200
 - pkg:maven/tf.tofu/tofu-zio-core_2.13@0.13.7.200?classifier=sources
 - pkg:maven/tf.tofu/tofu-zio-core_2.13@0.13.7?classifier=sources
+- pkg:maven/tf.tofu/tofu-zio-core_2.13@0.14.0
+- pkg:maven/tf.tofu/tofu-zio-core_2.13@0.14.0?classifier=sources

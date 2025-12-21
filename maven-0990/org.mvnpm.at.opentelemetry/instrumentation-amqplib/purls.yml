@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.48.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.49.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.49.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.50.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.50.0?classifier=sources

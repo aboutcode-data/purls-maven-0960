@@ -1,2 +1,5 @@
 - pkg:maven/com.yandex.demeter/compose-gradle-plugin@0.38.0?classifier=sources
+- pkg:maven/com.yandex.demeter/compose-gradle-plugin@0.38.1?classifier=sources
+- pkg:maven/com.yandex.demeter/compose-gradle-plugin@0.38.2?classifier=sources
+- pkg:maven/com.yandex.demeter/compose-gradle-plugin@0.38.3?classifier=sources
 - pkg:maven/com.yandex.demeter/compose-gradle-plugin@1.0.0?classifier=sources

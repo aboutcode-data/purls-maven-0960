@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.11?classifier=sources
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.12
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.12?classifier=sources
+- pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.13
+- pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.13?classifier=sources
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.6
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.6?classifier=sources
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.0.7
@@ -28,6 +30,8 @@
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.3.6?classifier=sources
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.3.7
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.3.7?classifier=sources
+- pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.3.8
+- pkg:maven/org.apache.pulsar/jetcd-core-shaded@3.3.8?classifier=sources
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.0
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.0-preview.1
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.0-preview.1?classifier=sources
@@ -42,3 +46,5 @@
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.4?classifier=sources
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.5
 - pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.5?classifier=sources
+- pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.6
+- pkg:maven/org.apache.pulsar/jetcd-core-shaded@4.0.6?classifier=sources

@@ -123,6 +123,8 @@
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M5
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-M5?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-RC1
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-RC10
+- pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-RC10?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-RC1?classifier=sources
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-RC2
 - pkg:maven/org.tpolecat/doobie-free_2.12@1.0.0-RC2?classifier=sources

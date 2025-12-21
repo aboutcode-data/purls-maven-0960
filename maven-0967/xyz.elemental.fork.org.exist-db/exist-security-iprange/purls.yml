@@ -1,6 +1,10 @@
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@6.4.0
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@6.4.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@6.5.0?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@6.6.0?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@6.6.1?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@7.0.0
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@7.0.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@7.1.0?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@7.2.0?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-security-iprange@7.2.1?classifier=sources

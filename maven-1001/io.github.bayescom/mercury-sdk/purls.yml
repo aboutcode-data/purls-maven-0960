@@ -1,3 +1,4 @@
+- pkg:maven/io.github.bayescom/mercury-sdk@3.5.3.1?type=aar
 - pkg:maven/io.github.bayescom/mercury-sdk@4.0.0?type=aar
 - pkg:maven/io.github.bayescom/mercury-sdk@4.0.1?type=aar
 - pkg:maven/io.github.bayescom/mercury-sdk@4.0.2?type=aar
@@ -43,3 +44,8 @@
 - pkg:maven/io.github.bayescom/mercury-sdk@4.5.0?type=aar
 - pkg:maven/io.github.bayescom/mercury-sdk@4.5.1?type=aar
 - pkg:maven/io.github.bayescom/mercury-sdk@4.5.2?type=aar
+- pkg:maven/io.github.bayescom/mercury-sdk@4.5.3?type=aar
+- pkg:maven/io.github.bayescom/mercury-sdk@4.5.3t?type=aar
+- pkg:maven/io.github.bayescom/mercury-sdk@4.5.4?type=aar
+- pkg:maven/io.github.bayescom/mercury-sdk@4.5.6?type=aar
+- pkg:maven/io.github.bayescom/mercury-sdk@4.5.7?type=aar

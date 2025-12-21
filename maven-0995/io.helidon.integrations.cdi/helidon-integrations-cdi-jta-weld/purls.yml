@@ -153,6 +153,8 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.11?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.12
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.12?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.13
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.13?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.1?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.2
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@3.2.2?classifier=sources
@@ -240,3 +242,7 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.2.2?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.2.3
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.2.3?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.2.4
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.2.4?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.3.0-M1
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta-weld@4.3.0-M1?classifier=sources

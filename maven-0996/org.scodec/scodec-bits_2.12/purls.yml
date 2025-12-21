@@ -242,3 +242,7 @@
 - pkg:maven/org.scodec/scodec-bits_2.12@1.2.1?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.12@1.2.2
 - pkg:maven/org.scodec/scodec-bits_2.12@1.2.2?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_2.12@1.2.3
+- pkg:maven/org.scodec/scodec-bits_2.12@1.2.3?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_2.12@1.2.4
+- pkg:maven/org.scodec/scodec-bits_2.12@1.2.4?classifier=sources

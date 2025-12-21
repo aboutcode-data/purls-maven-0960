@@ -10,3 +10,8 @@
 - pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.16.7?classifier=sources
 - pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.16.8?classifier=sources
 - pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.16.9?classifier=sources
+- pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.17.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.17.1?classifier=sources
+- pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.18.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.19.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-test-utils-iossimulatorarm64@4.20.0?classifier=sources

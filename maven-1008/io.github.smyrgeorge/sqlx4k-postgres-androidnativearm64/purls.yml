@@ -29,6 +29,8 @@
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.52.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.60.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.61.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.65.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.70.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.9.2?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.9.3?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-androidnativearm64@0.9.4?classifier=sources

@@ -368,8 +368,12 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.196.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.197.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.197.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.198.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.198.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.199.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.20.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.20.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.200.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.21.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.21.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-maven-plugin@0.22.0

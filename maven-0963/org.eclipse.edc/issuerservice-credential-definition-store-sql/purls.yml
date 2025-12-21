@@ -1,2 +1,3 @@
 - pkg:maven/org.eclipse.edc/issuerservice-credential-definition-store-sql@0.12.0?classifier=sources
 - pkg:maven/org.eclipse.edc/issuerservice-credential-definition-store-sql@0.13.0?classifier=sources
+- pkg:maven/org.eclipse.edc/issuerservice-credential-definition-store-sql@0.13.2?classifier=sources

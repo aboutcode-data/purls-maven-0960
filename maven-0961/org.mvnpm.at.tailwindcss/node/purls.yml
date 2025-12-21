@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm.at.tailwindcss/node@4.0.9?classifier=sources
+- pkg:maven/org.mvnpm.at.tailwindcss/node@4.1.11
+- pkg:maven/org.mvnpm.at.tailwindcss/node@4.1.11?classifier=sources
 - pkg:maven/org.mvnpm.at.tailwindcss/node@4.1.4
 - pkg:maven/org.mvnpm.at.tailwindcss/node@4.1.4?classifier=sources
 - pkg:maven/org.mvnpm.at.tailwindcss/node@4.1.7

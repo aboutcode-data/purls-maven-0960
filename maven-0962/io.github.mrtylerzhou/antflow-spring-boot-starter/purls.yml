@@ -2,6 +2,8 @@
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.101.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.11.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.110.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.111.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.120?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.50.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.56.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.70.0?classifier=sources
@@ -19,3 +21,4 @@
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.91.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.95.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@0.96.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-spring-boot-starter@1.0.0?classifier=sources

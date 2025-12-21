@@ -13,4 +13,6 @@
 - pkg:maven/dev.vortex/vortex-spark@0.39.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-spark@0.40.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-spark@0.41.2?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.42.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.42.1?classifier=sources
 - pkg:maven/dev.vortex/vortex-spark@cf08dc5.dirty?classifier=sources

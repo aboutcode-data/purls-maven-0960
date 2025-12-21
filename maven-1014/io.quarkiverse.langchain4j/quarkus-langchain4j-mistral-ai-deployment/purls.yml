@@ -102,3 +102,5 @@
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-mistral-ai-deployment@1.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-mistral-ai-deployment@1.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-mistral-ai-deployment@1.1.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-mistral-ai-deployment@1.1.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-mistral-ai-deployment@1.1.0?classifier=sources

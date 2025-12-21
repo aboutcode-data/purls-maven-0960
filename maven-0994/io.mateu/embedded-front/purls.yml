@@ -201,6 +201,8 @@
 - pkg:maven/io.mateu/embedded-front@3.0-alpha.29?classifier=sources
 - pkg:maven/io.mateu/embedded-front@3.0-alpha.2?classifier=sources
 - pkg:maven/io.mateu/embedded-front@3.0-alpha.3
+- pkg:maven/io.mateu/embedded-front@3.0-alpha.3.001?classifier=sources
+- pkg:maven/io.mateu/embedded-front@3.0-alpha.3.004?classifier=sources
 - pkg:maven/io.mateu/embedded-front@3.0-alpha.30
 - pkg:maven/io.mateu/embedded-front@3.0-alpha.30?classifier=sources
 - pkg:maven/io.mateu/embedded-front@3.0-alpha.31

@@ -304,7 +304,10 @@
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.4.5?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.4.6?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.4.7?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-devtools@3.4.8?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.5.0?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.5.1?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.5.2?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-devtools@3.5.3?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-devtools@3.5.4?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-devtools@4.0.0-M1?classifier=sources

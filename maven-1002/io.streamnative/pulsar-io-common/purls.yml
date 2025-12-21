@@ -1334,6 +1334,7 @@
 - pkg:maven/io.streamnative/pulsar-io-common@3.0.10.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@3.0.10.6
 - pkg:maven/io.streamnative/pulsar-io-common@3.0.10.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-common@3.0.10.7?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@3.0.2.1
 - pkg:maven/io.streamnative/pulsar-io-common@3.0.2.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@3.0.2.2
@@ -1539,6 +1540,8 @@
 - pkg:maven/io.streamnative/pulsar-io-common@3.3.3.4
 - pkg:maven/io.streamnative/pulsar-io-common@3.3.3.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@3.3.5.1
+- pkg:maven/io.streamnative/pulsar-io-common@3.3.5.10?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-common@3.3.5.11?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@3.3.5.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@3.3.5.2
 - pkg:maven/io.streamnative/pulsar-io-common@3.3.5.2?classifier=sources
@@ -1591,6 +1594,8 @@
 - pkg:maven/io.streamnative/pulsar-io-common@4.0.5.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@4.0.5.2
 - pkg:maven/io.streamnative/pulsar-io-common@4.0.5.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-common@4.0.5.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-common@4.0.5.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-io-common@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-common@v2.8.0-rc-202106091140

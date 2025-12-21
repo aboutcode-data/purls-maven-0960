@@ -1,2 +1,4 @@
 - pkg:maven/org.kie.kogito/data-index-storage-jpa@10.0.0
 - pkg:maven/org.kie.kogito/data-index-storage-jpa@10.0.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-jpa@10.1.0
+- pkg:maven/org.kie.kogito/data-index-storage-jpa@10.1.0?classifier=sources

@@ -6,6 +6,9 @@
 - pkg:maven/com.github.erosb/kappa@2.0.0-RC14.3?classifier=sources
 - pkg:maven/com.github.erosb/kappa@2.0.0-RC14?classifier=sources
 - pkg:maven/com.github.erosb/kappa@2.0.0-RC15?classifier=sources
+- pkg:maven/com.github.erosb/kappa@2.0.0-RC16?classifier=sources
+- pkg:maven/com.github.erosb/kappa@2.0.0-RC17?classifier=sources
 - pkg:maven/com.github.erosb/kappa@2.0.0-RC6?classifier=sources
 - pkg:maven/com.github.erosb/kappa@2.0.0-RC7?classifier=sources
 - pkg:maven/com.github.erosb/kappa@2.0.0-RC8?classifier=sources
+- pkg:maven/com.github.erosb/kappa@2.0.0?classifier=sources

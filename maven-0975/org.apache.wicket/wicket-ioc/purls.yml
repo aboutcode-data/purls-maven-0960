@@ -160,6 +160,8 @@
 - pkg:maven/org.apache.wicket/wicket-ioc@10.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@10.5.0
 - pkg:maven/org.apache.wicket/wicket-ioc@10.5.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-ioc@10.6.0
+- pkg:maven/org.apache.wicket/wicket-ioc@10.6.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-ioc@6.0.0
 - pkg:maven/org.apache.wicket/wicket-ioc@6.0.0-beta1
 - pkg:maven/org.apache.wicket/wicket-ioc@6.0.0-beta1?classifier=sources

@@ -10,7 +10,21 @@
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.14?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.15
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.15?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.17
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.17?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.18
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.18?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.19
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.19?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.2
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.20
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.20?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.21
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.21?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.22
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.22?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.23
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.23?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.2?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.3
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.3?classifier=sources
@@ -24,3 +38,5 @@
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.8?classifier=sources
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.9
 - pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@0.0.9?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@23fed45f473f7277e7bf2d3d5acd27dd26240b88
+- pkg:maven/io.github.kalin-rudnicki/oxygen-core_sjs1_3@23fed45f473f7277e7bf2d3d5acd27dd26240b88?classifier=sources

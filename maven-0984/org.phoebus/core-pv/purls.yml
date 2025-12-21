@@ -12,3 +12,5 @@
 - pkg:maven/org.phoebus/core-pv@4.7.4?classifier=sources
 - pkg:maven/org.phoebus/core-pv@5.0.0
 - pkg:maven/org.phoebus/core-pv@5.0.0?classifier=sources
+- pkg:maven/org.phoebus/core-pv@5.0.2
+- pkg:maven/org.phoebus/core-pv@5.0.2?classifier=sources

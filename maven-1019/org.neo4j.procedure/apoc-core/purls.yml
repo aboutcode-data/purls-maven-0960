@@ -12,6 +12,12 @@
 - pkg:maven/org.neo4j.procedure/apoc-core@2025.05.1?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@2025.06.0
 - pkg:maven/org.neo4j.procedure/apoc-core@2025.06.0?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-core@2025.06.1
+- pkg:maven/org.neo4j.procedure/apoc-core@2025.06.1?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-core@2025.06.2
+- pkg:maven/org.neo4j.procedure/apoc-core@2025.06.2?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-core@2025.07.0
+- pkg:maven/org.neo4j.procedure/apoc-core@2025.07.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.0.0-rc01?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.0.0-rc02?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.0.0?classifier=sources
@@ -66,6 +72,8 @@
 - pkg:maven/org.neo4j.procedure/apoc-core@5.26.7?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.26.8
 - pkg:maven/org.neo4j.procedure/apoc-core@5.26.8?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-core@5.26.9
+- pkg:maven/org.neo4j.procedure/apoc-core@5.26.9?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.3.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.4.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-core@5.4.1?classifier=sources

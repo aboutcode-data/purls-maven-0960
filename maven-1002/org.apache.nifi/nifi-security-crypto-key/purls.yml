@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.nifi/nifi-security-crypto-key@2.3.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-security-crypto-key@2.4.0
 - pkg:maven/org.apache.nifi/nifi-security-crypto-key@2.4.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-security-crypto-key@2.5.0
+- pkg:maven/org.apache.nifi/nifi-security-crypto-key@2.5.0?classifier=sources

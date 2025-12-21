@@ -217,3 +217,4 @@
 - pkg:maven/io.mantisrx/mantis-shaded@3.2.2?classifier=sources
 - pkg:maven/io.mantisrx/mantis-shaded@3.3.0?classifier=sources
 - pkg:maven/io.mantisrx/mantis-shaded@3.4.0?classifier=sources
+- pkg:maven/io.mantisrx/mantis-shaded@4.0.1?classifier=sources

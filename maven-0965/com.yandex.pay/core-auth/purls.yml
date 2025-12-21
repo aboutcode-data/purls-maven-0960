@@ -1,3 +1,5 @@
+- pkg:maven/com.yandex.pay/core-auth@2.10.0?classifier=sources
+- pkg:maven/com.yandex.pay/core-auth@2.11.0?classifier=sources
 - pkg:maven/com.yandex.pay/core-auth@2.3.0-alpha02?classifier=sources
 - pkg:maven/com.yandex.pay/core-auth@2.3.0-alpha03?classifier=sources
 - pkg:maven/com.yandex.pay/core-auth@2.3.10?classifier=sources

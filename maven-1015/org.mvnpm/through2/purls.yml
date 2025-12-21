@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/through2@0.6.5
+- pkg:maven/org.mvnpm/through2@0.6.5?classifier=sources
 - pkg:maven/org.mvnpm/through2@2.0.1?classifier=sources
 - pkg:maven/org.mvnpm/through2@2.0.5?classifier=sources
 - pkg:maven/org.mvnpm/through2@3.0.0?classifier=sources

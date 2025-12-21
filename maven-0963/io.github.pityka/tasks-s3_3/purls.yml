@@ -1,3 +1,7 @@
+- pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M10
+- pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M10?classifier=sources
+- pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M11
+- pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M11?classifier=sources
 - pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M2
 - pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M2?classifier=sources
 - pkg:maven/io.github.pityka/tasks-s3_3@4.0.0-M3

@@ -257,6 +257,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.15?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.16
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.16?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.17
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.17?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.20.2?classifier=sources
@@ -332,10 +334,16 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.21.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.22.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.22.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.22.1
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.22.1?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.22.2
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.22.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.23.0-beta
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.23.0-beta?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.23.1-beta
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.23.1-beta?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.23.2-beta
+- pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.23.2-beta?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.3.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.3.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-spi-commons@2.3.2

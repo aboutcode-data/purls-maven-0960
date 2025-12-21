@@ -379,6 +379,7 @@
 - pkg:maven/io.dropwizard/dropwizard-validation@3.0.13?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@3.0.14
 - pkg:maven/io.dropwizard/dropwizard-validation@3.0.14?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-validation@3.0.15?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@3.0.1?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@3.0.2
 - pkg:maven/io.dropwizard/dropwizard-validation@3.0.2?classifier=sources
@@ -417,6 +418,7 @@
 - pkg:maven/io.dropwizard/dropwizard-validation@4.0.13?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@4.0.14
 - pkg:maven/io.dropwizard/dropwizard-validation@4.0.14?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-validation@4.0.15?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@4.0.1?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@4.0.2
 - pkg:maven/io.dropwizard/dropwizard-validation@4.0.2?classifier=sources
@@ -450,3 +452,4 @@
 - pkg:maven/io.dropwizard/dropwizard-validation@5.0.0-rc.2?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-validation@5.0.0-rc.3
 - pkg:maven/io.dropwizard/dropwizard-validation@5.0.0-rc.3?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-validation@5.0.0-rc.4?classifier=sources

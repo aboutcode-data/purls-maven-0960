@@ -41,7 +41,14 @@
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.446.1?classifier=sources
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.448.2?classifier=sources
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.457.0?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.462.2?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.462.3?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.475.1?classifier=sources
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.48.0?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.485.0?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.494.0?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.498.0?classifier=sources
+- pkg:maven/io.stigg/stigg-sidecar-sdk@2.500.0?classifier=sources
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.78.2?classifier=sources
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.81.0?classifier=sources
 - pkg:maven/io.stigg/stigg-sidecar-sdk@2.85.0?classifier=sources

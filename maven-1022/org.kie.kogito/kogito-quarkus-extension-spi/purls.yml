@@ -74,5 +74,7 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@1.44.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@10.0.0
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@10.0.0?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@10.1.0
+- pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@10.1.0?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@2.44.0.Alpha
 - pkg:maven/org.kie.kogito/kogito-quarkus-extension-spi@2.44.0.Alpha?classifier=sources

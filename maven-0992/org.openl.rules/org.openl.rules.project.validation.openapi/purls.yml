@@ -109,6 +109,10 @@
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.11-jakarta
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.11-jakarta?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.11?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.12
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.12-jakarta
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.12-jakarta?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.12?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.2
 - pkg:maven/org.openl.rules/org.openl.rules.project.validation.openapi@5.27.2?classifier=sources

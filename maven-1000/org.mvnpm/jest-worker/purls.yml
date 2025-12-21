@@ -9,3 +9,5 @@
 - pkg:maven/org.mvnpm/jest-worker@30.0.1?classifier=sources
 - pkg:maven/org.mvnpm/jest-worker@30.0.2
 - pkg:maven/org.mvnpm/jest-worker@30.0.2?classifier=sources
+- pkg:maven/org.mvnpm/jest-worker@30.0.5
+- pkg:maven/org.mvnpm/jest-worker@30.0.5?classifier=sources

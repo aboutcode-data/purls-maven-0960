@@ -1,2 +1,4 @@
 - pkg:maven/org.jbpm/jbpm-with-drools-quarkus@10.0.0
 - pkg:maven/org.jbpm/jbpm-with-drools-quarkus@10.0.0?classifier=sources
+- pkg:maven/org.jbpm/jbpm-with-drools-quarkus@10.1.0
+- pkg:maven/org.jbpm/jbpm-with-drools-quarkus@10.1.0?classifier=sources

@@ -157,9 +157,15 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.62.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.62.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.66.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.67.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.7.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.7.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.8.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.8.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.9.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@11.9.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@12.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@12.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@12.2.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@12.2.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-sql@12.3.0?classifier=sources

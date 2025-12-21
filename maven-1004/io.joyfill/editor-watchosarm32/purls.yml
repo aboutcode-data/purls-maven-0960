@@ -3,6 +3,8 @@
 - pkg:maven/io.joyfill/editor-watchosarm32@1.1.12?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@1.1.13?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@1.1.14?classifier=sources
+- pkg:maven/io.joyfill/editor-watchosarm32@1.1.15?classifier=sources
+- pkg:maven/io.joyfill/editor-watchosarm32@1.1.16?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@1.1.8?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@1.1.9?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta01?classifier=sources
@@ -15,3 +17,6 @@
 - pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta09?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta10?classifier=sources
 - pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta11?classifier=sources
+- pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta12?classifier=sources
+- pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta13?classifier=sources
+- pkg:maven/io.joyfill/editor-watchosarm32@2.0.0-Beta14?classifier=sources

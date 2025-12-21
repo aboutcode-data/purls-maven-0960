@@ -9,6 +9,11 @@
 - pkg:maven/live.100ms/webrtc@m111-hms-1.8?classifier=sources
 - pkg:maven/live.100ms/webrtc@m111-hms-1.91?classifier=sources
 - pkg:maven/live.100ms/webrtc@m111-hms-1.92?classifier=sources
+- pkg:maven/live.100ms/webrtc@m111-hms-1.94.1?type=aar
+- pkg:maven/live.100ms/webrtc@m111-hms-1.94.2?type=aar
+- pkg:maven/live.100ms/webrtc@m111-hms-1.94.3?type=aar
+- pkg:maven/live.100ms/webrtc@m111-hms-1.94.4?type=aar
+- pkg:maven/live.100ms/webrtc@m111-hms-1.94.5?type=aar
 - pkg:maven/live.100ms/webrtc@m111-hms-1.9?classifier=sources
 - pkg:maven/live.100ms/webrtc@m97-hms-1.0?classifier=sources
 - pkg:maven/live.100ms/webrtc@m97-hms-1.1?classifier=sources

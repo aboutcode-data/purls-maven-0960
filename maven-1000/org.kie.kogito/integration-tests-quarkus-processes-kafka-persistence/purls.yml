@@ -96,5 +96,7 @@
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@1.9.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@10.0.0
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@10.0.0?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@10.1.0
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@10.1.0?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@2.44.0.Alpha
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-processes-kafka-persistence@2.44.0.Alpha?classifier=sources

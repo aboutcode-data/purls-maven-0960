@@ -16,3 +16,5 @@
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-RC8
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-RC8?classifier=sources
 - pkg:maven/jakarta.tck/signaturetest@11.0.0?classifier=sources
+- pkg:maven/jakarta.tck/signaturetest@11.1.0
+- pkg:maven/jakarta.tck/signaturetest@11.1.0?classifier=sources

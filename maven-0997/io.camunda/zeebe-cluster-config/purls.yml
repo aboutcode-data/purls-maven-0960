@@ -65,6 +65,9 @@
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.2
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.20?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.21?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.22?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.23?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.6.24?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.3
 - pkg:maven/io.camunda/zeebe-cluster-config@8.6.3?classifier=sources
@@ -133,6 +136,7 @@
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.1
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.1-rc1
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.1-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.7.10?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.2
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.2-rc1
@@ -153,6 +157,8 @@
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.6-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.6?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.7.7?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.7.8?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.7.9?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha1
 - pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha1-rc1?classifier=sources
@@ -181,3 +187,7 @@
 - pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha6-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha6-rc3?classifier=sources
 - pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha6?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha7-rc1
+- pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha7-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha7-rc2
+- pkg:maven/io.camunda/zeebe-cluster-config@8.8.0-alpha7-rc2?classifier=sources

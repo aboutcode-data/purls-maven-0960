@@ -1,5 +1,7 @@
 - pkg:maven/org.kie/efesto-dependencies@10.0.0
 - pkg:maven/org.kie/efesto-dependencies@10.0.0?classifier=sources
+- pkg:maven/org.kie/efesto-dependencies@10.1.0
+- pkg:maven/org.kie/efesto-dependencies@10.1.0?classifier=sources
 - pkg:maven/org.kie/efesto-dependencies@8.27.0.Beta
 - pkg:maven/org.kie/efesto-dependencies@8.28.0.Beta
 - pkg:maven/org.kie/efesto-dependencies@8.29.0.Final

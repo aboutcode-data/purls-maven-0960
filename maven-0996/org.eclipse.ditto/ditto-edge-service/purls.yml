@@ -111,3 +111,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-edge-service@3.7.6
 - pkg:maven/org.eclipse.ditto/ditto-edge-service@3.7.6?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-edge-service@3.8.0-M1?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-edge-service@3.8.0-M2?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-edge-service@3.8.0-M3?classifier=sources

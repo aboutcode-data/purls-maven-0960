@@ -11,3 +11,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-adapter-kafka@2.20.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-adapter-kafka@2.21.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-adapter-kafka@2.22.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-adapter-kafka@2.23.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-adapter-kafka@2.24.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-adapter-kafka@2.25.0?classifier=sources

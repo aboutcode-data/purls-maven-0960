@@ -1,5 +1,6 @@
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@0.111.112?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@0.111.113?classifier=sources
+- pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@0.111.114?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@2.30.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@2.31.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@2.31.1?classifier=sources
@@ -33,3 +34,4 @@
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@4.5.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@4.6.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@4.7.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.o11n.archetypes/package-xml-archetype@4.8.0?classifier=sources

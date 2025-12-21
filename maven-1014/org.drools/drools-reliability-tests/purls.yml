@@ -1,5 +1,7 @@
 - pkg:maven/org.drools/drools-reliability-tests@10.0.0
 - pkg:maven/org.drools/drools-reliability-tests@10.0.0?classifier=sources
+- pkg:maven/org.drools/drools-reliability-tests@10.1.0
+- pkg:maven/org.drools/drools-reliability-tests@10.1.0?classifier=sources
 - pkg:maven/org.drools/drools-reliability-tests@8.42.0.Final
 - pkg:maven/org.drools/drools-reliability-tests@8.43.0.Final
 - pkg:maven/org.drools/drools-reliability-tests@8.44.0.Final

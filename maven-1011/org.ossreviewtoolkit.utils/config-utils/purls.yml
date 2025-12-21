@@ -51,3 +51,10 @@
 - pkg:maven/org.ossreviewtoolkit.utils/config-utils@61.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/config-utils@62.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/config-utils@62.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@62.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@63.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@63.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@63.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@64.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@64.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/config-utils@65.0.0?classifier=sources

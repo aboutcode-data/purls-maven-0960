@@ -1,5 +1,7 @@
 - pkg:maven/org.drools/drools-base@10.0.0
 - pkg:maven/org.drools/drools-base@10.0.0?classifier=sources
+- pkg:maven/org.drools/drools-base@10.1.0
+- pkg:maven/org.drools/drools-base@10.1.0?classifier=sources
 - pkg:maven/org.drools/drools-base@8.40.0.Final
 - pkg:maven/org.drools/drools-base@8.40.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-base@8.40.1.Final

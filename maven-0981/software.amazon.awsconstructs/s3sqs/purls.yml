@@ -426,5 +426,17 @@
 - pkg:maven/software.amazon.awsconstructs/s3sqs@2.85.2?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3sqs@2.85.6
 - pkg:maven/software.amazon.awsconstructs/s3sqs@2.85.6?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.86.0
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.86.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.87.0
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.87.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.89.0
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.89.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3sqs@2.9.0
 - pkg:maven/software.amazon.awsconstructs/s3sqs@2.9.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.90.0
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.90.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.90.1
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.90.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.90.2
+- pkg:maven/software.amazon.awsconstructs/s3sqs@2.90.2?classifier=sources
