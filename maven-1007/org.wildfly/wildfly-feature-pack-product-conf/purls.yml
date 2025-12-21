@@ -18,3 +18,4 @@
 - pkg:maven/org.wildfly/wildfly-feature-pack-product-conf@36.0.0.Final
 - pkg:maven/org.wildfly/wildfly-feature-pack-product-conf@36.0.1.Final
 - pkg:maven/org.wildfly/wildfly-feature-pack-product-conf@37.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-feature-pack-product-conf@37.0.1.Final?classifier=sources

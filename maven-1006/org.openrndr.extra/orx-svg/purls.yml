@@ -1,4 +1,5 @@
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha10?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha11?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha3?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha4?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha5?classifier=sources
@@ -6,3 +7,4 @@
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha7?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha8?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-svg@0.4.5-alpha9?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-svg@0.4.5?classifier=sources

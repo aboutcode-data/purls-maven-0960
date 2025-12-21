@@ -30,3 +30,7 @@
 - pkg:maven/ee.fhir.fhirest/pg-search@1.4.0?classifier=sources
 - pkg:maven/ee.fhir.fhirest/pg-search@1.4.1
 - pkg:maven/ee.fhir.fhirest/pg-search@1.4.1?classifier=sources
+- pkg:maven/ee.fhir.fhirest/pg-search@1.5.0
+- pkg:maven/ee.fhir.fhirest/pg-search@1.5.0?classifier=sources
+- pkg:maven/ee.fhir.fhirest/pg-search@2.0.0
+- pkg:maven/ee.fhir.fhirest/pg-search@2.0.0?classifier=sources

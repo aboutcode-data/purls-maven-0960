@@ -1,3 +1,4 @@
 - pkg:maven/com.ensody.nativebuilds/openssl-libcrypto-linuxarm64@3.5.2-preview.1?classifier=sources
 - pkg:maven/com.ensody.nativebuilds/openssl-libcrypto-linuxarm64@3.5.2.0.1?classifier=sources
 - pkg:maven/com.ensody.nativebuilds/openssl-libcrypto-linuxarm64@3.5.2.1?classifier=sources
+- pkg:maven/com.ensody.nativebuilds/openssl-libcrypto-linuxarm64@3.5.3?classifier=sources

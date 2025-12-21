@@ -2,3 +2,4 @@
 - pkg:maven/io.opentelemetry.android.instrumentation/android-log-agent@0.12.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android.instrumentation/android-log-agent@0.13.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android.instrumentation/android-log-agent@0.14.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.android.instrumentation/android-log-agent@0.15.0-alpha?classifier=sources

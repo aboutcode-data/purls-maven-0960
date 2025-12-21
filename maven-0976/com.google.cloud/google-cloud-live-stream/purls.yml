@@ -148,6 +148,8 @@
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.74.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.75.0
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.75.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.76.0
+- pkg:maven/com.google.cloud/google-cloud-live-stream@0.76.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.8.0
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-live-stream@0.9.0

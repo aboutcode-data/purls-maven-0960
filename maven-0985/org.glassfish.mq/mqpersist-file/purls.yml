@@ -6,3 +6,5 @@
 - pkg:maven/org.glassfish.mq/mqpersist-file@6.5.1?classifier=sources
 - pkg:maven/org.glassfish.mq/mqpersist-file@6.6.0
 - pkg:maven/org.glassfish.mq/mqpersist-file@6.6.0?classifier=sources
+- pkg:maven/org.glassfish.mq/mqpersist-file@6.7.0
+- pkg:maven/org.glassfish.mq/mqpersist-file@6.7.0?classifier=sources

@@ -150,3 +150,7 @@
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.92.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.92.1
 - pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.92.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.92.2
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.92.2?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.93.0
+- pkg:maven/software.amazon.awsconstructs/lambdakinesisstreams@2.93.0?classifier=sources

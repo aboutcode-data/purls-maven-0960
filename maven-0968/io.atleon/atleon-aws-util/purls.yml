@@ -126,6 +126,7 @@
 - pkg:maven/io.atleon/atleon-aws-util@0.33.2?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-util@0.33.3?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-util@0.33.4?classifier=sources
+- pkg:maven/io.atleon/atleon-aws-util@0.34.0?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-util@0.7.0
 - pkg:maven/io.atleon/atleon-aws-util@0.7.0?classifier=sources
 - pkg:maven/io.atleon/atleon-aws-util@0.7.1

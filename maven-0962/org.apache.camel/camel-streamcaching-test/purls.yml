@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.camel/camel-streamcaching-test@4.13.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-streamcaching-test@4.14.0
 - pkg:maven/org.apache.camel/camel-streamcaching-test@4.14.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-streamcaching-test@4.8.9
+- pkg:maven/org.apache.camel/camel-streamcaching-test@4.8.9?classifier=sources

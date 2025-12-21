@@ -105,3 +105,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit4@3.5.4
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit4@3.5.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit4@3.5.4?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit4@4.0.0
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit4@4.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.testing.sling-mock.junit4@4.0.0?classifier=sources

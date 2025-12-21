@@ -223,3 +223,6 @@
 - pkg:maven/io.avaje/avaje-http-client@3.4-RC4?classifier=sources
 - pkg:maven/io.avaje/avaje-http-client@3.4?classifier=sources
 - pkg:maven/io.avaje/avaje-http-client@3.5-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client@3.5-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client@3.5-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-http-client@3.5-RC4?classifier=sources

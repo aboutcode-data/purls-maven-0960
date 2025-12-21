@@ -46,6 +46,10 @@
 - pkg:maven/com.gu.etag-caching/core_2.12@1.0.9?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@10.0.0
 - pkg:maven/com.gu.etag-caching/core_2.12@10.0.0?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@10.0.1-PREVIEW.tweak-release-yml-to-be-slightly-more-concise.2025-09-05T0954.4c118114
+- pkg:maven/com.gu.etag-caching/core_2.12@10.0.1-PREVIEW.tweak-release-yml-to-be-slightly-more-concise.2025-09-05T0954.4c118114?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@11.0.0-PREVIEW.support-fetching-then-parsing-with-key.2025-09-03T1555.0c1dbdea
+- pkg:maven/com.gu.etag-caching/core_2.12@11.0.0-PREVIEW.support-fetching-then-parsing-with-key.2025-09-03T1555.0c1dbdea?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@2.0.0
 - pkg:maven/com.gu.etag-caching/core_2.12@2.0.0?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@2.0.1

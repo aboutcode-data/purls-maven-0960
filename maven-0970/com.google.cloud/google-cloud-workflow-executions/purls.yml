@@ -194,6 +194,8 @@
 - pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.72.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.73.0
 - pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.73.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.74.0
+- pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.74.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.8.0
 - pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workflow-executions@2.9.0

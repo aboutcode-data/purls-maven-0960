@@ -7,5 +7,9 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.202.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.203.0
 - pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.203.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.204.0
+- pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.204.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.205.0
+- pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.205.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.54.2?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/otlp-transformer@0.57.2?classifier=sources

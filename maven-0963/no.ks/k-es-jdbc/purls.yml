@@ -52,3 +52,6 @@
 - pkg:maven/no.ks/k-es-jdbc@4.4.5?classifier=sources
 - pkg:maven/no.ks/k-es-jdbc@4.5.0
 - pkg:maven/no.ks/k-es-jdbc@4.5.0?classifier=sources
+- pkg:maven/no.ks/k-es-jdbc@4.6.0?classifier=sources
+- pkg:maven/no.ks/k-es-jdbc@4.6.1?classifier=sources
+- pkg:maven/no.ks/k-es-jdbc@4.6.2?classifier=sources

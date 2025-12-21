@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-36@3.9.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-36@3.9.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-36@4.0.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-36@4.1.0?classifier=sources

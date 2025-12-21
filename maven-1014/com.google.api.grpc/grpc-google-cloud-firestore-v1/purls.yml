@@ -371,6 +371,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.32.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.32.2
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.32.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.33.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.33.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-firestore-v1@3.4.1

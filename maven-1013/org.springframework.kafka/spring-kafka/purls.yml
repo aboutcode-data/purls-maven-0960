@@ -373,6 +373,7 @@
 - pkg:maven/org.springframework.kafka/spring-kafka@3.2.8?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@3.2.9?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@3.3.0?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka@3.3.10?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@3.3.1?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@3.3.2?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@3.3.3?classifier=sources
@@ -386,3 +387,4 @@
 - pkg:maven/org.springframework.kafka/spring-kafka@4.0.0-M2?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@4.0.0-M3?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka@4.0.0-M4?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka@4.0.0-M5?classifier=sources

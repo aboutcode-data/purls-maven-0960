@@ -10,3 +10,5 @@
 - pkg:maven/com.itextpdf.android/pdfa-android@9.0.0?classifier=sources
 - pkg:maven/com.itextpdf.android/pdfa-android@9.1.0?classifier=sources
 - pkg:maven/com.itextpdf.android/pdfa-android@9.2.0?classifier=sources
+- pkg:maven/com.itextpdf.android/pdfa-android@9.3.0
+- pkg:maven/com.itextpdf.android/pdfa-android@9.3.0?classifier=sources

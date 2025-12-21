@@ -1,4 +1,9 @@
+- pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@12.12.12?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@12.12.13?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@12.12.14?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@3.5.7?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@3.6.2?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@9.9.10?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@9.9.11?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@9.9.12?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/kinesisvideosignaling@9.9.9?classifier=sources

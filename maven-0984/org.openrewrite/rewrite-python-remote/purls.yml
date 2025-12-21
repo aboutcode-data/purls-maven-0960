@@ -59,3 +59,4 @@
 - pkg:maven/org.openrewrite/rewrite-python-remote@1.39.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-python-remote@1.40.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-python-remote@1.41.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-python-remote@1.42.0?classifier=sources

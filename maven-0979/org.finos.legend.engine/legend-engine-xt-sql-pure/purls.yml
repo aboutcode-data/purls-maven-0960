@@ -22,6 +22,9 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.1.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.10.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.10.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.100.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.101.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.101.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.11.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.11.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.11.1
@@ -503,4 +506,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.96.5?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.97.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.97.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.97.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.98.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@4.99.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-pure@release-4.96.3?classifier=sources

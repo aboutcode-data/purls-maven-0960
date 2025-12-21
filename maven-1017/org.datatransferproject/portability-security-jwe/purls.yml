@@ -62,3 +62,7 @@
 - pkg:maven/org.datatransferproject/portability-security-jwe@1.1.3?classifier=sources
 - pkg:maven/org.datatransferproject/portability-security-jwe@1.1.9
 - pkg:maven/org.datatransferproject/portability-security-jwe@1.1.9?classifier=sources
+- pkg:maven/org.datatransferproject/portability-security-jwe@1.5.0
+- pkg:maven/org.datatransferproject/portability-security-jwe@1.5.0?classifier=sources
+- pkg:maven/org.datatransferproject/portability-security-jwe@1.7.0
+- pkg:maven/org.datatransferproject/portability-security-jwe@1.7.0?classifier=sources

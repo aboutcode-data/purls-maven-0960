@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.tika/tika-pipes-iterator-jdbc@3.2.1?classifier=sources
 - pkg:maven/org.apache.tika/tika-pipes-iterator-jdbc@3.2.2
 - pkg:maven/org.apache.tika/tika-pipes-iterator-jdbc@3.2.2?classifier=sources
+- pkg:maven/org.apache.tika/tika-pipes-iterator-jdbc@3.2.3
+- pkg:maven/org.apache.tika/tika-pipes-iterator-jdbc@3.2.3?classifier=sources

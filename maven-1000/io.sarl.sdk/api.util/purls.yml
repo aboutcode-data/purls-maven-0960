@@ -1,2 +1,6 @@
 - pkg:maven/io.sarl.sdk/api.util@0.13.0?classifier=sources
 - pkg:maven/io.sarl.sdk/api.util@0.14.0?classifier=sources
+- pkg:maven/io.sarl.sdk/api.util@0.15.0
+- pkg:maven/io.sarl.sdk/api.util@0.15.0?classifier=sources
+- pkg:maven/io.sarl.sdk/api.util@0.15.1
+- pkg:maven/io.sarl.sdk/api.util@0.15.1?classifier=sources

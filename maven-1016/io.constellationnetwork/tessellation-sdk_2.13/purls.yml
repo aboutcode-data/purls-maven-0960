@@ -52,6 +52,8 @@
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.10?classifier=sources
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.11
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.11?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.12
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.12?classifier=sources
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.1?classifier=sources
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.2
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.0-rc.2?classifier=sources
@@ -74,3 +76,15 @@
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.1?classifier=sources
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.2
 - pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.2?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.4
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.4?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.5
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.5?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.6
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.6?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.7
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.7?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.8
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.8?classifier=sources
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.9
+- pkg:maven/io.constellationnetwork/tessellation-sdk_2.13@3.4.9?classifier=sources

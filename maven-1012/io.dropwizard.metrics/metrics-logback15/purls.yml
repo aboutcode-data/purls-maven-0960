@@ -13,3 +13,6 @@
 - pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.33
 - pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.33?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.34?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.35?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.36?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.37?classifier=sources

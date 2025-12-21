@@ -4,7 +4,11 @@
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.4.1-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.5.1-core.0.2
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.5.1-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-mailgun_3@3.5.11-core.0.5
+- pkg:maven/org.virtuslab/besom-mailgun_3@3.5.11-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.5.2-core.0.3
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.5.2-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-mailgun_3@3.5.2-core.0.5
+- pkg:maven/org.virtuslab/besom-mailgun_3@3.5.2-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.5.8-core.0.4
 - pkg:maven/org.virtuslab/besom-mailgun_3@3.5.8-core.0.4?classifier=sources

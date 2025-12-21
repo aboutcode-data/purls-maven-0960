@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/get-size@2.0.3
+- pkg:maven/org.mvnpm/get-size@2.0.3?classifier=sources
+- pkg:maven/org.mvnpm/get-size@3.0.0
+- pkg:maven/org.mvnpm/get-size@3.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.meta.spatial/meta-spatial-sdk-isdk@0.7.1?type=aar
 - pkg:maven/com.meta.spatial/meta-spatial-sdk-isdk@0.7.2?classifier=sources
 - pkg:maven/com.meta.spatial/meta-spatial-sdk-isdk@0.7.2?type=aar
+- pkg:maven/com.meta.spatial/meta-spatial-sdk-isdk@0.8.0?classifier=sources
+- pkg:maven/com.meta.spatial/meta-spatial-sdk-isdk@0.8.0?type=aar

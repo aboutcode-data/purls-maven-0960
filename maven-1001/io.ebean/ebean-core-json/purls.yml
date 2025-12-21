@@ -1,5 +1,11 @@
 - pkg:maven/io.ebean/ebean-core-json@16.0.0-RC4?classifier=sources
 - pkg:maven/io.ebean/ebean-core-json@16.0.0-javax?classifier=sources
 - pkg:maven/io.ebean/ebean-core-json@16.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core-json@16.0.1-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-core-json@16.0.1?classifier=sources
+- pkg:maven/io.ebean/ebean-core-json@16.1.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-core-json@16.1.0?classifier=sources
 - pkg:maven/io.ebean/ebean-core-json@17.0.0-RC4?classifier=sources
 - pkg:maven/io.ebean/ebean-core-json@17.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core-json@17.0.1?classifier=sources
+- pkg:maven/io.ebean/ebean-core-json@17.1.0?classifier=sources

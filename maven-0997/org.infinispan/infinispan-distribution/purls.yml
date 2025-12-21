@@ -4,10 +4,14 @@
 - pkg:maven/org.infinispan/infinispan-distribution@15.0.17.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@15.0.18.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@15.0.19.Final?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@15.0.20.Final?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@15.0.21.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@15.2.2.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@15.2.3.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@15.2.4.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@15.2.5.Final?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@15.2.6.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@16.0.0.Dev01?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@16.0.0.Dev02?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@16.0.0.Dev03?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@16.0.0.Dev04?classifier=src&type=zip

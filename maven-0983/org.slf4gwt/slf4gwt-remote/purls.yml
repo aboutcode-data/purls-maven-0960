@@ -1,2 +1,3 @@
 - pkg:maven/org.slf4gwt/slf4gwt-remote@1.4
 - pkg:maven/org.slf4gwt/slf4gwt-remote@1.4?classifier=sources
+- pkg:maven/org.slf4gwt/slf4gwt-remote@2.0?classifier=sources

@@ -3,8 +3,10 @@
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@6.5.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@6.6.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@6.6.1?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@6.7.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@7.0.0
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@7.0.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@7.1.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@7.2.0?classifier=sources
 - pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@7.2.1?classifier=sources
+- pkg:maven/xyz.elemental.fork.org.exist-db/exist-jetty-config@7.3.0?classifier=sources

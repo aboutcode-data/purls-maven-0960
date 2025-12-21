@@ -52,6 +52,7 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.0-alpha-8?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.11?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver@2.0.3?classifier=source-release&type=zip

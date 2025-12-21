@@ -34,3 +34,5 @@
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev09?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev10?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev11?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev12?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev13?classifier=sources

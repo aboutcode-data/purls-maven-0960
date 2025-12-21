@@ -17,3 +17,5 @@
 - pkg:maven/io.opentelemetry/opentelemetry-api-incubator@1.51.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-api-incubator@1.52.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-api-incubator@1.53.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-incubator@1.54.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-incubator@1.54.1-alpha?classifier=sources

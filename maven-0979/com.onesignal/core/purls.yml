@@ -1,5 +1,8 @@
+- pkg:maven/com.onesignal/core@2.2.2?classifier=sources
+- pkg:maven/com.onesignal/core@4.1.37-beta-testx?classifier=sources
 - pkg:maven/com.onesignal/core@5.1.35?classifier=sources
 - pkg:maven/com.onesignal/core@5.1.36?classifier=sources
+- pkg:maven/com.onesignal/core@5.1.37?classifier=sources
 - pkg:maven/com.onesignal/core@5.2.0-beta-05?classifier=sources
 - pkg:maven/com.onesignal/core@5.2.0-beta-06?classifier=sources
 - pkg:maven/com.onesignal/core@5.3.0-alpha-01?classifier=sources

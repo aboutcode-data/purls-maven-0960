@@ -24,3 +24,4 @@
 - pkg:maven/io.quarkiverse.azureservices/quarkus-azure-core-util@1.1.7?classifier=sources
 - pkg:maven/io.quarkiverse.azureservices/quarkus-azure-core-util@1.1.8?classifier=sources
 - pkg:maven/io.quarkiverse.azureservices/quarkus-azure-core-util@1.1.9?classifier=sources
+- pkg:maven/io.quarkiverse.azureservices/quarkus-azure-core-util@1.2.0?classifier=sources

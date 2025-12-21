@@ -68,4 +68,6 @@
 - pkg:maven/de.larsgrefer.sass/sass-embedded-host@4.0.2?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-host@4.1.0?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-host@4.2.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-host@4.3.0-rc4?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-host@4.3.0?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-host@unspecified?classifier=sources

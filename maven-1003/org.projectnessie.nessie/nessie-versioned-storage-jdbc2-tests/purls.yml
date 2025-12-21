@@ -27,6 +27,8 @@
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.104.5?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.104.7?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.104.9?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.105.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.105.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.96.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.96.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-versioned-storage-jdbc2-tests@0.97.0?classifier=sources

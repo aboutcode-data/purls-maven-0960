@@ -115,6 +115,8 @@
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.15.0-support-emr-7.0.0?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.15.1-support-emr-7.0.0
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.15.1-support-emr-7.0.0?classifier=sources
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.16.0?classifier=sources
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.17.0?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.2.0
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.2.0?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.2.1

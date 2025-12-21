@@ -153,6 +153,8 @@
 - pkg:maven/com.microsoft.playwright/driver@1.53.0?classifier=sources
 - pkg:maven/com.microsoft.playwright/driver@1.54.0
 - pkg:maven/com.microsoft.playwright/driver@1.54.0?classifier=sources
+- pkg:maven/com.microsoft.playwright/driver@1.55.0
+- pkg:maven/com.microsoft.playwright/driver@1.55.0?classifier=sources
 - pkg:maven/com.microsoft.playwright/driver@1.9.0-alpha-0
 - pkg:maven/com.microsoft.playwright/driver@1.9.0-alpha-0?classifier=sources
 - pkg:maven/com.microsoft.playwright/driver@1.9.1-alpha-0

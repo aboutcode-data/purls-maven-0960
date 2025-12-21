@@ -23,3 +23,6 @@
 - pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-macosx64@0.6.0-shaded-core?classifier=sources
 - pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-macosx64@0.6.0-shaded?classifier=sources
 - pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-macosx64@0.6.0?classifier=sources
+- pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-macosx64@0.6.1-shaded-core?classifier=sources
+- pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-macosx64@0.6.1-shaded?classifier=sources
+- pkg:maven/tech.annexflow.compose/constraintlayout-compose-multiplatform-macosx64@0.6.1?classifier=sources

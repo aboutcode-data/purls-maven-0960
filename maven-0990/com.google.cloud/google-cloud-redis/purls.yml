@@ -352,6 +352,8 @@
 - pkg:maven/com.google.cloud/google-cloud-redis@2.75.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-redis@2.76.0
 - pkg:maven/com.google.cloud/google-cloud-redis@2.76.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-redis@2.77.0
+- pkg:maven/com.google.cloud/google-cloud-redis@2.77.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-redis@2.8.0
 - pkg:maven/com.google.cloud/google-cloud-redis@2.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-redis@2.9.0

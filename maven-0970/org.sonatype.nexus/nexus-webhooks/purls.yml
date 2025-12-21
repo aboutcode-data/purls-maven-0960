@@ -297,5 +297,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.82.1-08?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.83.0-08?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.83.1-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.83.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-webhooks@3.84.0-03?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.9.0-01
 - pkg:maven/org.sonatype.nexus/nexus-webhooks@3.9.0-01?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-spring@3.82.1-08?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-spring@3.83.0-08?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-spring@3.83.1-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-spring@3.83.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-spring@3.84.0-03?classifier=sources

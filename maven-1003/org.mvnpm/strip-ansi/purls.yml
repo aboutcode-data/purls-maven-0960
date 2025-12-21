@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm/strip-ansi@7.0.0?classifier=sources
 - pkg:maven/org.mvnpm/strip-ansi@7.0.1?classifier=sources
 - pkg:maven/org.mvnpm/strip-ansi@7.1.0?classifier=sources
+- pkg:maven/org.mvnpm/strip-ansi@7.1.2
+- pkg:maven/org.mvnpm/strip-ansi@7.1.2?classifier=sources

@@ -1,2 +1,7 @@
+- pkg:maven/com.sonatype.central.testing.amazon/v2-migration@12.12.12-PREVIEW?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/v2-migration@12.12.13-PREVIEW?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/v2-migration@12.12.14-PREVIEW?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/v2-migration@9.9.10-PREVIEW?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/v2-migration@9.9.11-PREVIEW?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/v2-migration@9.9.12-PREVIEW?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/v2-migration@9.9.9-PREVIEW?classifier=sources

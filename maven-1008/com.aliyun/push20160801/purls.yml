@@ -18,6 +18,7 @@
 - pkg:maven/com.aliyun/push20160801@1.0.17
 - pkg:maven/com.aliyun/push20160801@1.0.17?classifier=sources
 - pkg:maven/com.aliyun/push20160801@1.0.18?classifier=sources
+- pkg:maven/com.aliyun/push20160801@1.0.19?classifier=sources
 - pkg:maven/com.aliyun/push20160801@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/push20160801@1.0.2
 - pkg:maven/com.aliyun/push20160801@1.0.2?classifier=sources
@@ -35,3 +36,5 @@
 - pkg:maven/com.aliyun/push20160801@1.0.8?classifier=sources
 - pkg:maven/com.aliyun/push20160801@1.0.9
 - pkg:maven/com.aliyun/push20160801@1.0.9?classifier=sources
+- pkg:maven/com.aliyun/push20160801@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/push20160801@2.0.1?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.0.3-M5?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.0.3?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.1.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-router-llm@0.10.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.3.0-M1?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.3.0?classifier=sources
@@ -14,3 +15,5 @@
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.4.0-M6?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.4.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/lmos-router-llm@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-router-llm@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-router-llm@0.9.0?classifier=sources

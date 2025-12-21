@@ -4,3 +4,5 @@
 - pkg:maven/com.scaleoutsoftware.client.cloud/gcp@2.0.11?classifier=sources
 - pkg:maven/com.scaleoutsoftware.client.cloud/gcp@2.0.9
 - pkg:maven/com.scaleoutsoftware.client.cloud/gcp@2.0.9?classifier=sources
+- pkg:maven/com.scaleoutsoftware.client.cloud/gcp@3.0.0
+- pkg:maven/com.scaleoutsoftware.client.cloud/gcp@3.0.0?classifier=sources

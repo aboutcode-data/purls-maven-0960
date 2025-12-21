@@ -57,3 +57,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-base-remote-engine@1.29.1?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-base-remote-engine@1.29?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-base-remote-engine@1.30?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-base-remote-engine@2.0?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-base-remote-engine@2.1?classifier=sources

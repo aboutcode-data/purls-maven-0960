@@ -12,6 +12,9 @@
 - pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.0-beta-7?classifier=sources
 - pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.1
 - pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.10?classifier=sources
+- pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.11?classifier=sources
+- pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.12?classifier=sources
+- pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.13?classifier=sources
 - pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.1?classifier=sources
 - pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.2
 - pkg:maven/io.jenkins.tools.incrementals/git-changelist-maven-extension@1.2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.ibm.cloud/watsonx-data-common@0.2.0?classifier=sources
 - pkg:maven/com.ibm.cloud/watsonx-data-common@0.3.0
 - pkg:maven/com.ibm.cloud/watsonx-data-common@0.3.0?classifier=sources
+- pkg:maven/com.ibm.cloud/watsonx-data-common@0.7.0
+- pkg:maven/com.ibm.cloud/watsonx-data-common@0.7.0?classifier=sources

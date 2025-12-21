@@ -88,6 +88,8 @@
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@15.0.0-PREVIEW.kcrtno-secret.2025-04-10T1320.e3391ad4
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@15.0.0-PREVIEW.kcrtno-secret.2025-04-10T1320.e3391ad4?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@15.0.0?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@15.1.0
+- pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@15.1.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@2.0.0
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@2.0.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/secret-generator_2.13@3.0.0

@@ -418,6 +418,7 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.6.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@23.6.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@23.6.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.0.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.0.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.0.10
@@ -539,6 +540,8 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.11?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.12?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.13?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.3
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.4
@@ -553,6 +556,13 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.9.0-beta1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.9.0-beta2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.9.0-beta3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.9.0-rc1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.9.0-rc2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.9.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0.beta1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0.beta10
@@ -788,6 +798,8 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.2

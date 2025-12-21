@@ -168,6 +168,8 @@
 - pkg:maven/com.google.cloud/google-iam-policy@1.70.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-policy@1.71.0
 - pkg:maven/com.google.cloud/google-iam-policy@1.71.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-policy@1.72.0
+- pkg:maven/com.google.cloud/google-iam-policy@1.72.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-policy@1.8.0
 - pkg:maven/com.google.cloud/google-iam-policy@1.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-policy@1.9.0

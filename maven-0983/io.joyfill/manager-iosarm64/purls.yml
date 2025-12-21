@@ -5,6 +5,7 @@
 - pkg:maven/io.joyfill/manager-iosarm64@1.1.14?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@1.1.15?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@1.1.16?classifier=sources
+- pkg:maven/io.joyfill/manager-iosarm64@1.1.17?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@1.1.8?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@1.1.9?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@2.0.0-Beta01?classifier=sources
@@ -25,3 +26,6 @@
 - pkg:maven/io.joyfill/manager-iosarm64@2.0.0-Beta17?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@2.0.0-Beta18?classifier=sources
 - pkg:maven/io.joyfill/manager-iosarm64@2.0.0-Beta19?classifier=sources
+- pkg:maven/io.joyfill/manager-iosarm64@2.0.0-Beta20?classifier=sources
+- pkg:maven/io.joyfill/manager-iosarm64@2.0.0-Beta21?classifier=sources
+- pkg:maven/io.joyfill/manager-iosarm64@2.0.0-RC1?classifier=sources

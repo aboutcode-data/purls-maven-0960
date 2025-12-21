@@ -1,3 +1,6 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.100.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.101.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.101.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.49.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.49.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.49.1
@@ -225,4 +228,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.96.5?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.97.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.97.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.97.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.98.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@4.99.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-compiler@release-4.96.3?classifier=sources

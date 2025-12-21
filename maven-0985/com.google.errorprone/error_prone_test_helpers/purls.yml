@@ -120,6 +120,7 @@
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.4.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.40.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.41.0?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_test_helpers@2.42.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.5.0
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.5.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_test_helpers@2.5.1

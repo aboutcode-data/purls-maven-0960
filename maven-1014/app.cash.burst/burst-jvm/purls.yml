@@ -13,3 +13,7 @@
 - pkg:maven/app.cash.burst/burst-jvm@2.5.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-jvm@2.6.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-jvm@2.7.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-jvm@2.7.1?classifier=sources
+- pkg:maven/app.cash.burst/burst-jvm@2.8.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-jvm@2.8.1?classifier=sources
+- pkg:maven/app.cash.burst/burst-jvm@2.9.0?classifier=sources

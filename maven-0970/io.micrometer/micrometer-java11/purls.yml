@@ -16,6 +16,7 @@
 - pkg:maven/io.micrometer/micrometer-java11@1.13.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.14.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.14.10?classifier=sources
+- pkg:maven/io.micrometer/micrometer-java11@1.14.11?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.14.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.14.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.14.3?classifier=sources
@@ -32,5 +33,7 @@
 - pkg:maven/io.micrometer/micrometer-java11@1.15.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.15.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.15.3?classifier=sources
+- pkg:maven/io.micrometer/micrometer-java11@1.15.4?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.16.0-M1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-java11@1.16.0-M2?classifier=sources
+- pkg:maven/io.micrometer/micrometer-java11@1.16.0-M3?classifier=sources

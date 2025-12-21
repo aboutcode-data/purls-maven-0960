@@ -1,1 +1,3 @@
 - pkg:maven/io.arkitik.travako/travako-core-entity-exposed-job@v2.4.0-BETA?classifier=sources
+- pkg:maven/io.arkitik.travako/travako-core-entity-exposed-job@v2.4.0?classifier=sources
+- pkg:maven/io.arkitik.travako/travako-core-entity-exposed-job@v2.4.1?classifier=sources
