@@ -290,6 +290,8 @@
 - pkg:maven/org.neo4j/annotations@5.26.3?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.26.4
 - pkg:maven/org.neo4j/annotations@5.26.4?classifier=sources
+- pkg:maven/org.neo4j/annotations@5.26.5
+- pkg:maven/org.neo4j/annotations@5.26.5?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.3.0
 - pkg:maven/org.neo4j/annotations@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/annotations@5.4.0

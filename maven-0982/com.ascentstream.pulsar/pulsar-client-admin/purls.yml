@@ -9,6 +9,10 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.1-SNAPSHOT-4670905?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.1-SNAPSHOT-8da4484
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.1-SNAPSHOT-8da4484?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.10
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.10?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.11
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.11?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.1?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.2-SNAPSHOT-86382c9
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.2-SNAPSHOT-86382c9?classifier=sources
@@ -24,6 +28,8 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@2.10.7.9?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.10.0
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.10.0?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.11.0
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.11.0?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.7.0-SNAPSHOT-a030c50
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.7.0-SNAPSHOT-a030c50?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-admin@3.0.8.0-SNAPSHOT-16a7bcc

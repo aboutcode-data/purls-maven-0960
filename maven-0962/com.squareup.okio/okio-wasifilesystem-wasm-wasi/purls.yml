@@ -1,6 +1,7 @@
 - pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.10.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.10.1?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.10.2?classifier=sources
+- pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.11.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.7.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.8.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasifilesystem-wasm-wasi@3.9.0?classifier=sources

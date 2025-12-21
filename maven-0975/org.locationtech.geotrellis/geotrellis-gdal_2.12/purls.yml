@@ -28,3 +28,5 @@
 - pkg:maven/org.locationtech.geotrellis/geotrellis-gdal_2.12@3.7.0?classifier=sources
 - pkg:maven/org.locationtech.geotrellis/geotrellis-gdal_2.12@3.7.1
 - pkg:maven/org.locationtech.geotrellis/geotrellis-gdal_2.12@3.7.1?classifier=sources
+- pkg:maven/org.locationtech.geotrellis/geotrellis-gdal_2.12@3.8.0
+- pkg:maven/org.locationtech.geotrellis/geotrellis-gdal_2.12@3.8.0?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.powsybl/powsybl-afs-ws-client@6.3.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-ws-client@6.4.0
 - pkg:maven/com.powsybl/powsybl-afs-ws-client@6.4.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-ws-client@6.5.0
+- pkg:maven/com.powsybl/powsybl-afs-ws-client@6.5.0?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-http-junit5@4.1.7?classifier=sources
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-http-junit5@4.2.0
 - pkg:maven/io.helidon.common.testing/helidon-common-testing-http-junit5@4.2.0?classifier=sources
+- pkg:maven/io.helidon.common.testing/helidon-common-testing-http-junit5@4.2.1
+- pkg:maven/io.helidon.common.testing/helidon-common-testing-http-junit5@4.2.1?classifier=sources

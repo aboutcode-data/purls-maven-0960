@@ -366,6 +366,8 @@
 - pkg:maven/org.apache.camel/camel-vertx@4.10.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-vertx@4.10.3
 - pkg:maven/org.apache.camel/camel-vertx@4.10.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-vertx@4.11.0
+- pkg:maven/org.apache.camel/camel-vertx@4.11.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-vertx@4.2.0
 - pkg:maven/org.apache.camel/camel-vertx@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-vertx@4.3.0

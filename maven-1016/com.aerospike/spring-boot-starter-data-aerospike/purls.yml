@@ -11,6 +11,7 @@
 - pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.17.0?classifier=sources
 - pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.17.1
 - pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.17.1?classifier=sources
+- pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.18.0?classifier=sources
 - pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.5.0
 - pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.6.0
 - pkg:maven/com.aerospike/spring-boot-starter-data-aerospike@0.7.0

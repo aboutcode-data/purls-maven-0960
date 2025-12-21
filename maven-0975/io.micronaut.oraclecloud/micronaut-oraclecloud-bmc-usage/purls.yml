@@ -39,6 +39,8 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.2.1?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.10?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.11?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.1?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.2?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.3?classifier=sources
@@ -49,3 +51,4 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.8?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@4.3.9?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@5.0.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-usage@5.0.1?classifier=sources

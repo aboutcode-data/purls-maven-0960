@@ -30,3 +30,5 @@
 - pkg:maven/org.neo4j/cypher-v5-antlr-parser@5.26.3?classifier=sources
 - pkg:maven/org.neo4j/cypher-v5-antlr-parser@5.26.4
 - pkg:maven/org.neo4j/cypher-v5-antlr-parser@5.26.4?classifier=sources
+- pkg:maven/org.neo4j/cypher-v5-antlr-parser@5.26.5
+- pkg:maven/org.neo4j/cypher-v5-antlr-parser@5.26.5?classifier=sources

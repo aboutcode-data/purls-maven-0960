@@ -48,3 +48,5 @@
 - pkg:maven/org.scalawag.bateman/bateman-json_2.12@0.3.3?classifier=sources
 - pkg:maven/org.scalawag.bateman/bateman-json_2.12@0.3.4
 - pkg:maven/org.scalawag.bateman/bateman-json_2.12@0.3.4?classifier=sources
+- pkg:maven/org.scalawag.bateman/bateman-json_2.12@0.4.0
+- pkg:maven/org.scalawag.bateman/bateman-json_2.12@0.4.0?classifier=sources

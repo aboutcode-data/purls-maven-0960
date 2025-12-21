@@ -240,6 +240,12 @@
 - pkg:maven/org.l2x6.cq/cq-common@4.17.1?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-common@4.17.2
 - pkg:maven/org.l2x6.cq/cq-common@4.17.2?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-common@4.17.3
+- pkg:maven/org.l2x6.cq/cq-common@4.17.3?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-common@4.17.4
+- pkg:maven/org.l2x6.cq/cq-common@4.17.4?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-common@4.17.5
+- pkg:maven/org.l2x6.cq/cq-common@4.17.5?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-common@4.2.0
 - pkg:maven/org.l2x6.cq/cq-common@4.2.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-common@4.3.0

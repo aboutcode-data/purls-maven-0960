@@ -77,6 +77,9 @@
 - pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.14.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.14.2?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.14.3?classifier=sources
+- pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.14.4?classifier=sources
+- pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.15.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.15.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.2.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.2.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-applicationservice-jvm@4.2.2?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc23?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc24
 - pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc24?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc25
+- pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc25?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc2?classifier=sources
 - pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc3
 - pkg:maven/io.dropwizard.metrics5/metrics-json@5.0.0-rc3?classifier=sources

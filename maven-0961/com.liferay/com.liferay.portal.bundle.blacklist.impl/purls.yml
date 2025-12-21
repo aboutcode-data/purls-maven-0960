@@ -47,6 +47,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.23
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@1.0.3
@@ -122,6 +123,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.24
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@2.0.3
@@ -194,6 +196,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.23
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.bundle.blacklist.impl@3.0.3

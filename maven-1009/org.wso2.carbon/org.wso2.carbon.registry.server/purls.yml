@@ -18,6 +18,8 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.10.32?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.10.39
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.10.39?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.10.44
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.10.44?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.4.19
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.4.20
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.registry.server@4.4.21

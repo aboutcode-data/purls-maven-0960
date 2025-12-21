@@ -30,6 +30,8 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.0.0-2022.0.5?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.0.0-Hoxton.SR12
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.0.0-Hoxton.SR12?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.0.1-Hoxton.SR12
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.0.1-Hoxton.SR12?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.1.0-2021.0.9-RC1
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.1.0-2021.0.9-RC1?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-tencent-lossless-plugin@2.0.1.0-2021.0.9-RC2

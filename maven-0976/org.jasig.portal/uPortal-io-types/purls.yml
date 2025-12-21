@@ -80,6 +80,8 @@
 - pkg:maven/org.jasig.portal/uPortal-io-types@5.16.1?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-io-types@5.17.0
 - pkg:maven/org.jasig.portal/uPortal-io-types@5.17.0?classifier=sources
+- pkg:maven/org.jasig.portal/uPortal-io-types@5.17.1
+- pkg:maven/org.jasig.portal/uPortal-io-types@5.17.1?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-io-types@5.2.0
 - pkg:maven/org.jasig.portal/uPortal-io-types@5.2.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-io-types@5.2.1

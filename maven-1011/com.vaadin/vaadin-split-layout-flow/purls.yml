@@ -82,6 +82,8 @@
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@14.12.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@14.12.6
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@14.12.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@14.12.7
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@14.12.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@14.5.1
@@ -798,8 +800,14 @@
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@24.6.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@24.6.7
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@24.6.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@24.6.8
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@24.6.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@24.7.0
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@24.7.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@24.7.1
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@24.7.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@24.7.2
+- pkg:maven/com.vaadin/vaadin-split-layout-flow@24.7.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@3.0.0
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-split-layout-flow@3.1.0

@@ -14,10 +14,18 @@
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.0.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.1.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.1.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.10.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.10.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.11.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.11.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.2.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.2.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.3.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.3.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.33.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.33.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.34.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.34.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.5.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.5.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.6.0
@@ -26,3 +34,5 @@
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.7.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.8.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.8.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.9.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-template-phoebe-starter@2.9.0?classifier=sources

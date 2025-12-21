@@ -128,6 +128,16 @@
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.1
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.2
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.3
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.4
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.21.4?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.22.0
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.22.0.CR1
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.22.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.22.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0.CR1?classifier=sources

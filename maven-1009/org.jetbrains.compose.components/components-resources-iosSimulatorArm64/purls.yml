@@ -47,3 +47,5 @@
 - pkg:maven/org.jetbrains.compose.components/components-resources-iosSimulatorArm64@1.8.0-alpha03?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/components-resources-iosSimulatorArm64@1.8.0-alpha04?classifier=sources
 - pkg:maven/org.jetbrains.compose.components/components-resources-iosSimulatorArm64@1.8.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.compose.components/components-resources-iosSimulatorArm64@1.8.0-beta02?classifier=sources
+- pkg:maven/org.jetbrains.compose.components/components-resources-iosSimulatorArm64@1.8.0-rc01?classifier=sources

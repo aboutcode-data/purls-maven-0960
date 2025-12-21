@@ -39,6 +39,7 @@
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.0
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.0?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.1
+- pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.10?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.1?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.2
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.2?classifier=sources
@@ -52,3 +53,7 @@
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.6?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.7?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.8?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0-rc.9?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.0?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.1?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-llm-qwen@1.0.2?classifier=sources

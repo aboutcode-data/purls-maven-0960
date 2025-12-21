@@ -1,3 +1,5 @@
+- pkg:maven/io.spinnaker.kork/kork-crypto@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-crypto@7.176.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-crypto@7.177.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-crypto@7.178.0?classifier=sources
@@ -79,3 +81,11 @@
 - pkg:maven/io.spinnaker.kork/kork-crypto@7.249.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-crypto@7.250.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-crypto@7.251.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@7.251.1?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@7.251.2?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@7.252.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@7.253.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@7.254.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@main-5?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@main-6?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-crypto@main-7?classifier=sources

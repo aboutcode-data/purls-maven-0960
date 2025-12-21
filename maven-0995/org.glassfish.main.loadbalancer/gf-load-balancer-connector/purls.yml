@@ -45,6 +45,7 @@
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.21?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.22?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.23?classifier=sources
+- pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.24?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.3?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@7.0.4?classifier=sources
@@ -59,6 +60,7 @@
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-JDK17-M7?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-JDK17-M9?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-M10?classifier=sources
+- pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-M11?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.main.loadbalancer/gf-load-balancer-connector@8.0.0-M3?classifier=sources

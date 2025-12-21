@@ -4,6 +4,8 @@
 - pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.12.0?classifier=sources
 - pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.13.0?classifier=sources
 - pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.14.0?classifier=sources
+- pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.15.0?classifier=sources
+- pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.16.0?classifier=sources
 - pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.2.0?classifier=sources
 - pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.3.0?classifier=sources
 - pkg:maven/io.github.theborakompanioni/spring-testcontainer-test@0.4.1?classifier=sources

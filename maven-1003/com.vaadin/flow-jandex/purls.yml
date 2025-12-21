@@ -195,6 +195,7 @@
 - pkg:maven/com.vaadin/flow-jandex@24.5.9
 - pkg:maven/com.vaadin/flow-jandex@24.6.0
 - pkg:maven/com.vaadin/flow-jandex@24.6.1
+- pkg:maven/com.vaadin/flow-jandex@24.6.10
 - pkg:maven/com.vaadin/flow-jandex@24.6.2
 - pkg:maven/com.vaadin/flow-jandex@24.6.3
 - pkg:maven/com.vaadin/flow-jandex@24.6.4
@@ -202,7 +203,12 @@
 - pkg:maven/com.vaadin/flow-jandex@24.6.6
 - pkg:maven/com.vaadin/flow-jandex@24.6.7
 - pkg:maven/com.vaadin/flow-jandex@24.6.8
+- pkg:maven/com.vaadin/flow-jandex@24.6.9
 - pkg:maven/com.vaadin/flow-jandex@24.7.0
+- pkg:maven/com.vaadin/flow-jandex@24.7.1
+- pkg:maven/com.vaadin/flow-jandex@24.7.2
+- pkg:maven/com.vaadin/flow-jandex@24.7.3
+- pkg:maven/com.vaadin/flow-jandex@24.7.4
 - pkg:maven/com.vaadin/flow-jandex@8.0.0
 - pkg:maven/com.vaadin/flow-jandex@8.0.1
 - pkg:maven/com.vaadin/flow-jandex@8.0.2

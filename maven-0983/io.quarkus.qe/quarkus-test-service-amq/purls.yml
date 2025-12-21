@@ -314,5 +314,7 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.0?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.1
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.1?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.2
+- pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.2?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.0.Beta0
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.0.Beta0?classifier=sources

@@ -436,6 +436,8 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.11
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.110?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@4.0.111?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@4.0.12
@@ -755,9 +757,11 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.107?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.108?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.109?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.11
+- pkg:maven/com.liferay/com.liferay.wiki.web@5.0.110?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@5.0.12
@@ -1275,6 +1279,8 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@6.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@6.0.8
 - pkg:maven/com.liferay/com.liferay.wiki.web@6.0.80?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@6.0.81?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@6.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@6.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@6.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@6.0.9
@@ -1318,6 +1324,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.web@7.0.124?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@7.0.125?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@7.0.126?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.web@7.0.127?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@7.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.web@7.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.web@7.0.13

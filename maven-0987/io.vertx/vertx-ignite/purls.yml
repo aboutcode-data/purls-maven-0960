@@ -221,6 +221,8 @@
 - pkg:maven/io.vertx/vertx-ignite@4.5.12?classifier=sources
 - pkg:maven/io.vertx/vertx-ignite@4.5.13
 - pkg:maven/io.vertx/vertx-ignite@4.5.13?classifier=sources
+- pkg:maven/io.vertx/vertx-ignite@4.5.14
+- pkg:maven/io.vertx/vertx-ignite@4.5.14?classifier=sources
 - pkg:maven/io.vertx/vertx-ignite@4.5.1?classifier=sources
 - pkg:maven/io.vertx/vertx-ignite@4.5.2
 - pkg:maven/io.vertx/vertx-ignite@4.5.2?classifier=sources
@@ -248,3 +250,7 @@
 - pkg:maven/io.vertx/vertx-ignite@5.0.0.CR4?classifier=sources
 - pkg:maven/io.vertx/vertx-ignite@5.0.0.CR5
 - pkg:maven/io.vertx/vertx-ignite@5.0.0.CR5?classifier=sources
+- pkg:maven/io.vertx/vertx-ignite@5.0.0.CR6
+- pkg:maven/io.vertx/vertx-ignite@5.0.0.CR6?classifier=sources
+- pkg:maven/io.vertx/vertx-ignite@5.0.0.CR7
+- pkg:maven/io.vertx/vertx-ignite@5.0.0.CR7?classifier=sources

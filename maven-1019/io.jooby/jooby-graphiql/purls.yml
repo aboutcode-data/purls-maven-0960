@@ -26,6 +26,8 @@
 - pkg:maven/io.jooby/jooby-graphiql@2.16.3?classifier=sources
 - pkg:maven/io.jooby/jooby-graphiql@2.16.4
 - pkg:maven/io.jooby/jooby-graphiql@2.16.4?classifier=sources
+- pkg:maven/io.jooby/jooby-graphiql@2.17.0
+- pkg:maven/io.jooby/jooby-graphiql@2.17.0?classifier=sources
 - pkg:maven/io.jooby/jooby-graphiql@2.4.0
 - pkg:maven/io.jooby/jooby-graphiql@2.4.0?classifier=sources
 - pkg:maven/io.jooby/jooby-graphiql@2.5.0
@@ -180,3 +182,5 @@
 - pkg:maven/io.jooby/jooby-graphiql@3.6.0?classifier=sources
 - pkg:maven/io.jooby/jooby-graphiql@3.6.1
 - pkg:maven/io.jooby/jooby-graphiql@3.6.1?classifier=sources
+- pkg:maven/io.jooby/jooby-graphiql@3.7.0
+- pkg:maven/io.jooby/jooby-graphiql@3.7.0?classifier=sources

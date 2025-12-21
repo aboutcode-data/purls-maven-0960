@@ -220,3 +220,7 @@
 - pkg:maven/com.sap.cds/cds4j-runtime@3.8.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-runtime@3.8.1
 - pkg:maven/com.sap.cds/cds4j-runtime@3.8.1?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@3.9.0
+- pkg:maven/com.sap.cds/cds4j-runtime@3.9.0?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-runtime@3.9.1
+- pkg:maven/com.sap.cds/cds4j-runtime@3.9.1?classifier=sources

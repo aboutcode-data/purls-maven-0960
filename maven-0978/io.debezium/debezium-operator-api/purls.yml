@@ -78,3 +78,9 @@
 - pkg:maven/io.debezium/debezium-operator-api@3.1.0.Alpha2?classifier=sources
 - pkg:maven/io.debezium/debezium-operator-api@3.1.0.Beta1
 - pkg:maven/io.debezium/debezium-operator-api@3.1.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-operator-api@3.1.0.CR1
+- pkg:maven/io.debezium/debezium-operator-api@3.1.0.CR1?classifier=sources
+- pkg:maven/io.debezium/debezium-operator-api@3.1.0.Final
+- pkg:maven/io.debezium/debezium-operator-api@3.1.0.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-operator-api@3.1.1.Final
+- pkg:maven/io.debezium/debezium-operator-api@3.1.1.Final?classifier=sources

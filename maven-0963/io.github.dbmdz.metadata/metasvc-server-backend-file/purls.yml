@@ -2,6 +2,8 @@
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@10.0.0-rc.1
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@10.0.0-rc.1?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@10.0.0?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@11.0.0-rc.3?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@11.0.0-rc.4?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@9.0.0
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@9.0.0?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-file@9.1.0

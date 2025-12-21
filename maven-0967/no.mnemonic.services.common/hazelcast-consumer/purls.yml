@@ -128,3 +128,5 @@
 - pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.7.3?classifier=sources
 - pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.8.0
 - pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.8.0?classifier=sources
+- pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.8.1
+- pkg:maven/no.mnemonic.services.common/hazelcast-consumer@0.8.1?classifier=sources

@@ -754,6 +754,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.5
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@5.0.6
@@ -778,6 +779,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.102?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.103?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.104?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.web@6.0.11

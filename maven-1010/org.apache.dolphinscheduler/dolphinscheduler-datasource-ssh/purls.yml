@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-ssh@3.2.0?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-ssh@3.2.1
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-ssh@3.2.1?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-ssh@3.3.0-alpha
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-ssh@3.3.0-alpha?classifier=sources

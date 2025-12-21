@@ -32,6 +32,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.2
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@1.0.3
@@ -95,6 +96,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.20
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@2.0.3
@@ -159,6 +161,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@3.0.3
@@ -289,3 +292,4 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@5.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.taglib@5.0.8?classifier=sources

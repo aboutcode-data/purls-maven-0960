@@ -35,6 +35,10 @@
 - pkg:maven/com.ritense.valtimo/process-document@12.1.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.1.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.1.3.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-document@12.10.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-document@12.10.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-document@12.10.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-document@12.11.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.3.0.RELEASE?classifier=sources
@@ -51,6 +55,7 @@
 - pkg:maven/com.ritense.valtimo/process-document@12.7.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.7.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@12.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-document@12.9.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-document@9.11.0.RELEASE?classifier=sources

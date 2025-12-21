@@ -95,8 +95,12 @@
 - pkg:maven/io.continual/continualModelClient@0.3.27?classifier=sources
 - pkg:maven/io.continual/continualModelClient@0.3.28
 - pkg:maven/io.continual/continualModelClient@0.3.28?classifier=sources
+- pkg:maven/io.continual/continualModelClient@0.3.29
+- pkg:maven/io.continual/continualModelClient@0.3.29?classifier=sources
 - pkg:maven/io.continual/continualModelClient@0.3.2?classifier=sources
 - pkg:maven/io.continual/continualModelClient@0.3.3
+- pkg:maven/io.continual/continualModelClient@0.3.30
+- pkg:maven/io.continual/continualModelClient@0.3.30?classifier=sources
 - pkg:maven/io.continual/continualModelClient@0.3.3?classifier=sources
 - pkg:maven/io.continual/continualModelClient@0.3.4
 - pkg:maven/io.continual/continualModelClient@0.3.4?classifier=sources

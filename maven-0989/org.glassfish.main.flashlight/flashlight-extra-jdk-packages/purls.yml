@@ -95,6 +95,8 @@
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.22?classifier=sources
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.23
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.23?classifier=sources
+- pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.24
+- pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.24?classifier=sources
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.3
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@7.0.3?classifier=sources
@@ -123,6 +125,8 @@
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M1
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M10
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M10?classifier=sources
+- pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M11
+- pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M11?classifier=sources
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M2
 - pkg:maven/org.glassfish.main.flashlight/flashlight-extra-jdk-packages@8.0.0-M2?classifier=sources

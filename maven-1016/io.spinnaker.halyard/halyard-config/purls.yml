@@ -23,4 +23,10 @@
 - pkg:maven/io.spinnaker.halyard/halyard-config@1.67.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-config@1.68.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-config@1.69.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-config@1.70.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-config@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-config@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-config@main-5?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-config@main-6?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-config@main-7?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-config@version-1.44.1?classifier=sources

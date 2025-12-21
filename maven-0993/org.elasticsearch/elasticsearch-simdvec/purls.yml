@@ -34,7 +34,13 @@
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.17.3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.17.4
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.17.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.17.5
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.17.5?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.18.0
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@8.18.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@9.0.0
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@9.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@9.0.0-beta1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@9.0.0-rc1
 - pkg:maven/org.elasticsearch/elasticsearch-simdvec@9.0.0-rc1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-simdvec@9.0.0?classifier=sources

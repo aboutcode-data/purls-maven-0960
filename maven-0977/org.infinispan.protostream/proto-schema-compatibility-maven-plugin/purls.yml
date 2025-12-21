@@ -26,3 +26,5 @@
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev05?classifier=sources
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev06
 - pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev06?classifier=sources
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev07
+- pkg:maven/org.infinispan.protostream/proto-schema-compatibility-maven-plugin@6.0.0.Dev07?classifier=sources

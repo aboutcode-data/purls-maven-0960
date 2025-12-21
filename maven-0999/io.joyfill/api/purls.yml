@@ -21,3 +21,6 @@
 - pkg:maven/io.joyfill/api@1.1.6?classifier=sources
 - pkg:maven/io.joyfill/api@1.1.8?classifier=sources
 - pkg:maven/io.joyfill/api@1.1.9?classifier=sources
+- pkg:maven/io.joyfill/api@2.0.0-Beta01?classifier=sources
+- pkg:maven/io.joyfill/api@2.0.0-Beta02?classifier=sources
+- pkg:maven/io.joyfill/api@2.0.0-Beta03?classifier=sources

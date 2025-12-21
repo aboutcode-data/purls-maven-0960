@@ -46,6 +46,10 @@
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC4-2024-10-18?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC5-2024-10-21?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC-0.19.20-RC6-2024-10-24?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-1.0.0.RC0%2B2025-03-29?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-1.0.0.RC1%2B2025-04-03?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-1.0.0.RC2%2B2025-04-03?classifier=sources
+- pkg:maven/io.mats3/mats-impl-jms@RC-1.0.0.RC3%2B2025-04-10?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.18.5-2022-02-22?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.19.0-2022-11-04?classifier=sources
 - pkg:maven/io.mats3/mats-impl-jms@RC0-0.19.12-2023-10-27?classifier=sources

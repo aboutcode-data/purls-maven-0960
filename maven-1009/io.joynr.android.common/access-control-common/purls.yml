@@ -32,7 +32,13 @@
 - pkg:maven/io.joynr.android.common/access-control-common@1.24.2.2
 - pkg:maven/io.joynr.android.common/access-control-common@1.24.2.2?classifier=sources
 - pkg:maven/io.joynr.android.common/access-control-common@1.24.2?classifier=sources
+- pkg:maven/io.joynr.android.common/access-control-common@1.24.3
+- pkg:maven/io.joynr.android.common/access-control-common@1.24.3?classifier=sources
+- pkg:maven/io.joynr.android.common/access-control-common@1.24.4
+- pkg:maven/io.joynr.android.common/access-control-common@1.24.4?classifier=sources
 - pkg:maven/io.joynr.android.common/access-control-common@1.25.0
 - pkg:maven/io.joynr.android.common/access-control-common@1.25.0?classifier=sources
+- pkg:maven/io.joynr.android.common/access-control-common@1.25.2
+- pkg:maven/io.joynr.android.common/access-control-common@1.25.2?classifier=sources
 - pkg:maven/io.joynr.android.common/access-control-common@1.26.0
 - pkg:maven/io.joynr.android.common/access-control-common@1.26.0?classifier=sources

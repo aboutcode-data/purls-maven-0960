@@ -35,3 +35,5 @@
 - pkg:maven/org.cryptomator/jfuse-linux-aarch64@0.7.0
 - pkg:maven/org.cryptomator/jfuse-linux-aarch64@0.7.0?classifier=sources
 - pkg:maven/org.cryptomator/jfuse-linux-aarch64@0.7.1?classifier=sources
+- pkg:maven/org.cryptomator/jfuse-linux-aarch64@0.7.2?classifier=sources
+- pkg:maven/org.cryptomator/jfuse-linux-aarch64@0.7.3?classifier=sources

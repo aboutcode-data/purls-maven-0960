@@ -39,6 +39,8 @@
 - pkg:maven/io.camunda.spring/spring-client-common@8.3.11-rc1
 - pkg:maven/io.camunda.spring/spring-client-common@8.3.11-rc1?classifier=sources
 - pkg:maven/io.camunda.spring/spring-client-common@8.3.11?classifier=sources
+- pkg:maven/io.camunda.spring/spring-client-common@8.3.12
+- pkg:maven/io.camunda.spring/spring-client-common@8.3.12?classifier=sources
 - pkg:maven/io.camunda.spring/spring-client-common@8.3.1?classifier=sources
 - pkg:maven/io.camunda.spring/spring-client-common@8.3.2-rc1
 - pkg:maven/io.camunda.spring/spring-client-common@8.3.2-rc1?classifier=sources

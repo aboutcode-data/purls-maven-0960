@@ -134,3 +134,5 @@
 - pkg:maven/org.apache.kylin/kylin@5.0.0-beta?classifier=src&type=zip
 - pkg:maven/org.apache.kylin/kylin@5.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.kylin/kylin@5.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.kylin/kylin@5.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.kylin/kylin@5.0.2?classifier=src&type=zip

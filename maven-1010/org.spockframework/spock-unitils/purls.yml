@@ -130,3 +130,6 @@
 - pkg:maven/org.spockframework/spock-unitils@2.4-M5-groovy-2.5?classifier=sources
 - pkg:maven/org.spockframework/spock-unitils@2.4-M5-groovy-3.0?classifier=sources
 - pkg:maven/org.spockframework/spock-unitils@2.4-M5-groovy-4.0?classifier=sources
+- pkg:maven/org.spockframework/spock-unitils@2.4-M6-groovy-2.5?classifier=sources
+- pkg:maven/org.spockframework/spock-unitils@2.4-M6-groovy-3.0?classifier=sources
+- pkg:maven/org.spockframework/spock-unitils@2.4-M6-groovy-4.0?classifier=sources

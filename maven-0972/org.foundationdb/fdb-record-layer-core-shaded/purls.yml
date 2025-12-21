@@ -37,4 +37,8 @@
 - pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.1.8.0?classifier=sources
 - pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.1.9.0?classifier=sources
 - pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.2.2.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.2.2.1?classifier=sources
 - pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.2.3.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.2.4.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.2.5.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-core-shaded@4.2.6.0?classifier=sources

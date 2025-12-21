@@ -1,3 +1,7 @@
 - pkg:maven/io.exoquery/terpal-sql-native-macosarm64@1.0.0.PL-1.0.0?classifier=sources
 - pkg:maven/io.exoquery/terpal-sql-native-macosarm64@1.0.0.PL-1.1.0?classifier=sources
 - pkg:maven/io.exoquery/terpal-sql-native-macosarm64@2.0.0.PL-1.2.0?classifier=sources
+- pkg:maven/io.exoquery/terpal-sql-native-macosarm64@2.0.0.PL-2.0.0?classifier=sources
+- pkg:maven/io.exoquery/terpal-sql-native-macosarm64@2.0.0.PL-3.0.0?classifier=sources
+- pkg:maven/io.exoquery/terpal-sql-native-macosarm64@2.0.0.PL-3.1.0?classifier=sources
+- pkg:maven/io.exoquery/terpal-sql-native-macosarm64@2.0.0.PL-3.2.0?classifier=sources

@@ -150,6 +150,8 @@
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.8.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.15
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.23
+- pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.23?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.6
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.6?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.custom.header.filter@1.9.7

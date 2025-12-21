@@ -15,3 +15,7 @@
 - pkg:maven/shop.terminal.api/terminal-java-client-okhttp@1.6.0?classifier=sources
 - pkg:maven/shop.terminal.api/terminal-java-client-okhttp@1.6.1?classifier=sources
 - pkg:maven/shop.terminal.api/terminal-java-client-okhttp@1.6.2?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-client-okhttp@2.0.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-client-okhttp@2.1.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-client-okhttp@2.2.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-client-okhttp@2.3.0?classifier=sources
