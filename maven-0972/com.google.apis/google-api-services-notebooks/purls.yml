@@ -118,6 +118,8 @@
 - pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20250430-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20251008-2.0.0
 - pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20251008-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20251029-2.0.0
+- pkg:maven/com.google.apis/google-api-services-notebooks@v1-rev20251029-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20230307-2.0.0
 - pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20230307-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20230420-2.0.0
@@ -166,3 +168,7 @@
 - pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20250710-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20251008-2.0.0
 - pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20251008-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20251016-2.0.0
+- pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20251016-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20251029-2.0.0
+- pkg:maven/com.google.apis/google-api-services-notebooks@v2-rev20251029-2.0.0?classifier=sources

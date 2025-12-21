@@ -28,3 +28,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.26.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.27.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.27.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.28.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.28.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.29.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-oracledatabase-v1@0.29.0?classifier=sources

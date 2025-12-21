@@ -26,6 +26,7 @@
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.18?classifier=sources
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.19?classifier=sources
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.2
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.20?classifier=sources
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.2?classifier=sources
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.3
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-client@3.0.3?classifier=sources

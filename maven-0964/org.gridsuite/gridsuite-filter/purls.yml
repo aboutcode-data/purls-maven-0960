@@ -36,6 +36,8 @@
 - pkg:maven/org.gridsuite/gridsuite-filter@1.1.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.10.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.12.0?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-filter@1.13.0?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-filter@1.14.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.2.0
 - pkg:maven/org.gridsuite/gridsuite-filter@1.2.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-filter@1.3.0

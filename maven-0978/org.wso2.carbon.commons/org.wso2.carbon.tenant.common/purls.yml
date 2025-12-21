@@ -10,6 +10,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.10.8
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.10.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.10.8?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.11.2
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.11.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.11.2?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.3.0
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.3.1
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.3.2
@@ -357,6 +360,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.7.50
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.7.50?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.7.50?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.7.56
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.7.56?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.7.56?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.8.0
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.8.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.8.0?classifier=sources
@@ -370,6 +376,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.10
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.10?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.19
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.19?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.1?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.tenant.common@4.9.2

@@ -14,3 +14,4 @@
 - pkg:maven/org.springframework.ai/spring-ai-autoconfigure-vector-store-mariadb@1.1.0-M3?classifier=sources
 - pkg:maven/org.springframework.ai/spring-ai-autoconfigure-vector-store-mariadb@1.1.0-M4?classifier=sources
 - pkg:maven/org.springframework.ai/spring-ai-autoconfigure-vector-store-mariadb@1.1.0-RC1?classifier=sources
+- pkg:maven/org.springframework.ai/spring-ai-autoconfigure-vector-store-mariadb@1.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.hugegraph/hugegraph-clustertest-test@1.5.0
 - pkg:maven/org.apache.hugegraph/hugegraph-clustertest-test@1.5.0?classifier=sources
+- pkg:maven/org.apache.hugegraph/hugegraph-clustertest-test@1.7.0
+- pkg:maven/org.apache.hugegraph/hugegraph-clustertest-test@1.7.0?classifier=sources

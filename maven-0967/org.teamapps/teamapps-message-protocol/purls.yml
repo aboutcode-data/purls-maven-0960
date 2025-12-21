@@ -10,6 +10,7 @@
 - pkg:maven/org.teamapps/teamapps-message-protocol@0.15?classifier=sources
 - pkg:maven/org.teamapps/teamapps-message-protocol@0.16
 - pkg:maven/org.teamapps/teamapps-message-protocol@0.16?classifier=sources
+- pkg:maven/org.teamapps/teamapps-message-protocol@0.18?classifier=sources
 - pkg:maven/org.teamapps/teamapps-message-protocol@0.8
 - pkg:maven/org.teamapps/teamapps-message-protocol@0.8?classifier=sources
 - pkg:maven/org.teamapps/teamapps-message-protocol@0.9

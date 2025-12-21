@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.10.109
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.10.109?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.10.11
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.10.11?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.server.admin.common@4.10.12

@@ -15,6 +15,8 @@
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.1
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.10
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.10?classifier=sources
+- pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.11
+- pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.11?classifier=sources
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.1?classifier=sources
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.2
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.7.2?classifier=sources
@@ -51,3 +53,7 @@
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.8.0?classifier=sources
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.8.1
 - pkg:maven/io.camunda.connector/jackson-datatype-document@8.8.1?classifier=sources
+- pkg:maven/io.camunda.connector/jackson-datatype-document@8.8.2
+- pkg:maven/io.camunda.connector/jackson-datatype-document@8.8.2?classifier=sources
+- pkg:maven/io.camunda.connector/jackson-datatype-document@8.9.0-alpha1
+- pkg:maven/io.camunda.connector/jackson-datatype-document@8.9.0-alpha1?classifier=sources

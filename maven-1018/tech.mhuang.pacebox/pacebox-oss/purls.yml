@@ -2,6 +2,7 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.0-jdk25?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.0?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.1
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.1-jdk25?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk17?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss@1.0.11-jdk21

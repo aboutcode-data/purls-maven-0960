@@ -37,6 +37,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.2.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.2.3?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.20.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.20.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.3.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-okhttp@0.3.2?classifier=sources

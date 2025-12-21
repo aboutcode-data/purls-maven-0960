@@ -1,2 +1,4 @@
 - pkg:maven/com.intechcore.scomponents.fx/bridge@0.1.0-java11?classifier=sources
 - pkg:maven/com.intechcore.scomponents.fx/bridge@0.1.0-java8?classifier=sources
+- pkg:maven/com.intechcore.scomponents.fx/bridge@0.1.1-java11?classifier=sources
+- pkg:maven/com.intechcore.scomponents.fx/bridge@0.1.1-java8?classifier=sources

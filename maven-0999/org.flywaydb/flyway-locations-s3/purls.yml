@@ -3,3 +3,7 @@
 - pkg:maven/org.flywaydb/flyway-locations-s3@11.14.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-locations-s3@11.15.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-locations-s3@11.16.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-locations-s3@11.17.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-locations-s3@11.17.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-locations-s3@11.17.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-locations-s3@11.18.0?classifier=sources

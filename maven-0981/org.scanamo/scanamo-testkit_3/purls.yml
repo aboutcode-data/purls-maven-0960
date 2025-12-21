@@ -42,3 +42,5 @@
 - pkg:maven/org.scanamo/scanamo-testkit_3@4.0.0-PREVIEW.updates.2025-08-08T1007.b5bd476d
 - pkg:maven/org.scanamo/scanamo-testkit_3@4.0.0-PREVIEW.updates.2025-08-08T1007.b5bd476d?classifier=sources
 - pkg:maven/org.scanamo/scanamo-testkit_3@4.0.0?classifier=sources
+- pkg:maven/org.scanamo/scanamo-testkit_3@5.0.0
+- pkg:maven/org.scanamo/scanamo-testkit_3@5.0.0?classifier=sources

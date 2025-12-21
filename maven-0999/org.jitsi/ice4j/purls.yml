@@ -87,6 +87,12 @@
 - pkg:maven/org.jitsi/ice4j@3.2-0-g63cddcd?classifier=sources
 - pkg:maven/org.jitsi/ice4j@3.2-1-gd08e5a5
 - pkg:maven/org.jitsi/ice4j@3.2-1-gd08e5a5?classifier=sources
+- pkg:maven/org.jitsi/ice4j@3.2-10-gfcadc70
+- pkg:maven/org.jitsi/ice4j@3.2-10-gfcadc70?classifier=sources
+- pkg:maven/org.jitsi/ice4j@3.2-11-gf3db829
+- pkg:maven/org.jitsi/ice4j@3.2-11-gf3db829?classifier=sources
+- pkg:maven/org.jitsi/ice4j@3.2-12-gc2cbf61
+- pkg:maven/org.jitsi/ice4j@3.2-12-gc2cbf61?classifier=sources
 - pkg:maven/org.jitsi/ice4j@3.2-2-gb4c8cd1
 - pkg:maven/org.jitsi/ice4j@3.2-2-gb4c8cd1?classifier=sources
 - pkg:maven/org.jitsi/ice4j@3.2-3-g816c80b

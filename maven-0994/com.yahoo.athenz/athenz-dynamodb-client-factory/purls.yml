@@ -30,6 +30,7 @@
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.26?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.27?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.28?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.29?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.2?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.3
 - pkg:maven/com.yahoo.athenz/athenz-dynamodb-client-factory@1.12.3?classifier=sources

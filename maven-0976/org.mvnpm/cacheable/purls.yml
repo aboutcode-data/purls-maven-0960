@@ -24,3 +24,7 @@
 - pkg:maven/org.mvnpm/cacheable@2.1.0?classifier=sources
 - pkg:maven/org.mvnpm/cacheable@2.1.1
 - pkg:maven/org.mvnpm/cacheable@2.1.1?classifier=sources
+- pkg:maven/org.mvnpm/cacheable@2.2.0
+- pkg:maven/org.mvnpm/cacheable@2.2.0?classifier=sources
+- pkg:maven/org.mvnpm/cacheable@2.3.0
+- pkg:maven/org.mvnpm/cacheable@2.3.0?classifier=sources

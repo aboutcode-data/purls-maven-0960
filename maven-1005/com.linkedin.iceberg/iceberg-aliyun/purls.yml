@@ -12,5 +12,7 @@
 - pkg:maven/com.linkedin.iceberg/iceberg-aliyun@1.2.0.0-rc2?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-aliyun@1.2.0.1?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-aliyun@1.2.0.4?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-aliyun@1.5.2.0-rc1?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-aliyun@1.5.2.1?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-aliyun@v1.2.0.1-1-gadc43b8?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-aliyun@vv1.2.0.1-1-gadc43b8-1-gf5bc75b?classifier=sources

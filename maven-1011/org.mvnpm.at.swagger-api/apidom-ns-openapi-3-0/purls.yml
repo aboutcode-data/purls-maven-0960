@@ -7,3 +7,5 @@
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-3-0@1.0.0-alpha.6?classifier=sources
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-3-0@1.0.0-alpha.9?classifier=sources
 - pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-3-0@1.0.0-beta.30?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-3-0@1.0.0-rc.3
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-3-0@1.0.0-rc.3?classifier=sources

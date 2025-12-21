@@ -97,3 +97,8 @@
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@6.2.2?classifier=sources
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@6.3.0?classifier=sources
 - pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@6.3.1?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@6.3.2?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@7.0.0-M1?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@7.0.0-M2?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@7.0.0-M3?classifier=sources
+- pkg:maven/io.micronaut.sql/micronaut-jdbc-ucp@7.0.0?classifier=sources

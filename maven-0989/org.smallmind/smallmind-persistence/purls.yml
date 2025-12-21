@@ -261,6 +261,7 @@
 - pkg:maven/org.smallmind/smallmind-persistence@6.1.0
 - pkg:maven/org.smallmind/smallmind-persistence@6.1.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-persistence@6.10.0?classifier=sources
+- pkg:maven/org.smallmind/smallmind-persistence@6.11.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-persistence@6.2.0
 - pkg:maven/org.smallmind/smallmind-persistence@6.2.0?classifier=sources
 - pkg:maven/org.smallmind/smallmind-persistence@6.3.0

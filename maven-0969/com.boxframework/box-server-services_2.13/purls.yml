@@ -171,6 +171,8 @@
 - pkg:maven/com.boxframework/box-server-services_2.13@1.15.0-RC4?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.15.0?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.15.1
+- pkg:maven/com.boxframework/box-server-services_2.13@1.15.10
+- pkg:maven/com.boxframework/box-server-services_2.13@1.15.10?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.15.1?classifier=sources
 - pkg:maven/com.boxframework/box-server-services_2.13@1.15.2
 - pkg:maven/com.boxframework/box-server-services_2.13@1.15.2?classifier=sources

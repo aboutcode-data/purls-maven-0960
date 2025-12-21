@@ -185,3 +185,5 @@
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-rc-3?classifier=sources
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-rc-4
 - pkg:maven/org.apache.maven/maven-artifact@4.0.0-rc-4?classifier=sources
+- pkg:maven/org.apache.maven/maven-artifact@4.0.0-rc-5
+- pkg:maven/org.apache.maven/maven-artifact@4.0.0-rc-5?classifier=sources

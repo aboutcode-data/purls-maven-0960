@@ -15,5 +15,7 @@
 - pkg:maven/com.mikepenz/entypo-typeface@1.0.0.7-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/entypo-typeface@1.0.0.7-kotlin?type=aar
 - pkg:maven/com.mikepenz/entypo-typeface@1.0.0.8-kotlin?classifier=sources
+- pkg:maven/com.mikepenz/entypo-typeface@1.0.0.9-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/entypo-typeface@5.1.0?classifier=sources
 - pkg:maven/com.mikepenz/entypo-typeface@5.1.0?type=aar
+- pkg:maven/com.mikepenz/entypo-typeface@unspecified?classifier=sources

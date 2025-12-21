@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.gravitino/gravitino-spark-3.3_2.13@1.0.0?classifier=sources
+- pkg:maven/org.apache.gravitino/gravitino-spark-3.3_2.13@1.0.1?classifier=sources

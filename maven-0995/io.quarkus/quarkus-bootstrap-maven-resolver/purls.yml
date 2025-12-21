@@ -523,6 +523,7 @@
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.20.2.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.20.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.20.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.20.4?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.21.0
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.21.0.CR1
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.21.0.CR1?classifier=sources
@@ -574,6 +575,7 @@
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.26.4?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.27.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.27.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.27.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.28.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.28.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.28.1?classifier=sources
@@ -583,6 +585,9 @@
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.28.5?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.29.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.29.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.29.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.29.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.29.3?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.3.0
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.3.0.CR1
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.3.0.CR1?classifier=sources
@@ -593,6 +598,7 @@
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.3.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.3.3
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.3.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.30.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.4.0
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.4.0.CR1
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-resolver@3.4.0.CR1?classifier=sources

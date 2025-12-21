@@ -138,6 +138,10 @@
 - pkg:maven/io.gatling/gatling-redis@3.14.6?classifier=sources
 - pkg:maven/io.gatling/gatling-redis@3.14.7
 - pkg:maven/io.gatling/gatling-redis@3.14.7?classifier=sources
+- pkg:maven/io.gatling/gatling-redis@3.14.8
+- pkg:maven/io.gatling/gatling-redis@3.14.8?classifier=sources
+- pkg:maven/io.gatling/gatling-redis@3.14.9
+- pkg:maven/io.gatling/gatling-redis@3.14.9?classifier=sources
 - pkg:maven/io.gatling/gatling-redis@3.2.0
 - pkg:maven/io.gatling/gatling-redis@3.2.0?classifier=sources
 - pkg:maven/io.gatling/gatling-redis@3.2.1

@@ -4369,3 +4369,5 @@
 - pkg:maven/org.wso2.identity.apps/x509-certificate-authentication-portal@2.9.1?type=war
 - pkg:maven/org.wso2.identity.apps/x509-certificate-authentication-portal@2.9.2?classifier=sources
 - pkg:maven/org.wso2.identity.apps/x509-certificate-authentication-portal@2.9.2?type=war
+- pkg:maven/org.wso2.identity.apps/x509-certificate-authentication-portal@3.3.28?classifier=sources
+- pkg:maven/org.wso2.identity.apps/x509-certificate-authentication-portal@3.3.28?type=war

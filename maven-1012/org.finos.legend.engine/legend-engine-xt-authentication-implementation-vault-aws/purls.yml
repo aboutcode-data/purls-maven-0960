@@ -29,10 +29,17 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.106.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.107.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.107.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.108.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.109.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.11.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.11.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.11.1
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.11.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.110.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.110.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.111.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.112.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.113.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.12.1
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.12.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-authentication-implementation-vault-aws@4.13.1

@@ -72,6 +72,7 @@
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.0?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.10?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.11?classifier=sources
+- pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.12?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.1?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.2?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.4.3?classifier=sources
@@ -90,6 +91,8 @@
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.5.5?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.5.6?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.5.7?classifier=sources
+- pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@5.5.8?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@6.0.0-m3?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@6.0.0-rc1.2?classifier=sources
 - pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@6.0.0-rc2?classifier=sources
+- pkg:maven/org.joinfaces/myfaces4-spring-boot-starter@6.0.0?classifier=sources

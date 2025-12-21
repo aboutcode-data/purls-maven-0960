@@ -1,2 +1,4 @@
 - pkg:maven/sh.almond/scala-kernel-api_3.5.2@0.14.2
 - pkg:maven/sh.almond/scala-kernel-api_3.5.2@0.14.2?classifier=sources
+- pkg:maven/sh.almond/scala-kernel-api_3.5.2@0.14.3
+- pkg:maven/sh.almond/scala-kernel-api_3.5.2@0.14.3?classifier=sources

@@ -431,6 +431,9 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.23
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.23?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.23?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.268
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.268?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.268?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.30
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.30?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.command.services@4.7.30?classifier=sources

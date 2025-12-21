@@ -2506,6 +2506,7 @@
 - pkg:maven/org.scala-lang/scaladoc_3@3.7.4-RC3
 - pkg:maven/org.scala-lang/scaladoc_3@3.7.4-RC3?classifier=sources
 - pkg:maven/org.scala-lang/scaladoc_3@3.7.4?classifier=sources
+- pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1
 - pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1-bin-20250729-a834dff-NIGHTLY
 - pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1-bin-20250729-a834dff-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1-bin-20250731-1f148a1-NIGHTLY
@@ -2542,3 +2543,6 @@
 - pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1-bin-20250821-0a7f843-NIGHTLY?classifier=sources
 - pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1-bin-20250822-658c8bd-NIGHTLY
 - pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1-bin-20250822-658c8bd-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC1?classifier=sources
+- pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC2
+- pkg:maven/org.scala-lang/scaladoc_3@3.8.0-RC2?classifier=sources

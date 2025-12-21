@@ -82,3 +82,11 @@
 - pkg:maven/it.agilelab/wasp-core_2.12@3.0.1-3_5
 - pkg:maven/it.agilelab/wasp-core_2.12@3.0.1-3_5?classifier=sources
 - pkg:maven/it.agilelab/wasp-core_2.12@3.0.1?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0-3_3
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0-3_3?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0-3_5
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0-3_5?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0-3_5_emr770
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0-3_5_emr770?classifier=sources
+- pkg:maven/it.agilelab/wasp-core_2.12@3.1.0?classifier=sources

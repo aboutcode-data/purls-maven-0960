@@ -2,6 +2,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@10.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@11.0.1?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@11.1.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@8.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@8.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-tomcat-websocket@8.0.1

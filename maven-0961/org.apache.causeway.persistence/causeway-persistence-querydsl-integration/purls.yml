@@ -4,5 +4,7 @@
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@3.3.0?classifier=sources
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@3.4.0
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@3.4.0?classifier=sources
+- pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@3.5.0
+- pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@3.5.0?classifier=sources
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@4.0.0-M1
 - pkg:maven/org.apache.causeway.persistence/causeway-persistence-querydsl-integration@4.0.0-M1?classifier=sources

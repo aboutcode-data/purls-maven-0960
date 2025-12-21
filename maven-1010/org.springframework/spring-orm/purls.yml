@@ -459,6 +459,8 @@
 - pkg:maven/org.springframework/spring-orm@6.2.10?classifier=sources
 - pkg:maven/org.springframework/spring-orm@6.2.11?classifier=sources
 - pkg:maven/org.springframework/spring-orm@6.2.12?classifier=sources
+- pkg:maven/org.springframework/spring-orm@6.2.13?classifier=sources
+- pkg:maven/org.springframework/spring-orm@6.2.14?classifier=sources
 - pkg:maven/org.springframework/spring-orm@6.2.1?classifier=sources
 - pkg:maven/org.springframework/spring-orm@6.2.2?classifier=sources
 - pkg:maven/org.springframework/spring-orm@6.2.3?classifier=sources
@@ -480,3 +482,5 @@
 - pkg:maven/org.springframework/spring-orm@7.0.0-RC1?classifier=sources
 - pkg:maven/org.springframework/spring-orm@7.0.0-RC2?classifier=sources
 - pkg:maven/org.springframework/spring-orm@7.0.0-RC3?classifier=sources
+- pkg:maven/org.springframework/spring-orm@7.0.0?classifier=sources
+- pkg:maven/org.springframework/spring-orm@7.0.1?classifier=sources

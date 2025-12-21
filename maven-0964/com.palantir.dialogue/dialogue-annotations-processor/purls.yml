@@ -215,6 +215,11 @@
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.11.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.12.0-rc1?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.12.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.13.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.14.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.14.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.15.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.16.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.2.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.3.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations-processor@6.4.0?classifier=sources

@@ -59,6 +59,8 @@
 - pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.15?classifier=sources
 - pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.16
 - pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.16?classifier=sources
+- pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.17
+- pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.17?classifier=sources
 - pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.2
 - pkg:maven/org.neo4j/cypher-v5-parser-listener@5.26.2?classifier=sources

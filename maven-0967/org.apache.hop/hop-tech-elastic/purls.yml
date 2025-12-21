@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.hop/hop-tech-elastic@2.14.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-tech-elastic@2.15.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-tech-elastic@2.15.0?type=zip
+- pkg:maven/org.apache.hop/hop-tech-elastic@2.16.0
+- pkg:maven/org.apache.hop/hop-tech-elastic@2.16.0?classifier=sources

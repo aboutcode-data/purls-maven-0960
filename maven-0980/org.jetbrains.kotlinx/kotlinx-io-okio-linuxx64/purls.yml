@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-io-okio-linuxx64@0.7.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-io-okio-linuxx64@0.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-io-okio-linuxx64@0.8.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-io-okio-linuxx64@0.8.2?classifier=sources

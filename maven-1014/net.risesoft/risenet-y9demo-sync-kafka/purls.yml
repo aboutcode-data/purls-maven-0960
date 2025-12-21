@@ -1,2 +1,4 @@
 - pkg:maven/net.risesoft/risenet-y9demo-sync-kafka@9.7.0-M2?classifier=sources
 - pkg:maven/net.risesoft/risenet-y9demo-sync-kafka@9.7.0-M2?type=war
+- pkg:maven/net.risesoft/risenet-y9demo-sync-kafka@9.7.0-M5?classifier=sources
+- pkg:maven/net.risesoft/risenet-y9demo-sync-kafka@9.7.0-M5?type=war

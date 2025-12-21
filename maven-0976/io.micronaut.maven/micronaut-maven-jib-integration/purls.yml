@@ -35,6 +35,7 @@
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.10.2?classifier=sources
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.11.0?classifier=sources
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.11.1?classifier=sources
+- pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.11.2?classifier=sources
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.2.0
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.maven/micronaut-maven-jib-integration@4.2.1

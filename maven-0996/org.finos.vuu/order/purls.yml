@@ -1,3 +1,5 @@
+- pkg:maven/org.finos.vuu/order@0.9.100?classifier=sources
+- pkg:maven/org.finos.vuu/order@0.9.101?classifier=sources
 - pkg:maven/org.finos.vuu/order@0.9.35-beta
 - pkg:maven/org.finos.vuu/order@0.9.35-beta?classifier=sources
 - pkg:maven/org.finos.vuu/order@0.9.40
@@ -36,3 +38,4 @@
 - pkg:maven/org.finos.vuu/order@0.9.96?classifier=sources
 - pkg:maven/org.finos.vuu/order@0.9.97?classifier=sources
 - pkg:maven/org.finos.vuu/order@0.9.98?classifier=sources
+- pkg:maven/org.finos.vuu/order@0.9.99?classifier=sources

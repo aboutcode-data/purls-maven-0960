@@ -574,6 +574,14 @@
 - pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251014-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251016-2.0.0
 - pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251016-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251023-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251023-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251029-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251029-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251106-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251106-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251109-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chat@v1-rev20251109-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chat@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-chat@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chat@v1-rev21-1.21.0

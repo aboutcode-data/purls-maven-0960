@@ -28,8 +28,10 @@
 - pkg:maven/com.ritense.valtimo/outbox@12.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.17.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.18.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@12.19.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.2.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@12.20.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.3.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@12.4.0.RELEASE?classifier=sources
@@ -57,3 +59,4 @@
 - pkg:maven/com.ritense.valtimo/outbox@13.3.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@13.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/outbox@13.4.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/outbox@13.5.0.RELEASE?classifier=sources

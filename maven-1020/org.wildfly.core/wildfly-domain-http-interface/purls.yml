@@ -688,6 +688,7 @@
 - pkg:maven/org.wildfly.core/wildfly-domain-http-interface@30.0.0.Beta4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-domain-http-interface@30.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-domain-http-interface@31.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-domain-http-interface@31.0.0.Beta2?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-domain-http-interface@4.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-domain-http-interface@4.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-domain-http-interface@4.0.0.Alpha10?classifier=sources

@@ -6,6 +6,9 @@
 - pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.10.4?classifier=sources
 - pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.10.5?classifier=sources
 - pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.10.6?classifier=sources
+- pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.10.7-preview.2.2.20?classifier=sources
+- pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.10.7?classifier=sources
+- pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.10.8?classifier=sources
 - pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.7.0-preview.2.0.0-RC2?classifier=sources
 - pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.7.0-preview.2.0.0-RC3?classifier=sources
 - pkg:maven/co.touchlab.skie/kotlin-compiler-linker-plugin@0.7.0?classifier=sources

@@ -164,3 +164,5 @@
 - pkg:maven/org.jboss.galleon/galleon-cli@6.0.6.Final?classifier=sources
 - pkg:maven/org.jboss.galleon/galleon-cli@6.1.0.Final?classifier=sources
 - pkg:maven/org.jboss.galleon/galleon-cli@6.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.galleon/galleon-cli@7.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.galleon/galleon-cli@7.0.0.Beta2?classifier=sources

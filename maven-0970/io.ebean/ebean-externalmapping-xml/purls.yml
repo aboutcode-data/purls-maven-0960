@@ -214,3 +214,5 @@
 - pkg:maven/io.ebean/ebean-externalmapping-xml@13.9.3?classifier=sources
 - pkg:maven/io.ebean/ebean-externalmapping-xml@14.0.0
 - pkg:maven/io.ebean/ebean-externalmapping-xml@14.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-externalmapping-xml@16.1.0-RC1?classifier=sources
+- pkg:maven/io.ebean/ebean-externalmapping-xml@16.1.0?classifier=sources

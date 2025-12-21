@@ -6,3 +6,5 @@
 - pkg:maven/org.voltdb/volt-stream-plugin-kafka-api@1.5.2?classifier=sources
 - pkg:maven/org.voltdb/volt-stream-plugin-kafka-api@1.5.4
 - pkg:maven/org.voltdb/volt-stream-plugin-kafka-api@1.5.4?classifier=sources
+- pkg:maven/org.voltdb/volt-stream-plugin-kafka-api@1.6.0
+- pkg:maven/org.voltdb/volt-stream-plugin-kafka-api@1.6.0?classifier=sources

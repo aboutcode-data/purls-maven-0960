@@ -2,6 +2,8 @@
 - pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.0-dev.3?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.0?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.1-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.10?classifier=sources
+- pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.14?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.2?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.3?classifier=sources
 - pkg:maven/com.divpundir.mavlink/definitions-linuxx64@1.2.5?classifier=sources

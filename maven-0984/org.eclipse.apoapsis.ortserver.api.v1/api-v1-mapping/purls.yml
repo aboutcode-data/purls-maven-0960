@@ -52,6 +52,10 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.38.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.39.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.40.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.41.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.42.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.43.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.5.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.6.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping@0.7.0?classifier=sources

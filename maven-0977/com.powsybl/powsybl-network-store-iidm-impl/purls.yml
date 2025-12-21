@@ -66,6 +66,9 @@
 - pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.30.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.30.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.31.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.32.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.33.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.34.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.4.0
 - pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.4.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-network-store-iidm-impl@1.5.0

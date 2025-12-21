@@ -111,6 +111,8 @@
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.53.0-01?classifier=sources
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.53.1-01?classifier=sources
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.54.0-01?classifier=sources
+- pkg:maven/com.sonatype.clm/clm-maven-plugin@2.54.1-01?classifier=sources
+- pkg:maven/com.sonatype.clm/clm-maven-plugin@2.54.1-02?classifier=sources
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.6.0-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.7.0-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.7.1-01
@@ -119,3 +121,4 @@
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.9.0-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.9.1-01
 - pkg:maven/com.sonatype.clm/clm-maven-plugin@2.9.2-01
+- pkg:maven/com.sonatype.clm/clm-maven-plugin@3.0.0-01?classifier=sources

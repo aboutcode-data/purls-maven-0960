@@ -286,7 +286,15 @@
 - pkg:maven/com.gu/content-api-client-default_2.12@37.0.0?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.12@37.1.0
 - pkg:maven/com.gu/content-api-client-default_2.12@37.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@38.0.0
+- pkg:maven/com.gu/content-api-client-default_2.12@38.0.0-PREVIEW.bump-capi-models-to-bring-in-looping-video-field.2025-10-29T1154.8305880f
+- pkg:maven/com.gu/content-api-client-default_2.12@38.0.0-PREVIEW.bump-capi-models-to-bring-in-looping-video-field.2025-10-29T1154.8305880f?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.12@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-16T1510.b17a4568
 - pkg:maven/com.gu/content-api-client-default_2.12@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-16T1510.b17a4568?classifier=sources
 - pkg:maven/com.gu/content-api-client-default_2.12@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-17T1452.d9337833
 - pkg:maven/com.gu/content-api-client-default_2.12@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-17T1452.d9337833?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@38.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@39.0.0
+- pkg:maven/com.gu/content-api-client-default_2.12@39.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-client-default_2.12@40.0.0-PREVIEW.anbump-content-api-models.2025-11-17T1104.e0ef3609
+- pkg:maven/com.gu/content-api-client-default_2.12@40.0.0-PREVIEW.anbump-content-api-models.2025-11-17T1104.e0ef3609?classifier=sources

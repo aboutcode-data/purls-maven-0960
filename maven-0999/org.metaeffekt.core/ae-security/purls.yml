@@ -102,8 +102,11 @@
 - pkg:maven/org.metaeffekt.core/ae-security@0.144.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.144.1?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.144.2?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-security@0.144.3?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.145.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.145.1?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.145.2?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.146.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-security@0.147.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-security@0.148.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-security@0.149.0?classifier=sources

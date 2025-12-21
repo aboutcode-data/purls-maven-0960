@@ -53,6 +53,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.4.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.40.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.41.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.42.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.43.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.44.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.45.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.46.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.47.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.5.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.6.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-camel-cron-route@12.7.0?classifier=sources

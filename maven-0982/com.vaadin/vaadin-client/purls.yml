@@ -468,6 +468,7 @@
 - pkg:maven/com.vaadin/vaadin-client@8.28.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.28.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.28.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-client@8.29.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.3.0
 - pkg:maven/com.vaadin/vaadin-client@8.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client@8.3.1

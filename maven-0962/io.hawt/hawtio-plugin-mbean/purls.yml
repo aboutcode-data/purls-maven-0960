@@ -353,3 +353,5 @@
 - pkg:maven/io.hawt/hawtio-plugin-mbean@4.4.1
 - pkg:maven/io.hawt/hawtio-plugin-mbean@4.4.1?classifier=sources
 - pkg:maven/io.hawt/hawtio-plugin-mbean@4.5.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-plugin-mbean@4.6.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-plugin-mbean@4.6.1?classifier=sources

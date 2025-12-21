@@ -439,6 +439,10 @@
 - pkg:maven/org.mvnpm/vue@3.5.21?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.22
 - pkg:maven/org.mvnpm/vue@3.5.22?classifier=sources
+- pkg:maven/org.mvnpm/vue@3.5.24
+- pkg:maven/org.mvnpm/vue@3.5.24?classifier=sources
+- pkg:maven/org.mvnpm/vue@3.5.25
+- pkg:maven/org.mvnpm/vue@3.5.25?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.2?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.3
 - pkg:maven/org.mvnpm/vue@3.5.3?classifier=sources

@@ -11,4 +11,6 @@
 - pkg:maven/io.agora.rtc/linux-java-sdk@4.4.32.101
 - pkg:maven/io.agora.rtc/linux-java-sdk@4.4.32.101?classifier=sources
 - pkg:maven/io.agora.rtc/linux-java-sdk@4.4.32.1?classifier=sources
+- pkg:maven/io.agora.rtc/linux-java-sdk@4.4.32.200
+- pkg:maven/io.agora.rtc/linux-java-sdk@4.4.32.200?classifier=sources
 - pkg:maven/io.agora.rtc/linux-java-sdk@4.4.32?classifier=sources

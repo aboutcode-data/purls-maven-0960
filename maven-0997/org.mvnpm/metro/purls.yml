@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/metro@0.79.1
 - pkg:maven/org.mvnpm/metro@0.79.1?classifier=sources
+- pkg:maven/org.mvnpm/metro@0.83.3
+- pkg:maven/org.mvnpm/metro@0.83.3?classifier=sources

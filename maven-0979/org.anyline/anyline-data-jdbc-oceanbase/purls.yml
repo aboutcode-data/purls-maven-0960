@@ -687,6 +687,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-20251010?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-20251111?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-jdk11-20240826
@@ -1101,9 +1102,13 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.2-jdk21-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-20251115?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk11-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk11-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk11-20251115?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk17-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk17-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk17-20251115?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk21-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk21-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-oceanbase@8.7.3-jdk21-20251115?classifier=sources

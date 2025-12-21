@@ -1,3 +1,4 @@
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-scalar@2.8.13?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-scalar@2.8.14?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-scalar@3.0.0-RC1?classifier=sources
+- pkg:maven/org.springdoc/springdoc-openapi-starter-webflux-scalar@3.0.0?classifier=sources

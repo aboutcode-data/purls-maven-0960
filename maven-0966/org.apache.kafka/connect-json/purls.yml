@@ -111,3 +111,4 @@
 - pkg:maven/org.apache.kafka/connect-json@4.0.0?classifier=sources
 - pkg:maven/org.apache.kafka/connect-json@4.0.1?classifier=sources
 - pkg:maven/org.apache.kafka/connect-json@4.1.0?classifier=sources
+- pkg:maven/org.apache.kafka/connect-json@4.1.1?classifier=sources

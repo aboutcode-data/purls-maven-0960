@@ -61,3 +61,6 @@
 - pkg:maven/org.openidentityplatform.openam/openam-cassandra-datastore@15.2.0?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-cassandra-datastore@15.2.1?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-cassandra-datastore@15.2.2?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-cassandra-datastore@16.0.1?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-cassandra-datastore@16.0.2?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-cassandra-datastore@16.0.3?classifier=sources

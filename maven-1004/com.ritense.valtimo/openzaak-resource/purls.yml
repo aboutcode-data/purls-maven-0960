@@ -51,8 +51,10 @@
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.17.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.18.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-resource@12.19.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.2.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak-resource@12.20.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.3.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak-resource@12.4.0.RELEASE?classifier=sources

@@ -15,6 +15,8 @@
 - pkg:maven/org.opendcs/opendcs-annotations@7.0.16-RC07?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.0.16-RC08?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.0.16-RC09?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.0.16-RC10?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.0.16-RC11?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC01?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC02?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC03?classifier=sources
@@ -25,3 +27,9 @@
 - pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC09?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC10?classifier=sources
 - pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC11?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC12?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC13?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC14?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC15?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC16?classifier=sources
+- pkg:maven/org.opendcs/opendcs-annotations@7.5.1-RC17?classifier=sources

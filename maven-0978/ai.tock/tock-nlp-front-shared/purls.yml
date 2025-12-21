@@ -124,6 +124,8 @@
 - pkg:maven/ai.tock/tock-nlp-front-shared@24.9.7?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-front-shared@24.9.8
 - pkg:maven/ai.tock/tock-nlp-front-shared@24.9.8?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-front-shared@25.10.0?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-front-shared@25.10.1?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-front-shared@25.3.0
 - pkg:maven/ai.tock/tock-nlp-front-shared@25.3.0?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-front-shared@25.3.1

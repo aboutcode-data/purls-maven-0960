@@ -323,6 +323,8 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.3?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.4?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.5?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.6?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.6.7?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.0.Beta0
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.0.Beta0?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.0.Beta1?classifier=sources
@@ -331,3 +333,4 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.2?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.3?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.4?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-amq@1.7.5?classifier=sources

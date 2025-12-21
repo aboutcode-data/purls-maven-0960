@@ -10,3 +10,7 @@
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.0.0-rc01%2Bembeddable?classifier=sources
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.0.0-rc01?classifier=sources
 - pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.0.0-rc02?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.0.0-rc03?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.0.0-rc04?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.0.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.hot-reload/hot-reload-annotations-js@1.1.0-alpha01?classifier=sources

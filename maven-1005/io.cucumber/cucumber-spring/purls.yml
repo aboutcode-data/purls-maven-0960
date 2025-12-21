@@ -247,6 +247,7 @@
 - pkg:maven/io.cucumber/cucumber-spring@7.3.4
 - pkg:maven/io.cucumber/cucumber-spring@7.3.4?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.30.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-spring@7.31.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.4.0
 - pkg:maven/io.cucumber/cucumber-spring@7.4.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-spring@7.4.1

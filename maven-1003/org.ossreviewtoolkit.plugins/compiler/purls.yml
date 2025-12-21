@@ -76,3 +76,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.4.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@71.5.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@72.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@72.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/compiler@72.1.0?classifier=sources

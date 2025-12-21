@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.cassandra/cassandra-analytics-sidecar-client@0.1.0?classifier=sources
+- pkg:maven/org.apache.cassandra/cassandra-analytics-sidecar-client@0.2.0?classifier=sources

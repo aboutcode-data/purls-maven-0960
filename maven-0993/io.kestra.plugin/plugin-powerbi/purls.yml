@@ -27,3 +27,4 @@
 - pkg:maven/io.kestra.plugin/plugin-powerbi@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-powerbi@0.9.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-powerbi@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-powerbi@1.1.0?classifier=sources

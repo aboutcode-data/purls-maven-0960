@@ -37,6 +37,9 @@
 - pkg:maven/com.slack.circuit/circuit-foundation-android@0.29.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-foundation-android@0.29.1?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-foundation-android@0.30.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-foundation-android@0.31.0-alpha01-composejb-1.10.0-alpha03?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-foundation-android@0.31.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-foundation-android@0.32.0-alpha01-composejb-1.10.0-beta01?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-foundation-android@0.8.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-foundation-android@0.9.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-foundation-android@0.9.1?classifier=sources
