@@ -71,6 +71,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.9-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.0-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.1-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.10-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.11-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.2-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.3-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.4-5.10.1?classifier=sources
@@ -78,6 +80,12 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.6-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.7-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.8-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.9-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.6.0-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.6.1-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.6.2-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.6.3-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.6.4-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@5.4.0-pre.398?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@5.4.0-pre.399-compat?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@5.4.0-pre.399?classifier=sources

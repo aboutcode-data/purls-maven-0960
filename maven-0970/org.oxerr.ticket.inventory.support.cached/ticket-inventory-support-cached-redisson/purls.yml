@@ -86,3 +86,5 @@
 - pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-redisson@5.6.1?classifier=sources
 - pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-redisson@5.6.2
 - pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-redisson@5.6.2?classifier=sources
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-redisson@6.0.0
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-redisson@6.0.0?classifier=sources

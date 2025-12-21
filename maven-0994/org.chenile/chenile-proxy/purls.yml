@@ -25,6 +25,9 @@
 - pkg:maven/org.chenile/chenile-proxy@2.0.20?classifier=sources
 - pkg:maven/org.chenile/chenile-proxy@2.0.21?classifier=sources
 - pkg:maven/org.chenile/chenile-proxy@2.0.22?classifier=sources
+- pkg:maven/org.chenile/chenile-proxy@2.0.25?classifier=sources
+- pkg:maven/org.chenile/chenile-proxy@2.0.26?classifier=sources
+- pkg:maven/org.chenile/chenile-proxy@2.0.27?classifier=sources
 - pkg:maven/org.chenile/chenile-proxy@2.0.3?classifier=sources
 - pkg:maven/org.chenile/chenile-proxy@2.0.4?classifier=sources
 - pkg:maven/org.chenile/chenile-proxy@2.0.5?classifier=sources

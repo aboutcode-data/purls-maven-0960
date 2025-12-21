@@ -24,3 +24,5 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-ecr@3.5.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-ecr@3.6.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-ecr@3.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-ecr@3.7.1?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-ecr@3.8.0?classifier=sources

@@ -54,3 +54,7 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.1?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.2
 - pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.2?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.3
+- pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.3?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.4
+- pkg:maven/org.scalikejdbc/scalikejdbc-joda-time_2.12@4.3.4?classifier=sources

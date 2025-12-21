@@ -92,3 +92,5 @@
 - pkg:maven/org.sonarsource.python/python-frontend@5.2.0.20808?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@5.3.0.21704?classifier=sources
 - pkg:maven/org.sonarsource.python/python-frontend@5.4.0.22255?classifier=sources
+- pkg:maven/org.sonarsource.python/python-frontend@5.5.0.23286?classifier=sources
+- pkg:maven/org.sonarsource.python/python-frontend@5.5.0.23291?classifier=sources

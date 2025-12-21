@@ -8,3 +8,5 @@
 - pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.29?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.30
 - pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.30?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.32
+- pkg:maven/io.dropwizard.metrics/metrics-logback15@4.2.32?classifier=sources

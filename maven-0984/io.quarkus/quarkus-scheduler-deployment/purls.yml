@@ -645,8 +645,14 @@
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.22.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.22.3
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.22.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.0
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.0.CR1
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.23.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.24.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.3.0
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.3.0.CR1
 - pkg:maven/io.quarkus/quarkus-scheduler-deployment@3.3.0.CR1?classifier=sources

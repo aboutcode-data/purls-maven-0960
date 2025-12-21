@@ -1,2 +1,4 @@
+- pkg:maven/org.liquibase.ext/liquibase-azure@1.0.0
 - pkg:maven/org.liquibase.ext/liquibase-azure@1.0.0-RC1
 - pkg:maven/org.liquibase.ext/liquibase-azure@1.0.0-RC1?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-azure@1.0.0?classifier=sources

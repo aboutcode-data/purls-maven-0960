@@ -10,3 +10,5 @@
 - pkg:maven/org.oxerr.spring.boot/spring-boot-daemon@1.0.4?classifier=sources
 - pkg:maven/org.oxerr.spring.boot/spring-boot-daemon@2.0.0
 - pkg:maven/org.oxerr.spring.boot/spring-boot-daemon@2.0.0?classifier=sources
+- pkg:maven/org.oxerr.spring.boot/spring-boot-daemon@2.0.1
+- pkg:maven/org.oxerr.spring.boot/spring-boot-daemon@2.0.1?classifier=sources

@@ -112,3 +112,5 @@
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.9.3.Final
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.9.3.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.9.4.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.9.5.Final
+- pkg:maven/org.jboss.arquillian.config/arquillian-config-api@1.9.5.Final?classifier=sources

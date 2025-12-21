@@ -88,3 +88,4 @@
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.8.0?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.8.1
 - pkg:maven/com.couchbase.client/scala-client_2.13@1.8.1?classifier=sources
+- pkg:maven/com.couchbase.client/scala-client_2.13@1.8.2?classifier=sources

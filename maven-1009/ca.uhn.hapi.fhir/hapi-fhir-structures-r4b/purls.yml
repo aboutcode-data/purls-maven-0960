@@ -90,3 +90,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@7.6.1?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@8.0.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@8.0.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@8.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-r4b@8.2.0?classifier=sources

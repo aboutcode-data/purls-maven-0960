@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.seatunnel/seatunnel-ci-tools@2.3.10
 - pkg:maven/org.apache.seatunnel/seatunnel-ci-tools@2.3.10?classifier=sources
+- pkg:maven/org.apache.seatunnel/seatunnel-ci-tools@2.3.11
+- pkg:maven/org.apache.seatunnel/seatunnel-ci-tools@2.3.11?classifier=sources
 - pkg:maven/org.apache.seatunnel/seatunnel-ci-tools@2.3.9
 - pkg:maven/org.apache.seatunnel/seatunnel-ci-tools@2.3.9?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/de.fabmax/webidl-util@0.10.0?classifier=sources
+- pkg:maven/de.fabmax/webidl-util@0.10.1?classifier=sources
+- pkg:maven/de.fabmax/webidl-util@0.10.2?classifier=sources
 - pkg:maven/de.fabmax/webidl-util@0.5.1?classifier=sources
 - pkg:maven/de.fabmax/webidl-util@0.6.0?classifier=sources
 - pkg:maven/de.fabmax/webidl-util@0.7.0?classifier=sources

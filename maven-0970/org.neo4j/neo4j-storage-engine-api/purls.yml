@@ -221,6 +221,8 @@
 - pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.42?classifier=sources
 - pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.43
 - pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.43?classifier=sources
+- pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.44
+- pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.44?classifier=sources
 - pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.5
 - pkg:maven/org.neo4j/neo4j-storage-engine-api@4.4.5?classifier=sources

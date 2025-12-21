@@ -172,6 +172,8 @@
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.23.0-alpha5
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.23.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.23.0?classifier=sources
+- pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.24.0-alpha1
+- pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.24.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.4.0
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.4.0-alpha3
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-api@7.4.0-alpha3?classifier=sources

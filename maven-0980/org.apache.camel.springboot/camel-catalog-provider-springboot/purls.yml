@@ -190,8 +190,12 @@
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.10.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.10.4
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.10.4?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.10.5
+- pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.10.5?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.11.0
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.11.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.12.0
+- pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.2.0
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-catalog-provider-springboot@4.3.0

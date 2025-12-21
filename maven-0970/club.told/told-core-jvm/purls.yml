@@ -1,1 +1,4 @@
 - pkg:maven/club.told/told-core-jvm@2.0.3?classifier=sources
+- pkg:maven/club.told/told-core-jvm@2.0.4?classifier=sources
+- pkg:maven/club.told/told-core-jvm@2.1.0?classifier=sources
+- pkg:maven/club.told/told-core-jvm@2.1.1?classifier=sources

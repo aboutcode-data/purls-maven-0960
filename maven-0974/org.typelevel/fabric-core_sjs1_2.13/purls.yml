@@ -80,6 +80,10 @@
 - pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.15.9?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.16.0
 - pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.16.0?classifier=sources
+- pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.17.0
+- pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.17.0?classifier=sources
+- pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.17.1
+- pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.17.1?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.7.1
 - pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.7.1?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_sjs1_2.13@1.7.2

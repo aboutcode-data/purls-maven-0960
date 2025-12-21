@@ -10,3 +10,4 @@
 - pkg:maven/com.arcmutate/pitest-git-plugin@2.2.0
 - pkg:maven/com.arcmutate/pitest-git-plugin@2.2.1
 - pkg:maven/com.arcmutate/pitest-git-plugin@2.2.2?classifier=sources
+- pkg:maven/com.arcmutate/pitest-git-plugin@2.2.3?classifier=sources

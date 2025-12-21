@@ -222,6 +222,8 @@
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.45?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.46?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.46?type=war
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.47?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.47?type=war
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/bookmark-em@2.4?type=war

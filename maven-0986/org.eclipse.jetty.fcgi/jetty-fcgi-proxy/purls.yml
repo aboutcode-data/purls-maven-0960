@@ -41,6 +41,7 @@
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.20?classifier=sources
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.21
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.21?classifier=sources
+- pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.22?classifier=sources
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.3
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.0.3?classifier=sources
@@ -62,3 +63,4 @@
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.1.0.alpha1?classifier=sources
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.1.0.alpha2
 - pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.1.0.alpha2?classifier=sources
+- pkg:maven/org.eclipse.jetty.fcgi/jetty-fcgi-proxy@12.1.0.beta0?classifier=sources

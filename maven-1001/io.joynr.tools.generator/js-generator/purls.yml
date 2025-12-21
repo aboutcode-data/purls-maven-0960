@@ -348,6 +348,8 @@
 - pkg:maven/io.joynr.tools.generator/js-generator@1.24.3?classifier=sources
 - pkg:maven/io.joynr.tools.generator/js-generator@1.24.4
 - pkg:maven/io.joynr.tools.generator/js-generator@1.24.4?classifier=sources
+- pkg:maven/io.joynr.tools.generator/js-generator@1.24.5
+- pkg:maven/io.joynr.tools.generator/js-generator@1.24.5?classifier=sources
 - pkg:maven/io.joynr.tools.generator/js-generator@1.25.0
 - pkg:maven/io.joynr.tools.generator/js-generator@1.25.0?classifier=sources
 - pkg:maven/io.joynr.tools.generator/js-generator@1.25.2

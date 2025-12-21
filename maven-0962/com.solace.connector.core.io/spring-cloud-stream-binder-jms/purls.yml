@@ -40,3 +40,5 @@
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms@3.1.9?classifier=sources
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms@3.2.0
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms@3.2.0?classifier=sources
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms@3.2.1
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms@3.2.1?classifier=sources

@@ -32,3 +32,6 @@
 - pkg:maven/org.jetbrains.compose.material/material-wasm-js@1.8.0-beta02?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-wasm-js@1.8.0-rc01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-wasm-js@1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-wasm-js@1.8.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-wasm-js@1.9.0-alpha01?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-wasm-js@1.9.0-alpha02?classifier=sources

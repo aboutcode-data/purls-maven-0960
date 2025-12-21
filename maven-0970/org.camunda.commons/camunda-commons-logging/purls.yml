@@ -88,3 +88,5 @@
 - pkg:maven/org.camunda.commons/camunda-commons-logging@7.23.0-alpha5
 - pkg:maven/org.camunda.commons/camunda-commons-logging@7.23.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.commons/camunda-commons-logging@7.23.0?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-logging@7.24.0-alpha1
+- pkg:maven/org.camunda.commons/camunda-commons-logging@7.24.0-alpha1?classifier=sources

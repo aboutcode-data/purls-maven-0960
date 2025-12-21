@@ -305,5 +305,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.8.0-02
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.8.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.80.0-06?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.81.0-08?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-servlet@3.81.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.9.0-01
 - pkg:maven/org.sonatype.nexus/nexus-servlet@3.9.0-01?classifier=sources

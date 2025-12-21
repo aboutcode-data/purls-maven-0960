@@ -237,6 +237,8 @@
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.39?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.3?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.4
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.40
+- pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.40?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.4?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.5
 - pkg:maven/com.orientechnologies/orientdb-gremlin@3.2.5?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.76.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.78.0
 - pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.78.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.80
+- pkg:maven/org.apache.jackrabbit/oak-authorization-principalbased@1.80?classifier=sources

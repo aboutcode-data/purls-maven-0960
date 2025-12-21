@@ -1814,6 +1814,16 @@
 - pkg:maven/com.yahoo.vespa/container-test@8.520.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@8.521.17
 - pkg:maven/com.yahoo.vespa/container-test@8.521.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@8.522.41
+- pkg:maven/com.yahoo.vespa/container-test@8.522.41?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@8.523.24
+- pkg:maven/com.yahoo.vespa/container-test@8.523.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@8.524.25
+- pkg:maven/com.yahoo.vespa/container-test@8.524.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@8.525.48
+- pkg:maven/com.yahoo.vespa/container-test@8.525.48?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-test@8.526.15
+- pkg:maven/com.yahoo.vespa/container-test@8.526.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@8.53.21
 - pkg:maven/com.yahoo.vespa/container-test@8.53.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-test@8.54.61

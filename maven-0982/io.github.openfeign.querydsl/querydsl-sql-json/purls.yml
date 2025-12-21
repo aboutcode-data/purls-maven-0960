@@ -4,6 +4,8 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.10?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.11
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.11?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.12
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.12?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.6
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.6?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.7
@@ -12,3 +14,5 @@
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.8?classifier=sources
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.9
 - pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@6.9?classifier=sources
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@7.0
+- pkg:maven/io.github.openfeign.querydsl/querydsl-sql-json@7.0?classifier=sources

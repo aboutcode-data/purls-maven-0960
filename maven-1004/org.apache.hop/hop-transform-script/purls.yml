@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.hop/hop-transform-script@2.12.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-transform-script@2.13.0
 - pkg:maven/org.apache.hop/hop-transform-script@2.13.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-transform-script@2.14.0
+- pkg:maven/org.apache.hop/hop-transform-script@2.14.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-transform-script@2.4.0
 - pkg:maven/org.apache.hop/hop-transform-script@2.4.0?classifier=sources
 - pkg:maven/org.apache.hop/hop-transform-script@2.5.0

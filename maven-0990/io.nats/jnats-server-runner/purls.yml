@@ -19,3 +19,4 @@
 - pkg:maven/io.nats/jnats-server-runner@1.2.7?classifier=sources
 - pkg:maven/io.nats/jnats-server-runner@1.2.8?classifier=sources
 - pkg:maven/io.nats/jnats-server-runner@2.0.0?classifier=sources
+- pkg:maven/io.nats/jnats-server-runner@2.0.1?classifier=sources

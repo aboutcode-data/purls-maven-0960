@@ -56,3 +56,9 @@
 - pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.0-3_5
 - pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.0-3_5?classifier=sources
 - pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.0?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.1
+- pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.1-3_3
+- pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.1-3_3?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.1-3_5
+- pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.1-3_5?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-plain-hbase-writer-spark_2.12@3.0.1?classifier=sources

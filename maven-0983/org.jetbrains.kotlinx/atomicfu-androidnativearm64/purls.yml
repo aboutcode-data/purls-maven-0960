@@ -11,3 +11,5 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-androidnativearm64@0.26.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-androidnativearm64@0.26.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-androidnativearm64@0.27.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-androidnativearm64@0.28.0-beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-androidnativearm64@0.28.0?classifier=sources

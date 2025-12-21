@@ -550,6 +550,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.8.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.8.9
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.8.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.80
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.80?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.9.0
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.9.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.9.1

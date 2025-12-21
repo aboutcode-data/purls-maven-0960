@@ -41,6 +41,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.10?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.11
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.11?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.12
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.12?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.1?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.2
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.0.2?classifier=sources
@@ -90,6 +92,8 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.5?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.6
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.6?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.7
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@3.3.7?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.0
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.0-preview.1
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.0-preview.1?classifier=sources
@@ -102,3 +106,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.4
 - pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.4?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.5
+- pkg:maven/org.apache.pulsar/pulsar-io-debezium-oracle@4.0.5?classifier=sources

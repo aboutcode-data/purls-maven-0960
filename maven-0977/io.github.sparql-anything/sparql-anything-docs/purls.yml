@@ -4,6 +4,10 @@
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@0.9.0-alpha-1
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@0.9.0-alpha-1?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@0.9.0?classifier=sources
+- pkg:maven/io.github.sparql-anything/sparql-anything-docs@1.0.0
+- pkg:maven/io.github.sparql-anything/sparql-anything-docs@1.0.0?classifier=sources
+- pkg:maven/io.github.sparql-anything/sparql-anything-docs@1.1-DEV-4
+- pkg:maven/io.github.sparql-anything/sparql-anything-docs@1.1-DEV-4?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0-DEV.1
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0-DEV.10
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0-DEV.10?classifier=sources
@@ -26,3 +30,5 @@
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0-DEV.8?classifier=sources
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0-DEV.9
 - pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0-DEV.9?classifier=sources
+- pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0.0
+- pkg:maven/io.github.sparql-anything/sparql-anything-docs@v1.0.0?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.1.0-beta?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.1.0-rc?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.2.0?classifier=sources
+- pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.10?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.1?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.2?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.3?classifier=sources
@@ -22,3 +23,4 @@
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.5?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.6?classifier=sources
 - pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.8?classifier=sources
+- pkg:maven/me.devnatan/inventory-framework-platform-paper@3.3.9?classifier=sources

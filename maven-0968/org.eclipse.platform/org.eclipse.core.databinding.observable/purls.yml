@@ -16,6 +16,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.13.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.13.300
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.13.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.13.400
+- pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.13.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.databinding.observable@1.6.100

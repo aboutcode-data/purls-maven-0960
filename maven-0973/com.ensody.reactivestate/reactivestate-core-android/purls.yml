@@ -21,6 +21,8 @@
 - pkg:maven/com.ensody.reactivestate/reactivestate-core-android@5.8.0?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-core-android@5.8.1?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-core-android@5.9.0?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-core-android@6.0.0-preview.10?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-core-android@6.0.0-preview.11?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-core-android@6.0.0-preview.1?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-core-android@6.0.0-preview.2?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-core-android@6.0.0-preview.3?classifier=sources

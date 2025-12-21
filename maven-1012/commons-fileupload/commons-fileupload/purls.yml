@@ -24,3 +24,4 @@
 - pkg:maven/commons-fileupload/commons-fileupload@1.4
 - pkg:maven/commons-fileupload/commons-fileupload@1.4?classifier=sources
 - pkg:maven/commons-fileupload/commons-fileupload@1.5?classifier=sources
+- pkg:maven/commons-fileupload/commons-fileupload@1.6.0?classifier=sources

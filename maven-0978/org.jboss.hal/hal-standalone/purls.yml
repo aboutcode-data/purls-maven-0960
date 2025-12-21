@@ -80,6 +80,8 @@
 - pkg:maven/org.jboss.hal/hal-standalone@3.7.10.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-standalone@3.7.11.Final
 - pkg:maven/org.jboss.hal/hal-standalone@3.7.11.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-standalone@3.7.12.Final
+- pkg:maven/org.jboss.hal/hal-standalone@3.7.12.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-standalone@3.7.4.Final
 - pkg:maven/org.jboss.hal/hal-standalone@3.7.4.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-standalone@3.7.5.Final

@@ -106,6 +106,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.20.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.22.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.22.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.23.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.23.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonata-deployment@3.5.0

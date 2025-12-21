@@ -19,6 +19,8 @@
 - pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.11?classifier=sources
 - pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.12
 - pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.12?classifier=sources
+- pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.13
+- pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.13?classifier=sources
 - pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.1?classifier=sources
 - pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.2
 - pkg:maven/org.eclipse.tycho/p2-maven-plugin@4.0.2?classifier=sources

@@ -103,6 +103,10 @@
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.63?classifier=sources
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.64
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.64?classifier=sources
+- pkg:maven/com.ciicgat.open/open-sdk-java@1.0.65
+- pkg:maven/com.ciicgat.open/open-sdk-java@1.0.65?classifier=sources
+- pkg:maven/com.ciicgat.open/open-sdk-java@1.0.66
+- pkg:maven/com.ciicgat.open/open-sdk-java@1.0.66?classifier=sources
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.6?classifier=sources
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.7
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.7?classifier=sources
@@ -110,3 +114,5 @@
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.8?classifier=sources
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.9
 - pkg:maven/com.ciicgat.open/open-sdk-java@1.0.9?classifier=sources
+- pkg:maven/com.ciicgat.open/open-sdk-java@2025.06.09
+- pkg:maven/com.ciicgat.open/open-sdk-java@2025.06.09?classifier=sources

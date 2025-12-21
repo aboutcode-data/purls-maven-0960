@@ -367,6 +367,10 @@
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.21?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.22
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.22?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.23
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.23?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.24
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.24?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.2?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.3
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.3?classifier=sources
@@ -382,3 +386,7 @@
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.8?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.9
 - pkg:maven/com.hashicorp/cdktf-tf-module-stack@6.0.9?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@7.0.0
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@7.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@7.0.1
+- pkg:maven/com.hashicorp/cdktf-tf-module-stack@7.0.1?classifier=sources

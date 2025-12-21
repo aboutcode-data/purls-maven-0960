@@ -6,3 +6,6 @@
 - pkg:maven/org.eclipse.ecsp/device-shadow-entities@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.ecsp/device-shadow-entities@0.4.0
 - pkg:maven/org.eclipse.ecsp/device-shadow-entities@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/device-shadow-entities@1.0.0
+- pkg:maven/org.eclipse.ecsp/device-shadow-entities@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/device-shadow-entities@1.0.1?classifier=sources

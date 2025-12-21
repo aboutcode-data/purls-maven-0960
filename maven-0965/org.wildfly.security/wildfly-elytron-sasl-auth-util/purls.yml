@@ -26,6 +26,10 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.14.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.15.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.15.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.16.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.16.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.17.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.17.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-sasl-auth-util@1.10.3.Final

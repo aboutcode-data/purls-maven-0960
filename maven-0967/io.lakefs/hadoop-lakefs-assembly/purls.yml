@@ -29,6 +29,7 @@
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.8
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.8?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.1.9?classifier=sources
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3-demo
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3-demo-0
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3-demo-0?classifier=sources
@@ -65,6 +66,7 @@
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3-demo-9
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3-demo-9?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3-demo?classifier=sources
+- pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.14.3?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.15.0-demo-0
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.15.0-demo-0?classifier=sources
 - pkg:maven/io.lakefs/hadoop-lakefs-assembly@0.15.0-demo-10

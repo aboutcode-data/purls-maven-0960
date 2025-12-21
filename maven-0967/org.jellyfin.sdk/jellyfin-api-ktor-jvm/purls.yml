@@ -18,3 +18,4 @@
 - pkg:maven/org.jellyfin.sdk/jellyfin-api-ktor-jvm@1.6.6?classifier=sources
 - pkg:maven/org.jellyfin.sdk/jellyfin-api-ktor-jvm@1.6.7?classifier=sources
 - pkg:maven/org.jellyfin.sdk/jellyfin-api-ktor-jvm@1.6.8?classifier=sources
+- pkg:maven/org.jellyfin.sdk/jellyfin-api-ktor-jvm@1.7.0-beta.1?classifier=sources

@@ -21,6 +21,10 @@
 - pkg:maven/net.folivo/client-repository-test@4.15.1?classifier=sources
 - pkg:maven/net.folivo/client-repository-test@4.15.2?classifier=sources
 - pkg:maven/net.folivo/client-repository-test@4.15.3?classifier=sources
+- pkg:maven/net.folivo/client-repository-test@4.16.0?classifier=sources
+- pkg:maven/net.folivo/client-repository-test@4.16.1?classifier=sources
+- pkg:maven/net.folivo/client-repository-test@4.16.2?classifier=sources
+- pkg:maven/net.folivo/client-repository-test@4.16.3?classifier=sources
 - pkg:maven/net.folivo/client-repository-test@4.7.0?classifier=sources
 - pkg:maven/net.folivo/client-repository-test@4.7.1?classifier=sources
 - pkg:maven/net.folivo/client-repository-test@4.7.2?classifier=sources

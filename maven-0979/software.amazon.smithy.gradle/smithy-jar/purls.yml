@@ -3,3 +3,4 @@
 - pkg:maven/software.amazon.smithy.gradle/smithy-jar@1.0.0?classifier=sources
 - pkg:maven/software.amazon.smithy.gradle/smithy-jar@1.1.0?classifier=sources
 - pkg:maven/software.amazon.smithy.gradle/smithy-jar@1.2.0?classifier=sources
+- pkg:maven/software.amazon.smithy.gradle/smithy-jar@1.3.0?classifier=sources

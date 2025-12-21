@@ -1,0 +1,2 @@
+- pkg:maven/org.questdb/flyway-database-questdb@1.0.0
+- pkg:maven/org.questdb/flyway-database-questdb@1.0.0?classifier=sources

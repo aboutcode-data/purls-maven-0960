@@ -1,1 +1,5 @@
+- pkg:maven/org.infinispan/infinispan-distribution@15.0.15.Final?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@15.2.2.Final?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@15.2.3.Final?classifier=src&type=zip
+- pkg:maven/org.infinispan/infinispan-distribution@15.2.4.Final?classifier=src&type=zip
 - pkg:maven/org.infinispan/infinispan-distribution@16.0.0.Dev01?classifier=src&type=zip

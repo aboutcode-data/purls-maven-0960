@@ -4,9 +4,12 @@
 - pkg:maven/io.spinnaker.orca/keiko-spring@2025.0-3?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@2025.0-4?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@2025.0-5?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@2025.0-6?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@2025.0-7?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.15.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.16.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.17.1?classifier=sources
@@ -89,6 +92,7 @@
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.56.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.57.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.57.1?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@8.57.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.58.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.59.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@8.60.0?classifier=sources
@@ -102,6 +106,15 @@
 - pkg:maven/io.spinnaker.orca/keiko-spring@main-11?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@main-13?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-14?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-15?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-16?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-17?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-18?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-19?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-20?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-21?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-spring@main-22?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@main-5?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@main-6?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-spring@main-7?classifier=sources

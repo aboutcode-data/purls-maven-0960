@@ -49,6 +49,8 @@
 - pkg:maven/org.datatransferproject/portability-auth-koofr@1.0.4
 - pkg:maven/org.datatransferproject/portability-auth-koofr@1.0.4?classifier=sources
 - pkg:maven/org.datatransferproject/portability-auth-koofr@1.1.1
+- pkg:maven/org.datatransferproject/portability-auth-koofr@1.1.13
+- pkg:maven/org.datatransferproject/portability-auth-koofr@1.1.13?classifier=sources
 - pkg:maven/org.datatransferproject/portability-auth-koofr@1.1.1?classifier=sources
 - pkg:maven/org.datatransferproject/portability-auth-koofr@1.1.3
 - pkg:maven/org.datatransferproject/portability-auth-koofr@1.1.3?classifier=sources

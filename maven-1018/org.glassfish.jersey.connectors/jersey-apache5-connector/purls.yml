@@ -22,6 +22,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.46
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.47
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.10
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache5-connector@3.0.11

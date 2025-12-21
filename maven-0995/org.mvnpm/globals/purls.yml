@@ -23,5 +23,7 @@
 - pkg:maven/org.mvnpm/globals@16.0.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@16.1.0
 - pkg:maven/org.mvnpm/globals@16.1.0?classifier=sources
+- pkg:maven/org.mvnpm/globals@16.2.0
+- pkg:maven/org.mvnpm/globals@16.2.0?classifier=sources
 - pkg:maven/org.mvnpm/globals@6.4.1?classifier=sources
 - pkg:maven/org.mvnpm/globals@9.18.0?classifier=sources

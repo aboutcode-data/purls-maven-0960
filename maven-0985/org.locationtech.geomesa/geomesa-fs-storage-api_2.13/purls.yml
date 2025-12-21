@@ -22,3 +22,5 @@
 - pkg:maven/org.locationtech.geomesa/geomesa-fs-storage-api_2.13@5.2.1?classifier=sources
 - pkg:maven/org.locationtech.geomesa/geomesa-fs-storage-api_2.13@5.2.2
 - pkg:maven/org.locationtech.geomesa/geomesa-fs-storage-api_2.13@5.2.2?classifier=sources
+- pkg:maven/org.locationtech.geomesa/geomesa-fs-storage-api_2.13@5.3.0
+- pkg:maven/org.locationtech.geomesa/geomesa-fs-storage-api_2.13@5.3.0?classifier=sources

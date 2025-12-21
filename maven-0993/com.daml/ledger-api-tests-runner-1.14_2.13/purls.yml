@@ -382,8 +382,14 @@
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.0-snapshot.20250211.13169.0.vd812609c
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.0-snapshot.20250211.13169.0.vd812609c?classifier=sources
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.0?classifier=sources
+- pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1-snapshot.20250513.13174.0.vfd3eadaf
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1-snapshot.20250513.13174.0.vfd3eadaf?classifier=sources
+- pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1-snapshot.20250523.13179.0.v7cd2f5cf
+- pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1-snapshot.20250523.13179.0.v7cd2f5cf?classifier=sources
+- pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1-snapshot.20250527.13181.0.v1004bc26
+- pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1-snapshot.20250527.13181.0.v1004bc26?classifier=sources
+- pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.10.1?classifier=sources
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.2.0
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.2.0-snapshot.20220412.9721.0.b7c4bdab
 - pkg:maven/com.daml/ledger-api-tests-runner-1.14_2.13@2.2.0-snapshot.20220412.9721.0.b7c4bdab?classifier=sources

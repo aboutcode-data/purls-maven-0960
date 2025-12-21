@@ -12,6 +12,8 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@1.18.7?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@1.18.8
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@1.18.8?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@1.18.9
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@1.18.9?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.0
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.0?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.1
@@ -26,3 +28,7 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.6?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.7
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.7?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.8
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@2.0.8?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@3.0.0
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.websockets@3.0.0?classifier=sources

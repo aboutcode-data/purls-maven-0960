@@ -30,6 +30,7 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.16.1?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.16.2
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.16.2?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.16.3?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.2.2
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.2.2?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-quarkus@1.2.3

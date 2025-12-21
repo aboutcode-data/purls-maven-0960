@@ -191,6 +191,12 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.29?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.2?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.3
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.30
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.30?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.32
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.32?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.33
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.33?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.3?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.4
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_2.13@1.11.4?classifier=sources

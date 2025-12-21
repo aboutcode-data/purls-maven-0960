@@ -350,5 +350,9 @@
 - pkg:maven/org.talend.sdk.component/gradle-talend-component@1.80.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/gradle-talend-component@1.80.1
 - pkg:maven/org.talend.sdk.component/gradle-talend-component@1.80.1?classifier=sources
+- pkg:maven/org.talend.sdk.component/gradle-talend-component@1.81.0
+- pkg:maven/org.talend.sdk.component/gradle-talend-component@1.81.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/gradle-talend-component@1.82.0
+- pkg:maven/org.talend.sdk.component/gradle-talend-component@1.82.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/gradle-talend-component@10.57.0
 - pkg:maven/org.talend.sdk.component/gradle-talend-component@10.57.0?classifier=sources

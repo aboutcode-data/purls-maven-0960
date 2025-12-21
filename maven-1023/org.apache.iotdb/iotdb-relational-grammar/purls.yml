@@ -1,4 +1,8 @@
 - pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.1-beta
 - pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.1-beta?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.2
+- pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.2-1
+- pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.2-1?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.2?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.3
+- pkg:maven/org.apache.iotdb/iotdb-relational-grammar@2.0.3?classifier=sources

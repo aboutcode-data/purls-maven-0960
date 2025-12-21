@@ -666,6 +666,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.17
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.17?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.18
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.18.1
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.18.1?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.18?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.19
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.19?classifier=sources
@@ -675,6 +677,14 @@
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.20?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.21
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.21?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.22
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.22?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.23
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.23?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.24
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.24?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.25
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.25?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.3
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.dstu2@6.5.3?classifier=sources

@@ -21,6 +21,7 @@
 - pkg:maven/name.dmaus.schxslt/java@3.1.1
 - pkg:maven/name.dmaus.schxslt/java@3.1.1?classifier=sources
 - pkg:maven/name.dmaus.schxslt/java@4.0
+- pkg:maven/name.dmaus.schxslt/java@4.0.2?classifier=sources
 - pkg:maven/name.dmaus.schxslt/java@4.0?classifier=sources
 - pkg:maven/name.dmaus.schxslt/java@v3.1.0
 - pkg:maven/name.dmaus.schxslt/java@v3.1.0?classifier=sources

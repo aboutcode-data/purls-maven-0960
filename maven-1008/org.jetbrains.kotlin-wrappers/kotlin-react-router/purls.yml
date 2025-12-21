@@ -71,6 +71,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.4.9-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.0-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.1-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.10-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.11-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.2-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.3-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.4-6.28.2?classifier=sources
@@ -78,6 +80,12 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.6-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.7-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.8-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.5.9-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.6.0-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.6.1-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.6.2-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.6.3-6.28.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@2025.6.4-6.28.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@6.10.0-pre.531?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@6.10.0-pre.532?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router@6.10.0-pre.533?classifier=sources

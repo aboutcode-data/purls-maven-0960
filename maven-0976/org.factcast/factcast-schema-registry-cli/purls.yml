@@ -184,4 +184,5 @@
 - pkg:maven/org.factcast/factcast-schema-registry-cli@0.9.6?classifier=sources
 - pkg:maven/org.factcast/factcast-schema-registry-cli@0.9.7
 - pkg:maven/org.factcast/factcast-schema-registry-cli@0.9.7?classifier=sources
+- pkg:maven/org.factcast/factcast-schema-registry-cli@0.9.8-hotfix?classifier=sources
 - pkg:maven/org.factcast/factcast-schema-registry-cli@0.9.8?classifier=sources

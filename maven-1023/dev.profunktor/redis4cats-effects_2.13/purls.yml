@@ -74,3 +74,5 @@
 - pkg:maven/dev.profunktor/redis4cats-effects_2.13@1.7.1?classifier=sources
 - pkg:maven/dev.profunktor/redis4cats-effects_2.13@1.7.2
 - pkg:maven/dev.profunktor/redis4cats-effects_2.13@1.7.2?classifier=sources
+- pkg:maven/dev.profunktor/redis4cats-effects_2.13@2.0.0
+- pkg:maven/dev.profunktor/redis4cats-effects_2.13@2.0.0?classifier=sources

@@ -74,3 +74,7 @@
 - pkg:maven/com.codacy/foundation-cmd_2.13@17.1.2_play_2.7?classifier=sources
 - pkg:maven/com.codacy/foundation-cmd_2.13@17.1.2_play_2.8
 - pkg:maven/com.codacy/foundation-cmd_2.13@17.1.2_play_2.8?classifier=sources
+- pkg:maven/com.codacy/foundation-cmd_2.13@17.1.3_play_2.7
+- pkg:maven/com.codacy/foundation-cmd_2.13@17.1.3_play_2.7?classifier=sources
+- pkg:maven/com.codacy/foundation-cmd_2.13@17.1.3_play_2.8
+- pkg:maven/com.codacy/foundation-cmd_2.13@17.1.3_play_2.8?classifier=sources

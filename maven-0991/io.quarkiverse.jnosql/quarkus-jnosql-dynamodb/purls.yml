@@ -1,3 +1,6 @@
 - pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-dynamodb@3.4.0?classifier=sources
 - pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-dynamodb@3.4.1?classifier=sources
 - pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-dynamodb@3.4.2?classifier=sources
+- pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-dynamodb@3.4.4?classifier=sources
+- pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-dynamodb@3.4.5?classifier=sources
+- pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-dynamodb@3.4.6?classifier=sources

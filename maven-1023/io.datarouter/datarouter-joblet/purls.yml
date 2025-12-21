@@ -50,6 +50,8 @@
 - pkg:maven/io.datarouter/datarouter-joblet@0.0.125?classifier=sources
 - pkg:maven/io.datarouter/datarouter-joblet@0.0.126
 - pkg:maven/io.datarouter/datarouter-joblet@0.0.126?classifier=sources
+- pkg:maven/io.datarouter/datarouter-joblet@0.0.127
+- pkg:maven/io.datarouter/datarouter-joblet@0.0.127?classifier=sources
 - pkg:maven/io.datarouter/datarouter-joblet@0.0.16
 - pkg:maven/io.datarouter/datarouter-joblet@0.0.16?classifier=sources
 - pkg:maven/io.datarouter/datarouter-joblet@0.0.17

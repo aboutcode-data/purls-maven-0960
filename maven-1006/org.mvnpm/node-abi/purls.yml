@@ -48,3 +48,5 @@
 - pkg:maven/org.mvnpm/node-abi@4.6.0?classifier=sources
 - pkg:maven/org.mvnpm/node-abi@4.8.0
 - pkg:maven/org.mvnpm/node-abi@4.8.0?classifier=sources
+- pkg:maven/org.mvnpm/node-abi@4.9.0
+- pkg:maven/org.mvnpm/node-abi@4.9.0?classifier=sources

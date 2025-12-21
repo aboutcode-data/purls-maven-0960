@@ -124,6 +124,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.46
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.47
+- pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.9
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.9.1
 - pkg:maven/org.glassfish.jersey.ext/jersey-metainf-services@2.9.1?classifier=sources

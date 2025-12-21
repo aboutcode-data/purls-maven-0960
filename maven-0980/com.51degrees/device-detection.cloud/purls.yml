@@ -352,6 +352,11 @@
 - pkg:maven/com.51degrees/device-detection.cloud@4.4.238
 - pkg:maven/com.51degrees/device-detection.cloud@4.4.238?classifier=sources
 - pkg:maven/com.51degrees/device-detection.cloud@4.4.239?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.4.240?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.4.241?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.4.242?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.4.243?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.4.244?classifier=sources
 - pkg:maven/com.51degrees/device-detection.cloud@4.4.27
 - pkg:maven/com.51degrees/device-detection.cloud@4.4.27?classifier=sources
 - pkg:maven/com.51degrees/device-detection.cloud@4.4.28
@@ -607,3 +612,7 @@
 - pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.360?classifier=sources
 - pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.362
 - pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.362?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.368?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.369?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.370?classifier=sources
+- pkg:maven/com.51degrees/device-detection.cloud@4.5.0-alpha.371?classifier=sources

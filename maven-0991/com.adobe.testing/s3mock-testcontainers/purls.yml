@@ -138,3 +138,5 @@
 - pkg:maven/com.adobe.testing/s3mock-testcontainers@4.2.0?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testcontainers@4.3.0
 - pkg:maven/com.adobe.testing/s3mock-testcontainers@4.3.0?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testcontainers@4.4.0
+- pkg:maven/com.adobe.testing/s3mock-testcontainers@4.4.0?classifier=sources

@@ -204,6 +204,9 @@
 - pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.25.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.26.0
 - pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.26.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.27.0
+- pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.27.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.28.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.3.0
 - pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/slack-tasks@2.4.0
