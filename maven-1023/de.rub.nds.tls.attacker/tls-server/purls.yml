@@ -6,6 +6,7 @@
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.1.6?classifier=sources
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.2.1
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.2.1?classifier=sources
+- pkg:maven/de.rub.nds.tls.attacker/tls-server@5.2.1b?classifier=sources
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.0
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.0?classifier=sources
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@5.3.3-preX509b
@@ -24,3 +25,6 @@
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@7.1.1?classifier=sources
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@7.2.0?classifier=sources
 - pkg:maven/de.rub.nds.tls.attacker/tls-server@7.2.1?classifier=sources
+- pkg:maven/de.rub.nds.tls.attacker/tls-server@7.3.1?classifier=sources
+- pkg:maven/de.rub.nds.tls.attacker/tls-server@7.4.0?classifier=sources
+- pkg:maven/de.rub.nds.tls.attacker/tls-server@7.4.1?classifier=sources

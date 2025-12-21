@@ -8,3 +8,5 @@
 - pkg:maven/org.wildfly/wildfly-mcp-injection@0.5.0?classifier=sources
 - pkg:maven/org.wildfly/wildfly-mcp-injection@0.6.0
 - pkg:maven/org.wildfly/wildfly-mcp-injection@0.6.0?classifier=sources
+- pkg:maven/org.wildfly/wildfly-mcp-injection@0.7.0
+- pkg:maven/org.wildfly/wildfly-mcp-injection@0.7.0?classifier=sources

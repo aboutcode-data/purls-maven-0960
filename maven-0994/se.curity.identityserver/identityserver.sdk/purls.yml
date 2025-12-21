@@ -4,6 +4,7 @@
 - pkg:maven/se.curity.identityserver/identityserver.sdk@10.1.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.sdk@10.2.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.sdk@10.2.1?classifier=sources
+- pkg:maven/se.curity.identityserver/identityserver.sdk@10.3.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.sdk@5.1.0
 - pkg:maven/se.curity.identityserver/identityserver.sdk@5.1.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.sdk@5.2.0

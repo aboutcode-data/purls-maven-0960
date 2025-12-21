@@ -88,6 +88,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.51.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.52.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.52.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.54.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.54.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.55.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.55.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-biglake-v1alpha1@0.7.0

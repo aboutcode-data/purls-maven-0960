@@ -6,6 +6,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.0.16?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.0.17
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.0.17?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.0.18
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.0.18?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.1.10
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.1.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-thymeleaf@3.1.7

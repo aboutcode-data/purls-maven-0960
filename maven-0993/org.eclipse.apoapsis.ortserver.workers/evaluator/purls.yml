@@ -19,6 +19,11 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.1.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.10.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.11.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.12.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.14.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.15.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.16.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.17.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.workers/evaluator@0.4.0?classifier=sources

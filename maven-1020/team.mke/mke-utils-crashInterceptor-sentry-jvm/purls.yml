@@ -1,1 +1,3 @@
 - pkg:maven/team.mke/mke-utils-crashInterceptor-sentry-jvm@3.0.0?classifier=sources
+- pkg:maven/team.mke/mke-utils-crashInterceptor-sentry-jvm@3.1.0?classifier=sources
+- pkg:maven/team.mke/mke-utils-crashInterceptor-sentry-jvm@3.1.1?classifier=sources

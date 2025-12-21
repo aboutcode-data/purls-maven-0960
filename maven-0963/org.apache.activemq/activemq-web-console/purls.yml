@@ -188,3 +188,5 @@
 - pkg:maven/org.apache.activemq/activemq-web-console@6.1.5?type=war
 - pkg:maven/org.apache.activemq/activemq-web-console@6.1.6?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-web-console@6.1.6?type=war
+- pkg:maven/org.apache.activemq/activemq-web-console@6.1.7?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-web-console@6.1.7?type=war

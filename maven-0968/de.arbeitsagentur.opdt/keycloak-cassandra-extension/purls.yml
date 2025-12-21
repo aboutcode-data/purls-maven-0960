@@ -188,3 +188,7 @@
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.0.1-26.0?classifier=sources
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.1.0-26.1
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.1.0-26.1?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.2.0-26.1
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.2.0-26.1?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.3.4-26.2
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension@5.3.4-26.2?classifier=sources

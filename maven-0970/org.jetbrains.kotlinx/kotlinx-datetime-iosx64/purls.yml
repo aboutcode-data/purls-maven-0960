@@ -13,3 +13,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-iosx64@0.6.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-iosx64@0.6.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-iosx64@0.6.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-iosx64@0.7.0-0.6.x-compat?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-iosx64@0.7.0?classifier=sources

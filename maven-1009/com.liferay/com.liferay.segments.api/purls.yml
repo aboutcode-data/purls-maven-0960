@@ -284,6 +284,7 @@
 - pkg:maven/com.liferay/com.liferay.segments.api@28.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.api@28.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.api@29.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.api@29.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.segments.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.api@3.0.0?classifier=sources-commercial

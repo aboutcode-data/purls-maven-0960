@@ -85,6 +85,8 @@
 - pkg:maven/io.camunda.connector/connector-test@8.4.2
 - pkg:maven/io.camunda.connector/connector-test@8.4.20
 - pkg:maven/io.camunda.connector/connector-test@8.4.20?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.4.21-rc4?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.4.21?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.4.2?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.4.3
 - pkg:maven/io.camunda.connector/connector-test@8.4.3?classifier=sources
@@ -117,6 +119,8 @@
 - pkg:maven/io.camunda.connector/connector-test@8.5.16?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.5.17
 - pkg:maven/io.camunda.connector/connector-test@8.5.17?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.5.18-rc3?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.5.18?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.5.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.5.2
 - pkg:maven/io.camunda.connector/connector-test@8.5.2?classifier=sources
@@ -155,6 +159,10 @@
 - pkg:maven/io.camunda.connector/connector-test@8.6.12?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.6.13
 - pkg:maven/io.camunda.connector/connector-test@8.6.13?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.6.14
+- pkg:maven/io.camunda.connector/connector-test@8.6.14?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.6.15-rc1?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.6.15?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.6.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.6.2
 - pkg:maven/io.camunda.connector/connector-test@8.6.2?classifier=sources
@@ -184,6 +192,10 @@
 - pkg:maven/io.camunda.connector/connector-test@8.7.2?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.7.3
 - pkg:maven/io.camunda.connector/connector-test@8.7.3?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.7.4
+- pkg:maven/io.camunda.connector/connector-test@8.7.4?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.7.5-rc1?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.7.5?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha3
 - pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha3.1
 - pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha3.1?classifier=sources
@@ -194,3 +206,4 @@
 - pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha4?classifier=sources
 - pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha5
 - pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha5?classifier=sources
+- pkg:maven/io.camunda.connector/connector-test@8.8.0-alpha6?classifier=sources

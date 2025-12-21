@@ -121,6 +121,7 @@
 - pkg:maven/org.opensourcebim/mergers@0.0.7
 - pkg:maven/org.opensourcebim/mergers@0.0.70
 - pkg:maven/org.opensourcebim/mergers@0.0.70?classifier=sources
+- pkg:maven/org.opensourcebim/mergers@0.0.71?classifier=sources
 - pkg:maven/org.opensourcebim/mergers@0.0.7?classifier=sources
 - pkg:maven/org.opensourcebim/mergers@0.0.9
 - pkg:maven/org.opensourcebim/mergers@0.0.9?classifier=sources

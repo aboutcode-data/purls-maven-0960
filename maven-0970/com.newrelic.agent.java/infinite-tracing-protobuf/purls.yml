@@ -2,3 +2,4 @@
 - pkg:maven/com.newrelic.agent.java/infinite-tracing-protobuf@3.2?classifier=sources
 - pkg:maven/com.newrelic.agent.java/infinite-tracing-protobuf@3.3?classifier=sources
 - pkg:maven/com.newrelic.agent.java/infinite-tracing-protobuf@3.4?classifier=sources
+- pkg:maven/com.newrelic.agent.java/infinite-tracing-protobuf@3.5?classifier=sources

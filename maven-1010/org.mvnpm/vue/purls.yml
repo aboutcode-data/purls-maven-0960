@@ -16,4 +16,6 @@
 - pkg:maven/org.mvnpm/vue@3.5.15?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.16
 - pkg:maven/org.mvnpm/vue@3.5.16?classifier=sources
+- pkg:maven/org.mvnpm/vue@3.5.17
+- pkg:maven/org.mvnpm/vue@3.5.17?classifier=sources
 - pkg:maven/org.mvnpm/vue@3.5.8?classifier=sources

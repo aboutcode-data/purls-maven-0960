@@ -56,3 +56,5 @@
 - pkg:maven/com.superwall.sdk/superwall-android@2.2.1?classifier=sources
 - pkg:maven/com.superwall.sdk/superwall-android@2.2.2-debuggable?classifier=sources
 - pkg:maven/com.superwall.sdk/superwall-android@2.2.2?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@2.2.3-debuggable-notifications?classifier=sources
+- pkg:maven/com.superwall.sdk/superwall-android@2.2.3?classifier=sources

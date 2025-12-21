@@ -16,6 +16,8 @@
 - pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.12.0-RC4
 - pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.12.0-RC4?classifier=sources
 - pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.12.0?classifier=sources
+- pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.13.0
+- pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.13.0?classifier=sources
 - pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.7.0
 - pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.7.0?classifier=sources
 - pkg:maven/org.typelevel/otel4s-sdk-exporter-metrics_sjs1_3@0.8.0

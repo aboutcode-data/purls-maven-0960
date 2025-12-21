@@ -64,12 +64,17 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.17.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.18.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.18.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.19.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.2.2?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.2.3?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.2.4?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.2.5?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.20.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.21.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.22.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.22.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.3.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.4.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.5.0?classifier=sources
@@ -83,6 +88,7 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.9.4?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.9.5?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@13.9.6?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@14.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@2.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@2.2.1?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-sdk@2.3.0?classifier=sources

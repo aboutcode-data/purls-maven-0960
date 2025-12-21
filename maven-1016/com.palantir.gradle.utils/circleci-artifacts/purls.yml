@@ -1,5 +1,9 @@
 - pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.10.0?classifier=sources
 - pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.11.0?classifier=sources
+- pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.12.0?classifier=sources
+- pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.13.0?classifier=sources
+- pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.14.0?classifier=sources
+- pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.15.0?classifier=sources
 - pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.6.0?classifier=sources
 - pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.7.0?classifier=sources
 - pkg:maven/com.palantir.gradle.utils/circleci-artifacts@0.8.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.kamon/kamon-aws-sdk_3@2.7.6?classifier=sources
 - pkg:maven/io.kamon/kamon-aws-sdk_3@2.7.7
 - pkg:maven/io.kamon/kamon-aws-sdk_3@2.7.7?classifier=sources
+- pkg:maven/io.kamon/kamon-aws-sdk_3@2.8.0-beta.1
+- pkg:maven/io.kamon/kamon-aws-sdk_3@2.8.0-beta.1?classifier=sources

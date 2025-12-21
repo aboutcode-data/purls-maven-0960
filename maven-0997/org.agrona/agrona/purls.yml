@@ -140,3 +140,5 @@
 - pkg:maven/org.agrona/agrona@2.2.2-deploy-test2?classifier=sources
 - pkg:maven/org.agrona/agrona@2.2.2-deploy-test?classifier=sources
 - pkg:maven/org.agrona/agrona@2.2.2?classifier=sources
+- pkg:maven/org.agrona/agrona@2.2.3?classifier=sources
+- pkg:maven/org.agrona/agrona@2.2.4?classifier=sources

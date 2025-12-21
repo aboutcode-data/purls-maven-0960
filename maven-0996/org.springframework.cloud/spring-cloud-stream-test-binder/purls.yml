@@ -22,6 +22,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.1.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.1.5
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.1.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.1.6?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.2.0
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.2.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-test-binder@4.2.1

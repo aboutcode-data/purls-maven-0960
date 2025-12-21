@@ -494,3 +494,6 @@
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@3.6?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@3.7
 - pkg:maven/com.googlecode.libphonenumber/prefixmapper@3.7?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@3.8
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@3.8?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/prefixmapper@3.9?classifier=sources

@@ -3,6 +3,9 @@
 - pkg:maven/team.razz.eva/eva-idempotency-key@0.0.3-RC1?classifier=sources
 - pkg:maven/team.razz.eva/eva-idempotency-key@0.1.0?classifier=sources
 - pkg:maven/team.razz.eva/eva-idempotency-key@0.10.0?classifier=sources
+- pkg:maven/team.razz.eva/eva-idempotency-key@0.11.0?classifier=sources
+- pkg:maven/team.razz.eva/eva-idempotency-key@0.12.0?classifier=sources
+- pkg:maven/team.razz.eva/eva-idempotency-key@0.13.0?classifier=sources
 - pkg:maven/team.razz.eva/eva-idempotency-key@0.3.0?classifier=sources
 - pkg:maven/team.razz.eva/eva-idempotency-key@0.3.1?classifier=sources
 - pkg:maven/team.razz.eva/eva-idempotency-key@0.3.2?classifier=sources

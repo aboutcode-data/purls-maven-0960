@@ -115,9 +115,13 @@
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.17
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.17?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.18?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.19?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.1?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.2
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.20?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.21?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.2?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.2T?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.3
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.3?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-json-jackson-v2@2.6.4

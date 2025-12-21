@@ -536,3 +536,7 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.0.9?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.1.18
 - pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.1.18?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.1.21
+- pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.1.21?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.1.22
+- pkg:maven/io.cloudslang.lang/cloudslang-runtime@2.1.22?classifier=sources

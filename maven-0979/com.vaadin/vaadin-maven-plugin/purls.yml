@@ -521,6 +521,7 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.10
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.3
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.4
@@ -531,9 +532,17 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.6.9
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.1
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.2
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.3
 - pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.4
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.7.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@24.8.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0.beta1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@7.0.0.beta10
@@ -766,6 +775,7 @@
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.27.6
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.27.7
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-maven-plugin@8.28.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.0
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.1
 - pkg:maven/com.vaadin/vaadin-maven-plugin@8.3.2

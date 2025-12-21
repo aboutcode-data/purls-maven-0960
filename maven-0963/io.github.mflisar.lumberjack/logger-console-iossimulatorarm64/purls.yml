@@ -1,1 +1,4 @@
 - pkg:maven/io.github.mflisar.lumberjack/logger-console-iossimulatorarm64@7.2.0-alpha21?classifier=sources
+- pkg:maven/io.github.mflisar.lumberjack/logger-console-iossimulatorarm64@7.2.0-alpha22?classifier=sources
+- pkg:maven/io.github.mflisar.lumberjack/logger-console-iossimulatorarm64@7.2.0?classifier=sources
+- pkg:maven/io.github.mflisar.lumberjack/logger-console-iossimulatorarm64@7.2.1?classifier=sources

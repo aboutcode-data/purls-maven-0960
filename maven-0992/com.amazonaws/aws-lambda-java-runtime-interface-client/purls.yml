@@ -32,3 +32,5 @@
 - pkg:maven/com.amazonaws/aws-lambda-java-runtime-interface-client@2.6.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-lambda-java-runtime-interface-client@2.7.0
 - pkg:maven/com.amazonaws/aws-lambda-java-runtime-interface-client@2.7.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-lambda-java-runtime-interface-client@2.8.0
+- pkg:maven/com.amazonaws/aws-lambda-java-runtime-interface-client@2.8.0?classifier=sources

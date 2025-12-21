@@ -1332,6 +1332,8 @@
 - pkg:maven/io.streamnative/pulsar-broker@3.0.10.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@3.0.10.5
 - pkg:maven/io.streamnative/pulsar-broker@3.0.10.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-broker@3.0.10.6
+- pkg:maven/io.streamnative/pulsar-broker@3.0.10.6?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@3.0.2.1
 - pkg:maven/io.streamnative/pulsar-broker@3.0.2.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@3.0.2.2
@@ -1544,6 +1546,7 @@
 - pkg:maven/io.streamnative/pulsar-broker@3.3.5.7?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@3.3.5.8
 - pkg:maven/io.streamnative/pulsar-broker@3.3.5.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-broker@3.3.5.9?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative/pulsar-broker@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@4.0.0-SNAPSHOT.ursa
@@ -1584,6 +1587,10 @@
 - pkg:maven/io.streamnative/pulsar-broker@4.0.4.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@4.0.4.3
 - pkg:maven/io.streamnative/pulsar-broker@4.0.4.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-broker@4.0.5.1
+- pkg:maven/io.streamnative/pulsar-broker@4.0.5.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-broker@4.0.5.2
+- pkg:maven/io.streamnative/pulsar-broker@4.0.5.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-broker@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker@v2.8.0-rc-202106091140

@@ -341,6 +341,7 @@
 - pkg:maven/org.infinispan/infinispan-cli-client@15.0.14.Final
 - pkg:maven/org.infinispan/infinispan-cli-client@15.0.14.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@15.0.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cli-client@15.0.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-cli-client@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli-client@15.0.3.Final

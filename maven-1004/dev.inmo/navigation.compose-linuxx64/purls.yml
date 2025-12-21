@@ -6,3 +6,5 @@
 - pkg:maven/dev.inmo/navigation.compose-linuxx64@0.5.7?classifier=sources
 - pkg:maven/dev.inmo/navigation.compose-linuxx64@0.6.0?classifier=sources
 - pkg:maven/dev.inmo/navigation.compose-linuxx64@0.6.2?classifier=sources
+- pkg:maven/dev.inmo/navigation.compose-linuxx64@0.6.3-publish_check?classifier=sources
+- pkg:maven/dev.inmo/navigation.compose-linuxx64@0.6.3?classifier=sources

@@ -80,6 +80,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.15.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.15.3
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.15.3?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.15.4
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.15.4?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.16.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.16.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.17.0
@@ -100,10 +102,14 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.20.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.20.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.20.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.20.2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.20.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.22.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.23.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.23.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.24.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.24.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.5.0

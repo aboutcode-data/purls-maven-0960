@@ -38,3 +38,5 @@
 - pkg:maven/org.hansken.plugin.extraction/api@0.9.6?classifier=sources
 - pkg:maven/org.hansken.plugin.extraction/api@0.9.7
 - pkg:maven/org.hansken.plugin.extraction/api@0.9.7?classifier=sources
+- pkg:maven/org.hansken.plugin.extraction/api@0.9.8
+- pkg:maven/org.hansken.plugin.extraction/api@0.9.8?classifier=sources

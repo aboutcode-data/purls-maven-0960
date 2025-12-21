@@ -319,6 +319,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.28
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.29
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.3
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.30
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.31
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.4
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.5
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.4.6
@@ -337,7 +339,9 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.16
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.17
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.18
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.19
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.2
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.20
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.3
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.4
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.5.5
@@ -351,6 +355,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.10
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.11
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.12
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.13
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.14
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.2
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.3
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.6.4
@@ -369,5 +375,9 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.7.4
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.7.5
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.7.6
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.7.7
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.7.8
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.8.0
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.8.0-alpha.1
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.8.0-alpha.2
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-test@4.8.0-alpha.3

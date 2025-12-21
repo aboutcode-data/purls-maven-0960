@@ -668,6 +668,8 @@
 - pkg:maven/com.daml/trigger-runner_2.13@2.10.1-snapshot.20250527.13181.0.v1004bc26
 - pkg:maven/com.daml/trigger-runner_2.13@2.10.1-snapshot.20250527.13181.0.v1004bc26?classifier=sources
 - pkg:maven/com.daml/trigger-runner_2.13@2.10.1?classifier=sources
+- pkg:maven/com.daml/trigger-runner_2.13@2.10.2-adhoc.20250619.13183.0.vfe531da1
+- pkg:maven/com.daml/trigger-runner_2.13@2.10.2-adhoc.20250619.13183.0.vfe531da1?classifier=sources
 - pkg:maven/com.daml/trigger-runner_2.13@2.2.0
 - pkg:maven/com.daml/trigger-runner_2.13@2.2.0-snapshot.20220412.9721.0.b7c4bdab
 - pkg:maven/com.daml/trigger-runner_2.13@2.2.0-snapshot.20220412.9721.0.b7c4bdab?classifier=sources

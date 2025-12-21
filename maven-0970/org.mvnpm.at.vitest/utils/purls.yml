@@ -1,2 +1,8 @@
+- pkg:maven/org.mvnpm.at.vitest/utils@2.0.5
+- pkg:maven/org.mvnpm.at.vitest/utils@2.0.5?classifier=sources
+- pkg:maven/org.mvnpm.at.vitest/utils@2.1.9
+- pkg:maven/org.mvnpm.at.vitest/utils@2.1.9?classifier=sources
 - pkg:maven/org.mvnpm.at.vitest/utils@3.0.9
 - pkg:maven/org.mvnpm.at.vitest/utils@3.0.9?classifier=sources
+- pkg:maven/org.mvnpm.at.vitest/utils@3.2.4
+- pkg:maven/org.mvnpm.at.vitest/utils@3.2.4?classifier=sources

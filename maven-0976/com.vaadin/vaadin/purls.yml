@@ -984,6 +984,7 @@
 - pkg:maven/com.vaadin/vaadin@24.6.10
 - pkg:maven/com.vaadin/vaadin@24.6.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.6.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.6.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.6.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.6.2
 - pkg:maven/com.vaadin/vaadin@24.6.2?classifier=sources
@@ -1004,6 +1005,7 @@
 - pkg:maven/com.vaadin/vaadin@24.7.0
 - pkg:maven/com.vaadin/vaadin@24.7.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.7.1
+- pkg:maven/com.vaadin/vaadin@24.7.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.7.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.7.2
 - pkg:maven/com.vaadin/vaadin@24.7.2?classifier=sources
@@ -1013,6 +1015,13 @@
 - pkg:maven/com.vaadin/vaadin@24.7.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.7.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin@24.7.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.7.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.7.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.7.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.8.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.8.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.8.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin@24.8.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin@6.0.0
 - pkg:maven/com.vaadin/vaadin@6.0.1
 - pkg:maven/com.vaadin/vaadin@6.1.0

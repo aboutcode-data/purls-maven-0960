@@ -17,3 +17,6 @@
 - pkg:maven/me.proton.authenticator.common/lib@0.21.0?classifier=sources
 - pkg:maven/me.proton.authenticator.common/lib@0.21.1?classifier=sources
 - pkg:maven/me.proton.authenticator.common/lib@0.22.0?classifier=sources
+- pkg:maven/me.proton.authenticator.common/lib@0.22.2?classifier=sources
+- pkg:maven/me.proton.authenticator.common/lib@0.23.0?classifier=sources
+- pkg:maven/me.proton.authenticator.common/lib@0.24.0?classifier=sources

@@ -65,4 +65,5 @@
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@5.2.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@5.2.1?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@5.3.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@5.4.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-h2-r2dbc@RELEASE_VERSION?classifier=sources

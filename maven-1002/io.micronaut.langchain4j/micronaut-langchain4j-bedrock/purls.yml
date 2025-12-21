@@ -2,3 +2,6 @@
 - pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-bedrock@0.2.0?classifier=sources
 - pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-bedrock@0.3.0?classifier=sources
 - pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-bedrock@1.0.0-RC1?classifier=sources
+- pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-bedrock@1.0.0-RC2?classifier=sources
+- pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-bedrock@1.0.0?classifier=sources
+- pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-bedrock@1.1.0?classifier=sources

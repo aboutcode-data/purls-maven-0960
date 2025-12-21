@@ -1,2 +1,4 @@
 - pkg:maven/tf.tofu/default-bf0cb6_3@0.13.7
+- pkg:maven/tf.tofu/default-bf0cb6_3@0.13.7.200
+- pkg:maven/tf.tofu/default-bf0cb6_3@0.13.7.200?classifier=sources
 - pkg:maven/tf.tofu/default-bf0cb6_3@0.13.7?classifier=sources

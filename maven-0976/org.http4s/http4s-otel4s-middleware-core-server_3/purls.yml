@@ -4,3 +4,5 @@
 - pkg:maven/org.http4s/http4s-otel4s-middleware-core-server_3@0.12.0-beta.3
 - pkg:maven/org.http4s/http4s-otel4s-middleware-core-server_3@0.12.0-beta.3?classifier=sources
 - pkg:maven/org.http4s/http4s-otel4s-middleware-core-server_3@0.12.0?classifier=sources
+- pkg:maven/org.http4s/http4s-otel4s-middleware-core-server_3@0.13.0
+- pkg:maven/org.http4s/http4s-otel4s-middleware-core-server_3@0.13.0?classifier=sources

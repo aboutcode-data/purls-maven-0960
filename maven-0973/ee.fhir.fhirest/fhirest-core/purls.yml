@@ -28,3 +28,5 @@
 - pkg:maven/ee.fhir.fhirest/fhirest-core@1.3.1?classifier=sources
 - pkg:maven/ee.fhir.fhirest/fhirest-core@1.4.0
 - pkg:maven/ee.fhir.fhirest/fhirest-core@1.4.0?classifier=sources
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.4.1
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.4.1?classifier=sources

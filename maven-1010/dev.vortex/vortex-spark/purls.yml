@@ -7,4 +7,10 @@
 - pkg:maven/dev.vortex/vortex-spark@0.35.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-spark@0.36.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-spark@0.36.1?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.37.1?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.37.2?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.38.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.39.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.40.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-spark@0.41.2?classifier=sources
 - pkg:maven/dev.vortex/vortex-spark@cf08dc5.dirty?classifier=sources

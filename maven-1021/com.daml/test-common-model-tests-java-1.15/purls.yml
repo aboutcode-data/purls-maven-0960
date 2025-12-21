@@ -280,6 +280,8 @@
 - pkg:maven/com.daml/test-common-model-tests-java-1.15@2.10.1-snapshot.20250527.13181.0.v1004bc26
 - pkg:maven/com.daml/test-common-model-tests-java-1.15@2.10.1-snapshot.20250527.13181.0.v1004bc26?classifier=sources
 - pkg:maven/com.daml/test-common-model-tests-java-1.15@2.10.1?classifier=sources
+- pkg:maven/com.daml/test-common-model-tests-java-1.15@2.10.2-adhoc.20250619.13183.0.vfe531da1
+- pkg:maven/com.daml/test-common-model-tests-java-1.15@2.10.2-adhoc.20250619.13183.0.vfe531da1?classifier=sources
 - pkg:maven/com.daml/test-common-model-tests-java-1.15@2.9.0
 - pkg:maven/com.daml/test-common-model-tests-java-1.15@2.9.0-adhoc.20240328.12709.0.v3c29b5ea
 - pkg:maven/com.daml/test-common-model-tests-java-1.15@2.9.0-adhoc.20240328.12709.0.v3c29b5ea?classifier=sources

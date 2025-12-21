@@ -844,6 +844,8 @@
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.10.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.10.5
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.10.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.10.6
+- pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.10.6?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.2.1
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.2.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@3.0.2.2
@@ -1096,5 +1098,9 @@
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.4.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.4.3
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.4.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.5.1
+- pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.5.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.5.2
+- pkg:maven/io.streamnative/pulsar-io-debezium-oracle@4.0.5.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-io-debezium-oracle@master-rc-daily?classifier=sources

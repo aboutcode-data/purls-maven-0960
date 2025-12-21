@@ -104,3 +104,5 @@
 - pkg:maven/io.github.neodix42/cell@0.9.8?classifier=sources
 - pkg:maven/io.github.neodix42/cell@0.9.9
 - pkg:maven/io.github.neodix42/cell@0.9.9?classifier=sources
+- pkg:maven/io.github.neodix42/cell@1.0.0
+- pkg:maven/io.github.neodix42/cell@1.0.0?classifier=sources

@@ -12,3 +12,6 @@
 - pkg:maven/io.github.mflisar.lumberjack/core-macosarm64@7.1.2?classifier=sources
 - pkg:maven/io.github.mflisar.lumberjack/core-macosarm64@7.1.3?classifier=sources
 - pkg:maven/io.github.mflisar.lumberjack/core-macosarm64@7.2.0-alpha21?classifier=sources
+- pkg:maven/io.github.mflisar.lumberjack/core-macosarm64@7.2.0-alpha22?classifier=sources
+- pkg:maven/io.github.mflisar.lumberjack/core-macosarm64@7.2.0?classifier=sources
+- pkg:maven/io.github.mflisar.lumberjack/core-macosarm64@7.2.1?classifier=sources
