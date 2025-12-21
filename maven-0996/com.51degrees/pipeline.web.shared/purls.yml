@@ -174,3 +174,7 @@
 - pkg:maven/com.51degrees/pipeline.web.shared@4.5.0-alpha.1
 - pkg:maven/com.51degrees/pipeline.web.shared@4.5.0-alpha.1?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.shared@4.5.0-alpha.5?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.5.0?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.5.1?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.5.2?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.shared@4.5.3?classifier=sources

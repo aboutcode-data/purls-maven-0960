@@ -9,6 +9,7 @@
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.0-alpha-8?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.0-alpha-9?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.10?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.1?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.2?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.3?classifier=sources
@@ -21,3 +22,4 @@
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.7-B2?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.7-B?classifier=sources
 - pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.8?classifier=sources
+- pkg:maven/cn.toint/oktool-spring-boot-starter@2.0.9?classifier=sources

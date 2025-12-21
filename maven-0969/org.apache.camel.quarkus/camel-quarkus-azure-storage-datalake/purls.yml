@@ -122,6 +122,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.27.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.29.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.29.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.30.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.30.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-azure-storage-datalake@3.5.0

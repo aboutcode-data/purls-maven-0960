@@ -199,7 +199,10 @@
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.29.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.29.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.29.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.29.4?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.30.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.30.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-rest-deployment@3.30.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-rest-deployment@3.9.0.CR1?classifier=sources

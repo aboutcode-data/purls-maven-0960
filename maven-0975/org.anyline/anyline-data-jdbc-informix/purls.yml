@@ -704,6 +704,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-20251010?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-20251111?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-20251120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.2-jdk11-20240819
@@ -1119,12 +1120,16 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-20251115?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-20251120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk11-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk11-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk11-20251115?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk11-20251120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk17-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk17-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk17-20251115?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk17-20251120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk21-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk21-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk21-20251115?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-informix@8.7.3-jdk21-20251120?classifier=sources

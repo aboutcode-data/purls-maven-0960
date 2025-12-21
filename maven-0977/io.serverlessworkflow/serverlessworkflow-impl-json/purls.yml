@@ -1,2 +1,4 @@
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-impl-json@7.3.0.Final?classifier=sources
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-impl-json@7.4.0.Final?classifier=sources
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-impl-json@7.5.0.Final?classifier=sources
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-impl-json@7.5.1.Final?classifier=sources

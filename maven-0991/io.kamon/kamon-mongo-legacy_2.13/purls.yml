@@ -88,3 +88,5 @@
 - pkg:maven/io.kamon/kamon-mongo-legacy_2.13@2.7.7?classifier=sources
 - pkg:maven/io.kamon/kamon-mongo-legacy_2.13@2.8.0-beta.1
 - pkg:maven/io.kamon/kamon-mongo-legacy_2.13@2.8.0-beta.1?classifier=sources
+- pkg:maven/io.kamon/kamon-mongo-legacy_2.13@2.8.0-rc.1
+- pkg:maven/io.kamon/kamon-mongo-legacy_2.13@2.8.0-rc.1?classifier=sources

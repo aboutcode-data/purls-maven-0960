@@ -333,6 +333,7 @@
 - pkg:maven/io.stargate.db/persistence-common@2.0.41?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.42?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.43?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@2.0.44?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.4?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.0.5
 - pkg:maven/io.stargate.db/persistence-common@2.0.5?classifier=sources
@@ -407,6 +408,7 @@
 - pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-31?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-32?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-33?classifier=sources
+- pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-34?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-3?classifier=sources
 - pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-4
 - pkg:maven/io.stargate.db/persistence-common@2.1.0-BETA-4?classifier=sources

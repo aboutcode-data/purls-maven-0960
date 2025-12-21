@@ -168,6 +168,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.27.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.29.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.29.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.30.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.30.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-bean@3.5.0

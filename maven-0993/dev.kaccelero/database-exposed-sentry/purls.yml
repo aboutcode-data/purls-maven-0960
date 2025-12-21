@@ -10,6 +10,7 @@
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.5.1?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.5.2?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.0?classifier=sources
+- pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.10?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.1?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.2?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.3?classifier=sources
@@ -19,3 +20,4 @@
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.7?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.8?classifier=sources
 - pkg:maven/dev.kaccelero/database-exposed-sentry@0.6.9?classifier=sources
+- pkg:maven/dev.kaccelero/database-exposed-sentry@0.7.0?classifier=sources

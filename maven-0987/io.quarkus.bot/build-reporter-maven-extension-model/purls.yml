@@ -23,6 +23,8 @@
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.11.1?classifier=sources
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.12.0?classifier=sources
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.12.1?classifier=sources
+- pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.13.0?classifier=sources
+- pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.13.1?classifier=sources
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.2.0
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.2.0?classifier=sources
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.2.1

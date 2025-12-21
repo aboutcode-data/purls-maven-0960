@@ -48,5 +48,6 @@
 - pkg:maven/io.streamnative/distributedlog-core@4.17.2.2?classifier=sources
 - pkg:maven/io.streamnative/distributedlog-core@4.17.2.3?classifier=sources
 - pkg:maven/io.streamnative/distributedlog-core@4.17.2.4?classifier=sources
+- pkg:maven/io.streamnative/distributedlog-core@4.17.2.5?classifier=sources
 - pkg:maven/io.streamnative/distributedlog-core@branch-4.14.7.1_d4
 - pkg:maven/io.streamnative/distributedlog-core@branch-4.14.7.1_d4?classifier=sources

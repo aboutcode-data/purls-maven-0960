@@ -88,3 +88,4 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-ndk@3.0.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-ndk@3.1.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-ndk@3.2.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-ndk@3.3.0?classifier=sources

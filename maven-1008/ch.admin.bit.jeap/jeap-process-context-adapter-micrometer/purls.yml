@@ -31,3 +31,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-process-context-adapter-micrometer@13.9.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-context-adapter-micrometer@14.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-context-adapter-micrometer@14.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-adapter-micrometer@14.1.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-adapter-micrometer@14.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-adapter-micrometer@14.3.0?classifier=sources

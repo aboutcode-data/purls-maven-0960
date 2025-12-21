@@ -1,3 +1,5 @@
 - pkg:maven/com.ekino.oss/metalastic-elasticsearch-dsl@1.0.0-rc.1?classifier=sources
+- pkg:maven/com.ekino.oss/metalastic-elasticsearch-dsl@1.0.1?classifier=sources
+- pkg:maven/com.ekino.oss/metalastic-elasticsearch-dsl@1.1.0?classifier=sources
 - pkg:maven/com.ekino.oss/metalastic-elasticsearch-dsl@elasticsearch-dsl-5.3-v1.0.0-rc.1?classifier=sources
 - pkg:maven/com.ekino.oss/metalastic-elasticsearch-dsl@elasticsearch-dsl-v1.0.0-rc.1?classifier=sources

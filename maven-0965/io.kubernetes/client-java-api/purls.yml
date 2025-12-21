@@ -118,6 +118,10 @@
 - pkg:maven/io.kubernetes/client-java-api@24.0.0-legacy
 - pkg:maven/io.kubernetes/client-java-api@24.0.0-legacy?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api@24.0.0?classifier=sources
+- pkg:maven/io.kubernetes/client-java-api@25.0.0
+- pkg:maven/io.kubernetes/client-java-api@25.0.0-legacy
+- pkg:maven/io.kubernetes/client-java-api@25.0.0-legacy?classifier=sources
+- pkg:maven/io.kubernetes/client-java-api@25.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api@3.0.0
 - pkg:maven/io.kubernetes/client-java-api@3.0.0-beta1
 - pkg:maven/io.kubernetes/client-java-api@3.0.0-beta1?classifier=sources

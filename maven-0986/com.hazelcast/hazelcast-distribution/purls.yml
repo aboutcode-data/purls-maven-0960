@@ -66,5 +66,7 @@
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.4.0?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.5.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.5.0?type=zip
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.6.0-BETA-1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-distribution@5.6.0-BETA-1?type=zip
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.6.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-distribution@5.6.0?type=zip

@@ -1986,6 +1986,16 @@
 - pkg:maven/com.yahoo.vespa/vsm@8.609.39?classifier=sources
 - pkg:maven/com.yahoo.vespa/vsm@8.61.17
 - pkg:maven/com.yahoo.vespa/vsm@8.61.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@8.610.23
+- pkg:maven/com.yahoo.vespa/vsm@8.610.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@8.611.13
+- pkg:maven/com.yahoo.vespa/vsm@8.611.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@8.612.20
+- pkg:maven/com.yahoo.vespa/vsm@8.612.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@8.613.57
+- pkg:maven/com.yahoo.vespa/vsm@8.613.57?classifier=sources
+- pkg:maven/com.yahoo.vespa/vsm@8.614.22
+- pkg:maven/com.yahoo.vespa/vsm@8.614.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/vsm@8.62.51
 - pkg:maven/com.yahoo.vespa/vsm@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/vsm@8.63.8

@@ -1,1 +1,2 @@
 - pkg:maven/io.debezium.quarkus/quarkus-debezium-sqlserver-deployment@3.4.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium.quarkus/quarkus-debezium-sqlserver-deployment@3.4.0.Beta1?classifier=sources
