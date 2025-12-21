@@ -22,3 +22,5 @@
 - pkg:maven/org.mvnpm/swagger-client@3.35.6?classifier=sources
 - pkg:maven/org.mvnpm/swagger-client@3.35.7
 - pkg:maven/org.mvnpm/swagger-client@3.35.7?classifier=sources
+- pkg:maven/org.mvnpm/swagger-client@3.36.0
+- pkg:maven/org.mvnpm/swagger-client@3.36.0?classifier=sources

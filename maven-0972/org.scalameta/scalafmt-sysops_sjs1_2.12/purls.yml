@@ -1,3 +1,7 @@
+- pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.10.0
+- pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.10.0?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.10.1
+- pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.10.1?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.9.0
 - pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.9.0?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-sysops_sjs1_2.12@3.9.1

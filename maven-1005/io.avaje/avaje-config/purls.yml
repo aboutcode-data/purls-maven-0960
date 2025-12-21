@@ -75,3 +75,5 @@
 - pkg:maven/io.avaje/avaje-config@4.0?classifier=sources
 - pkg:maven/io.avaje/avaje-config@4.1?classifier=sources
 - pkg:maven/io.avaje/avaje-config@4.2-RC1?classifier=sources
+- pkg:maven/io.avaje/avaje-config@4.2-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-config@4.2?classifier=sources

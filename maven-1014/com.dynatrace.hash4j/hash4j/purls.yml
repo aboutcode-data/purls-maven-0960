@@ -19,6 +19,8 @@
 - pkg:maven/com.dynatrace.hash4j/hash4j@0.24.0?classifier=sources
 - pkg:maven/com.dynatrace.hash4j/hash4j@0.25.0?classifier=sources
 - pkg:maven/com.dynatrace.hash4j/hash4j@0.26.0?classifier=sources
+- pkg:maven/com.dynatrace.hash4j/hash4j@0.27.0?classifier=sources
+- pkg:maven/com.dynatrace.hash4j/hash4j@0.28.0?classifier=sources
 - pkg:maven/com.dynatrace.hash4j/hash4j@0.3.0?classifier=sources
 - pkg:maven/com.dynatrace.hash4j/hash4j@0.3.1?classifier=sources
 - pkg:maven/com.dynatrace.hash4j/hash4j@0.4.0?classifier=sources

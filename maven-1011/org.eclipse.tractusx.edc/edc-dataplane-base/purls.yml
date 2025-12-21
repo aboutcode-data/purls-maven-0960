@@ -1,6 +1,8 @@
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.10.0-rc1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.10.0-rc2?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.10.0?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.10.1?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.10.2?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.11.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.11.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.11.0-RC3?classifier=sources

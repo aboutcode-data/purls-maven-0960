@@ -975,6 +975,13 @@
 - pkg:maven/com.yahoo.vespa/container-core@8.586.25?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@8.587.11?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@8.588.8?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.589.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.591.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.592.33?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.593.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.596.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.598.44?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core@8.599.6?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@8.61.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-core@8.63.8?classifier=sources

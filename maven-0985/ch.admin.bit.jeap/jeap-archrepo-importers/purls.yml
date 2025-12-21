@@ -33,6 +33,11 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.1.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.1.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.10.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.11.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.11.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.11.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.11.3?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.2.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.3.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importers@2.4.0?classifier=sources

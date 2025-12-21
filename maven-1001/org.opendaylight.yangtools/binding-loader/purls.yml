@@ -14,8 +14,11 @@
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.16?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.17
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.17?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.18?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.19?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.2
+- pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.20?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.3?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/binding-loader@14.0.4?classifier=sources

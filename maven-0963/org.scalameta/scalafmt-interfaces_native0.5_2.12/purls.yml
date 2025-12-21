@@ -1,3 +1,7 @@
+- pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.10.0
+- pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.10.0?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.10.1
+- pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.10.1?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.8.4
 - pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.8.4-RC3
 - pkg:maven/org.scalameta/scalafmt-interfaces_native0.5_2.12@3.8.4-RC3?classifier=sources

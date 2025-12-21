@@ -1,3 +1,6 @@
+- pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.100.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.101.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.102.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.61.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.62.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.62.1?classifier=sources
@@ -37,3 +40,4 @@
 - pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.96.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.97.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.98.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-mingwx64@0.99.0?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/com.authgear/android-sdk@2.0.0?classifier=sources
+- pkg:maven/com.authgear/android-sdk@2.0.1?classifier=sources
 - pkg:maven/com.authgear/android-sdk@latte-2025-06-11.0?classifier=sources
 - pkg:maven/com.authgear/android-sdk@latte-2025-06-16.0?classifier=sources
 - pkg:maven/com.authgear/android-sdk@louistest01?classifier=sources

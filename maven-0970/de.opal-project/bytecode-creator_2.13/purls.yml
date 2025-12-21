@@ -1,2 +1,4 @@
 - pkg:maven/de.opal-project/bytecode-creator_2.13@5.0.0
 - pkg:maven/de.opal-project/bytecode-creator_2.13@5.0.0?classifier=sources
+- pkg:maven/de.opal-project/bytecode-creator_2.13@6.0.0
+- pkg:maven/de.opal-project/bytecode-creator_2.13@6.0.0?classifier=sources

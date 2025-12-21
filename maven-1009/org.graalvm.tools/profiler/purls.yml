@@ -117,6 +117,8 @@
 - pkg:maven/org.graalvm.tools/profiler@21.3.14?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@21.3.15
 - pkg:maven/org.graalvm.tools/profiler@21.3.15?classifier=sources
+- pkg:maven/org.graalvm.tools/profiler@21.3.16
+- pkg:maven/org.graalvm.tools/profiler@21.3.16?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@21.3.1?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@21.3.2
 - pkg:maven/org.graalvm.tools/profiler@21.3.2.1
@@ -165,6 +167,8 @@
 - pkg:maven/org.graalvm.tools/profiler@23.0.0
 - pkg:maven/org.graalvm.tools/profiler@23.0.0?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@23.0.1
+- pkg:maven/org.graalvm.tools/profiler@23.0.10
+- pkg:maven/org.graalvm.tools/profiler@23.0.10?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@23.0.1?classifier=sources
 - pkg:maven/org.graalvm.tools/profiler@23.0.2
 - pkg:maven/org.graalvm.tools/profiler@23.0.2?classifier=sources

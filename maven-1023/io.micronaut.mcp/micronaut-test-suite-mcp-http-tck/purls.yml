@@ -1,6 +1,7 @@
 - pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.10?classifier=sources
 - pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.11?classifier=sources
 - pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.12?classifier=sources
+- pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.13?classifier=sources
 - pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.6?classifier=sources
 - pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.7?classifier=sources
 - pkg:maven/io.micronaut.mcp/micronaut-test-suite-mcp-http-tck@0.0.8?classifier=sources

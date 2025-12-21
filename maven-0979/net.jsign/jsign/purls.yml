@@ -26,3 +26,5 @@
 - pkg:maven/net.jsign/jsign@7.2?classifier=sources
 - pkg:maven/net.jsign/jsign@7.3
 - pkg:maven/net.jsign/jsign@7.3?classifier=sources
+- pkg:maven/net.jsign/jsign@7.4
+- pkg:maven/net.jsign/jsign@7.4?classifier=sources

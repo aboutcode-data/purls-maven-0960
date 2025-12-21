@@ -3,3 +3,7 @@
 - pkg:maven/io.quarkus/quarkus-devservices@3.28.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-devservices@3.28.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-devservices@3.28.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-devservices@3.28.4?classifier=sources
+- pkg:maven/io.quarkus/quarkus-devservices@3.28.5?classifier=sources
+- pkg:maven/io.quarkus/quarkus-devservices@3.29.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-devservices@3.29.0?classifier=sources

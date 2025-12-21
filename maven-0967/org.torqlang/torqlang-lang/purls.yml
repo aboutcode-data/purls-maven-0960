@@ -1,2 +1,4 @@
+- pkg:maven/org.torqlang/torqlang-lang@1.0
 - pkg:maven/org.torqlang/torqlang-lang@1.0-rc1
 - pkg:maven/org.torqlang/torqlang-lang@1.0-rc1?classifier=sources
+- pkg:maven/org.torqlang/torqlang-lang@1.0?classifier=sources

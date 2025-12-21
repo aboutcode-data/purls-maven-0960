@@ -78,6 +78,8 @@
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.26?classifier=sources
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.27
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.27?classifier=sources
+- pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.28
+- pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.28?classifier=sources
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.2?classifier=sources
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.3
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@3.2.1-SP.3?classifier=sources
@@ -122,3 +124,7 @@
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@4.1.6?classifier=sources
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@4.2.0
 - pkg:maven/io.cronapp/cronapp-plugin-elastic@4.2.0?classifier=sources
+- pkg:maven/io.cronapp/cronapp-plugin-elastic@4.2.1
+- pkg:maven/io.cronapp/cronapp-plugin-elastic@4.2.1?classifier=sources
+- pkg:maven/io.cronapp/cronapp-plugin-elastic@4.2.2
+- pkg:maven/io.cronapp/cronapp-plugin-elastic@4.2.2?classifier=sources

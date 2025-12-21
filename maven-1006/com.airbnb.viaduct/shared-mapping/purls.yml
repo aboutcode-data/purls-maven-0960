@@ -1,0 +1,4 @@
+- pkg:maven/com.airbnb.viaduct/shared-mapping@0.4.0?classifier=sources
+- pkg:maven/com.airbnb.viaduct/shared-mapping@0.5.0?classifier=sources
+- pkg:maven/com.airbnb.viaduct/shared-mapping@0.6.6?classifier=sources
+- pkg:maven/com.airbnb.viaduct/shared-mapping@0.7.0?classifier=sources

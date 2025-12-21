@@ -51,3 +51,4 @@
 - pkg:maven/com.rabbitmq/stream-client@1.1.0
 - pkg:maven/com.rabbitmq/stream-client@1.1.0?classifier=sources
 - pkg:maven/com.rabbitmq/stream-client@1.2.0?classifier=sources
+- pkg:maven/com.rabbitmq/stream-client@1.3.0?classifier=sources

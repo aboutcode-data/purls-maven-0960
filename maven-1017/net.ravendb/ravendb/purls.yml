@@ -70,3 +70,4 @@
 - pkg:maven/net.ravendb/ravendb@6.0.1
 - pkg:maven/net.ravendb/ravendb@6.0.1?classifier=sources
 - pkg:maven/net.ravendb/ravendb@6.0.2?classifier=sources
+- pkg:maven/net.ravendb/ravendb@7.1.0?classifier=sources

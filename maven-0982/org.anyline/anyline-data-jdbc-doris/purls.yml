@@ -836,6 +836,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.2-jdk21-20250916?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.2-jdk21-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-jdk11-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-jdk11-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-jdk17-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-jdk17-20251022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-jdk21-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-doris@8.7.3-jdk21-20251022?classifier=sources

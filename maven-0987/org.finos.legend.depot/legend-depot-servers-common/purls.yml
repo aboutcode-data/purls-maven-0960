@@ -201,8 +201,13 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.75.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.76.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.77.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.78.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.79.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.79.1?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.8.0
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.8.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.80.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.80.1?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.9.0
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.9.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-servers-common@2.9.1

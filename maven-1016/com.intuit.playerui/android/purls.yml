@@ -136,6 +136,10 @@
 - pkg:maven/com.intuit.playerui/android@0.14.0-next.5?classifier=sources
 - pkg:maven/com.intuit.playerui/android@0.14.0?classifier=sources
 - pkg:maven/com.intuit.playerui/android@0.14.1-next.0?classifier=sources
+- pkg:maven/com.intuit.playerui/android@0.14.1-next.1?classifier=sources
+- pkg:maven/com.intuit.playerui/android@0.14.1-next.2?classifier=sources
+- pkg:maven/com.intuit.playerui/android@0.14.1-next.3?classifier=sources
+- pkg:maven/com.intuit.playerui/android@0.14.1-next.4?classifier=sources
 - pkg:maven/com.intuit.playerui/android@0.7.0?classifier=sources
 - pkg:maven/com.intuit.playerui/android@0.7.0?type=aar
 - pkg:maven/com.intuit.playerui/android@0.7.1?classifier=sources

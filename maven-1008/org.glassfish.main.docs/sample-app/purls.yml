@@ -36,6 +36,7 @@
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M12?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M12?type=war
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M13?classifier=sources
+- pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M14?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M7?classifier=sources
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M7?type=war
 - pkg:maven/org.glassfish.main.docs/sample-app@8.0.0-M8?classifier=sources

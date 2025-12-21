@@ -1,4 +1,6 @@
+- pkg:maven/io.github.json4s/json4s-native_2.12@4.1.0
 - pkg:maven/io.github.json4s/json4s-native_2.12@4.1.0-M10
 - pkg:maven/io.github.json4s/json4s-native_2.12@4.1.0-M10?classifier=sources
 - pkg:maven/io.github.json4s/json4s-native_2.12@4.1.0-M9
 - pkg:maven/io.github.json4s/json4s-native_2.12@4.1.0-M9?classifier=sources
+- pkg:maven/io.github.json4s/json4s-native_2.12@4.1.0?classifier=sources

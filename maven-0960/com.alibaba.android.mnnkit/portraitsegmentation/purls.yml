@@ -1,3 +1,5 @@
 - pkg:maven/com.alibaba.android.mnnkit/portraitsegmentation@0.0.4?type=aar
 - pkg:maven/com.alibaba.android.mnnkit/portraitsegmentation@0.0.5?type=aar
 - pkg:maven/com.alibaba.android.mnnkit/portraitsegmentation@0.0.6?type=aar
+- pkg:maven/com.alibaba.android.mnnkit/portraitsegmentation@0.1.0?classifier=sources
+- pkg:maven/com.alibaba.android.mnnkit/portraitsegmentation@0.1.0?type=aar

@@ -1,1 +1,5 @@
 - pkg:maven/dev.kursor.ktensorflow/ktensorflow-moko-iosarm64@0.2?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-moko-iosarm64@0.3?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-moko-iosarm64@1.0?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-moko-iosarm64@1.1?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-moko-iosarm64@1.2?classifier=sources

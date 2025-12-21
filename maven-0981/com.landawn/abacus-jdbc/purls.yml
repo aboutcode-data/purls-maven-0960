@@ -232,6 +232,7 @@
 - pkg:maven/com.landawn/abacus-jdbc@3.10.0?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.10.10?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.10.11?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@3.10.12?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.10.1?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.10.2?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.10.3?classifier=sources
@@ -266,6 +267,8 @@
 - pkg:maven/com.landawn/abacus-jdbc@3.2.7?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.2.8?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.2.9?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@3.25.0?classifier=sources
+- pkg:maven/com.landawn/abacus-jdbc@3.25.1?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.3.0?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.3.10?classifier=sources
 - pkg:maven/com.landawn/abacus-jdbc@3.3.11?classifier=sources

@@ -114,5 +114,7 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@0.41.8?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@0.43.0
 - pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@0.43.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@0.43.6
+- pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@0.43.6?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@1.0.0-alpha1
 - pkg:maven/com.dimafeng/testcontainers-scala-kafka_2.12@1.0.0-alpha1?classifier=sources

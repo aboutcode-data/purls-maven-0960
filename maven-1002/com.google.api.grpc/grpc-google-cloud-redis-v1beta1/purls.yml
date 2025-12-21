@@ -134,6 +134,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.166.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.167.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.167.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.168.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.168.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.169.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.169.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.17.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.17.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-redis-v1beta1@0.18.0

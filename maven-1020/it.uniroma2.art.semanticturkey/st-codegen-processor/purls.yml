@@ -46,6 +46,7 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@13.1?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@14.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@14.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@15.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@2.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@2.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-processor@3.0

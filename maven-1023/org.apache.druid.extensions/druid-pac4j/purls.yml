@@ -58,3 +58,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-pac4j@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-pac4j@34.0.0
 - pkg:maven/org.apache.druid.extensions/druid-pac4j@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-pac4j@35.0.0
+- pkg:maven/org.apache.druid.extensions/druid-pac4j@35.0.0?classifier=sources

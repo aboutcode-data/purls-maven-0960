@@ -147,3 +147,5 @@
 - pkg:maven/com.snowflake/snowflake-kafka-connector@3.2.4
 - pkg:maven/com.snowflake/snowflake-kafka-connector@3.2.4?classifier=sources
 - pkg:maven/com.snowflake/snowflake-kafka-connector@3.3.0?classifier=sources
+- pkg:maven/com.snowflake/snowflake-kafka-connector@3.3.1?classifier=sources
+- pkg:maven/com.snowflake/snowflake-kafka-connector@4.0.0-rc1?classifier=sources

@@ -88,6 +88,10 @@
 - pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.0?classifier=sources
 - pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.1
 - pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.1?classifier=sources
+- pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.2
+- pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.2?classifier=sources
+- pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.3
+- pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.19.3?classifier=sources
 - pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.6.5
 - pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.6.5?classifier=sources
 - pkg:maven/com.avast/sst-jdk-http-client-pureconfig_2.13@0.6.6

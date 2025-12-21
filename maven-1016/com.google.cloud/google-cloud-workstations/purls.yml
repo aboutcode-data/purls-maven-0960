@@ -110,6 +110,10 @@
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.63.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.64.0
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.64.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-workstations@0.65.0
+- pkg:maven/com.google.cloud/google-cloud-workstations@0.65.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-workstations@0.66.0
+- pkg:maven/com.google.cloud/google-cloud-workstations@0.66.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-workstations@0.8.0

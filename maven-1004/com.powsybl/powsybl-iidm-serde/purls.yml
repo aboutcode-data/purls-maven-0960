@@ -56,3 +56,5 @@
 - pkg:maven/com.powsybl/powsybl-iidm-serde@6.8.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-iidm-serde@6.8.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-iidm-serde@7.0.0-RC1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-iidm-serde@7.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-iidm-serde@7.0.1?classifier=sources

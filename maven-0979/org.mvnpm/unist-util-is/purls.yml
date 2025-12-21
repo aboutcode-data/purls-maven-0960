@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/unist-util-is@4.1.0?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-is@5.2.1?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-is@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/unist-util-is@6.0.1
+- pkg:maven/org.mvnpm/unist-util-is@6.0.1?classifier=sources

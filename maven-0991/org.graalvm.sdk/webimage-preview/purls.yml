@@ -1,2 +1,4 @@
 - pkg:maven/org.graalvm.sdk/webimage-preview@25.0.0
 - pkg:maven/org.graalvm.sdk/webimage-preview@25.0.0?classifier=sources
+- pkg:maven/org.graalvm.sdk/webimage-preview@25.0.1
+- pkg:maven/org.graalvm.sdk/webimage-preview@25.0.1?classifier=sources

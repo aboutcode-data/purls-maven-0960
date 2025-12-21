@@ -15,3 +15,4 @@
 - pkg:maven/com.powsybl/powsybl-dynawo-security-analysis@2.8.2
 - pkg:maven/com.powsybl/powsybl-dynawo-security-analysis@2.8.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dynawo-security-analysis@2.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynawo-security-analysis@3.0.0?classifier=sources

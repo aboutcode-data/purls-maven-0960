@@ -1,3 +1,6 @@
+- pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@0.0.11-test-beta11?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@0.0.7-test-beta7?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@0.0.9-test-beta9?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@0.31.0
 - pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@0.31.0?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@0.32.0
@@ -35,3 +38,4 @@
 - pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@1.6.0-beta12?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@1.7.0-beta13?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@1.7.1-beta14?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-azure-open-ai-spring-boot-starter@1.8.0-beta15?classifier=sources

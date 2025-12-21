@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.ignite/ignite-marshaller-common@3.0.0-alpha5
 - pkg:maven/org.apache.ignite/ignite-marshaller-common@3.0.0-beta1?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-marshaller-common@3.0.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-marshaller-common@3.1.0?classifier=sources

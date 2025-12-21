@@ -12,6 +12,9 @@
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.1.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.1.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.1.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.10.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.11.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.12.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.2.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.3.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.3.1?classifier=sources
@@ -23,3 +26,5 @@
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.7.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.7.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-bom@9.8.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.8.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-bom@9.9.0?classifier=sources

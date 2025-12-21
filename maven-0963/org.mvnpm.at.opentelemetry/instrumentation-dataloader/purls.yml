@@ -19,3 +19,7 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.23.3?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.24.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.24.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.25.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.25.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.26.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-dataloader@0.26.0?classifier=sources

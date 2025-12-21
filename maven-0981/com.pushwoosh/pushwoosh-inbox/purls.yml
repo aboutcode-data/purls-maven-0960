@@ -142,3 +142,6 @@
 - pkg:maven/com.pushwoosh/pushwoosh-inbox@6.6.7?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox@6.6.8?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-inbox@6.6.9?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-inbox@6.7.39?classifier=sources
+- pkg:maven/com.pushwoosh/pushwoosh-inbox@6.7.40?classifier=sources
+- pkg:maven/com.pushwoosh/pushwoosh-inbox@6.7.41?classifier=sources

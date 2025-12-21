@@ -34,6 +34,8 @@
 - pkg:maven/io.mats3/mats-intercept-logging@0.19.8-2023-05-02?classifier=sources
 - pkg:maven/io.mats3/mats-intercept-logging@0.19.9-2023-05-04?classifier=sources
 - pkg:maven/io.mats3/mats-intercept-logging@1.0.0%2B2025-05-17?classifier=sources
+- pkg:maven/io.mats3/mats-intercept-logging@1.0.1%2B2025-10-20?classifier=sources
+- pkg:maven/io.mats3/mats-intercept-logging@B-2.0.0.B0%2B2025-10-22?classifier=sources
 - pkg:maven/io.mats3/mats-intercept-logging@RC-0.18.3-2021-10-28?classifier=sources
 - pkg:maven/io.mats3/mats-intercept-logging@RC-0.19.12.RC1-2023-10-27?classifier=sources
 - pkg:maven/io.mats3/mats-intercept-logging@RC-0.19.12.RC2-2023-10-30?classifier=sources

@@ -91,6 +91,7 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.0.CR2?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.0.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.1.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.10.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.3.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.4.Final?classifier=sources
@@ -98,6 +99,7 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.6.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.7.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.8.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.0.9.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.0.CR2?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.0.Final?classifier=sources
@@ -106,8 +108,14 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.3.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.4.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.5.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.6.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.7.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@3.1.8.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.0.0.Beta1?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.0.0.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.1.1.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.1.2.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.1.3.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.1.4.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core@4.1.5.Final?classifier=sources

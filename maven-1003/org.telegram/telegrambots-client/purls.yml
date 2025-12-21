@@ -49,3 +49,4 @@
 - pkg:maven/org.telegram/telegrambots-client@9.0.0
 - pkg:maven/org.telegram/telegrambots-client@9.0.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-client@9.1.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-client@9.2.0?classifier=sources

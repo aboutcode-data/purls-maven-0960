@@ -82,6 +82,7 @@
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.60.3?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.61.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.62.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.63.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.7.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.7.1?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-cloudformation@1.7.2?classifier=sources

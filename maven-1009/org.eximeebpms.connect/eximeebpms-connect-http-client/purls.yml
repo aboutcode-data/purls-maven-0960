@@ -1,1 +1,4 @@
 - pkg:maven/org.eximeebpms.connect/eximeebpms-connect-http-client@1.0.0?classifier=sources
+- pkg:maven/org.eximeebpms.connect/eximeebpms-connect-http-client@1.1.0?classifier=sources
+- pkg:maven/org.eximeebpms.connect/eximeebpms-connect-http-client@1.1.1?classifier=sources
+- pkg:maven/org.eximeebpms.connect/eximeebpms-connect-http-client@1.1.2?classifier=sources

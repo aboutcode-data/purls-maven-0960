@@ -85,3 +85,7 @@
 - pkg:maven/com.atlan/relational-assets-builder@5.4.1?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@5.4.2?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@5.4.3?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@6.0.0?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@6.0.1?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@6.0.2?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@6.1.0?classifier=sources

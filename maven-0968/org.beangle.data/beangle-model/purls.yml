@@ -1,3 +1,7 @@
+- pkg:maven/org.beangle.data/beangle-model@5.10.0
+- pkg:maven/org.beangle.data/beangle-model@5.10.0?classifier=sources
+- pkg:maven/org.beangle.data/beangle-model@5.11.0
+- pkg:maven/org.beangle.data/beangle-model@5.11.0?classifier=sources
 - pkg:maven/org.beangle.data/beangle-model@5.8.10
 - pkg:maven/org.beangle.data/beangle-model@5.8.10?classifier=sources
 - pkg:maven/org.beangle.data/beangle-model@5.8.11

@@ -103,3 +103,5 @@
 - pkg:maven/org.jolokia/jolokia-client-java@2.2.9
 - pkg:maven/org.jolokia/jolokia-client-java@2.2.9?classifier=sources
 - pkg:maven/org.jolokia/jolokia-client-java@2.3.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-client-java@2.4.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-client-java@2.4.1?classifier=sources

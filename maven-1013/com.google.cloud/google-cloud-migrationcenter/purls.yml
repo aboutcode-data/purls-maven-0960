@@ -100,7 +100,11 @@
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.57.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.58.0
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.58.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.59.0
+- pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.59.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.6.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.60.0
+- pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.60.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.9.0
 - pkg:maven/com.google.cloud/google-cloud-migrationcenter@0.9.0?classifier=sources

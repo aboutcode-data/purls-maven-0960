@@ -16,6 +16,8 @@
 - pkg:maven/org.graalvm.tools/coverage-tool@23.1.7?classifier=sources
 - pkg:maven/org.graalvm.tools/coverage-tool@23.1.8
 - pkg:maven/org.graalvm.tools/coverage-tool@23.1.8?classifier=sources
+- pkg:maven/org.graalvm.tools/coverage-tool@23.1.9
+- pkg:maven/org.graalvm.tools/coverage-tool@23.1.9?classifier=sources
 - pkg:maven/org.graalvm.tools/coverage-tool@24.0.0
 - pkg:maven/org.graalvm.tools/coverage-tool@24.0.0?classifier=sources
 - pkg:maven/org.graalvm.tools/coverage-tool@24.0.1
@@ -36,3 +38,5 @@
 - pkg:maven/org.graalvm.tools/coverage-tool@24.2.2?classifier=sources
 - pkg:maven/org.graalvm.tools/coverage-tool@25.0.0
 - pkg:maven/org.graalvm.tools/coverage-tool@25.0.0?classifier=sources
+- pkg:maven/org.graalvm.tools/coverage-tool@25.0.1
+- pkg:maven/org.graalvm.tools/coverage-tool@25.0.1?classifier=sources

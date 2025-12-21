@@ -490,3 +490,8 @@
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@6.2.3?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@6.2.5?classifier=sources
 - pkg:maven/me.ahoo.wow/wow-elasticsearch@6.2.6?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@6.2.8?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@6.3.0?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@6.3.1?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@6.3.2?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-elasticsearch@6.3.3?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/org.eximeebpms.bpm.springboot/eximeebpms-bpm-spring-boot-starter-test@1.0.0?classifier=sources
+- pkg:maven/org.eximeebpms.bpm.springboot/eximeebpms-bpm-spring-boot-starter-test@1.1.0?classifier=sources
+- pkg:maven/org.eximeebpms.bpm.springboot/eximeebpms-bpm-spring-boot-starter-test@1.1.1?classifier=sources
+- pkg:maven/org.eximeebpms.bpm.springboot/eximeebpms-bpm-spring-boot-starter-test@1.1.2?classifier=sources

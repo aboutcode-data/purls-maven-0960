@@ -56,3 +56,4 @@
 - pkg:maven/com.coreoz/plume-conf@5.0.0-beta2
 - pkg:maven/com.coreoz/plume-conf@5.0.0-beta2?classifier=sources
 - pkg:maven/com.coreoz/plume-conf@5.0.0?classifier=sources
+- pkg:maven/com.coreoz/plume-conf@5.0.1?classifier=sources

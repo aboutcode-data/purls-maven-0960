@@ -14,3 +14,7 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.52.3?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.53.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.53.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.54.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.54.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.55.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-amqplib@0.55.0?classifier=sources

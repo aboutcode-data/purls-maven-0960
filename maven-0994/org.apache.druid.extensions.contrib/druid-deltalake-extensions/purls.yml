@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-deltalake-extensions@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-deltalake-extensions@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-deltalake-extensions@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-deltalake-extensions@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-deltalake-extensions@35.0.0?classifier=sources

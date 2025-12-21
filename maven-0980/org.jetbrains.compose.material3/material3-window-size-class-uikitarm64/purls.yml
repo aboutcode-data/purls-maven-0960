@@ -1,5 +1,7 @@
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.10.0-alpha01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.10.0-alpha02?classifier=sources
+- pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.10.0-alpha03?classifier=sources
+- pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.10.0-alpha04?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.7.0-alpha03?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.7.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.7.0-beta02?classifier=sources
@@ -25,3 +27,4 @@
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.9.0-beta04?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.9.0-beta05?classifier=sources
 - pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.9.0-beta06?classifier=sources
+- pkg:maven/org.jetbrains.compose.material3/material3-window-size-class-uikitarm64@1.9.0?classifier=sources

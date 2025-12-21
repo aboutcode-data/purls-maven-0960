@@ -1,5 +1,7 @@
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.10.0-alpha01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.10.0-alpha02?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.10.0-alpha03?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.10.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.2.0-alpha01-dev606?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.2.0-alpha01-dev609?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.2.0-alpha01-dev620?classifier=sources
@@ -69,3 +71,6 @@
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.9.0-rc01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.9.0-rc02?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.9.0?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.9.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.9.2?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-macosarm64@1.9.3?classifier=sources

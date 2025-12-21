@@ -5,4 +5,6 @@
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-transform@2.7.0
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-transform@2.7.0.1
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-transform@2.7.0.1?classifier=sources
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-transform@2.7.0.2
+- pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-transform@2.7.0.2?classifier=sources
 - pkg:maven/org.apache.shenyu/shenyu-spring-boot-starter-plugin-transform@2.7.0?classifier=sources

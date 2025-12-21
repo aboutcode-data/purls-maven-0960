@@ -5,3 +5,5 @@
 - pkg:maven/io.github.pig-mesh.nacos/nacos-client@3.0.0?classifier=sources
 - pkg:maven/io.github.pig-mesh.nacos/nacos-client@3.0.2.OEM?classifier=sources
 - pkg:maven/io.github.pig-mesh.nacos/nacos-client@3.0.2?classifier=sources
+- pkg:maven/io.github.pig-mesh.nacos/nacos-client@3.1.0.OEM?classifier=sources
+- pkg:maven/io.github.pig-mesh.nacos/nacos-client@3.1.0?classifier=sources

@@ -36,3 +36,4 @@
 - pkg:maven/org.jboss/jboss-parent@50.alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-parent@50.beta1?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jboss-parent@50?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-parent@51?classifier=source-release&type=zip
