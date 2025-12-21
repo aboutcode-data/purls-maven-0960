@@ -36,8 +36,10 @@
 - pkg:maven/org.jboss.hal/hal-core@3.6.8.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.6.9.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.7.0.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-core@3.7.10.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.7.4.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.7.5.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.7.6.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.7.7.Final?classifier=sources
 - pkg:maven/org.jboss.hal/hal-core@3.7.8.Final?classifier=sources
+- pkg:maven/org.jboss.hal/hal-core@3.7.9.Final?classifier=sources

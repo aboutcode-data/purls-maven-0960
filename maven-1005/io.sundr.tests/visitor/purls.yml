@@ -6,3 +6,5 @@
 - pkg:maven/io.sundr.tests/visitor@0.103.1?classifier=sources
 - pkg:maven/io.sundr.tests/visitor@0.200.0
 - pkg:maven/io.sundr.tests/visitor@0.200.0?classifier=sources
+- pkg:maven/io.sundr.tests/visitor@0.200.3
+- pkg:maven/io.sundr.tests/visitor@0.200.3?classifier=sources

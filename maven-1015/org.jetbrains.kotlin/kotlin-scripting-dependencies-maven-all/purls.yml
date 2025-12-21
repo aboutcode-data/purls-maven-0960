@@ -111,4 +111,7 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.20-Beta1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.20-Beta2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.20-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.20-RC3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.20-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-dependencies-maven-all@2.1.20?classifier=sources

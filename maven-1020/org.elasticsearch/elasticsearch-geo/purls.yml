@@ -248,12 +248,20 @@
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.4
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.5
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.5?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.6
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.16.6?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.0
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.1
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.2
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.3
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.4
+- pkg:maven/org.elasticsearch/elasticsearch-geo@8.17.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.2.1
@@ -310,3 +318,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-geo@8.9.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-geo@9.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-geo@9.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-geo@9.0.0-rc1
+- pkg:maven/org.elasticsearch/elasticsearch-geo@9.0.0-rc1?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@2025.02.0
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@2025.02.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@2025.03.0
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.16.0
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.16.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.17.0
@@ -38,3 +40,5 @@
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.26.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.26.3
 - pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.26.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.26.4
+- pkg:maven/org.neo4j/neo4j-ast-generator-test-util@5.26.4?classifier=sources

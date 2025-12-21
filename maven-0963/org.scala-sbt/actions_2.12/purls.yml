@@ -51,6 +51,10 @@
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.0-RC2?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.0?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.1
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.10
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.10?classifier=sources
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.11
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.11?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.1?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.2
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.2?classifier=sources
@@ -64,6 +68,10 @@
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.6?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.7
 - pkg:maven/org.scala-sbt/actions_2.12@1.10.7?classifier=sources
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.8
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.8?classifier=sources
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.9
+- pkg:maven/org.scala-sbt/actions_2.12@1.10.9?classifier=sources
 - pkg:maven/org.scala-sbt/actions_2.12@1.2.0
 - pkg:maven/org.scala-sbt/actions_2.12@1.2.0-M1
 - pkg:maven/org.scala-sbt/actions_2.12@1.2.0-M1?classifier=sources

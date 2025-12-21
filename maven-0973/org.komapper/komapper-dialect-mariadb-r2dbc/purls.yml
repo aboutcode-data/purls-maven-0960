@@ -60,3 +60,5 @@
 - pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@5.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@5.2.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@5.2.1?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-mariadb-r2dbc@RELEASE_VERSION?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/org.specs2/specs2-matcher_3@4.20.8?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_3@4.20.9
 - pkg:maven/org.specs2/specs2-matcher_3@4.20.9?classifier=sources
+- pkg:maven/org.specs2/specs2-matcher_3@4.21.0
+- pkg:maven/org.specs2/specs2-matcher_3@4.21.0?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_3@5.0.0
 - pkg:maven/org.specs2/specs2-matcher_3@5.0.0-ALPHA-03
 - pkg:maven/org.specs2/specs2-matcher_3@5.0.0-ALPHA-03?classifier=sources

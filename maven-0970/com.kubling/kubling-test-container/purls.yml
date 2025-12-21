@@ -1,2 +1,4 @@
 - pkg:maven/com.kubling/kubling-test-container@24.2.6?classifier=sources
 - pkg:maven/com.kubling/kubling-test-container@24.2.7?classifier=sources
+- pkg:maven/com.kubling/kubling-test-container@25.1.0?classifier=sources
+- pkg:maven/com.kubling/kubling-test-container@25.1.1?classifier=sources

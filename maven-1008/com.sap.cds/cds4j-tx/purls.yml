@@ -202,3 +202,7 @@
 - pkg:maven/com.sap.cds/cds4j-tx@3.7.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-tx@3.7.2
 - pkg:maven/com.sap.cds/cds4j-tx@3.7.2?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-tx@3.8.0
+- pkg:maven/com.sap.cds/cds4j-tx@3.8.0?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-tx@3.8.1
+- pkg:maven/com.sap.cds/cds4j-tx@3.8.1?classifier=sources

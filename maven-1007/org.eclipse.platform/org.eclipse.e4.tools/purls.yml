@@ -10,5 +10,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.10.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.10.500
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.10.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.11.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.11.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.9.200
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools@4.9.200?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.10.0.RC1
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.10.0.RC1?classifier=sources
+- pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.10.0.RELEASE
+- pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.10.0.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.2.0.RC4
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.2.0.RC4?classifier=sources
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.2.0.RC5
@@ -142,6 +144,8 @@
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.7.3.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.7.4.RC1
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.7.4.RC1?classifier=sources
+- pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.7.4.RELEASE
+- pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.7.4.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.8.0.RELEASE
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.8.0.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.gfw.codepoints/terasoluna-gfw-codepoints-jisx0208@5.8.1.RELEASE

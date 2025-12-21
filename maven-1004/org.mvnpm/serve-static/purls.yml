@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/serve-static@1.13.2?classifier=sources
 - pkg:maven/org.mvnpm/serve-static@1.15.0?classifier=sources
+- pkg:maven/org.mvnpm/serve-static@1.16.2?classifier=sources
+- pkg:maven/org.mvnpm/serve-static@2.2.0?classifier=sources

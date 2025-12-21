@@ -12,3 +12,5 @@
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit5@5.0.0.2065?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit5@5.1.0.2254?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit5@5.2.0.2403?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit5@5.3.0.2465?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit5@5.4.0.2489?classifier=sources

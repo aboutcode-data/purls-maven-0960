@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.15.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.15.2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.15.2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.15.3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.15.3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.16.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.16.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.17.0
@@ -22,3 +24,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.18.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.19.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.20.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-qdrant@3.20.0?classifier=sources

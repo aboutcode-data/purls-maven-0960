@@ -1,4 +1,7 @@
+- pkg:maven/jakarta.tck/signaturetest@11.0.0
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-M1
+- pkg:maven/jakarta.tck/signaturetest@11.0.0-M14
+- pkg:maven/jakarta.tck/signaturetest@11.0.0-M14?classifier=sources
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-M1?classifier=sources
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-M2
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-M2?classifier=sources
@@ -10,3 +13,6 @@
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-RC4?classifier=sources
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-RC5
 - pkg:maven/jakarta.tck/signaturetest@11.0.0-RC5?classifier=sources
+- pkg:maven/jakarta.tck/signaturetest@11.0.0-RC8
+- pkg:maven/jakarta.tck/signaturetest@11.0.0-RC8?classifier=sources
+- pkg:maven/jakarta.tck/signaturetest@11.0.0?classifier=sources

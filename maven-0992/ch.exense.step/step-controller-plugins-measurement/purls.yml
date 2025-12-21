@@ -14,3 +14,5 @@
 - pkg:maven/ch.exense.step/step-controller-plugins-measurement@3.26.5-customized-j
 - pkg:maven/ch.exense.step/step-controller-plugins-measurement@3.26.5-customized-j?classifier=sources
 - pkg:maven/ch.exense.step/step-controller-plugins-measurement@3.26.5?classifier=sources
+- pkg:maven/ch.exense.step/step-controller-plugins-measurement@3.27.0
+- pkg:maven/ch.exense.step/step-controller-plugins-measurement@3.27.0?classifier=sources

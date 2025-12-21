@@ -80,6 +80,7 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.13.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.13.2-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.13.3-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.14.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.2.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.3.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jaxrs-2.0-resteasy-3.0@2.4.0-alpha?classifier=sources

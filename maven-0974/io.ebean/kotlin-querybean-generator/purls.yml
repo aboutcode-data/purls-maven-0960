@@ -406,6 +406,10 @@
 - pkg:maven/io.ebean/kotlin-querybean-generator@14.1.0-javax
 - pkg:maven/io.ebean/kotlin-querybean-generator@14.1.0-javax?classifier=sources
 - pkg:maven/io.ebean/kotlin-querybean-generator@14.1.0?classifier=sources
+- pkg:maven/io.ebean/kotlin-querybean-generator@14.10.0
+- pkg:maven/io.ebean/kotlin-querybean-generator@14.10.0-javax
+- pkg:maven/io.ebean/kotlin-querybean-generator@14.10.0-javax?classifier=sources
+- pkg:maven/io.ebean/kotlin-querybean-generator@14.10.0?classifier=sources
 - pkg:maven/io.ebean/kotlin-querybean-generator@14.3.0
 - pkg:maven/io.ebean/kotlin-querybean-generator@14.3.0-javax
 - pkg:maven/io.ebean/kotlin-querybean-generator@14.3.0-javax?classifier=sources
@@ -462,6 +466,8 @@
 - pkg:maven/io.ebean/kotlin-querybean-generator@15.0.2?classifier=sources
 - pkg:maven/io.ebean/kotlin-querybean-generator@15.1.0
 - pkg:maven/io.ebean/kotlin-querybean-generator@15.1.0?classifier=sources
+- pkg:maven/io.ebean/kotlin-querybean-generator@15.10.0
+- pkg:maven/io.ebean/kotlin-querybean-generator@15.10.0?classifier=sources
 - pkg:maven/io.ebean/kotlin-querybean-generator@15.3.0
 - pkg:maven/io.ebean/kotlin-querybean-generator@15.3.0?classifier=sources
 - pkg:maven/io.ebean/kotlin-querybean-generator@15.3.1

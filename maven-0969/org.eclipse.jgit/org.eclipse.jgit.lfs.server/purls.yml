@@ -234,3 +234,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@7.0.0.202409031743-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@7.1.0.202411261347-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@7.1.0.202411261347-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@7.2.0.202503040940-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.lfs.server@7.2.0.202503040940-r?classifier=sources

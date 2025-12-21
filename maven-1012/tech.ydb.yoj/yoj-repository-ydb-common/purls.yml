@@ -103,6 +103,10 @@
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.0
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.0?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.1
+- pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.10
+- pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.10?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.11
+- pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.11?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.1?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.2
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.2?classifier=sources
@@ -118,3 +122,5 @@
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.7?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.8
 - pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.8?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.9
+- pkg:maven/tech.ydb.yoj/yoj-repository-ydb-common@2.6.9?classifier=sources

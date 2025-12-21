@@ -154,6 +154,7 @@
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.20.6?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.20.7
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.20.7?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.20.8?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-jetty-impl@0.8.1

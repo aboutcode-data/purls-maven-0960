@@ -29,5 +29,7 @@
 - pkg:maven/com.cashfree.pg.java/cashfree_pg@4.3.6?classifier=sources
 - pkg:maven/com.cashfree.pg.java/cashfree_pg@4.3.8?classifier=sources
 - pkg:maven/com.cashfree.pg.java/cashfree_pg@4.5.0?classifier=sources
+- pkg:maven/com.cashfree.pg.java/cashfree_pg@5.0.0-beta-10?classifier=sources
+- pkg:maven/com.cashfree.pg.java/cashfree_pg@5.0.0-beta-11?classifier=sources
 - pkg:maven/com.cashfree.pg.java/cashfree_pg@5.0.0-beta-4?classifier=sources
 - pkg:maven/com.cashfree.pg.java/cashfree_pg@5.0.0-beta-5?classifier=sources

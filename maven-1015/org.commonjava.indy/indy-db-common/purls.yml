@@ -112,3 +112,7 @@
 - pkg:maven/org.commonjava.indy/indy-db-common@3.4.0?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-db-common@3.4.2
 - pkg:maven/org.commonjava.indy/indy-db-common@3.4.2?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-db-common@3.4.3
+- pkg:maven/org.commonjava.indy/indy-db-common@3.4.3?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-db-common@3.4.4
+- pkg:maven/org.commonjava.indy/indy-db-common@3.4.4?classifier=sources

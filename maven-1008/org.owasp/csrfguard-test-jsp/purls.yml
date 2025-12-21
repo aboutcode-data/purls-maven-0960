@@ -9,3 +9,5 @@
 - pkg:maven/org.owasp/csrfguard-test-jsp@4.3.0?type=war
 - pkg:maven/org.owasp/csrfguard-test-jsp@4.4.0-jakarta?type=war
 - pkg:maven/org.owasp/csrfguard-test-jsp@4.4.0?type=war
+- pkg:maven/org.owasp/csrfguard-test-jsp@4.5.0-jakarta?type=war
+- pkg:maven/org.owasp/csrfguard-test-jsp@4.5.0?type=war

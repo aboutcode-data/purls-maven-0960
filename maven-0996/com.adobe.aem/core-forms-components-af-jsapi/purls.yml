@@ -75,7 +75,10 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@2.0.98-eds
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.0
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.10
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.100
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.100-xfaB002
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.102
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.104
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.12
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.14
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.16
@@ -119,3 +122,4 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.92
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.94
 - pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.96
+- pkg:maven/com.adobe.aem/core-forms-components-af-jsapi@3.0.98

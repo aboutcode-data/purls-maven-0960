@@ -28,6 +28,8 @@
 - pkg:maven/dev.zio/examples_2.13@0.5.0?classifier=sources
 - pkg:maven/dev.zio/examples_2.13@0.7.0
 - pkg:maven/dev.zio/examples_2.13@0.7.0?classifier=sources
+- pkg:maven/dev.zio/examples_2.13@0.7.1
+- pkg:maven/dev.zio/examples_2.13@0.7.1?classifier=sources
 - pkg:maven/dev.zio/examples_2.13@1.0.12
 - pkg:maven/dev.zio/examples_2.13@1.0.12?classifier=sources
 - pkg:maven/dev.zio/examples_2.13@2.0.0-M3

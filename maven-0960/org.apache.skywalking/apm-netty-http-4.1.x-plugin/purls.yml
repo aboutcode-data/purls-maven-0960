@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.skywalking/apm-netty-http-4.1.x-plugin@9.2.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-netty-http-4.1.x-plugin@9.3.0
 - pkg:maven/org.apache.skywalking/apm-netty-http-4.1.x-plugin@9.3.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-netty-http-4.1.x-plugin@9.4.0
+- pkg:maven/org.apache.skywalking/apm-netty-http-4.1.x-plugin@9.4.0?classifier=sources

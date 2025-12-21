@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.jetty.ee8.demos/jetty-ee8-demo-jetty-websocket-webapp@12.1.0.alpha0?type=war
 - pkg:maven/org.eclipse.jetty.ee8.demos/jetty-ee8-demo-jetty-websocket-webapp@12.1.0.alpha1?classifier=sources
 - pkg:maven/org.eclipse.jetty.ee8.demos/jetty-ee8-demo-jetty-websocket-webapp@12.1.0.alpha1?type=war
+- pkg:maven/org.eclipse.jetty.ee8.demos/jetty-ee8-demo-jetty-websocket-webapp@12.1.0.alpha2?classifier=sources
+- pkg:maven/org.eclipse.jetty.ee8.demos/jetty-ee8-demo-jetty-websocket-webapp@12.1.0.alpha2?type=war

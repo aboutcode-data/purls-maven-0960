@@ -42,6 +42,7 @@
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.20?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.21?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.22?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.23?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.2?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.3?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.6.4?classifier=sources
@@ -53,6 +54,8 @@
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.0-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.1-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.10-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.11-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.12-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.2-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.3-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-datalayer-grpc@0.7.4-alpha?classifier=sources

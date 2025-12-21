@@ -30,3 +30,5 @@
 - pkg:maven/com.qcloud.cos/goosefs-client@1.4.7?classifier=sources
 - pkg:maven/com.qcloud.cos/goosefs-client@1.4.8.2
 - pkg:maven/com.qcloud.cos/goosefs-client@1.4.8.2?classifier=sources
+- pkg:maven/com.qcloud.cos/goosefs-client@1.4.9
+- pkg:maven/com.qcloud.cos/goosefs-client@1.4.9?classifier=sources

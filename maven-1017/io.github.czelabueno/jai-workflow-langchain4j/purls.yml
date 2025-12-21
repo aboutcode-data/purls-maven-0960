@@ -1,2 +1,4 @@
 - pkg:maven/io.github.czelabueno/jai-workflow-langchain4j@0.2.0
 - pkg:maven/io.github.czelabueno/jai-workflow-langchain4j@0.2.0?classifier=sources
+- pkg:maven/io.github.czelabueno/jai-workflow-langchain4j@0.3.0
+- pkg:maven/io.github.czelabueno/jai-workflow-langchain4j@0.3.0?classifier=sources

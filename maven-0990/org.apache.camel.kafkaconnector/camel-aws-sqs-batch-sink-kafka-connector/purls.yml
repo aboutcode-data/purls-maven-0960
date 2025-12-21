@@ -13,7 +13,9 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.0.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.0.3
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.0.3?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.10.2?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.4.2?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.4.3?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.8.3?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-aws-sqs-batch-sink-kafka-connector@4.8.5?classifier=sources

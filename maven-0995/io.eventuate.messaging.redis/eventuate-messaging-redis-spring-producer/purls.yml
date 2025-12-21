@@ -5,3 +5,4 @@
 - pkg:maven/io.eventuate.messaging.redis/eventuate-messaging-redis-spring-producer@0.15.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.redis/eventuate-messaging-redis-spring-producer@0.16.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.redis/eventuate-messaging-redis-spring-producer@0.17.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.messaging.redis/eventuate-messaging-redis-spring-producer@0.18.0.RELEASE?classifier=sources

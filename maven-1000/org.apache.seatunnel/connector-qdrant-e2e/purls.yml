@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.seatunnel/connector-qdrant-e2e@2.3.10
+- pkg:maven/org.apache.seatunnel/connector-qdrant-e2e@2.3.10?classifier=sources
 - pkg:maven/org.apache.seatunnel/connector-qdrant-e2e@2.3.8
 - pkg:maven/org.apache.seatunnel/connector-qdrant-e2e@2.3.8?classifier=sources
 - pkg:maven/org.apache.seatunnel/connector-qdrant-e2e@2.3.9

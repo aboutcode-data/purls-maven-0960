@@ -34,3 +34,9 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.0.Final?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.1.Final
 - pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.1.Final?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.2.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.2.Final?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.3.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.3.3.Final?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.4.0.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-mariadb@1.4.0.Final?classifier=sources

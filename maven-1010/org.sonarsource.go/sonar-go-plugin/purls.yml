@@ -9,3 +9,6 @@
 - pkg:maven/org.sonarsource.go/sonar-go-plugin@1.1.1.2000
 - pkg:maven/org.sonarsource.go/sonar-go-plugin@1.1.1.2000?classifier=sources
 - pkg:maven/org.sonarsource.go/sonar-go-plugin@1.19.0.512?classifier=sources
+- pkg:maven/org.sonarsource.go/sonar-go-plugin@1.20.0.1242?classifier=sources
+- pkg:maven/org.sonarsource.go/sonar-go-plugin@1.21.0.1607?classifier=sources
+- pkg:maven/org.sonarsource.go/sonar-go-plugin@1.21.1.1670?classifier=sources

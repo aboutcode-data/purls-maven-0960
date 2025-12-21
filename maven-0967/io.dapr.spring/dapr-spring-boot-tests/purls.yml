@@ -10,3 +10,9 @@
 - pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.13.2?classifier=sources
 - pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.13.3
 - pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.13.3?classifier=sources
+- pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.14.0
+- pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.14.0-rc-10
+- pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.14.0-rc-10?classifier=sources
+- pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.14.0-rc-9
+- pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.14.0-rc-9?classifier=sources
+- pkg:maven/io.dapr.spring/dapr-spring-boot-tests@0.14.0?classifier=sources

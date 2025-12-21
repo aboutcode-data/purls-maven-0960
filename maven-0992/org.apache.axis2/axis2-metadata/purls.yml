@@ -54,3 +54,5 @@
 - pkg:maven/org.apache.axis2/axis2-metadata@1.8.1?classifier=sources
 - pkg:maven/org.apache.axis2/axis2-metadata@1.8.2
 - pkg:maven/org.apache.axis2/axis2-metadata@1.8.2?classifier=sources
+- pkg:maven/org.apache.axis2/axis2-metadata@2.0.0
+- pkg:maven/org.apache.axis2/axis2-metadata@2.0.0?classifier=sources

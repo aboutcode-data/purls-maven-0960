@@ -6,3 +6,5 @@
 - pkg:maven/com.github.rocketraman.bootable/boot@0.7?classifier=sources
 - pkg:maven/com.github.rocketraman.bootable/boot@0.8?classifier=sources
 - pkg:maven/com.github.rocketraman.bootable/boot@0.9.0?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot@2.0.0?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot@2.0.1?classifier=sources

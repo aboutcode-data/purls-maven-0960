@@ -18,3 +18,7 @@
 - pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.1?classifier=sources
 - pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.2
 - pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.2?classifier=sources
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.3
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.3?classifier=sources
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.4
+- pkg:maven/ee.fhir.fhirest/fhirest-core@1.2.4?classifier=sources

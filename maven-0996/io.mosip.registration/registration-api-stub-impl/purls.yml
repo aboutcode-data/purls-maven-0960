@@ -10,3 +10,5 @@
 - pkg:maven/io.mosip.registration/registration-api-stub-impl@1.2.0.2
 - pkg:maven/io.mosip.registration/registration-api-stub-impl@1.2.0.2?classifier=sources
 - pkg:maven/io.mosip.registration/registration-api-stub-impl@1.2.0?classifier=sources
+- pkg:maven/io.mosip.registration/registration-api-stub-impl@1.3.0-beta.1
+- pkg:maven/io.mosip.registration/registration-api-stub-impl@1.3.0-beta.1?classifier=sources

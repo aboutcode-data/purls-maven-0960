@@ -68,3 +68,5 @@
 - pkg:maven/org.wartremover/wartremover-inspector-common_3@3.2.7?classifier=sources
 - pkg:maven/org.wartremover/wartremover-inspector-common_3@3.3.0
 - pkg:maven/org.wartremover/wartremover-inspector-common_3@3.3.0?classifier=sources
+- pkg:maven/org.wartremover/wartremover-inspector-common_3@3.3.1
+- pkg:maven/org.wartremover/wartremover-inspector-common_3@3.3.1?classifier=sources

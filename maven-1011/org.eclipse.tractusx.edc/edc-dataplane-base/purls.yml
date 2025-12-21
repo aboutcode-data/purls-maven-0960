@@ -31,3 +31,4 @@
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.8.1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.9.0-rc1?classifier=sources
 - pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.9.0-rc2?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/edc-dataplane-base@0.9.0?classifier=sources

@@ -88,3 +88,5 @@
 - pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@35.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@35.0.1.Final
 - pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@35.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@36.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-elytron-oidc-client-subsystem@36.0.0.Beta1?classifier=sources

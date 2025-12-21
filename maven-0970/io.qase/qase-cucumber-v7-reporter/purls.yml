@@ -1,5 +1,11 @@
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.0
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.0?classifier=sources
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.10
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.10?classifier=sources
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.11
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.11?classifier=sources
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.12
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.12?classifier=sources
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.2
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.2?classifier=sources
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.3
@@ -14,3 +20,5 @@
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.7?classifier=sources
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.8
 - pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.8?classifier=sources
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.9
+- pkg:maven/io.qase/qase-cucumber-v7-reporter@4.0.9?classifier=sources

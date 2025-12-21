@@ -112,6 +112,7 @@
 - pkg:maven/com.pulumi/f5bigip@3.17.6?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.17.7?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.17.8?classifier=sources
+- pkg:maven/com.pulumi/f5bigip@3.17.9?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.18.0-alpha.1711690663%2Bcca0b45f?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.18.0-alpha.1711736402%2B7cf3cf96?classifier=sources
 - pkg:maven/com.pulumi/f5bigip@3.18.0-alpha.1712400238%2B4010c04c?classifier=sources

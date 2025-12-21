@@ -96,6 +96,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.15.1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.15.2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.15.2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.15.3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.15.3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.16.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.16.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.17.0
@@ -112,6 +114,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.2.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.2.3
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.2.3?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.20.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.20.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-tika@3.5.0

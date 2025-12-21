@@ -100,3 +100,7 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.48.4?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.49.0
 - pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.49.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.50.0
+- pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.50.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.60.0
+- pkg:maven/org.finos.legend.depot/legend-depot-notifications-store-mongo@2.60.0?classifier=sources

@@ -230,3 +230,5 @@
 - pkg:maven/org.commonjava.indy/indy-promote-client-java@3.3.3?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-promote-client-java@3.4.0
 - pkg:maven/org.commonjava.indy/indy-promote-client-java@3.4.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-promote-client-java@3.4.1
+- pkg:maven/org.commonjava.indy/indy-promote-client-java@3.4.1?classifier=sources

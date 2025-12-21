@@ -22,3 +22,5 @@
 - pkg:maven/com.networknt/client-config@2.1.38?classifier=sources
 - pkg:maven/com.networknt/client-config@2.2.0
 - pkg:maven/com.networknt/client-config@2.2.0?classifier=sources
+- pkg:maven/com.networknt/client-config@2.2.1
+- pkg:maven/com.networknt/client-config@2.2.1?classifier=sources

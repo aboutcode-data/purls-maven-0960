@@ -1,7 +1,14 @@
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.10.0-alpha.1?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.20.0-wasm.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.5.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.5.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.6.0-wasm.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.6.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.7.0-alpha.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.7.0-wasm.2?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.8.0-alpha.1?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.8.0-alpha.2?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.8.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.8.1-wasm.1?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.9.0-alpha.255?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.9.0?classifier=sources

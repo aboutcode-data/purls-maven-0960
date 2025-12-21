@@ -223,6 +223,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.20?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.21
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.21?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.22
+- pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.22?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.3
 - pkg:maven/org.apache.jackrabbit/oak-solr-osgi@1.22.3?classifier=sources

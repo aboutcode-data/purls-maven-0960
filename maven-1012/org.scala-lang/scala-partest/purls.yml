@@ -94,6 +94,8 @@
 - pkg:maven/org.scala-lang/scala-partest@2.12.20-M1
 - pkg:maven/org.scala-lang/scala-partest@2.12.20-M1?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.12.20?classifier=sources
+- pkg:maven/org.scala-lang/scala-partest@2.12.21-M1
+- pkg:maven/org.scala-lang/scala-partest@2.12.21-M1?classifier=sources
 - pkg:maven/org.scala-lang/scala-partest@2.13.0
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4
 - pkg:maven/org.scala-lang/scala-partest@2.13.0-M4?classifier=sources

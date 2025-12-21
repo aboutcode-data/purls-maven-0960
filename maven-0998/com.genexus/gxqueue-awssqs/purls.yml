@@ -76,6 +76,10 @@
 - pkg:maven/com.genexus/gxqueue-awssqs@4.6.11?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.6.13
 - pkg:maven/com.genexus/gxqueue-awssqs@4.6.13?classifier=sources
+- pkg:maven/com.genexus/gxqueue-awssqs@4.6.15
+- pkg:maven/com.genexus/gxqueue-awssqs@4.6.15?classifier=sources
+- pkg:maven/com.genexus/gxqueue-awssqs@4.6.16
+- pkg:maven/com.genexus/gxqueue-awssqs@4.6.16?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.6.4
 - pkg:maven/com.genexus/gxqueue-awssqs@4.6.4?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.6.5
@@ -106,3 +110,5 @@
 - pkg:maven/com.genexus/gxqueue-awssqs@4.8.3?classifier=sources
 - pkg:maven/com.genexus/gxqueue-awssqs@4.8.4
 - pkg:maven/com.genexus/gxqueue-awssqs@4.8.4?classifier=sources
+- pkg:maven/com.genexus/gxqueue-awssqs@4.8.5
+- pkg:maven/com.genexus/gxqueue-awssqs@4.8.5?classifier=sources

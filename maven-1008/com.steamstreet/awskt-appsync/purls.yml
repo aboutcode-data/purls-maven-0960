@@ -39,6 +39,8 @@
 - pkg:maven/com.steamstreet/awskt-appsync@2.0.25?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.0.26?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.0.27?classifier=sources
+- pkg:maven/com.steamstreet/awskt-appsync@2.0.28?classifier=sources
+- pkg:maven/com.steamstreet/awskt-appsync@2.0.29?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.0.2?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.0.3?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.0.4?classifier=sources
@@ -51,3 +53,4 @@
 - pkg:maven/com.steamstreet/awskt-appsync@2.1.5?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.1.6?classifier=sources
 - pkg:maven/com.steamstreet/awskt-appsync@2.1.7?classifier=sources
+- pkg:maven/com.steamstreet/awskt-appsync@2.1.8?classifier=sources

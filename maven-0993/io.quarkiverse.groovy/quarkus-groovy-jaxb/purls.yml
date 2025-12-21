@@ -33,12 +33,16 @@
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.18.2?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.19.0?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.19.1?classifier=sources
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.19.2?classifier=sources
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.19.3?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.2.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.2.1
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.2.1?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.2.2
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.2.2?classifier=sources
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.20.0?classifier=sources
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.21.0?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.3.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-jaxb@3.4.0

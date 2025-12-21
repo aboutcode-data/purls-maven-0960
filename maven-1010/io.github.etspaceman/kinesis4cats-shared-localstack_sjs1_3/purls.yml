@@ -58,3 +58,5 @@
 - pkg:maven/io.github.etspaceman/kinesis4cats-shared-localstack_sjs1_3@0.0.9?classifier=sources
 - pkg:maven/io.github.etspaceman/kinesis4cats-shared-localstack_sjs1_3@0.1.0
 - pkg:maven/io.github.etspaceman/kinesis4cats-shared-localstack_sjs1_3@0.1.0?classifier=sources
+- pkg:maven/io.github.etspaceman/kinesis4cats-shared-localstack_sjs1_3@0.1.1
+- pkg:maven/io.github.etspaceman/kinesis4cats-shared-localstack_sjs1_3@0.1.1?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/net.tirasa.connid/commons-scripted@1.6.0.0
 - pkg:maven/net.tirasa.connid/commons-scripted@1.6.0.0-RC3
 - pkg:maven/net.tirasa.connid/commons-scripted@1.6.0.0-RC3?classifier=sources
+- pkg:maven/net.tirasa.connid/commons-scripted@1.6.0.0?classifier=sources

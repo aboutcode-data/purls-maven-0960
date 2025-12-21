@@ -123,6 +123,11 @@
 - pkg:maven/me.proton.core/payment-domain@30.3.2?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@30.3.3?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@30.4.0?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@30.4.1?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@30.4.2?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@30.4.3?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@30.4.4?classifier=sources
+- pkg:maven/me.proton.core/payment-domain@31.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment-domain@5.0.0?classifier=sources

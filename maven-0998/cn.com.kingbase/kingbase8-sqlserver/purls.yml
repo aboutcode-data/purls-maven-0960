@@ -1,0 +1,6 @@
+- pkg:maven/cn.com.kingbase/kingbase8-sqlserver@9.0.0
+- pkg:maven/cn.com.kingbase/kingbase8-sqlserver@9.0.0.jre6
+- pkg:maven/cn.com.kingbase/kingbase8-sqlserver@9.0.0.jre6?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8-sqlserver@9.0.0.jre7
+- pkg:maven/cn.com.kingbase/kingbase8-sqlserver@9.0.0.jre7?classifier=sources
+- pkg:maven/cn.com.kingbase/kingbase8-sqlserver@9.0.0?classifier=sources

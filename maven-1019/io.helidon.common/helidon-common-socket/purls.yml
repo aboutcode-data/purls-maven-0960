@@ -60,3 +60,5 @@
 - pkg:maven/io.helidon.common/helidon-common-socket@4.1.6?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-socket@4.1.7
 - pkg:maven/io.helidon.common/helidon-common-socket@4.1.7?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-socket@4.2.0
+- pkg:maven/io.helidon.common/helidon-common-socket@4.2.0?classifier=sources

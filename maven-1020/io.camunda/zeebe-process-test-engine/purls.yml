@@ -229,6 +229,8 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.20
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.20?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.3.21
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.3.21?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.3
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.3.3?classifier=sources
@@ -265,6 +267,8 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.4.15?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.4.16
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.4.16?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.4.17
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.4.17?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.4.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.4.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.4.2?classifier=sources
@@ -301,6 +305,8 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.5.14?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.5.15
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.5.15?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.5.16
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.5.16?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.5.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.5.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.5.2?classifier=sources
@@ -355,6 +361,14 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.6.1
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.6.10
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.6.10?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.11
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.11-rc1
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.11-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.11?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.12
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.12-rc1
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.12-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.6.12?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.6.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.6.2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.6.2?classifier=sources
@@ -412,9 +426,13 @@
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha4-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha4-rc3
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha4-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha5
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha5-rc1
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha5-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.7.0-alpha5?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.8.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.8.0-alpha1-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.8.0-alpha2
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.8.0-alpha2-rc1
 - pkg:maven/io.camunda/zeebe-process-test-engine@8.8.0-alpha2-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-engine@8.8.0-alpha2?classifier=sources

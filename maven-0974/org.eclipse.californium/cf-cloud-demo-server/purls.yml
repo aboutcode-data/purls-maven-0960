@@ -4,6 +4,8 @@
 - pkg:maven/org.eclipse.californium/cf-cloud-demo-server@3.12.1?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-cloud-demo-server@3.13.0
 - pkg:maven/org.eclipse.californium/cf-cloud-demo-server@3.13.0?classifier=sources
+- pkg:maven/org.eclipse.californium/cf-cloud-demo-server@3.14.0
+- pkg:maven/org.eclipse.californium/cf-cloud-demo-server@3.14.0?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-cloud-demo-server@4.0.0-M2
 - pkg:maven/org.eclipse.californium/cf-cloud-demo-server@4.0.0-M2?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-cloud-demo-server@4.0.0-M3

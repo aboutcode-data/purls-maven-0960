@@ -114,6 +114,8 @@
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.36.4?classifier=sources
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.36.6
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.36.6?classifier=sources
+- pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.36.7
+- pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.36.7?classifier=sources
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.4.0
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.4.0?classifier=sources
 - pkg:maven/com.transferzero.sdk/transferzero-sdk-java7@1.4.1

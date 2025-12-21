@@ -58,3 +58,5 @@
 - pkg:maven/io.dialob/dialob-db-jdbc@2.2.6?classifier=sources
 - pkg:maven/io.dialob/dialob-db-jdbc@2.2.7
 - pkg:maven/io.dialob/dialob-db-jdbc@2.2.7?classifier=sources
+- pkg:maven/io.dialob/dialob-db-jdbc@2.2.8
+- pkg:maven/io.dialob/dialob-db-jdbc@2.2.8?classifier=sources

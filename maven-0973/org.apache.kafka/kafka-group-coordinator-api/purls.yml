@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.kafka/kafka-group-coordinator-api@3.8.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-group-coordinator-api@3.8.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-group-coordinator-api@3.9.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-group-coordinator-api@4.0.0?classifier=sources

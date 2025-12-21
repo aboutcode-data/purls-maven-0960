@@ -42,6 +42,8 @@
 - pkg:maven/com.oracle.database.ha/ons@19.24.0.0?classifier=sources
 - pkg:maven/com.oracle.database.ha/ons@19.25.0.0
 - pkg:maven/com.oracle.database.ha/ons@19.25.0.0?classifier=sources
+- pkg:maven/com.oracle.database.ha/ons@19.26.0.0
+- pkg:maven/com.oracle.database.ha/ons@19.26.0.0?classifier=sources
 - pkg:maven/com.oracle.database.ha/ons@19.3.0.0
 - pkg:maven/com.oracle.database.ha/ons@19.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.ha/ons@19.6.0.0

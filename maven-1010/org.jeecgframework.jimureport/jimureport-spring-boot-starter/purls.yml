@@ -52,3 +52,5 @@
 - pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot-starter@1.9.2?classifier=sources
 - pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot-starter@1.9.3?classifier=sources
 - pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot-starter@1.9.4?classifier=sources
+- pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot-starter@1.9.5-RC?classifier=sources
+- pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot-starter@1.9.5?classifier=sources

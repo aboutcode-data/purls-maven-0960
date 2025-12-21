@@ -161,3 +161,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.72.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.73.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.73.1?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.74.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-server-auth-shiro@0.75.0?classifier=sources

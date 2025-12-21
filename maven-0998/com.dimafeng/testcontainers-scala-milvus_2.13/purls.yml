@@ -2,3 +2,5 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-milvus_2.13@0.41.5?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-milvus_2.13@0.41.8
 - pkg:maven/com.dimafeng/testcontainers-scala-milvus_2.13@0.41.8?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-milvus_2.13@0.43.0
+- pkg:maven/com.dimafeng/testcontainers-scala-milvus_2.13@0.43.0?classifier=sources

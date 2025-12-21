@@ -1,0 +1,3 @@
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-moqu-core@2.9.0-lts?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-moqu-core@2.9.0?classifier=sources
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-moqu-core@2.9.1-lts?classifier=sources

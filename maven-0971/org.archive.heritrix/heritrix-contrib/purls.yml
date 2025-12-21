@@ -30,3 +30,5 @@
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.6.0?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.7.0
 - pkg:maven/org.archive.heritrix/heritrix-contrib@3.7.0?classifier=sources
+- pkg:maven/org.archive.heritrix/heritrix-contrib@3.8.0
+- pkg:maven/org.archive.heritrix/heritrix-contrib@3.8.0?classifier=sources

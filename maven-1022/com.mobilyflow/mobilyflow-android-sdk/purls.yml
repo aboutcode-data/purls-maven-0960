@@ -1,1 +1,6 @@
 - pkg:maven/com.mobilyflow/mobilyflow-android-sdk@0.0.1?classifier=sources
+- pkg:maven/com.mobilyflow/mobilyflow-android-sdk@0.0.2?classifier=sources
+- pkg:maven/com.mobilyflow/mobilyflow-android-sdk@0.0.3-beta1?classifier=sources
+- pkg:maven/com.mobilyflow/mobilyflow-android-sdk@0.0.3-beta2?classifier=sources
+- pkg:maven/com.mobilyflow/mobilyflow-android-sdk@0.0.3-beta3?classifier=sources
+- pkg:maven/com.mobilyflow/mobilyflow-android-sdk@0.0.4?classifier=sources
