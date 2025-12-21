@@ -94,6 +94,10 @@
 - pkg:maven/io.cucumber/gherkin@30.0.3?classifier=sources
 - pkg:maven/io.cucumber/gherkin@30.0.4
 - pkg:maven/io.cucumber/gherkin@30.0.4?classifier=sources
+- pkg:maven/io.cucumber/gherkin@31.0.0
+- pkg:maven/io.cucumber/gherkin@31.0.0?classifier=sources
+- pkg:maven/io.cucumber/gherkin@32.0.0
+- pkg:maven/io.cucumber/gherkin@32.0.0?classifier=sources
 - pkg:maven/io.cucumber/gherkin@4.0.0
 - pkg:maven/io.cucumber/gherkin@4.0.0?classifier=sources
 - pkg:maven/io.cucumber/gherkin@4.1.0

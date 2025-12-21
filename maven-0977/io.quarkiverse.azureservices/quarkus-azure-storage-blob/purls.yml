@@ -18,3 +18,4 @@
 - pkg:maven/io.quarkiverse.azureservices/quarkus-azure-storage-blob@1.0.9?classifier=sources
 - pkg:maven/io.quarkiverse.azureservices/quarkus-azure-storage-blob@1.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.azureservices/quarkus-azure-storage-blob@1.1.1?classifier=sources
+- pkg:maven/io.quarkiverse.azureservices/quarkus-azure-storage-blob@1.1.2?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.azure.cosmos.kafka/azure-cosmos-kafka-connect@1.0.0-beta.4?classifier=sources
 - pkg:maven/com.azure.cosmos.kafka/azure-cosmos-kafka-connect@2.0.0?classifier=sources
 - pkg:maven/com.azure.cosmos.kafka/azure-cosmos-kafka-connect@2.1.0?classifier=sources
+- pkg:maven/com.azure.cosmos.kafka/azure-cosmos-kafka-connect@2.2.0?classifier=sources

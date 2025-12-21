@@ -1,2 +1,4 @@
 - pkg:maven/io.nemesis.platform.module.search/nemesis-module-elasticsearch@2.3.19.RELEASE
 - pkg:maven/io.nemesis.platform.module.search/nemesis-module-elasticsearch@2.3.19.RELEASE?classifier=sources
+- pkg:maven/io.nemesis.platform.module.search/nemesis-module-elasticsearch@2.3.20.RELEASE
+- pkg:maven/io.nemesis.platform.module.search/nemesis-module-elasticsearch@2.3.20.RELEASE?classifier=sources

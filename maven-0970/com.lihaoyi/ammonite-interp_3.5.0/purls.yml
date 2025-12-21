@@ -4,5 +4,11 @@
 - pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.0-M2-30-486378af
 - pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.0-M2-30-486378af?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.0?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.1
+- pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.1?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.2
+- pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@3.0.2?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@dev-0-5b8ba21
+- pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@dev-0-5b8ba21?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@dev-0-c7a1191
 - pkg:maven/com.lihaoyi/ammonite-interp_3.5.0@dev-0-c7a1191?classifier=sources

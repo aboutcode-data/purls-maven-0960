@@ -19,6 +19,7 @@
 - pkg:maven/org.sonarsource.text/sonar-text-plugin@2.19.0.4883?classifier=sources
 - pkg:maven/org.sonarsource.text/sonar-text-plugin@2.2.0.1571?classifier=sources
 - pkg:maven/org.sonarsource.text/sonar-text-plugin@2.20.0.5038?classifier=sources
+- pkg:maven/org.sonarsource.text/sonar-text-plugin@2.20.1.5317?classifier=sources
 - pkg:maven/org.sonarsource.text/sonar-text-plugin@2.21.0.5225?classifier=sources
 - pkg:maven/org.sonarsource.text/sonar-text-plugin@2.3.0.1632?classifier=sources
 - pkg:maven/org.sonarsource.text/sonar-text-plugin@2.4.0.2120?classifier=sources

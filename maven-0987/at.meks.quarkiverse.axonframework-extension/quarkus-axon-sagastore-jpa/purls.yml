@@ -1,6 +1,10 @@
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC10
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC10?classifier=sources
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC6
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC6?classifier=sources
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC7
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC7?classifier=sources
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC8
 - pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC8?classifier=sources
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC9
+- pkg:maven/at.meks.quarkiverse.axonframework-extension/quarkus-axon-sagastore-jpa@0.1.0-RC9?classifier=sources

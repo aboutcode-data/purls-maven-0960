@@ -10,3 +10,5 @@
 - pkg:maven/com.qualcomm.qti/qnn-runtime@2.29.0?type=aar
 - pkg:maven/com.qualcomm.qti/qnn-runtime@2.30.0?classifier=sources
 - pkg:maven/com.qualcomm.qti/qnn-runtime@2.30.0?type=aar
+- pkg:maven/com.qualcomm.qti/qnn-runtime@2.31.0?classifier=sources
+- pkg:maven/com.qualcomm.qti/qnn-runtime@2.31.0?type=aar

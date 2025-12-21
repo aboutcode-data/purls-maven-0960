@@ -1,2 +1,8 @@
 - pkg:maven/network.oxalis/oxalis-ng-server@0.1.0-alpha
 - pkg:maven/network.oxalis/oxalis-ng-server@0.1.0-alpha?classifier=sources
+- pkg:maven/network.oxalis/oxalis-ng-server@0.2.0-beta
+- pkg:maven/network.oxalis/oxalis-ng-server@0.2.0-beta?classifier=sources
+- pkg:maven/network.oxalis/oxalis-ng-server@1.0.0
+- pkg:maven/network.oxalis/oxalis-ng-server@1.0.0-RC1
+- pkg:maven/network.oxalis/oxalis-ng-server@1.0.0-RC1?classifier=sources
+- pkg:maven/network.oxalis/oxalis-ng-server@1.0.0?classifier=sources

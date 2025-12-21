@@ -2,6 +2,8 @@
 - pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@1.117.0?classifier=sources
 - pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@1.118.0?classifier=sources
 - pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@12.10.0?classifier=sources
+- pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@12.12.0?classifier=sources
+- pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@12.13.0?classifier=sources
 - pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@12.2.2?classifier=sources
 - pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@12.3.0?classifier=sources
 - pkg:maven/dev.ikm.build/gitub_actions_test_java-parent@12.4.0?classifier=sources

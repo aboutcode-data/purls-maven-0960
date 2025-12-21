@@ -142,3 +142,5 @@
 - pkg:maven/de.gematik.test/tiger-common@3.5.0?classifier=sources
 - pkg:maven/de.gematik.test/tiger-common@3.6.0
 - pkg:maven/de.gematik.test/tiger-common@3.6.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-common@3.6.1
+- pkg:maven/de.gematik.test/tiger-common@3.6.1?classifier=sources

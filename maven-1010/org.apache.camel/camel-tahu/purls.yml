@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.camel/camel-tahu@4.10.0
+- pkg:maven/org.apache.camel/camel-tahu@4.10.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tahu@4.8.0
 - pkg:maven/org.apache.camel/camel-tahu@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tahu@4.8.1

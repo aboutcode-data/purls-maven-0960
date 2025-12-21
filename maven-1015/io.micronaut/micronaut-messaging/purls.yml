@@ -296,6 +296,10 @@
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.10?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.11?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.12?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.7.13?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.7.14?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.7.15?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.7.16?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.3?classifier=sources
@@ -305,3 +309,9 @@
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.7?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.8?classifier=sources
 - pkg:maven/io.micronaut/micronaut-messaging@4.7.9?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.8.0?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.8.1?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.8.2?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.8.3?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.8.4?classifier=sources
+- pkg:maven/io.micronaut/micronaut-messaging@4.8.5?classifier=sources

@@ -7,6 +7,10 @@
 - pkg:maven/com.liferay/com.liferay.object.api@10.0.0
 - pkg:maven/com.liferay/com.liferay.object.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@10.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.object.api@100.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@100.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@101.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@102.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@11.0.0
 - pkg:maven/com.liferay/com.liferay.object.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@11.0.0?classifier=sources-commercial

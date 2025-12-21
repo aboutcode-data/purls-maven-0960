@@ -3,3 +3,6 @@
 - pkg:maven/com.slack.circuit/circuit-runtime-watchossimulatorarm64@0.24.0-alpha01-compose17?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-runtime-watchossimulatorarm64@0.24.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-runtime-watchossimulatorarm64@0.25.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-runtime-watchossimulatorarm64@0.26.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-runtime-watchossimulatorarm64@0.26.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-runtime-watchossimulatorarm64@0.27.0?classifier=sources

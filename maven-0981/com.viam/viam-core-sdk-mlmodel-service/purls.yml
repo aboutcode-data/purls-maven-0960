@@ -1,3 +1,4 @@
+- pkg:maven/com.viam/viam-core-sdk-mlmodel-service@0.0.10?classifier=sources
 - pkg:maven/com.viam/viam-core-sdk-mlmodel-service@0.0.2?classifier=sources
 - pkg:maven/com.viam/viam-core-sdk-mlmodel-service@0.0.4?classifier=sources
 - pkg:maven/com.viam/viam-core-sdk-mlmodel-service@0.0.5?classifier=sources

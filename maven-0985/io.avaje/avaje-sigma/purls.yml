@@ -6,3 +6,5 @@
 - pkg:maven/io.avaje/avaje-sigma@0.3?classifier=sources
 - pkg:maven/io.avaje/avaje-sigma@0.4
 - pkg:maven/io.avaje/avaje-sigma@0.4?classifier=sources
+- pkg:maven/io.avaje/avaje-sigma@1.0
+- pkg:maven/io.avaje/avaje-sigma@1.0?classifier=sources

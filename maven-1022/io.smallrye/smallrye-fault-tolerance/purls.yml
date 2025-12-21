@@ -129,3 +129,4 @@
 - pkg:maven/io.smallrye/smallrye-fault-tolerance@6.7.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-fault-tolerance@6.7.2?classifier=sources
 - pkg:maven/io.smallrye/smallrye-fault-tolerance@6.7.3?classifier=sources
+- pkg:maven/io.smallrye/smallrye-fault-tolerance@6.8.0?classifier=sources

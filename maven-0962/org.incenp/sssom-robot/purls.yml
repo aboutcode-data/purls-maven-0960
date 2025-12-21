@@ -50,3 +50,5 @@
 - pkg:maven/org.incenp/sssom-robot@1.1.1?classifier=sources
 - pkg:maven/org.incenp/sssom-robot@1.1.2
 - pkg:maven/org.incenp/sssom-robot@1.1.2?classifier=sources
+- pkg:maven/org.incenp/sssom-robot@1.2.0
+- pkg:maven/org.incenp/sssom-robot@1.2.0?classifier=sources

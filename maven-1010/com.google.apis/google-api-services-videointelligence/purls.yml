@@ -140,6 +140,8 @@
 - pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev20230706-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev20231214-2.0.0
 - pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev20231214-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev20250130-2.0.0
+- pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev20250130-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev24-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev24-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-videointelligence@v1-rev24-1.22.0

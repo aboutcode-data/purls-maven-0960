@@ -42,6 +42,7 @@
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.15.1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.15.2
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.15.3
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.15.3.1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.16.0
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.16.0.CR1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.16.1
@@ -60,6 +61,13 @@
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.17.8
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.18.0
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.18.0.CR1
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.18.1
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.18.2
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.18.3
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.18.4
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.19.0
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.19.0.CR1
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.19.1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.2.0.CR1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.2.0.Final
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.2.1.Final
@@ -114,6 +122,7 @@
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.8.4
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.8.5
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.8.6
+- pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.8.6.1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.9.0
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.9.0.CR1
 - pkg:maven/io.quarkus.arc/arc-cdi-tck-runner@3.9.0.CR2

@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.iceberg/iceberg-spark-runtime-3.3_2.12@1.6.1?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-spark-runtime-3.3_2.12@1.7.0?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-spark-runtime-3.3_2.12@1.7.1?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-spark-runtime-3.3_2.12@1.8.0?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-spark-runtime-3.3_2.12@1.8.1?classifier=sources

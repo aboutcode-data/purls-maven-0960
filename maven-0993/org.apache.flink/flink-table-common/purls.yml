@@ -94,8 +94,12 @@
 - pkg:maven/org.apache.flink/flink-table-common@1.19.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-table-common@1.19.1
 - pkg:maven/org.apache.flink/flink-table-common@1.19.1?classifier=sources
+- pkg:maven/org.apache.flink/flink-table-common@1.19.2
+- pkg:maven/org.apache.flink/flink-table-common@1.19.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-table-common@1.20.0
 - pkg:maven/org.apache.flink/flink-table-common@1.20.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-table-common@1.20.1
+- pkg:maven/org.apache.flink/flink-table-common@1.20.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-table-common@1.7.0
 - pkg:maven/org.apache.flink/flink-table-common@1.7.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-table-common@1.7.1

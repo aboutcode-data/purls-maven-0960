@@ -44,5 +44,7 @@
 - pkg:maven/org.digidoc4j/ddoc4j@5.3.0?classifier=sources
 - pkg:maven/org.digidoc4j/ddoc4j@5.3.1
 - pkg:maven/org.digidoc4j/ddoc4j@5.3.1?classifier=sources
+- pkg:maven/org.digidoc4j/ddoc4j@6.0.0
 - pkg:maven/org.digidoc4j/ddoc4j@6.0.0-RC.1
 - pkg:maven/org.digidoc4j/ddoc4j@6.0.0-RC.1?classifier=sources
+- pkg:maven/org.digidoc4j/ddoc4j@6.0.0?classifier=sources

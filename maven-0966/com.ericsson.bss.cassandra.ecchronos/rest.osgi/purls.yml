@@ -33,4 +33,6 @@
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/rest.osgi@5.0.3
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/rest.osgi@5.0.3?classifier=sources
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/rest.osgi@5.0.4
+- pkg:maven/com.ericsson.bss.cassandra.ecchronos/rest.osgi@5.0.4-ec1
+- pkg:maven/com.ericsson.bss.cassandra.ecchronos/rest.osgi@5.0.4-ec1?classifier=sources
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/rest.osgi@5.0.4?classifier=sources

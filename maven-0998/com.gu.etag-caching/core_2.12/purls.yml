@@ -172,3 +172,7 @@
 - pkg:maven/com.gu.etag-caching/core_2.12@7.0.0?classifier=sources
 - pkg:maven/com.gu.etag-caching/core_2.12@7.0.1
 - pkg:maven/com.gu.etag-caching/core_2.12@7.0.1?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@7.0.2
+- pkg:maven/com.gu.etag-caching/core_2.12@7.0.2?classifier=sources
+- pkg:maven/com.gu.etag-caching/core_2.12@8.0.0
+- pkg:maven/com.gu.etag-caching/core_2.12@8.0.0?classifier=sources

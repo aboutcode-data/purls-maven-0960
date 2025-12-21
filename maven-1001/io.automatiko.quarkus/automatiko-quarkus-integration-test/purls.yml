@@ -56,8 +56,14 @@
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.38.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.39.0
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.39.0?classifier=sources
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.39.1
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.39.1?classifier=sources
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.39.2
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.39.2?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.4.0
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.4.0?classifier=sources
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.40.0
+- pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.40.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.5.0
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.5.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-quarkus-integration-test@0.6.0

@@ -142,6 +142,7 @@
 - pkg:maven/com.vaadin/vaadin-core-jandex@23.5.12
 - pkg:maven/com.vaadin/vaadin-core-jandex@23.5.13
 - pkg:maven/com.vaadin/vaadin-core-jandex@23.5.14
+- pkg:maven/com.vaadin/vaadin-core-jandex@23.5.15
 - pkg:maven/com.vaadin/vaadin-core-jandex@23.5.2
 - pkg:maven/com.vaadin/vaadin-core-jandex@23.5.3
 - pkg:maven/com.vaadin/vaadin-core-jandex@23.5.4
@@ -242,6 +243,8 @@
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.5.0
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.5.1
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.5.10
+- pkg:maven/com.vaadin/vaadin-core-jandex@24.5.11
+- pkg:maven/com.vaadin/vaadin-core-jandex@24.5.12
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.5.2
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.5.3
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.5.4
@@ -253,3 +256,6 @@
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.6.0
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.6.1
 - pkg:maven/com.vaadin/vaadin-core-jandex@24.6.2
+- pkg:maven/com.vaadin/vaadin-core-jandex@24.6.3
+- pkg:maven/com.vaadin/vaadin-core-jandex@24.6.4
+- pkg:maven/com.vaadin/vaadin-core-jandex@24.6.5

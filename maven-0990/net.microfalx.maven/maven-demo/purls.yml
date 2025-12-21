@@ -1,2 +1,4 @@
 - pkg:maven/net.microfalx.maven/maven-demo@0.8.1
 - pkg:maven/net.microfalx.maven/maven-demo@0.8.1?classifier=sources
+- pkg:maven/net.microfalx.maven/maven-demo@0.8.2
+- pkg:maven/net.microfalx.maven/maven-demo@0.8.2?classifier=sources

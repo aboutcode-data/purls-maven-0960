@@ -66,3 +66,5 @@
 - pkg:maven/com.spotify/magnolify-cats_2.12@0.7.3?classifier=sources
 - pkg:maven/com.spotify/magnolify-cats_2.12@0.7.4
 - pkg:maven/com.spotify/magnolify-cats_2.12@0.7.4?classifier=sources
+- pkg:maven/com.spotify/magnolify-cats_2.12@0.8.0
+- pkg:maven/com.spotify/magnolify-cats_2.12@0.8.0?classifier=sources

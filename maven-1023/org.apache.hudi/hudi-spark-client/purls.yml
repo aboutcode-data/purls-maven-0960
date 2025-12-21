@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.hudi/hudi-spark-client@1.0.0-beta2
 - pkg:maven/org.apache.hudi/hudi-spark-client@1.0.0-beta2?classifier=sources
 - pkg:maven/org.apache.hudi/hudi-spark-client@1.0.0?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-spark-client@1.0.1
+- pkg:maven/org.apache.hudi/hudi-spark-client@1.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-jms-pooled-apache-artemis-sink-kafka-connector@4.8.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-jms-pooled-apache-artemis-sink-kafka-connector@4.8.3?classifier=sources

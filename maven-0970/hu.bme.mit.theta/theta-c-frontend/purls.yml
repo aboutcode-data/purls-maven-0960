@@ -21,6 +21,8 @@
 - pkg:maven/hu.bme.mit.theta/theta-c-frontend@5.4.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.0.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.1.0?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.11.2?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.11.3?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.2.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.3.3?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-c-frontend@6.3.4?classifier=sources

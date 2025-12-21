@@ -110,6 +110,8 @@
 - pkg:maven/com.nedap.healthcare.archie/i18n@3.10.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/i18n@3.11.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/i18n@3.12.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/i18n@3.13.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/i18n@3.13.1?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/i18n@3.2.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/i18n@3.3.0?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/i18n@3.4.0?classifier=sources

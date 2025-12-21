@@ -1,3 +1,7 @@
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@10.0.0
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@10.0.0-rc.1
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@10.0.0-rc.1?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@10.0.0?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.0.0
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.0.0?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.1.0
@@ -40,3 +44,7 @@
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.0?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.1
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.1?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.2
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.2-rc.1
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.2-rc.1?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.5.2?classifier=sources

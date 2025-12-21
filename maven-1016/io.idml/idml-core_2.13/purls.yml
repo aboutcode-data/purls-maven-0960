@@ -8,3 +8,5 @@
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC9
 - pkg:maven/io.idml/idml-core_2.13@2.1.0-RC9?classifier=sources
 - pkg:maven/io.idml/idml-core_2.13@2.1.0?classifier=sources
+- pkg:maven/io.idml/idml-core_2.13@2.1.1
+- pkg:maven/io.idml/idml-core_2.13@2.1.1?classifier=sources

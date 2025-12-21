@@ -66,3 +66,7 @@
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.5?classifier=sources
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.6
 - pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.6?classifier=sources
+- pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.7
+- pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.7?classifier=sources
+- pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.8
+- pkg:maven/io.quarkus.bot/build-reporter-maven-extension-model@3.9.8?classifier=sources

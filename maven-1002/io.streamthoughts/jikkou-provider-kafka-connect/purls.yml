@@ -8,3 +8,5 @@
 - pkg:maven/io.streamthoughts/jikkou-provider-kafka-connect@0.34.0?classifier=sources
 - pkg:maven/io.streamthoughts/jikkou-provider-kafka-connect@0.35.4
 - pkg:maven/io.streamthoughts/jikkou-provider-kafka-connect@0.35.4?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-provider-kafka-connect@0.35.6
+- pkg:maven/io.streamthoughts/jikkou-provider-kafka-connect@0.35.6?classifier=sources

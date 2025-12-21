@@ -35,6 +35,8 @@
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.1
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.10
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.10?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.11
+- pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.11?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.1?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.2
 - pkg:maven/com.playtika.testcontainers/embedded-k3s@3.1.2?classifier=sources

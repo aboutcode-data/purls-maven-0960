@@ -1482,3 +1482,5 @@
 - pkg:maven/org.noear/mybatis-solon-plugin@3.0.9-M2
 - pkg:maven/org.noear/mybatis-solon-plugin@3.0.9-M2?classifier=sources
 - pkg:maven/org.noear/mybatis-solon-plugin@3.0.9?classifier=sources
+- pkg:maven/org.noear/mybatis-solon-plugin@3.1.0-M1
+- pkg:maven/org.noear/mybatis-solon-plugin@3.1.0-M1?classifier=sources

@@ -18,6 +18,12 @@
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.4-SNAPSHOT-35e64fa
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.4-SNAPSHOT-35e64fa?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.4?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.8
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.8?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.9
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@2.10.7.9?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@3.0.10.0
+- pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@3.0.10.0?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@3.0.7.0-SNAPSHOT-a030c50
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@3.0.7.0-SNAPSHOT-a030c50?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/pulsar-client-tools@3.0.8.0-SNAPSHOT-16a7bcc

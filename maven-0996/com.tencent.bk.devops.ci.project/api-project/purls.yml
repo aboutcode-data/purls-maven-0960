@@ -60,8 +60,11 @@
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.0.0-rc.1?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.0.0?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.0.12?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.0.13?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.1.0-rc.3?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.1.0-rc.4?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.1.0-rc.5?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.1.0-rc.6?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.1.0?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.2.0-rc.1?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.project/api-project@3.2.0-rc.2?classifier=sources

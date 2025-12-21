@@ -283,8 +283,16 @@
 - pkg:maven/software.amazon.awssdk/qapps@2.30.25?classifier=sources
 - pkg:maven/software.amazon.awssdk/qapps@2.30.26
 - pkg:maven/software.amazon.awssdk/qapps@2.30.26?classifier=sources
+- pkg:maven/software.amazon.awssdk/qapps@2.30.27
+- pkg:maven/software.amazon.awssdk/qapps@2.30.27?classifier=sources
+- pkg:maven/software.amazon.awssdk/qapps@2.30.28
+- pkg:maven/software.amazon.awssdk/qapps@2.30.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/qapps@2.30.29
+- pkg:maven/software.amazon.awssdk/qapps@2.30.29?classifier=sources
 - pkg:maven/software.amazon.awssdk/qapps@2.30.2?classifier=sources
 - pkg:maven/software.amazon.awssdk/qapps@2.30.3
+- pkg:maven/software.amazon.awssdk/qapps@2.30.30
+- pkg:maven/software.amazon.awssdk/qapps@2.30.30?classifier=sources
 - pkg:maven/software.amazon.awssdk/qapps@2.30.3?classifier=sources
 - pkg:maven/software.amazon.awssdk/qapps@2.30.4
 - pkg:maven/software.amazon.awssdk/qapps@2.30.4?classifier=sources

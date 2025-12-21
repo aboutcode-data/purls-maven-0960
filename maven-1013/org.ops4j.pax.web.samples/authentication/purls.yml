@@ -443,6 +443,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.3
 - pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.30
 - pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.30?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.31
+- pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.31?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.4
 - pkg:maven/org.ops4j.pax.web.samples/authentication@8.0.4?classifier=sources
@@ -481,6 +483,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.19?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.2
+- pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.20
+- pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.3
 - pkg:maven/org.ops4j.pax.web.samples/authentication@9.0.3?classifier=sources

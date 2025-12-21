@@ -12,3 +12,5 @@
 - pkg:maven/com.github.albfernandez.test-jsf/jsf-mockito@1.1.16?classifier=sources
 - pkg:maven/com.github.albfernandez.test-jsf/jsf-mockito@1.1.17
 - pkg:maven/com.github.albfernandez.test-jsf/jsf-mockito@1.1.17?classifier=sources
+- pkg:maven/com.github.albfernandez.test-jsf/jsf-mockito@10.0.0
+- pkg:maven/com.github.albfernandez.test-jsf/jsf-mockito@10.0.0?classifier=sources

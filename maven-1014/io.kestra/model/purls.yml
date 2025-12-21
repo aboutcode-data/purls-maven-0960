@@ -14,6 +14,7 @@
 - pkg:maven/io.kestra/model@0.17.21?classifier=sources
 - pkg:maven/io.kestra/model@0.17.22?classifier=sources
 - pkg:maven/io.kestra/model@0.17.23?classifier=sources
+- pkg:maven/io.kestra/model@0.17.24?classifier=sources
 - pkg:maven/io.kestra/model@0.17.2?classifier=sources
 - pkg:maven/io.kestra/model@0.17.3?classifier=sources
 - pkg:maven/io.kestra/model@0.17.4?classifier=sources
@@ -28,6 +29,8 @@
 - pkg:maven/io.kestra/model@0.18.12?classifier=sources
 - pkg:maven/io.kestra/model@0.18.13?classifier=sources
 - pkg:maven/io.kestra/model@0.18.14?classifier=sources
+- pkg:maven/io.kestra/model@0.18.15?classifier=sources
+- pkg:maven/io.kestra/model@0.18.16?classifier=sources
 - pkg:maven/io.kestra/model@0.18.1?classifier=sources
 - pkg:maven/io.kestra/model@0.18.2?classifier=sources
 - pkg:maven/io.kestra/model@0.18.3?classifier=sources
@@ -46,7 +49,10 @@
 - pkg:maven/io.kestra/model@0.19.15?classifier=sources
 - pkg:maven/io.kestra/model@0.19.16?classifier=sources
 - pkg:maven/io.kestra/model@0.19.17?classifier=sources
+- pkg:maven/io.kestra/model@0.19.18?classifier=sources
+- pkg:maven/io.kestra/model@0.19.19?classifier=sources
 - pkg:maven/io.kestra/model@0.19.1?classifier=sources
+- pkg:maven/io.kestra/model@0.19.20?classifier=sources
 - pkg:maven/io.kestra/model@0.19.2?classifier=sources
 - pkg:maven/io.kestra/model@0.19.3?classifier=sources
 - pkg:maven/io.kestra/model@0.19.4?classifier=sources
@@ -60,6 +66,11 @@
 - pkg:maven/io.kestra/model@0.20.11?classifier=sources
 - pkg:maven/io.kestra/model@0.20.12?classifier=sources
 - pkg:maven/io.kestra/model@0.20.13?classifier=sources
+- pkg:maven/io.kestra/model@0.20.14?classifier=sources
+- pkg:maven/io.kestra/model@0.20.15?classifier=sources
+- pkg:maven/io.kestra/model@0.20.16?classifier=sources
+- pkg:maven/io.kestra/model@0.20.17?classifier=sources
+- pkg:maven/io.kestra/model@0.20.18?classifier=sources
 - pkg:maven/io.kestra/model@0.20.1?classifier=sources
 - pkg:maven/io.kestra/model@0.20.2?classifier=sources
 - pkg:maven/io.kestra/model@0.20.3?classifier=sources
@@ -69,3 +80,8 @@
 - pkg:maven/io.kestra/model@0.20.7?classifier=sources
 - pkg:maven/io.kestra/model@0.20.8?classifier=sources
 - pkg:maven/io.kestra/model@0.20.9?classifier=sources
+- pkg:maven/io.kestra/model@0.21.0?classifier=sources
+- pkg:maven/io.kestra/model@0.21.1?classifier=sources
+- pkg:maven/io.kestra/model@0.21.2?classifier=sources
+- pkg:maven/io.kestra/model@0.21.3?classifier=sources
+- pkg:maven/io.kestra/model@0.21.4?classifier=sources

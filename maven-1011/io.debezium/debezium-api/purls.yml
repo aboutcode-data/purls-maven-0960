@@ -304,3 +304,5 @@
 - pkg:maven/io.debezium/debezium-api@3.0.7.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-api@3.1.0.Alpha1
 - pkg:maven/io.debezium/debezium-api@3.1.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-api@3.1.0.Alpha2
+- pkg:maven/io.debezium/debezium-api@3.1.0.Alpha2?classifier=sources

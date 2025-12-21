@@ -10,3 +10,5 @@
 - pkg:maven/io.github.mavenplugins/unleash-scm-provider-git@3.1.0?classifier=sources
 - pkg:maven/io.github.mavenplugins/unleash-scm-provider-git@3.2.0
 - pkg:maven/io.github.mavenplugins/unleash-scm-provider-git@3.2.0?classifier=sources
+- pkg:maven/io.github.mavenplugins/unleash-scm-provider-git@3.3.0
+- pkg:maven/io.github.mavenplugins/unleash-scm-provider-git@3.3.0?classifier=sources

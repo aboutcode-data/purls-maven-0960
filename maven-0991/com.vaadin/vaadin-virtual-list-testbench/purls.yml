@@ -291,6 +291,8 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.14
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.14?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.15
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.15?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.2
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.2?classifier=sources
@@ -491,6 +493,10 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.1
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.10
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.11
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.12
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.2
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.5.2?classifier=sources
@@ -514,3 +520,9 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.2
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.3
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.4
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.5
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.5?classifier=sources

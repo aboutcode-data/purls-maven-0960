@@ -54,6 +54,10 @@
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M14?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M15
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M15?classifier=sources
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M16
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M16?classifier=sources
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M17
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M17?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M2
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M2?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M3
@@ -68,3 +72,7 @@
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M7?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M8
 - pkg:maven/io.github.pityka/tasks-ec2_2.13@3.0.0-M8?classifier=sources
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@4.0.0-M1
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@4.0.0-M1?classifier=sources
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@4.0.0-M2
+- pkg:maven/io.github.pityka/tasks-ec2_2.13@4.0.0-M2?classifier=sources

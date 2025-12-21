@@ -6,6 +6,8 @@
 - pkg:maven/com.wgtwo.api.v1.grpc/common@1.10.2?classifier=sources
 - pkg:maven/com.wgtwo.api.v1.grpc/common@1.10.3
 - pkg:maven/com.wgtwo.api.v1.grpc/common@1.10.3?classifier=sources
+- pkg:maven/com.wgtwo.api.v1.grpc/common@1.16.2
+- pkg:maven/com.wgtwo.api.v1.grpc/common@1.16.2?classifier=sources
 - pkg:maven/com.wgtwo.api.v1.grpc/common@1.4.0
 - pkg:maven/com.wgtwo.api.v1.grpc/common@1.4.0?classifier=sources
 - pkg:maven/com.wgtwo.api.v1.grpc/common@1.4.1

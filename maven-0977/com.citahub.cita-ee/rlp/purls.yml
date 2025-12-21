@@ -9,4 +9,10 @@
 - pkg:maven/com.citahub.cita-ee/rlp@1.8.1
 - pkg:maven/com.citahub.cita-ee/rlp@1.8.1?classifier=sources
 - pkg:maven/com.citahub.cita-ee/rlp@1.8.3
+- pkg:maven/com.citahub.cita-ee/rlp@1.8.3.1
+- pkg:maven/com.citahub.cita-ee/rlp@1.8.3.1?classifier=sources
+- pkg:maven/com.citahub.cita-ee/rlp@1.8.3.2
+- pkg:maven/com.citahub.cita-ee/rlp@1.8.3.2?classifier=sources
+- pkg:maven/com.citahub.cita-ee/rlp@1.8.3.3
+- pkg:maven/com.citahub.cita-ee/rlp@1.8.3.3?classifier=sources
 - pkg:maven/com.citahub.cita-ee/rlp@1.8.3?classifier=sources

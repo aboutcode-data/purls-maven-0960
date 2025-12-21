@@ -1,3 +1,5 @@
 - pkg:maven/io.matthewnelson.kmp-tor/runtime-core-iosarm64@2.0.0-alpha01?classifier=sources
 - pkg:maven/io.matthewnelson.kmp-tor/runtime-core-iosarm64@2.0.0-alpha02?classifier=sources
 - pkg:maven/io.matthewnelson.kmp-tor/runtime-core-iosarm64@2.0.0-beta01?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/runtime-core-iosarm64@2.0.0?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/runtime-core-iosarm64@2.1.0?classifier=sources

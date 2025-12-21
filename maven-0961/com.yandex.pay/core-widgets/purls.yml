@@ -13,3 +13,6 @@
 - pkg:maven/com.yandex.pay/core-widgets@2.3.9.1?classifier=sources
 - pkg:maven/com.yandex.pay/core-widgets@2.3.9?classifier=sources
 - pkg:maven/com.yandex.pay/core-widgets@2.4.0-alpha?classifier=sources
+- pkg:maven/com.yandex.pay/core-widgets@2.4.0?classifier=sources
+- pkg:maven/com.yandex.pay/core-widgets@2.5.0?classifier=sources
+- pkg:maven/com.yandex.pay/core-widgets@2.6.0?classifier=sources

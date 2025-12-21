@@ -84,6 +84,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.50.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.51.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.51.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.52.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.52.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.53.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.53.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-monitoring-metricsscope-v1@0.7.0

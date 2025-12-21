@@ -36,6 +36,12 @@
 - pkg:maven/br.com.jarch/jarch-test@2.23.5?classifier=sources
 - pkg:maven/br.com.jarch/jarch-test@20.2.0
 - pkg:maven/br.com.jarch/jarch-test@20.2.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-test@24.10.0
+- pkg:maven/br.com.jarch/jarch-test@24.10.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-test@24.11.0
+- pkg:maven/br.com.jarch/jarch-test@24.11.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-test@24.12.0
+- pkg:maven/br.com.jarch/jarch-test@24.12.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-test@24.2.0
 - pkg:maven/br.com.jarch/jarch-test@24.2.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-test@24.3.1
@@ -58,3 +64,5 @@
 - pkg:maven/br.com.jarch/jarch-test@24.8.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-test@24.9.0
 - pkg:maven/br.com.jarch/jarch-test@24.9.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-test@25.1.0
+- pkg:maven/br.com.jarch/jarch-test@25.1.0?classifier=sources

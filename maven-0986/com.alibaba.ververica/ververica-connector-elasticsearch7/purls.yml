@@ -8,5 +8,7 @@
 - pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.13-vvr-4.0.7?classifier=sources
 - pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.15-vvr-6.0.2-3
 - pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.15-vvr-6.0.2-3?classifier=sources
+- pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.17-vvr-8.0.11-1
+- pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.17-vvr-8.0.11-1?classifier=sources
 - pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.17-vvr-8.0.8
 - pkg:maven/com.alibaba.ververica/ververica-connector-elasticsearch7@1.17-vvr-8.0.8?classifier=sources

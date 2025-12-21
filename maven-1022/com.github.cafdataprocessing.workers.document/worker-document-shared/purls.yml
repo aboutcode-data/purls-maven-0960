@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafdataprocessing.workers.document/worker-document-shared@7.0.0-1496
 - pkg:maven/com.github.cafdataprocessing.workers.document/worker-document-shared@7.0.0-1496?classifier=sources
+- pkg:maven/com.github.cafdataprocessing.workers.document/worker-document-shared@7.1.0-1518
+- pkg:maven/com.github.cafdataprocessing.workers.document/worker-document-shared@7.1.0-1518?classifier=sources

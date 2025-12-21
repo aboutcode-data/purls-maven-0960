@@ -46,6 +46,10 @@
 - pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.1-hadoop3
 - pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.1-hadoop3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.2
+- pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.2-hadoop3
+- pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.2-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-compression-lz4@2.6.2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-compression-lz4@3.0.0-alpha-2
 - pkg:maven/org.apache.hbase/hbase-compression-lz4@3.0.0-alpha-2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-compression-lz4@3.0.0-alpha-3

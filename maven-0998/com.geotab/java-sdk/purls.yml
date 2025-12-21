@@ -30,3 +30,5 @@
 - pkg:maven/com.geotab/java-sdk@9.0.7?classifier=sources
 - pkg:maven/com.geotab/java-sdk@9.0.8
 - pkg:maven/com.geotab/java-sdk@9.0.8?classifier=sources
+- pkg:maven/com.geotab/java-sdk@9.0.9
+- pkg:maven/com.geotab/java-sdk@9.0.9?classifier=sources

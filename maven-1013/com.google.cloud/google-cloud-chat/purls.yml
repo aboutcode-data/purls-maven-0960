@@ -22,6 +22,12 @@
 - pkg:maven/com.google.cloud/google-cloud-chat@0.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-chat@0.20.0
 - pkg:maven/com.google.cloud/google-cloud-chat@0.20.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-chat@0.21.0
+- pkg:maven/com.google.cloud/google-cloud-chat@0.21.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-chat@0.22.0
+- pkg:maven/com.google.cloud/google-cloud-chat@0.22.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-chat@0.23.0
+- pkg:maven/com.google.cloud/google-cloud-chat@0.23.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-chat@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-chat@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-chat@0.4.0

@@ -158,3 +158,5 @@
 - pkg:maven/org.apache.dubbo/dubbo-metadata-api@3.3.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-metadata-api@3.3.2
 - pkg:maven/org.apache.dubbo/dubbo-metadata-api@3.3.2?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-metadata-api@3.3.3
+- pkg:maven/org.apache.dubbo/dubbo-metadata-api@3.3.3?classifier=sources

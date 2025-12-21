@@ -81,6 +81,14 @@
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.23.0.CR2?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.23.0?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.23.3?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.24.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.24.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.24.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.24.0?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.25.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.25.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.25.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.25.0?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.3.0
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-pgvector-deployment@0.4.0

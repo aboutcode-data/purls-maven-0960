@@ -152,3 +152,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-tests@3.4.3?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-tests@3.4.4
 - pkg:maven/io.zipkin.zipkin2/zipkin-tests@3.4.4?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-tests@3.5.0
+- pkg:maven/io.zipkin.zipkin2/zipkin-tests@3.5.0?classifier=sources

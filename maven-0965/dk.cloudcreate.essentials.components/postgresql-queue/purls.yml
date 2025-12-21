@@ -81,6 +81,10 @@
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.2
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.20
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.20?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.21
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.21?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.22
+- pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.22?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.2?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.3
 - pkg:maven/dk.cloudcreate.essentials.components/postgresql-queue@0.40.3?classifier=sources

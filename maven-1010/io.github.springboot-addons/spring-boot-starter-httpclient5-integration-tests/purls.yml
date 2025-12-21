@@ -14,3 +14,7 @@
 - pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.0.6?classifier=sources
 - pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.0.7
 - pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.0.7?classifier=sources
+- pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.1.0
+- pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.1.0?classifier=sources
+- pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.1.1
+- pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient5-integration-tests@1.1.1?classifier=sources

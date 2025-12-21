@@ -102,3 +102,7 @@
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.1.0.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.1.1.release
 - pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.1.1.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.1.2.release
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.1.2.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.7.0.a20250225-01
+- pkg:maven/org.faktorips/faktorips-runtime-javax-xml@25.7.0.a20250225-01?classifier=sources

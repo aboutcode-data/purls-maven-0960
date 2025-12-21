@@ -1,5 +1,7 @@
 - pkg:maven/com.outr/rapid_2.13@0.1.0
 - pkg:maven/com.outr/rapid_2.13@0.1.0?classifier=sources
+- pkg:maven/com.outr/rapid_2.13@0.10.0
+- pkg:maven/com.outr/rapid_2.13@0.10.0?classifier=sources
 - pkg:maven/com.outr/rapid_2.13@0.2.0
 - pkg:maven/com.outr/rapid_2.13@0.2.0?classifier=sources
 - pkg:maven/com.outr/rapid_2.13@0.2.1
@@ -24,3 +26,5 @@
 - pkg:maven/com.outr/rapid_2.13@0.8.0?classifier=sources
 - pkg:maven/com.outr/rapid_2.13@0.9.0
 - pkg:maven/com.outr/rapid_2.13@0.9.0?classifier=sources
+- pkg:maven/com.outr/rapid_2.13@0.9.1
+- pkg:maven/com.outr/rapid_2.13@0.9.1?classifier=sources

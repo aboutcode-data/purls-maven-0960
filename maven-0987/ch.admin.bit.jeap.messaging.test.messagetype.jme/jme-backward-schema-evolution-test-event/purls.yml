@@ -1,0 +1,4 @@
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-backward-schema-evolution-test-event@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-backward-schema-evolution-test-event@2.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-backward-schema-evolution-test-event@3.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messaging.test.messagetype.jme/jme-backward-schema-evolution-test-event@4.0.0?classifier=sources

@@ -272,6 +272,8 @@
 - pkg:maven/ch.qos.logback/logback-classic@1.5.15?classifier=sources
 - pkg:maven/ch.qos.logback/logback-classic@1.5.16
 - pkg:maven/ch.qos.logback/logback-classic@1.5.16?classifier=sources
+- pkg:maven/ch.qos.logback/logback-classic@1.5.17
+- pkg:maven/ch.qos.logback/logback-classic@1.5.17?classifier=sources
 - pkg:maven/ch.qos.logback/logback-classic@1.5.1?classifier=sources
 - pkg:maven/ch.qos.logback/logback-classic@1.5.2
 - pkg:maven/ch.qos.logback/logback-classic@1.5.2?classifier=sources
