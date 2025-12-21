@@ -250,6 +250,11 @@
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.1.8?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.1.9?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.0?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.10?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.11?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.12?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.14?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.15?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.1?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.2?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.3?classifier=sources
@@ -257,6 +262,8 @@
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.5?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.6?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.7?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.8?classifier=sources
+- pkg:maven/com.zegreatrob.testmints/standard-jvm@12.2.9?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@3.2.24?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@3.2.25?classifier=sources
 - pkg:maven/com.zegreatrob.testmints/standard-jvm@3.2.26?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/cn.itlym/shoulder-web@1.0.0-M4.1?classifier=sources
 - pkg:maven/cn.itlym/shoulder-web@1.0.0-M4?classifier=sources
 - pkg:maven/cn.itlym/shoulder-web@1.0.0?classifier=sources
+- pkg:maven/cn.itlym/shoulder-web@1.1.0
+- pkg:maven/cn.itlym/shoulder-web@1.1.0?classifier=sources

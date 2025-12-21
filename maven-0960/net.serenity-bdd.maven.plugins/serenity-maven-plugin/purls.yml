@@ -945,6 +945,14 @@
 - pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.21?classifier=sources
 - pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.22
 - pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.22?classifier=sources
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.23
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.23?classifier=sources
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.24
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.24?classifier=sources
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.25
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.25?classifier=sources
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.26
+- pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.26?classifier=sources
 - pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.2?classifier=sources
 - pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.3
 - pkg:maven/net.serenity-bdd.maven.plugins/serenity-maven-plugin@4.2.3?classifier=sources

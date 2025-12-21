@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/cacheable@1.8.10?classifier=sources
 - pkg:maven/org.mvnpm/cacheable@1.8.9?classifier=sources
+- pkg:maven/org.mvnpm/cacheable@1.9.0
+- pkg:maven/org.mvnpm/cacheable@1.9.0?classifier=sources

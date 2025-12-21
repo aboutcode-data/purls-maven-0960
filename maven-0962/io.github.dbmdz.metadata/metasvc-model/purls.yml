@@ -5,6 +5,8 @@
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@11.0.0-rc.3?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@11.0.0-rc.4?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@11.0.0-rc.5?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@11.0.0?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-model@11.0.1?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.0.0
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.0.0?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-model@9.1.0

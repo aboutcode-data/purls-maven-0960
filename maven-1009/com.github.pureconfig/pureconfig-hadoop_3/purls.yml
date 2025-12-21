@@ -1,2 +1,4 @@
 - pkg:maven/com.github.pureconfig/pureconfig-hadoop_3@0.17.8
 - pkg:maven/com.github.pureconfig/pureconfig-hadoop_3@0.17.8?classifier=sources
+- pkg:maven/com.github.pureconfig/pureconfig-hadoop_3@0.17.9
+- pkg:maven/com.github.pureconfig/pureconfig-hadoop_3@0.17.9?classifier=sources

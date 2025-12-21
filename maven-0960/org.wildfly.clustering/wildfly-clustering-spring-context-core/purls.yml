@@ -10,3 +10,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-context-core@14.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-context-core@15.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-context-core@15.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-context-core@16.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-context-core@16.0.0.Final?classifier=sources

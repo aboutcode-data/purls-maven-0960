@@ -1,2 +1,5 @@
 - pkg:maven/tech.medivh/medivh-publisher-example@0.0.1?classifier=sources
 - pkg:maven/tech.medivh/medivh-publisher-example@0.0.3?classifier=sources
+- pkg:maven/tech.medivh/medivh-publisher-example@1.0-bug-example?classifier=sources
+- pkg:maven/tech.medivh/medivh-publisher-example@1.0-example?classifier=sources
+- pkg:maven/tech.medivh/medivh-publisher-example@1.0?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/io.xuxiaowei.nacos/nacos-persistence@2.5.0?classifier=sources
 - pkg:maven/io.xuxiaowei.nacos/nacos-persistence@3.0.0-ALPHA.2
 - pkg:maven/io.xuxiaowei.nacos/nacos-persistence@3.0.0-ALPHA.2?classifier=sources
+- pkg:maven/io.xuxiaowei.nacos/nacos-persistence@3.0.0?classifier=sources

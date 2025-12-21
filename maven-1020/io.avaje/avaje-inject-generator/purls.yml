@@ -117,6 +117,9 @@
 - pkg:maven/io.avaje/avaje-inject-generator@11.5-RC2
 - pkg:maven/io.avaje/avaje-inject-generator@11.5-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@11.5-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@11.5-RC4?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@11.5-javax?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-generator@11.5?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@2.0
 - pkg:maven/io.avaje/avaje-inject-generator@2.0?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-generator@3.0

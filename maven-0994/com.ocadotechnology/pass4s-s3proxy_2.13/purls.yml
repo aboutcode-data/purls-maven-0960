@@ -36,3 +36,5 @@
 - pkg:maven/com.ocadotechnology/pass4s-s3proxy_2.13@0.4.8?classifier=sources
 - pkg:maven/com.ocadotechnology/pass4s-s3proxy_2.13@0.4.9
 - pkg:maven/com.ocadotechnology/pass4s-s3proxy_2.13@0.4.9?classifier=sources
+- pkg:maven/com.ocadotechnology/pass4s-s3proxy_2.13@1.0.0-RC1
+- pkg:maven/com.ocadotechnology/pass4s-s3proxy_2.13@1.0.0-RC1?classifier=sources

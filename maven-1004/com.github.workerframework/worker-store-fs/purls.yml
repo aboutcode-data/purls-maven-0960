@@ -58,3 +58,7 @@
 - pkg:maven/com.github.workerframework/worker-store-fs@8.2.0-1283?classifier=sources
 - pkg:maven/com.github.workerframework/worker-store-fs@9.0.0-1293
 - pkg:maven/com.github.workerframework/worker-store-fs@9.0.0-1293?classifier=sources
+- pkg:maven/com.github.workerframework/worker-store-fs@9.1.0-1331
+- pkg:maven/com.github.workerframework/worker-store-fs@9.1.0-1331?classifier=sources
+- pkg:maven/com.github.workerframework/worker-store-fs@9.1.1-1334
+- pkg:maven/com.github.workerframework/worker-store-fs@9.1.1-1334?classifier=sources

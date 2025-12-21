@@ -1,5 +1,7 @@
 - pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.10
 - pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.10?classifier=sources
+- pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.11
+- pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.11?classifier=sources
 - pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.5
 - pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.5?classifier=sources
 - pkg:maven/org.scodec/scodec-core_sjs1_2.13@1.11.6

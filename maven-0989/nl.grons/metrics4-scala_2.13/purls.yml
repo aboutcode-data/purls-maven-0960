@@ -26,3 +26,5 @@
 - pkg:maven/nl.grons/metrics4-scala_2.13@4.3.3%2B0-68d2004e%2B20241007-1150
 - pkg:maven/nl.grons/metrics4-scala_2.13@4.3.3%2B0-68d2004e%2B20241007-1150?classifier=sources
 - pkg:maven/nl.grons/metrics4-scala_2.13@4.3.3?classifier=sources
+- pkg:maven/nl.grons/metrics4-scala_2.13@4.3.4
+- pkg:maven/nl.grons/metrics4-scala_2.13@4.3.4?classifier=sources

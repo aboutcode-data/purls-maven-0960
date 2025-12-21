@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/postcss-normalize-url@3.0.8?classifier=sources
 - pkg:maven/org.mvnpm/postcss-normalize-url@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/postcss-normalize-url@7.0.1
+- pkg:maven/org.mvnpm/postcss-normalize-url@7.0.1?classifier=sources

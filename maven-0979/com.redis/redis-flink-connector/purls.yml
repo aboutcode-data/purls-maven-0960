@@ -1,3 +1,4 @@
+- pkg:maven/com.redis/redis-flink-connector@0.0.10?classifier=sources
 - pkg:maven/com.redis/redis-flink-connector@0.0.1?classifier=sources
 - pkg:maven/com.redis/redis-flink-connector@0.0.2?classifier=sources
 - pkg:maven/com.redis/redis-flink-connector@0.0.3?classifier=sources

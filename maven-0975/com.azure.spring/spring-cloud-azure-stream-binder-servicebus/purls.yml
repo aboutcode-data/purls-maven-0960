@@ -18,6 +18,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.19.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.2.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.2.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.20.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.3.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.3.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-stream-binder-servicebus@4.4.0

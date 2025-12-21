@@ -1,1 +1,2 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-javax-money@2.19.0-rc2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-javax-money@2.19.0?classifier=sources

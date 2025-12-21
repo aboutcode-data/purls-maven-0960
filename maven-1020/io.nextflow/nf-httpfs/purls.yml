@@ -223,3 +223,6 @@
 - pkg:maven/io.nextflow/nf-httpfs@25.02.3-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-httpfs@25.03.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nf-httpfs@25.03.1-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@25.04.0?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@25.04.1?classifier=sources
+- pkg:maven/io.nextflow/nf-httpfs@25.04.2?classifier=sources

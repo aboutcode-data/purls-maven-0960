@@ -20,3 +20,6 @@
 - pkg:maven/com.fillumina/krasa-jaxb-tools@2.3.8
 - pkg:maven/com.fillumina/krasa-jaxb-tools@2.3.8?classifier=sources
 - pkg:maven/com.fillumina/krasa-jaxb-tools@2.3?classifier=sources
+- pkg:maven/com.fillumina/krasa-jaxb-tools@2.4.0
+- pkg:maven/com.fillumina/krasa-jaxb-tools@2.4.0?classifier=sources
+- pkg:maven/com.fillumina/krasa-jaxb-tools@2.5.1?classifier=sources

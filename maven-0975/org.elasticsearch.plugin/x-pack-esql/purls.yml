@@ -40,11 +40,17 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.17.4?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.17.5
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.17.5?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.17.6
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.17.6?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.18.0
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.18.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.18.1
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@8.18.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.0
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.0-beta1
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.0-beta1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.0-rc1
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.0-rc1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.1
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql@9.0.1?classifier=sources

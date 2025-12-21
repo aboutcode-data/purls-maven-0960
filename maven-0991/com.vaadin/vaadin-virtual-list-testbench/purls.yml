@@ -293,6 +293,10 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.15
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.15?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.16
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.16?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.17
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.17?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.2
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@23.5.2?classifier=sources
@@ -521,6 +525,8 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.0
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.1
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.10
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.2
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.2?classifier=sources
@@ -536,9 +542,15 @@
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.8
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.9
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.6.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.0
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.1
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.2
 - pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.3
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.4
+- pkg:maven/com.vaadin/vaadin-virtual-list-testbench@24.7.4?classifier=sources

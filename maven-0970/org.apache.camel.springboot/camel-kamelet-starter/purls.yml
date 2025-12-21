@@ -144,6 +144,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.10.2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.10.3
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.10.3?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.10.4
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.10.4?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.11.0
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.11.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.2.0
@@ -182,5 +184,7 @@
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.8.5?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.8.6
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.8.6?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.8.7
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.8.7?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.9.0
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-starter@4.9.0?classifier=sources

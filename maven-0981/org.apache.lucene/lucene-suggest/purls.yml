@@ -1,6 +1,7 @@
 - pkg:maven/org.apache.lucene/lucene-suggest@10.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@10.1.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@10.2.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-suggest@10.2.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-suggest@4.0.0
 - pkg:maven/org.apache.lucene/lucene-suggest@4.0.0-ALPHA
 - pkg:maven/org.apache.lucene/lucene-suggest@4.0.0-ALPHA?classifier=sources

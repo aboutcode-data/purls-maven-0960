@@ -59,6 +59,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.14-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.15-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.16-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.17-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.18-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.2-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.3-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.4-5.10.1?classifier=sources
@@ -67,6 +69,15 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.7-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.8-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.4.9-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.0-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.1-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.2-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.3-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.4-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.5-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.6-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.7-5.10.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@2025.5.8-5.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@5.4.0-pre.398?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@5.4.0-pre.399-compat?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-select@5.4.0-pre.399?classifier=sources

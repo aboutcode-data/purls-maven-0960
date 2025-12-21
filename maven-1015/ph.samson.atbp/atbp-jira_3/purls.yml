@@ -11,4 +11,8 @@
 - pkg:maven/ph.samson.atbp/atbp-jira_3@3
 - pkg:maven/ph.samson.atbp/atbp-jira_3@3.1
 - pkg:maven/ph.samson.atbp/atbp-jira_3@3.1?classifier=sources
+- pkg:maven/ph.samson.atbp/atbp-jira_3@3.2
+- pkg:maven/ph.samson.atbp/atbp-jira_3@3.2.1
+- pkg:maven/ph.samson.atbp/atbp-jira_3@3.2.1?classifier=sources
+- pkg:maven/ph.samson.atbp/atbp-jira_3@3.2?classifier=sources
 - pkg:maven/ph.samson.atbp/atbp-jira_3@3?classifier=sources

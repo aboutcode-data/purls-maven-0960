@@ -318,3 +318,15 @@
 - pkg:maven/com.uid2/uid2-shared@9.1.0?classifier=sources
 - pkg:maven/com.uid2/uid2-shared@9.1.10
 - pkg:maven/com.uid2/uid2-shared@9.1.10?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@9.1.16
+- pkg:maven/com.uid2/uid2-shared@9.1.16?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@9.2.0
+- pkg:maven/com.uid2/uid2-shared@9.2.0?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@9.2.3
+- pkg:maven/com.uid2/uid2-shared@9.2.3?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@9.2.9
+- pkg:maven/com.uid2/uid2-shared@9.2.9?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@9.3.0
+- pkg:maven/com.uid2/uid2-shared@9.3.0?classifier=sources
+- pkg:maven/com.uid2/uid2-shared@9.3.8
+- pkg:maven/com.uid2/uid2-shared@9.3.8?classifier=sources

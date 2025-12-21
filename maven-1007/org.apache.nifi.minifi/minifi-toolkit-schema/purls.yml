@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.2.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.3.0
 - pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.3.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.4.0
+- pkg:maven/org.apache.nifi.minifi/minifi-toolkit-schema@2.4.0?classifier=sources

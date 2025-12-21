@@ -58,6 +58,8 @@
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.20.0.CR1
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.20.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.20.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.20.1
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.20.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.21.0
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.21.0.CR1
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.21.0.CR1?classifier=sources
@@ -74,3 +76,11 @@
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.0.CR1
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.1
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.2
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.3
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.22.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.23.0.CR1
+- pkg:maven/io.quarkus/quarkus-oidc-client-registration-deployment@3.23.0.CR1?classifier=sources

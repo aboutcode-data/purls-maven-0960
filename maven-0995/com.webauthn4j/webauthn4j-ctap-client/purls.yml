@@ -1,1 +1,5 @@
 - pkg:maven/com.webauthn4j/webauthn4j-ctap-client@0.1.1.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-ctap-client@0.1.3.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-ctap-client@0.1.4.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-ctap-client@0.1.5.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-ctap-client@0.1.6.RELEASE?classifier=sources

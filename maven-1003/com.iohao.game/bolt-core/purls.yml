@@ -159,6 +159,10 @@
 - pkg:maven/com.iohao.game/bolt-core@21.24?classifier=sources
 - pkg:maven/com.iohao.game/bolt-core@21.25
 - pkg:maven/com.iohao.game/bolt-core@21.25?classifier=sources
+- pkg:maven/com.iohao.game/bolt-core@21.26
+- pkg:maven/com.iohao.game/bolt-core@21.26?classifier=sources
+- pkg:maven/com.iohao.game/bolt-core@21.27
+- pkg:maven/com.iohao.game/bolt-core@21.27?classifier=sources
 - pkg:maven/com.iohao.game/bolt-core@21.2?classifier=sources
 - pkg:maven/com.iohao.game/bolt-core@21.3
 - pkg:maven/com.iohao.game/bolt-core@21.3?classifier=sources

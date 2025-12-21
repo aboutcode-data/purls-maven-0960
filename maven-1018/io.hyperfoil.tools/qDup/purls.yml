@@ -64,3 +64,5 @@
 - pkg:maven/io.hyperfoil.tools/qDup@0.8.5?classifier=sources
 - pkg:maven/io.hyperfoil.tools/qDup@0.8.6
 - pkg:maven/io.hyperfoil.tools/qDup@0.8.6?classifier=sources
+- pkg:maven/io.hyperfoil.tools/qDup@0.9.0
+- pkg:maven/io.hyperfoil.tools/qDup@0.9.0?classifier=sources

@@ -43,6 +43,7 @@
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.18.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.19.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.19.1?classifier=sources
+- pkg:maven/org.opensearch.plugin/discovery-gce@2.19.2?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.2.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.2.1?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.3.0?classifier=sources
@@ -55,3 +56,4 @@
 - pkg:maven/org.opensearch.plugin/discovery-gce@2.9.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@3.0.0-alpha1?classifier=sources
 - pkg:maven/org.opensearch.plugin/discovery-gce@3.0.0-beta1?classifier=sources
+- pkg:maven/org.opensearch.plugin/discovery-gce@3.0.0?classifier=sources

@@ -244,5 +244,7 @@
 - pkg:maven/org.apereo.cas/cas-server-core-validation-api@7.2.0-RC6?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-validation-api@7.2.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-validation-api@7.2.1?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-core-validation-api@7.2.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-core-validation-api@7.3.0-RC1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-validation-api@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-core-validation-api@v6.4.0-RC6?classifier=sources

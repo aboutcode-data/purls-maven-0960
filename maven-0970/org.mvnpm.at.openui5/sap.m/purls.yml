@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.openui5/sap.m@1.124.1?classifier=sources
 - pkg:maven/org.mvnpm.at.openui5/sap.m@1.125.0?classifier=sources
 - pkg:maven/org.mvnpm.at.openui5/sap.m@1.130.0?classifier=sources
+- pkg:maven/org.mvnpm.at.openui5/sap.m@1.135.0
+- pkg:maven/org.mvnpm.at.openui5/sap.m@1.135.0?classifier=sources

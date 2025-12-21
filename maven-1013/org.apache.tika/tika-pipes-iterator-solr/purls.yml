@@ -30,6 +30,8 @@
 - pkg:maven/org.apache.tika/tika-pipes-iterator-solr@2.9.2?classifier=sources
 - pkg:maven/org.apache.tika/tika-pipes-iterator-solr@2.9.3
 - pkg:maven/org.apache.tika/tika-pipes-iterator-solr@2.9.3?classifier=sources
+- pkg:maven/org.apache.tika/tika-pipes-iterator-solr@2.9.4
+- pkg:maven/org.apache.tika/tika-pipes-iterator-solr@2.9.4?classifier=sources
 - pkg:maven/org.apache.tika/tika-pipes-iterator-solr@3.0.0
 - pkg:maven/org.apache.tika/tika-pipes-iterator-solr@3.0.0-BETA
 - pkg:maven/org.apache.tika/tika-pipes-iterator-solr@3.0.0-BETA2

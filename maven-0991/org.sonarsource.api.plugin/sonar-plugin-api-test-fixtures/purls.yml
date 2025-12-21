@@ -17,6 +17,8 @@
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@11.1.0.2693?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@11.2.0.2797?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@11.3.0.2824?classifier=sources
+- pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@11.4.0.2922?classifier=sources
+- pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@12.0.0.2960?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@9.15.0.435?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@9.16.0.560?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api-test-fixtures@9.17.0.587?classifier=sources

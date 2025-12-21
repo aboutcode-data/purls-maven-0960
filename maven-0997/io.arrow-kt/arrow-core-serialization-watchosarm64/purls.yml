@@ -12,3 +12,6 @@
 - pkg:maven/io.arrow-kt/arrow-core-serialization-watchosarm64@2.0.0?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-core-serialization-watchosarm64@2.0.1-alpha.1?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-core-serialization-watchosarm64@2.0.1?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-core-serialization-watchosarm64@2.1.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-core-serialization-watchosarm64@2.1.1?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-core-serialization-watchosarm64@2.1.2?classifier=sources

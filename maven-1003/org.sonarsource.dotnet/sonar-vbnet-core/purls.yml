@@ -6,3 +6,5 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.6.0.109712?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.7.0.110445?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.8.0.113526?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.9.0.115408?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-vbnet-core@10.9.1.115516?classifier=sources

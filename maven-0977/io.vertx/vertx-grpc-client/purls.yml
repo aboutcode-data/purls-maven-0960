@@ -49,6 +49,7 @@
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.13?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.14
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.14?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-client@4.5.15?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.1?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.2
 - pkg:maven/io.vertx/vertx-grpc-client@4.5.2?classifier=sources
@@ -80,3 +81,5 @@
 - pkg:maven/io.vertx/vertx-grpc-client@5.0.0.CR6?classifier=sources
 - pkg:maven/io.vertx/vertx-grpc-client@5.0.0.CR7
 - pkg:maven/io.vertx/vertx-grpc-client@5.0.0.CR7?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-client@5.0.0.CR8?classifier=sources
+- pkg:maven/io.vertx/vertx-grpc-client@5.0.0?classifier=sources

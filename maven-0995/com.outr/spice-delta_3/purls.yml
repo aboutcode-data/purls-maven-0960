@@ -94,6 +94,8 @@
 - pkg:maven/com.outr/spice-delta_3@0.1.8?classifier=sources
 - pkg:maven/com.outr/spice-delta_3@0.1.9
 - pkg:maven/com.outr/spice-delta_3@0.1.9?classifier=sources
+- pkg:maven/com.outr/spice-delta_3@0.10.0
+- pkg:maven/com.outr/spice-delta_3@0.10.0?classifier=sources
 - pkg:maven/com.outr/spice-delta_3@0.2.0
 - pkg:maven/com.outr/spice-delta_3@0.2.0?classifier=sources
 - pkg:maven/com.outr/spice-delta_3@0.3.0
@@ -164,3 +166,5 @@
 - pkg:maven/com.outr/spice-delta_3@0.8.3?classifier=sources
 - pkg:maven/com.outr/spice-delta_3@0.9.0
 - pkg:maven/com.outr/spice-delta_3@0.9.0?classifier=sources
+- pkg:maven/com.outr/spice-delta_3@0.9.1
+- pkg:maven/com.outr/spice-delta_3@0.9.1?classifier=sources

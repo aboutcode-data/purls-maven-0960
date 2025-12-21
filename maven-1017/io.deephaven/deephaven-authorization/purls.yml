@@ -57,3 +57,5 @@
 - pkg:maven/io.deephaven/deephaven-authorization@0.37.5?classifier=sources
 - pkg:maven/io.deephaven/deephaven-authorization@0.37.6?classifier=sources
 - pkg:maven/io.deephaven/deephaven-authorization@0.38.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-authorization@0.39.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-authorization@0.39.1?classifier=sources

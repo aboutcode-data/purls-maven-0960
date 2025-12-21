@@ -37,7 +37,11 @@
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.244.2?classifier=sources
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.244.3
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.244.3?classifier=sources
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.244.4
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.244.4?classifier=sources
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.244?classifier=sources
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.246
+- pkg:maven/com.qcloud/cos_api-bundle@5.6.246?classifier=sources
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.29
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.29?classifier=sources
 - pkg:maven/com.qcloud/cos_api-bundle@5.6.31

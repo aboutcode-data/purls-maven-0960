@@ -21,3 +21,6 @@
 - pkg:maven/com.sksamuel.cohort/cohort-mongo@2.6.0?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-mongo@2.6.1?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-mongo@2.6.2?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-mongo@2.7.0?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-mongo@2.7.1?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-mongo@2.7.2?classifier=sources

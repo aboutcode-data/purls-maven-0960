@@ -12,6 +12,9 @@
 - pkg:maven/com.liferay/com.liferay.object.api@101.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@102.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@103.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@103.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@104.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.api@104.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@11.0.0
 - pkg:maven/com.liferay/com.liferay.object.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.api@11.0.0?classifier=sources-commercial

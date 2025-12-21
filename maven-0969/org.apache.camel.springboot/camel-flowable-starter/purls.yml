@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.10.2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.10.3
 - pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.10.3?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.10.4
+- pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.10.4?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.11.0
 - pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.11.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-flowable-starter@4.9.0

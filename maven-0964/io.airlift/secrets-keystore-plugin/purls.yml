@@ -76,3 +76,5 @@
 - pkg:maven/io.airlift/secrets-keystore-plugin@330?classifier=sources
 - pkg:maven/io.airlift/secrets-keystore-plugin@331?classifier=sources
 - pkg:maven/io.airlift/secrets-keystore-plugin@332?classifier=sources
+- pkg:maven/io.airlift/secrets-keystore-plugin@333?classifier=sources
+- pkg:maven/io.airlift/secrets-keystore-plugin@334?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/tailwind-merge@3.0.2?classifier=sources
 - pkg:maven/org.mvnpm/tailwind-merge@3.1.0?classifier=sources
 - pkg:maven/org.mvnpm/tailwind-merge@3.2.0?classifier=sources
+- pkg:maven/org.mvnpm/tailwind-merge@3.3.0
+- pkg:maven/org.mvnpm/tailwind-merge@3.3.0?classifier=sources

@@ -114,6 +114,8 @@
 - pkg:maven/org.sonarsource.java/external-reports@8.10.0.38194?classifier=sources
 - pkg:maven/org.sonarsource.java/external-reports@8.11.0.38440?classifier=sources
 - pkg:maven/org.sonarsource.java/external-reports@8.12.0.38599?classifier=sources
+- pkg:maven/org.sonarsource.java/external-reports@8.13.0.38826?classifier=sources
+- pkg:maven/org.sonarsource.java/external-reports@8.14.0.39102?classifier=sources
 - pkg:maven/org.sonarsource.java/external-reports@8.2.0.36672?classifier=sources
 - pkg:maven/org.sonarsource.java/external-reports@8.3.0.36747?classifier=sources
 - pkg:maven/org.sonarsource.java/external-reports@8.4.0.37032?classifier=sources

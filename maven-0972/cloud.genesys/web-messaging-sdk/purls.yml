@@ -12,6 +12,8 @@
 - pkg:maven/cloud.genesys/web-messaging-sdk@11.1.0?classifier=sources
 - pkg:maven/cloud.genesys/web-messaging-sdk@12.0.0
 - pkg:maven/cloud.genesys/web-messaging-sdk@12.0.0?classifier=sources
+- pkg:maven/cloud.genesys/web-messaging-sdk@13.0.0
+- pkg:maven/cloud.genesys/web-messaging-sdk@13.0.0?classifier=sources
 - pkg:maven/cloud.genesys/web-messaging-sdk@3.0.0
 - pkg:maven/cloud.genesys/web-messaging-sdk@3.0.0?classifier=sources
 - pkg:maven/cloud.genesys/web-messaging-sdk@4.0.0

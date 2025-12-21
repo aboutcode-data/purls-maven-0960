@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-typescript@7.26.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-typescript@7.26.8?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-typescript@7.27.0?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-typescript@7.27.1
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-typescript@7.27.1?classifier=sources

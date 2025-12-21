@@ -68,3 +68,7 @@
 - pkg:maven/com.atlan/relational-assets-builder@5.0.3?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@5.0.4?classifier=sources
 - pkg:maven/com.atlan/relational-assets-builder@5.0.5?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@5.1.0?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@5.1.1-test-multiarch?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@5.1.1?classifier=sources
+- pkg:maven/com.atlan/relational-assets-builder@5.2.0?classifier=sources

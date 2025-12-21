@@ -54,3 +54,7 @@
 - pkg:maven/io.scalaland/chimney-cats_3@1.7.2?classifier=sources
 - pkg:maven/io.scalaland/chimney-cats_3@1.7.3
 - pkg:maven/io.scalaland/chimney-cats_3@1.7.3?classifier=sources
+- pkg:maven/io.scalaland/chimney-cats_3@1.8.0
+- pkg:maven/io.scalaland/chimney-cats_3@1.8.0?classifier=sources
+- pkg:maven/io.scalaland/chimney-cats_3@2.0.0-M1
+- pkg:maven/io.scalaland/chimney-cats_3@2.0.0-M1?classifier=sources

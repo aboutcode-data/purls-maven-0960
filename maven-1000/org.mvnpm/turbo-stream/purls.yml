@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/turbo-stream@2.4.0?classifier=sources
+- pkg:maven/org.mvnpm/turbo-stream@2.4.1
+- pkg:maven/org.mvnpm/turbo-stream@2.4.1?classifier=sources

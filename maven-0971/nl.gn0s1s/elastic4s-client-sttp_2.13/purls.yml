@@ -32,3 +32,5 @@
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.17.1?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.18.0
 - pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@8.18.0?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0-RC1
+- pkg:maven/nl.gn0s1s/elastic4s-client-sttp_2.13@9.0.0-RC1?classifier=sources

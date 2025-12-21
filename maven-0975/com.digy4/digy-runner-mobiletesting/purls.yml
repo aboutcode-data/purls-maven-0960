@@ -1,3 +1,7 @@
+- pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.101
+- pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.101?classifier=sources
+- pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.102
+- pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.102?classifier=sources
 - pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.45
 - pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.45?classifier=sources
 - pkg:maven/com.digy4/digy-runner-mobiletesting@0.0.53

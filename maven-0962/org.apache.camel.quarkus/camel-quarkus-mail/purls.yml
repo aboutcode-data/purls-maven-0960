@@ -142,6 +142,10 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.2.3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.20.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.20.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.20.1?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.22.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-mail@3.5.0

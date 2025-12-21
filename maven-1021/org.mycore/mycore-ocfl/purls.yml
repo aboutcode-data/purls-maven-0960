@@ -2,6 +2,8 @@
 - pkg:maven/org.mycore/mycore-ocfl@2021.06.0?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2021.06.1
 - pkg:maven/org.mycore/mycore-ocfl@2021.06.1?classifier=sources
+- pkg:maven/org.mycore/mycore-ocfl@2021.06.2
+- pkg:maven/org.mycore/mycore-ocfl@2021.06.2?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2021.08
 - pkg:maven/org.mycore/mycore-ocfl@2021.08?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2021.11
@@ -16,6 +18,8 @@
 - pkg:maven/org.mycore/mycore-ocfl@2022.06.1?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2022.06.2
 - pkg:maven/org.mycore/mycore-ocfl@2022.06.2?classifier=sources
+- pkg:maven/org.mycore/mycore-ocfl@2022.06.3
+- pkg:maven/org.mycore/mycore-ocfl@2022.06.3?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2022.08
 - pkg:maven/org.mycore/mycore-ocfl@2022.08?classifier=sources
 - pkg:maven/org.mycore/mycore-ocfl@2023.05

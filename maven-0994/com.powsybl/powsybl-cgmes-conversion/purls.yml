@@ -208,3 +208,5 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-conversion@6.7.0-RC1
 - pkg:maven/com.powsybl/powsybl-cgmes-conversion@6.7.0-RC1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-cgmes-conversion@6.7.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-cgmes-conversion@6.7.1
+- pkg:maven/com.powsybl/powsybl-cgmes-conversion@6.7.1?classifier=sources

@@ -308,6 +308,7 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.30.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.31.0
 - pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.31.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.32.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.4.0
 - pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.4.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-remote-driver@4.5.0

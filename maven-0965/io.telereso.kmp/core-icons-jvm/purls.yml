@@ -1,4 +1,5 @@
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.10.0-alpha.1?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-jvm@0.10.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.20.0-wasm.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.5.0?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-jvm@0.5.1?classifier=sources

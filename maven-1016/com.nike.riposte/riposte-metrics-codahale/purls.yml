@@ -36,6 +36,7 @@
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.19.2?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.19.3?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.20.0?classifier=sources
+- pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.20.1?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.8.0
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.8.0?classifier=sources
 - pkg:maven/com.nike.riposte/riposte-metrics-codahale@0.8.1

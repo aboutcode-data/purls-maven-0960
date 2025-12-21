@@ -6,3 +6,5 @@
 - pkg:maven/jakarta.mvc.tck/mvc-tck-tests@2.0.1?classifier=sources
 - pkg:maven/jakarta.mvc.tck/mvc-tck-tests@2.1.0
 - pkg:maven/jakarta.mvc.tck/mvc-tck-tests@2.1.0?classifier=sources
+- pkg:maven/jakarta.mvc.tck/mvc-tck-tests@3.0.0
+- pkg:maven/jakarta.mvc.tck/mvc-tck-tests@3.0.0?classifier=sources

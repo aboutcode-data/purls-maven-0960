@@ -1,6 +1,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-19acfb2
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-19acfb2?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-26737b4
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-26737b4?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-5a26ba3
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-5a26ba3?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-8d943ab
@@ -9,6 +11,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-b0aa866?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-ec140e5
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-ec140e5?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-ef34282
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-ef34282?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-f733cc5
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1-f733cc5?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1007-cc332a3
@@ -17,6 +21,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1056-7b21e56?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1084-518675f
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-1084-518675f?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-12-4e76a36
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-12-4e76a36?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-12-5588515
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-12-5588515?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-12-da4b23a
@@ -81,6 +87,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-3-7afbb5c?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-3-ae8ce3d
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-3-ae8ce3d?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-3-c5d3e28
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-3-c5d3e28?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-31-84bddcb
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-31-84bddcb?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-33-6623124
@@ -89,6 +97,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-35-a398dd9?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-26ba263
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-26ba263?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-814e653
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-814e653?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-8b2239c
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-8b2239c?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.0-4-bb0b26f
@@ -245,6 +255,12 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.32?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.33
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.33?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.34
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.34?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.35
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.35?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.36
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.36?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.3?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.4
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_native0.4_3@0.18.4?classifier=sources

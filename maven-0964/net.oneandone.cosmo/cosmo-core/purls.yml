@@ -222,3 +222,7 @@
 - pkg:maven/net.oneandone.cosmo/cosmo-core@7.0.2?classifier=sources
 - pkg:maven/net.oneandone.cosmo/cosmo-core@7.0.3
 - pkg:maven/net.oneandone.cosmo/cosmo-core@7.0.3?classifier=sources
+- pkg:maven/net.oneandone.cosmo/cosmo-core@7.1.0
+- pkg:maven/net.oneandone.cosmo/cosmo-core@7.1.0?classifier=sources
+- pkg:maven/net.oneandone.cosmo/cosmo-core@7.1.1
+- pkg:maven/net.oneandone.cosmo/cosmo-core@7.1.1?classifier=sources

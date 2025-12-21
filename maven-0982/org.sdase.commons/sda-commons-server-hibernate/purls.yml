@@ -2726,6 +2726,10 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.14?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.15
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.15?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.16
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.16?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.17
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.17?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.1?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.2
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.2?classifier=sources
@@ -2743,3 +2747,11 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.8?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.9
 - pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.3.9?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.4.0
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.4.0?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.5.0
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.5.0?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.5.1
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.5.1?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.5.2
+- pkg:maven/org.sdase.commons/sda-commons-server-hibernate@7.5.2?classifier=sources

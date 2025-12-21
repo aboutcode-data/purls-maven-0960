@@ -24,6 +24,9 @@
 - pkg:maven/info.unterrainer.commons/serialization@0.2.0
 - pkg:maven/info.unterrainer.commons/serialization@0.2.0?classifier=sources
 - pkg:maven/info.unterrainer.commons/serialization@0.2.1
+- pkg:maven/info.unterrainer.commons/serialization@0.2.11?classifier=sources
+- pkg:maven/info.unterrainer.commons/serialization@0.2.12?classifier=sources
+- pkg:maven/info.unterrainer.commons/serialization@0.2.13?classifier=sources
 - pkg:maven/info.unterrainer.commons/serialization@0.2.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/serialization@0.2.2
 - pkg:maven/info.unterrainer.commons/serialization@0.2.2?classifier=sources
@@ -35,3 +38,4 @@
 - pkg:maven/info.unterrainer.commons/serialization@0.2.3?classifier=sources
 - pkg:maven/info.unterrainer.commons/serialization@0.2.4
 - pkg:maven/info.unterrainer.commons/serialization@0.2.4?classifier=sources
+- pkg:maven/info.unterrainer.commons/serialization@1.0.1?classifier=sources
